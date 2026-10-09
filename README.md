@@ -1,4 +1,4 @@
-# 📚 Porua — Study Smart, Not Hard
+# 📚 Porua — Learn from your mistake
 
 ![Porua App](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android)
 ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat)
