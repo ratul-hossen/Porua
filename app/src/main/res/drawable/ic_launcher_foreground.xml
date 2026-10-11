@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Red P -->
+    <path
+        android:fillColor="#E11D2E"
+        android:pathData="M38,32 H54 C62,32 68,37 68,45 C68,53 62,58 54,58 H46 V76 H38 Z M46,39 V51 H54 C58,51 61,49 61,45 C61,41 58,39 54,39 Z" />
+    <!-- Sparkle ✦ -->
+    <path
+        android:fillColor="#0A0A0A"
+        android:pathData="M73,34 Q73,38 77,38 Q73,38 73,42 Q73,38 69,38 Q73,38 73,34 Z" />
+</vector>
