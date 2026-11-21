@@ -1,3 +1,82 @@
 <resources>
     <string name="app_name">Porua</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Porua</string>
+    <string name="welcome_tagline">Smart Study Platform for HSC (Class 11 &amp; 12)</string>
+    <string name="welcome_engine_tag">Porua AI Study Engine</string>
+    <string name="welcome_target_title">Target: 100% Readiness</string>
+    <string name="welcome_target_desc">Comprehensive HSC Exam Preparation</string>
+    <string name="welcome_sm2_pill">Personalized SM-2 Spaced Repetition</string>
+    <string name="welcome_offline_tag">100% Offline • No Internet Required</string>
+    <string name="welcome_description">Master concepts, solve chapter-wise MCQs, and track your revision timeline for the best HSC exam performance.</string>
+    <string name="welcome_feature_1_title">Identify Weak Topics</string>
+    <string name="welcome_feature_1_desc">Personalized mastery analysis based on your accuracy</string>
+    <string name="welcome_feature_2_title">Daily Study Plan</string>
+    <string name="welcome_feature_2_desc">Smart schedule tailored around your exam timeline</string>
+    <string name="welcome_feature_3_title">Offline Practice</string>
+    <string name="welcome_feature_3_desc">Access questions, MCQs, and notes without internet</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="btn_login">Log In</string>
+
+    <!-- Sign Up Screen -->
+    <string name="signup_title">Create an Account</string>
+    <string name="signup_subtitle">Enter your details to start your HSC preparation</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="placeholder_full_name">e.g. Sakib Ahmed</string>
+    <string name="label_email_or_phone">Email or Phone Number</string>
+    <string name="placeholder_email_or_phone">student@gmail.com or 017xxxxxxxx</string>
+    <string name="label_password">Password</string>
+    <string name="placeholder_password">At least 6 characters</string>
+    <string name="label_select_group">Select HSC Group</string>
+    <string name="label_select_class">Select Class</string>
+    <string name="group_science">Science</string>
+    <string name="group_humanities">Humanities</string>
+    <string name="group_business">Business Studies</string>
+    <string name="class_11">Class 11</string>
+    <string name="class_12">Class 12</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="log_in_action">Log in</string>
+
+    <!-- Sign Up & Login Validations -->
+    <string name="err_name_empty">Please enter your full name</string>
+    <string name="err_contact_empty">Please enter your email or phone number</string>
+    <string name="err_email_invalid">Please enter a valid email address</string>
+    <string name="err_phone_invalid">Please enter a valid 11-digit phone number</string>
+    <string name="err_password_empty">Please enter a password</string>
+    <string name="err_password_short">Password must be at least 6 characters</string>
+    <string name="err_group_empty">Please select your study group</string>
+    <string name="err_class_empty">Please select your class</string>
+    <string name="err_signup_failed">Failed to create account. Please try again.</string>
+    <string name="err_login_failed">Login failed. Please check your credentials and try again.</string>
+    <string name="err_account_not_found">No account found with this email or phone number.</string>
+    <string name="err_password_incorrect">Incorrect password. Please try again.</string>
+    <string name="err_no_saved_account">No saved account found. Please create a new account.</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Log In</string>
+    <string name="login_subtitle">Log in to your Porua account to continue studying</string>
+    <string name="placeholder_login_contact">Your registered email or phone</string>
+    <string name="placeholder_login_password">Enter your password</string>
+    <string name="no_account_prompt">Don\'t have an account? </string>
+    <string name="sign_up_action">Create a new account</string>
+
+    <!-- Settings / Me Screen -->
+    <string name="btn_logout">Log Out</string>
+
+    <!-- Practice & Group Selection -->
+    <string name="select_group_title">Select Your Group</string>
+    <string name="select_group_subtitle">Subjects and questions will be loaded based on your HSC stream.</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="subjects_count">%1$d subjects available</string>
+    <string name="chapters_count">%1$d chapters</string>
+    <string name="mcq_practice">MCQ Practice</string>
+    <string name="short_questions">Short Questions</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="next_question">Next Question</string>
+    <string name="finish">Finish</string>
+    <string name="go_back">Go Back</string>
+    <string name="correct_answer">Correct answer! 🎉</string>
+    <string name="incorrect_answer">Incorrect. Correct answer: %1$s</string>
 </resources>

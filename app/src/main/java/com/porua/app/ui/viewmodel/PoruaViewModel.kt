@@ -3,12 +3,17 @@ package com.porua.app.ui.viewmodel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
+import com.porua.app.data.ai.AiHelper
+import com.porua.app.data.auth.AuthDataStore
 import com.porua.app.data.local.entity.ChapterEntity
 import com.porua.app.data.local.entity.QuestionEntity
+import com.porua.app.data.local.entity.QuizAttemptEntity
 import com.porua.app.data.local.entity.StudyTaskEntity
 import com.porua.app.data.local.entity.SubjectEntity
 import com.porua.app.data.local.entity.UserProfileEntity
 import com.porua.app.data.repository.PoruaRepository
+import com.porua.app.domain.countdown.CountdownResult
+import com.porua.app.domain.countdown.ExamDateProvider
 import com.porua.app.domain.sm2.Sm2Algorithm
 import com.porua.app.domain.sm2.Sm2Rating
 import kotlinx.coroutines.flow.MutableSharedFlow
@@ -26,6 +31,14 @@ data class PoruaUiState(
     val currentSubjectChapters: List<ChapterEntity> = emptyList(),
     val selectedSubjectId: String = "chem",
     val studyTasks: List<StudyTaskEntity> = emptyList(),
+    val quizAttempts: List<QuizAttemptEntity> = emptyList(),
+    val countdownResult: CountdownResult = CountdownResult.Upcoming(
+        daysRemaining = 0,
+        examYear = 2027,
+        examDate = java.time.LocalDate.of(2027, 4, 1),
+        formattedTarget = "HSC 2027 • April"
+    ),
+    val isExamYearConfigured: Boolean = true,
 
     // Quiz Session State
     val currentQuestions: List<QuestionEntity> = emptyList(),
@@ -37,20 +50,7 @@ data class PoruaUiState(
     val sm2RatingRecorded: Sm2Rating? = null,
 
     // AI Chat State
-    val chatMessages: List<ChatMessage> = listOf(
-        ChatMessage(
-            id = 1,
-            sender = ChatSender.USER,
-            text = "How do I find the emf of a Daniell cell? I keep getting the sign wrong."
-        ),
-        ChatMessage(
-            id = 2,
-            sender = ChatSender.PORUA_AI,
-            text = "Step 1 — Anode (oxidation): Zn -> Zn²⁺ + 2e⁻, E° = -0.76 V\nStep 2 — Cathode (reduction): Cu²⁺ + 2e⁻ -> Cu, E° = +0.34 V\nStep 3 — E°cell = E°cathode - E°anode = 0.34 - (-0.76) = 1.10 V",
-            answerSummary = "1.10 V",
-            syllabusNote = "NCTB HSC Chemistry 2nd paper, Ch 4"
-        )
-    ),
+    val chatMessages: List<ChatMessage> = emptyList(),
     val isAiTyping: Boolean = false,
     val showCloudConsent: Boolean = false,
 
@@ -69,7 +69,10 @@ data class ChatMessage(
 
 enum class ChatSender { USER, PORUA_AI }
 
-class PoruaViewModel(private val repository: PoruaRepository) : ViewModel() {
+class PoruaViewModel(
+    private val repository: PoruaRepository,
+    private val authDataStore: AuthDataStore? = null
+) : ViewModel() {
 
     private val _uiState = MutableStateFlow(PoruaUiState())
     val uiState: StateFlow<PoruaUiState> = _uiState.asStateFlow()
@@ -78,6 +81,9 @@ class PoruaViewModel(private val repository: PoruaRepository) : ViewModel() {
     val eventFlow: SharedFlow<String> = _eventFlow.asSharedFlow()
 
     init {
+        viewModelScope.launch {
+            repository.ensureInitialData()
+        }
         observeData()
     }
 
@@ -85,7 +91,26 @@ class PoruaViewModel(private val repository: PoruaRepository) : ViewModel() {
         viewModelScope.launch {
             repository.getUserProfile().collect { profile ->
                 if (profile != null) {
-                    _uiState.update { it.copy(userProfile = profile) }
+                    val yearInt = profile.examYear.toIntOrNull() ?: ExamDateProvider.getAvailableExamYears().first()
+                    val countdown = ExamDateProvider.calculateCountdown(yearInt)
+                    _uiState.update {
+                        it.copy(
+                            userProfile = profile,
+                            countdownResult = countdown
+                        )
+                    }
+                }
+            }
+        }
+
+        if (authDataStore != null) {
+            viewModelScope.launch {
+                authDataStore.examYear.collect { storedYear ->
+                    val isConfigured = !storedYear.isNullOrBlank()
+                    _uiState.update { it.copy(isExamYearConfigured = isConfigured) }
+                    if (!storedYear.isNullOrBlank() && storedYear != _uiState.value.userProfile.examYear) {
+                        setExamYear(storedYear)
+                    }
                 }
             }
         }
@@ -109,6 +134,12 @@ class PoruaViewModel(private val repository: PoruaRepository) : ViewModel() {
         }
 
         viewModelScope.launch {
+            repository.getAllQuizAttempts().collect { attempts ->
+                _uiState.update { it.copy(quizAttempts = attempts) }
+            }
+        }
+
+        viewModelScope.launch {
             repository.getQuestionsBySubject("chem").collect { questions ->
                 _uiState.update {
                     it.copy(
@@ -116,6 +147,18 @@ class PoruaViewModel(private val repository: PoruaRepository) : ViewModel() {
                         similarOfflineQuestions = questions.take(3)
                     )
                 }
+            }
+        }
+
+        // Load chat history from Room Database
+        viewModelScope.launch {
+            repository.getAllChats().collect { savedChats ->
+                val messages = mutableListOf<ChatMessage>()
+                savedChats.forEach { chat ->
+                    messages.add(ChatMessage(id = chat.id * 2, sender = ChatSender.USER, text = chat.prompt))
+                    messages.add(ChatMessage(id = chat.id * 2 + 1, sender = ChatSender.PORUA_AI, text = chat.reply, answerSummary = ""))
+                }
+                _uiState.update { it.copy(chatMessages = messages) }
             }
         }
     }
@@ -219,13 +262,19 @@ class PoruaViewModel(private val repository: PoruaRepository) : ViewModel() {
         }
     }
 
-    // AI Chat Interaction
-    fun sendChatMessage(text: String) {
-        if (text.isBlank()) return
+    // AI Chat Interaction (Google & Grok API + Room DB Save + Image Support)
+    fun sendChatMessage(
+        text: String,
+        imageBase64: String? = null,
+        mimeType: String = "image/jpeg",
+        useGrok: Boolean = false
+    ) {
+        if (text.isBlank() && imageBase64.isNullOrBlank()) return
+        val displayText = if (!imageBase64.isNullOrBlank() && text.isBlank()) "[Attached Image]" else text
         val userMsg = ChatMessage(
             id = System.currentTimeMillis(),
             sender = ChatSender.USER,
-            text = text
+            text = displayText
         )
 
         _uiState.update {
@@ -235,27 +284,51 @@ class PoruaViewModel(private val repository: PoruaRepository) : ViewModel() {
             )
         }
 
-        // Simulate intelligent offline / Gemini tutor response
         viewModelScope.launch {
-            kotlinx.coroutines.delay(1200)
-            val aiMsg = ChatMessage(
-                id = System.currentTimeMillis() + 1,
-                sender = ChatSender.PORUA_AI,
-                text = "Here is a practice question on this topic:\n\nFor the cell Cu | Cu²⁺ (1 M) || Ag⁺ (1 M) | Ag, calculate E°cell given E°(Cu²⁺/Cu) = +0.34 V and E°(Ag⁺/Ag) = +0.80 V.\n\nE°cell = E°cathode - E°anode = 0.80 - 0.34 = +0.46 V.",
-                answerSummary = "0.46 V",
-                syllabusNote = "NCTB HSC Chemistry 2nd paper, Ch 4"
-            )
-            _uiState.update {
-                it.copy(
-                    chatMessages = it.chatMessages + aiMsg,
-                    isAiTyping = false
-                )
+            try {
+                // 1. Check local offline cache first for instant responses
+                val cached = if (imageBase64.isNullOrBlank()) repository.getCachedReply(text) else null
+                val aiResponse = if (!cached.isNullOrBlank()) {
+                    cached
+                } else if (useGrok) {
+                    AiHelper.askGrok(text.ifBlank { "Please solve or explain this question in detail." }, imageBase64, mimeType)
+                } else {
+                    AiHelper.askAi(text.ifBlank { "Please solve or explain this question in detail." }, imageBase64, mimeType)
+                }
+
+                // Save conversation to Room Database (Flow will automatically emit updated messages to UI)
+                repository.saveChat(prompt = displayText, reply = aiResponse)
+            } catch (e: Exception) {
+                val fallback = "I encountered an issue processing your question: ${e.localizedMessage ?: "Unknown error"}. Please check your connection."
+                repository.saveChat(prompt = displayText, reply = fallback)
+            } finally {
+                _uiState.update { it.copy(isAiTyping = false) }
             }
         }
     }
 
     fun setShowCloudConsent(show: Boolean) {
         _uiState.update { it.copy(showCloudConsent = show) }
+    }
+
+    /**
+     * Starts a completely fresh chat session:
+     * - Wipes active chat messages from the screen.
+     * - Clears saved chat history from local database.
+     * - Clears in-memory query cache so no past context is retained.
+     */
+    fun startNewChat() {
+        viewModelScope.launch {
+            repository.clearAllChats()
+            AiHelper.clearCache()
+            _uiState.update {
+                it.copy(
+                    chatMessages = emptyList(),
+                    isAiTyping = false
+                )
+            }
+            _eventFlow.emit("Started fresh chat session")
+        }
     }
 
     // Settings & Exam updates
@@ -280,13 +353,143 @@ class PoruaViewModel(private val repository: PoruaRepository) : ViewModel() {
             _eventFlow.emit(if (updated.isOfflineMode) "Offline mode enabled." else "Online sync enabled.")
         }
     }
+
+    fun toggleCloudAi() {
+        val updated = _uiState.value.userProfile.copy(
+            cloudAiEnabled = !_uiState.value.userProfile.cloudAiEnabled
+        )
+        viewModelScope.launch {
+            repository.updateUserProfile(updated)
+            _eventFlow.emit(if (updated.cloudAiEnabled) "Cloud AI enabled." else "Cloud AI disabled.")
+        }
+    }
+
+    fun toggleSubjectSelected(subjectId: String) {
+        viewModelScope.launch {
+            val subject = _uiState.value.subjects.find { it.id == subjectId } ?: return@launch
+            repository.updateSubject(subject.copy(isSelected = !subject.isSelected))
+        }
+    }
+
+    fun updateSelectedSubjects(subjectIds: List<String>) {
+        viewModelScope.launch {
+            _uiState.value.subjects.forEach { subject ->
+                val shouldBeSelected = subjectIds.contains(subject.id)
+                if (subject.isSelected != shouldBeSelected) {
+                    repository.updateSubject(subject.copy(isSelected = shouldBeSelected))
+                }
+            }
+        }
+    }
+
+    fun refreshCountdown() {
+        val currentYear = _uiState.value.userProfile.examYear.toIntOrNull()
+            ?: ExamDateProvider.getAvailableExamYears().first()
+        val countdown = ExamDateProvider.calculateCountdown(currentYear)
+        val updatedDays = when (countdown) {
+            is CountdownResult.Upcoming -> countdown.daysRemaining.toInt()
+            is CountdownResult.Today -> 0
+            is CountdownResult.Passed -> 0
+        }
+        val updatedDate = ExamDateProvider.formatExamDate(currentYear)
+        _uiState.update { state ->
+            state.copy(
+                countdownResult = countdown,
+                userProfile = state.userProfile.copy(
+                    daysRemaining = updatedDays,
+                    examDate = updatedDate
+                )
+            )
+        }
+    }
+
+    fun setExamYear(year: String) {
+        val yearInt = year.toIntOrNull() ?: return
+        viewModelScope.launch {
+            authDataStore?.saveExamYear(year)
+            val currentProfile = _uiState.value.userProfile
+            val updatedDate = ExamDateProvider.formatExamDate(yearInt)
+            val countdown = ExamDateProvider.calculateCountdown(yearInt)
+            val updatedDays = when (countdown) {
+                is CountdownResult.Upcoming -> countdown.daysRemaining.toInt()
+                is CountdownResult.Today -> 0
+                is CountdownResult.Passed -> 0
+            }
+            val updatedProfile = currentProfile.copy(
+                examYear = year,
+                examDate = updatedDate,
+                daysRemaining = updatedDays
+            )
+            repository.updateUserProfile(updatedProfile)
+            _uiState.update { state ->
+                state.copy(
+                    userProfile = updatedProfile,
+                    countdownResult = countdown,
+                    isExamYearConfigured = true
+                )
+            }
+            _eventFlow.emit("Target exam year set to $year!")
+        }
+    }
+
+    fun updateStudentProfile(
+        name: String,
+        track: String,
+        group: String,
+        year: String,
+        examDate: String,
+        dailyStudyTime: String,
+        selectedSubjectIds: List<String>? = null
+    ) {
+        viewModelScope.launch {
+            val yearInt = year.toIntOrNull() ?: ExamDateProvider.getAvailableExamYears().first()
+            val countdown = ExamDateProvider.calculateCountdown(yearInt)
+            val updatedDays = when (countdown) {
+                is CountdownResult.Upcoming -> countdown.daysRemaining.toInt()
+                is CountdownResult.Today -> 0
+                is CountdownResult.Passed -> 0
+            }
+            val formattedExamDate = ExamDateProvider.formatExamDate(yearInt)
+            authDataStore?.saveExamYear(year)
+            val current = _uiState.value.userProfile
+            val updated = current.copy(
+                name = name.trim(),
+                examTrack = track.trim(),
+                group = group.trim(),
+                examYear = year.trim(),
+                examDate = formattedExamDate,
+                daysRemaining = updatedDays,
+                dailyStudyTime = dailyStudyTime.trim()
+            )
+            repository.updateUserProfile(updated)
+            if (selectedSubjectIds != null) {
+                _uiState.value.subjects.forEach { subject ->
+                    val shouldBeSelected = selectedSubjectIds.contains(subject.id)
+                    if (subject.isSelected != shouldBeSelected) {
+                        repository.updateSubject(subject.copy(isSelected = shouldBeSelected))
+                    }
+                }
+            }
+            _uiState.update {
+                it.copy(
+                    userProfile = updated,
+                    countdownResult = countdown,
+                    isExamYearConfigured = true
+                )
+            }
+            _eventFlow.emit("Profile and exam settings saved successfully!")
+        }
+    }
 }
 
-class PoruaViewModelFactory(private val repository: PoruaRepository) : ViewModelProvider.Factory {
+class PoruaViewModelFactory(
+    private val repository: PoruaRepository,
+    private val authDataStore: AuthDataStore? = null
+) : ViewModelProvider.Factory {
     override fun <T : ViewModel> create(modelClass: Class<T>): T {
         if (modelClass.isAssignableFrom(PoruaViewModel::class.java)) {
             @Suppress("UNCHECKED_CAST")
-            return PoruaViewModel(repository) as T
+            return PoruaViewModel(repository, authDataStore) as T
         }
         throw IllegalArgumentException("Unknown ViewModel class")
     }

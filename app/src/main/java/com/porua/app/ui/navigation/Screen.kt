@@ -3,6 +3,8 @@ package com.porua.app.ui.navigation
 sealed class Screen(val route: String) {
     object Splash : Screen("splash")
     object Welcome : Screen("welcome")
+    object SignUp : Screen("sign_up")
+    object Login : Screen("login")
     object ExamTrack : Screen("exam_track")
     object SubjectsDate : Screen("subjects_date")
     object DiagnosticIntro : Screen("diagnostic_intro")
@@ -16,4 +18,24 @@ sealed class Screen(val route: String) {
     object Progress : Screen("progress")
     object Plan : Screen("plan")
     object Me : Screen("me")
+
+    // ── Content (JSON-based) screens ─────────────────────────────────────────
+    object GroupSelection : Screen("group_selection")
+    object ContentSubjects : Screen("content_subjects/{group}") {
+        fun createRoute(group: String) = "content_subjects/$group"
+    }
+    object ContentChapters : Screen("content_chapters/{subjectId}/{subjectName}") {
+        fun createRoute(subjectId: String, subjectName: String) =
+            "content_chapters/$subjectId/${android.net.Uri.encode(subjectName)}"
+    }
+    object ContentPractice : Screen("content_practice/{subjectId}/{chapterIndex}/{mode}") {
+        fun createRoute(subjectId: String, chapterIndex: Int, mode: String) =
+            "content_practice/$subjectId/$chapterIndex/$mode"
+    }
+
+    // ── Coursera-Style 20-Question MCQ Quiz ──────────────────────────────────
+    object Quiz : Screen("quiz/{subjectId}?chapterNumber={chapterNumber}") {
+        fun createRoute(subjectId: String, chapterNumber: Int? = null) =
+            if (chapterNumber != null) "quiz/$subjectId?chapterNumber=$chapterNumber" else "quiz/$subjectId"
+    }
 }

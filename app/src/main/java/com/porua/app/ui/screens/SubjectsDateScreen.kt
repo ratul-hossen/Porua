@@ -45,6 +45,8 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.porua.app.domain.countdown.CountdownResult
+import com.porua.app.domain.countdown.ExamDateProvider
 import com.porua.app.ui.components.PoruaFilterChip
 import com.porua.app.ui.components.PoruaPrimaryButton
 import com.porua.app.ui.theme.LocalPoruaColors
@@ -219,6 +221,14 @@ fun SubjectsDateScreen(
 
             Spacer(modifier = Modifier.width(12.dp))
 
+            val examCountdown = remember { ExamDateProvider.calculateCountdown(2027) }
+            val daysText = when (examCountdown) {
+                is CountdownResult.Upcoming -> "${examCountdown.daysRemaining} days"
+                is CountdownResult.Today -> "Today"
+                is CountdownResult.Passed -> "Passed"
+            }
+            val formattedExamDate = remember { ExamDateProvider.formatExamDate(2027) }
+
             Column(modifier = Modifier.weight(1f)) {
                 Text(
                     text = "Exam date",
@@ -226,14 +236,14 @@ fun SubjectsDateScreen(
                     color = colors.textMuted
                 )
                 Text(
-                    text = "HSC • 12 Apr 2027",
+                    text = "HSC • $formattedExamDate",
                     fontSize = 14.sp,
                     fontWeight = FontWeight.Bold,
                     color = colors.text
                 )
             }
 
-            // Badge "186 days"
+            // Dynamic days badge
             Box(
                 modifier = Modifier
                     .clip(ShapeFull)
@@ -241,7 +251,7 @@ fun SubjectsDateScreen(
                     .padding(horizontal = 10.dp, vertical = 4.dp)
             ) {
                 Text(
-                    text = "186 days",
+                    text = daysText,
                     fontSize = 12.sp,
                     fontWeight = FontWeight.SemiBold,
                     color = colors.text

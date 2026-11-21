@@ -1,0 +1,878 @@
+{
+  "class": "HSC 12th Class",
+  "stream": "Science",
+  "subject": "Biology",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "subject_codes": {
+    "1st_paper": 178,
+    "2nd_paper": 179
+  },
+  "source_pdf": "Bangladesh_HSC_Biology_Complete_1st_and_2nd_Paper_Guide_with_Answers(1).pdf",
+  "papers": [
+    {
+      "name": "1st Paper",
+      "chapter_count": 12
+    },
+    {
+      "name": "2nd Paper",
+      "chapter_count": 12
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Cell and its Structure",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "The cell is the basic structural and functional unit of life. Prokaryotic cells lack a membrane-bound nucleus, while\n eukaryotic cells contain one. The plasma membrane regulates exchange; organelles perform specialised functions;\n chromosomes and nucleic acids carry hereditary information.",
+        "key_terms": [
+          "Cell theory: organisms consist of cells; the cell is the basic unit of life.",
+          "The plasma membrane is selectively permeable and is explained by the fluid-mosaic model.",
+          "Mitochondria produce most cellular ATP through aerobic respiration; chloroplasts carry out photosynthesis in plants.",
+          "Ribosomes synthesise proteins; the endoplasmic reticulum and Golgi apparatus process and transport materials."
+        ],
+        "study_notes": [
+          "Cell theory: organisms consist of cells; the cell is the basic unit of life.",
+          "The plasma membrane is selectively permeable and is explained by the fluid-mosaic model.",
+          "Mitochondria produce most cellular ATP through aerobic respiration; chloroplasts carry out photosynthesis in plants.",
+          "Ribosomes synthesise proteins; the endoplasmic reticulum and Golgi apparatus process and transport materials.",
+          "DNA stores hereditary information; genes are functional sequences of DNA."
+        ],
+        "short_questions": "What is a cell?\n\n    Answer: A cell is the smallest structural and functional unit of a living organism, capable of carrying out essential life\n    processes.\n\n What is a selectively permeable membrane?\n\n    Answer: A selectively permeable membrane allows some substances to pass through while restricting others.",
+        "long_questions": "Describe the structure and functions of the plasma membrane.\n\n    Answer: The plasma membrane is a thin, flexible boundary made mainly of a phospholipid bilayer with embedded\n    proteins, cholesterol and carbohydrate chains. Hydrophilic heads face the watery environments and hydrophobic tails\n    face inward. It separates the cell from its surroundings, controls movement of substances, receives signals, supports\n    cell recognition and helps maintain homeostasis.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Which organelle is the main site of aerobic ATP production? A. Ribosome B. Mitochondrion C. Golgi apparatus D. Lysosome Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Which structure controls the movement of substances into and out of a cell? A. Cell wall B. Nucleolus C. Plasma membrane D. Chromosome Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 4"
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 1: Cell and its Structure\n Chapter overview\n The cell is the basic structural and functional unit of life. Prokaryotic cells lack a membrane-bound nucleus, while\n eukaryotic cells contain one. The plasma membrane regulates exchange; organelles perform specialised functions;\n chromosomes and nucleic acids carry hereditary information.\n\n Key terms\n • Cell theory: organisms consist of cells; the cell is the basic unit of life.\n\n • The plasma membrane is selectively permeable and is explained by the fluid-mosaic model.\n\n • Mitochondria produce most cellular ATP through aerobic respiration; chloroplasts carry out photosynthesis in plants.\n\n • Ribosomes synthesise proteins; the endoplasmic reticulum and Golgi apparatus process and transport materials.\n\n Study notes: important concepts and processes\n • Cell theory: organisms consist of cells; the cell is the basic unit of life.\n\n • The plasma membrane is selectively permeable and is explained by the fluid-mosaic model.\n\n • Mitochondria produce most cellular ATP through aerobic respiration; chloroplasts carry out photosynthesis in plants.\n\n • Ribosomes synthesise proteins; the endoplasmic reticulum and Golgi apparatus process and transport materials.\n\n • DNA stores hereditary information; genes are functional sequences of DNA.\n\n Short-answer practice — model answers\n What is a cell?\n\n    Answer: A cell is the smallest structural and functional unit of a living organism, capable of carrying out essential life\n    processes.\n\n What is a selectively permeable membrane?\n\n    Answer: A selectively permeable membrane allows some substances to pass through while restricting others.\n\n Long-answer practice — model answer\n Describe the structure and functions of the plasma membrane.\n\n    Answer: The plasma membrane is a thin, flexible boundary made mainly of a phospholipid bilayer with embedded\n    proteins, cholesterol and carbohydrate chains. Hydrophilic heads face the watery environments and hydrophobic tails\n    face inward. It separates the cell from its surroundings, controls movement of substances, receives signals, supports\n    cell recognition and helps maintain homeostasis.\n\n Multiple-choice questions\n 1. Which organelle is the main site of aerobic ATP production?\n\n A. Ribosome      B. Mitochondrion     C. Golgi apparatus      D. Lysosome\n\n Answer: B\n\n 2. Which structure controls the movement of substances into and out of a cell?\n\n A. Cell wall   B. Nucleolus    C. Plasma membrane         D. Chromosome\n\n Answer: C\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Cell Division",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Cell division produces new cells for growth, repair and reproduction. Mitosis usually produces two genetically similar\n daughter cells, whereas meiosis reduces chromosome number and produces genetically varied cells for sexual\n reproduction.",
+        "key_terms": [
+          "Interphase includes G1, S and G2; DNA is replicated during S phase.",
+          "Mitosis proceeds through prophase, metaphase, anaphase and telophase, followed by cytokinesis.",
+          "Meiosis consists of two divisions after one DNA replication; homologous chromosomes pair in prophase I.",
+          "Crossing over and independent assortment contribute to genetic variation."
+        ],
+        "study_notes": [
+          "Interphase includes G1, S and G2; DNA is replicated during S phase.",
+          "Mitosis proceeds through prophase, metaphase, anaphase and telophase, followed by cytokinesis.",
+          "Meiosis consists of two divisions after one DNA replication; homologous chromosomes pair in prophase I.",
+          "Crossing over and independent assortment contribute to genetic variation.",
+          "Uncontrolled cell-cycle regulation can contribute to tumour formation."
+        ],
+        "short_questions": "What is mitosis?\n\n    Answer: Mitosis is nuclear division that normally produces two daughter nuclei with the same chromosome number as\n    the parent nucleus.\n\n What is crossing over?\n\n    Answer: Crossing over is the exchange of corresponding DNA segments between non-sister chromatids of\n    homologous chromosomes during prophase I of meiosis.",
+        "long_questions": "Differentiate between mitosis and meiosis.\n\n    Answer: Mitosis involves one nuclear division and normally produces two genetically similar cells with the same\n    chromosome number as the parent. It supports growth, repair and asexual reproduction. Meiosis involves two\n    successive divisions after one DNA replication and normally produces four haploid cells. Homologous pairing, crossing\n    over and independent assortment occur in meiosis, creating variation and reducing chromosome number for sexual\n    reproduction.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "During which stage do chromosomes line up at the equator in mitosis? A. Prophase B. Metaphase C. Anaphase D. Telophase Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "DNA replication occurs mainly during which part of the cell cycle? A. G1 phase B. S phase C. G2 phase D. M phase Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 5"
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 2: Cell Division\n Chapter overview\n Cell division produces new cells for growth, repair and reproduction. Mitosis usually produces two genetically similar\n daughter cells, whereas meiosis reduces chromosome number and produces genetically varied cells for sexual\n reproduction.\n\n Key terms\n • Interphase includes G1, S and G2; DNA is replicated during S phase.\n\n • Mitosis proceeds through prophase, metaphase, anaphase and telophase, followed by cytokinesis.\n\n • Meiosis consists of two divisions after one DNA replication; homologous chromosomes pair in prophase I.\n\n • Crossing over and independent assortment contribute to genetic variation.\n\n Study notes: important concepts and processes\n • Interphase includes G1, S and G2; DNA is replicated during S phase.\n\n • Mitosis proceeds through prophase, metaphase, anaphase and telophase, followed by cytokinesis.\n\n • Meiosis consists of two divisions after one DNA replication; homologous chromosomes pair in prophase I.\n\n • Crossing over and independent assortment contribute to genetic variation.\n\n • Uncontrolled cell-cycle regulation can contribute to tumour formation.\n\n Short-answer practice — model answers\n What is mitosis?\n\n    Answer: Mitosis is nuclear division that normally produces two daughter nuclei with the same chromosome number as\n    the parent nucleus.\n\n What is crossing over?\n\n    Answer: Crossing over is the exchange of corresponding DNA segments between non-sister chromatids of\n    homologous chromosomes during prophase I of meiosis.\n\n Long-answer practice — model answer\n Differentiate between mitosis and meiosis.\n\n    Answer: Mitosis involves one nuclear division and normally produces two genetically similar cells with the same\n    chromosome number as the parent. It supports growth, repair and asexual reproduction. Meiosis involves two\n    successive divisions after one DNA replication and normally produces four haploid cells. Homologous pairing, crossing\n    over and independent assortment occur in meiosis, creating variation and reducing chromosome number for sexual\n    reproduction.\n\n Multiple-choice questions\n 1. During which stage do chromosomes line up at the equator in mitosis?\n\n A. Prophase     B. Metaphase     C. Anaphase     D. Telophase\n\n Answer: B\n\n 2. DNA replication occurs mainly during which part of the cell cycle?\n\n A. G1 phase     B. S phase     C. G2 phase     D. M phase\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Cell Chemistry",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Living cells contain inorganic substances and organic biomolecules. Water, mineral ions, carbohydrates, lipids, proteins\n and nucleic acids support cell structure, energy transfer, catalysis and inheritance.",
+        "key_terms": [
+          "Carbohydrates provide energy and structural materials; monosaccharides are their simplest units.",
+          "Proteins are polymers of amino acids joined by peptide bonds and perform structural, transport and catalytic roles.",
+          "Lipids include fats, oils, phospholipids and steroids; many are hydrophobic.",
+          "Enzymes are biological catalysts that lower activation energy and show substrate specificity."
+        ],
+        "study_notes": [
+          "Carbohydrates provide energy and structural materials; monosaccharides are their simplest units.",
+          "Proteins are polymers of amino acids joined by peptide bonds and perform structural, transport and catalytic roles.",
+          "Lipids include fats, oils, phospholipids and steroids; many are hydrophobic.",
+          "Enzymes are biological catalysts that lower activation energy and show substrate specificity.",
+          "DNA and RNA are nucleic acids built from nucleotide units."
+        ],
+        "short_questions": "What is an enzyme?\n\n    Answer: An enzyme is a biological catalyst, usually a protein, that speeds up a chemical reaction without being\n    consumed.\n\n What is a peptide bond?\n\n    Answer: A peptide bond is the covalent bond that links the carboxyl group of one amino acid to the amino group of\n    another.",
+        "long_questions": "Explain the factors that affect enzyme activity.\n\n    Answer: Enzyme activity depends on temperature, pH, substrate concentration and enzyme concentration. Activity\n    generally rises with temperature to an optimum, after which denaturation reduces activity. Each enzyme has an\n    optimum pH. Increasing substrate concentration raises the rate until active sites become saturated. Inhibitors may\n    reduce activity by binding to the active site or another site.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Which biomolecule is made from amino acids? A. Carbohydrate B. Protein C. Triglyceride D. Starch Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Enzymes speed reactions mainly by lowering: A. Activation energy B. Product energy only C. Temperature D. pH Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 3: Cell Chemistry\n Chapter overview\n Living cells contain inorganic substances and organic biomolecules. Water, mineral ions, carbohydrates, lipids, proteins\n and nucleic acids support cell structure, energy transfer, catalysis and inheritance.\n\n Key terms\n • Carbohydrates provide energy and structural materials; monosaccharides are their simplest units.\n\n • Proteins are polymers of amino acids joined by peptide bonds and perform structural, transport and catalytic roles.\n\n • Lipids include fats, oils, phospholipids and steroids; many are hydrophobic.\n\n • Enzymes are biological catalysts that lower activation energy and show substrate specificity.\n\n Study notes: important concepts and processes\n • Carbohydrates provide energy and structural materials; monosaccharides are their simplest units.\n\n • Proteins are polymers of amino acids joined by peptide bonds and perform structural, transport and catalytic roles.\n\n • Lipids include fats, oils, phospholipids and steroids; many are hydrophobic.\n\n • Enzymes are biological catalysts that lower activation energy and show substrate specificity.\n\n • DNA and RNA are nucleic acids built from nucleotide units.\n\n Short-answer practice — model answers\n What is an enzyme?\n\n    Answer: An enzyme is a biological catalyst, usually a protein, that speeds up a chemical reaction without being\n    consumed.\n\n What is a peptide bond?\n\n    Answer: A peptide bond is the covalent bond that links the carboxyl group of one amino acid to the amino group of\n    another.\n\n Long-answer practice — model answer\n Explain the factors that affect enzyme activity.\n\n    Answer: Enzyme activity depends on temperature, pH, substrate concentration and enzyme concentration. Activity\n    generally rises with temperature to an optimum, after which denaturation reduces activity. Each enzyme has an\n    optimum pH. Increasing substrate concentration raises the rate until active sites become saturated. Inhibitors may\n    reduce activity by binding to the active site or another site.\n\n Multiple-choice questions\n 1. Which biomolecule is made from amino acids?\n\n A. Carbohydrate     B. Protein   C. Triglyceride   D. Starch\n\n Answer: B\n\n 2. Enzymes speed reactions mainly by lowering:\n\n A. Activation energy    B. Product energy only     C. Temperature   D. pH\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Microorganisms",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Microorganisms include viruses, bacteria, protozoa and microscopic fungi. They influence health, ecosystems, food\n production and industry. Some cause disease, while others recycle nutrients or are useful in biotechnology.",
+        "key_terms": [
+          "Viruses are acellular and replicate only inside suitable host cells.",
+          "Bacteria are prokaryotes; their DNA is not enclosed in a membrane-bound nucleus.",
+          "Bacteria may reproduce by binary fission and exchange genes through mechanisms such as conjugation.",
+          "Protozoa are eukaryotic; Plasmodium causes malaria and is transmitted by female Anopheles mosquitoes."
+        ],
+        "study_notes": [
+          "Viruses are acellular and replicate only inside suitable host cells.",
+          "Bacteria are prokaryotes; their DNA is not enclosed in a membrane-bound nucleus.",
+          "Bacteria may reproduce by binary fission and exchange genes through mechanisms such as conjugation.",
+          "Protozoa are eukaryotic; Plasmodium causes malaria and is transmitted by female Anopheles mosquitoes.",
+          "Microorganisms are used in fermentation, medicine, agriculture and waste treatment."
+        ],
+        "short_questions": "Why are viruses called obligate intracellular parasites?\n\n    Answer: They can reproduce only inside living host cells because they depend on host-cell machinery.\n\n What causes malaria?\n\n    Answer: Malaria is caused by Plasmodium species, which are transmitted to humans through the bite of an infected\n    female Anopheles mosquito.",
+        "long_questions": "Describe the main differences between bacteria and viruses.\n\n    Answer: Bacteria are living prokaryotic cells with cellular organisation, cytoplasm, ribosomes and genetic material;\n    many reproduce independently by binary fission. Viruses are acellular particles containing DNA or RNA within a protein\n    coat, sometimes with an envelope. They lack their own metabolism and ribosomes and replicate only inside host cells.\n    Antibiotics may act against susceptible bacteria but do not treat viral infections.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Bacteria are classified as: A. Eukaryotes B. Prokaryotes C. Acellular particles D. Multicellular fungi Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The vector of human malaria is usually: A. Housefly B. Female Anopheles mosquito C. Male mosquito D. Tick Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 4: Microorganisms\n\n Chapter overview\n Microorganisms include viruses, bacteria, protozoa and microscopic fungi. They influence health, ecosystems, food\n production and industry. Some cause disease, while others recycle nutrients or are useful in biotechnology.\n\n Key terms\n • Viruses are acellular and replicate only inside suitable host cells.\n\n • Bacteria are prokaryotes; their DNA is not enclosed in a membrane-bound nucleus.\n\n • Bacteria may reproduce by binary fission and exchange genes through mechanisms such as conjugation.\n\n • Protozoa are eukaryotic; Plasmodium causes malaria and is transmitted by female Anopheles mosquitoes.\n\n Study notes: important concepts and processes\n • Viruses are acellular and replicate only inside suitable host cells.\n\n • Bacteria are prokaryotes; their DNA is not enclosed in a membrane-bound nucleus.\n\n • Bacteria may reproduce by binary fission and exchange genes through mechanisms such as conjugation.\n\n • Protozoa are eukaryotic; Plasmodium causes malaria and is transmitted by female Anopheles mosquitoes.\n\n • Microorganisms are used in fermentation, medicine, agriculture and waste treatment.\n\n Short-answer practice — model answers\n Why are viruses called obligate intracellular parasites?\n\n    Answer: They can reproduce only inside living host cells because they depend on host-cell machinery.\n\n What causes malaria?\n\n    Answer: Malaria is caused by Plasmodium species, which are transmitted to humans through the bite of an infected\n    female Anopheles mosquito.\n\n Long-answer practice — model answer\n Describe the main differences between bacteria and viruses.\n\n    Answer: Bacteria are living prokaryotic cells with cellular organisation, cytoplasm, ribosomes and genetic material;\n    many reproduce independently by binary fission. Viruses are acellular particles containing DNA or RNA within a protein\n    coat, sometimes with an envelope. They lack their own metabolism and ribosomes and replicate only inside host cells.\n    Antibiotics may act against susceptible bacteria but do not treat viral infections.\n\n Multiple-choice questions\n 1. Bacteria are classified as:\n\n A. Eukaryotes     B. Prokaryotes    C. Acellular particles   D. Multicellular fungi\n\n Answer: B\n\n 2. The vector of human malaria is usually:\n\n A. Housefly    B. Female Anopheles mosquito        C. Male mosquito      D. Tick\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Algae and Fungi",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Algae are mostly photosynthetic organisms, while fungi are heterotrophs that absorb nutrients. Both groups include\n organisms important in aquatic ecosystems, decomposition, food chains and human use.\n\nBangladesh HSC Biology | First & Second Paper                                                                                       Page 7",
+        "key_terms": [
+          "Algae may be unicellular, colonial or multicellular and contain photosynthetic pigments.",
+          "Fungal cell walls commonly contain chitin; their bodies are often made of hyphae forming a mycelium.",
+          "Fungi obtain nutrients by absorption and commonly reproduce by spores.",
+          "Lichens are associations between a fungus and a photosynthetic partner such as an alga or cyanobacterium."
+        ],
+        "study_notes": [
+          "Algae may be unicellular, colonial or multicellular and contain photosynthetic pigments.",
+          "Fungal cell walls commonly contain chitin; their bodies are often made of hyphae forming a mycelium.",
+          "Fungi obtain nutrients by absorption and commonly reproduce by spores.",
+          "Lichens are associations between a fungus and a photosynthetic partner such as an alga or cyanobacterium.",
+          "Algae contribute to aquatic primary production; fungi are major decomposers."
+        ],
+        "short_questions": "What is mycelium?\n\n    Answer: Mycelium is the network or mass of thread-like fungal hyphae that forms the vegetative body of many fungi.\n\n What is a lichen?\n\n    Answer: A lichen is a close association between a fungus and a photosynthetic partner, usually an alga or\n    cyanobacterium.",
+        "long_questions": "Explain the ecological importance of algae and fungi.\n\n    Answer: Algae are primary producers in aquatic ecosystems, releasing oxygen and forming the base of many food\n    webs. Some are used as food, fertilisers and industrial raw materials. Fungi decompose dead organic matter, recycle\n    nutrients, form beneficial associations such as mycorrhizae, and are used in food production and medicine. Some\n    algae and fungi can also cause harmful blooms, spoilage or disease.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The main structural component of most fungal cell walls is: A. Cellulose B. Chitin C. Peptidoglycan D. Lignin Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "A lichen is an association between a fungus and: A. An animal B. A photosynthetic partner C. A virus D. A flowering plant root only Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 5: Algae and Fungi\n Chapter overview\n Algae are mostly photosynthetic organisms, while fungi are heterotrophs that absorb nutrients. Both groups include\n organisms important in aquatic ecosystems, decomposition, food chains and human use.\n\n Key terms\n • Algae may be unicellular, colonial or multicellular and contain photosynthetic pigments.\n\n • Fungal cell walls commonly contain chitin; their bodies are often made of hyphae forming a mycelium.\n\n • Fungi obtain nutrients by absorption and commonly reproduce by spores.\n\n • Lichens are associations between a fungus and a photosynthetic partner such as an alga or cyanobacterium.\n\n Study notes: important concepts and processes\n • Algae may be unicellular, colonial or multicellular and contain photosynthetic pigments.\n\n • Fungal cell walls commonly contain chitin; their bodies are often made of hyphae forming a mycelium.\n\n • Fungi obtain nutrients by absorption and commonly reproduce by spores.\n\n • Lichens are associations between a fungus and a photosynthetic partner such as an alga or cyanobacterium.\n\n • Algae contribute to aquatic primary production; fungi are major decomposers.\n\n Short-answer practice — model answers\n What is mycelium?\n\n    Answer: Mycelium is the network or mass of thread-like fungal hyphae that forms the vegetative body of many fungi.\n\n What is a lichen?\n\n    Answer: A lichen is a close association between a fungus and a photosynthetic partner, usually an alga or\n    cyanobacterium.\n\n Long-answer practice — model answer\n Explain the ecological importance of algae and fungi.\n\n    Answer: Algae are primary producers in aquatic ecosystems, releasing oxygen and forming the base of many food\n    webs. Some are used as food, fertilisers and industrial raw materials. Fungi decompose dead organic matter, recycle\n    nutrients, form beneficial associations such as mycorrhizae, and are used in food production and medicine. Some\n    algae and fungi can also cause harmful blooms, spoilage or disease.\n\n Multiple-choice questions\n 1. The main structural component of most fungal cell walls is:\n\n A. Cellulose    B. Chitin   C. Peptidoglycan   D. Lignin\n\n Answer: B\n\n 2. A lichen is an association between a fungus and:\n\n A. An animal    B. A photosynthetic partner    C. A virus   D. A flowering plant root only\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Bryophyta and Pteridophyta",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Bryophytes are small non-vascular plants that usually require water for fertilisation. Pteridophytes are vascular plants that\n reproduce by spores and possess true roots, stems and leaves.",
+        "key_terms": [
+          "Bangladesh HSC Biology | First & Second Paper                                                                                       Page 8",
+          "Bryophytes lack true vascular tissues and have a dominant gametophyte generation.",
+          "The bryophyte sporophyte remains attached to and nutritionally dependent on the gametophyte.",
+          "Pteridophytes possess xylem and phloem and have a dominant sporophyte generation.",
+          "Both groups reproduce by spores rather than seeds."
+        ],
+        "study_notes": [
+          "Bryophytes lack true vascular tissues and have a dominant gametophyte generation.",
+          "The bryophyte sporophyte remains attached to and nutritionally dependent on the gametophyte.",
+          "Pteridophytes possess xylem and phloem and have a dominant sporophyte generation.",
+          "Both groups reproduce by spores rather than seeds.",
+          "Water is generally required for motile male gametes to reach the egg."
+        ],
+        "short_questions": "Why are bryophytes called amphibians of the plant kingdom?\n\n    Answer: They live mainly on land but require water for fertilisation because their motile male gametes must reach the\n    egg.\n\n What is a sorus?\n\n    Answer: A sorus is a cluster of sporangia, commonly found on the underside of fern leaves.",
+        "long_questions": "Compare bryophytes and pteridophytes.\n\n    Answer: Bryophytes are non-vascular and lack true roots, stems and leaves; their gametophyte is the dominant\n    generation and the sporophyte depends on it. Pteridophytes have vascular tissues and true organs; the sporophyte is\n    dominant and independent. Both reproduce by spores and generally require water for fertilisation.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Which plant group has vascular tissue but no seeds? A. Bryophyta B. Pteridophyta C. Fungi D. Algae Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The dominant generation in bryophytes is the: A. Sporophyte B. Gametophyte C. Seed D. Embryo only Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 6: Bryophyta and\n Pteridophyta\n Chapter overview\n Bryophytes are small non-vascular plants that usually require water for fertilisation. Pteridophytes are vascular plants that\n reproduce by spores and possess true roots, stems and leaves.\n\n Key terms\n\n • Bryophytes lack true vascular tissues and have a dominant gametophyte generation.\n\n • The bryophyte sporophyte remains attached to and nutritionally dependent on the gametophyte.\n\n • Pteridophytes possess xylem and phloem and have a dominant sporophyte generation.\n\n • Both groups reproduce by spores rather than seeds.\n\n Study notes: important concepts and processes\n • Bryophytes lack true vascular tissues and have a dominant gametophyte generation.\n\n • The bryophyte sporophyte remains attached to and nutritionally dependent on the gametophyte.\n\n • Pteridophytes possess xylem and phloem and have a dominant sporophyte generation.\n\n • Both groups reproduce by spores rather than seeds.\n\n • Water is generally required for motile male gametes to reach the egg.\n\n Short-answer practice — model answers\n Why are bryophytes called amphibians of the plant kingdom?\n\n    Answer: They live mainly on land but require water for fertilisation because their motile male gametes must reach the\n    egg.\n\n What is a sorus?\n\n    Answer: A sorus is a cluster of sporangia, commonly found on the underside of fern leaves.\n\n Long-answer practice — model answer\n Compare bryophytes and pteridophytes.\n\n    Answer: Bryophytes are non-vascular and lack true roots, stems and leaves; their gametophyte is the dominant\n    generation and the sporophyte depends on it. Pteridophytes have vascular tissues and true organs; the sporophyte is\n    dominant and independent. Both reproduce by spores and generally require water for fertilisation.\n\n Multiple-choice questions\n 1. Which plant group has vascular tissue but no seeds?\n\n A. Bryophyta     B. Pteridophyta    C. Fungi    D. Algae\n\n Answer: B\n\n 2. The dominant generation in bryophytes is the:\n\n A. Sporophyte     B. Gametophyte      C. Seed    D. Embryo only\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Gymnosperms and Angiosperms",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Seed plants reproduce through pollen and ovules. Gymnosperms bear naked seeds, usually on cones, while\n angiosperms produce flowers and seeds enclosed within fruits.",
+        "key_terms": [
+          "Gymnosperms do not form true fruits; their ovules are not enclosed in an ovary.",
+          "Angiosperms produce flowers; after fertilisation the ovary commonly develops into a fruit.",
+          "Bangladesh HSC Biology | First & Second Paper                                                                                       Page 9",
+          "In angiosperms, double fertilisation produces a zygote and endosperm.",
+          "Monocots typically have one cotyledon and parallel leaf venation; eudicots typically have two cotyledons and net venation."
+        ],
+        "study_notes": [
+          "Gymnosperms do not form true fruits; their ovules are not enclosed in an ovary.",
+          "Angiosperms produce flowers; after fertilisation the ovary commonly develops into a fruit.",
+          "In angiosperms, double fertilisation produces a zygote and endosperm.",
+          "Monocots typically have one cotyledon and parallel leaf venation; eudicots typically have two cotyledons and net\n venation.",
+          "Pollination transfers pollen from anther to stigma."
+        ],
+        "short_questions": "What is double fertilisation?\n\n    Answer: In angiosperms, one male gamete fuses with the egg to form a zygote, while the other fuses with the polar\n    nuclei to form endosperm.\n\n What is a gymnosperm?\n\n    Answer: A gymnosperm is a seed-producing plant whose seeds are not enclosed within a fruit.",
+        "long_questions": "Distinguish between gymnosperms and angiosperms.\n\n    Answer: Gymnosperms bear exposed or naked ovules and seeds, commonly on cone scales, and do not produce true\n    flowers or fruits. Angiosperms produce flowers; ovules are enclosed in an ovary and seeds are enclosed in fruits after\n    development. Double fertilisation and endosperm formation are characteristic of angiosperms.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "A fruit generally develops from the: A. Anther B. Ovary C. Stigma D. Sepal Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Double fertilisation is characteristic of: A. Algae B. Bryophytes C. Angiosperms D. Fungi Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 7: Gymnosperms and\n Angiosperms\n Chapter overview\n Seed plants reproduce through pollen and ovules. Gymnosperms bear naked seeds, usually on cones, while\n angiosperms produce flowers and seeds enclosed within fruits.\n\n Key terms\n • Gymnosperms do not form true fruits; their ovules are not enclosed in an ovary.\n\n • Angiosperms produce flowers; after fertilisation the ovary commonly develops into a fruit.\n\n • In angiosperms, double fertilisation produces a zygote and endosperm.\n\n • Monocots typically have one cotyledon and parallel leaf venation; eudicots typically have two cotyledons and net venation.\n\n Study notes: important concepts and processes\n • Gymnosperms do not form true fruits; their ovules are not enclosed in an ovary.\n\n • Angiosperms produce flowers; after fertilisation the ovary commonly develops into a fruit.\n\n • In angiosperms, double fertilisation produces a zygote and endosperm.\n\n • Monocots typically have one cotyledon and parallel leaf venation; eudicots typically have two cotyledons and net\n venation.\n\n • Pollination transfers pollen from anther to stigma.\n\n Short-answer practice — model answers\n What is double fertilisation?\n\n    Answer: In angiosperms, one male gamete fuses with the egg to form a zygote, while the other fuses with the polar\n    nuclei to form endosperm.\n\n What is a gymnosperm?\n\n    Answer: A gymnosperm is a seed-producing plant whose seeds are not enclosed within a fruit.\n\n Long-answer practice — model answer\n Distinguish between gymnosperms and angiosperms.\n\n    Answer: Gymnosperms bear exposed or naked ovules and seeds, commonly on cone scales, and do not produce true\n    flowers or fruits. Angiosperms produce flowers; ovules are enclosed in an ovary and seeds are enclosed in fruits after\n    development. Double fertilisation and endosperm formation are characteristic of angiosperms.\n\n Multiple-choice questions\n 1. A fruit generally develops from the:\n\n A. Anther    B. Ovary    C. Stigma    D. Sepal\n\n Answer: B\n\n 2. Double fertilisation is characteristic of:\n\n A. Algae    B. Bryophytes    C. Angiosperms      D. Fungi\n\n Answer: C\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Tissue and Tissue",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Plant tissues are groups of cells specialised for particular functions. Meristematic tissues enable growth, while permanent\n tissues perform functions such as protection, support, storage and transport.",
+        "key_terms": [
+          "Apical meristems increase length; lateral meristems contribute to increase in girth.",
+          "Parenchyma commonly performs storage and photosynthesis; collenchyma provides flexible support.",
+          "Sclerenchyma has thick, often lignified walls and provides mechanical strength.",
+          "Bangladesh HSC Biology | First & Second Paper                                                                                      Page 10",
+          "Xylem conducts water and minerals; phloem transports organic solutes."
+        ],
+        "study_notes": [
+          "Apical meristems increase length; lateral meristems contribute to increase in girth.",
+          "Parenchyma commonly performs storage and photosynthesis; collenchyma provides flexible support.",
+          "Sclerenchyma has thick, often lignified walls and provides mechanical strength.",
+          "Xylem conducts water and minerals; phloem transports organic solutes.",
+          "Epidermal, ground and vascular systems form the major tissue systems."
+        ],
+        "short_questions": "What is meristematic tissue?\n\n    Answer: Meristematic tissue consists of actively dividing, relatively undifferentiated plant cells responsible for growth.\n\n What is the main function of xylem?\n\n    Answer: Xylem conducts water and dissolved mineral ions from roots to other parts and also provides support.",
+        "long_questions": "Describe the three major plant tissue systems.\n\n    Answer: The epidermal tissue system forms the outer protective covering and may include stomata and root hairs.\n    The ground tissue system includes tissues involved in photosynthesis, storage and support. The vascular tissue\n    system consists of xylem and phloem: xylem transports water and minerals, while phloem transports sugars and other\n    organic substances.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Which tissue transports sugars in plants? A. Xylem B. Phloem C. Epidermis D. Sclerenchyma Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The meristem responsible mainly for increase in length is: A. Apical meristem B. Lateral meristem C. Cork only D. Permanent tissue Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 8: Tissue and Tissue\n System\n Chapter overview\n Plant tissues are groups of cells specialised for particular functions. Meristematic tissues enable growth, while permanent\n tissues perform functions such as protection, support, storage and transport.\n\n Key terms\n • Apical meristems increase length; lateral meristems contribute to increase in girth.\n\n • Parenchyma commonly performs storage and photosynthesis; collenchyma provides flexible support.\n\n • Sclerenchyma has thick, often lignified walls and provides mechanical strength.\n\n • Xylem conducts water and minerals; phloem transports organic solutes.\n\n Study notes: important concepts and processes\n • Apical meristems increase length; lateral meristems contribute to increase in girth.\n\n • Parenchyma commonly performs storage and photosynthesis; collenchyma provides flexible support.\n\n • Sclerenchyma has thick, often lignified walls and provides mechanical strength.\n\n • Xylem conducts water and minerals; phloem transports organic solutes.\n\n • Epidermal, ground and vascular systems form the major tissue systems.\n\n Short-answer practice — model answers\n What is meristematic tissue?\n\n    Answer: Meristematic tissue consists of actively dividing, relatively undifferentiated plant cells responsible for growth.\n\n What is the main function of xylem?\n\n    Answer: Xylem conducts water and dissolved mineral ions from roots to other parts and also provides support.\n\n Long-answer practice — model answer\n Describe the three major plant tissue systems.\n\n    Answer: The epidermal tissue system forms the outer protective covering and may include stomata and root hairs.\n    The ground tissue system includes tissues involved in photosynthesis, storage and support. The vascular tissue\n    system consists of xylem and phloem: xylem transports water and minerals, while phloem transports sugars and other\n    organic substances.\n\n Multiple-choice questions\n 1. Which tissue transports sugars in plants?\n\n A. Xylem    B. Phloem     C. Epidermis    D. Sclerenchyma\n\n Answer: B\n\n 2. The meristem responsible mainly for increase in length is:\n\n A. Apical meristem     B. Lateral meristem     C. Cork only   D. Permanent tissue\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Plant Physiology",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Plant physiology studies the functions of plants, including water relations, mineral nutrition, photosynthesis, respiration,\n transport and growth responses.",
+        "key_terms": [
+          "Osmosis is movement of water across a selectively permeable membrane from higher water potential to lower water potential.",
+          "Transpiration is loss of water vapour, mainly through stomata, and contributes to the transpiration stream.",
+          "Photosynthesis converts light energy into chemical energy stored in organic molecules.",
+          "Cellular respiration releases usable energy from organic molecules in cells."
+        ],
+        "study_notes": [
+          "Bangladesh HSC Biology | First & Second Paper                                                                                      Page 11",
+          "Osmosis is movement of water across a selectively permeable membrane from higher water potential to lower water\n potential.",
+          "Transpiration is loss of water vapour, mainly through stomata, and contributes to the transpiration stream.",
+          "Photosynthesis converts light energy into chemical energy stored in organic molecules.",
+          "Cellular respiration releases usable energy from organic molecules in cells.",
+          "Plant hormones such as auxin, gibberellin, cytokinin, abscisic acid and ethylene regulate growth and responses."
+        ],
+        "short_questions": "What is transpiration?\n\n    Answer: Transpiration is the loss of water vapour from the aerial parts of a plant, mainly through stomata.\n\n What is photosynthesis?\n\n    Answer: Photosynthesis is the process by which photoautotrophs use light energy to synthesise organic compounds\n    from carbon dioxide and water, releasing oxygen in oxygenic photosynthesis.",
+        "long_questions": "Explain the light-dependent and light-independent stages of photosynthesis.\n\n    Answer: The light-dependent reactions occur in thylakoid membranes. Chlorophyll absorbs light energy, water is split,\n    oxygen is released, and ATP and NADPH are formed. The Calvin cycle occurs in the stroma, where carbon dioxide is\n    fixed and reduced using ATP and NADPH to produce carbohydrate precursors. The stages are linked because\n    products of the light reactions power carbon fixation.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The main gas released during oxygenic photosynthesis is: A. Carbon dioxide B. Oxygen C. Nitrogen D. Hydrogen Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Most transpiration in leaves occurs through: A. Stomata B. Roots C. Xylem vessels D. Flowers Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 9: Plant Physiology\n Chapter overview\n Plant physiology studies the functions of plants, including water relations, mineral nutrition, photosynthesis, respiration,\n transport and growth responses.\n\n Key terms\n • Osmosis is movement of water across a selectively permeable membrane from higher water potential to lower water potential.\n\n • Transpiration is loss of water vapour, mainly through stomata, and contributes to the transpiration stream.\n\n • Photosynthesis converts light energy into chemical energy stored in organic molecules.\n\n • Cellular respiration releases usable energy from organic molecules in cells.\n\n Study notes: important concepts and processes\n\n • Osmosis is movement of water across a selectively permeable membrane from higher water potential to lower water\n potential.\n\n • Transpiration is loss of water vapour, mainly through stomata, and contributes to the transpiration stream.\n\n • Photosynthesis converts light energy into chemical energy stored in organic molecules.\n\n • Cellular respiration releases usable energy from organic molecules in cells.\n\n • Plant hormones such as auxin, gibberellin, cytokinin, abscisic acid and ethylene regulate growth and responses.\n\n Short-answer practice — model answers\n What is transpiration?\n\n    Answer: Transpiration is the loss of water vapour from the aerial parts of a plant, mainly through stomata.\n\n What is photosynthesis?\n\n    Answer: Photosynthesis is the process by which photoautotrophs use light energy to synthesise organic compounds\n    from carbon dioxide and water, releasing oxygen in oxygenic photosynthesis.\n\n Long-answer practice — model answer\n Explain the light-dependent and light-independent stages of photosynthesis.\n\n    Answer: The light-dependent reactions occur in thylakoid membranes. Chlorophyll absorbs light energy, water is split,\n    oxygen is released, and ATP and NADPH are formed. The Calvin cycle occurs in the stroma, where carbon dioxide is\n    fixed and reduced using ATP and NADPH to produce carbohydrate precursors. The stages are linked because\n    products of the light reactions power carbon fixation.\n\n Multiple-choice questions\n 1. The main gas released during oxygenic photosynthesis is:\n\n A. Carbon dioxide     B. Oxygen     C. Nitrogen   D. Hydrogen\n\n Answer: B\n\n 2. Most transpiration in leaves occurs through:\n\n A. Stomata     B. Roots    C. Xylem vessels    D. Flowers\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Plant Reproduction",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Plants reproduce sexually through the formation and fusion of gametes and asexually through vegetative or other\n methods. Flowering plants form pollen and embryo sacs, followed by pollination, fertilisation, seed and fruit development.",
+        "key_terms": [
+          "A flower is the reproductive structure of angiosperms; stamens are male and carpels are female structures.",
+          "Pollination may be self-pollination or cross-pollination.",
+          "Pollen germination produces a pollen tube that carries male gametes towards the embryo sac.",
+          "After fertilisation, the ovule develops into a seed and the ovary commonly develops into a fruit."
+        ],
+        "study_notes": [
+          "A flower is the reproductive structure of angiosperms; stamens are male and carpels are female structures.",
+          "Pollination may be self-pollination or cross-pollination.",
+          "Bangladesh HSC Biology | First & Second Paper                                                                                      Page 12",
+          "Pollen germination produces a pollen tube that carries male gametes towards the embryo sac.",
+          "After fertilisation, the ovule develops into a seed and the ovary commonly develops into a fruit.",
+          "Vegetative propagation uses structures such as runners, rhizomes, tubers, bulbs or cuttings."
+        ],
+        "short_questions": "What is pollination?\n\n    Answer: Pollination is the transfer of pollen grains from anther to stigma of a flower.\n\n What is vegetative propagation?\n\n    Answer: Vegetative propagation is a form of asexual reproduction in which new plants develop from vegetative parts\n    such as stems, roots or leaves.",
+        "long_questions": "Describe the sequence of sexual reproduction in a flowering plant.\n\n    Answer: The flower produces pollen in the anther and an embryo sac in the ovule. Pollination transfers pollen to the\n    stigma. A compatible pollen grain germinates and forms a pollen tube through the style. The male gametes reach the\n    embryo sac and double fertilisation occurs. The zygote develops into an embryo, the ovule becomes a seed and the\n    ovary usually develops into a fruit.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The male reproductive part of a typical flower is the: A. Carpel B. Stamen C. Sepal D. Petal Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "A potato tuber is an example of: A. Spore formation B. Vegetative propagation C. Pollination D. Double fertilisation Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 10: Plant Reproduction\n Chapter overview\n Plants reproduce sexually through the formation and fusion of gametes and asexually through vegetative or other\n methods. Flowering plants form pollen and embryo sacs, followed by pollination, fertilisation, seed and fruit development.\n\n Key terms\n • A flower is the reproductive structure of angiosperms; stamens are male and carpels are female structures.\n\n • Pollination may be self-pollination or cross-pollination.\n\n • Pollen germination produces a pollen tube that carries male gametes towards the embryo sac.\n\n • After fertilisation, the ovule develops into a seed and the ovary commonly develops into a fruit.\n\n Study notes: important concepts and processes\n • A flower is the reproductive structure of angiosperms; stamens are male and carpels are female structures.\n\n • Pollination may be self-pollination or cross-pollination.\n\n • Pollen germination produces a pollen tube that carries male gametes towards the embryo sac.\n\n • After fertilisation, the ovule develops into a seed and the ovary commonly develops into a fruit.\n\n • Vegetative propagation uses structures such as runners, rhizomes, tubers, bulbs or cuttings.\n\n Short-answer practice — model answers\n What is pollination?\n\n    Answer: Pollination is the transfer of pollen grains from anther to stigma of a flower.\n\n What is vegetative propagation?\n\n    Answer: Vegetative propagation is a form of asexual reproduction in which new plants develop from vegetative parts\n    such as stems, roots or leaves.\n\n Long-answer practice — model answer\n Describe the sequence of sexual reproduction in a flowering plant.\n\n    Answer: The flower produces pollen in the anther and an embryo sac in the ovule. Pollination transfers pollen to the\n    stigma. A compatible pollen grain germinates and forms a pollen tube through the style. The male gametes reach the\n    embryo sac and double fertilisation occurs. The zygote develops into an embryo, the ovule becomes a seed and the\n    ovary usually develops into a fruit.\n\n Multiple-choice questions\n 1. The male reproductive part of a typical flower is the:\n\n A. Carpel    B. Stamen     C. Sepal   D. Petal\n\n Answer: B\n\n 2. A potato tuber is an example of:\n\n A. Spore formation     B. Vegetative propagation     C. Pollination   D. Double fertilisation\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Biotechnology",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Biotechnology applies organisms, cells or biological molecules to develop useful products and processes. Modern\n biotechnology includes genetic engineering, recombinant DNA technology, tissue culture and molecular diagnosis.",
+        "key_terms": [
+          "Restriction enzymes cut DNA at specific recognition sequences; DNA ligase joins DNA fragments.",
+          "A vector, such as a plasmid, can carry a desired DNA sequence into a host cell.",
+          "PCR amplifies selected DNA sequences through repeated cycles of denaturation, annealing and extension.",
+          "Plant tissue culture grows plant cells or tissues under sterile, controlled conditions."
+        ],
+        "study_notes": [
+          "Restriction enzymes cut DNA at specific recognition sequences; DNA ligase joins DNA fragments.",
+          "A vector, such as a plasmid, can carry a desired DNA sequence into a host cell.",
+          "PCR amplifies selected DNA sequences through repeated cycles of denaturation, annealing and extension.",
+          "Plant tissue culture grows plant cells or tissues under sterile, controlled conditions.",
+          "Bangladesh HSC Biology | First & Second Paper                                                                                      Page 13",
+          "Biotechnology applications include improved crops, medicines, diagnostics and industrial enzymes."
+        ],
+        "short_questions": "What is recombinant DNA?\n\n    Answer: Recombinant DNA is DNA formed by joining genetic material from different sources.\n\n What is tissue culture?\n\n    Answer: Tissue culture is the growth of cells, tissues or organs on a sterile nutrient medium under controlled\n    conditions.",
+        "long_questions": "Outline the main steps of recombinant DNA technology.\n\n    Answer: A desired gene and a suitable vector are isolated. Restriction enzymes cut the DNA and vector at compatible\n    sites. DNA ligase joins the gene to the vector, forming recombinant DNA. The recombinant vector is introduced into a\n    host cell, selected and multiplied. The inserted gene may then be expressed and the product harvested. Controls and\n    safety assessment are essential.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "PCR is primarily used to: A. Amplify DNA B. Digest proteins C. Make lipids D. Produce oxygen Answer: A"
+          },
+          {
+            "number": 2,
+            "content": "DNA ligase is an enzyme that: A. Cuts DNA at recognition sites B. Joins DNA fragments C. Separates chromosomes D. Synthesises lipids Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 11: Biotechnology\n Chapter overview\n Biotechnology applies organisms, cells or biological molecules to develop useful products and processes. Modern\n biotechnology includes genetic engineering, recombinant DNA technology, tissue culture and molecular diagnosis.\n\n Key terms\n • Restriction enzymes cut DNA at specific recognition sequences; DNA ligase joins DNA fragments.\n\n • A vector, such as a plasmid, can carry a desired DNA sequence into a host cell.\n\n • PCR amplifies selected DNA sequences through repeated cycles of denaturation, annealing and extension.\n\n • Plant tissue culture grows plant cells or tissues under sterile, controlled conditions.\n\n Study notes: important concepts and processes\n • Restriction enzymes cut DNA at specific recognition sequences; DNA ligase joins DNA fragments.\n\n • A vector, such as a plasmid, can carry a desired DNA sequence into a host cell.\n\n • PCR amplifies selected DNA sequences through repeated cycles of denaturation, annealing and extension.\n\n • Plant tissue culture grows plant cells or tissues under sterile, controlled conditions.\n\n • Biotechnology applications include improved crops, medicines, diagnostics and industrial enzymes.\n\n Short-answer practice — model answers\n What is recombinant DNA?\n\n    Answer: Recombinant DNA is DNA formed by joining genetic material from different sources.\n\n What is tissue culture?\n\n    Answer: Tissue culture is the growth of cells, tissues or organs on a sterile nutrient medium under controlled\n    conditions.\n\n Long-answer practice — model answer\n Outline the main steps of recombinant DNA technology.\n\n    Answer: A desired gene and a suitable vector are isolated. Restriction enzymes cut the DNA and vector at compatible\n    sites. DNA ligase joins the gene to the vector, forming recombinant DNA. The recombinant vector is introduced into a\n    host cell, selected and multiplied. The inserted gene may then be expressed and the product harvested. Controls and\n    safety assessment are essential.\n\n Multiple-choice questions\n 1. PCR is primarily used to:\n\n A. Amplify DNA     B. Digest proteins    C. Make lipids   D. Produce oxygen\n\n Answer: A\n\n 2. DNA ligase is an enzyme that:\n\n A. Cuts DNA at recognition sites     B. Joins DNA fragments    C. Separates chromosomes        D. Synthesises lipids\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Environment, Distribution and Conservation of Organisms",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Ecology examines relationships between organisms and their environment. Organisms are distributed according to\n climate, resources and interactions. Conservation protects biodiversity, habitats and ecosystem functions.",
+        "key_terms": [
+          "A population is members of one species in an area; a community includes interacting populations.",
+          "An ecosystem includes a community and its abiotic environment.",
+          "Energy flows through trophic levels; nutrients are recycled through biogeochemical cycles.",
+          "Biodiversity includes genetic, species and ecosystem diversity."
+        ],
+        "study_notes": [
+          "A population is members of one species in an area; a community includes interacting populations.",
+          "An ecosystem includes a community and its abiotic environment.",
+          "Energy flows through trophic levels; nutrients are recycled through biogeochemical cycles.",
+          "Biodiversity includes genetic, species and ecosystem diversity.",
+          "Habitat loss, pollution, invasive species, overexploitation and climate change threaten biodiversity; conservation may be\n in situ or ex situ.",
+          "Bangladesh HSC Biology | First & Second Paper                                                                                      Page 14"
+        ],
+        "short_questions": "What is biodiversity?\n\n    Answer: Biodiversity is the variety of life at genetic, species and ecosystem levels.\n\n Distinguish in-situ and ex-situ conservation.\n\n    Answer: In-situ conservation protects organisms in their natural habitats; ex-situ conservation protects them outside\n    their natural habitats, such as in seed banks, botanical gardens or breeding centres.",
+        "long_questions": "Explain major threats to biodiversity and methods of conservation.\n\n    Answer: Major threats include habitat destruction and fragmentation, pollution, invasive species, overharvesting and\n    climate change. In-situ methods include national parks, wildlife sanctuaries and habitat restoration. Ex-situ methods\n    include seed banks, botanical gardens, zoos and captive breeding. Sustainable resource use, laws, education and\n    community participation support long-term conservation.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The place where an organism naturally lives is its: A. Niche B. Habitat C. Trophic level D. Biome only Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Conservation within a species' natural habitat is called: A. Ex-situ B. In-situ C. Artificial selection D. Domestication Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 15 BIOLOGY 2ND PAPER — ZOOLOGY"
+      },
+      "source_text": "BIOLOGY 1ST PAPER — Chapter 12: Environment,\n Distribution and Conservation of Organisms\n Chapter overview\n Ecology examines relationships between organisms and their environment. Organisms are distributed according to\n climate, resources and interactions. Conservation protects biodiversity, habitats and ecosystem functions.\n\n Key terms\n • A population is members of one species in an area; a community includes interacting populations.\n\n • An ecosystem includes a community and its abiotic environment.\n\n • Energy flows through trophic levels; nutrients are recycled through biogeochemical cycles.\n\n • Biodiversity includes genetic, species and ecosystem diversity.\n\n Study notes: important concepts and processes\n • A population is members of one species in an area; a community includes interacting populations.\n\n • An ecosystem includes a community and its abiotic environment.\n\n • Energy flows through trophic levels; nutrients are recycled through biogeochemical cycles.\n\n • Biodiversity includes genetic, species and ecosystem diversity.\n\n • Habitat loss, pollution, invasive species, overexploitation and climate change threaten biodiversity; conservation may be\n in situ or ex situ.\n\n Short-answer practice — model answers\n What is biodiversity?\n\n    Answer: Biodiversity is the variety of life at genetic, species and ecosystem levels.\n\n Distinguish in-situ and ex-situ conservation.\n\n    Answer: In-situ conservation protects organisms in their natural habitats; ex-situ conservation protects them outside\n    their natural habitats, such as in seed banks, botanical gardens or breeding centres.\n\n Long-answer practice — model answer\n Explain major threats to biodiversity and methods of conservation.\n\n    Answer: Major threats include habitat destruction and fragmentation, pollution, invasive species, overharvesting and\n    climate change. In-situ methods include national parks, wildlife sanctuaries and habitat restoration. Ex-situ methods\n    include seed banks, botanical gardens, zoos and captive breeding. Sustainable resource use, laws, education and\n    community participation support long-term conservation.\n\n Multiple-choice questions\n 1. The place where an organism naturally lives is its:\n\n A. Niche     B. Habitat    C. Trophic level    D. Biome only\n\n Answer: B\n\n 2. Conservation within a species' natural habitat is called:\n\n A. Ex-situ    B. In-situ   C. Artificial selection   D. Domestication\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one.\n\n BIOLOGY 2ND PAPER — ZOOLOGY"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Animal Diversity and Classification",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Animal classification organises animals into groups based on shared characteristics and evolutionary relationships.\n Classification considers body symmetry, germ layers, body cavity, segmentation, development and the presence or\n absence of a notochord.",
+        "key_terms": [
+          "Animals are multicellular eukaryotic heterotrophs that lack cell walls.",
+          "Major non-chordate phyla include Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Arthropoda and Echinodermata.",
+          "Chordates possess a notochord, dorsal hollow nerve cord, pharyngeal slits and post-anal tail at some life stage.",
+          "Binomial nomenclature uses a genus name and a specific epithet."
+        ],
+        "study_notes": [
+          "Animals are multicellular eukaryotic heterotrophs that lack cell walls.",
+          "Major non-chordate phyla include Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Arthropoda and\n Echinodermata.",
+          "Chordates possess a notochord, dorsal hollow nerve cord, pharyngeal slits and post-anal tail at some life stage.",
+          "Binomial nomenclature uses a genus name and a specific epithet.",
+          "Classification helps identify organisms and understand relationships."
+        ],
+        "short_questions": "What is bilateral symmetry?\n\n    Answer: Bilateral symmetry means the body can be divided into two similar halves by only one longitudinal plane.\n\n What is a notochord?\n\n    Answer: A notochord is a flexible supporting rod present at least during some stage of development in chordates.",
+        "long_questions": "Explain the importance of animal classification and name major bases used in it.\n\n    Answer: Classification provides an organised system for identifying, naming and comparing animals. It helps\n    communicate biological information and infer evolutionary relationships. Common bases include level of organisation,\n    body symmetry, germ layers, body cavity, segmentation, embryonic development and the presence or absence of a\n    notochord.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Animals with a notochord at some stage belong to: A. Arthropoda B. Chordata C. Mollusca D. Annelida Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The scientific name of an organism consists of: A. Family and order B. Genus and specific epithet C. Class and phylum D. Kingdom and class Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 16"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 1: Animal Diversity and\n Classification\n Chapter overview\n Animal classification organises animals into groups based on shared characteristics and evolutionary relationships.\n Classification considers body symmetry, germ layers, body cavity, segmentation, development and the presence or\n absence of a notochord.\n\n Key terms\n • Animals are multicellular eukaryotic heterotrophs that lack cell walls.\n\n • Major non-chordate phyla include Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Arthropoda and Echinodermata.\n\n • Chordates possess a notochord, dorsal hollow nerve cord, pharyngeal slits and post-anal tail at some life stage.\n\n • Binomial nomenclature uses a genus name and a specific epithet.\n\n Study notes: important concepts and processes\n • Animals are multicellular eukaryotic heterotrophs that lack cell walls.\n\n • Major non-chordate phyla include Porifera, Cnidaria, Platyhelminthes, Nematoda, Annelida, Mollusca, Arthropoda and\n Echinodermata.\n\n • Chordates possess a notochord, dorsal hollow nerve cord, pharyngeal slits and post-anal tail at some life stage.\n\n • Binomial nomenclature uses a genus name and a specific epithet.\n\n • Classification helps identify organisms and understand relationships.\n\n Short-answer practice — model answers\n What is bilateral symmetry?\n\n    Answer: Bilateral symmetry means the body can be divided into two similar halves by only one longitudinal plane.\n\n What is a notochord?\n\n    Answer: A notochord is a flexible supporting rod present at least during some stage of development in chordates.\n\n Long-answer practice — model answer\n Explain the importance of animal classification and name major bases used in it.\n\n    Answer: Classification provides an organised system for identifying, naming and comparing animals. It helps\n    communicate biological information and infer evolutionary relationships. Common bases include level of organisation,\n    body symmetry, germ layers, body cavity, segmentation, embryonic development and the presence or absence of a\n    notochord.\n\n Multiple-choice questions\n 1. Animals with a notochord at some stage belong to:\n\n A. Arthropoda     B. Chordata    C. Mollusca   D. Annelida\n\n Answer: B\n\n 2. The scientific name of an organism consists of:\n\n A. Family and order     B. Genus and specific epithet   C. Class and phylum   D. Kingdom and class\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Introduction to",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "This chapter studies selected representative animals, commonly Hydra, grasshopper and rohu fish. Their external and\n internal structures illustrate organisation, feeding, respiration, circulation, excretion, movement and reproduction in\n different animal groups.",
+        "key_terms": [
+          "Hydra is a freshwater cnidarian with radial symmetry, tentacles and stinging cells called cnidocytes.",
+          "Grasshopper is an arthropod with a chitinous exoskeleton, jointed appendages and tracheal respiration.",
+          "Rohu is a bony fish with gills, fins, scales and a two-chambered heart.",
+          "Adaptations in body structure relate to habitat and mode of life."
+        ],
+        "study_notes": [
+          "Hydra is a freshwater cnidarian with radial symmetry, tentacles and stinging cells called cnidocytes.",
+          "Grasshopper is an arthropod with a chitinous exoskeleton, jointed appendages and tracheal respiration.",
+          "Rohu is a bony fish with gills, fins, scales and a two-chambered heart.",
+          "Adaptations in body structure relate to habitat and mode of life.",
+          "Representative organisms are studied through observation, diagrams and comparison."
+        ],
+        "short_questions": "What are cnidocytes?\n\n    Answer: Cnidocytes are specialised stinging cells of cnidarians that contain organelles called nematocysts.\n\n How does a grasshopper breathe?\n\n    Answer: A grasshopper breathes through a tracheal system: air enters through spiracles and travels through tracheae\n    and finer tracheoles.",
+        "long_questions": "Compare the respiratory systems of Hydra, grasshopper and rohu fish.\n\n    Answer: Hydra has no specialised respiratory organ; gases diffuse directly across its body surface. Grasshopper uses\n    a tracheal system in which air enters through spiracles and reaches tissues through tracheae and tracheoles. Rohu\n    fish uses gills; water passes over gill surfaces where oxygen diffuses into blood and carbon dioxide diffuses out.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The stinging cells of Hydra are called: A. Nephridia B. Cnidocytes C. Osteocytes D. Alveoli Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The respiratory organs of rohu fish are: A. Lungs B. Gills C. Tracheae D. Skin only Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 17"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 2: Introduction to\n Animals\n Chapter overview\n This chapter studies selected representative animals, commonly Hydra, grasshopper and rohu fish. Their external and\n internal structures illustrate organisation, feeding, respiration, circulation, excretion, movement and reproduction in\n different animal groups.\n\n Key terms\n • Hydra is a freshwater cnidarian with radial symmetry, tentacles and stinging cells called cnidocytes.\n\n • Grasshopper is an arthropod with a chitinous exoskeleton, jointed appendages and tracheal respiration.\n\n • Rohu is a bony fish with gills, fins, scales and a two-chambered heart.\n\n • Adaptations in body structure relate to habitat and mode of life.\n\n Study notes: important concepts and processes\n • Hydra is a freshwater cnidarian with radial symmetry, tentacles and stinging cells called cnidocytes.\n\n • Grasshopper is an arthropod with a chitinous exoskeleton, jointed appendages and tracheal respiration.\n\n • Rohu is a bony fish with gills, fins, scales and a two-chambered heart.\n\n • Adaptations in body structure relate to habitat and mode of life.\n\n • Representative organisms are studied through observation, diagrams and comparison.\n\n Short-answer practice — model answers\n What are cnidocytes?\n\n    Answer: Cnidocytes are specialised stinging cells of cnidarians that contain organelles called nematocysts.\n\n How does a grasshopper breathe?\n\n    Answer: A grasshopper breathes through a tracheal system: air enters through spiracles and travels through tracheae\n    and finer tracheoles.\n\n Long-answer practice — model answer\n Compare the respiratory systems of Hydra, grasshopper and rohu fish.\n\n    Answer: Hydra has no specialised respiratory organ; gases diffuse directly across its body surface. Grasshopper uses\n    a tracheal system in which air enters through spiracles and reaches tissues through tracheae and tracheoles. Rohu\n    fish uses gills; water passes over gill surfaces where oxygen diffuses into blood and carbon dioxide diffuses out.\n\n Multiple-choice questions\n 1. The stinging cells of Hydra are called:\n\n A. Nephridia    B. Cnidocytes    C. Osteocytes    D. Alveoli\n\n Answer: B\n\n 2. The respiratory organs of rohu fish are:\n\n A. Lungs    B. Gills   C. Tracheae    D. Skin only\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Human Physiology: Digestion and Absorption",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Digestion breaks large food molecules into smaller absorbable units. The alimentary canal and accessory glands\n coordinate mechanical and chemical digestion, while the small intestine is the main site of nutrient absorption.",
+        "key_terms": [
+          "Mechanical digestion increases food surface area; enzymes catalyse chemical digestion.",
+          "Salivary amylase begins starch digestion in the mouth.",
+          "The stomach secretes acid and enzymes; pepsin begins protein digestion.",
+          "Bile emulsifies fats but contains no digestive enzyme."
+        ],
+        "study_notes": [
+          "Mechanical digestion increases food surface area; enzymes catalyse chemical digestion.",
+          "Salivary amylase begins starch digestion in the mouth.",
+          "The stomach secretes acid and enzymes; pepsin begins protein digestion.",
+          "Bile emulsifies fats but contains no digestive enzyme.",
+          "Villi and microvilli increase the absorptive surface of the small intestine."
+        ],
+        "short_questions": "What is peristalsis?\n\n    Answer: Peristalsis is the coordinated wave-like contraction of smooth muscles that moves food along the alimentary\n    canal.\n\n What is the function of bile?\n\n    Answer: Bile emulsifies large fat globules into smaller droplets and helps provide an alkaline environment for intestinal\n    digestion.",
+        "long_questions": "Describe digestion and absorption in the small intestine.\n\n    Answer: The duodenum receives bile and pancreatic juice. Bile emulsifies fats; pancreatic enzymes digest\n    carbohydrates, proteins and lipids. Intestinal enzymes complete digestion. Villi and microvilli provide a large surface\n    area. Monosaccharides and amino acids enter blood capillaries, while most absorbed lipid products enter intestinal\n    lacteals as part of chylomicrons.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Most nutrient absorption occurs in the: A. Oesophagus B. Small intestine C. Large intestine D. Stomach Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Pepsin mainly digests: A. Proteins B. Starch C. Fats D. Nucleic acids Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 18"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 3: Human Physiology:\n Digestion and Absorption\n Chapter overview\n Digestion breaks large food molecules into smaller absorbable units. The alimentary canal and accessory glands\n coordinate mechanical and chemical digestion, while the small intestine is the main site of nutrient absorption.\n\n Key terms\n • Mechanical digestion increases food surface area; enzymes catalyse chemical digestion.\n\n • Salivary amylase begins starch digestion in the mouth.\n\n • The stomach secretes acid and enzymes; pepsin begins protein digestion.\n\n • Bile emulsifies fats but contains no digestive enzyme.\n\n Study notes: important concepts and processes\n • Mechanical digestion increases food surface area; enzymes catalyse chemical digestion.\n\n • Salivary amylase begins starch digestion in the mouth.\n\n • The stomach secretes acid and enzymes; pepsin begins protein digestion.\n\n • Bile emulsifies fats but contains no digestive enzyme.\n\n • Villi and microvilli increase the absorptive surface of the small intestine.\n\n Short-answer practice — model answers\n What is peristalsis?\n\n    Answer: Peristalsis is the coordinated wave-like contraction of smooth muscles that moves food along the alimentary\n    canal.\n\n What is the function of bile?\n\n    Answer: Bile emulsifies large fat globules into smaller droplets and helps provide an alkaline environment for intestinal\n    digestion.\n\n Long-answer practice — model answer\n Describe digestion and absorption in the small intestine.\n\n    Answer: The duodenum receives bile and pancreatic juice. Bile emulsifies fats; pancreatic enzymes digest\n    carbohydrates, proteins and lipids. Intestinal enzymes complete digestion. Villi and microvilli provide a large surface\n    area. Monosaccharides and amino acids enter blood capillaries, while most absorbed lipid products enter intestinal\n    lacteals as part of chylomicrons.\n\n Multiple-choice questions\n 1. Most nutrient absorption occurs in the:\n\n A. Oesophagus      B. Small intestine   C. Large intestine   D. Stomach\n\n Answer: B\n\n 2. Pepsin mainly digests:\n\n A. Proteins    B. Starch   C. Fats   D. Nucleic acids\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Human Physiology: Blood and Circulation",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "The circulatory system transports gases, nutrients, hormones and wastes. Blood consists of plasma and formed\n elements. The human heart pumps blood through pulmonary and systemic circuits.",
+        "key_terms": [
+          "Red blood cells contain haemoglobin and transport most oxygen.",
+          "White blood cells participate in defence; platelets help blood clot.",
+          "The human heart has four chambers and valves that maintain one-way flow.",
+          "Pulmonary circulation carries blood between heart and lungs; systemic circulation supplies the body."
+        ],
+        "study_notes": [
+          "Red blood cells contain haemoglobin and transport most oxygen.",
+          "White blood cells participate in defence; platelets help blood clot.",
+          "The human heart has four chambers and valves that maintain one-way flow.",
+          "Pulmonary circulation carries blood between heart and lungs; systemic circulation supplies the body.",
+          "Arteries carry blood away from the heart; veins carry blood towards it."
+        ],
+        "short_questions": "What is haemoglobin?\n\n    Answer: Haemoglobin is an iron-containing protein in red blood cells that binds and transports oxygen.\n\n What is double circulation?\n\n    Answer: Double circulation means blood passes through the heart twice during one complete circuit: once through\n    pulmonary circulation and once through systemic circulation.",
+        "long_questions": "Trace the pathway of blood through the human heart.\n\n    Answer: Deoxygenated blood from the body enters the right atrium through the venae cavae, passes through the\n    tricuspid valve to the right ventricle, and is pumped through the pulmonary artery to the lungs. Oxygenated blood\n    returns through pulmonary veins to the left atrium, passes through the bicuspid/mitral valve to the left ventricle, and is\n    pumped through the aorta to the body.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Which blood component is mainly responsible for clotting? A. Red blood cells B. Platelets C. Plasma water D. Lymphocytes Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The largest artery leaving the left ventricle is the: A. Pulmonary artery B. Aorta C. Vena cava D. Pulmonary vein Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 19"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 4: Human Physiology:\n Blood and Circulation\n Chapter overview\n The circulatory system transports gases, nutrients, hormones and wastes. Blood consists of plasma and formed\n elements. The human heart pumps blood through pulmonary and systemic circuits.\n\n Key terms\n • Red blood cells contain haemoglobin and transport most oxygen.\n\n • White blood cells participate in defence; platelets help blood clot.\n\n • The human heart has four chambers and valves that maintain one-way flow.\n\n • Pulmonary circulation carries blood between heart and lungs; systemic circulation supplies the body.\n\n Study notes: important concepts and processes\n • Red blood cells contain haemoglobin and transport most oxygen.\n\n • White blood cells participate in defence; platelets help blood clot.\n\n • The human heart has four chambers and valves that maintain one-way flow.\n\n • Pulmonary circulation carries blood between heart and lungs; systemic circulation supplies the body.\n\n • Arteries carry blood away from the heart; veins carry blood towards it.\n\n Short-answer practice — model answers\n What is haemoglobin?\n\n    Answer: Haemoglobin is an iron-containing protein in red blood cells that binds and transports oxygen.\n\n What is double circulation?\n\n    Answer: Double circulation means blood passes through the heart twice during one complete circuit: once through\n    pulmonary circulation and once through systemic circulation.\n\n Long-answer practice — model answer\n Trace the pathway of blood through the human heart.\n\n    Answer: Deoxygenated blood from the body enters the right atrium through the venae cavae, passes through the\n    tricuspid valve to the right ventricle, and is pumped through the pulmonary artery to the lungs. Oxygenated blood\n    returns through pulmonary veins to the left atrium, passes through the bicuspid/mitral valve to the left ventricle, and is\n    pumped through the aorta to the body.\n\n Multiple-choice questions\n 1. Which blood component is mainly responsible for clotting?\n\n A. Red blood cells    B. Platelets    C. Plasma water   D. Lymphocytes\n\n Answer: B\n\n 2. The largest artery leaving the left ventricle is the:\n\n A. Pulmonary artery     B. Aorta     C. Vena cava   D. Pulmonary vein\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Human Physiology: Respiration and Breathing",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Breathing moves air into and out of the lungs, while cellular respiration releases energy from nutrients. Gas exchange\n occurs across thin respiratory surfaces and is supported by ventilation and circulation.",
+        "key_terms": [
+          "During inhalation, the diaphragm contracts and flattens; thoracic volume increases.",
+          "Gas exchange in alveoli occurs by diffusion down partial-pressure gradients.",
+          "Oxygen is transported mainly bound to haemoglobin.",
+          "Carbon dioxide is transported mainly as bicarbonate ions in blood."
+        ],
+        "study_notes": [
+          "During inhalation, the diaphragm contracts and flattens; thoracic volume increases.",
+          "Gas exchange in alveoli occurs by diffusion down partial-pressure gradients.",
+          "Oxygen is transported mainly bound to haemoglobin.",
+          "Carbon dioxide is transported mainly as bicarbonate ions in blood.",
+          "Aerobic respiration uses oxygen and produces carbon dioxide, water and ATP."
+        ],
+        "short_questions": "Distinguish breathing and cellular respiration.\n\n    Answer: Breathing is the physical movement of air into and out of the lungs; cellular respiration is the series of\n    chemical reactions that release energy from organic molecules in cells.\n\n Why are alveoli efficient for gas exchange?\n\n    Answer: Alveoli provide a large surface area, thin moist walls, a rich capillary supply and ventilation that maintains\n    diffusion gradients.",
+        "long_questions": "Explain the mechanism of inhalation and exhalation in humans.\n\n    Answer: During quiet inhalation, the diaphragm contracts and flattens and external intercostal muscles raise the ribs.\n    Thoracic volume increases, intrapulmonary pressure falls below atmospheric pressure and air enters. During quiet\n    exhalation, these muscles relax, thoracic volume decreases, pressure rises and air flows out. Forced breathing recruits\n    additional muscles.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Gas exchange in human lungs takes place mainly in: A. Bronchi B. Alveoli C. Trachea D. Larynx Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Most oxygen in blood is transported by: A. Plasma dissolved oxygen only B. Haemoglobin C. Platelets D. Fibrin Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 20"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 5: Human Physiology:\n Respiration and Breathing\n Chapter overview\n Breathing moves air into and out of the lungs, while cellular respiration releases energy from nutrients. Gas exchange\n occurs across thin respiratory surfaces and is supported by ventilation and circulation.\n\n Key terms\n • During inhalation, the diaphragm contracts and flattens; thoracic volume increases.\n\n • Gas exchange in alveoli occurs by diffusion down partial-pressure gradients.\n\n • Oxygen is transported mainly bound to haemoglobin.\n\n • Carbon dioxide is transported mainly as bicarbonate ions in blood.\n\n Study notes: important concepts and processes\n • During inhalation, the diaphragm contracts and flattens; thoracic volume increases.\n\n • Gas exchange in alveoli occurs by diffusion down partial-pressure gradients.\n\n • Oxygen is transported mainly bound to haemoglobin.\n\n • Carbon dioxide is transported mainly as bicarbonate ions in blood.\n\n • Aerobic respiration uses oxygen and produces carbon dioxide, water and ATP.\n\n Short-answer practice — model answers\n Distinguish breathing and cellular respiration.\n\n    Answer: Breathing is the physical movement of air into and out of the lungs; cellular respiration is the series of\n    chemical reactions that release energy from organic molecules in cells.\n\n Why are alveoli efficient for gas exchange?\n\n    Answer: Alveoli provide a large surface area, thin moist walls, a rich capillary supply and ventilation that maintains\n    diffusion gradients.\n\n Long-answer practice — model answer\n Explain the mechanism of inhalation and exhalation in humans.\n\n    Answer: During quiet inhalation, the diaphragm contracts and flattens and external intercostal muscles raise the ribs.\n    Thoracic volume increases, intrapulmonary pressure falls below atmospheric pressure and air enters. During quiet\n    exhalation, these muscles relax, thoracic volume decreases, pressure rises and air flows out. Forced breathing recruits\n    additional muscles.\n\n Multiple-choice questions\n 1. Gas exchange in human lungs takes place mainly in:\n\n A. Bronchi    B. Alveoli   C. Trachea    D. Larynx\n\n Answer: B\n\n 2. Most oxygen in blood is transported by:\n\n A. Plasma dissolved oxygen only       B. Haemoglobin   C. Platelets    D. Fibrin\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Human Physiology: Waste and Excretion",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Excretion removes metabolic wastes and helps regulate water, salts and pH. In humans, kidneys filter blood and form\n urine through filtration, reabsorption and secretion.",
+        "key_terms": [
+          "The nephron is the functional unit of the kidney.",
+          "Ultrafiltration occurs at the glomerulus into Bowman's capsule.",
+          "Selective reabsorption returns useful substances and much water to blood.",
+          "Tubular secretion transfers selected substances from blood into the nephron."
+        ],
+        "study_notes": [
+          "The nephron is the functional unit of the kidney.",
+          "Ultrafiltration occurs at the glomerulus into Bowman's capsule.",
+          "Selective reabsorption returns useful substances and much water to blood.",
+          "Tubular secretion transfers selected substances from blood into the nephron.",
+          "ADH increases water reabsorption in the collecting ducts and helps regulate urine concentration."
+        ],
+        "short_questions": "What is a nephron?\n\n    Answer: A nephron is the structural and functional unit of the kidney, consisting of a renal corpuscle and renal tubule.\n\n What is ultrafiltration?\n\n    Answer: Ultrafiltration is pressure-driven filtration of water and small solutes from glomerular blood into Bowman's\n    capsule.",
+        "long_questions": "Describe the main steps of urine formation.\n\n    Answer: Blood is filtered under pressure in the glomerulus, forming filtrate in Bowman's capsule. Along the renal\n    tubule, useful substances such as glucose, amino acids, ions and much water are selectively reabsorbed. Additional\n    ions and wastes may be secreted into the tubule. The collecting ducts adjust water reabsorption, and the final urine\n    passes to the renal pelvis, ureter and bladder.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The functional unit of the kidney is the: A. Neuron B. Nephron C. Alveolus D. Villus Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "ADH mainly increases: A. Water reabsorption B. Glucose digestion C. Red-cell production D. Bile secretion Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 21"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 6: Human Physiology:\n Waste and Excretion\n Chapter overview\n Excretion removes metabolic wastes and helps regulate water, salts and pH. In humans, kidneys filter blood and form\n urine through filtration, reabsorption and secretion.\n\n Key terms\n • The nephron is the functional unit of the kidney.\n\n • Ultrafiltration occurs at the glomerulus into Bowman's capsule.\n\n • Selective reabsorption returns useful substances and much water to blood.\n\n • Tubular secretion transfers selected substances from blood into the nephron.\n\n Study notes: important concepts and processes\n • The nephron is the functional unit of the kidney.\n\n • Ultrafiltration occurs at the glomerulus into Bowman's capsule.\n\n • Selective reabsorption returns useful substances and much water to blood.\n\n • Tubular secretion transfers selected substances from blood into the nephron.\n\n • ADH increases water reabsorption in the collecting ducts and helps regulate urine concentration.\n\n Short-answer practice — model answers\n What is a nephron?\n\n    Answer: A nephron is the structural and functional unit of the kidney, consisting of a renal corpuscle and renal tubule.\n\n What is ultrafiltration?\n\n    Answer: Ultrafiltration is pressure-driven filtration of water and small solutes from glomerular blood into Bowman's\n    capsule.\n\n Long-answer practice — model answer\n Describe the main steps of urine formation.\n\n    Answer: Blood is filtered under pressure in the glomerulus, forming filtrate in Bowman's capsule. Along the renal\n    tubule, useful substances such as glucose, amino acids, ions and much water are selectively reabsorbed. Additional\n    ions and wastes may be secreted into the tubule. The collecting ducts adjust water reabsorption, and the final urine\n    passes to the renal pelvis, ureter and bladder.\n\n Multiple-choice questions\n 1. The functional unit of the kidney is the:\n\n A. Neuron     B. Nephron     C. Alveolus   D. Villus\n\n Answer: B\n\n 2. ADH mainly increases:\n\n A. Water reabsorption      B. Glucose digestion   C. Red-cell production   D. Bile secretion\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Human Physiology: Locomotion and Movement",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Movement depends on the coordinated action of bones, joints, skeletal muscles and the nervous system. The skeleton\n supports and protects the body, while muscles generate force by contracting.",
+        "key_terms": [
+          "The axial skeleton includes the skull, vertebral column and thoracic cage; the appendicular skeleton includes limbs and girdles.",
+          "Skeletal muscles are attached to bones by tendons.",
+          "Ligaments connect bone to bone; cartilage reduces friction and absorbs shock at joints.",
+          "Skeletal muscle contraction involves actin and myosin filaments sliding past one another."
+        ],
+        "study_notes": [
+          "The axial skeleton includes the skull, vertebral column and thoracic cage; the appendicular skeleton includes limbs and\n girdles.",
+          "Skeletal muscles are attached to bones by tendons.",
+          "Ligaments connect bone to bone; cartilage reduces friction and absorbs shock at joints.",
+          "Skeletal muscle contraction involves actin and myosin filaments sliding past one another.",
+          "Antagonistic muscle pairs produce opposite movements at joints."
+        ],
+        "short_questions": "What is a tendon?\n\n    Answer: A tendon is a tough connective tissue that attaches muscle to bone.\n\n What is an antagonistic muscle pair?\n\n    Answer: It is a pair of muscles that produce opposite movements; when one contracts, the other generally relaxes.",
+        "long_questions": "Explain the sliding-filament mechanism of skeletal muscle contraction.\n\n    Answer: A nerve impulse triggers calcium release from the sarcoplasmic reticulum. Calcium binds to troponin, shifting\n    tropomyosin and exposing binding sites on actin. Myosin heads bind to actin and perform power strokes using energy\n    from ATP, pulling thin filaments inward. Repeated cross-bridge cycles shorten the sarcomere. Calcium reuptake allows\n    relaxation.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "A ligament connects: A. Muscle to bone B. Bone to bone C. Nerve to muscle D. Skin to bone Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The contractile proteins of skeletal muscle are mainly: A. Actin and myosin B. Keratin and collagen C. Insulin and glucagon D. DNA and RNA Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 22"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 7: Human Physiology:\n Locomotion and Movement\n Chapter overview\n Movement depends on the coordinated action of bones, joints, skeletal muscles and the nervous system. The skeleton\n supports and protects the body, while muscles generate force by contracting.\n\n Key terms\n • The axial skeleton includes the skull, vertebral column and thoracic cage; the appendicular skeleton includes limbs and girdles.\n\n • Skeletal muscles are attached to bones by tendons.\n\n • Ligaments connect bone to bone; cartilage reduces friction and absorbs shock at joints.\n\n • Skeletal muscle contraction involves actin and myosin filaments sliding past one another.\n\n Study notes: important concepts and processes\n • The axial skeleton includes the skull, vertebral column and thoracic cage; the appendicular skeleton includes limbs and\n girdles.\n\n • Skeletal muscles are attached to bones by tendons.\n\n • Ligaments connect bone to bone; cartilage reduces friction and absorbs shock at joints.\n\n • Skeletal muscle contraction involves actin and myosin filaments sliding past one another.\n\n • Antagonistic muscle pairs produce opposite movements at joints.\n\n Short-answer practice — model answers\n What is a tendon?\n\n    Answer: A tendon is a tough connective tissue that attaches muscle to bone.\n\n What is an antagonistic muscle pair?\n\n    Answer: It is a pair of muscles that produce opposite movements; when one contracts, the other generally relaxes.\n\n Long-answer practice — model answer\n Explain the sliding-filament mechanism of skeletal muscle contraction.\n\n    Answer: A nerve impulse triggers calcium release from the sarcoplasmic reticulum. Calcium binds to troponin, shifting\n    tropomyosin and exposing binding sites on actin. Myosin heads bind to actin and perform power strokes using energy\n    from ATP, pulling thin filaments inward. Repeated cross-bridge cycles shorten the sarcomere. Calcium reuptake allows\n    relaxation.\n\n Multiple-choice questions\n 1. A ligament connects:\n\n A. Muscle to bone     B. Bone to bone     C. Nerve to muscle   D. Skin to bone\n\n Answer: B\n\n 2. The contractile proteins of skeletal muscle are mainly:\n\n A. Actin and myosin     B. Keratin and collagen   C. Insulin and glucagon   D. DNA and RNA\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Human Physiology: Coordination and Control",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "The nervous and endocrine systems coordinate body activities. The nervous system uses rapid electrical signals, while\n hormones carried in blood generally produce slower and longer-lasting effects.",
+        "key_terms": [
+          "A neuron consists of a cell body, dendrites and an axon.",
+          "A reflex arc provides a rapid, automatic response to a stimulus.",
+          "The central nervous system includes the brain and spinal cord.",
+          "Endocrine glands release hormones into blood; target cells possess suitable receptors."
+        ],
+        "study_notes": [
+          "A neuron consists of a cell body, dendrites and an axon.",
+          "A reflex arc provides a rapid, automatic response to a stimulus.",
+          "The central nervous system includes the brain and spinal cord.",
+          "Endocrine glands release hormones into blood; target cells possess suitable receptors.",
+          "The eye and ear contain specialised receptors for light and sound or balance."
+        ],
+        "short_questions": "What is a reflex action?\n\n    Answer: A reflex action is a rapid, automatic and involuntary response to a stimulus, commonly coordinated through a\n    reflex arc.\n\n What is a hormone?\n\n    Answer: A hormone is a chemical messenger released by an endocrine cell or gland that acts on target cells with\n    appropriate receptors.",
+        "long_questions": "Describe the pathway of a simple reflex arc.\n\n    Answer: A receptor detects a stimulus and generates an impulse. A sensory neuron carries it to the spinal cord, where\n    it communicates through one or more synapses, often involving an interneuron. A motor neuron carries the signal to an\n    effector such as a muscle or gland. The effector produces the response; the brain is informed and may modify later\n    behaviour.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The basic structural and functional unit of the nervous system is: A. Neuron B. Nephron C. Alveolus D. Osteon Answer: A"
+          },
+          {
+            "number": 2,
+            "content": "Insulin is secreted by the: A. Thyroid gland B. Pancreas C. Adrenal cortex D. Pituitary only Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 23"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 8: Human Physiology:\n Coordination and Control\n Chapter overview\n The nervous and endocrine systems coordinate body activities. The nervous system uses rapid electrical signals, while\n hormones carried in blood generally produce slower and longer-lasting effects.\n\n Key terms\n • A neuron consists of a cell body, dendrites and an axon.\n\n • A reflex arc provides a rapid, automatic response to a stimulus.\n\n • The central nervous system includes the brain and spinal cord.\n\n • Endocrine glands release hormones into blood; target cells possess suitable receptors.\n\n Study notes: important concepts and processes\n • A neuron consists of a cell body, dendrites and an axon.\n\n • A reflex arc provides a rapid, automatic response to a stimulus.\n\n • The central nervous system includes the brain and spinal cord.\n\n • Endocrine glands release hormones into blood; target cells possess suitable receptors.\n\n • The eye and ear contain specialised receptors for light and sound or balance.\n\n Short-answer practice — model answers\n What is a reflex action?\n\n    Answer: A reflex action is a rapid, automatic and involuntary response to a stimulus, commonly coordinated through a\n    reflex arc.\n\n What is a hormone?\n\n    Answer: A hormone is a chemical messenger released by an endocrine cell or gland that acts on target cells with\n    appropriate receptors.\n\n Long-answer practice — model answer\n Describe the pathway of a simple reflex arc.\n\n    Answer: A receptor detects a stimulus and generates an impulse. A sensory neuron carries it to the spinal cord, where\n    it communicates through one or more synapses, often involving an interneuron. A motor neuron carries the signal to an\n    effector such as a muscle or gland. The effector produces the response; the brain is informed and may modify later\n    behaviour.\n\n Multiple-choice questions\n 1. The basic structural and functional unit of the nervous system is:\n\n A. Neuron     B. Nephron    C. Alveolus    D. Osteon\n\n Answer: A\n\n 2. Insulin is secreted by the:\n\n A. Thyroid gland    B. Pancreas     C. Adrenal cortex   D. Pituitary only\n\n Answer: B\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Continuity of Human",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Human reproduction involves the formation of gametes, fertilisation, implantation, embryonic development, birth and\n parental care. The reproductive systems are regulated by hormones.",
+        "key_terms": [
+          "Spermatogenesis occurs in seminiferous tubules; oogenesis occurs in ovarian follicles.",
+          "The menstrual cycle involves coordinated changes in the ovaries and uterine lining.",
+          "Fertilisation normally occurs in the oviduct and forms a diploid zygote.",
+          "The embryo implants in the uterine endometrium."
+        ],
+        "study_notes": [
+          "Spermatogenesis occurs in seminiferous tubules; oogenesis occurs in ovarian follicles.",
+          "The menstrual cycle involves coordinated changes in the ovaries and uterine lining.",
+          "Fertilisation normally occurs in the oviduct and forms a diploid zygote.",
+          "The embryo implants in the uterine endometrium.",
+          "The placenta enables exchange between maternal and fetal circulations without normally mixing their blood directly."
+        ],
+        "short_questions": "What is fertilisation?\n\n    Answer: Fertilisation is the fusion of a haploid male gamete and a haploid female gamete to form a diploid zygote.\n\n What is the placenta?\n\n    Answer: The placenta is a temporary organ that supports exchange of gases, nutrients and wastes between maternal\n    and fetal blood and also produces hormones.",
+        "long_questions": "Outline the major events from fertilisation to implantation.\n\n    Answer: A sperm penetrates the secondary oocyte and the nuclei ultimately unite to form a diploid zygote. The zygote\n    undergoes cleavage divisions as it moves through the oviduct, forming a morula and then a blastocyst. The blastocyst\n    reaches the uterus and attaches to, then embeds in, the endometrium during implantation.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The human zygote is normally: A. Haploid B. Diploid C. Triploid D. Without chromosomes Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Sperm are produced in the: A. Seminiferous tubules B. Oviduct C. Uterine lining D. Prostate only Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 24"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 9: Continuity of Human\n Life\n Chapter overview\n Human reproduction involves the formation of gametes, fertilisation, implantation, embryonic development, birth and\n parental care. The reproductive systems are regulated by hormones.\n\n Key terms\n • Spermatogenesis occurs in seminiferous tubules; oogenesis occurs in ovarian follicles.\n\n • The menstrual cycle involves coordinated changes in the ovaries and uterine lining.\n\n • Fertilisation normally occurs in the oviduct and forms a diploid zygote.\n\n • The embryo implants in the uterine endometrium.\n\n Study notes: important concepts and processes\n • Spermatogenesis occurs in seminiferous tubules; oogenesis occurs in ovarian follicles.\n\n • The menstrual cycle involves coordinated changes in the ovaries and uterine lining.\n\n • Fertilisation normally occurs in the oviduct and forms a diploid zygote.\n\n • The embryo implants in the uterine endometrium.\n\n • The placenta enables exchange between maternal and fetal circulations without normally mixing their blood directly.\n\n Short-answer practice — model answers\n What is fertilisation?\n\n    Answer: Fertilisation is the fusion of a haploid male gamete and a haploid female gamete to form a diploid zygote.\n\n What is the placenta?\n\n    Answer: The placenta is a temporary organ that supports exchange of gases, nutrients and wastes between maternal\n    and fetal blood and also produces hormones.\n\n Long-answer practice — model answer\n Outline the major events from fertilisation to implantation.\n\n    Answer: A sperm penetrates the secondary oocyte and the nuclei ultimately unite to form a diploid zygote. The zygote\n    undergoes cleavage divisions as it moves through the oviduct, forming a morula and then a blastocyst. The blastocyst\n    reaches the uterus and attaches to, then embeds in, the endometrium during implantation.\n\n Multiple-choice questions\n 1. The human zygote is normally:\n\n A. Haploid    B. Diploid   C. Triploid   D. Without chromosomes\n\n Answer: B\n\n 2. Sperm are produced in the:\n\n A. Seminiferous tubules     B. Oviduct    C. Uterine lining   D. Prostate only\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Defence of the Human Body",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "The immune system protects the body against pathogens and abnormal cells. Innate immunity provides rapid general\n defence, while adaptive immunity develops specific responses and immunological memory.",
+        "key_terms": [
+          "Physical barriers include skin and mucous membranes.",
+          "Phagocytes engulf pathogens; inflammation helps recruit immune cells.",
+          "B lymphocytes can differentiate into antibody-secreting plasma cells and memory cells.",
+          "T lymphocytes coordinate immune responses or destroy infected cells."
+        ],
+        "study_notes": [
+          "Physical barriers include skin and mucous membranes.",
+          "Phagocytes engulf pathogens; inflammation helps recruit immune cells.",
+          "B lymphocytes can differentiate into antibody-secreting plasma cells and memory cells.",
+          "T lymphocytes coordinate immune responses or destroy infected cells.",
+          "Vaccination exposes the immune system to an antigen safely enough to promote immune memory."
+        ],
+        "short_questions": "What is an antigen?\n\n    Answer: An antigen is a substance recognised by the immune system that can trigger a specific immune response.\n\n What is immunological memory?\n\n    Answer: Immunological memory is the ability of the adaptive immune system to respond more rapidly and strongly\n    after a previous exposure to an antigen.",
+        "long_questions": "Compare innate and adaptive immunity.\n\n    Answer: Innate immunity is present from birth, responds rapidly and recognises broad classes of threats. It includes\n    barriers, phagocytes, inflammation and complement. Adaptive immunity is antigen-specific, involves B and T\n    lymphocytes, develops after exposure and forms memory cells. This memory allows a faster, stronger response on\n    subsequent exposure.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Antibodies are produced by: A. Red blood cells B. Plasma cells C. Platelets D. Neurons Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Vaccination primarily aims to develop: A. Immune memory B. Dehydration C. Blood clotting D. Digestion Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 25"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 10: Defence of the\n Human Body\n Chapter overview\n The immune system protects the body against pathogens and abnormal cells. Innate immunity provides rapid general\n defence, while adaptive immunity develops specific responses and immunological memory.\n\n Key terms\n • Physical barriers include skin and mucous membranes.\n\n • Phagocytes engulf pathogens; inflammation helps recruit immune cells.\n\n • B lymphocytes can differentiate into antibody-secreting plasma cells and memory cells.\n\n • T lymphocytes coordinate immune responses or destroy infected cells.\n\n Study notes: important concepts and processes\n • Physical barriers include skin and mucous membranes.\n\n • Phagocytes engulf pathogens; inflammation helps recruit immune cells.\n\n • B lymphocytes can differentiate into antibody-secreting plasma cells and memory cells.\n\n • T lymphocytes coordinate immune responses or destroy infected cells.\n\n • Vaccination exposes the immune system to an antigen safely enough to promote immune memory.\n\n Short-answer practice — model answers\n What is an antigen?\n\n    Answer: An antigen is a substance recognised by the immune system that can trigger a specific immune response.\n\n What is immunological memory?\n\n    Answer: Immunological memory is the ability of the adaptive immune system to respond more rapidly and strongly\n    after a previous exposure to an antigen.\n\n Long-answer practice — model answer\n Compare innate and adaptive immunity.\n\n    Answer: Innate immunity is present from birth, responds rapidly and recognises broad classes of threats. It includes\n    barriers, phagocytes, inflammation and complement. Adaptive immunity is antigen-specific, involves B and T\n    lymphocytes, develops after exposure and forms memory cells. This memory allows a faster, stronger response on\n    subsequent exposure.\n\n Multiple-choice questions\n 1. Antibodies are produced by:\n\n A. Red blood cells    B. Plasma cells    C. Platelets   D. Neurons\n\n Answer: B\n\n 2. Vaccination primarily aims to develop:\n\n A. Immune memory        B. Dehydration    C. Blood clotting   D. Digestion\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Genetics and Evolution",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Genetics studies heredity and variation. Mendelian principles explain inheritance of many traits, while molecular genetics\n describes genes and chromosomes. Evolution explains changes in populations over generations.",
+        "key_terms": [
+          "A gene is a DNA sequence associated with a functional product or trait.",
+          "Alleles are alternative forms of a gene; genotype is genetic constitution and phenotype is observable expression.",
+          "Mendel's law of segregation states that allele pairs separate during gamete formation.",
+          "Natural selection changes allele frequencies when heritable traits affect reproductive success."
+        ],
+        "study_notes": [
+          "A gene is a DNA sequence associated with a functional product or trait.",
+          "Alleles are alternative forms of a gene; genotype is genetic constitution and phenotype is observable expression.",
+          "Mendel's law of segregation states that allele pairs separate during gamete formation.",
+          "Natural selection changes allele frequencies when heritable traits affect reproductive success.",
+          "Mutation, recombination, gene flow, genetic drift and selection contribute to evolutionary change."
+        ],
+        "short_questions": "What is an allele?\n\n    Answer: An allele is an alternative form of a gene occupying a particular locus on a chromosome.\n\n State the law of segregation.\n\n    Answer: The two alleles of a gene separate during gamete formation, so each gamete receives one allele.",
+        "long_questions": "Explain how natural selection can lead to evolution.\n\n    Answer: Individuals in a population vary, and some variation is heritable. More offspring are often produced than can\n    survive, creating competition. Individuals with heritable traits that improve survival or reproductive success tend to\n    leave more offspring. Over generations, alleles associated with those traits may increase in frequency, causing\n    evolutionary change in the population.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The observable characteristics of an organism are its: A. Genotype B. Phenotype C. Alleles only D. Karyotype only Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The ultimate source of new alleles is: A. Mutation B. Mitosis C. Fertilisation only D. Translation Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one."
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 11: Genetics and\n Evolution\n Chapter overview\n Genetics studies heredity and variation. Mendelian principles explain inheritance of many traits, while molecular genetics\n describes genes and chromosomes. Evolution explains changes in populations over generations.\n\n Key terms\n • A gene is a DNA sequence associated with a functional product or trait.\n\n • Alleles are alternative forms of a gene; genotype is genetic constitution and phenotype is observable expression.\n\n • Mendel's law of segregation states that allele pairs separate during gamete formation.\n\n • Natural selection changes allele frequencies when heritable traits affect reproductive success.\n\n Study notes: important concepts and processes\n • A gene is a DNA sequence associated with a functional product or trait.\n\n • Alleles are alternative forms of a gene; genotype is genetic constitution and phenotype is observable expression.\n\n • Mendel's law of segregation states that allele pairs separate during gamete formation.\n\n • Natural selection changes allele frequencies when heritable traits affect reproductive success.\n\n • Mutation, recombination, gene flow, genetic drift and selection contribute to evolutionary change.\n\n Short-answer practice — model answers\n What is an allele?\n\n    Answer: An allele is an alternative form of a gene occupying a particular locus on a chromosome.\n\n State the law of segregation.\n\n    Answer: The two alleles of a gene separate during gamete formation, so each gamete receives one allele.\n\n Long-answer practice — model answer\n Explain how natural selection can lead to evolution.\n\n    Answer: Individuals in a population vary, and some variation is heritable. More offspring are often produced than can\n    survive, creating competition. Individuals with heritable traits that improve survival or reproductive success tend to\n    leave more offspring. Over generations, alleles associated with those traits may increase in frequency, causing\n    evolutionary change in the population.\n\n Multiple-choice questions\n 1. The observable characteristics of an organism are its:\n\n A. Genotype     B. Phenotype     C. Alleles only    D. Karyotype only\n\n Answer: B\n\n 2. The ultimate source of new alleles is:\n\n A. Mutation    B. Mitosis   C. Fertilisation only   D. Translation\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Animal Behaviour",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Animal behaviour includes responses to internal and external stimuli. Behaviour may be innate or learned and is shaped\n by genes, development, experience and environmental conditions.",
+        "key_terms": [
+          "of every chapter?",
+          "Can I compare related groups, structures and physiological processes?",
+          "Can I explain each major process in the correct sequence?",
+          "Can I draw and label the diagrams required by my textbook?",
+          "Can I distinguish definitions that are easily confused?",
+          "Have I practised short answers, long answers and MCQs without looking at the notes?",
+          "Have I checked the latest syllabus and practical instructions from my college or education board?",
+          "References and syllabus note\n This is independently written educational revision material, not a verbatim NCTB textbook or an official board publication.\n The chapter list and broad coverage were cross-checked against publicly available Bangladesh HSC Biology chapter\n outlines and school syllabus documents. For exact topic coverage, diagrams, practical requirements and\n examination-year changes, follow the current NCTB-prescribed textbooks and official notices from your college and\n education board.",
+          "Study consistently, practise labelled diagrams and use the model answers to learn how to explain biological ideas clearly.",
+          "Bangladesh HSC Biology | First & Second Paper                                                                          Page 28"
+        ],
+        "study_notes": [
+          "Taxis is directional movement in response to a stimulus.",
+          "A reflex is a rapid, relatively automatic response mediated by a neural pathway.",
+          "Instinctive behaviour is an inherited pattern that can occur without prior learning.",
+          "Learning changes behaviour through experience; examples include habituation and conditioning.",
+          "Communication, migration, courtship and social behaviour can improve survival or reproductive success."
+        ],
+        "short_questions": "What is taxis?\n\n    Answer: Taxis is directional movement of an organism or cell towards or away from a stimulus.\n\n What is habituation?\n\n    Answer: Habituation is a simple form of learning in which response to a repeated, harmless stimulus decreases over\n    time.",
+        "long_questions": "Distinguish between innate and learned behaviour with examples.\n\n    Answer: Innate behaviour is largely inherited and can be performed without prior experience, such as a reflex or a\n    species-typical courtship pattern. Learned behaviour is modified by experience, such as habituation, conditioning or\n    problem-solving. Many behaviours combine inherited tendencies with learning and environmental influence.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "A directional movement response to a stimulus is called: A. Taxis B. Mutation C. Osmosis D. Diffusion Answer: A"
+          },
+          {
+            "number": 2,
+            "content": "A decrease in response to a repeated harmless stimulus is: A. Habituation B. Migration C. Imprinting only D. Reflex action Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear labelled diagram wherever the question requires one. Bangladesh HSC Biology | First & Second Paper Page 27 Final Revision Checklist • Can I explain the main idea and"
+      },
+      "source_text": "BIOLOGY 2ND PAPER — Chapter 12: Animal Behaviour\n\n Chapter overview\n Animal behaviour includes responses to internal and external stimuli. Behaviour may be innate or learned and is shaped\n by genes, development, experience and environmental conditions.\n\n Key terms\n • Taxis is directional movement in response to a stimulus.\n\n • A reflex is a rapid, relatively automatic response mediated by a neural pathway.\n\n • Instinctive behaviour is an inherited pattern that can occur without prior learning.\n\n • Learning changes behaviour through experience; examples include habituation and conditioning.\n\n Study notes: important concepts and processes\n • Taxis is directional movement in response to a stimulus.\n\n • A reflex is a rapid, relatively automatic response mediated by a neural pathway.\n\n • Instinctive behaviour is an inherited pattern that can occur without prior learning.\n\n • Learning changes behaviour through experience; examples include habituation and conditioning.\n\n • Communication, migration, courtship and social behaviour can improve survival or reproductive success.\n\n Short-answer practice — model answers\n What is taxis?\n\n    Answer: Taxis is directional movement of an organism or cell towards or away from a stimulus.\n\n What is habituation?\n\n    Answer: Habituation is a simple form of learning in which response to a repeated, harmless stimulus decreases over\n    time.\n\n Long-answer practice — model answer\n Distinguish between innate and learned behaviour with examples.\n\n    Answer: Innate behaviour is largely inherited and can be performed without prior experience, such as a reflex or a\n    species-typical courtship pattern. Learned behaviour is modified by experience, such as habituation, conditioning or\n    problem-solving. Many behaviours combine inherited tendencies with learning and environmental influence.\n\n Multiple-choice questions\n 1. A directional movement response to a stimulus is called:\n\n A. Taxis    B. Mutation   C. Osmosis     D. Diffusion\n\n Answer: A\n\n 2. A decrease in response to a repeated harmless stimulus is:\n\n A. Habituation    B. Migration   C. Imprinting only     D. Reflex action\n\n Answer: A\n\n Answer-writing tip: Use precise terms, describe the process in logical order, mention the function of each structure and add a clear\n labelled diagram wherever the question requires one.\n\n Final Revision Checklist\n • Can I explain the main idea and key terms of every chapter?\n\n • Can I compare related groups, structures and physiological processes?\n\n • Can I explain each major process in the correct sequence?\n\n • Can I draw and label the diagrams required by my textbook?\n\n • Can I distinguish definitions that are easily confused?\n\n • Have I practised short answers, long answers and MCQs without looking at the notes?\n\n • Have I checked the latest syllabus and practical instructions from my college or education board?\n\n References and syllabus note\n This is independently written educational revision material, not a verbatim NCTB textbook or an official board publication.\n The chapter list and broad coverage were cross-checked against publicly available Bangladesh HSC Biology chapter\n outlines and school syllabus documents. For exact topic coverage, diagrams, practical requirements and\n examination-year changes, follow the current NCTB-prescribed textbooks and official notices from your college and\n education board.\n\n Study consistently, practise labelled diagrams and use the model answers to learn how to explain biological ideas clearly."
+    }
+  ],
+  "notes": "Content is extracted from the supplied PDF study guide. Source text is retained in each chapter for fidelity; mathematical symbols may reflect PDF text extraction."
+}

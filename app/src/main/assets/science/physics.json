@@ -1,0 +1,837 @@
+{
+  "class": "HSC 12th Class",
+  "stream": "Science",
+  "subject": "Physics",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "subject_codes": {
+    "1st_paper": 174,
+    "2nd_paper": 175
+  },
+  "source_pdf": "Bangladesh_HSC_Physics_Study_Guide_with_Answers_Added(2).pdf",
+  "papers": [
+    {
+      "name": "1st Paper",
+      "chapter_count": 10
+    },
+    {
+      "name": "2nd Paper",
+      "chapter_count": 11
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Physical World and Measurement",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Physics is the study of matter, energy, motion and their interactions. It uses observation, experiment, mathematical models and\n  measurement. A physical quantity is expressed as a numerical value multiplied by a unit. SI base quantities are length, mass, time,\n  electric current, thermodynamic temperature, amount of substance and luminous intensity. Accuracy describes closeness to the\n  accepted value, while precision describes agreement among repeated measurements.",
+        "key_terms": [
+          "Physical quantity: a measurable property expressed by number and unit.",
+          "SI unit: internationally agreed unit of measurement.",
+          "Dimension: powers of fundamental quantities in a physical quantity.",
+          "Significant figures: digits that meaningfully express measurement precision.",
+          "Systematic error: a consistent bias; random error: unpredictable variation."
+        ],
+        "study_notes": [
+          "Check that equations are dimensionally homogeneous: both sides must have the same dimensions.",
+          "Use prefixes carefully: milli = 10■³, micro = 10■■, kilo = 10³ and mega = 10■.",
+          "For repeated readings, calculate the mean; report uncertainty with appropriate significant figures.",
+          "Dimensional analysis can test an equation but cannot prove that it is physically correct."
+        ],
+        "worked_example": "Convert 90 km h■¹ to m s■¹. Solution: 90 × 1000/3600 = 25 m s■¹.",
+        "short_questions": "1. What is a physical quantity?\n\n    2. Distinguish accuracy and precision.\n\n    3. What is dimensional homogeneity?\n\n    4. Name the seven SI base quantities.",
+        "long_questions": "1. Explain the importance and limitations of dimensional analysis.\n\n    2. Discuss common measurement errors and how they can be reduced.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The SI unit of force is: A. joule B. newton C. watt D. pascal Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The dimensions of velocity are: A. [LT■¹] B. [LT■²] C. [MLT■¹] D. [L²T■¹] Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What is a physical quantity?\n Answer: A physical quantity is a measurable property that can be expressed as a numerical value multiplied by a unit, such\n as 5 m or 2 kg.\n\n Distinguish accuracy and precision.\n Answer: Accuracy is how close a measured value is to the accepted or true value. Precision is how close repeated\n measurements are to one another.\n\n What is dimensional homogeneity?\n Answer: An equation is dimensionally homogeneous when every term being added and both sides of the equation have the\n same dimensions.\n\n Name the seven SI base quantities.\n Answer: Length, mass, time, electric current, thermodynamic temperature, amount of substance and luminous intensity. Their\n SI units are metre, kilogram, second, ampere, kelvin, mole and candela.\n\n B. Long-answer questions — model answers\n Explain the importance and limitations of dimensional analysis.\n Answer: Dimensional analysis checks whether an equation is dimensionally consistent, helps derive relations between\n physical quantities up to a dimensionless constant, and helps convert units. It cannot determine numerical dimensionless\n constants, distinguish between terms joined by addition or subtraction, or derive functions such as sinθ, exp(x) or log(x).\n Therefore, dimensional agreement is necessary but does not prove an equation is correct.\n\n Discuss common measurement errors and how they can be reduced.\n Answer: Systematic errors shift readings consistently and may arise from zero error, calibration or the method used; calibrate\n instruments and correct zero errors to reduce them. Random errors vary unpredictably; repeat measurements and use the\n mean. Personal/parallax errors can be reduced by reading scales at eye level. Use suitable instruments, avoid disturbing the\n system, record units and quote uncertainty and significant figures.\n\nBangladesh HSC Physics • Model Answers                                                                                     Page 3"
+      },
+      "source_text": "Chapter 1: Physical World and Measurement\n  Chapter overview\n  Physics is the study of matter, energy, motion and their interactions. It uses observation, experiment, mathematical models and\n  measurement. A physical quantity is expressed as a numerical value multiplied by a unit. SI base quantities are length, mass, time,\n  electric current, thermodynamic temperature, amount of substance and luminous intensity. Accuracy describes closeness to the\n  accepted value, while precision describes agreement among repeated measurements.\n\n  Key terms\n   • Physical quantity: a measurable property expressed by number and unit.\n\n   • SI unit: internationally agreed unit of measurement.\n\n   • Dimension: powers of fundamental quantities in a physical quantity.\n\n   • Significant figures: digits that meaningfully express measurement precision.\n\n   • Systematic error: a consistent bias; random error: unpredictable variation.\n\n  Study notes: important laws, principles and formulas\n   • Check that equations are dimensionally homogeneous: both sides must have the same dimensions.\n\n   • Use prefixes carefully: milli = 10■³, micro = 10■■, kilo = 10³ and mega = 10■.\n\n   • For repeated readings, calculate the mean; report uncertainty with appropriate significant figures.\n\n   • Dimensional analysis can test an equation but cannot prove that it is physically correct.\n\n  Worked example / application\n  Convert 90 km h■¹ to m s■¹. Solution: 90 × 1000/3600 = 25 m s■¹.\n\n  Short-answer practice\n    1. What is a physical quantity?\n\n    2. Distinguish accuracy and precision.\n\n    3. What is dimensional homogeneity?\n\n    4. Name the seven SI base quantities.\n\n  Long-answer practice\n    1. Explain the importance and limitations of dimensional analysis.\n\n    2. Discuss common measurement errors and how they can be reduced.\n\n  Multiple-choice questions\n    1. The SI unit of force is:\n    A. joule B. newton C. watt D. pascal\n    Answer: B\n\n    2. The dimensions of velocity are:\n    A. [LT■¹] B. [LT■²] C. [MLT■¹] D. [L²T■¹]\n    Answer: A\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Vector",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "A scalar has magnitude only, whereas a vector has both magnitude and direction. Vectors may be represented by directed line\n  segments and resolved into perpendicular components. Vector addition follows the triangle or parallelogram law. The dot product\n  produces a scalar and the cross product produces a vector perpendicular to the plane of the two factors.",
+        "key_terms": [
+          "Scalar: quantity with magnitude only, e.g. mass or temperature.",
+          "Vector: quantity with magnitude and direction, e.g. displacement or force.",
+          "Bangladesh HSC Physics | First & Second Paper                                                                                                           Page 3",
+          "Unit vector: vector of magnitude one used to specify direction.",
+          "Resultant: single vector having the same combined effect as a set of vectors."
+        ],
+        "study_notes": [
+          "For A at angle θ to the positive x-axis, Ax = A cosθ and Ay = A sinθ.",
+          "For components Rx and Ry, R = √(Rx² + Ry²), with direction θ = tan■¹(Ry/Rx).",
+          "A·B = AB cosθ; |A×B| = AB sinθ.",
+          "Relative velocity of A with respect to B is vAB = vA − vB."
+        ],
+        "worked_example": "Two perpendicular forces of 6 N and 8 N act on a point. Resultant = √(6² + 8²) = 10 N.",
+        "short_questions": "1. What is a unit vector?\n\n    2. State the parallelogram law of vector addition.\n\n    3. Distinguish scalar and vector quantities.\n\n    4. When is the dot product of two vectors zero?",
+        "long_questions": "1. Explain resolution of a vector into rectangular components and show how the resultant of two perpendicular vectors is obtained.\n\n    2. Compare scalar product and vector product, including their physical applications.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The magnitude of a unit vector is: A. zero B. one C. two D. variable Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "A·B is zero when the angle between A and B is: A. 0° B. 45° C. 90° D. 180° Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What is a unit vector?\n Answer: A unit vector is a vector whose magnitude is exactly one. It indicates direction and is often written as î, ■ or k■ along\n the coordinate axes.\n\n State the parallelogram law of vector addition.\n Answer: If two vectors acting at a point are represented by the adjacent sides of a parallelogram, their resultant is\n represented in magnitude and direction by the diagonal through that point.\n\n Distinguish scalar and vector quantities.\n Answer: A scalar has magnitude only, such as mass, time or temperature. A vector has both magnitude and direction, such\n as displacement, velocity or force.\n\n When is the dot product of two vectors zero?\n Answer: A·B = AB cosθ is zero when either vector is zero or, for non-zero vectors, when they are perpendicular (θ = 90°).\n\n B. Long-answer questions — model answers\n Explain resolution of a vector into rectangular components and show how the resultant of two\n perpendicular vectors is obtained.\n Answer: For a vector A making angle θ with the positive x-axis, its perpendicular components are Ax = A cosθ and Ay = A\n sinθ. Conversely, A = Ax î + Ay ■. For perpendicular vectors P and Q, the resultant magnitude is R = √(P² + Q²), and its\n direction from P is θ = tan■¹(Q/P). The signs of components determine the correct quadrant.\n\n Compare scalar product and vector product, including their physical applications.\n Answer: The scalar (dot) product is A·B = AB cosθ; its result is a scalar and is commutative. Work W = F·s is an example. The\n vector (cross) product is A×B with magnitude AB sinθ; its direction is perpendicular to both vectors by the right-hand rule and\n it is anti-commutative. Torque τ = r×F and angular momentum L = r×p are examples.\n\nBangladesh HSC Physics • Model Answers                                                                                      Page 4"
+      },
+      "source_text": "Chapter 2: Vector\n  Chapter overview\n  A scalar has magnitude only, whereas a vector has both magnitude and direction. Vectors may be represented by directed line\n  segments and resolved into perpendicular components. Vector addition follows the triangle or parallelogram law. The dot product\n  produces a scalar and the cross product produces a vector perpendicular to the plane of the two factors.\n\n  Key terms\n   • Scalar: quantity with magnitude only, e.g. mass or temperature.\n\n   • Vector: quantity with magnitude and direction, e.g. displacement or force.\n\n   • Unit vector: vector of magnitude one used to specify direction.\n\n   • Resultant: single vector having the same combined effect as a set of vectors.\n\n  Study notes: important laws, principles and formulas\n   • For A at angle θ to the positive x-axis, Ax = A cosθ and Ay = A sinθ.\n\n   • For components Rx and Ry, R = √(Rx² + Ry²), with direction θ = tan■¹(Ry/Rx).\n\n   • A·B = AB cosθ; |A×B| = AB sinθ.\n\n   • Relative velocity of A with respect to B is vAB = vA − vB.\n\n  Worked example / application\n  Two perpendicular forces of 6 N and 8 N act on a point. Resultant = √(6² + 8²) = 10 N.\n\n  Short-answer practice\n    1. What is a unit vector?\n\n    2. State the parallelogram law of vector addition.\n\n    3. Distinguish scalar and vector quantities.\n\n    4. When is the dot product of two vectors zero?\n\n  Long-answer practice\n    1. Explain resolution of a vector into rectangular components and show how the resultant of two perpendicular vectors is obtained.\n\n    2. Compare scalar product and vector product, including their physical applications.\n\n  Multiple-choice questions\n    1. The magnitude of a unit vector is:\n    A. zero B. one C. two D. variable\n    Answer: B\n\n    2. A·B is zero when the angle between A and B is:\n    A. 0° B. 45° C. 90° D. 180°\n    Answer: C\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Dynamics",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Kinematics describes motion without discussing its causes; dynamics relates motion to forces. Displacement, velocity and acceleration\n  are vector quantities. For constant acceleration, the equations of motion connect initial velocity, final velocity, acceleration, time and\n  displacement. Projectile motion combines uniform horizontal motion with vertically accelerated motion. Circular motion requires\n  centripetal acceleration directed toward the centre.",
+        "key_terms": [
+          "Displacement: change in position in a specified direction.",
+          "Velocity: rate of change of displacement.",
+          "Acceleration: rate of change of velocity.",
+          "Projectile: object moving under gravity after being projected, neglecting air resistance."
+        ],
+        "study_notes": [
+          "v = u + at; s = ut + ½at²; v² = u² + 2as.",
+          "For a projectile landing at its launch height: T = 2u sinθ/g; H = u²sin²θ/(2g); R = u²sin2θ/g.",
+          "Centripetal acceleration ac = v²/r = ω²r.",
+          "The slope of a displacement-time graph gives velocity; the slope of a velocity-time graph gives acceleration."
+        ],
+        "worked_example": "A car accelerates uniformly from 5 m s■¹ at 2 m s■² for 4 s. Final velocity = 5 + 2(4) = 13 m s■¹; displacement = 5(4) + ½(2)(16) = 36 m.",
+        "short_questions": "Bangladesh HSC Physics | First & Second Paper                                                                                                           Page 4\n\n    1. What is uniform acceleration?\n\n    2. Why is projectile motion two-dimensional?\n\n    3. Define centripetal acceleration.\n\n    4. What does the area under a velocity-time graph represent?",
+        "long_questions": "1. Derive the equations of motion for uniform acceleration using a velocity-time graph.\n\n    2. Explain projectile motion and derive expressions for time of flight, maximum height and horizontal range.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The slope of a velocity-time graph represents: A. displacement B. acceleration C. force D. momentum Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "At the highest point of ideal projectile motion, vertical velocity is: A. maximum B. zero C. g D. unchanged Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What is uniform acceleration?\n Answer: Uniform acceleration is constant acceleration: the velocity changes by equal amounts in equal intervals of time.\n\n Why is projectile motion two-dimensional?\n Answer: A projectile has independent horizontal and vertical motion. Its horizontal velocity is constant (neglecting air\n resistance), while its vertical velocity changes under gravity, so its path lies in a plane.\n\n Define centripetal acceleration.\n Answer: Centripetal acceleration is the acceleration of an object moving in a circular path, directed towards the centre. Its\n magnitude is ac = v²/r = ω²r.\n\n What does the area under a velocity-time graph represent?\n Answer: The signed area under a velocity-time graph over a time interval gives the object's displacement during that interval.\n\n B. Long-answer questions — model answers\n Derive the equations of motion for uniform acceleration using a velocity-time graph.\n Answer: For initial velocity u, final velocity v after time t and constant acceleration a, the graph is a straight line. Its slope gives\n a = (v−u)/t, hence v = u + at. Displacement is the area under the graph: s = average velocity × t = (u+v)t/2. Substituting v =\n u+at gives s = ut + ½at². Eliminating t using v−u = at gives v² = u² + 2as.\n\n Explain projectile motion and derive expressions for time of flight, maximum height and horizontal range.\n Answer: For projection speed u at angle θ, horizontal and vertical components are u cosθ and u sinθ. With launch and landing\n at the same level and no air resistance, vertical displacement is y = u sinθ·t − ½gt². Setting y = 0 gives non-zero flight time T =\n 2u sinθ/g. At the top, vertical velocity is zero, giving H = u²sin²θ/(2g). Horizontal range R = u cosθ·T = u²sin2θ/g.\n\nBangladesh HSC Physics • Model Answers                                                                                             Page 5"
+      },
+      "source_text": "Chapter 3: Dynamics\n  Chapter overview\n  Kinematics describes motion without discussing its causes; dynamics relates motion to forces. Displacement, velocity and acceleration\n  are vector quantities. For constant acceleration, the equations of motion connect initial velocity, final velocity, acceleration, time and\n  displacement. Projectile motion combines uniform horizontal motion with vertically accelerated motion. Circular motion requires\n  centripetal acceleration directed toward the centre.\n\n  Key terms\n   • Displacement: change in position in a specified direction.\n\n   • Velocity: rate of change of displacement.\n\n   • Acceleration: rate of change of velocity.\n\n   • Projectile: object moving under gravity after being projected, neglecting air resistance.\n\n  Study notes: important laws, principles and formulas\n   • v = u + at; s = ut + ½at²; v² = u² + 2as.\n\n   • For a projectile landing at its launch height: T = 2u sinθ/g; H = u²sin²θ/(2g); R = u²sin2θ/g.\n\n   • Centripetal acceleration ac = v²/r = ω²r.\n\n   • The slope of a displacement-time graph gives velocity; the slope of a velocity-time graph gives acceleration.\n\n  Worked example / application\n  A car accelerates uniformly from 5 m s■¹ at 2 m s■² for 4 s. Final velocity = 5 + 2(4) = 13 m s■¹; displacement = 5(4) + ½(2)(16) = 36\n  m.\n\n  Short-answer practice\n\n    1. What is uniform acceleration?\n\n    2. Why is projectile motion two-dimensional?\n\n    3. Define centripetal acceleration.\n\n    4. What does the area under a velocity-time graph represent?\n\n  Long-answer practice\n    1. Derive the equations of motion for uniform acceleration using a velocity-time graph.\n\n    2. Explain projectile motion and derive expressions for time of flight, maximum height and horizontal range.\n\n  Multiple-choice questions\n    1. The slope of a velocity-time graph represents:\n    A. displacement B. acceleration C. force D. momentum\n    Answer: B\n\n    2. At the highest point of ideal projectile motion, vertical velocity is:\n    A. maximum B. zero C. g D. unchanged\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Newtonian Mechanics",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Newton's laws connect force and motion. The first law introduces inertia, the second law relates net force to rate of change of\n  momentum, and the third law describes action-reaction pairs. Linear momentum is conserved in an isolated system. Rotational motion\n  is described using torque, moment of inertia and angular momentum.",
+        "key_terms": [
+          "Inertia: resistance to a change in state of motion.",
+          "Momentum: product of mass and velocity.",
+          "Impulse: change in momentum caused by a force acting over time.",
+          "Torque: turning effect of a force about an axis.",
+          "Moment of inertia: rotational analogue of mass."
+        ],
+        "study_notes": [
+          "F = dp/dt; for constant mass, F = ma.",
+          "Impulse J = F∆t = ∆p.",
+          "Conservation of momentum: total initial momentum = total final momentum in an isolated system.",
+          "Torque τ = rF sinθ; rotational equation τ = Iα; angular momentum L = Iω.",
+          "Friction: f ≤ µsN before sliding; kinetic friction fk = µkN."
+        ],
+        "worked_example": "A 0.15 kg ball changes velocity from +20 m s■¹ to −10 m s■¹. Change in momentum = 0.15(−10−20) = −4.5 kg m s■¹; impulse magnitude = 4.5 N s.",
+        "short_questions": "1. State Newton's first law.\n\n    2. Define impulse.\n\n    3. Why do action and reaction forces not cancel each other?\n\n    4. What is the moment of inertia?",
+        "long_questions": "1. State and explain Newton's three laws of motion with suitable examples.\n\n    2. Explain conservation of linear momentum and derive it for a two-body interaction.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Newton's second law in general form is: A. F = mv B. F = dp/dt C. p = F/t D. F = m/v Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The SI unit of momentum is: A. N B. kg m s■¹ C. joule D. watt Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n State Newton's first law.\n Answer: A body remains at rest or continues in uniform straight-line motion unless acted on by a non-zero resultant external\n force. This is the law of inertia.\n\n Define impulse.\n Answer: Impulse is the product of force and the time interval for which it acts; for a constant force J = F∆t. It equals the\n change in momentum, ∆p, and its SI unit is N s.\n\n Why do action and reaction forces not cancel each other?\n Answer: They act on two different bodies. Forces cancel only when equal and opposite forces act on the same body in the\n same free-body diagram.\n\n What is the moment of inertia?\n Answer: Moment of inertia about an axis is I = Σmr² for discrete particles. It measures resistance to angular acceleration and\n depends on how mass is distributed relative to the axis.\n\n B. Long-answer questions — model answers\n State and explain Newton's three laws of motion with suitable examples.\n Answer: First law: without a resultant external force, a body remains at rest or in uniform straight-line motion; e.g. passengers\n tend to move forward when a bus stops. Second law: resultant force equals rate of change of momentum, F = dp/dt, or F =\n ma for constant mass; e.g. a larger force gives a larger acceleration. Third law: every action has an equal and opposite\n reaction acting on another body; e.g. a rocket moves forward as gases are expelled backward.\n\n Explain conservation of linear momentum and derive it for a two-body interaction.\n Answer: For two interacting bodies in an isolated system, the internal forces are equal and opposite: F12 = −F21. Since F =\n dp/dt, dp1/dt = −dp2/dt, so d(p1+p2)/dt = 0. Thus total momentum is constant: m1u1 + m2u2 = m1v1 + m2v2. This holds\n when the net external impulse on the system is zero.\n\nBangladesh HSC Physics • Model Answers                                                                                          Page 6"
+      },
+      "source_text": "Chapter 4: Newtonian Mechanics\n  Chapter overview\n  Newton's laws connect force and motion. The first law introduces inertia, the second law relates net force to rate of change of\n  momentum, and the third law describes action-reaction pairs. Linear momentum is conserved in an isolated system. Rotational motion\n  is described using torque, moment of inertia and angular momentum.\n\n  Key terms\n   • Inertia: resistance to a change in state of motion.\n\n   • Momentum: product of mass and velocity.\n\n   • Impulse: change in momentum caused by a force acting over time.\n\n   • Torque: turning effect of a force about an axis.\n\n   • Moment of inertia: rotational analogue of mass.\n\n  Study notes: important laws, principles and formulas\n   • F = dp/dt; for constant mass, F = ma.\n\n   • Impulse J = F∆t = ∆p.\n\n   • Conservation of momentum: total initial momentum = total final momentum in an isolated system.\n\n   • Torque τ = rF sinθ; rotational equation τ = Iα; angular momentum L = Iω.\n\n   • Friction: f ≤ µsN before sliding; kinetic friction fk = µkN.\n\n  Worked example / application\n  A 0.15 kg ball changes velocity from +20 m s■¹ to −10 m s■¹. Change in momentum = 0.15(−10−20) = −4.5 kg m s■¹; impulse\n  magnitude = 4.5 N s.\n\n  Short-answer practice\n    1. State Newton's first law.\n\n    2. Define impulse.\n\n    3. Why do action and reaction forces not cancel each other?\n\n    4. What is the moment of inertia?\n\n  Long-answer practice\n    1. State and explain Newton's three laws of motion with suitable examples.\n\n    2. Explain conservation of linear momentum and derive it for a two-body interaction.\n\n  Multiple-choice questions\n\n    1. Newton's second law in general form is:\n    A. F = mv B. F = dp/dt C. p = F/t D. F = m/v\n    Answer: B\n\n    2. The SI unit of momentum is:\n    A. N B. kg m s■¹ C. joule D. watt\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Work, Energy and Power",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Work is done when a force causes displacement. Energy is the capacity to do work. Kinetic energy is associated with motion and\n  potential energy with position or configuration. The work-energy theorem states that net work equals change in kinetic energy. In an\n  isolated system, energy is conserved, although it may change form.",
+        "key_terms": [
+          "Work: scalar product of force and displacement.",
+          "Kinetic energy: energy due to motion.",
+          "Potential energy: energy due to position or configuration.",
+          "Power: rate of doing work or transferring energy.",
+          "Conservative force: work is path-independent."
+        ],
+        "study_notes": [
+          "W = Fs cosθ; K = ½mv²; gravitational U = mgh.",
+          "Spring potential energy U = ½kx².",
+          "P = W/t; instantaneous power P = F·v.",
+          "Efficiency = (useful output energy/input energy) × 100%.",
+          "For conservative forces, total mechanical energy K + U remains constant."
+        ],
+        "worked_example": "A 2 kg object is raised vertically by 5 m. Increase in gravitational potential energy = mgh = 2 × 9.8 × 5 = 98 J.",
+        "short_questions": "1. When is work done by a force zero?\n\n    2. State the work-energy theorem.\n\n    3. Define power and give its SI unit.\n\n    4. What is a conservative force?",
+        "long_questions": "1. Derive the expression for kinetic energy using the work-energy theorem.\n\n    2. Explain conservation of mechanical energy for a freely falling body, neglecting air resistance.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Work done by a force perpendicular to displacement is: A. maximum B. zero C. negative always D. infinite Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The SI unit of power is: A. joule B. newton C. watt D. pascal Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n When is work done by a force zero?\n Answer: W = Fs cosθ is zero when displacement is zero, force is zero, or the force is perpendicular to displacement (θ = 90°).\n\n State the work-energy theorem.\n Answer: The net work done on a body equals its change in kinetic energy: Wnet = ∆K = ½mv² − ½mu².\n\n Define power and give its SI unit.\n Answer: Power is the rate of doing work or transferring energy: P = dW/dt. Its SI unit is the watt (W), equal to one joule per\n second.\n\n What is a conservative force?\n Answer: A force is conservative if the work it does between two points is independent of the path. Work over a closed path is\n zero; gravity and ideal spring force are examples.\n\n B. Long-answer questions — model answers\n Derive the expression for kinetic energy using the work-energy theorem.\n Answer: For constant net force F = ma, work W = Fs. Using v²−u² = 2as, we have s = (v²−u²)/(2a). Therefore W = ma ×\n (v²−u²)/(2a) = ½mv² − ½mu². The change in kinetic energy is ∆K, so K = ½mv² when the reference is zero speed.\n\n Explain conservation of mechanical energy for a freely falling body, neglecting air resistance.\n Answer: At height h above the reference level, a body released from rest has total mechanical energy E = mgh. After falling\n distance x, its potential energy is mg(h−x) and, using v² = 2gx, its kinetic energy is ½mv² = mgx. Their sum is mg(h−x)+mgx =\n mgh, constant. Potential energy converts into kinetic energy while total mechanical energy is conserved.\n\nBangladesh HSC Physics • Model Answers                                                                                      Page 7"
+      },
+      "source_text": "Chapter 5: Work, Energy and Power\n  Chapter overview\n  Work is done when a force causes displacement. Energy is the capacity to do work. Kinetic energy is associated with motion and\n  potential energy with position or configuration. The work-energy theorem states that net work equals change in kinetic energy. In an\n  isolated system, energy is conserved, although it may change form.\n\n  Key terms\n   • Work: scalar product of force and displacement.\n\n   • Kinetic energy: energy due to motion.\n\n   • Potential energy: energy due to position or configuration.\n\n   • Power: rate of doing work or transferring energy.\n\n   • Conservative force: work is path-independent.\n\n  Study notes: important laws, principles and formulas\n   • W = Fs cosθ; K = ½mv²; gravitational U = mgh.\n\n   • Spring potential energy U = ½kx².\n\n   • P = W/t; instantaneous power P = F·v.\n\n   • Efficiency = (useful output energy/input energy) × 100%.\n\n   • For conservative forces, total mechanical energy K + U remains constant.\n\n  Worked example / application\n  A 2 kg object is raised vertically by 5 m. Increase in gravitational potential energy = mgh = 2 × 9.8 × 5 = 98 J.\n\n  Short-answer practice\n    1. When is work done by a force zero?\n\n    2. State the work-energy theorem.\n\n    3. Define power and give its SI unit.\n\n    4. What is a conservative force?\n\n  Long-answer practice\n    1. Derive the expression for kinetic energy using the work-energy theorem.\n\n    2. Explain conservation of mechanical energy for a freely falling body, neglecting air resistance.\n\n  Multiple-choice questions\n    1. Work done by a force perpendicular to displacement is:\n    A. maximum B. zero C. negative always D. infinite\n    Answer: B\n\n    2. The SI unit of power is:\n    A. joule B. newton C. watt D. pascal\n    Answer: C\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Gravitation and Gravity",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Bangladesh HSC Physics | First & Second Paper                                                                                                           Page 6\n\n  Every pair of masses attracts each other. Newton's law of universal gravitation describes this force. Gravitational field strength is force\n  per unit mass, while gravitational potential is potential energy per unit mass. Planetary and satellite motion can be explained by gravity\n  providing centripetal force. Escape velocity is the minimum speed needed to escape a body's gravitational field in an ideal model.",
+        "key_terms": [
+          "Gravitational field strength: force per unit test mass.",
+          "Gravitational potential: potential energy per unit mass.",
+          "Satellite: body maintained in orbit by gravitational attraction.",
+          "Escape velocity: minimum launch speed to escape without further propulsion."
+        ],
+        "study_notes": [
+          "F = Gm■m■/r²; g = GM/r²; gravitational potential V = −GM/r.",
+          "Orbital speed v = √(GM/r); orbital period T = 2π√(r³/GM).",
+          "Escape speed from a spherical body ve = √(2GM/R) = √(2gR).",
+          "Kepler's third law: T² ∝ r³ for bodies orbiting the same central mass."
+        ],
+        "worked_example": "At a distance 2R from Earth's centre, g' = GM/(2R)² = g/4. Gravity is one-quarter its surface value.",
+        "short_questions": "1. State Newton's law of universal gravitation.\n\n    2. Distinguish G and g.\n\n    3. What is escape velocity?\n\n    4. State Kepler's third law.",
+        "long_questions": "1. Derive the expression for orbital speed of a satellite around a planet.\n\n    2. Explain how gravitational acceleration varies with altitude and describe the concept of escape velocity.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Gravitational force between two point masses varies as: A. r² B. r C. 1/r D. 1/r² Answer: D"
+          },
+          {
+            "number": 2,
+            "content": "The value of g at a height equal to Earth's radius above its surface is approximately: A. g B. g/2 C. g/4 D. 2g Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n State Newton's law of universal gravitation.\n Answer: Any two point masses attract with force F = Gm1m2/r² along the line joining their centres, where r is their separation\n and G is the universal gravitational constant.\n\n Distinguish G and g.\n Answer: G is the universal gravitational constant, a scalar constant with value about 6.67×10■¹¹ N m² kg■². g is gravitational\n field strength/acceleration due to gravity; it varies with location and is about 9.8 m s■² near Earth's surface.\n\n What is escape velocity?\n Answer: Escape velocity is the minimum launch speed needed for an object to reach infinitely far away with zero remaining\n speed, neglecting air resistance and other bodies. From a planet's surface ve = √(2GM/R).\n\n State Kepler's third law.\n Answer: The square of a planet's orbital period is proportional to the cube of the semi-major axis of its orbit: T² ∝ a³ for bodies\n orbiting the same central mass.\n\n B. Long-answer questions — model answers\n Derive the expression for orbital speed of a satellite around a planet.\n Answer: For a satellite in a circular orbit of radius r, gravitational force supplies centripetal force: GMm/r² = mv²/r. Cancelling\n m and solving gives v = √(GM/r). For an orbit close to a planet's surface, r is approximately its radius R.\n\n Explain how gravitational acceleration varies with altitude and describe the concept of escape velocity.\n Answer: At altitude h above a planet of radius R, g(h) = GM/(R+h)². Relative to the surface, g(h) = g0[R/(R+h)]², so it\n decreases with altitude. Escape speed follows from energy conservation: ½mve² = GMm/R, hence ve = √(2GM/R) = √(2g0R).\n It is the minimum speed for escape to infinity with zero final speed.\n\nBangladesh HSC Physics • Model Answers                                                                                          Page 8"
+      },
+      "source_text": "Chapter 6: Gravitation and Gravity\n  Chapter overview\n\n  Every pair of masses attracts each other. Newton's law of universal gravitation describes this force. Gravitational field strength is force\n  per unit mass, while gravitational potential is potential energy per unit mass. Planetary and satellite motion can be explained by gravity\n  providing centripetal force. Escape velocity is the minimum speed needed to escape a body's gravitational field in an ideal model.\n\n  Key terms\n   • Gravitational field strength: force per unit test mass.\n\n   • Gravitational potential: potential energy per unit mass.\n\n   • Satellite: body maintained in orbit by gravitational attraction.\n\n   • Escape velocity: minimum launch speed to escape without further propulsion.\n\n  Study notes: important laws, principles and formulas\n   • F = Gm■m■/r²; g = GM/r²; gravitational potential V = −GM/r.\n\n   • Orbital speed v = √(GM/r); orbital period T = 2π√(r³/GM).\n\n   • Escape speed from a spherical body ve = √(2GM/R) = √(2gR).\n\n   • Kepler's third law: T² ∝ r³ for bodies orbiting the same central mass.\n\n  Worked example / application\n  At a distance 2R from Earth's centre, g' = GM/(2R)² = g/4. Gravity is one-quarter its surface value.\n\n  Short-answer practice\n    1. State Newton's law of universal gravitation.\n\n    2. Distinguish G and g.\n\n    3. What is escape velocity?\n\n    4. State Kepler's third law.\n\n  Long-answer practice\n    1. Derive the expression for orbital speed of a satellite around a planet.\n\n    2. Explain how gravitational acceleration varies with altitude and describe the concept of escape velocity.\n\n  Multiple-choice questions\n    1. Gravitational force between two point masses varies as:\n    A. r² B. r C. 1/r D. 1/r²\n    Answer: D\n\n    2. The value of g at a height equal to Earth's radius above its surface is approximately:\n    A. g B. g/2 C. g/4 D. 2g\n    Answer: C\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Structural Properties of Matter",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Solids and fluids respond to applied forces through deformation and flow. Elasticity describes the ability of a material to regain its shape\n  after the deforming force is removed. Stress is force per unit area and strain is fractional deformation. Surface tension explains the\n  behaviour of liquid surfaces, while viscosity describes resistance to flow.",
+        "key_terms": [
+          "Stress: force per unit cross-sectional area.",
+          "Strain: ratio of change in dimension to original dimension.",
+          "Young's modulus: ratio of longitudinal stress to longitudinal strain.",
+          "Surface tension: tangential force per unit length at a liquid surface.",
+          "Viscosity: internal resistance to relative fluid motion."
+        ],
+        "study_notes": [
+          "Hooke's law: stress ∝ strain within the elastic limit.",
+          "Young's modulus Y = (F/A)/(∆L/L).",
+          "Bangladesh HSC Physics | First & Second Paper                                                                                                           Page 7",
+          "Bulk modulus B = −∆P/(∆V/V).",
+          "Surface tension T = F/l; excess pressure in a liquid drop = 2T/r and soap bubble = 4T/r.",
+          "Stokes' drag on a small sphere: F = 6πηrv."
+        ],
+        "worked_example": "A wire 2 m long extends by 1 mm. Longitudinal strain = 0.001/2 = 5 × 10■■.",
+        "short_questions": "1. State Hooke's law.\n\n    2. Define Young's modulus.\n\n    3. What is surface tension?\n\n    4. Why does a small liquid drop tend to be spherical?",
+        "long_questions": "1. Explain stress, strain and the three elastic moduli: Young's, bulk and shear modulus.\n\n    2. Discuss surface tension and derive the excess pressure inside a spherical liquid drop.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Young's modulus is the ratio of: A. strain to stress B. stress to strain C. force to length D. mass to volume Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The SI unit of surface tension is: A. N m■¹ B. N m C. Pa m D. J s Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n State Hooke's law.\n Answer: Within the limit of proportionality, stress is directly proportional to strain: stress = modulus × strain.\n\n Define Young's modulus.\n Answer: Young's modulus is the ratio of longitudinal stress to longitudinal strain, Y = (F/A)/(∆L/L), within the elastic limit. Its SI\n unit is pascal.\n\n What is surface tension?\n Answer: Surface tension is tangential force per unit length acting at a liquid surface, or equivalently surface energy per unit\n area. Its SI unit is N m■¹.\n\n Why does a small liquid drop tend to be spherical?\n Answer: Surface tension tends to minimise surface area for a given volume. A sphere has the least surface area for a fixed\n volume, so a free small drop tends to become spherical.\n\n B. Long-answer questions — model answers\n Explain stress, strain and the three elastic moduli: Young's, bulk and shear modulus.\n Answer: Stress is force per unit area; strain is the fractional deformation and is dimensionless. Young's modulus Y =\n longitudinal stress/longitudinal strain. Bulk modulus K = pressure change/(volume strain), usually K = −∆p/(∆V/V). Shear\n modulus Gs = shear stress/shear strain. These moduli measure resistance to different types of deformation within the elastic\n range.\n\n Discuss surface tension and derive the excess pressure inside a spherical liquid drop.\n Answer: Surface tension γ acts along the surface and tends to minimise area. For a spherical drop of radius r, imagine\n splitting it into hemispheres. The pressure force is ∆p·πr², while surface tension around the rim provides 2πrγ. Equating gives\n ∆p·πr² = 2πrγ, so excess pressure ∆p = 2γ/r. (A soap bubble has two surfaces, giving 4γ/r.)\n\nBangladesh HSC Physics • Model Answers                                                                                           Page 9"
+      },
+      "source_text": "Chapter 7: Structural Properties of Matter\n  Chapter overview\n  Solids and fluids respond to applied forces through deformation and flow. Elasticity describes the ability of a material to regain its shape\n  after the deforming force is removed. Stress is force per unit area and strain is fractional deformation. Surface tension explains the\n  behaviour of liquid surfaces, while viscosity describes resistance to flow.\n\n  Key terms\n   • Stress: force per unit cross-sectional area.\n\n   • Strain: ratio of change in dimension to original dimension.\n\n   • Young's modulus: ratio of longitudinal stress to longitudinal strain.\n\n   • Surface tension: tangential force per unit length at a liquid surface.\n\n   • Viscosity: internal resistance to relative fluid motion.\n\n  Study notes: important laws, principles and formulas\n   • Hooke's law: stress ∝ strain within the elastic limit.\n\n   • Young's modulus Y = (F/A)/(∆L/L).\n\n   • Bulk modulus B = −∆P/(∆V/V).\n\n   • Surface tension T = F/l; excess pressure in a liquid drop = 2T/r and soap bubble = 4T/r.\n\n   • Stokes' drag on a small sphere: F = 6πηrv.\n\n  Worked example / application\n  A wire 2 m long extends by 1 mm. Longitudinal strain = 0.001/2 = 5 × 10■■.\n\n  Short-answer practice\n    1. State Hooke's law.\n\n    2. Define Young's modulus.\n\n    3. What is surface tension?\n\n    4. Why does a small liquid drop tend to be spherical?\n\n  Long-answer practice\n    1. Explain stress, strain and the three elastic moduli: Young's, bulk and shear modulus.\n\n    2. Discuss surface tension and derive the excess pressure inside a spherical liquid drop.\n\n  Multiple-choice questions\n    1. Young's modulus is the ratio of:\n    A. strain to stress B. stress to strain C. force to length D. mass to volume\n    Answer: B\n\n    2. The SI unit of surface tension is:\n    A. N m■¹ B. N m C. Pa m D. J s\n    Answer: A\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Periodic Motion",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Periodic motion repeats itself after equal time intervals. Simple harmonic motion (SHM) is a special periodic motion in which\n  acceleration is proportional to displacement from equilibrium and directed toward it. A spring-mass system and a simple pendulum at\n  small angular displacement are common examples. In ideal SHM, energy continually changes between kinetic and potential forms.",
+        "key_terms": [
+          "Amplitude: maximum displacement from equilibrium.",
+          "Period: time for one complete oscillation.",
+          "Frequency: number of oscillations per second.",
+          "Phase: quantity specifying the state of oscillation.",
+          "Damping: gradual reduction in amplitude due to energy loss."
+        ],
+        "study_notes": [
+          "For SHM, a = −ω²x and x = A cos(ωt + φ).",
+          "T = 2π/ω; f = 1/T; vmax = Aω; amax = Aω².",
+          "Spring-mass period T = 2π√(m/k).",
+          "Simple pendulum for small angles: T = 2π√(l/g).",
+          "Total energy of ideal spring SHM = ½kA²."
+        ],
+        "worked_example": "A simple pendulum of length 0.25 m has period T = 2π√(0.25/9.8) ≈ 1.00 s.",
+        "short_questions": "1. What is simple harmonic motion?\n\n    2. Define amplitude and period.\n\n    3. Why is the simple-pendulum formula valid only for small angles?\n\nBangladesh HSC Physics | First & Second Paper                                                                                                           Page 8\n\n    4. Where is the speed maximum in SHM?",
+        "long_questions": "1. Derive the time period of a spring-mass system performing SHM.\n\n    2. Explain the energy transformation during one complete oscillation of a simple harmonic oscillator.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "In SHM, acceleration is: A. constant B. proportional to displacement and opposite in direction C. always zero D. proportional to velocity Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "At the mean position of ideal SHM, kinetic energy is: A. zero B. maximum C. minimum but nonzero D. undefined Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What is simple harmonic motion?\n Answer: Simple harmonic motion is periodic motion in which acceleration is directly proportional to displacement from\n equilibrium and directed towards equilibrium: a = −ω²x.\n\n Define amplitude and period.\n Answer: Amplitude is the maximum displacement from the equilibrium position. Period T is the time taken for one complete\n oscillation.\n\n Why is the simple-pendulum formula valid only for small angles?\n Answer: The derivation uses sinθ ≈ θ (in radians). This approximation is accurate only for small angular displacement, making\n the restoring force approximately proportional to displacement.\n\n Where is the speed maximum in SHM?\n Answer: Speed is maximum at the equilibrium position, where displacement is zero and all the oscillator's mechanical energy\n is kinetic.\n\n B. Long-answer questions — model answers\n Derive the time period of a spring-mass system performing SHM.\n Answer: For a mass m attached to a spring of force constant k, Hooke's law gives F = −kx. Newton's second law gives\n m(d²x/dt²) = −kx, or d²x/dt² = −(k/m)x. Comparing with SHM equation a = −ω²x gives ω = √(k/m). Hence T = 2π/ω = 2π√(m/k).\n\n Explain the energy transformation during one complete oscillation of a simple harmonic oscillator.\n Answer: In ideal SHM, total energy E = ½kA² remains constant. At either extreme, speed is zero and potential energy is\n maximum. At equilibrium, speed and kinetic energy are maximum while potential energy is minimum (zero if measured from\n equilibrium). Between these positions, energy continually transfers between kinetic and potential forms.\n\nBangladesh HSC Physics • Model Answers                                                                                   Page 10"
+      },
+      "source_text": "Chapter 8: Periodic Motion\n  Chapter overview\n  Periodic motion repeats itself after equal time intervals. Simple harmonic motion (SHM) is a special periodic motion in which\n  acceleration is proportional to displacement from equilibrium and directed toward it. A spring-mass system and a simple pendulum at\n  small angular displacement are common examples. In ideal SHM, energy continually changes between kinetic and potential forms.\n\n  Key terms\n   • Amplitude: maximum displacement from equilibrium.\n\n   • Period: time for one complete oscillation.\n\n   • Frequency: number of oscillations per second.\n\n   • Phase: quantity specifying the state of oscillation.\n\n   • Damping: gradual reduction in amplitude due to energy loss.\n\n  Study notes: important laws, principles and formulas\n   • For SHM, a = −ω²x and x = A cos(ωt + φ).\n\n   • T = 2π/ω; f = 1/T; vmax = Aω; amax = Aω².\n\n   • Spring-mass period T = 2π√(m/k).\n\n   • Simple pendulum for small angles: T = 2π√(l/g).\n\n   • Total energy of ideal spring SHM = ½kA².\n\n  Worked example / application\n  A simple pendulum of length 0.25 m has period T = 2π√(0.25/9.8) ≈ 1.00 s.\n\n  Short-answer practice\n    1. What is simple harmonic motion?\n\n    2. Define amplitude and period.\n\n    3. Why is the simple-pendulum formula valid only for small angles?\n\n    4. Where is the speed maximum in SHM?\n\n  Long-answer practice\n    1. Derive the time period of a spring-mass system performing SHM.\n\n    2. Explain the energy transformation during one complete oscillation of a simple harmonic oscillator.\n\n  Multiple-choice questions\n    1. In SHM, acceleration is:\n    A. constant B. proportional to displacement and opposite in direction C. always zero D. proportional to velocity\n    Answer: B\n\n    2. At the mean position of ideal SHM, kinetic energy is:\n    A. zero B. maximum C. minimum but nonzero D. undefined\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Waves",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "A wave transfers energy from one place to another without net transport of matter. Transverse waves oscillate perpendicular to\n  propagation; longitudinal waves oscillate parallel to it. Sound is a mechanical wave and requires a medium. Superposition explains\n  interference, beats and stationary waves. Resonance occurs when a system is driven near its natural frequency.",
+        "key_terms": [
+          "Wavelength: distance between successive points in the same phase.",
+          "Frequency: number of cycles per second.",
+          "Amplitude: maximum displacement from equilibrium.",
+          "Interference: superposition of coherent waves.",
+          "Node and antinode: zero- and maximum-amplitude points in a stationary wave."
+        ],
+        "study_notes": [
+          "Wave speed v = fλ; angular frequency ω = 2πf; wave number k = 2π/λ.",
+          "Beat frequency = |f■ − f■|.",
+          "String fixed at both ends: fn = nv/(2L).",
+          "Open pipe: fn = nv/(2L); closed pipe: fn = (2n−1)v/(4L).",
+          "Sound intensity level β = 10 log■■(I/I■) dB."
+        ],
+        "worked_example": "A sound wave of frequency 500 Hz travels at 340 m s■¹. Wavelength = v/f = 340/500 = 0.68 m.",
+        "short_questions": "1. What is a stationary wave?\n\n    2. Define resonance.\n\n    3. What are coherent sources?\n\n    4. Distinguish transverse and longitudinal waves.",
+        "long_questions": "1. Explain the formation of stationary waves and describe nodes and antinodes.\n\n    2. Discuss resonance in air columns and derive the allowed frequencies for a pipe closed at one end.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The relation between wave speed, frequency and wavelength is: A. v = f/λ B. v = fλ C. v = λ/f D. v = f + λ Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "A stationary wave has: A. travelling nodes B. fixed nodes C. no antinodes D. only one wave Answer: B Bangladesh HSC Physics | First & Second Paper Page 9"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What is a stationary wave?\n Answer: A stationary wave is formed by the superposition of two waves of the same frequency, wavelength and amplitude\n travelling in opposite directions. It has fixed nodes and antinodes and no net energy transfer along the medium.\n\n Define resonance.\n Answer: Resonance occurs when a system is driven by a periodic force at or near its natural frequency, producing a\n large-amplitude response.\n\n What are coherent sources?\n Answer: Coherent sources emit waves of the same frequency and maintain a constant phase difference.\n\n Distinguish transverse and longitudinal waves.\n Answer: In transverse waves, particle oscillations are perpendicular to the direction of propagation; in longitudinal waves,\n oscillations are parallel to it.\n\n B. Long-answer questions — model answers\n Explain the formation of stationary waves and describe nodes and antinodes.\n Answer: Two identical waves travelling in opposite directions superpose to form a stationary pattern. Destructive interference\n produces nodes, where displacement is always zero. Constructive interference produces antinodes, where amplitude is\n maximum. Adjacent nodes or adjacent antinodes are separated by λ/2.\n\n Discuss resonance in air columns and derive the allowed frequencies for a pipe closed at one end.\n Answer: A closed pipe has a displacement node at the closed end and an antinode at the open end. The allowed lengths\n satisfy L = (2n−1)λ/4, n = 1,2,3… Therefore λn = 4L/(2n−1) and fn = (2n−1)v/(4L). Only odd harmonics occur ideally.\n Resonance occurs when the driving frequency matches one of these natural frequencies.\n\nBangladesh HSC Physics • Model Answers                                                                                     Page 11"
+      },
+      "source_text": "Chapter 9: Waves\n  Chapter overview\n  A wave transfers energy from one place to another without net transport of matter. Transverse waves oscillate perpendicular to\n  propagation; longitudinal waves oscillate parallel to it. Sound is a mechanical wave and requires a medium. Superposition explains\n  interference, beats and stationary waves. Resonance occurs when a system is driven near its natural frequency.\n\n  Key terms\n   • Wavelength: distance between successive points in the same phase.\n\n   • Frequency: number of cycles per second.\n\n   • Amplitude: maximum displacement from equilibrium.\n\n   • Interference: superposition of coherent waves.\n\n   • Node and antinode: zero- and maximum-amplitude points in a stationary wave.\n\n  Study notes: important laws, principles and formulas\n   • Wave speed v = fλ; angular frequency ω = 2πf; wave number k = 2π/λ.\n\n   • Beat frequency = |f■ − f■|.\n\n   • String fixed at both ends: fn = nv/(2L).\n\n   • Open pipe: fn = nv/(2L); closed pipe: fn = (2n−1)v/(4L).\n\n   • Sound intensity level β = 10 log■■(I/I■) dB.\n\n  Worked example / application\n  A sound wave of frequency 500 Hz travels at 340 m s■¹. Wavelength = v/f = 340/500 = 0.68 m.\n\n  Short-answer practice\n    1. What is a stationary wave?\n\n    2. Define resonance.\n\n    3. What are coherent sources?\n\n    4. Distinguish transverse and longitudinal waves.\n\n  Long-answer practice\n    1. Explain the formation of stationary waves and describe nodes and antinodes.\n\n    2. Discuss resonance in air columns and derive the allowed frequencies for a pipe closed at one end.\n\n  Multiple-choice questions\n    1. The relation between wave speed, frequency and wavelength is:\n    A. v = f/λ B. v = fλ C. v = λ/f D. v = f + λ\n    Answer: B\n\n    2. A stationary wave has:\n    A. travelling nodes B. fixed nodes C. no antinodes D. only one wave\n    Answer: B\n\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Ideal Gas and Kinetic Theory of Gases",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "The ideal-gas model assumes molecules have negligible individual volume and exert no intermolecular forces except during collisions.\n  Gas laws describe relationships among pressure, volume and temperature. Kinetic theory explains pressure through molecular\n  collisions and relates absolute temperature to average translational kinetic energy.",
+        "key_terms": [
+          "Ideal gas: theoretical gas obeying pV = nRT at all conditions.",
+          "Mole: amount containing Avogadro's number of entities.",
+          "RMS speed: square root of the mean square molecular speed.",
+          "Mean free path: average distance travelled between successive molecular collisions."
+        ],
+        "study_notes": [
+          "Ideal gas equation: pV = nRT = NkBT.",
+          "Kinetic theory: p = ■ρc²rms.",
+          "Average translational kinetic energy per molecule = 3kBT/2.",
+          "RMS speed crms = √(3RT/M).",
+          "For a monatomic ideal gas, internal energy U = 3nRT/2."
+        ],
+        "worked_example": "At 300 K, average translational kinetic energy per molecule is 3kBT/2 ≈ 6.21 × 10■²¹ J.",
+        "short_questions": "1. Write the ideal-gas equation.\n\n    2. What is absolute zero?\n\n    3. What does RMS speed mean?\n\n    4. How is molecular kinetic energy related to temperature?",
+        "long_questions": "1. Use kinetic theory to derive the relation p = ■ρc²rms.\n\n    2. Explain the assumptions of the ideal-gas model and discuss how molecular kinetic energy depends on absolute temperature.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The ideal-gas equation is: A. pV = nRT B. pT = nRV C. pV = nT/R D. p = nRTV Answer: A"
+          },
+          {
+            "number": 2,
+            "content": "The average translational kinetic energy of an ideal-gas molecule is proportional to: A. Celsius temperature B. absolute temperature C. pressure only D. volume only Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly. PHYSICS 2ND PAPER",
+        "model_answers": "A. Short-answer questions — model answers\n Write the ideal-gas equation.\n Answer: For n moles, pV = nRT; for N molecules, pV = NkBT.\n\n What is absolute zero?\n Answer: Absolute zero is 0 K, the lower limit of thermodynamic temperature. It equals −273.15 °C.\n\n What does RMS speed mean?\n Answer: Root-mean-square speed is the square root of the mean of the squares of molecular speeds: crms = √■c²■.\n\n How is molecular kinetic energy related to temperature?\n Answer: For an ideal gas, the average translational kinetic energy per molecule is (3/2)kBT, directly proportional to absolute\n temperature.\n\n B. Long-answer questions — model answers\n Use kinetic theory to derive the relation p = ■ρc²rms.\n Answer: For N molecules of mass m in volume V, kinetic theory gives pV = (1/3)Nm■c²■. Since ρ = Nm/V and crms² = ■c²■,\n dividing by V gives p = (1/3)ρcrms².\n\n Explain the assumptions of the ideal-gas model and discuss how molecular kinetic energy depends on\n absolute temperature.\n Answer: An ideal gas is modelled as a large number of tiny molecules in random motion; molecular volume is negligible\n compared with container volume; intermolecular forces are negligible except during collisions; collisions are perfectly elastic;\n and Newtonian mechanics applies. Kinetic theory gives average translational kinetic energy per molecule = 3kBT/2, or per\n mole = 3RT/2, so it increases linearly with kelvin temperature.\n\nBangladesh HSC Physics • Model Answers                                                                                     Page 12"
+      },
+      "source_text": "Chapter 10: Ideal Gas and Kinetic Theory of Gases\n  Chapter overview\n  The ideal-gas model assumes molecules have negligible individual volume and exert no intermolecular forces except during collisions.\n  Gas laws describe relationships among pressure, volume and temperature. Kinetic theory explains pressure through molecular\n  collisions and relates absolute temperature to average translational kinetic energy.\n\n  Key terms\n   • Ideal gas: theoretical gas obeying pV = nRT at all conditions.\n\n   • Mole: amount containing Avogadro's number of entities.\n\n   • RMS speed: square root of the mean square molecular speed.\n\n   • Mean free path: average distance travelled between successive molecular collisions.\n\n  Study notes: important laws, principles and formulas\n   • Ideal gas equation: pV = nRT = NkBT.\n\n   • Kinetic theory: p = ■ρc²rms.\n\n   • Average translational kinetic energy per molecule = 3kBT/2.\n\n   • RMS speed crms = √(3RT/M).\n\n   • For a monatomic ideal gas, internal energy U = 3nRT/2.\n\n  Worked example / application\n  At 300 K, average translational kinetic energy per molecule is 3kBT/2 ≈ 6.21 × 10■²¹ J.\n\n  Short-answer practice\n    1. Write the ideal-gas equation.\n\n    2. What is absolute zero?\n\n    3. What does RMS speed mean?\n\n    4. How is molecular kinetic energy related to temperature?\n\n  Long-answer practice\n    1. Use kinetic theory to derive the relation p = ■ρc²rms.\n\n    2. Explain the assumptions of the ideal-gas model and discuss how molecular kinetic energy depends on absolute temperature.\n\n  Multiple-choice questions\n    1. The ideal-gas equation is:\n    A. pV = nRT B. pT = nRV C. pV = nT/R D. p = nRTV\n    Answer: A\n\n    2. The average translational kinetic energy of an ideal-gas molecule is proportional to:\n    A. Celsius temperature B. absolute temperature C. pressure only D. volume only\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly.\n\n  PHYSICS 2ND PAPER"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Thermodynamics",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Thermodynamics studies heat, work, temperature and internal energy. The zeroth law establishes thermal equilibrium and the basis of\n  temperature. The first law expresses conservation of energy. The second law determines the direction of natural processes and limits\n  heat-engine efficiency. Processes may be isothermal, adiabatic, isobaric or isochoric.",
+        "key_terms": [
+          "Internal energy: microscopic kinetic and potential energy of a system.",
+          "Bangladesh HSC Physics | First & Second Paper                                                                                                         Page 10",
+          "Isothermal process: temperature remains constant.",
+          "Adiabatic process: no heat enters or leaves the system.",
+          "Heat engine: device converting part of absorbed heat into work.",
+          "Entropy: state function associated with energy dispersal and the direction of spontaneous change."
+        ],
+        "study_notes": [
+          "First law: Q = ∆U + W, where W is work done by the system.",
+          "For an ideal gas, isothermal process has ∆U = 0; adiabatic process has Q = 0.",
+          "Carnot efficiency η = 1 − TC/TH, temperatures in kelvin.",
+          "For an ideal gas, Cp − Cv = R and γ = Cp/Cv.",
+          "Isothermal work: W = nRT ln(V■/V■)."
+        ],
+        "worked_example": "A reversible engine operates between 600 K and 300 K. Maximum Carnot efficiency = 1 − 300/600 = 0.50 or 50%.",
+        "short_questions": "1. State the zeroth law of thermodynamics.\n\n    2. Write the first law using the work-done-by-system convention.\n\n    3. What is an adiabatic process?\n\n    4. Why can no heat engine be 100% efficient?",
+        "long_questions": "1. Explain the first law of thermodynamics and apply it to isothermal and adiabatic processes.\n\n    2. Describe a Carnot engine and derive its efficiency.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "In an isochoric process, the: A. pressure is constant B. volume is constant C. temperature is constant D. heat transfer is zero Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Carnot efficiency depends on: A. working substance only B. engine size C. source and sink temperatures D. pressure only Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n State the zeroth law of thermodynamics.\n Answer: If two systems are each in thermal equilibrium with a third system, they are in thermal equilibrium with each other.\n This law establishes the basis for temperature measurement.\n\n Write the first law using the work-done-by-system convention.\n Answer: ∆U = Q − W, where Q is heat supplied to the system and W is work done by the system.\n\n What is an adiabatic process?\n Answer: An adiabatic process is one in which no heat enters or leaves the system, so Q = 0.\n\n Why can no heat engine be 100% efficient?\n Answer: The second law requires some energy to be rejected to a colder reservoir; not all absorbed heat can be converted\n into work in a cyclic heat engine.\n\n B. Long-answer questions — model answers\n Explain the first law of thermodynamics and apply it to isothermal and adiabatic processes.\n Answer: The first law is energy conservation for a thermodynamic system: ∆U = Q−W when W is work done by the system.\n For an ideal gas in an isothermal process, temperature and internal energy remain constant, so ∆U = 0 and Q = W. For an\n adiabatic process, Q = 0, so ∆U = −W; work done by the gas comes from its internal energy.\n\n Describe a Carnot engine and derive its efficiency.\n Answer: A reversible Carnot engine operates between hot temperature Th and cold temperature Tc through two isothermal\n and two adiabatic stages. It absorbs Qh, rejects Qc and produces W = Qh−Qc. Its efficiency is η = W/Qh = 1−Qc/Qh. For a\n reversible Carnot cycle, Qc/Qh = Tc/Th (temperatures in kelvin), hence η = 1−Tc/Th. No engine between the same reservoirs\n can be more efficient.\n\nBangladesh HSC Physics • Model Answers                                                                                   Page 13"
+      },
+      "source_text": "Chapter 1: Thermodynamics\n  Chapter overview\n  Thermodynamics studies heat, work, temperature and internal energy. The zeroth law establishes thermal equilibrium and the basis of\n  temperature. The first law expresses conservation of energy. The second law determines the direction of natural processes and limits\n  heat-engine efficiency. Processes may be isothermal, adiabatic, isobaric or isochoric.\n\n  Key terms\n   • Internal energy: microscopic kinetic and potential energy of a system.\n\n   • Isothermal process: temperature remains constant.\n\n   • Adiabatic process: no heat enters or leaves the system.\n\n   • Heat engine: device converting part of absorbed heat into work.\n\n   • Entropy: state function associated with energy dispersal and the direction of spontaneous change.\n\n  Study notes: important laws, principles and formulas\n   • First law: Q = ∆U + W, where W is work done by the system.\n\n   • For an ideal gas, isothermal process has ∆U = 0; adiabatic process has Q = 0.\n\n   • Carnot efficiency η = 1 − TC/TH, temperatures in kelvin.\n\n   • For an ideal gas, Cp − Cv = R and γ = Cp/Cv.\n\n   • Isothermal work: W = nRT ln(V■/V■).\n\n  Worked example / application\n  A reversible engine operates between 600 K and 300 K. Maximum Carnot efficiency = 1 − 300/600 = 0.50 or 50%.\n\n  Short-answer practice\n    1. State the zeroth law of thermodynamics.\n\n    2. Write the first law using the work-done-by-system convention.\n\n    3. What is an adiabatic process?\n\n    4. Why can no heat engine be 100% efficient?\n\n  Long-answer practice\n    1. Explain the first law of thermodynamics and apply it to isothermal and adiabatic processes.\n\n    2. Describe a Carnot engine and derive its efficiency.\n\n  Multiple-choice questions\n    1. In an isochoric process, the:\n    A. pressure is constant B. volume is constant C. temperature is constant D. heat transfer is zero\n    Answer: B\n\n    2. Carnot efficiency depends on:\n    A. working substance only B. engine size C. source and sink temperatures D. pressure only\n    Answer: C\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Static Electricity",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Electric charge is a fundamental property of matter. Like charges repel and unlike charges attract. Coulomb's law describes the force\n  between point charges. Electric field is force per unit positive test charge, and electric potential is potential energy per unit charge.\n  Gauss's law relates electric flux through a closed surface to enclosed charge. Capacitors store charge and electrical energy.",
+        "key_terms": [
+          "Charge: conserved and quantised property responsible for electric interaction.",
+          "Electric field: force per unit positive test charge.",
+          "Electric potential: work done per unit charge in bringing a test charge from a reference point.",
+          "Capacitance: charge stored per unit potential difference.",
+          "Dielectric: insulating material placed between capacitor plates."
+        ],
+        "study_notes": [
+          "Coulomb force F = (1/4πε■)|q■q■|/r².",
+          "Point charge field E = kQ/r²; potential V = kQ/r.",
+          "Gauss's law: ■E·dA = Qenc/ε■.",
+          "Capacitance C = Q/V; parallel-plate C = ε■A/d.",
+          "Stored energy U = ½CV² = ½QV = Q²/(2C).",
+          "Bangladesh HSC Physics | First & Second Paper                                                                                                         Page 11"
+        ],
+        "worked_example": "Two charges 2 µC and 3 µC are 0.30 m apart. Force magnitude = 9 × 10■ × (6 × 10■¹²)/(0.30²) = 0.60 N.",
+        "short_questions": "1. State Coulomb's law.\n\n    2. Define electric field intensity.\n\n    3. What is an equipotential surface?\n\n    4. State Gauss's law.",
+        "long_questions": "1. Use Gauss's law to obtain the electric field due to a uniformly charged spherical conductor.\n\n    2. Explain the principle of a parallel-plate capacitor and derive its capacitance.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The SI unit of electric field is: A. N C■¹ B. C N■¹ C. J C D. N m Answer: A"
+          },
+          {
+            "number": 2,
+            "content": "The capacitance of a parallel-plate capacitor increases when: A. plate area decreases B. separation increases C. plate area increases D. dielectric is removed Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n State Coulomb's law.\n Answer: The electrostatic force between two point charges is F = (1/4πε0)|q1q2|/r² in vacuum, along the line joining them; like\n charges repel and unlike charges attract.\n\n Define electric field intensity.\n Answer: Electric field intensity at a point is the force experienced per unit positive test charge: E = F/q. Its SI unit is N C■¹ or\n V m■¹.\n\n What is an equipotential surface?\n Answer: An equipotential surface has the same electric potential at every point. No work is done in moving a test charge\n along it.\n\n State Gauss's law.\n Answer: The total electric flux through any closed surface equals the net charge enclosed divided by ε0: ■E·dA =\n Qenclosed/ε0.\n\n B. Long-answer questions — model answers\n Use Gauss's law to obtain the electric field due to a uniformly charged spherical conductor.\n Answer: Choose a concentric spherical Gaussian surface of radius r. By symmetry E is radial and constant over it, so E(4πr²)\n = Qenc/ε0. Outside the conductor, E = Q/(4πε0r²), as if all charge were at the centre. Inside a conductor in electrostatic\n equilibrium, E = 0 and excess charge resides on its surface.\n\n Explain the principle of a parallel-plate capacitor and derive its capacitance.\n Answer: Two large parallel conducting plates of area A separated by distance d carry equal and opposite charges ±Q.\n Neglecting edge effects, E = σ/ε0 = Q/(ε0A), and potential difference V = Ed = Qd/(ε0A). Since C = Q/V, capacitance C =\n ε0A/d. With a dielectric of relative permittivity εr, C = εrε0A/d.\n\nBangladesh HSC Physics • Model Answers                                                                                         Page 14"
+      },
+      "source_text": "Chapter 2: Static Electricity\n  Chapter overview\n  Electric charge is a fundamental property of matter. Like charges repel and unlike charges attract. Coulomb's law describes the force\n  between point charges. Electric field is force per unit positive test charge, and electric potential is potential energy per unit charge.\n  Gauss's law relates electric flux through a closed surface to enclosed charge. Capacitors store charge and electrical energy.\n\n  Key terms\n   • Charge: conserved and quantised property responsible for electric interaction.\n\n   • Electric field: force per unit positive test charge.\n\n   • Electric potential: work done per unit charge in bringing a test charge from a reference point.\n\n   • Capacitance: charge stored per unit potential difference.\n\n   • Dielectric: insulating material placed between capacitor plates.\n\n  Study notes: important laws, principles and formulas\n   • Coulomb force F = (1/4πε■)|q■q■|/r².\n\n   • Point charge field E = kQ/r²; potential V = kQ/r.\n\n   • Gauss's law: ■E·dA = Qenc/ε■.\n\n   • Capacitance C = Q/V; parallel-plate C = ε■A/d.\n\n   • Stored energy U = ½CV² = ½QV = Q²/(2C).\n\n  Worked example / application\n  Two charges 2 µC and 3 µC are 0.30 m apart. Force magnitude = 9 × 10■ × (6 × 10■¹²)/(0.30²) = 0.60 N.\n\n  Short-answer practice\n    1. State Coulomb's law.\n\n    2. Define electric field intensity.\n\n    3. What is an equipotential surface?\n\n    4. State Gauss's law.\n\n  Long-answer practice\n    1. Use Gauss's law to obtain the electric field due to a uniformly charged spherical conductor.\n\n    2. Explain the principle of a parallel-plate capacitor and derive its capacitance.\n\n  Multiple-choice questions\n    1. The SI unit of electric field is:\n    A. N C■¹ B. C N■¹ C. J C D. N m\n    Answer: A\n\n    2. The capacitance of a parallel-plate capacitor increases when:\n    A. plate area decreases B. separation increases C. plate area increases D. dielectric is removed\n    Answer: C\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Current Electricity",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Electric current is the rate of flow of charge. Ohm's law relates potential difference and current for an ohmic conductor at constant\n  physical conditions. Resistance depends on material, length and cross-sectional area. Kirchhoff's laws follow conservation of charge\n  and energy. Cells have electromotive force and internal resistance. Electrical energy is transferred in resistors and circuits.",
+        "key_terms": [
+          "Current: charge passing a cross-section per unit time.",
+          "EMF: energy supplied per unit charge by a source.",
+          "Resistance: opposition to current flow.",
+          "Resistivity: material property relating resistance to dimensions.",
+          "Internal resistance: resistance within a cell or source."
+        ],
+        "study_notes": [
+          "I = ∆Q/∆t; Ohm's law V = IR.",
+          "R = ρL/A; series resistances add; parallel reciprocals add.",
+          "Power P = VI = I²R = V²/R.",
+          "Terminal voltage for a discharging cell V = ε − Ir.",
+          "Kirchhoff junction rule: sum of currents entering equals sum leaving; loop rule: algebraic potential changes sum to zero."
+        ],
+        "worked_example": "A 12 V battery is connected across a 6 Ω resistor. Current = 12/6 = 2 A; power = VI = 24 W.",
+        "short_questions": "1. State Ohm's law.\n\n    2. Define resistivity.\n\n    3. What is internal resistance?\n\n    4. State Kirchhoff's junction rule.",
+        "long_questions": "1. Explain Kirchhoff's laws and show how they are applied to a multi-loop circuit.\n\nBangladesh HSC Physics | First & Second Paper                                                                                                         Page 12\n\n    2. Describe the principle and use of a potentiometer for comparing the EMFs of two cells.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The SI unit of resistivity is: A. Ω B. Ω m C. Ω m■¹ D. S m Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Kirchhoff's junction rule is based on conservation of: A. energy B. charge C. momentum D. mass Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n State Ohm's law.\n Answer: At constant physical conditions (especially temperature), current through a conductor is directly proportional to the\n potential difference across it: V = IR.\n\n Define resistivity.\n Answer: Resistivity ρ is a material property defined by ρ = RA/L for a uniform conductor. Its SI unit is Ω m.\n\n What is internal resistance?\n Answer: Internal resistance r is the resistance within a cell that causes a voltage drop when current is drawn. For a cell of emf\n E delivering current I, terminal voltage V = E−Ir.\n\n State Kirchhoff's junction rule.\n Answer: The algebraic sum of currents at a junction is zero; total current entering a junction equals total current leaving it,\n expressing conservation of charge.\n\n B. Long-answer questions — model answers\n Explain Kirchhoff's laws and show how they are applied to a multi-loop circuit.\n Answer: Junction rule: ΣI = 0 at every node. Loop rule: Σ∆V = 0 around any closed loop, expressing conservation of energy.\n To solve a multi-loop circuit, assign branch-current directions, apply the junction rule at independent nodes, then write loop\n equations using +IR or −IR according to the direction of traversal relative to current and include emf rises/drops. Solve the\n simultaneous equations; a negative current means the actual direction is opposite the assumed one.\n\n Describe the principle and use of a potentiometer for comparing the EMFs of two cells.\n Answer: A potentiometer uses a uniform wire carrying steady current, giving a constant potential gradient k. At balance, no\n current is drawn from the test cell, and its emf E = kl, where l is balancing length. For two cells E1/E2 = l1/l2. It compares\n emfs accurately because the null method avoids loading the cell.\n\nBangladesh HSC Physics • Model Answers                                                                                       Page 15"
+      },
+      "source_text": "Chapter 3: Current Electricity\n  Chapter overview\n  Electric current is the rate of flow of charge. Ohm's law relates potential difference and current for an ohmic conductor at constant\n  physical conditions. Resistance depends on material, length and cross-sectional area. Kirchhoff's laws follow conservation of charge\n  and energy. Cells have electromotive force and internal resistance. Electrical energy is transferred in resistors and circuits.\n\n  Key terms\n   • Current: charge passing a cross-section per unit time.\n\n   • EMF: energy supplied per unit charge by a source.\n\n   • Resistance: opposition to current flow.\n\n   • Resistivity: material property relating resistance to dimensions.\n\n   • Internal resistance: resistance within a cell or source.\n\n  Study notes: important laws, principles and formulas\n   • I = ∆Q/∆t; Ohm's law V = IR.\n\n   • R = ρL/A; series resistances add; parallel reciprocals add.\n\n   • Power P = VI = I²R = V²/R.\n\n   • Terminal voltage for a discharging cell V = ε − Ir.\n\n   • Kirchhoff junction rule: sum of currents entering equals sum leaving; loop rule: algebraic potential changes sum to zero.\n\n  Worked example / application\n  A 12 V battery is connected across a 6 Ω resistor. Current = 12/6 = 2 A; power = VI = 24 W.\n\n  Short-answer practice\n    1. State Ohm's law.\n\n    2. Define resistivity.\n\n    3. What is internal resistance?\n\n    4. State Kirchhoff's junction rule.\n\n  Long-answer practice\n    1. Explain Kirchhoff's laws and show how they are applied to a multi-loop circuit.\n\n    2. Describe the principle and use of a potentiometer for comparing the EMFs of two cells.\n\n  Multiple-choice questions\n    1. The SI unit of resistivity is:\n    A. Ω B. Ω m C. Ω m■¹ D. S m\n    Answer: B\n\n    2. Kirchhoff's junction rule is based on conservation of:\n    A. energy B. charge C. momentum D. mass\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Magnetic Effects of Electric Current and Magnetism",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "An electric current produces a magnetic field. The field can be calculated using Biot-Savart or Ampère's law in suitable geometries. A\n  moving charge in a magnetic field experiences a force perpendicular to its velocity and the field. A current-carrying conductor also\n  experiences magnetic force. Magnetic materials respond differently to applied fields.",
+        "key_terms": [
+          "Magnetic field: region where a magnetic pole or moving charge experiences magnetic force.",
+          "Magnetic flux: measure of magnetic field passing through a surface.",
+          "Solenoid: long coil producing a nearly uniform internal magnetic field.",
+          "Magnetic dipole moment: measure of strength and orientation of a magnetic dipole."
+        ],
+        "study_notes": [
+          "Long straight wire: B = µ■I/(2πr).",
+          "At centre of N-turn circular coil: B = µ■NI/(2R).",
+          "Magnetic force on charge F = qvB sinθ; on wire F = BIL sinθ.",
+          "Magnetic flux Φ = BA cosθ.",
+          "For v perpendicular to B, circular radius r = mv/(|q|B)."
+        ],
+        "worked_example": "A proton moves perpendicular to a 0.20 T magnetic field at 3 × 10■ m s■¹. Its orbit radius is r = mv/(qB) ≈ 0.157 m.",
+        "short_questions": "1. State the right-hand rule for a straight current-carrying wire.\n\n    2. Define magnetic flux.\n\n    3. When is magnetic force on a moving charge maximum?\n\n    4. What is a solenoid?",
+        "long_questions": "1. Derive the magnetic field at the centre of a circular current-carrying coil.\n\n    2. Explain the motion of a charged particle entering a uniform magnetic field perpendicular to its velocity.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Magnetic force on a moving charge is maximum when velocity and field are: A. parallel B. antiparallel C. perpendicular D. at 30° Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "The SI unit of magnetic flux is: A. tesla B. weber C. henry D. ampere Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "Magnetism\n\n A. Short-answer questions — model answers\n State the right-hand rule for a straight current-carrying wire.\n Answer: Point the right thumb in the direction of conventional current; the curled fingers show the direction of the magnetic\n field lines around the wire.\n\n Define magnetic flux.\n Answer: Magnetic flux through a surface is ΦB = ∫B·dA; for a uniform field and flat surface, ΦB = BA cosθ. Its SI unit is weber\n (Wb).\n\n When is magnetic force on a moving charge maximum?\n Answer: The magnitude F = |q|vB sinθ is maximum when velocity is perpendicular to the magnetic field (θ = 90°).\n\n What is a solenoid?\n Answer: A solenoid is a long cylindrical coil of many closely wound turns. When current flows, it produces a nearly uniform\n magnetic field inside.\n\n B. Long-answer questions — model answers\n Derive the magnetic field at the centre of a circular current-carrying coil.\n Answer: By the Biot–Savart law, each current element contributes a field at the centre in the same axial direction. Integrating\n around a circular loop of radius R gives B = µ0I/(2R). For N closely wound turns, B = µ0NI/(2R).\n\n Explain the motion of a charged particle entering a uniform magnetic field perpendicular to its velocity.\n Answer: The magnetic Lorentz force F = qvB is always perpendicular to velocity and acts as the centripetal force. Thus |q|vB\n = mv²/r, giving circular motion with radius r = mv/(|q|B). The angular speed is ω = |q|B/m and period T = 2πm/(|q|B). The\n magnetic force changes direction of velocity but does no work, so speed and kinetic energy remain constant.\n\nBangladesh HSC Physics • Model Answers                                                                                    Page 16"
+      },
+      "source_text": "Chapter 4: Magnetic Effects of Electric Current and Magnetism\n  Chapter overview\n  An electric current produces a magnetic field. The field can be calculated using Biot-Savart or Ampère's law in suitable geometries. A\n  moving charge in a magnetic field experiences a force perpendicular to its velocity and the field. A current-carrying conductor also\n  experiences magnetic force. Magnetic materials respond differently to applied fields.\n\n  Key terms\n   • Magnetic field: region where a magnetic pole or moving charge experiences magnetic force.\n\n   • Magnetic flux: measure of magnetic field passing through a surface.\n\n   • Solenoid: long coil producing a nearly uniform internal magnetic field.\n\n   • Magnetic dipole moment: measure of strength and orientation of a magnetic dipole.\n\n  Study notes: important laws, principles and formulas\n   • Long straight wire: B = µ■I/(2πr).\n\n   • At centre of N-turn circular coil: B = µ■NI/(2R).\n\n   • Magnetic force on charge F = qvB sinθ; on wire F = BIL sinθ.\n\n   • Magnetic flux Φ = BA cosθ.\n\n   • For v perpendicular to B, circular radius r = mv/(|q|B).\n\n  Worked example / application\n  A proton moves perpendicular to a 0.20 T magnetic field at 3 × 10■ m s■¹. Its orbit radius is r = mv/(qB) ≈ 0.157 m.\n\n  Short-answer practice\n    1. State the right-hand rule for a straight current-carrying wire.\n\n    2. Define magnetic flux.\n\n    3. When is magnetic force on a moving charge maximum?\n\n    4. What is a solenoid?\n\n  Long-answer practice\n    1. Derive the magnetic field at the centre of a circular current-carrying coil.\n\n    2. Explain the motion of a charged particle entering a uniform magnetic field perpendicular to its velocity.\n\n  Multiple-choice questions\n    1. Magnetic force on a moving charge is maximum when velocity and field are:\n    A. parallel B. antiparallel C. perpendicular D. at 30°\n    Answer: C\n\n    2. The SI unit of magnetic flux is:\n    A. tesla B. weber C. henry D. ampere\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Electromagnetic Induction and Alternating Current",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Bangladesh HSC Physics | First & Second Paper                                                                                                         Page 13\n\n  A changing magnetic flux through a circuit induces an electromotive force. Faraday's law gives its magnitude, while Lenz's law gives its\n  direction and reflects conservation of energy. Self-induction opposes changes in current. Alternating current changes magnitude and\n  direction periodically. In AC circuits, resistance, inductive reactance and capacitive reactance determine impedance and phase.",
+        "key_terms": [
+          "Electromagnetic induction: production of emf by changing magnetic flux linkage.",
+          "Inductance: property by which changing current induces emf.",
+          "RMS value: effective AC value producing the same heating as a DC value.",
+          "Reactance: opposition to AC due to inductance or capacitance.",
+          "Resonance: condition where inductive and capacitive reactances are equal."
+        ],
+        "study_notes": [
+          "Faraday's law: ε = −N dΦ/dt; negative sign represents Lenz's law.",
+          "Inductor energy U = ½LI².",
+          "Vrms = V■/√2 for sinusoidal voltage; Irms = I■/√2.",
+          "XL = ωL; XC = 1/(ωC); Z = √[R² + (XL − XC)²].",
+          "Resonance angular frequency ω■ = 1/√(LC); ideal transformer Vs/Vp = Ns/Np."
+        ],
+        "worked_example": "A 220 V RMS supply is connected to a 110 Ω resistor. Irms = 220/110 = 2 A; average power = Vrms²/R = 440 W.",
+        "short_questions": "1. State Faraday's law.\n\n    2. What is Lenz's law?\n\n    3. Define RMS value of AC.\n\n    4. What is series RLC resonance?",
+        "long_questions": "1. Explain electromagnetic induction and show how Lenz's law is consistent with conservation of energy.\n\n    2. Describe a transformer and explain the relationship between voltage and number of turns in an ideal transformer.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "At series RLC resonance: A. XL > XC B. XL < XC C. XL = XC D. R = 0 Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "The RMS value of a sinusoidal current with peak value I■ is: A. I■ B. I■/2 C. I■/√2 D. √2I■ Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "Alternating Current\n\n A. Short-answer questions — model answers\n State Faraday's law.\n Answer: The induced emf equals the negative rate of change of magnetic flux linkage: ε = −N dΦB/dt.\n\n What is Lenz's law?\n Answer: The induced current flows in a direction such that its magnetic effect opposes the change in magnetic flux that\n produces it.\n\n Define RMS value of AC.\n Answer: The RMS value is the square root of the mean square current or voltage over one cycle. For a sinusoid, Irms = I0/√2\n and Vrms = V0/√2.\n\n What is series RLC resonance?\n Answer: In a series RLC circuit, resonance occurs when inductive and capacitive reactances are equal, XL = XC. Impedance\n is then minimum (Z = R), and current is maximum.\n\n B. Long-answer questions — model answers\n Explain electromagnetic induction and show how Lenz's law is consistent with conservation of energy.\n Answer: A changing magnetic flux through a circuit induces an emf, ε = −N dΦB/dt. Lenz's law gives the negative sign:\n induced current creates a magnetic effect opposing the flux change. An external agent must therefore do work to change the\n flux; that work becomes electrical energy and possibly heat. If the induced effect aided the change, energy would be\n produced without input, violating conservation of energy.\n\n Describe a transformer and explain the relationship between voltage and number of turns in an ideal\n transformer.\n Answer: A transformer has primary and secondary coils wound on a common magnetic core. Alternating primary current\n creates changing flux linking both coils. For an ideal transformer, the same flux change per turn induces emf proportional to\n turns: Vs/Vp = Ns/Np. Ideally, input power equals output power, VpIp = VsIs.\n\nBangladesh HSC Physics • Model Answers                                                                                     Page 17"
+      },
+      "source_text": "Chapter 5: Electromagnetic Induction and Alternating Current\n  Chapter overview\n\n  A changing magnetic flux through a circuit induces an electromotive force. Faraday's law gives its magnitude, while Lenz's law gives its\n  direction and reflects conservation of energy. Self-induction opposes changes in current. Alternating current changes magnitude and\n  direction periodically. In AC circuits, resistance, inductive reactance and capacitive reactance determine impedance and phase.\n\n  Key terms\n   • Electromagnetic induction: production of emf by changing magnetic flux linkage.\n\n   • Inductance: property by which changing current induces emf.\n\n   • RMS value: effective AC value producing the same heating as a DC value.\n\n   • Reactance: opposition to AC due to inductance or capacitance.\n\n   • Resonance: condition where inductive and capacitive reactances are equal.\n\n  Study notes: important laws, principles and formulas\n   • Faraday's law: ε = −N dΦ/dt; negative sign represents Lenz's law.\n\n   • Inductor energy U = ½LI².\n\n   • Vrms = V■/√2 for sinusoidal voltage; Irms = I■/√2.\n\n   • XL = ωL; XC = 1/(ωC); Z = √[R² + (XL − XC)²].\n\n   • Resonance angular frequency ω■ = 1/√(LC); ideal transformer Vs/Vp = Ns/Np.\n\n  Worked example / application\n  A 220 V RMS supply is connected to a 110 Ω resistor. Irms = 220/110 = 2 A; average power = Vrms²/R = 440 W.\n\n  Short-answer practice\n    1. State Faraday's law.\n\n    2. What is Lenz's law?\n\n    3. Define RMS value of AC.\n\n    4. What is series RLC resonance?\n\n  Long-answer practice\n    1. Explain electromagnetic induction and show how Lenz's law is consistent with conservation of energy.\n\n    2. Describe a transformer and explain the relationship between voltage and number of turns in an ideal transformer.\n\n  Multiple-choice questions\n    1. At series RLC resonance:\n    A. XL > XC B. XL < XC C. XL = XC D. R = 0\n    Answer: C\n\n    2. The RMS value of a sinusoidal current with peak value I■ is:\n    A. I■ B. I■/2 C. I■/√2 D. √2I■\n    Answer: C\n\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Geometrical Optics",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Geometrical optics treats light as rays travelling in straight lines in a uniform medium. Reflection and refraction explain image formation\n  at mirrors and lenses. Snell's law relates angles of incidence and refraction. Total internal reflection occurs when light travels from an\n  optically denser to a rarer medium above the critical angle. Prisms disperse white light because refractive index depends on\n  wavelength.",
+        "key_terms": [
+          "Reflection: return of light into the original medium at a boundary.",
+          "Refraction: change in direction due to change in wave speed.",
+          "Refractive index: ratio of light speed in vacuum to that in a medium.",
+          "Critical angle: incidence angle in denser medium giving a refracted angle of 90°.",
+          "Power of a lens: reciprocal of focal length in metres."
+        ],
+        "study_notes": [
+          "Bangladesh HSC Physics | First & Second Paper                                                                                                         Page 14",
+          "Snell's law: n■sin i = n■sin r; n = c/v.",
+          "For denser-to-rarer boundary, sin C = n■/n■.",
+          "Thin lens formula: 1/f = 1/v − 1/u using Cartesian sign convention.",
+          "Magnification m = v/u; lens power P = 1/f.",
+          "Lens maker's formula: 1/f = (n−1)(1/R■−1/R■)."
+        ],
+        "worked_example": "A convex lens has focal length 0.25 m. Its power is P = 1/0.25 = +4 dioptres.",
+        "short_questions": "1. State the laws of reflection.\n\n    2. What is the critical angle?\n\n    3. State the conditions for total internal reflection.\n\n    4. Define the power of a lens.",
+        "long_questions": "1. Explain total internal reflection and discuss its applications in optical fibres.\n\n    2. Describe image formation by a thin convex lens and explain the lens formula and magnification.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "A lens of focal length 0.5 m has power: A. 0.5 D B. 1 D C. 2 D D. 5 D Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "Total internal reflection occurs when light travels from: A. rarer to denser medium B. denser to rarer medium above critical angle C. vacuum to air only D. any medium at normal incidence Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n State the laws of reflection.\n Answer: The incident ray, reflected ray and normal lie in one plane; and the angle of reflection equals the angle of incidence.\n\n What is the critical angle?\n Answer: For light travelling from a denser to a rarer medium, the critical angle is the angle of incidence in the denser medium\n for which the refracted ray travels along the boundary (refraction angle 90°).\n\n State the conditions for total internal reflection.\n Answer: Light must travel from an optically denser to a rarer medium, and the angle of incidence must exceed the critical\n angle.\n\n Define the power of a lens.\n Answer: Lens power is the reciprocal of focal length in metres: P = 1/f. Its SI unit is m■¹, called the dioptre (D).\n\n B. Long-answer questions — model answers\n Explain total internal reflection and discuss its applications in optical fibres.\n Answer: When light travels from a denser to a rarer medium and its incidence angle exceeds the critical angle, it is totally\n reflected back into the denser medium. An optical fibre has a high-refractive-index core surrounded by lower-index cladding.\n Light is guided along the core by repeated total internal reflection. Uses include telecommunications, medical endoscopy and\n illumination.\n\n Describe image formation by a thin convex lens and explain the lens formula and magnification.\n Answer: A convex lens converges parallel rays to its principal focus. Depending on object distance, it can form real inverted\n images (object beyond focal length) or a virtual upright magnified image (object within focal length). With the usual Cartesian\n sign convention, the thin-lens formula is 1/f = 1/v − 1/u, and linear magnification m = image height/object height = v/u (sign\n indicates orientation).\n\nBangladesh HSC Physics • Model Answers                                                                                    Page 18"
+      },
+      "source_text": "Chapter 6: Geometrical Optics\n  Chapter overview\n  Geometrical optics treats light as rays travelling in straight lines in a uniform medium. Reflection and refraction explain image formation\n  at mirrors and lenses. Snell's law relates angles of incidence and refraction. Total internal reflection occurs when light travels from an\n  optically denser to a rarer medium above the critical angle. Prisms disperse white light because refractive index depends on\n  wavelength.\n\n  Key terms\n   • Reflection: return of light into the original medium at a boundary.\n\n   • Refraction: change in direction due to change in wave speed.\n\n   • Refractive index: ratio of light speed in vacuum to that in a medium.\n\n   • Critical angle: incidence angle in denser medium giving a refracted angle of 90°.\n\n   • Power of a lens: reciprocal of focal length in metres.\n\n  Study notes: important laws, principles and formulas\n\n   • Snell's law: n■sin i = n■sin r; n = c/v.\n\n   • For denser-to-rarer boundary, sin C = n■/n■.\n\n   • Thin lens formula: 1/f = 1/v − 1/u using Cartesian sign convention.\n\n   • Magnification m = v/u; lens power P = 1/f.\n\n   • Lens maker's formula: 1/f = (n−1)(1/R■−1/R■).\n\n  Worked example / application\n  A convex lens has focal length 0.25 m. Its power is P = 1/0.25 = +4 dioptres.\n\n  Short-answer practice\n    1. State the laws of reflection.\n\n    2. What is the critical angle?\n\n    3. State the conditions for total internal reflection.\n\n    4. Define the power of a lens.\n\n  Long-answer practice\n    1. Explain total internal reflection and discuss its applications in optical fibres.\n\n    2. Describe image formation by a thin convex lens and explain the lens formula and magnification.\n\n  Multiple-choice questions\n    1. A lens of focal length 0.5 m has power:\n    A. 0.5 D B. 1 D C. 2 D D. 5 D\n    Answer: C\n\n    2. Total internal reflection occurs when light travels from:\n    A. rarer to denser medium B. denser to rarer medium above critical angle C. vacuum to air only D. any medium at normal incidence\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Physical Optics",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Physical optics explains light using its wave nature. Huygens' principle describes wavefront propagation. Interference results from\n  superposition of coherent waves, diffraction is the spreading of waves around obstacles or through apertures, and polarisation\n  demonstrates that light is transverse. Young's double-slit experiment provides evidence for interference.",
+        "key_terms": [
+          "Wavefront: surface joining points of equal phase.",
+          "Coherent sources: sources with the same frequency and constant phase difference.",
+          "Interference: redistribution of intensity due to superposition.",
+          "Diffraction: spreading or bending of waves at an aperture or obstacle.",
+          "Polarisation: restriction of transverse vibrations to a particular direction."
+        ],
+        "study_notes": [
+          "Young's double-slit fringe width β = λD/d.",
+          "Bright fringes: path difference mλ; dark fringes: (m + ½)λ.",
+          "Single-slit minima: a sinθ = mλ, m = 1, 2, ...",
+          "Phase difference φ = 2π∆/λ.",
+          "Malus's law: I = I■ cos²θ."
+        ],
+        "worked_example": "In Young's experiment λ = 600 nm, D = 1.5 m and slit separation d = 0.30 mm. Fringe width β = λD/d = 3.0 mm.",
+        "short_questions": "1. What are coherent sources?\n\n    2. State Huygens' principle.\n\nBangladesh HSC Physics | First & Second Paper                                                                                                         Page 15\n\n    3. What is diffraction?\n\n    4. Why does polarisation show that light is transverse?",
+        "long_questions": "1. Describe Young's double-slit experiment and derive the expression for fringe width.\n\n    2. Explain single-slit diffraction and distinguish interference from diffraction.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Polarisation is evidence that light is: A. longitudinal B. transverse C. a sound wave D. stationary Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "In Young's double-slit experiment, fringe width increases when: A. slit separation increases B. wavelength decreases C. screen distance increases D. screen distance decreases Answer: C"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What are coherent sources?\n Answer: Coherent sources produce waves of the same frequency with a constant phase difference.\n\n State Huygens' principle.\n Answer: Every point on a wavefront acts as a source of secondary wavelets spreading forward at the wave speed; the new\n wavefront is the forward envelope of these wavelets.\n\n What is diffraction?\n Answer: Diffraction is the spreading or bending of waves around obstacles or through apertures, especially when their\n dimensions are comparable to the wavelength.\n\n Why does polarisation show that light is transverse?\n Answer: Polarisation restricts light's electric-field oscillations to a particular direction perpendicular to propagation.\n Longitudinal waves cannot be polarised in this way, so polarisation demonstrates that light is transverse.\n\n B. Long-answer questions — model answers\n Describe Young's double-slit experiment and derive the expression for fringe width.\n Answer: Two coherent slits separated by d illuminate a screen at distance D, with D much greater than d. At a point a\n distance y from the central axis, path difference is approximately δ = dy/D. Bright fringes occur when δ = nλ, so yn = nλD/d.\n The separation between adjacent bright fringes is β = λD/d, called fringe width.\n\n Explain single-slit diffraction and distinguish interference from diffraction.\n Answer: For a slit of width a, waves from different parts of the aperture interfere. Dark minima occur when a sinθ = mλ (m =\n 1,2,3…). The central maximum is widest and brightest. Interference usually describes superposition from distinct coherent\n sources and gives regularly spaced fringes; diffraction is interference among wavelets from different parts of the same\n aperture or wavefront, with a broad central maximum in single-slit patterns.\n\nBangladesh HSC Physics • Model Answers                                                                                        Page 19"
+      },
+      "source_text": "Chapter 7: Physical Optics\n  Chapter overview\n  Physical optics explains light using its wave nature. Huygens' principle describes wavefront propagation. Interference results from\n  superposition of coherent waves, diffraction is the spreading of waves around obstacles or through apertures, and polarisation\n  demonstrates that light is transverse. Young's double-slit experiment provides evidence for interference.\n\n  Key terms\n   • Wavefront: surface joining points of equal phase.\n\n   • Coherent sources: sources with the same frequency and constant phase difference.\n\n   • Interference: redistribution of intensity due to superposition.\n\n   • Diffraction: spreading or bending of waves at an aperture or obstacle.\n\n   • Polarisation: restriction of transverse vibrations to a particular direction.\n\n  Study notes: important laws, principles and formulas\n   • Young's double-slit fringe width β = λD/d.\n\n   • Bright fringes: path difference mλ; dark fringes: (m + ½)λ.\n\n   • Single-slit minima: a sinθ = mλ, m = 1, 2, ...\n\n   • Phase difference φ = 2π∆/λ.\n\n   • Malus's law: I = I■ cos²θ.\n\n  Worked example / application\n  In Young's experiment λ = 600 nm, D = 1.5 m and slit separation d = 0.30 mm. Fringe width β = λD/d = 3.0 mm.\n\n  Short-answer practice\n    1. What are coherent sources?\n\n    2. State Huygens' principle.\n\n    3. What is diffraction?\n\n    4. Why does polarisation show that light is transverse?\n\n  Long-answer practice\n    1. Describe Young's double-slit experiment and derive the expression for fringe width.\n\n    2. Explain single-slit diffraction and distinguish interference from diffraction.\n\n  Multiple-choice questions\n    1. Polarisation is evidence that light is:\n    A. longitudinal B. transverse C. a sound wave D. stationary\n    Answer: B\n\n    2. In Young's double-slit experiment, fringe width increases when:\n    A. slit separation increases B. wavelength decreases C. screen distance increases D. screen distance decreases\n    Answer: C\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Introduction to Modern Physics",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Modern physics includes relativity and quantum theory. Special relativity is based on the equivalence of physical laws in inertial frames\n  and the invariance of the speed of light in vacuum. Quantum theory explains energy exchange in discrete packets. The photoelectric\n  effect supports the photon model of light, while de Broglie's hypothesis assigns wave properties to matter.",
+        "key_terms": [
+          "Photon: quantum of electromagnetic radiation.",
+          "Work function: minimum energy needed to remove an electron from a material.",
+          "Threshold frequency: minimum frequency for photoelectric emission.",
+          "de Broglie wavelength: wavelength associated with a moving particle.",
+          "Time dilation and length contraction: relativistic effects measured between frames."
+        ],
+        "study_notes": [
+          "Photon energy E = hf = hc/λ; photon momentum p = h/λ.",
+          "Einstein photoelectric equation Kmax = hf − φ = eVs.",
+          "de Broglie wavelength λ = h/p.",
+          "Lorentz factor γ = 1/√(1−v²/c²); ∆t = γ∆t■; L = L■/γ.",
+          "Mass-energy equivalence E = mc²."
+        ],
+        "worked_example": "Light of frequency 8 × 10¹■ Hz has photon energy E = hf = 6.626 × 10■³■ × 8 × 10¹■ ≈ 5.30 × 10■¹■ J.",
+        "short_questions": "1. What is a photon?\n\n    2. Define work function.\n\n    3. What is threshold frequency?\n\n    4. State de Broglie's hypothesis.",
+        "long_questions": "1. Explain the photoelectric effect using Einstein's photon theory and derive the photoelectric equation.\n\n    2. Describe time dilation and length contraction in special relativity.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The energy of a photon is: A. h/f B. hf C. hλ D. f/h Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The de Broglie wavelength is inversely proportional to: A. momentum B. charge C. temperature D. time Bangladesh HSC Physics | First & Second Paper Page 16 Answer: A"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What is a photon?\n Answer: A photon is a quantum of electromagnetic radiation with energy E = hf and momentum p = h/λ.\n\n Define work function.\n Answer: The work function φ is the minimum energy required to remove an electron from the surface of a material.\n\n What is threshold frequency?\n Answer: Threshold frequency f0 is the minimum frequency of incident radiation required to cause photoelectric emission; φ =\n hf0.\n\n State de Broglie's hypothesis.\n Answer: Every moving material particle has an associated matter wave with wavelength λ = h/p, where p is the particle's\n momentum.\n\n B. Long-answer questions — model answers\n Explain the photoelectric effect using Einstein's photon theory and derive the photoelectric equation.\n Answer: Light consists of photons, each with energy hf. One photon transfers its energy to one electron; φ is used to escape\n the surface and the remainder becomes maximum kinetic energy. By energy conservation, hf = φ + Kmax, so Kmax = hf−φ =\n eVs. Emission occurs only if f ≥ f0 = φ/h. Increasing intensity increases the number of emitted electrons, while increasing\n frequency raises their maximum kinetic energy.\n\n Describe time dilation and length contraction in special relativity.\n Answer: For relative speed v, the Lorentz factor is γ = 1/√(1−v²/c²). A moving clock is observed to run slower: ∆t = γ∆t0, where\n ∆t0 is proper time. The length of an object along the direction of motion is observed contracted: L = L0/γ, where L0 is proper\n length measured in the object's rest frame.\n\nBangladesh HSC Physics • Model Answers                                                                                    Page 20"
+      },
+      "source_text": "Chapter 8: Introduction to Modern Physics\n  Chapter overview\n  Modern physics includes relativity and quantum theory. Special relativity is based on the equivalence of physical laws in inertial frames\n  and the invariance of the speed of light in vacuum. Quantum theory explains energy exchange in discrete packets. The photoelectric\n  effect supports the photon model of light, while de Broglie's hypothesis assigns wave properties to matter.\n\n  Key terms\n   • Photon: quantum of electromagnetic radiation.\n\n   • Work function: minimum energy needed to remove an electron from a material.\n\n   • Threshold frequency: minimum frequency for photoelectric emission.\n\n   • de Broglie wavelength: wavelength associated with a moving particle.\n\n   • Time dilation and length contraction: relativistic effects measured between frames.\n\n  Study notes: important laws, principles and formulas\n   • Photon energy E = hf = hc/λ; photon momentum p = h/λ.\n\n   • Einstein photoelectric equation Kmax = hf − φ = eVs.\n\n   • de Broglie wavelength λ = h/p.\n\n   • Lorentz factor γ = 1/√(1−v²/c²); ∆t = γ∆t■; L = L■/γ.\n\n   • Mass-energy equivalence E = mc².\n\n  Worked example / application\n  Light of frequency 8 × 10¹■ Hz has photon energy E = hf = 6.626 × 10■³■ × 8 × 10¹■ ≈ 5.30 × 10■¹■ J.\n\n  Short-answer practice\n    1. What is a photon?\n\n    2. Define work function.\n\n    3. What is threshold frequency?\n\n    4. State de Broglie's hypothesis.\n\n  Long-answer practice\n    1. Explain the photoelectric effect using Einstein's photon theory and derive the photoelectric equation.\n\n    2. Describe time dilation and length contraction in special relativity.\n\n  Multiple-choice questions\n    1. The energy of a photon is:\n    A. h/f B. hf C. hλ D. f/h\n    Answer: B\n\n    2. The de Broglie wavelength is inversely proportional to:\n    A. momentum B. charge C. temperature D. time\n\n    Answer: A\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Atomic Model and Nuclear Physics",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Rutherford's scattering experiment established the existence of a small, dense nucleus. Bohr's model explains hydrogen's line\n  spectrum using quantised energy levels. The nucleus contains protons and neutrons. Radioactive decay is spontaneous and follows an\n  exponential law. Nuclear binding energy is related to mass defect. Fission splits heavy nuclei; fusion combines light nuclei.",
+        "key_terms": [
+          "Atomic number Z: number of protons.",
+          "Mass number A: total number of protons and neutrons.",
+          "Isotopes: nuclei with the same Z but different A.",
+          "Half-life: time for half the radioactive nuclei in a sample to decay.",
+          "Binding energy: energy required to separate a nucleus into its nucleons."
+        ],
+        "study_notes": [
+          "Hydrogen energy levels En = −13.6/n² eV.",
+          "Photon emitted or absorbed: hf = |∆E|.",
+          "Radioactive decay N = N■e■λt; half-life T½ = ln2/λ.",
+          "Activity A = λN; mass defect ∆m gives binding energy Eb = ∆mc².",
+          "Rydberg relation: 1/λ = R(1/n■² − 1/n■²), n■ > n■."
+        ],
+        "worked_example": "A radioactive sample has a half-life of 4 hours. After 12 hours, remaining fraction = (1/2)³ = 1/8.",
+        "short_questions": "1. What are isotopes?\n\n    2. Define half-life.\n\n    3. What is mass defect?\n\n    4. Distinguish nuclear fission and fusion.",
+        "long_questions": "1. Explain Bohr's atomic model and how it accounts for the hydrogen spectrum.\n\n    2. Derive the radioactive decay law and obtain the expression for half-life.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The half-life is: A. λ/ln2 B. ln2/λ C. 2λ D. 1/λ² Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Nuclear binding energy is related to mass defect by: A. E = mc B. E = ∆mc² C. E = m/c² D. E = ∆m/c Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What are isotopes?\n Answer: Isotopes are atoms or nuclei of the same element with the same atomic number Z but different mass numbers A,\n because they contain different numbers of neutrons.\n\n Define half-life.\n Answer: Half-life is the time required for the number of undecayed radioactive nuclei (or activity) in a sample to fall to half its\n initial value.\n\n What is mass defect?\n Answer: Mass defect is the difference between the sum of the separate masses of the constituent nucleons and the actual\n mass of the bound nucleus. Its equivalent energy is the nuclear binding energy, ∆mc².\n\n Distinguish nuclear fission and fusion.\n Answer: Fission is the splitting of a heavy nucleus into lighter nuclei, usually releasing neutrons and energy. Fusion is the\n joining of light nuclei to form a heavier nucleus, releasing energy when the products are more tightly bound.\n\n B. Long-answer questions — model answers\n Explain Bohr's atomic model and how it accounts for the hydrogen spectrum.\n Answer: Bohr proposed that electrons occupy permitted stationary orbits with quantised angular momentum mvr = nh/2π and\n do not radiate while in these orbits. For hydrogen, En = −13.6/n² eV. Radiation is emitted or absorbed when an electron\n changes levels, with hf = |Ei−Ef|. These discrete energy differences produce the line spectrum of hydrogen.\n\n Derive the radioactive decay law and obtain the expression for half-life.\n Answer: The rate of decay is proportional to the number N of undecayed nuclei: dN/dt = −λN. Separating and integrating\n gives ln(N/N0) = −λt, hence N = N0e■λt. At half-life, N = N0/2, so 1/2 = e■λT½; therefore T½ = ln2/λ.\n\nBangladesh HSC Physics • Model Answers                                                                                         Page 21"
+      },
+      "source_text": "Chapter 9: Atomic Model and Nuclear Physics\n  Chapter overview\n  Rutherford's scattering experiment established the existence of a small, dense nucleus. Bohr's model explains hydrogen's line\n  spectrum using quantised energy levels. The nucleus contains protons and neutrons. Radioactive decay is spontaneous and follows an\n  exponential law. Nuclear binding energy is related to mass defect. Fission splits heavy nuclei; fusion combines light nuclei.\n\n  Key terms\n   • Atomic number Z: number of protons.\n\n   • Mass number A: total number of protons and neutrons.\n\n   • Isotopes: nuclei with the same Z but different A.\n\n   • Half-life: time for half the radioactive nuclei in a sample to decay.\n\n   • Binding energy: energy required to separate a nucleus into its nucleons.\n\n  Study notes: important laws, principles and formulas\n   • Hydrogen energy levels En = −13.6/n² eV.\n\n   • Photon emitted or absorbed: hf = |∆E|.\n\n   • Radioactive decay N = N■e■λt; half-life T½ = ln2/λ.\n\n   • Activity A = λN; mass defect ∆m gives binding energy Eb = ∆mc².\n\n   • Rydberg relation: 1/λ = R(1/n■² − 1/n■²), n■ > n■.\n\n  Worked example / application\n  A radioactive sample has a half-life of 4 hours. After 12 hours, remaining fraction = (1/2)³ = 1/8.\n\n  Short-answer practice\n    1. What are isotopes?\n\n    2. Define half-life.\n\n    3. What is mass defect?\n\n    4. Distinguish nuclear fission and fusion.\n\n  Long-answer practice\n    1. Explain Bohr's atomic model and how it accounts for the hydrogen spectrum.\n\n    2. Derive the radioactive decay law and obtain the expression for half-life.\n\n  Multiple-choice questions\n    1. The half-life is:\n    A. λ/ln2 B. ln2/λ C. 2λ D. 1/λ²\n    Answer: B\n\n    2. Nuclear binding energy is related to mass defect by:\n    A. E = mc B. E = ∆mc² C. E = m/c² D. E = ∆m/c\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Semiconductor and Electronics",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Semiconductors have electrical conductivity between that of conductors and insulators. Their conductivity can be controlled by\n  temperature, light and doping. An n-type semiconductor has electrons as majority carriers; a p-type semiconductor has holes. A p-n\n  junction diode conducts readily in forward bias and resists current in reverse bias. Transistors and logic gates are basic electronic\n  components.\n\nBangladesh HSC Physics | First & Second Paper                                                                                                         Page 17",
+        "key_terms": [
+          "Intrinsic semiconductor: pure semiconductor without intentional impurity.",
+          "Doping: controlled addition of impurity atoms.",
+          "n-type: donor-doped material with electrons as majority carriers.",
+          "p-type: acceptor-doped material with holes as majority carriers.",
+          "Rectification: conversion of AC into unidirectional current."
+        ],
+        "study_notes": [
+          "For a transistor, α = IC/IE and β = IC/IB; β = α/(1−α).",
+          "In forward bias, the p-side is connected to positive and n-side to negative terminal.",
+          "A diode allows substantial current in forward bias after the barrier is overcome.",
+          "AND output is 1 only if all inputs are 1; OR output is 1 if any input is 1; NOT reverses the input."
+        ],
+        "worked_example": "A transistor has α = 0.96. Then β = α/(1−α) = 0.96/0.04 = 24.",
+        "short_questions": "1. What is doping?\n\n    2. Name the majority carriers in n-type material.\n\n    3. What is rectification?\n\n    4. What is the function of a NOT gate?",
+        "long_questions": "1. Explain the formation and working of a p-n junction diode in forward and reverse bias.\n\n    2. Describe the working of a transistor as an amplifier and explain the relationship between α and β.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The majority carriers in an n-type semiconductor are: A. holes B. electrons C. protons D. neutrons Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "A NOT gate produces: A. the same input B. the inverse of input C. always 1 D. always 0 Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
+        "model_answers": "A. Short-answer questions — model answers\n What is doping?\n Answer: Doping is the controlled addition of a small amount of impurity to a pure semiconductor to increase and control its\n electrical conductivity.\n\n Name the majority carriers in n-type material.\n Answer: Electrons are the majority carriers in n-type semiconductor; holes are the minority carriers.\n\n What is rectification?\n Answer: Rectification is the conversion of alternating current or voltage into unidirectional (pulsating DC) output, commonly\n using diode circuits.\n\n What is the function of a NOT gate?\n Answer: A NOT gate inverts a binary input: output is 1 when input is 0, and output is 0 when input is 1.\n\n B. Long-answer questions — model answers\n Explain the formation and working of a p-n junction diode in forward and reverse bias.\n Answer: A p-n junction forms when p-type and n-type regions meet. Electrons and holes diffuse across the junction and\n recombine, leaving a depletion region and built-in potential barrier. In forward bias (p to positive, n to negative), the barrier\n and depletion width decrease, allowing substantial current. In reverse bias, the barrier increases and only a small\n minority-carrier leakage current flows until breakdown.\n\n Describe the working of a transistor as an amplifier and explain the relationship between α and β.\n Answer: In a common-emitter amplifier, a small change in base current controls a much larger collector-current change. With\n suitable biasing, the transistor operates in its active region and the output voltage variation across the collector load is\n amplified. Common-base current gain α = IC/IE and common-emitter gain β = IC/IB. Since IE = IC+IB, α = β/(β+1), or β =\n α/(1−α).\n\nBangladesh HSC Physics • Model Answers                                                                                         Page 22"
+      },
+      "source_text": "Chapter 10: Semiconductor and Electronics\n  Chapter overview\n  Semiconductors have electrical conductivity between that of conductors and insulators. Their conductivity can be controlled by\n  temperature, light and doping. An n-type semiconductor has electrons as majority carriers; a p-type semiconductor has holes. A p-n\n  junction diode conducts readily in forward bias and resists current in reverse bias. Transistors and logic gates are basic electronic\n  components.\n\n  Key terms\n   • Intrinsic semiconductor: pure semiconductor without intentional impurity.\n\n   • Doping: controlled addition of impurity atoms.\n\n   • n-type: donor-doped material with electrons as majority carriers.\n\n   • p-type: acceptor-doped material with holes as majority carriers.\n\n   • Rectification: conversion of AC into unidirectional current.\n\n  Study notes: important laws, principles and formulas\n   • For a transistor, α = IC/IE and β = IC/IB; β = α/(1−α).\n\n   • In forward bias, the p-side is connected to positive and n-side to negative terminal.\n\n   • A diode allows substantial current in forward bias after the barrier is overcome.\n\n   • AND output is 1 only if all inputs are 1; OR output is 1 if any input is 1; NOT reverses the input.\n\n  Worked example / application\n  A transistor has α = 0.96. Then β = α/(1−α) = 0.96/0.04 = 24.\n\n  Short-answer practice\n    1. What is doping?\n\n    2. Name the majority carriers in n-type material.\n\n    3. What is rectification?\n\n    4. What is the function of a NOT gate?\n\n  Long-answer practice\n    1. Explain the formation and working of a p-n junction diode in forward and reverse bias.\n\n    2. Describe the working of a transistor as an amplifier and explain the relationship between α and β.\n\n  Multiple-choice questions\n    1. The majority carriers in an n-type semiconductor are:\n    A. holes B. electrons C. protons D. neutrons\n    Answer: B\n\n    2. A NOT gate produces:\n    A. the same input B. the inverse of input C. always 1 D. always 0\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Astronomy",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Astronomy applies physics to stars, planets, galaxies and the universe. Astronomical distances are measured using the astronomical\n  unit, light-year and parsec. Stars form through gravitational collapse of gas clouds and spend much of their lives converting hydrogen\n  into helium. The final stage of stellar evolution depends strongly on initial mass. Redshift observations and the cosmic microwave\n  background support the modern expanding-universe model.",
+        "key_terms": [
+          "of every chapter?",
+          "Can I state the important laws and identify the conditions in which they apply?",
+          "Can I derive the major equations without skipping essential steps?",
+          "Can I solve numerical problems using SI units and correct sign conventions?",
+          "Can I draw and label the relevant diagrams, graphs, ray paths and circuit symbols?",
+          "Have I attempted the short questions, long questions and MCQs without looking at the notes?",
+          "Have I checked the latest syllabus and examination instructions from my college or board?",
+          "Selected physical constants\n            Quantity                                Symbol            Approximate value",
+          "Speed of light in vacuum                c                 3.00 × 10■ m s■¹",
+          "Gravitational constant                  G                 6.67 × 10■¹¹ N m² kg■²",
+          "Standard gravitational acceleration     g                 9.8 m s■²",
+          "Elementary charge                       e                 1.602 × 10■¹■ C",
+          "Planck constant                         h                 6.626 × 10■³■ J s",
+          "Boltzmann constant                      kB                1.381 × 10■²³ J K■¹",
+          "Vacuum permittivity                     ε■                8.854 × 10■¹² F m■¹",
+          "Avogadro constant                       NA                6.022 × 10²³ mol■¹",
+          "Universal gas constant                  R                 8.314 J mol■¹ K■¹",
+          "References and syllabus note\n  The chapter arrangement follows the commonly used Bangladesh HSC Physics First Paper and Second Paper structure. This guide is\n  independently written for learning and revision. It should be used alongside the current NCTB-prescribed textbook, classroom\n  instruction, practical work and official examination syllabus. For authoritative curriculum information, consult the National Curriculum\n  and Textbook Board (NCTB) and the relevant education board.",
+          "Study well, practise consistently, and always show the reasoning behind your answers.",
+          "Bangladesh HSC Physics | First & Second Paper                                                                                        Page 20",
+          "PHYSICS\n                                         MODEL ANSWERS",
+          "Bangladesh HSC • Class XI–XII • 1st Paper & 2nd Paper",
+          "This answer section provides model responses to every short-answer and"
+        ],
+        "study_notes": [
+          "Hubble's law: v = H■d for sufficiently distant galaxies in the simple linear model.",
+          "Luminosity L = 4πd²F, where F is received flux.",
+          "Schwarzschild radius rs = 2GM/c².",
+          "Bangladesh HSC Physics | First & Second Paper                                                                                                         Page 18",
+          "A light-year is a unit of distance, not time.",
+          "Stellar evolution: nebula → protostar → main sequence → later stages determined by mass."
+        ],
+        "worked_example": "Using H■ = 70 km s■¹ Mpc■¹, a galaxy 50 Mpc away has recession speed v ≈ 3500 km s■¹ under Hubble's law.",
+        "short_questions": "1. What is a light-year?\n\n    2. What is a supernova?\n\n    3. Define redshift.\n\n    4. What determines the final stage of a star's evolution?",
+        "long_questions": "study guide. Use the answers to check understanding; in examinations, show derivations, diagrams and working\n where required.\n\nBangladesh HSC Physics • Model Answers                                                                    Page 1\n\n HOW TO USE THE ANSWERS\n Short answers are written in concise, exam-ready form. Long answers include the key reasoning, equations and\n derivation steps expected in a structured response. For numerical or diagram-based questions, add labelled\n diagrams and show all working in your own answer.\n\nBangladesh HSC Physics • Model Answers                                                                     Page 2",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "A light-year is a unit of: A. time B. distance C. brightness D. mass Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The main factor determining the final evolutionary stage of a star is its: A. colour only B. initial mass C. distance from Earth D. apparent size Answer: B"
+          }
+        ],
+        "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly. Bangladesh HSC Physics | First & Second Paper Page 19 Final Revision Checklist • Can I explain the main idea and",
+        "model_answers": "A. Short-answer questions — model answers\n What is a light-year?\n Answer: A light-year is the distance light travels in vacuum in one year, approximately 9.46×10¹■ m. It is a unit of distance,\n not time.\n\n What is a supernova?\n Answer: A supernova is an extremely luminous stellar explosion, occurring when certain stars undergo core collapse or a\n thermonuclear disruption.\n\n Define redshift.\n Answer: Redshift is the increase in the observed wavelength of light relative to its emitted wavelength. For distant galaxies it\n is commonly interpreted as evidence of recession and cosmic expansion.\n\n What determines the final stage of a star's evolution?\n Answer: The star's initial mass is the main factor. Lower-mass stars typically leave white dwarfs; sufficiently massive cores\n can form neutron stars or black holes.\n\n B. Long-answer questions — model answers\n Describe the main stages in the life cycle of a star and explain how mass determines its final state.\n Answer: A star forms when a gas-and-dust nebula collapses into a protostar. When core hydrogen fusion begins, it enters the\n main sequence. After core hydrogen is depleted, it expands into a giant or supergiant and undergoes later fusion stages\n depending on mass. A Sun-like star sheds outer layers and leaves a white dwarf. A massive star may undergo core-collapse\n supernova, leaving a neutron star or, for a sufficiently massive remnant, a black hole.\n\n Explain Hubble's law and discuss the evidence supporting an expanding universe.\n Answer: Hubble's law states that the recession speed of a sufficiently distant galaxy is approximately v = H0d, where H0 is\n the Hubble constant and d is distance. The redshifts of distant galaxies show that space is expanding. Further evidence\n includes the cosmic microwave background radiation and the observed abundance of light elements, which agree with a hot,\n dense early-universe model.\n\nBangladesh HSC Physics • Model Answers                                                                                     Page 23"
+      },
+      "source_text": "Chapter 11: Astronomy\n  Chapter overview\n  Astronomy applies physics to stars, planets, galaxies and the universe. Astronomical distances are measured using the astronomical\n  unit, light-year and parsec. Stars form through gravitational collapse of gas clouds and spend much of their lives converting hydrogen\n  into helium. The final stage of stellar evolution depends strongly on initial mass. Redshift observations and the cosmic microwave\n  background support the modern expanding-universe model.\n\n  Key terms\n   • Astronomical unit: mean Earth-Sun distance.\n\n   • Light-year: distance travelled by light in one year.\n\n   • Parsec: distance corresponding to a parallax angle of one arcsecond.\n\n   • Luminosity: total energy radiated by a star per unit time.\n\n   • Redshift: increase in observed wavelength relative to emitted wavelength.\n\n  Study notes: important laws, principles and formulas\n   • Hubble's law: v = H■d for sufficiently distant galaxies in the simple linear model.\n\n   • Luminosity L = 4πd²F, where F is received flux.\n\n   • Schwarzschild radius rs = 2GM/c².\n\n   • A light-year is a unit of distance, not time.\n\n   • Stellar evolution: nebula → protostar → main sequence → later stages determined by mass.\n\n  Worked example / application\n  Using H■ = 70 km s■¹ Mpc■¹, a galaxy 50 Mpc away has recession speed v ≈ 3500 km s■¹ under Hubble's law.\n\n  Short-answer practice\n    1. What is a light-year?\n\n    2. What is a supernova?\n\n    3. Define redshift.\n\n    4. What determines the final stage of a star's evolution?\n\n  Long-answer practice\n    1. Describe the main stages in the life cycle of a star and explain how mass determines its final state.\n\n    2. Explain Hubble's law and discuss the evidence supporting an expanding universe.\n\n  Multiple-choice questions\n    1. A light-year is a unit of:\n    A. time B. distance C. brightness D. mass\n    Answer: B\n\n    2. The main factor determining the final evolutionary stage of a star is its:\n    A. colour only B. initial mass C. distance from Earth D. apparent size\n    Answer: B\n  Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the\n  final result clearly.\n\n  Final Revision Checklist\n   • Can I explain the main idea and key terms of every chapter?\n\n   • Can I state the important laws and identify the conditions in which they apply?\n\n   • Can I derive the major equations without skipping essential steps?\n\n   • Can I solve numerical problems using SI units and correct sign conventions?\n\n   • Can I draw and label the relevant diagrams, graphs, ray paths and circuit symbols?\n\n   • Have I attempted the short questions, long questions and MCQs without looking at the notes?\n\n   • Have I checked the latest syllabus and examination instructions from my college or board?\n\n  Selected physical constants\n            Quantity                                Symbol            Approximate value\n\n            Speed of light in vacuum                c                 3.00 × 10■ m s■¹\n\n            Gravitational constant                  G                 6.67 × 10■¹¹ N m² kg■²\n\n            Standard gravitational acceleration     g                 9.8 m s■²\n\n            Elementary charge                       e                 1.602 × 10■¹■ C\n\n            Planck constant                         h                 6.626 × 10■³■ J s\n\n            Boltzmann constant                      kB                1.381 × 10■²³ J K■¹\n\n            Vacuum permittivity                     ε■                8.854 × 10■¹² F m■¹\n\n            Avogadro constant                       NA                6.022 × 10²³ mol■¹\n\n            Universal gas constant                  R                 8.314 J mol■¹ K■¹\n\n  References and syllabus note\n  The chapter arrangement follows the commonly used Bangladesh HSC Physics First Paper and Second Paper structure. This guide is\n  independently written for learning and revision. It should be used alongside the current NCTB-prescribed textbook, classroom\n  instruction, practical work and official examination syllabus. For authoritative curriculum information, consult the National Curriculum\n  and Textbook Board (NCTB) and the relevant education board.\n\n  Study well, practise consistently, and always show the reasoning behind your answers.\n\n                                              PHYSICS\n                                         MODEL ANSWERS\n\n Bangladesh HSC • Class XI–XII • 1st Paper & 2nd Paper\n\n This answer section provides model responses to every short-answer and long-answer practice question in the\n study guide. Use the answers to check understanding; in examinations, show derivations, diagrams and working\n where required.\n\n HOW TO USE THE ANSWERS\n Short answers are written in concise, exam-ready form. Long answers include the key reasoning, equations and\n derivation steps expected in a structured response. For numerical or diagram-based questions, add labelled\n diagrams and show all working in your own answer."
+    }
+  ],
+  "notes": "Content is extracted from the supplied PDF study guide. Source text is retained in each chapter for fidelity; mathematical symbols may reflect PDF text extraction."
+}

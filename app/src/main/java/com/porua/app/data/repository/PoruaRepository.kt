@@ -1,8 +1,10 @@
 package com.porua.app.data.repository
 
 import com.porua.app.data.local.AppDatabase
+import com.porua.app.data.local.ChatHistoryEntity
 import com.porua.app.data.local.entity.ChapterEntity
 import com.porua.app.data.local.entity.QuestionEntity
+import com.porua.app.data.local.entity.QuizAttemptEntity
 import com.porua.app.data.local.entity.StudyTaskEntity
 import com.porua.app.data.local.entity.SubjectEntity
 import com.porua.app.data.local.entity.UserProfileEntity
@@ -12,6 +14,10 @@ class PoruaRepository(private val database: AppDatabase) {
 
     // User Profile
     fun getUserProfile(): Flow<UserProfileEntity?> = database.userProfileDao().getUserProfile()
+
+    suspend fun ensureInitialData() {
+        AppDatabase.ensureInitialData(database)
+    }
 
     suspend fun updateUserProfile(profile: UserProfileEntity) {
         database.userProfileDao().insertOrUpdateProfile(profile)
@@ -64,4 +70,28 @@ class PoruaRepository(private val database: AppDatabase) {
     suspend fun toggleTaskCompleted(taskId: Long, isCompleted: Boolean) {
         database.studyTaskDao().setTaskCompleted(taskId, isCompleted)
     }
+
+    // Chat History (Room Database)
+    fun getAllChats(): Flow<List<ChatHistoryEntity>> = database.chatHistoryDao().getAllChats()
+
+    suspend fun getCachedReply(prompt: String): String? =
+        database.chatHistoryDao().getCachedReply(prompt)
+
+    suspend fun saveChat(prompt: String, reply: String): Long =
+        database.chatHistoryDao().insertChat(ChatHistoryEntity(prompt = prompt, reply = reply))
+
+    suspend fun clearAllChats() = database.chatHistoryDao().clearAllChats()
+
+    // Quiz Attempts
+    suspend fun saveQuizAttempt(attempt: QuizAttemptEntity): Long =
+        database.quizAttemptDao().insertAttempt(attempt)
+
+    fun getAllQuizAttempts(): Flow<List<QuizAttemptEntity>> =
+        database.quizAttemptDao().getAllAttempts()
+
+    fun getQuizAttemptsBySubject(subjectId: String): Flow<List<QuizAttemptEntity>> =
+        database.quizAttemptDao().getAttemptsBySubject(subjectId)
+
+    suspend fun getLatestAttemptForSubject(subjectId: String): QuizAttemptEntity? =
+        database.quizAttemptDao().getLatestAttemptForSubject(subjectId)
 }

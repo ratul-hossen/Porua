@@ -28,6 +28,10 @@ import androidx.compose.material.icons.filled.TrackChanges
 import androidx.compose.material3.Icon
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -38,8 +42,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.porua.app.data.local.entity.StudyTaskEntity
+import com.porua.app.domain.countdown.CountdownResult
 import com.porua.app.ui.components.AiInsightCard
 import com.porua.app.ui.components.BottomNavItem
+import com.porua.app.ui.components.ExamYearSetupDialog
 import com.porua.app.ui.components.PoruaAiButton
 import com.porua.app.ui.components.PoruaBottomNav
 import com.porua.app.ui.components.PoruaWeakBadge
@@ -57,10 +63,25 @@ fun HomeScreen(
     onSeeAllTasks: () -> Unit,
     onSeeAiInsights: () -> Unit,
     onAskPorua: () -> Unit,
-    onPracticeTask: (StudyTaskEntity) -> Unit
+    onPracticeTask: (StudyTaskEntity) -> Unit,
+    onSetExamYear: (String) -> Unit = {}
 ) {
     val colors = LocalPoruaColors.current
     val profile = uiState.userProfile
+    var showYearDialog by remember { mutableStateOf(false) }
+
+    if (!uiState.isExamYearConfigured || showYearDialog) {
+        ExamYearSetupDialog(
+            initialYear = profile.examYear,
+            onYearSelected = { year ->
+                onSetExamYear(year)
+                showYearDialog = false
+            },
+            onDismissRequest = if (uiState.isExamYearConfigured) {
+                { showYearDialog = false }
+            } else null
+        )
+    }
 
     Column(
         modifier = Modifier
@@ -84,37 +105,71 @@ fun HomeScreen(
                     horizontalArrangement = Arrangement.SpaceBetween,
                     verticalAlignment = Alignment.CenterVertically
                 ) {
+                    val currentHour = java.util.Calendar.getInstance().get(java.util.Calendar.HOUR_OF_DAY)
+                    val greetingTime = when (currentHour) {
+                        in 5..11 -> "Good morning"
+                        in 12..16 -> "Good afternoon"
+                        in 17..21 -> "Good evening"
+                        else -> "Hello"
+                    }
+                    val greeting = if (profile.name.isNotBlank()) "$greetingTime, ${profile.name}" else greetingTime
+
                     Column {
                         Text(
-                            text = "Good evening, ${profile.name}",
+                            text = greeting,
                             fontSize = 20.sp,
                             fontWeight = FontWeight.ExtraBold,
                             color = colors.text
                         )
                         Spacer(modifier = Modifier.height(2.dp))
+                        val streakLabel = if (profile.streakDays > 0) "🔥 ${profile.streakDays}-day streak" else "🌱 Day 1"
                         Text(
-                            text = "${profile.examTrack} ${profile.examYear} • ${profile.group} • 🔥 ${profile.streakDays}-day streak",
+                            text = "${profile.examTrack} ${profile.examYear} • ${profile.group} • $streakLabel",
                             fontSize = 12.sp,
                             color = colors.textMuted
                         )
                     }
 
-                    // Bell Notification Button
-                    Box(
-                        modifier = Modifier
-                            .size(42.dp)
-                            .clip(CircleShape)
-                            .background(colors.surface)
-                            .border(1.dp, colors.border, CircleShape)
-                            .clickable { },
-                        contentAlignment = Alignment.Center
+                    // Action Buttons (Ask Porua AI + Notifications)
+                    Row(
+                        horizontalArrangement = Arrangement.spacedBy(8.dp),
+                        verticalAlignment = Alignment.CenterVertically
                     ) {
-                        Icon(
-                            imageVector = Icons.Default.NotificationsNone,
-                            contentDescription = "Notifications",
-                            tint = colors.text,
-                            modifier = Modifier.size(20.dp)
-                        )
+                        // Top Right Ask Porua AI Chat Button
+                        Box(
+                            modifier = Modifier
+                                .size(42.dp)
+                                .clip(CircleShape)
+                                .background(colors.primarySoft)
+                                .border(1.dp, colors.primary.copy(alpha = 0.35f), CircleShape)
+                                .clickable { onAskPorua() },
+                            contentAlignment = Alignment.Center
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.AutoAwesome,
+                                contentDescription = "Ask Porua AI Tutor",
+                                tint = colors.primary,
+                                modifier = Modifier.size(20.dp)
+                            )
+                        }
+
+                        // Bell Notification Button
+                        Box(
+                            modifier = Modifier
+                                .size(42.dp)
+                                .clip(CircleShape)
+                                .background(colors.surface)
+                                .border(1.dp, colors.border, CircleShape)
+                                .clickable { },
+                            contentAlignment = Alignment.Center
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.NotificationsNone,
+                                contentDescription = "Notifications",
+                                tint = colors.text,
+                                modifier = Modifier.size(20.dp)
+                            )
+                        }
                     }
                 }
 
@@ -138,18 +193,66 @@ fun HomeScreen(
                             horizontalArrangement = Arrangement.SpaceBetween,
                             verticalAlignment = Alignment.Top
                         ) {
-                            Column {
-                                Text(
-                                    text = "${profile.daysRemaining} days",
-                                    fontSize = 32.sp,
-                                    fontWeight = FontWeight.Black,
-                                    color = Color.White
-                                )
-                                Text(
-                                    text = "to ${profile.examTrack} • ${profile.examDate}",
-                                    fontSize = 12.sp,
-                                    color = Color.White.copy(alpha = 0.8f)
-                                )
+                            when (val countdown = uiState.countdownResult) {
+                                is CountdownResult.Upcoming -> {
+                                    Column(modifier = Modifier.weight(1f)) {
+                                        Text(
+                                            text = "${countdown.daysRemaining}",
+                                            fontSize = 36.sp,
+                                            fontWeight = FontWeight.Black,
+                                            color = Color.White
+                                        )
+                                        Text(
+                                            text = "Days left",
+                                            fontSize = 13.sp,
+                                            fontWeight = FontWeight.SemiBold,
+                                            color = Color.White.copy(alpha = 0.9f)
+                                        )
+                                        Spacer(modifier = Modifier.height(2.dp))
+                                        Text(
+                                            text = "${profile.examTrack} ${countdown.examYear} • April",
+                                            fontSize = 12.sp,
+                                            color = Color.White.copy(alpha = 0.8f)
+                                        )
+                                    }
+                                }
+                                is CountdownResult.Today -> {
+                                    Column(modifier = Modifier.weight(1f)) {
+                                        Text(
+                                            text = "Exam starts today!",
+                                            fontSize = 24.sp,
+                                            fontWeight = FontWeight.Black,
+                                            color = Color.White
+                                        )
+                                        Spacer(modifier = Modifier.height(4.dp))
+                                        Text(
+                                            text = "Best of luck with ${profile.examTrack} ${countdown.examYear}",
+                                            fontSize = 12.sp,
+                                            color = Color.White.copy(alpha = 0.85f)
+                                        )
+                                    }
+                                }
+                                is CountdownResult.Passed -> {
+                                    Column(
+                                        modifier = Modifier
+                                            .weight(1f)
+                                            .clickable { showYearDialog = true }
+                                    ) {
+                                        Text(
+                                            text = "Exam date has passed",
+                                            fontSize = 20.sp,
+                                            fontWeight = FontWeight.Bold,
+                                            color = Color.White
+                                        )
+                                        Spacer(modifier = Modifier.height(4.dp))
+                                        Text(
+                                            text = "Tap to choose your next exam year →",
+                                            fontSize = 12.sp,
+                                            fontWeight = FontWeight.SemiBold,
+                                            color = Color.White.copy(alpha = 0.95f)
+                                        )
+                                    }
+                                }
                             }
 
                             // 58% exam-ready pill
@@ -186,7 +289,7 @@ fun HomeScreen(
                         ) {
                             Box(
                                 modifier = Modifier
-                                    .fillMaxWidth(fraction = profile.examReadyPercentage / 100f)
+                                    .fillMaxWidth(fraction = (profile.examReadyPercentage / 100f).coerceIn(0.01f, 1f))
                                     .height(4.dp)
                                     .clip(ShapeFull)
                                     .background(Color.White)
@@ -248,7 +351,7 @@ fun HomeScreen(
                     horizontalArrangement = Arrangement.SpaceBetween,
                     verticalAlignment = Alignment.CenterVertically
                 ) {
-                    Column {
+                    Column(modifier = Modifier.weight(1f)) {
                         Text(
                             text = "Weak areas",
                             fontSize = 16.sp,
@@ -256,9 +359,19 @@ fun HomeScreen(
                             color = colors.text
                         )
                         Spacer(modifier = Modifier.height(8.dp))
-                        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                            PoruaWeakBadge("Alcohols 34%")
-                            PoruaWeakBadge("Electrolysis 31%")
+                        val weakChapters = uiState.currentSubjectChapters.filter { it.mastery in 1..49 }
+                        if (weakChapters.isNotEmpty()) {
+                            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                                for (chapter in weakChapters.take(2)) {
+                                    PoruaWeakBadge("${chapter.name} ${chapter.mastery}%")
+                                }
+                            }
+                        } else {
+                            Text(
+                                text = "No weak topics yet • Take diagnostic test",
+                                fontSize = 12.sp,
+                                color = colors.textMuted
+                            )
                         }
                     }
 

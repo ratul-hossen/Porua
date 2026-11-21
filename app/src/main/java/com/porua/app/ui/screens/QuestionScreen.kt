@@ -106,7 +106,7 @@ fun QuestionScreen(
                     .background(colors.surface2)
             ) {
                 val totalQ = if (questions.isNotEmpty()) questions.size else 10
-                val progressFraction = ((currentIdx + 1).toFloat() / totalQ).coerceIn(0f, 1f)
+                val progressFraction = ((currentIdx + 1).toFloat() / totalQ).coerceIn(0.01f, 1f)
                 Box(
                     modifier = Modifier
                         .fillMaxWidth(fraction = progressFraction)

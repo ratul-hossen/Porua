@@ -57,7 +57,7 @@ object Sm2Algorithm {
             newIntervalDays = when (newRepetitions) {
                 1 -> 1
                 2 -> if (rating == Sm2Rating.EASY) 4 else 2
-                else -> max(1, (currentIntervalDays * newEf).toInt())
+                else -> max(1, kotlin.math.round((currentIntervalDays * newEf).toDouble()).toInt())
             }
         }
 

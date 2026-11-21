@@ -36,12 +36,14 @@ fun TopicBar(
             .clip(RoundedCornerShape(height / 2))
             .background(colors.surface2)
     ) {
-        Box(
-            modifier = Modifier
-                .fillMaxWidth(fraction = progressFraction)
-                .height(height)
-                .clip(RoundedCornerShape(height / 2))
-                .background(progressColor)
-        )
+        if (progressFraction > 0f) {
+            Box(
+                modifier = Modifier
+                    .fillMaxWidth(fraction = progressFraction.coerceIn(0.01f, 1f))
+                    .height(height)
+                    .clip(RoundedCornerShape(height / 2))
+                    .background(progressColor)
+            )
+        }
     }
 }

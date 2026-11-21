@@ -1,5 +1,8 @@
 package com.porua.app.ui.screens
 
+import android.net.Uri
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.animation.Crossfade
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -57,15 +60,26 @@ fun SnapQuestionScreen(
     uiState: PoruaUiState,
     onClose: () -> Unit,
     onSolveWithAi: (String) -> Unit,
-    onSelectOfflineMatch: (QuestionEntity) -> Unit
+    onSelectOfflineMatch: (QuestionEntity) -> Unit,
+    onTypeQuestion: () -> Unit = onClose
 ) {
     var hasSnapped by remember { mutableStateOf(false) }
+
+    val galleryPickerLauncher = rememberLauncherForActivityResult(
+        contract = ActivityResultContracts.GetContent()
+    ) { uri: Uri? ->
+        if (uri != null) {
+            hasSnapped = true
+        }
+    }
 
     Crossfade(targetState = hasSnapped, label = "camera_crossfade") { snapped ->
         if (!snapped) {
             CameraViewFinderScreen(
                 onClose = onClose,
-                onShutterClick = { hasSnapped = true }
+                onShutterClick = { hasSnapped = true },
+                onGalleryClick = { galleryPickerLauncher.launch("image/*") },
+                onTypeQuestion = onTypeQuestion
             )
         } else {
             SnapResultScreen(
@@ -81,7 +95,9 @@ fun SnapQuestionScreen(
 @Composable
 private fun CameraViewFinderScreen(
     onClose: () -> Unit,
-    onShutterClick: () -> Unit
+    onShutterClick: () -> Unit,
+    onGalleryClick: () -> Unit,
+    onTypeQuestion: () -> Unit
 ) {
     Box(
         modifier = Modifier
@@ -218,7 +234,7 @@ private fun CameraViewFinderScreen(
         ) {
             Column(
                 horizontalAlignment = Alignment.CenterHorizontally,
-                modifier = Modifier.clickable { onShutterClick() }
+                modifier = Modifier.clickable { onGalleryClick() }
             ) {
                 Box(
                     modifier = Modifier
@@ -252,7 +268,7 @@ private fun CameraViewFinderScreen(
 
             Column(
                 horizontalAlignment = Alignment.CenterHorizontally,
-                modifier = Modifier.clickable { onShutterClick() }
+                modifier = Modifier.clickable { onTypeQuestion() }
             ) {
                 Box(
                     modifier = Modifier

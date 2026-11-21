@@ -26,7 +26,11 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.AnnotatedString
+import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.porua.app.ui.theme.LocalPoruaColors
@@ -72,6 +76,12 @@ fun AiResponseCard(
     modifier: Modifier = Modifier
 ) {
     val colors = LocalPoruaColors.current
+    val context = androidx.compose.ui.platform.LocalContext.current
+    val clipboardManager = androidx.compose.ui.platform.LocalClipboardManager.current
+
+    // Clean and organize markdown, headers, and tables
+    val cleanedText = cleanEducationalText(steps.joinToString("\n\n"))
+    val blocks = cleanedText.split("\n\n").filter { it.isNotBlank() }
 
     Column(
         modifier = modifier
@@ -93,7 +103,7 @@ fun AiResponseCard(
                 modifier = Modifier.size(16.dp)
             )
             Text(
-                text = "Porua • step by step",
+                text = "Porua AI • Step-by-Step Solution",
                 fontSize = 12.sp,
                 fontWeight = FontWeight.SemiBold,
                 color = colors.primary
@@ -102,33 +112,58 @@ fun AiResponseCard(
 
         Spacer(modifier = Modifier.height(10.dp))
 
-        // Steps
-        steps.forEach { step ->
-            Text(
-                text = step,
-                fontSize = 13.sp,
-                lineHeight = 19.sp,
-                color = colors.text,
-                modifier = Modifier.padding(vertical = 3.dp)
-            )
+        // Organized Educational Content
+        blocks.forEach { block ->
+            val trimmed = block.trim()
+            if (trimmed.startsWith("#")) {
+                val cleanHeader = trimmed.replace(Regex("^#+\\s*"), "")
+                Spacer(modifier = Modifier.height(4.dp))
+                Text(
+                    text = cleanHeader,
+                    fontSize = 14.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = colors.text,
+                    modifier = Modifier.padding(vertical = 3.dp)
+                )
+            } else {
+                val annotated = parseMarkdownToAnnotatedString(
+                    text = trimmed,
+                    primaryColor = colors.primary,
+                    textColor = colors.text
+                )
+                Text(
+                    text = annotated,
+                    fontSize = 13.sp,
+                    lineHeight = 20.sp,
+                    color = colors.text,
+                    modifier = Modifier.padding(vertical = 3.dp)
+                )
+            }
         }
 
-        Spacer(modifier = Modifier.height(10.dp))
-
-        // Green Answer Badge
-        Box(
-            modifier = Modifier
-                .fillMaxWidth()
-                .clip(ShapeMd)
-                .background(colors.successSoft)
-                .padding(10.dp)
-        ) {
-            Text(
-                text = "Answer: $answerSummary • $syllabusNote",
-                fontSize = 12.sp,
-                fontWeight = FontWeight.SemiBold,
-                color = colors.success
-            )
+        // Green Answer Badge (Only displayed when real answer exists, not hardcoded dummy tags)
+        val hasRealAnswer = answerSummary.isNotBlank() && answerSummary != "Porua AI"
+        if (hasRealAnswer || syllabusNote.isNotBlank()) {
+            val badgeText = when {
+                hasRealAnswer && syllabusNote.isNotBlank() -> "Answer: $answerSummary • $syllabusNote"
+                hasRealAnswer -> "Answer: $answerSummary"
+                else -> syllabusNote
+            }
+            Spacer(modifier = Modifier.height(8.dp))
+            Box(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clip(ShapeMd)
+                    .background(colors.successSoft)
+                    .padding(10.dp)
+            ) {
+                Text(
+                    text = badgeText,
+                    fontSize = 12.sp,
+                    fontWeight = FontWeight.SemiBold,
+                    color = colors.success
+                )
+            }
         }
 
         Spacer(modifier = Modifier.height(12.dp))
@@ -170,7 +205,15 @@ fun AiResponseCard(
                 tint = colors.textMuted,
                 modifier = Modifier
                     .size(18.dp)
-                    .clickable { }
+                    .clickable {
+                        val fullText = buildString {
+                            append(cleanedText)
+                            if (hasRealAnswer) appendLine("\nAnswer: $answerSummary")
+                            if (syllabusNote.isNotBlank()) appendLine("\n$syllabusNote")
+                        }.trim()
+                        clipboardManager.setText(AnnotatedString(fullText))
+                        android.widget.Toast.makeText(context, "Copied response to clipboard", android.widget.Toast.LENGTH_SHORT).show()
+                    }
             )
             Spacer(modifier = Modifier.width(16.dp))
             Icon(
@@ -179,8 +222,96 @@ fun AiResponseCard(
                 tint = colors.textMuted,
                 modifier = Modifier
                     .size(18.dp)
-                    .clickable { }
+                    .clickable {
+                        android.widget.Toast.makeText(context, "Marked as helpful!", android.widget.Toast.LENGTH_SHORT).show()
+                    }
             )
+        }
+    }
+}
+
+private fun cleanEducationalText(rawText: String): String {
+    val lines = rawText.lines()
+    val cleanedLines = mutableListOf<String>()
+
+    for (line in lines) {
+        val trimmed = line.trim()
+
+        // 1. Skip table divider lines like |---|---| or dashes ---
+        if ((trimmed.startsWith("|") && trimmed.contains("---")) || trimmed.matches(Regex("^-{3,}$"))) {
+            continue
+        }
+
+        // 2. Convert table rows | col1 | col2 | into clean bullet points: • col1: col2
+        if (trimmed.startsWith("|") && trimmed.endsWith("|")) {
+            val cols = trimmed.split("|")
+                .map { it.replace("*", "").trim() }
+                .filter { it.isNotBlank() }
+
+            if (cols.isNotEmpty()) {
+                if (cols.size == 1) {
+                    cleanedLines.add("• ${cols[0]}")
+                } else if (cols.size == 2) {
+                    cleanedLines.add("• ${cols[0]}: ${cols[1]}")
+                } else {
+                    cleanedLines.add("• ${cols[0]}: ${cols.subList(1, cols.size).joinToString(" — ")}")
+                }
+                continue
+            }
+        }
+
+        // 3. Clean redundant answer headers like "**Answer (in Bangla + English for clarity):**"
+        if (trimmed.startsWith("**Answer", ignoreCase = true) && trimmed.endsWith("**")) {
+            continue
+        }
+
+        // 4. Remove leading markdown hashtags (#, ##, ###)
+        val cleanLine = trimmed.replace(Regex("^#+\\s*"), "")
+
+        cleanedLines.add(cleanLine)
+    }
+
+    return cleanedLines.joinToString("\n")
+}
+
+private fun parseMarkdownToAnnotatedString(
+    text: String,
+    primaryColor: Color,
+    textColor: Color
+): AnnotatedString {
+    return buildAnnotatedString {
+        // Match **bold** or `code` or strip stray asterisks cleanly
+        val regex = Regex("\\*\\*(.*?)\\*\\*|`(.*?)`|\\*(.*?)\\*")
+        var currentIndex = 0
+
+        for (match in regex.findAll(text)) {
+            if (match.range.first > currentIndex) {
+                append(text.substring(currentIndex, match.range.first).replace("*", ""))
+            }
+
+            val boldContent = match.groups[1]?.value
+            val codeContent = match.groups[2]?.value
+            val italicContent = match.groups[3]?.value
+
+            if (boldContent != null) {
+                withStyle(SpanStyle(fontWeight = FontWeight.Bold, color = textColor)) {
+                    append(boldContent.replace("*", ""))
+                }
+            } else if (codeContent != null) {
+                withStyle(SpanStyle(fontWeight = FontWeight.SemiBold, color = primaryColor)) {
+                    append(codeContent)
+                }
+            } else if (italicContent != null) {
+                withStyle(SpanStyle(fontWeight = FontWeight.Medium, color = textColor)) {
+                    append(italicContent.replace("*", ""))
+                }
+            }
+
+            currentIndex = match.range.last + 1
+        }
+
+        if (currentIndex < text.length) {
+            append(text.substring(currentIndex).replace("*", ""))
         }
     }
 }

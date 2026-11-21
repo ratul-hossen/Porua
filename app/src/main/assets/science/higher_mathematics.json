@@ -1,0 +1,625 @@
+{
+  "class": "HSC 12th Class",
+  "stream": "Science",
+  "subject": "Higher Mathematics",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "subject_codes": {
+    "1st_paper": 265,
+    "2nd_paper": 266
+  },
+  "source_pdf": "Bangladesh_HSC_Higher_Mathematics_Complete_1st_and_2nd_Paper_Guide_with_Answers(1).pdf",
+  "papers": [
+    {
+      "name": "1st Paper",
+      "chapter_count": 10
+    },
+    {
+      "name": "2nd Paper",
+      "chapter_count": 10
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Matrices and Determinants",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "A matrix is a rectangular arrangement of numbers. Matrices are used to organise data and solve systems of linear equations. A\ndeterminant is a scalar associated with a square matrix.",
+        "key_terms": [],
+        "study_notes": [
+          "For A = [a■■], the order is number of rows × number of columns.",
+          "Two matrices can be added only when they have the same order.",
+          "For a 2 × 2 matrix [[a,b],[c,d]], det(A) = ad − bc.",
+          "A square matrix is invertible when its determinant is non-zero; A■¹ = adj(A)/det(A).",
+          "For compatible matrices, generally AB ≠ BA."
+        ],
+        "short_questions": "What is a square matrix?\n\n   Answer: A matrix with the same number of rows and columns.\nWhen does a 2 × 2 matrix have an inverse?\n\n   Answer: When its determinant is non-zero.",
+        "long_questions": "Find the determinant and inverse of A = [[2,1],[5,3]].\n\n   Solution: det(A) = 2×3 − 1×5 = 1. The adjugate is [[3,−1],[−5,2]]. Therefore A■¹ = [[3,−1],[−5,2]].",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The determinant of [[a,b],[c,d]] is: A. ad − bc B. ab − cd C. ac − bd D. ad + bc Answer: A"
+          },
+          {
+            "number": 2,
+            "content": "A square matrix is singular if its determinant is: A. 1 B. −1 C. 0 D. Non-zero Answer: C"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "1ST PAPER — Chapter 1: Matrices and Determinants\nChapter overview\nA matrix is a rectangular arrangement of numbers. Matrices are used to organise data and solve systems of linear equations. A\ndeterminant is a scalar associated with a square matrix.\n\nKey concepts and important formulas\n• For A = [a■■], the order is number of rows × number of columns.\n\n• Two matrices can be added only when they have the same order.\n\n• For a 2 × 2 matrix [[a,b],[c,d]], det(A) = ad − bc.\n\n• A square matrix is invertible when its determinant is non-zero; A■¹ = adj(A)/det(A).\n\n• For compatible matrices, generally AB ≠ BA.\n\nShort-answer practice — answers\nWhat is a square matrix?\n\n   Answer: A matrix with the same number of rows and columns.\nWhen does a 2 × 2 matrix have an inverse?\n\n   Answer: When its determinant is non-zero.\n\nLong-answer practice — worked solution\nFind the determinant and inverse of A = [[2,1],[5,3]].\n\n   Solution: det(A) = 2×3 − 1×5 = 1. The adjugate is [[3,−1],[−5,2]]. Therefore A■¹ = [[3,−1],[−5,2]].\n\nMultiple-choice questions\n1. The determinant of [[a,b],[c,d]] is:\n\nA. ad − bc     B. ab − cd   C. ac − bd   D. ad + bc\n\nAnswer: A\n\n2. A square matrix is singular if its determinant is:\n\nA. 1   B. −1    C. 0   D. Non-zero\n\nAnswer: C\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Vectors",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "A vector has magnitude and direction. Vectors describe displacement, velocity and force. Vector operations allow geometric and\nphysical quantities to be resolved and combined.",
+        "key_terms": [],
+        "study_notes": [
+          "In two dimensions, a = a■i + a■j.",
+          "Magnitude: |a| = √(a■² + a■²).",
+          "Dot product: a·b = |a||b|cosθ; it is a scalar.",
+          "Cross-product magnitude: |a×b| = |a||b|sinθ.",
+          "The resultant of vectors is found by adding corresponding components."
+        ],
+        "short_questions": "Bangladesh HSC Higher Mathematics | First & Second Paper                                                                                      Page 3\n\nWhat is a unit vector?\n\n   Answer: A vector of magnitude one that specifies direction.\nWhen is the dot product zero?\n\n   Answer: When the two non-zero vectors are perpendicular.",
+        "long_questions": "Find the magnitude and direction of v = 3i + 4j.\n\n   Solution: |v| = √(3²+4²) = 5. Its angle from the positive x-axis is θ = tan■¹(4/3) ≈ 53.13°.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The magnitude of 3i + 4j is: A. 3 B. 4 C. 5 D. 7 Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "If a·b = 0 for two non-zero vectors, the angle is: A. 0° B. 45° C. 90° D. 180° Answer: C"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "1ST PAPER — Chapter 2: Vectors\nChapter overview\nA vector has magnitude and direction. Vectors describe displacement, velocity and force. Vector operations allow geometric and\nphysical quantities to be resolved and combined.\n\nKey concepts and important formulas\n• In two dimensions, a = a■i + a■j.\n\n• Magnitude: |a| = √(a■² + a■²).\n\n• Dot product: a·b = |a||b|cosθ; it is a scalar.\n\n• Cross-product magnitude: |a×b| = |a||b|sinθ.\n\n• The resultant of vectors is found by adding corresponding components.\n\nShort-answer practice — answers\n\nWhat is a unit vector?\n\n   Answer: A vector of magnitude one that specifies direction.\nWhen is the dot product zero?\n\n   Answer: When the two non-zero vectors are perpendicular.\n\nLong-answer practice — worked solution\nFind the magnitude and direction of v = 3i + 4j.\n\n   Solution: |v| = √(3²+4²) = 5. Its angle from the positive x-axis is θ = tan■¹(4/3) ≈ 53.13°.\n\nMultiple-choice questions\n1. The magnitude of 3i + 4j is:\n\nA. 3    B. 4   C. 5     D. 7\n\nAnswer: C\n\n2. If a·b = 0 for two non-zero vectors, the angle is:\n\nA. 0°   B. 45°    C. 90°       D. 180°\n\nAnswer: C\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Straight Lines",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Coordinate geometry represents geometric objects using equations. A straight line may be described by its slope and a point, two\npoints, intercepts or a general linear equation.",
+        "key_terms": [],
+        "study_notes": [
+          "Slope m = (y■−y■)/(x■−x■), where x■ ≠ x■.",
+          "Point-slope form: y−y■ = m(x−x■).",
+          "Slope-intercept form: y = mx+c.",
+          "Parallel non-vertical lines have equal slopes; perpendicular lines satisfy m■m■ = −1.",
+          "The general form is ax+by+c=0."
+        ],
+        "short_questions": "What is the slope of a horizontal line?\n\n   Answer: Zero.\nState the condition for two non-vertical lines to be perpendicular.\n\n   Answer: Their slopes have product −1.",
+        "long_questions": "Find the equation of the line through (2,3) and (4,7).\n\n   Solution: Slope m = (7−3)/(4−2) = 2. Using y−3 = 2(x−2), the equation is y = 2x−1.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The slope of a line parallel to y = 5x + 2 is: A. −5 B. 1/5 C. 5 D. 2 Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "A vertical line has equation: A. y = constant B. x = constant C. y = mx+c D. x+y=0 Answer: B Bangladesh HSC Higher Mathematics | First & Second Paper Page 4"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "1ST PAPER — Chapter 3: Straight Lines\nChapter overview\nCoordinate geometry represents geometric objects using equations. A straight line may be described by its slope and a point, two\npoints, intercepts or a general linear equation.\n\nKey concepts and important formulas\n• Slope m = (y■−y■)/(x■−x■), where x■ ≠ x■.\n\n• Point-slope form: y−y■ = m(x−x■).\n\n• Slope-intercept form: y = mx+c.\n\n• Parallel non-vertical lines have equal slopes; perpendicular lines satisfy m■m■ = −1.\n\n• The general form is ax+by+c=0.\n\nShort-answer practice — answers\nWhat is the slope of a horizontal line?\n\n   Answer: Zero.\nState the condition for two non-vertical lines to be perpendicular.\n\n   Answer: Their slopes have product −1.\n\nLong-answer practice — worked solution\nFind the equation of the line through (2,3) and (4,7).\n\n   Solution: Slope m = (7−3)/(4−2) = 2. Using y−3 = 2(x−2), the equation is y = 2x−1.\n\nMultiple-choice questions\n1. The slope of a line parallel to y = 5x + 2 is:\n\nA. −5    B. 1/5   C. 5     D. 2\n\nAnswer: C\n\n2. A vertical line has equation:\n\nA. y = constant       B. x = constant    C. y = mx+c   D. x+y=0\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Circles",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "A circle is the locus of points at a fixed distance from a fixed centre. Its equation follows from the distance formula.",
+        "key_terms": [],
+        "study_notes": [
+          "Standard form: (x−h)²+(y−k)²=r².",
+          "Centre-radius form x²+y²+2gx+2fy+c=0 has centre (−g,−f).",
+          "Radius = √(g²+f²−c).",
+          "A tangent is perpendicular to the radius at the point of contact.",
+          "A point lies inside, on or outside a circle according as its centre distance is less than, equal to or greater than r."
+        ],
+        "short_questions": "What is the radius of x²+y²=r²?\n\n   Answer: The radius is r and the centre is (0,0).\nWhat is the relation between a tangent and the radius at contact?\n\n   Answer: They are perpendicular.",
+        "long_questions": "Find the centre and radius of x²+y²−4x+6y−12=0.\n\n   Solution: Complete squares: (x−2)²−4+(y+3)²−9−12=0. Thus (x−2)²+(y+3)²=25. Centre = (2,−3), radius = 5.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The radius of x²+y²=49 is: A. 5 B. 7 C. 14 D. 49 Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "A tangent to a circle is perpendicular to the: A. Diameter anywhere B. Radius at contact C. Chord always D. Secant Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "1ST PAPER — Chapter 4: Circles\nChapter overview\nA circle is the locus of points at a fixed distance from a fixed centre. Its equation follows from the distance formula.\n\nKey concepts and important formulas\n• Standard form: (x−h)²+(y−k)²=r².\n\n• Centre-radius form x²+y²+2gx+2fy+c=0 has centre (−g,−f).\n\n• Radius = √(g²+f²−c).\n\n• A tangent is perpendicular to the radius at the point of contact.\n\n• A point lies inside, on or outside a circle according as its centre distance is less than, equal to or greater than r.\n\nShort-answer practice — answers\nWhat is the radius of x²+y²=r²?\n\n   Answer: The radius is r and the centre is (0,0).\nWhat is the relation between a tangent and the radius at contact?\n\n   Answer: They are perpendicular.\n\nLong-answer practice — worked solution\nFind the centre and radius of x²+y²−4x+6y−12=0.\n\n   Solution: Complete squares: (x−2)²−4+(y+3)²−9−12=0. Thus (x−2)²+(y+3)²=25. Centre = (2,−3), radius = 5.\n\nMultiple-choice questions\n1. The radius of x²+y²=49 is:\n\nA. 5   B. 7   C. 14   D. 49\n\nAnswer: B\n\n2. A tangent to a circle is perpendicular to the:\n\nA. Diameter anywhere     B. Radius at contact   C. Chord always   D. Secant\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Permutations and Combinations",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Permutations count ordered arrangements, while combinations count selections where order does not matter.",
+        "key_terms": [],
+        "study_notes": [
+          "n! = n(n−1)…1 and 0! = 1.",
+          "Permutation: ■P■ = n!/(n−r)!.",
+          "Combination: ■C■ = n!/[r!(n−r)!].",
+          "■C■ = ■C■■■.",
+          "For arrangements with repeated identical objects, divide by the factorials of repeat counts."
+        ],
+        "short_questions": "How do permutations and combinations differ?\n\n   Answer: Permutation considers order; combination does not.\n\nBangladesh HSC Higher Mathematics | First & Second Paper                                                                                      Page 5\n\nWhat is the value of 0!?\n\n   Answer: 1.",
+        "long_questions": "How many ways can 3 students be selected from 8 students?\n\n   Solution: Order does not matter, so use combinations: ■C■ = 8!/(3!5!) = (8×7×6)/(3×2×1) = 56 ways.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "■P■ equals: A. 10 B. 20 C. 25 D. 60 Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "■C■ equals: A. 10 B. 20 C. 25 D. 60 Answer: A"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "1ST PAPER — Chapter 5: Permutations and Combinations\nChapter overview\nPermutations count ordered arrangements, while combinations count selections where order does not matter.\n\nKey concepts and important formulas\n• n! = n(n−1)…1 and 0! = 1.\n\n• Permutation: ■P■ = n!/(n−r)!.\n\n• Combination: ■C■ = n!/[r!(n−r)!].\n\n• ■C■ = ■C■■■.\n\n• For arrangements with repeated identical objects, divide by the factorials of repeat counts.\n\nShort-answer practice — answers\nHow do permutations and combinations differ?\n\n   Answer: Permutation considers order; combination does not.\n\nWhat is the value of 0!?\n\n   Answer: 1.\n\nLong-answer practice — worked solution\nHow many ways can 3 students be selected from 8 students?\n\n   Solution: Order does not matter, so use combinations: ■C■ = 8!/(3!5!) = (8×7×6)/(3×2×1) = 56 ways.\n\nMultiple-choice questions\n1. ■P■ equals:\n\nA. 10    B. 20    C. 25      D. 60\n\nAnswer: B\n\n2. ■C■ equals:\n\nA. 10    B. 20    C. 25      D. 60\n\nAnswer: A\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Trigonometric Ratios",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Trigonometry relates angles to ratios of sides in right triangles and is extended to the unit circle.",
+        "key_terms": [],
+        "study_notes": [
+          "sinθ = opposite/hypotenuse; cosθ = adjacent/hypotenuse; tanθ = opposite/adjacent.",
+          "tanθ = sinθ/cosθ.",
+          "sin²θ + cos²θ = 1.",
+          "1+tan²θ = sec²θ and 1+cot²θ = cosec²θ.",
+          "Use the correct quadrant to determine the sign of each ratio."
+        ],
+        "short_questions": "What is tanθ in terms of sine and cosine?\n\n   Answer: tanθ = sinθ/cosθ, where cosθ ≠ 0.\nState the fundamental Pythagorean identity.\n\n   Answer: sin²θ + cos²θ = 1.",
+        "long_questions": "If sinθ = 3/5 and θ is acute, find cosθ and tanθ.\n\n   Solution: cosθ = √(1−9/25) = 4/5 because θ is acute. Hence tanθ = (3/5)/(4/5) = 3/4.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "If sinθ = 0.6 and θ is acute, cosθ is: A. 0.4 B. 0.6 C. 0.8 D. 1.6 Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "tanθ equals: A. cosθ/sinθ B. sinθ/cosθ C. 1/sinθ D. 1/cosθ Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 6"
+      },
+      "source_text": "1ST PAPER — Chapter 6: Trigonometric Ratios\nChapter overview\nTrigonometry relates angles to ratios of sides in right triangles and is extended to the unit circle.\n\nKey concepts and important formulas\n• sinθ = opposite/hypotenuse; cosθ = adjacent/hypotenuse; tanθ = opposite/adjacent.\n\n• tanθ = sinθ/cosθ.\n\n• sin²θ + cos²θ = 1.\n\n• 1+tan²θ = sec²θ and 1+cot²θ = cosec²θ.\n\n• Use the correct quadrant to determine the sign of each ratio.\n\nShort-answer practice — answers\nWhat is tanθ in terms of sine and cosine?\n\n   Answer: tanθ = sinθ/cosθ, where cosθ ≠ 0.\nState the fundamental Pythagorean identity.\n\n   Answer: sin²θ + cos²θ = 1.\n\nLong-answer practice — worked solution\nIf sinθ = 3/5 and θ is acute, find cosθ and tanθ.\n\n   Solution: cosθ = √(1−9/25) = 4/5 because θ is acute. Hence tanθ = (3/5)/(4/5) = 3/4.\n\nMultiple-choice questions\n1. If sinθ = 0.6 and θ is acute, cosθ is:\n\nA. 0.4   B. 0.6     C. 0.8    D. 1.6\n\nAnswer: C\n\n2. tanθ equals:\n\nA. cosθ/sinθ      B. sinθ/cosθ       C. 1/sinθ   D. 1/cosθ\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Trigonometric Ratios of Associated",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Associated-angle identities express trigonometric functions of angles related by complements, supplements and half/full turns.",
+        "key_terms": [],
+        "study_notes": [
+          "sin(90°−θ)=cosθ; cos(90°−θ)=sinθ.",
+          "sin(180°−θ)=sinθ; cos(180°−θ)=−cosθ.",
+          "sin(180°+θ)=−sinθ; cos(180°+θ)=−cosθ.",
+          "sin(360°−θ)=−sinθ; cos(360°−θ)=cosθ.",
+          "The sign of a ratio depends on the quadrant."
+        ],
+        "short_questions": "What is sin(90°−θ)?\n\n   Answer: cosθ.\nIn which quadrants is cosine negative?\n\n   Answer: The second and third quadrants.",
+        "long_questions": "Evaluate sin150° + cos120°.\n\n   Solution: sin150° = sin30° = 1/2. cos120° = −cos60° = −1/2. Sum = 0.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "cos(180°−θ) equals: A. cosθ B. −cosθ C. sinθ D. −sinθ Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "sin(360°−θ) equals: A. sinθ B. −sinθ C. cosθ D. −cosθ Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "1ST PAPER — Chapter 7: Trigonometric Ratios of Associated\nAngles\nChapter overview\nAssociated-angle identities express trigonometric functions of angles related by complements, supplements and half/full turns.\n\nKey concepts and important formulas\n• sin(90°−θ)=cosθ; cos(90°−θ)=sinθ.\n\n• sin(180°−θ)=sinθ; cos(180°−θ)=−cosθ.\n\n• sin(180°+θ)=−sinθ; cos(180°+θ)=−cosθ.\n\n• sin(360°−θ)=−sinθ; cos(360°−θ)=cosθ.\n\n• The sign of a ratio depends on the quadrant.\n\nShort-answer practice — answers\nWhat is sin(90°−θ)?\n\n   Answer: cosθ.\nIn which quadrants is cosine negative?\n\n   Answer: The second and third quadrants.\n\nLong-answer practice — worked solution\nEvaluate sin150° + cos120°.\n\n   Solution: sin150° = sin30° = 1/2. cos120° = −cos60° = −1/2. Sum = 0.\n\nMultiple-choice questions\n1. cos(180°−θ) equals:\n\nA. cosθ   B. −cosθ    C. sinθ   D. −sinθ\n\nAnswer: B\n\n2. sin(360°−θ) equals:\n\nA. sinθ   B. −sinθ   C. cosθ    D. −cosθ\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Functions and Graphs of Functions",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "A function assigns exactly one output to each input in its domain. Functions can be represented algebraically, graphically or by\ntables.",
+        "key_terms": [],
+        "study_notes": [
+          "Domain is the set of permitted inputs; range is the set of resulting outputs.",
+          "A vertical-line test determines whether a graph represents y as a function of x.",
+          "For f(x)=mx+c, the graph is a straight line.",
+          "Composite function: (f■g)(x)=f(g(x)).",
+          "An inverse function exists when the function is one-to-one on its domain."
+        ],
+        "short_questions": "What is the domain of a function?\n\n   Answer: The set of all allowed input values.\n\nBangladesh HSC Higher Mathematics | First & Second Paper                                                                                      Page 7\n\nWhat does the vertical-line test check?\n\n   Answer: Whether any vertical line intersects the graph more than once.",
+        "long_questions": "If f(x)=2x+3, find f■¹(x).\n\n   Solution: Let y=2x+3. Interchange x and y: x=2y+3. Then y=(x−3)/2. Thus f■¹(x)=(x−3)/2.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "If f(x)=x² on all real numbers, it is: A. One-to-one B. Not one-to-one C. Constant D. Undefined Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The domain of f(x)=1/x excludes: A. 1 B. −1 C. 0 D. 2 Answer: C"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "1ST PAPER — Chapter 8: Functions and Graphs of Functions\nChapter overview\nA function assigns exactly one output to each input in its domain. Functions can be represented algebraically, graphically or by\ntables.\n\nKey concepts and important formulas\n• Domain is the set of permitted inputs; range is the set of resulting outputs.\n\n• A vertical-line test determines whether a graph represents y as a function of x.\n\n• For f(x)=mx+c, the graph is a straight line.\n\n• Composite function: (f■g)(x)=f(g(x)).\n\n• An inverse function exists when the function is one-to-one on its domain.\n\nShort-answer practice — answers\nWhat is the domain of a function?\n\n   Answer: The set of all allowed input values.\n\nWhat does the vertical-line test check?\n\n   Answer: Whether any vertical line intersects the graph more than once.\n\nLong-answer practice — worked solution\nIf f(x)=2x+3, find f■¹(x).\n\n   Solution: Let y=2x+3. Interchange x and y: x=2y+3. Then y=(x−3)/2. Thus f■¹(x)=(x−3)/2.\n\nMultiple-choice questions\n1. If f(x)=x² on all real numbers, it is:\n\nA. One-to-one      B. Not one-to-one    C. Constant   D. Undefined\n\nAnswer: B\n\n2. The domain of f(x)=1/x excludes:\n\nA. 1    B. −1    C. 0   D. 2\n\nAnswer: C\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Differentiation",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Differentiation measures instantaneous rate of change and gives the gradient of a curve. It is central to tangent, velocity and\noptimisation problems.",
+        "key_terms": [],
+        "study_notes": [
+          "Derivative definition: f′(x)=lim■→■[f(x+h)−f(x)]/h.",
+          "Power rule: d(x■)/dx = nx■■¹.",
+          "d(sin x)/dx=cos x; d(cos x)/dx=−sin x.",
+          "Product rule: (uv)′=u′v+uv′; quotient rule: (u/v)′=(u′v−uv′)/v².",
+          "Chain rule: d[f(g(x))]/dx=f′(g(x))g′(x)."
+        ],
+        "short_questions": "What does the derivative represent geometrically?\n\n   Answer: The gradient of the tangent to the curve at a point.\nDifferentiate x■.\n\n   Answer: The derivative is 5x■.",
+        "long_questions": "Differentiate y = (3x²+1)(x−2).\n\n   Solution: Using the product rule: dy/dx = 6x(x−2)+(3x²+1)(1) = 9x²−12x+1.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "d(x■)/dx equals: A. x³ B. 4x³ C. 4x■ D. x■ Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The derivative of cos x is: A. sin x B. −sin x C. cos x D. −cos x Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 8"
+      },
+      "source_text": "1ST PAPER — Chapter 9: Differentiation\nChapter overview\nDifferentiation measures instantaneous rate of change and gives the gradient of a curve. It is central to tangent, velocity and\noptimisation problems.\n\nKey concepts and important formulas\n• Derivative definition: f′(x)=lim■→■[f(x+h)−f(x)]/h.\n\n• Power rule: d(x■)/dx = nx■■¹.\n\n• d(sin x)/dx=cos x; d(cos x)/dx=−sin x.\n\n• Product rule: (uv)′=u′v+uv′; quotient rule: (u/v)′=(u′v−uv′)/v².\n\n• Chain rule: d[f(g(x))]/dx=f′(g(x))g′(x).\n\nShort-answer practice — answers\nWhat does the derivative represent geometrically?\n\n   Answer: The gradient of the tangent to the curve at a point.\nDifferentiate x■.\n\n   Answer: The derivative is 5x■.\n\nLong-answer practice — worked solution\nDifferentiate y = (3x²+1)(x−2).\n\n   Solution: Using the product rule: dy/dx = 6x(x−2)+(3x²+1)(1) = 9x²−12x+1.\n\nMultiple-choice questions\n1. d(x■)/dx equals:\n\nA. x³   B. 4x³    C. 4x■   D. x■\n\nAnswer: B\n\n2. The derivative of cos x is:\nA. sin x   B. −sin x    C. cos x   D. −cos x\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Integration",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Integration is the reverse process of differentiation and is used to find antiderivatives and accumulated quantities such as area.",
+        "key_terms": [],
+        "study_notes": [
+          "∫x■dx = x■■¹/(n+1)+C for n≠−1.",
+          "∫1/x dx = ln|x|+C.",
+          "∫cos x dx = sin x+C; ∫sin x dx = −cos x+C.",
+          "Definite integral: ∫■■f(x)dx = F(b)−F(a).",
+          "Area between a curve and x-axis requires attention to sign and intervals."
+        ],
+        "short_questions": "Why is an arbitrary constant added to an indefinite integral?\n\n   Answer: Because all antiderivatives of a function differ by an additive constant.\nEvaluate ∫2x dx.\n\n   Answer: x²+C.",
+        "long_questions": "Evaluate ∫■²(3x²+1)dx.\n\n   Solution: An antiderivative is x³+x. Evaluate: (8+2)−(0+0)=10.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "∫x²dx equals: A. 2x+C B. x³/3+C C. x²/2+C D. 3x+C Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The derivative of an antiderivative F(x) is: A. 0 B. f(x) C. F(x)² D. C Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 9 HIGHER MATHEMATICS 2ND PAPER"
+      },
+      "source_text": "1ST PAPER — Chapter 10: Integration\nChapter overview\nIntegration is the reverse process of differentiation and is used to find antiderivatives and accumulated quantities such as area.\n\nKey concepts and important formulas\n• ∫x■dx = x■■¹/(n+1)+C for n≠−1.\n\n• ∫1/x dx = ln|x|+C.\n\n• ∫cos x dx = sin x+C; ∫sin x dx = −cos x+C.\n\n• Definite integral: ∫■■f(x)dx = F(b)−F(a).\n\n• Area between a curve and x-axis requires attention to sign and intervals.\n\nShort-answer practice — answers\nWhy is an arbitrary constant added to an indefinite integral?\n\n   Answer: Because all antiderivatives of a function differ by an additive constant.\nEvaluate ∫2x dx.\n\n   Answer: x²+C.\n\nLong-answer practice — worked solution\nEvaluate ∫■²(3x²+1)dx.\n\n   Solution: An antiderivative is x³+x. Evaluate: (8+2)−(0+0)=10.\n\nMultiple-choice questions\n1. ∫x²dx equals:\n\nA. 2x+C    B. x³/3+C    C. x²/2+C   D. 3x+C\n\nAnswer: B\n\n2. The derivative of an antiderivative F(x) is:\n\nA. 0   B. f(x)   C. F(x)²   D. C\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant.\n\nHIGHER MATHEMATICS 2ND PAPER"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Real Numbers and Inequalities",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Real numbers include rational and irrational numbers. Inequalities compare quantities and are solved using order properties of the\nreal number system.",
+        "key_terms": [],
+        "study_notes": [
+          "For a<b, adding the same number preserves the inequality.",
+          "Multiplying or dividing by a negative number reverses the inequality sign.",
+          "Absolute value |x| is distance from zero.",
+          "A compound inequality may be represented on a number line.",
+          "The solution set should be checked against any restrictions."
+        ],
+        "short_questions": "What is an irrational number?\n\n   Answer: A real number that cannot be expressed as a ratio of two integers.\nWhat happens to an inequality when multiplied by a negative number?\n\n   Answer: The inequality sign reverses.",
+        "long_questions": "Solve 3x−5 < 10.\n\n   Solution: Add 5: 3x<15. Divide by positive 3: x<5.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Which is irrational? A. 3/4 B. 0.25 C. √2 D. −5 Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "If −2x > 6, then: A. x>−3 B. x<−3 C. x>3 D. x<3 Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "2ND PAPER — Chapter 1: Real Numbers and Inequalities\nChapter overview\nReal numbers include rational and irrational numbers. Inequalities compare quantities and are solved using order properties of the\nreal number system.\n\nKey concepts and important formulas\n• For a<b, adding the same number preserves the inequality.\n\n• Multiplying or dividing by a negative number reverses the inequality sign.\n\n• Absolute value |x| is distance from zero.\n\n• A compound inequality may be represented on a number line.\n\n• The solution set should be checked against any restrictions.\n\nShort-answer practice — answers\nWhat is an irrational number?\n\n   Answer: A real number that cannot be expressed as a ratio of two integers.\nWhat happens to an inequality when multiplied by a negative number?\n\n   Answer: The inequality sign reverses.\n\nLong-answer practice — worked solution\nSolve 3x−5 < 10.\n\n   Solution: Add 5: 3x<15. Divide by positive 3: x<5.\n\nMultiple-choice questions\n1. Which is irrational?\n\nA. 3/4    B. 0.25    C. √2   D. −5\n\nAnswer: C\n\n2. If −2x > 6, then:\n\nA. x>−3    B. x<−3     C. x>3   D. x<3\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Linear Programming",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Linear programming optimises a linear objective function subject to linear constraints. The feasible region is formed by the\nconstraints.",
+        "key_terms": [],
+        "study_notes": [
+          "Write the objective function in terms of decision variables.",
+          "Convert resource limits into linear inequalities.",
+          "Graph each boundary line and identify the feasible region.",
+          "For a bounded feasible polygon, an optimum occurs at a corner point.",
+          "Check the objective function at every feasible vertex."
+        ],
+        "short_questions": "Bangladesh HSC Higher Mathematics | First & Second Paper                                                                                      Page 10\n\nWhat is a feasible region?\n\n   Answer: The set of points satisfying all constraints simultaneously.\nWhere is the optimum of a linear objective function found for a bounded polygonal feasible region?\n\n   Answer: At at least one vertex (corner point) of the feasible region.",
+        "long_questions": "Maximise P=3x+2y subject to x≥0, y≥0, x+y≤4, x≤2.\n\n   Solution: The feasible vertices are (0,0), (2,0), (2,2), (0,4). P values are 0, 6, 10, 8 respectively. Maximum P=10 at (2,2).",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The objective function in a linear programming problem is: A. Always quadratic B. A linear expression C. A trigonometric function D. A matrix only Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The feasible region is bounded by: A. Constraint inequalities B. Only the objective value C. The y-axis only D. Random points Answer: A"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "2ND PAPER — Chapter 2: Linear Programming\nChapter overview\nLinear programming optimises a linear objective function subject to linear constraints. The feasible region is formed by the\nconstraints.\n\nKey concepts and important formulas\n• Write the objective function in terms of decision variables.\n\n• Convert resource limits into linear inequalities.\n\n• Graph each boundary line and identify the feasible region.\n\n• For a bounded feasible polygon, an optimum occurs at a corner point.\n\n• Check the objective function at every feasible vertex.\n\nShort-answer practice — answers\n\nWhat is a feasible region?\n\n   Answer: The set of points satisfying all constraints simultaneously.\nWhere is the optimum of a linear objective function found for a bounded polygonal feasible region?\n\n   Answer: At at least one vertex (corner point) of the feasible region.\n\nLong-answer practice — worked solution\nMaximise P=3x+2y subject to x≥0, y≥0, x+y≤4, x≤2.\n\n   Solution: The feasible vertices are (0,0), (2,0), (2,2), (0,4). P values are 0, 6, 10, 8 respectively. Maximum P=10 at (2,2).\n\nMultiple-choice questions\n1. The objective function in a linear programming problem is:\n\nA. Always quadratic       B. A linear expression   C. A trigonometric function    D. A matrix only\n\nAnswer: B\n\n2. The feasible region is bounded by:\n\nA. Constraint inequalities     B. Only the objective value   C. The y-axis only    D. Random points\n\nAnswer: A\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Complex Numbers",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "A complex number has real and imaginary parts and is written z=a+bi, where i²=−1.",
+        "key_terms": [],
+        "study_notes": [
+          "Real part Re(z)=a; imaginary part Im(z)=b.",
+          "Conjugate of a+bi is a−bi.",
+          "|z|=√(a²+b²).",
+          "(a+bi)(a−bi)=a²+b².",
+          "Polar form: z=r(cosθ+i sinθ), where r=|z|."
+        ],
+        "short_questions": "What is i²?\n\n   Answer: −1.\nWhat is the conjugate of 3−2i?\n\n   Answer: 3+2i.",
+        "long_questions": "Divide (3+2i) by (1−i).\n\n   Solution: Multiply numerator and denominator by (1+i): [(3+2i)(1+i)]/2 = (1+5i)/2 = 1/2 + (5/2)i.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The modulus of 3+4i is: A. 3 B. 4 C. 5 D. 7 Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "The conjugate of a+bi is: A. −a+bi B. a−bi C. −a−bi D. b+ai Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 11"
+      },
+      "source_text": "2ND PAPER — Chapter 3: Complex Numbers\nChapter overview\nA complex number has real and imaginary parts and is written z=a+bi, where i²=−1.\n\nKey concepts and important formulas\n• Real part Re(z)=a; imaginary part Im(z)=b.\n\n• Conjugate of a+bi is a−bi.\n\n• |z|=√(a²+b²).\n\n• (a+bi)(a−bi)=a²+b².\n\n• Polar form: z=r(cosθ+i sinθ), where r=|z|.\n\nShort-answer practice — answers\nWhat is i²?\n\n   Answer: −1.\nWhat is the conjugate of 3−2i?\n\n   Answer: 3+2i.\n\nLong-answer practice — worked solution\nDivide (3+2i) by (1−i).\n\n   Solution: Multiply numerator and denominator by (1+i): [(3+2i)(1+i)]/2 = (1+5i)/2 = 1/2 + (5/2)i.\n\nMultiple-choice questions\n1. The modulus of 3+4i is:\n\nA. 3   B. 4     C. 5    D. 7\n\nAnswer: C\n\n2. The conjugate of a+bi is:\n\nA. −a+bi      B. a−bi   C. −a−bi   D. b+ai\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Polynomials and Polynomial",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "A polynomial is an algebraic expression with non-negative integer powers of the variable. Polynomial equations can be studied\nthrough roots, factors and coefficients.",
+        "key_terms": [],
+        "study_notes": [
+          "The degree is the highest power with a non-zero coefficient.",
+          "Remainder theorem: remainder on division by (x−a) is f(a).",
+          "Factor theorem: (x−a) is a factor if f(a)=0.",
+          "For ax²+bx+c=0, sum of roots = −b/a and product = c/a.",
+          "The discriminant b²−4ac determines the nature of quadratic roots."
+        ],
+        "short_questions": "State the factor theorem.\n\n   Answer: (x−a) is a factor of f(x) if and only if f(a)=0.\nWhat is the discriminant of ax²+bx+c?\n\n   Answer: b²−4ac.",
+        "long_questions": "Solve x²−5x+6=0.\n\n   Solution: Factor: (x−2)(x−3)=0. Therefore x=2 or x=3.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The sum of roots of ax²+bx+c=0 is: A. b/a B. −b/a C. c/a D. −c/a Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "If f(2)=0, then a factor is: A. x+2 B. x−2 C. 2x−1 D. x²+2 Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "2ND PAPER — Chapter 4: Polynomials and Polynomial\nEquations\nChapter overview\nA polynomial is an algebraic expression with non-negative integer powers of the variable. Polynomial equations can be studied\nthrough roots, factors and coefficients.\n\nKey concepts and important formulas\n• The degree is the highest power with a non-zero coefficient.\n\n• Remainder theorem: remainder on division by (x−a) is f(a).\n\n• Factor theorem: (x−a) is a factor if f(a)=0.\n\n• For ax²+bx+c=0, sum of roots = −b/a and product = c/a.\n\n• The discriminant b²−4ac determines the nature of quadratic roots.\n\nShort-answer practice — answers\nState the factor theorem.\n\n   Answer: (x−a) is a factor of f(x) if and only if f(a)=0.\nWhat is the discriminant of ax²+bx+c?\n\n   Answer: b²−4ac.\n\nLong-answer practice — worked solution\nSolve x²−5x+6=0.\n\n   Solution: Factor: (x−2)(x−3)=0. Therefore x=2 or x=3.\n\nMultiple-choice questions\n1. The sum of roots of ax²+bx+c=0 is:\n\nA. b/a   B. −b/a   C. c/a    D. −c/a\n\nAnswer: B\n\n2. If f(2)=0, then a factor is:\n\nA. x+2   B. x−2    C. 2x−1    D. x²+2\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Binomial Expansion",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "The binomial theorem expands powers of a sum. It gives coefficients and general terms for positive integer powers.",
+        "key_terms": [],
+        "study_notes": [
+          "(a+b)■ = Σ ■C■ a■■■b■ for r=0 to n.",
+          "General term T■■■ = ■C■ a■■■b■.",
+          "There are n+1 terms in the expansion for a non-negative integer n.",
+          "Coefficients are symmetric: ■C■=■C■■■.",
+          "The middle term depends on whether n is even or odd."
+        ],
+        "short_questions": "State the binomial theorem for a positive integer n.\n\nBangladesh HSC Higher Mathematics | First & Second Paper                                                                                      Page 12\n\n   Answer: (a+b)■ = Σ from r=0 to n of ■C■a■■■b■.\nHow many terms are in (a+b)■?\n\n   Answer: Eight terms.",
+        "long_questions": "Find the coefficient of x² in (2+x)■.\n\n   Solution: General term is ■■C■ 2■■■x■. For x², r=2: coefficient = ■C■×2² = 6×4 = 24.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The number of terms in (a+b)■ is: A. 5 B. 6 C. 7 D. 10 Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "■C■ equals: A. 12 B. 15 C. 20 D. 30 Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "2ND PAPER — Chapter 5: Binomial Expansion\nChapter overview\nThe binomial theorem expands powers of a sum. It gives coefficients and general terms for positive integer powers.\n\nKey concepts and important formulas\n• (a+b)■ = Σ ■C■ a■■■b■ for r=0 to n.\n\n• General term T■■■ = ■C■ a■■■b■.\n\n• There are n+1 terms in the expansion for a non-negative integer n.\n\n• Coefficients are symmetric: ■C■=■C■■■.\n\n• The middle term depends on whether n is even or odd.\n\nShort-answer practice — answers\nState the binomial theorem for a positive integer n.\n\n   Answer: (a+b)■ = Σ from r=0 to n of ■C■a■■■b■.\nHow many terms are in (a+b)■?\n\n   Answer: Eight terms.\n\nLong-answer practice — worked solution\nFind the coefficient of x² in (2+x)■.\n\n   Solution: General term is ■■C■ 2■■■x■. For x², r=2: coefficient = ■C■×2² = 6×4 = 24.\n\nMultiple-choice questions\n1. The number of terms in (a+b)■ is:\n\nA. 5    B. 6    C. 7    D. 10\n\nAnswer: B\n\n2. ■C■ equals:\n\nA. 12      B. 15   C. 20   D. 30\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Conics",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Conic sections are curves formed by intersecting a plane with a double cone. The main conics are the circle, parabola, ellipse and\nhyperbola.",
+        "key_terms": [],
+        "study_notes": [
+          "A parabola is the locus of points equidistant from a focus and directrix.",
+          "For y²=4ax, focus=(a,0), directrix x=−a.",
+          "For x²/a²+y²/b²=1, the ellipse has semi-axes a and b.",
+          "For x²/a²−y²/b²=1, the hyperbola opens along the x-axis.",
+          "Eccentricity distinguishes conics: ellipse e<1, parabola e=1, hyperbola e>1."
+        ],
+        "short_questions": "Define a parabola.\n\n   Answer: The locus of a point whose distance from a fixed focus equals its perpendicular distance from a fixed directrix.\nWhat is the eccentricity of a parabola?\n\n   Answer: 1.",
+        "long_questions": "Find the focus and directrix of y²=12x.\n\n   Solution: Compare y²=4ax: 4a=12, so a=3. Focus=(3,0); directrix is x=−3.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The eccentricity of an ellipse is: A. Equal to 1 B. Less than 1 C. Greater than 1 D. Always 2 Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "For y²=4ax, the focus is: A. (0,a) B. (a,0) C. (−a,0) D. (0,−a) Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 13"
+      },
+      "source_text": "2ND PAPER — Chapter 6: Conics\nChapter overview\nConic sections are curves formed by intersecting a plane with a double cone. The main conics are the circle, parabola, ellipse and\nhyperbola.\n\nKey concepts and important formulas\n• A parabola is the locus of points equidistant from a focus and directrix.\n\n• For y²=4ax, focus=(a,0), directrix x=−a.\n\n• For x²/a²+y²/b²=1, the ellipse has semi-axes a and b.\n\n• For x²/a²−y²/b²=1, the hyperbola opens along the x-axis.\n\n• Eccentricity distinguishes conics: ellipse e<1, parabola e=1, hyperbola e>1.\n\nShort-answer practice — answers\nDefine a parabola.\n\n   Answer: The locus of a point whose distance from a fixed focus equals its perpendicular distance from a fixed directrix.\nWhat is the eccentricity of a parabola?\n\n   Answer: 1.\n\nLong-answer practice — worked solution\nFind the focus and directrix of y²=12x.\n\n   Solution: Compare y²=4ax: 4a=12, so a=3. Focus=(3,0); directrix is x=−3.\n\nMultiple-choice questions\n1. The eccentricity of an ellipse is:\n\nA. Equal to 1      B. Less than 1    C. Greater than 1   D. Always 2\n\nAnswer: B\n\n2. For y²=4ax, the focus is:\n\nA. (0,a)     B. (a,0)   C. (−a,0)   D. (0,−a)\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Inverse Trigonometric Functions and Trigonometric Equations",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Inverse trigonometric functions return principal angles from trigonometric ratios. Trigonometric equations often have periodic\nfamilies of solutions.",
+        "key_terms": [],
+        "study_notes": [
+          "Principal range of sin■¹x is [−π/2,π/2].",
+          "Principal range of cos■¹x is [0,π].",
+          "Principal range of tan■¹x is (−π/2,π/2).",
+          "sin x=sin α gives x=nπ+(−1)■α, n∈Z.",
+          "Always respect the specified interval and principal values."
+        ],
+        "short_questions": "What is the principal range of sin■¹x?\n\n   Answer: [−π/2, π/2].\nWhat is the principal range of cos■¹x?\n\n   Answer: [0, π].",
+        "long_questions": "Solve sin x = 1/2 for 0≤x<2π.\n\n   Solution: The reference angle is π/6. Sine is positive in quadrants I and II, so x=π/6 or x=5π/6.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The principal range of tan■¹x is: A. [0,π] B. (−π/2,π/2) C. [−π,π] D. [0,2π] Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "cos■¹(1) equals: A. 0 B. π/2 C. π D. 2π Answer: A"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "2ND PAPER — Chapter 7: Inverse Trigonometric Functions and\nTrigonometric Equations\nChapter overview\nInverse trigonometric functions return principal angles from trigonometric ratios. Trigonometric equations often have periodic\nfamilies of solutions.\n\nKey concepts and important formulas\n• Principal range of sin■¹x is [−π/2,π/2].\n\n• Principal range of cos■¹x is [0,π].\n\n• Principal range of tan■¹x is (−π/2,π/2).\n\n• sin x=sin α gives x=nπ+(−1)■α, n∈Z.\n\n• Always respect the specified interval and principal values.\n\nShort-answer practice — answers\nWhat is the principal range of sin■¹x?\n\n   Answer: [−π/2, π/2].\nWhat is the principal range of cos■¹x?\n\n   Answer: [0, π].\n\nLong-answer practice — worked solution\nSolve sin x = 1/2 for 0≤x<2π.\n\n   Solution: The reference angle is π/6. Sine is positive in quadrants I and II, so x=π/6 or x=5π/6.\n\nMultiple-choice questions\n1. The principal range of tan■¹x is:\n\nA. [0,π]   B. (−π/2,π/2)   C. [−π,π]   D. [0,2π]\n\nAnswer: B\n\n2. cos■¹(1) equals:\n\nA. 0   B. π/2   C. π   D. 2π\n\nAnswer: A\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Statics",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Statics studies forces on bodies in equilibrium. A body is in equilibrium when the resultant force and resultant moment are zero.",
+        "key_terms": [],
+        "study_notes": [
+          "For coplanar equilibrium, ΣF■=0 and ΣF■=0.",
+          "Moment = force × perpendicular distance from pivot.",
+          "Varignon's theorem: moment of a resultant equals the sum of moments of its components.",
+          "For three concurrent forces in equilibrium, Lami's theorem relates each force to the sine of the angle between the other two.",
+          "Friction opposes impending or actual relative motion."
+        ],
+        "short_questions": "What is the moment of a force?\n\nBangladesh HSC Higher Mathematics | First & Second Paper                                                                                      Page 14\n\n   Answer: The turning effect of a force about a point or axis, equal to force times perpendicular distance.\nState the conditions for planar equilibrium.\n\n   Answer: The sums of horizontal forces, vertical forces and moments must each be zero.",
+        "long_questions": "Two perpendicular forces of 6 N and 8 N act at a point. Find their resultant magnitude.\n\n   Solution: R=√(6²+8²)=√100=10 N. Its direction from the 6 N force is tan■¹(8/6)≈53.13°.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "For a body in rotational equilibrium, the net moment is: A. Maximum B. Zero C. Equal to mass D. Always positive Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The SI unit of moment of force is: A. N B. N m C. J/s D. Pa Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+      },
+      "source_text": "2ND PAPER — Chapter 8: Statics\nChapter overview\nStatics studies forces on bodies in equilibrium. A body is in equilibrium when the resultant force and resultant moment are zero.\n\nKey concepts and important formulas\n• For coplanar equilibrium, ΣF■=0 and ΣF■=0.\n\n• Moment = force × perpendicular distance from pivot.\n\n• Varignon's theorem: moment of a resultant equals the sum of moments of its components.\n\n• For three concurrent forces in equilibrium, Lami's theorem relates each force to the sine of the angle between the other two.\n\n• Friction opposes impending or actual relative motion.\n\nShort-answer practice — answers\nWhat is the moment of a force?\n\n   Answer: The turning effect of a force about a point or axis, equal to force times perpendicular distance.\nState the conditions for planar equilibrium.\n\n   Answer: The sums of horizontal forces, vertical forces and moments must each be zero.\n\nLong-answer practice — worked solution\nTwo perpendicular forces of 6 N and 8 N act at a point. Find their resultant magnitude.\n\n   Solution: R=√(6²+8²)=√100=10 N. Its direction from the 6 N force is tan■¹(8/6)≈53.13°.\n\nMultiple-choice questions\n1. For a body in rotational equilibrium, the net moment is:\n\nA. Maximum      B. Zero   C. Equal to mass   D. Always positive\n\nAnswer: B\n\n2. The SI unit of moment of force is:\n\nA. N   B. N m    C. J/s   D. Pa\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Motion of a Particle in a Plane",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "This chapter applies vectors and kinematics to particle motion in two dimensions, including projectile motion and motion under\ngravity.",
+        "key_terms": [],
+        "study_notes": [
+          "Velocity is the time rate of change of position; acceleration is the rate of change of velocity.",
+          "For constant acceleration, v=u+at and s=ut+½at² in one dimension.",
+          "Projectile horizontal velocity is constant when air resistance is neglected.",
+          "For launch and landing at the same level: T=2u sinθ/g; H=u²sin²θ/(2g); R=u²sin2θ/g.",
+          "At the highest point of projectile motion, vertical velocity is zero."
+        ],
+        "short_questions": "What is projectile motion?\n\n   Answer: Two-dimensional motion of an object projected into the air and then moving under gravity, neglecting air resistance.\nWhat is the vertical velocity at the highest point?\n\n   Answer: Zero.",
+        "long_questions": "A projectile is launched at 20 m/s at 30° above the horizontal. Find its time of flight, taking g=10 m/s².\n\n   Solution: T=2u sinθ/g = 2×20×0.5/10 = 2 s.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "At the highest point of projectile motion, vertical velocity is: A. u sinθ B. Zero C. g D. u cosθ Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "The horizontal acceleration of an ideal projectile is: A. g B. −g C. Zero D. Variable Answer: C"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 15"
+      },
+      "source_text": "2ND PAPER — Chapter 9: Motion of a Particle in a Plane\nChapter overview\nThis chapter applies vectors and kinematics to particle motion in two dimensions, including projectile motion and motion under\ngravity.\n\nKey concepts and important formulas\n• Velocity is the time rate of change of position; acceleration is the rate of change of velocity.\n\n• For constant acceleration, v=u+at and s=ut+½at² in one dimension.\n\n• Projectile horizontal velocity is constant when air resistance is neglected.\n\n• For launch and landing at the same level: T=2u sinθ/g; H=u²sin²θ/(2g); R=u²sin2θ/g.\n\n• At the highest point of projectile motion, vertical velocity is zero.\n\nShort-answer practice — answers\nWhat is projectile motion?\n\n   Answer: Two-dimensional motion of an object projected into the air and then moving under gravity, neglecting air resistance.\nWhat is the vertical velocity at the highest point?\n\n   Answer: Zero.\n\nLong-answer practice — worked solution\nA projectile is launched at 20 m/s at 30° above the horizontal. Find its time of flight, taking g=10 m/s².\n\n   Solution: T=2u sinθ/g = 2×20×0.5/10 = 2 s.\n\nMultiple-choice questions\n1. At the highest point of projectile motion, vertical velocity is:\n\nA. u sinθ   B. Zero   C. g   D. u cosθ\n\nAnswer: B\n\n2. The horizontal acceleration of an ideal projectile is:\n\nA. g   B. −g    C. Zero   D. Variable\n\nAnswer: C\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Measures of Dispersion and Probability",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Statistics summarises data, while measures of dispersion describe its spread. Probability quantifies uncertainty for random\nevents.",
+        "key_terms": [],
+        "study_notes": [
+          "Range = maximum − minimum.",
+          "Variance is the mean squared deviation from the arithmetic mean (with convention depending on population/sample).",
+          "Standard deviation is the positive square root of variance.",
+          "For equally likely outcomes, P(A)=favourable outcomes/total outcomes.",
+          "P(A∪B)=P(A)+P(B)−P(A∩B); for independent events P(A∩B)=P(A)P(B)."
+        ],
+        "short_questions": "What is range?\n\n   Answer: The difference between the largest and smallest observations.\nWhat is the probability of an impossible event?\n\n   Answer: Zero.",
+        "long_questions": "A fair die is rolled once. Find the probability of obtaining an even number.\n\n   Solution: Even outcomes are {2,4,6}, three of six equally likely outcomes. Probability=3/6=1/2.",
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "The range of 2, 4, 9, 10 is: A. 6 B. 7 C. 8 D. 12 Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "For independent events A and B: A. P(A∩B)=P(A)+P(B) B. P(A∩B)=P(A)P(B) C. P(A)=P(B) D. P(A∪B)=0 Answer: B"
+          }
+        ],
+        "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 16 Final Revision Checklist • Can I state and apply the key formulae in every chapter? • Can I solve standard problems without looking at worked examples? • Have I checked algebraic steps, signs, brackets and arithmetic? • Have I checked domains, excluded values and interval restrictions? • Can I explain why a theorem or method applies? • Have I practised both MCQs and longer creative/problem-solving questions? • Have I checked the latest examination syllabus and practical requirements? Syllabus note Chapter titles and paper structure were checked against publicly available Bangladesh HSC Higher Mathematics syllabus outlines, including a 2027 school syllabus document and current chapter lists. Exact topic coverage, exercise selection, practical requirements and examination-year changes should be confirmed from the NCTB-prescribed textbooks and official notices from the relevant college and education board. Bangladesh HSC Higher Mathematics | First & Second Paper Page 17"
+      },
+      "source_text": "2ND PAPER — Chapter 10: Measures of Dispersion and\nProbability\nChapter overview\nStatistics summarises data, while measures of dispersion describe its spread. Probability quantifies uncertainty for random\nevents.\n\nKey concepts and important formulas\n• Range = maximum − minimum.\n\n• Variance is the mean squared deviation from the arithmetic mean (with convention depending on population/sample).\n\n• Standard deviation is the positive square root of variance.\n\n• For equally likely outcomes, P(A)=favourable outcomes/total outcomes.\n\n• P(A∪B)=P(A)+P(B)−P(A∩B); for independent events P(A∩B)=P(A)P(B).\n\nShort-answer practice — answers\nWhat is range?\n\n   Answer: The difference between the largest and smallest observations.\nWhat is the probability of an impossible event?\n\n   Answer: Zero.\n\nLong-answer practice — worked solution\nA fair die is rolled once. Find the probability of obtaining an even number.\n\n   Solution: Even outcomes are {2,4,6}, three of six equally likely outcomes. Probability=3/6=1/2.\n\nMultiple-choice questions\n1. The range of 2, 4, 9, 10 is:\n\nA. 6   B. 7   C. 8   D. 12\n\nAnswer: C\n\n2. For independent events A and B:\n\nA. P(A∩B)=P(A)+P(B)      B. P(A∩B)=P(A)P(B)     C. P(A)=P(B)    D. P(A∪B)=0\n\nAnswer: B\n\nExam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant.\n\nFinal Revision Checklist\n• Can I state and apply the key formulae in every chapter?\n\n• Can I solve standard problems without looking at worked examples?\n\n• Have I checked algebraic steps, signs, brackets and arithmetic?\n\n• Have I checked domains, excluded values and interval restrictions?\n\n• Can I explain why a theorem or method applies?\n\n• Have I practised both MCQs and longer creative/problem-solving questions?\n\n• Have I checked the latest examination syllabus and practical requirements?\n\nSyllabus note\nChapter titles and paper structure were checked against publicly available Bangladesh HSC Higher Mathematics syllabus\noutlines, including a 2027 school syllabus document and current chapter lists. Exact topic coverage, exercise selection, practical\nrequirements and examination-year changes should be confirmed from the NCTB-prescribed textbooks and official notices from\nthe relevant college and education board."
+    }
+  ],
+  "notes": "Content is extracted from the supplied PDF study guide. Source text is retained in each chapter for fidelity; mathematical symbols may reflect PDF text extraction."
+}

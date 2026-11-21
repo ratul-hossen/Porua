@@ -1,8 +1,13 @@
 package com.porua.app
 
+import android.content.BroadcastReceiver
+import android.content.Context
+import android.content.Intent
+import android.content.IntentFilter
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
 import androidx.activity.viewModels
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Surface
@@ -17,11 +22,19 @@ import com.porua.app.ui.viewmodel.PoruaViewModelFactory
 class MainActivity : ComponentActivity() {
 
     private val poruaViewModel: PoruaViewModel by viewModels {
-        PoruaViewModelFactory((application as PoruaApplication).repository)
+        val app = application as PoruaApplication
+        PoruaViewModelFactory(app.repository, app.authDataStore)
+    }
+
+    private val dateChangeReceiver = object : BroadcastReceiver() {
+        override fun onReceive(context: Context?, intent: Intent?) {
+            poruaViewModel.refreshCountdown()
+        }
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        enableEdgeToEdge()
         setContent {
             PoruaTheme {
                 val colors = LocalPoruaColors.current
@@ -37,5 +50,27 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+    }
+
+    override fun onResume() {
+        super.onResume()
+        poruaViewModel.refreshCountdown()
+    }
+
+    override fun onStart() {
+        super.onStart()
+        val filter = IntentFilter().apply {
+            addAction(Intent.ACTION_DATE_CHANGED)
+            addAction(Intent.ACTION_TIME_CHANGED)
+            addAction(Intent.ACTION_TIMEZONE_CHANGED)
+        }
+        registerReceiver(dateChangeReceiver, filter)
+    }
+
+    override fun onStop() {
+        super.onStop()
+        try {
+            unregisterReceiver(dateChangeReceiver)
+        } catch (_: Exception) {}
     }
 }

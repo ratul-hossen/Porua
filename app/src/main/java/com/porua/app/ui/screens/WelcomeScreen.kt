@@ -17,10 +17,12 @@ import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AutoAwesome
 import androidx.compose.material.icons.filled.CalendarToday
+import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.TrackChanges
 import androidx.compose.material.icons.filled.WifiOff
 import androidx.compose.material3.Icon
@@ -31,21 +33,22 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.porua.app.R
 import com.porua.app.ui.components.MasteryRing
 import com.porua.app.ui.components.PoruaPrimaryButton
 import com.porua.app.ui.components.PoruaSecondaryButton
 import com.porua.app.ui.theme.LocalPoruaColors
 import com.porua.app.ui.theme.ShapeLg
-import com.porua.app.ui.theme.ShapeMd
 import com.porua.app.ui.theme.ShapeSm
 
 @Composable
 fun WelcomeScreen(
-    onGetStarted: () -> Unit,
-    onRestoreBackup: () -> Unit
+    onSignUpClick: () -> Unit,
+    onLoginClick: () -> Unit
 ) {
     val colors = LocalPoruaColors.current
     val scrollState = rememberScrollState()
@@ -75,7 +78,7 @@ fun WelcomeScreen(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
-                // Top Tag: "Today • 45 min plan"
+                // Top Tag: "AI Study Engine"
                 Row(
                     modifier = Modifier
                         .clip(ShapeSm)
@@ -84,14 +87,14 @@ fun WelcomeScreen(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Icon(
-                        imageVector = Icons.Default.CalendarToday,
+                        imageVector = Icons.Default.AutoAwesome,
                         contentDescription = null,
                         tint = colors.primary,
                         modifier = Modifier.size(12.dp)
                     )
                     Spacer(modifier = Modifier.width(6.dp))
                     Text(
-                        text = "Today • 45 min plan",
+                        text = stringResource(R.string.welcome_engine_tag),
                         fontSize = 11.sp,
                         fontWeight = FontWeight.SemiBold,
                         color = colors.text
@@ -100,8 +103,8 @@ fun WelcomeScreen(
 
                 Spacer(modifier = Modifier.height(16.dp))
 
-                // Floating Mock Card
-                Box(modifier = Modifier.fillMaxWidth(0.9f)) {
+                // Floating Goal Card
+                Box(modifier = Modifier.fillMaxWidth(0.92f)) {
                     Row(
                         modifier = Modifier
                             .fillMaxWidth()
@@ -112,7 +115,7 @@ fun WelcomeScreen(
                         verticalAlignment = Alignment.CenterVertically
                     ) {
                         MasteryRing(
-                            percentage = 64,
+                            percentage = 100,
                             size = 56.dp,
                             strokeWidth = 6.dp
                         )
@@ -121,32 +124,32 @@ fun WelcomeScreen(
 
                         Column {
                             Text(
-                                text = "Chemistry",
+                                text = stringResource(R.string.welcome_target_title),
                                 fontSize = 16.sp,
                                 fontWeight = FontWeight.Bold,
                                 color = colors.text
                             )
                             Text(
-                                text = "Mastery",
+                                text = stringResource(R.string.welcome_target_desc),
                                 fontSize = 12.sp,
                                 color = colors.textMuted
                             )
                             Spacer(modifier = Modifier.height(6.dp))
-                            // Weak pill
+                            // Goal pill
                             Text(
-                                text = "Weak: Alcohols",
+                                text = stringResource(R.string.welcome_sm2_pill),
                                 fontSize = 11.sp,
                                 fontWeight = FontWeight.SemiBold,
-                                color = colors.danger,
+                                color = colors.primary,
                                 modifier = Modifier
                                     .clip(ShapeSm)
-                                    .background(colors.dangerSoft)
-                                    .padding(horizontal = 6.dp, vertical = 2.dp)
+                                    .background(colors.primarySoft)
+                                    .padding(horizontal = 8.dp, vertical = 2.dp)
                             )
                         }
                     }
 
-                    // Floating red sparkle circle
+                    // Floating sparkle circle
                     Box(
                         modifier = Modifier
                             .size(34.dp)
@@ -177,12 +180,12 @@ fun WelcomeScreen(
                     Icon(
                         imageVector = Icons.Default.WifiOff,
                         contentDescription = null,
-                        tint = colors.warning,
+                        tint = colors.success,
                         modifier = Modifier.size(12.dp)
                     )
                     Spacer(modifier = Modifier.width(6.dp))
                     Text(
-                        text = "Works offline",
+                        text = stringResource(R.string.welcome_offline_tag),
                         fontSize = 11.sp,
                         fontWeight = FontWeight.SemiBold,
                         color = colors.text
@@ -191,14 +194,52 @@ fun WelcomeScreen(
             }
         }
 
-        Spacer(modifier = Modifier.height(28.dp))
+        Spacer(modifier = Modifier.height(24.dp))
 
-        // Title
+        // App Logo & Title
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Box(
+                modifier = Modifier
+                    .size(44.dp)
+                    .clip(RoundedCornerShape(12.dp))
+                    .background(colors.primary),
+                contentAlignment = Alignment.Center
+            ) {
+                Icon(
+                    imageVector = Icons.Default.MenuBook,
+                    contentDescription = null,
+                    tint = Color.White,
+                    modifier = Modifier.size(24.dp)
+                )
+            }
+            Spacer(modifier = Modifier.width(12.dp))
+            Column {
+                Text(
+                    text = stringResource(R.string.welcome_title),
+                    fontSize = 24.sp,
+                    fontWeight = FontWeight.ExtraBold,
+                    color = colors.text
+                )
+                Text(
+                    text = stringResource(R.string.welcome_tagline),
+                    fontSize = 13.sp,
+                    fontWeight = FontWeight.Medium,
+                    color = colors.primary
+                )
+            }
+        }
+
+        Spacer(modifier = Modifier.height(12.dp))
+
+        // Welcome Description
         Text(
-            text = "Study smarter for SSC & HSC",
-            fontSize = 24.sp,
-            fontWeight = FontWeight.ExtraBold,
-            color = colors.text,
+            text = stringResource(R.string.welcome_description),
+            fontSize = 14.sp,
+            color = colors.textMuted,
+            lineHeight = 20.sp,
             modifier = Modifier.fillMaxWidth()
         )
 
@@ -207,46 +248,46 @@ fun WelcomeScreen(
         // 3 Feature Bullets
         FeatureRow(
             icon = Icons.Default.TrackChanges,
-            title = "Find your weak topics",
-            description = "Mastery map from your own answers",
+            title = stringResource(R.string.welcome_feature_1_title),
+            description = stringResource(R.string.welcome_feature_1_desc),
             tint = colors.danger
         )
 
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(14.dp))
 
         FeatureRow(
             icon = Icons.Default.CalendarToday,
-            title = "Get a day-by-day plan",
-            description = "Built around your exam date",
+            title = stringResource(R.string.welcome_feature_2_title),
+            description = stringResource(R.string.welcome_feature_2_desc),
             tint = colors.primary
         )
 
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(14.dp))
 
         FeatureRow(
             icon = Icons.Default.WifiOff,
-            title = "Practise anywhere",
-            description = "Questions & ML work without internet",
+            title = stringResource(R.string.welcome_feature_3_title),
+            description = stringResource(R.string.welcome_feature_3_desc),
             tint = colors.warning
         )
 
         Spacer(modifier = Modifier.weight(1f, fill = false))
-        Spacer(modifier = Modifier.height(32.dp))
+        Spacer(modifier = Modifier.height(28.dp))
 
         // Action Buttons
         PoruaPrimaryButton(
-            text = "Get started",
-            onClick = onGetStarted
+            text = stringResource(R.string.btn_create_account),
+            onClick = onSignUpClick
         )
 
         Spacer(modifier = Modifier.height(12.dp))
 
         PoruaSecondaryButton(
-            text = "Restore from backup",
-            onClick = onRestoreBackup
+            text = stringResource(R.string.btn_login),
+            onClick = onLoginClick
         )
 
-        Spacer(modifier = Modifier.height(20.dp))
+        Spacer(modifier = Modifier.height(24.dp))
     }
 }
 
@@ -283,7 +324,7 @@ private fun FeatureRow(
         Column {
             Text(
                 text = title,
-                fontSize = 15.sp,
+                fontSize = 14.sp,
                 fontWeight = FontWeight.Bold,
                 color = colors.text
             )

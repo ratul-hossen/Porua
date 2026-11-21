@@ -57,7 +57,8 @@ fun PracticeHubScreen(
     onSmartMixClick: () -> Unit,
     onReviewDueClick: () -> Unit,
     onPracticeWithAiClick: () -> Unit,
-    onSearchClick: () -> Unit
+    onSearchClick: () -> Unit,
+    onContentPracticeClick: () -> Unit = {}
 ) {
     val colors = LocalPoruaColors.current
 
@@ -257,6 +258,56 @@ fun PracticeHubScreen(
                             color = colors.textMuted
                         )
                     }
+                }
+
+                Spacer(modifier = Modifier.height(24.dp))
+
+                // ── NCTB Book Practice Card ───────────────────────────────────
+                Row(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .clip(ShapeLg)
+                        .background(colors.surface)
+                        .border(1.dp, colors.border, ShapeLg)
+                        .clickable { onSearchClick() }
+                        .padding(16.dp),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Box(
+                        modifier = Modifier
+                            .size(42.dp)
+                            .clip(androidx.compose.foundation.shape.CircleShape)
+                            .background(colors.primarySoft),
+                        contentAlignment = Alignment.Center
+                    ) {
+                        Icon(
+                            imageVector = Icons.Default.Search,
+                            contentDescription = null,
+                            tint = colors.primary,
+                            modifier = Modifier.size(20.dp)
+                        )
+                    }
+                    Spacer(modifier = Modifier.width(14.dp))
+                    Column(modifier = Modifier.weight(1f)) {
+                        Text(
+                            text = "NCTB Textbook Practice",
+                            fontSize = 15.sp,
+                            fontWeight = FontWeight.Bold,
+                            color = colors.text
+                        )
+                        Text(
+                            text = "Select your stream to practice MCQs and Short Questions",
+                            fontSize = 12.sp,
+                            lineHeight = 16.sp,
+                            color = colors.textMuted
+                        )
+                    }
+                    Icon(
+                        imageVector = Icons.Default.ChevronRight,
+                        contentDescription = null,
+                        tint = colors.textMuted,
+                        modifier = Modifier.size(20.dp)
+                    )
                 }
 
                 Spacer(modifier = Modifier.height(24.dp))

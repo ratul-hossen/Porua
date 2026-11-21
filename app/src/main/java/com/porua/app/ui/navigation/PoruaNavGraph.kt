@@ -1,28 +1,47 @@
 package com.porua.app.ui.navigation
 
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.lifecycle.viewmodel.compose.viewModel as composeViewModel
 import androidx.navigation.NavHostController
+import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
+import androidx.navigation.navArgument
+import com.porua.app.PoruaApplication
 import com.porua.app.ui.components.BottomNavItem
 import com.porua.app.ui.screens.AiInsightsScreen
 import com.porua.app.ui.screens.AskPoruaScreen
 import com.porua.app.ui.screens.ChaptersScreen
+import com.porua.app.ui.screens.ContentChaptersScreen
+import com.porua.app.ui.screens.ContentPracticeScreen
+import com.porua.app.ui.screens.ContentSubjectsScreen
 import com.porua.app.ui.screens.DiagnosticIntroScreen
 import com.porua.app.ui.screens.ExamTrackScreen
+import com.porua.app.ui.screens.GroupSelectionScreen
 import com.porua.app.ui.screens.HomeScreen
+import com.porua.app.ui.screens.LoginScreen
 import com.porua.app.ui.screens.MeScreen
 import com.porua.app.ui.screens.PlanScreen
 import com.porua.app.ui.screens.PracticeHubScreen
 import com.porua.app.ui.screens.ProgressScreen
 import com.porua.app.ui.screens.QuestionScreen
+import com.porua.app.ui.screens.QuizScreen
+import com.porua.app.ui.screens.SignUpScreen
 import com.porua.app.ui.screens.SnapQuestionScreen
 import com.porua.app.ui.screens.SplashScreen
 import com.porua.app.ui.screens.SubjectsDateScreen
 import com.porua.app.ui.screens.WelcomeScreen
+import com.porua.app.ui.viewmodel.ContentViewModel
+import com.porua.app.ui.viewmodel.ContentViewModelFactory
 import com.porua.app.ui.viewmodel.PoruaViewModel
+import com.porua.app.ui.viewmodel.QuizViewModel
+import com.porua.app.ui.viewmodel.QuizViewModelFactory
+import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.launch
 
 @Composable
 fun PoruaNavGraph(
@@ -30,6 +49,12 @@ fun PoruaNavGraph(
     viewModel: PoruaViewModel
 ) {
     val uiState by viewModel.uiState.collectAsState()
+    val context = androidx.compose.ui.platform.LocalContext.current
+    val coroutineScope = rememberCoroutineScope()
+    val contentViewModel: ContentViewModel = composeViewModel(
+        factory = ContentViewModelFactory(context)
+    )
+    val contentState by contentViewModel.state.collectAsState()
 
     val navigateBottom: (BottomNavItem) -> Unit = { item ->
         val target = when (item) {
@@ -52,10 +77,15 @@ fun PoruaNavGraph(
     ) {
         // 01 · Splash
         composable(Screen.Splash.route) {
+            val app = context.applicationContext as PoruaApplication
             SplashScreen(
                 onSplashFinished = {
-                    navController.navigate(Screen.Welcome.route) {
-                        popUpTo(Screen.Splash.route) { inclusive = true }
+                    coroutineScope.launch {
+                        val isLoggedIn = app.authRepository.isLoggedIn.first()
+                        val target = if (isLoggedIn) Screen.Home.route else Screen.Welcome.route
+                        navController.navigate(target) {
+                            popUpTo(Screen.Splash.route) { inclusive = true }
+                        }
                     }
                 }
             )
@@ -64,8 +94,46 @@ fun PoruaNavGraph(
         // 02 · Welcome
         composable(Screen.Welcome.route) {
             WelcomeScreen(
-                onGetStarted = { navController.navigate(Screen.ExamTrack.route) },
-                onRestoreBackup = { navController.navigate(Screen.Home.route) }
+                onSignUpClick = { navController.navigate(Screen.SignUp.route) },
+                onLoginClick = { navController.navigate(Screen.Login.route) }
+            )
+        }
+
+        // SignUp
+        composable(Screen.SignUp.route) {
+            val app = context.applicationContext as PoruaApplication
+            SignUpScreen(
+                authRepository = app.authRepository,
+                onSignUpSuccess = {
+                    navController.navigate(Screen.Home.route) {
+                        popUpTo(Screen.Welcome.route) { inclusive = true }
+                    }
+                },
+                onNavigateToLogin = {
+                    navController.navigate(Screen.Login.route) {
+                        popUpTo(Screen.SignUp.route) { inclusive = true }
+                    }
+                },
+                onBack = { navController.popBackStack() }
+            )
+        }
+
+        // Login
+        composable(Screen.Login.route) {
+            val app = context.applicationContext as PoruaApplication
+            LoginScreen(
+                authRepository = app.authRepository,
+                onLoginSuccess = {
+                    navController.navigate(Screen.Home.route) {
+                        popUpTo(Screen.Welcome.route) { inclusive = true }
+                    }
+                },
+                onNavigateToSignUp = {
+                    navController.navigate(Screen.SignUp.route) {
+                        popUpTo(Screen.Login.route) { inclusive = true }
+                    }
+                },
+                onBack = { navController.popBackStack() }
             )
         }
 
@@ -85,6 +153,8 @@ fun PoruaNavGraph(
             SubjectsDateScreen(
                 onBack = { navController.popBackStack() },
                 onContinue = { subjects, date, time ->
+                    viewModel.updateSelectedSubjects(subjects)
+                    viewModel.updateExamInfo(uiState.userProfile.examTrack, uiState.userProfile.group, date)
                     navController.navigate(Screen.DiagnosticIntro.route)
                 }
             )
@@ -92,10 +162,20 @@ fun PoruaNavGraph(
 
         // 05 · Diagnostic intro (Step 4 of 4)
         composable(Screen.DiagnosticIntro.route) {
+            val context = androidx.compose.ui.platform.LocalContext.current
             DiagnosticIntroScreen(
                 onBack = { navController.popBackStack() },
-                onStartDiagnostic = { navController.navigate(Screen.Question.route) },
+                onStartDiagnostic = {
+                    val prefs = context.getSharedPreferences("porua_prefs", android.content.Context.MODE_PRIVATE)
+                    prefs.edit().putBoolean("is_onboarded", true).apply()
+                    navController.navigate(Screen.Home.route) {
+                        popUpTo(Screen.Welcome.route) { inclusive = true }
+                    }
+                    navController.navigate(Screen.Question.route)
+                },
                 onSkipForNow = {
+                    val prefs = context.getSharedPreferences("porua_prefs", android.content.Context.MODE_PRIVATE)
+                    prefs.edit().putBoolean("is_onboarded", true).apply()
                     navController.navigate(Screen.Home.route) {
                         popUpTo(Screen.Welcome.route) { inclusive = true }
                     }
@@ -112,7 +192,16 @@ fun PoruaNavGraph(
                 onSeeAllTasks = { navController.navigate(Screen.Plan.route) },
                 onSeeAiInsights = { navController.navigate(Screen.AiInsights.route) },
                 onAskPorua = { navController.navigate(Screen.AskPorua.route) },
-                onPracticeTask = { task -> navController.navigate(Screen.Question.route) }
+                onPracticeTask = { task ->
+                    val subId = when {
+                        task.subject.contains("chem", ignoreCase = true) -> "chemistry"
+                        task.subject.contains("bio", ignoreCase = true) -> "biology"
+                        task.subject.contains("math", ignoreCase = true) -> "higher_mathematics"
+                        else -> "physics"
+                    }
+                    navController.navigate(Screen.Quiz.createRoute(subId))
+                },
+                onSetExamYear = { year -> viewModel.setExamYear(year) }
             )
         }
 
@@ -122,10 +211,13 @@ fun PoruaNavGraph(
                 uiState = uiState,
                 onNavigateBottom = navigateBottom,
                 onSubjectClick = { sub -> navController.navigate(Screen.Chapters.route) },
-                onSmartMixClick = { navController.navigate(Screen.Question.route) },
+                onSmartMixClick = {
+                    val defaultSub = uiState.subjects.firstOrNull()?.id ?: "physics"
+                    navController.navigate(Screen.Quiz.createRoute(defaultSub))
+                },
                 onReviewDueClick = { navController.navigate(Screen.Question.route) },
                 onPracticeWithAiClick = { navController.navigate(Screen.AskPorua.route) },
-                onSearchClick = { navController.navigate(Screen.Chapters.route) }
+                onSearchClick = { navController.navigate(Screen.GroupSelection.route) }
             )
         }
 
@@ -135,7 +227,9 @@ fun PoruaNavGraph(
                 subjectTitle = "Chemistry • 2nd paper",
                 chapters = uiState.currentSubjectChapters,
                 onBack = { navController.popBackStack() },
-                onChapterClick = { chapter -> navController.navigate(Screen.Question.route) }
+                onChapterClick = { chapter ->
+                    navController.navigate(Screen.Quiz.createRoute("chemistry", chapter.chapterNumber))
+                }
             )
         }
 
@@ -148,7 +242,13 @@ fun PoruaNavGraph(
                 onCheckAnswer = { viewModel.checkCurrentAnswer() },
                 onSkip = { viewModel.nextQuestion() },
                 onApplySm2Rating = { rating -> viewModel.applySm2Rating(rating) },
-                onExplainWithAi = { navController.navigate(Screen.AskPorua.route) },
+                onExplainWithAi = {
+                    val currentQ = uiState.currentQuestions.getOrNull(uiState.currentQuestionIndex)
+                    if (currentQ != null) {
+                        viewModel.sendChatMessage("Please explain this question step-by-step:\n${currentQ.questionText}\nOptions: A) ${currentQ.optionA}, B) ${currentQ.optionB}, C) ${currentQ.optionC}, D) ${currentQ.optionD}")
+                    }
+                    navController.navigate(Screen.AskPorua.route)
+                },
                 onNextQuestion = { viewModel.nextQuestion() }
             )
         }
@@ -158,10 +258,16 @@ fun PoruaNavGraph(
             AskPoruaScreen(
                 uiState = uiState,
                 onBack = { navController.popBackStack() },
-                onSendMessage = { text -> viewModel.sendChatMessage(text) },
+                onSendMessage = { text, imageBase64, mimeType -> viewModel.sendChatMessage(text, imageBase64, mimeType) },
                 onOpenCameraSnap = { navController.navigate(Screen.SnapQuestion.route) },
-                onSaveReviewCard = { viewModel.addNewTask("Electrochemistry review", "Chemistry", 15, "High", "Revise") },
-                onToggleConsentDialog = { show -> viewModel.setShowCloudConsent(show) }
+                onSaveReviewCard = {
+                    val lastPrompt = uiState.chatMessages.lastOrNull { it.sender == com.porua.app.ui.viewmodel.ChatSender.USER }?.text?.take(30)
+                        ?: "AI Topic Review"
+                    val activeSubject = uiState.subjects.find { it.id == uiState.selectedSubjectId }?.name ?: "General"
+                    viewModel.addNewTask(lastPrompt, activeSubject, 15, "High", "Revise")
+                },
+                onToggleConsentDialog = { show -> viewModel.setShowCloudConsent(show) },
+                onNewChat = { viewModel.startNewChat() }
             )
         }
 
@@ -185,6 +291,9 @@ fun PoruaNavGraph(
                 },
                 onSelectOfflineMatch = { matchQ ->
                     navController.navigate(Screen.Question.route)
+                },
+                onTypeQuestion = {
+                    navController.navigate(Screen.AskPorua.route)
                 }
             )
         }
@@ -214,11 +323,146 @@ fun PoruaNavGraph(
 
         // Me / Profile & Settings
         composable(Screen.Me.route) {
+            val context = androidx.compose.ui.platform.LocalContext.current
             MeScreen(
                 uiState = uiState,
                 onNavigateBottom = navigateBottom,
                 onToggleOfflineMode = { viewModel.toggleOfflineMode() },
-                onToggleCloudAi = { }
+                onToggleCloudAi = { viewModel.toggleCloudAi() },
+                onToggleSubject = { subjectId -> viewModel.toggleSubjectSelected(subjectId) },
+                onResetOnboarding = {
+                    coroutineScope.launch {
+                        val app = context.applicationContext as PoruaApplication
+                        app.authRepository.logout()
+                        val prefs = context.getSharedPreferences("porua_prefs", android.content.Context.MODE_PRIVATE)
+                        prefs.edit().putBoolean("is_onboarded", false).apply()
+                        navController.navigate(Screen.Welcome.route) {
+                            popUpTo(Screen.Home.route) { inclusive = true }
+                        }
+                    }
+                },
+                onLogout = {
+                    coroutineScope.launch {
+                        val app = context.applicationContext as PoruaApplication
+                        app.authRepository.logout()
+                        navController.navigate(Screen.Welcome.route) {
+                            popUpTo(Screen.Home.route) { inclusive = true }
+                        }
+                    }
+                },
+                onUpdateProfile = { name, track, group, year, date, goal, selectedSubjectIds ->
+                    viewModel.updateStudentProfile(name, track, group, year, date, goal, selectedSubjectIds)
+                }
+            )
+        }
+
+        // ── Content (JSON) screens ────────────────────────────────────────────
+
+        // Group Selection
+        composable(Screen.GroupSelection.route) {
+            GroupSelectionScreen(
+                groups = contentState.groups,
+                onGroupSelected = { group ->
+                    contentViewModel.selectGroup(group)
+                    navController.navigate(Screen.ContentSubjects.createRoute(group))
+                }
+            )
+        }
+
+        // Content Subjects list (per group)
+        composable(
+            route = Screen.ContentSubjects.route,
+            arguments = listOf(navArgument("group") { type = NavType.StringType })
+        ) { backStackEntry ->
+            val group = backStackEntry.arguments?.getString("group") ?: ""
+            ContentSubjectsScreen(
+                group = group,
+                subjects = contentState.subjects,
+                onBack = { navController.popBackStack() },
+                onSubjectClick = { subject ->
+                    contentViewModel.loadChapters(subject.id, subject.name)
+                    navController.navigate(
+                        Screen.ContentChapters.createRoute(subject.id, subject.name)
+                    )
+                }
+            )
+        }
+
+        // Content Chapters list (per subject)
+        composable(
+            route = Screen.ContentChapters.route,
+            arguments = listOf(
+                navArgument("subjectId")   { type = NavType.StringType },
+                navArgument("subjectName") { type = NavType.StringType }
+            )
+        ) { backStackEntry ->
+            val subjectName = android.net.Uri.decode(
+                backStackEntry.arguments?.getString("subjectName") ?: ""
+            )
+            val subjectId = backStackEntry.arguments?.getString("subjectId") ?: ""
+            ContentChaptersScreen(
+                subjectName = subjectName,
+                chapters = contentState.chapters,
+                onBack = { navController.popBackStack() },
+                onChapterClick = { chapter, mode ->
+                    if (mode == "mcq") {
+                        navController.navigate(
+                            Screen.Quiz.createRoute(subjectId, chapter.chapterNumber)
+                        )
+                    } else {
+                        val idx = contentState.chapters.indexOf(chapter)
+                        navController.navigate(
+                            Screen.ContentPractice.createRoute(subjectId, idx, mode)
+                        )
+                    }
+                }
+            )
+        }
+
+        // Content Practice (MCQ or Short Q)
+        composable(
+            route = Screen.ContentPractice.route,
+            arguments = listOf(
+                navArgument("subjectId")    { type = NavType.IntType.let { NavType.StringType } },
+                navArgument("chapterIndex") { type = NavType.IntType },
+                navArgument("mode")         { type = NavType.StringType }
+            )
+        ) { backStackEntry ->
+            val idx  = backStackEntry.arguments?.getInt("chapterIndex") ?: 0
+            val mode = backStackEntry.arguments?.getString("mode") ?: "mcq"
+            val chapter = contentState.chapters.getOrNull(idx)
+            if (chapter != null) {
+                ContentPracticeScreen(
+                    chapter = chapter,
+                    mode = mode,
+                    onClose = { navController.popBackStack() }
+                )
+            }
+        }
+
+        // Coursera-Style 20-Question MCQ Quiz
+        composable(
+            route = Screen.Quiz.route,
+            arguments = listOf(
+                navArgument("subjectId") { type = NavType.StringType },
+                navArgument("chapterNumber") {
+                    type = NavType.IntType
+                    defaultValue = -1
+                }
+            )
+        ) { backStackEntry ->
+            val subjectId = backStackEntry.arguments?.getString("subjectId") ?: "physics"
+            val chNum = backStackEntry.arguments?.getInt("chapterNumber")?.takeIf { it != -1 }
+            val app = context.applicationContext as PoruaApplication
+            val quizViewModel: QuizViewModel = composeViewModel(
+                factory = QuizViewModelFactory(context, app.repository)
+            )
+            LaunchedEffect(subjectId, chNum) {
+                quizViewModel.startQuiz(subjectId, chNum)
+            }
+            QuizScreen(
+                viewModel = quizViewModel,
+                onClose = { navController.popBackStack() }
             )
         }
     }

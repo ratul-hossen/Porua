@@ -117,7 +117,7 @@ fun ExamTrackScreen(
         Spacer(modifier = Modifier.height(28.dp))
 
         Text(
-            text = "Which exam are you\npreparing for?",
+            text = "HSC Examination",
             fontSize = 24.sp,
             lineHeight = 32.sp,
             fontWeight = FontWeight.ExtraBold,
@@ -127,7 +127,7 @@ fun ExamTrackScreen(
         Spacer(modifier = Modifier.height(8.dp))
 
         Text(
-            text = "We use this to load the right NCTB syllabus and question bank.",
+            text = "We use this to load the right NCTB HSC syllabus and question bank.",
             fontSize = 13.sp,
             lineHeight = 18.sp,
             color = colors.textMuted
@@ -135,33 +135,13 @@ fun ExamTrackScreen(
 
         Spacer(modifier = Modifier.height(24.dp))
 
-        // Exam Track Cards
-        ExamTrackCard(
-            title = "SSC",
-            subtitle = "Class 9–10 • Board exam",
-            icon = Icons.Default.MenuBook,
-            isSelected = selectedTrack == "SSC",
-            onClick = { selectedTrack = "SSC" }
-        )
-
-        Spacer(modifier = Modifier.height(12.dp))
-
+        // HSC Exam Card
         ExamTrackCard(
             title = "HSC",
             subtitle = "Class 11–12 • Board exam",
             icon = Icons.Default.School,
-            isSelected = selectedTrack == "HSC",
+            isSelected = true,
             onClick = { selectedTrack = "HSC" }
-        )
-
-        Spacer(modifier = Modifier.height(12.dp))
-
-        ExamTrackCard(
-            title = "University admission",
-            subtitle = "After HSC • MCQ-based",
-            icon = Icons.Default.AccountBalance,
-            isSelected = selectedTrack == "University admission",
-            onClick = { selectedTrack = "University admission" }
         )
 
         Spacer(modifier = Modifier.height(28.dp))

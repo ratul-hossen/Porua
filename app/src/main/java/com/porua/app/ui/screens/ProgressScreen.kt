@@ -37,6 +37,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.porua.app.data.local.entity.QuizAttemptEntity
 import com.porua.app.ui.components.BottomNavItem
 import com.porua.app.ui.components.MasteryRing
 import com.porua.app.ui.components.PoruaBottomNav
@@ -182,17 +183,35 @@ fun ProgressScreen(
                 Spacer(modifier = Modifier.height(12.dp))
             }
 
-            // Weak Topics List
-            val weakTopics = listOf(
-                Triple("Electrolysis", "Chemistry • Ch 4", 31),
-                Triple("Alcohols", "Chemistry • Ch 2", 34),
-                Triple("Electrochemistry", "Chemistry • Ch 4", 48),
-                Triple("Integration by parts", "Higher Math • Ch 10", 52)
-            )
-
-            items(weakTopics) { (topic, sub, score) ->
-                WeakTopicRow(topic = topic, subjectDesc = sub, mastery = score)
-                Spacer(modifier = Modifier.height(10.dp))
+            // Weak Topics List (from current subject chapters)
+            val weakChapters = uiState.currentSubjectChapters.filter { it.mastery in 1..49 }
+            if (weakChapters.isNotEmpty()) {
+                items(weakChapters) { chapter ->
+                    WeakTopicRow(
+                        topic = chapter.name,
+                        subjectDesc = "Chapter ${chapter.chapterNumber}",
+                        mastery = chapter.mastery
+                    )
+                    Spacer(modifier = Modifier.height(10.dp))
+                }
+            } else {
+                item {
+                    Box(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .clip(ShapeMd)
+                            .background(colors.surface)
+                            .border(1.dp, colors.border, ShapeMd)
+                            .padding(16.dp),
+                        contentAlignment = Alignment.Center
+                    ) {
+                        Text(
+                            text = "No weak topics identified yet • Take a diagnostic quiz to map your strengths & weaknesses",
+                            fontSize = 12.sp,
+                            color = colors.textMuted
+                        )
+                    }
+                }
             }
 
             item {
@@ -213,6 +232,45 @@ fun ProgressScreen(
             items(uiState.subjects) { subject ->
                 SubjectMasteryCard(subjectName = subject.name, mastery = subject.mastery)
                 Spacer(modifier = Modifier.height(10.dp))
+            }
+
+            item {
+                Spacer(modifier = Modifier.height(20.dp))
+
+                // Section: Recent Quiz Attempts
+                Text(
+                    text = "Recent Quiz Attempts",
+                    fontSize = 16.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = colors.text
+                )
+
+                Spacer(modifier = Modifier.height(12.dp))
+            }
+
+            if (uiState.quizAttempts.isNotEmpty()) {
+                items(uiState.quizAttempts.take(10)) { attempt ->
+                    QuizAttemptRow(attempt = attempt)
+                    Spacer(modifier = Modifier.height(10.dp))
+                }
+            } else {
+                item {
+                    Box(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .clip(ShapeMd)
+                            .background(colors.surface)
+                            .border(1.dp, colors.border, ShapeMd)
+                            .padding(16.dp),
+                        contentAlignment = Alignment.Center
+                    ) {
+                        Text(
+                            text = "No quiz attempts yet • Complete a 20-MCQ quiz to see your performance history",
+                            fontSize = 12.sp,
+                            color = colors.textMuted
+                        )
+                    }
+                }
             }
 
             item {
@@ -328,5 +386,90 @@ private fun SubjectMasteryCard(
         }
         Spacer(modifier = Modifier.height(8.dp))
         TopicBar(percentage = mastery)
+    }
+}
+
+@Composable
+private fun QuizAttemptRow(attempt: QuizAttemptEntity) {
+    val colors = LocalPoruaColors.current
+    val percentage = if (attempt.totalQuestions > 0) (attempt.score * 100) / attempt.totalQuestions else 0
+    val scoreColor = when {
+        percentage >= 80 -> StatusSuccess
+        percentage >= 50 -> StatusWarning
+        else -> StatusDanger
+    }
+
+    val minutes = attempt.timeTakenSeconds / 60
+    val seconds = attempt.timeTakenSeconds % 60
+    val timeFormatted = "${minutes}m ${seconds}s"
+
+    Column(
+        modifier = Modifier
+            .fillMaxWidth()
+            .clip(ShapeLg)
+            .background(colors.surface)
+            .border(1.dp, colors.border, ShapeLg)
+            .padding(14.dp)
+    ) {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Column(modifier = Modifier.weight(1f)) {
+                Text(
+                    text = attempt.subjectName,
+                    fontSize = 15.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = colors.text
+                )
+                Spacer(modifier = Modifier.height(2.dp))
+                Text(
+                    text = "${attempt.attemptDate} • $timeFormatted",
+                    fontSize = 12.sp,
+                    color = colors.textMuted
+                )
+            }
+
+            Box(
+                modifier = Modifier
+                    .clip(ShapeSm)
+                    .background(scoreColor.copy(alpha = 0.15f))
+                    .padding(horizontal = 10.dp, vertical = 4.dp)
+            ) {
+                Text(
+                    text = "$percentage%",
+                    fontSize = 14.sp,
+                    fontWeight = FontWeight.ExtraBold,
+                    color = scoreColor
+                )
+            }
+        }
+
+        Spacer(modifier = Modifier.height(10.dp))
+
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.spacedBy(16.dp)
+        ) {
+            Text(
+                text = "✓ ${attempt.score} Correct",
+                fontSize = 12.sp,
+                fontWeight = FontWeight.SemiBold,
+                color = StatusSuccess
+            )
+            Text(
+                text = "✗ ${attempt.wrongCount} Wrong",
+                fontSize = 12.sp,
+                fontWeight = FontWeight.SemiBold,
+                color = StatusDanger
+            )
+            Text(
+                text = "— ${attempt.skippedCount} Skipped",
+                fontSize = 12.sp,
+                fontWeight = FontWeight.SemiBold,
+                color = colors.textMuted
+            )
+        }
     }
 }

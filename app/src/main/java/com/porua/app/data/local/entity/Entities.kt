@@ -67,14 +67,14 @@ data class StudyTaskEntity(
 @Entity(tableName = "user_profile")
 data class UserProfileEntity(
     @PrimaryKey val id: Int = 1,
-    val name: String = "Ratul",
+    val name: String = "",
     val examTrack: String = "HSC",
     val examYear: String = "2027",
     val group: String = "Science",
-    val examDate: String = "12 Apr 2027",
-    val daysRemaining: Int = 186,
-    val examReadyPercentage: Int = 58,
-    val streakDays: Int = 12,
+    val examDate: String = "1 April 2027",
+    val daysRemaining: Int = 0,
+    val examReadyPercentage: Int = 0,
+    val streakDays: Int = 0,
     val dailyStudyTime: String = "1 hour",
     val isOfflineMode: Boolean = true,
     val cloudAiEnabled: Boolean = false

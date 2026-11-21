@@ -18,6 +18,9 @@ interface SubjectDao {
     @Query("SELECT * FROM subjects")
     fun getAllSubjects(): Flow<List<SubjectEntity>>
 
+    @Query("SELECT COUNT(*) FROM subjects")
+    suspend fun getSubjectCount(): Int
+
     @Query("SELECT * FROM subjects WHERE id = :id")
     suspend fun getSubjectById(id: String): SubjectEntity?
 
@@ -69,6 +72,9 @@ interface StudyTaskDao {
     @Query("SELECT * FROM study_tasks ORDER BY isCompleted ASC, id DESC")
     fun getAllTasks(): Flow<List<StudyTaskEntity>>
 
+    @Query("SELECT COUNT(*) FROM study_tasks")
+    suspend fun getTaskCount(): Int
+
     @Query("SELECT * FROM study_tasks WHERE isCompleted = 0")
     fun getPendingTasks(): Flow<List<StudyTaskEntity>>
 
@@ -89,6 +95,9 @@ interface StudyTaskDao {
 interface UserProfileDao {
     @Query("SELECT * FROM user_profile WHERE id = 1")
     fun getUserProfile(): Flow<UserProfileEntity?>
+
+    @Query("SELECT COUNT(*) FROM user_profile")
+    suspend fun getProfileCount(): Int
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertOrUpdateProfile(profile: UserProfileEntity)
