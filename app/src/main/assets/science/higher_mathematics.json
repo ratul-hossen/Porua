@@ -39,11 +39,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The determinant of [[a,b],[c,d]] is: A. ad − bc B. ab − cd C. ac − bd D. ad + bc Answer: A"
+            "content": "What is the condition for two matrices A of order (m x n) and B of order (p x q) to be multiplied (A * B)? A. m = p B. n = p (columns of A equal rows of B) C. n = q D. m = q Answer: B"
           },
           {
             "number": 2,
-            "content": "A square matrix is singular if its determinant is: A. 1 B. −1 C. 0 D. Non-zero Answer: C"
+            "content": "What is the order of the product matrix C = A * B if A is (3 x 2) and B is (2 x 4)? A. 3 x 2 B. 3 x 4 C. 2 x 2 D. 4 x 3 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "A square matrix A is called symmetric if: A. A^T = -A B. A^T = A C. A^2 = I D. det(A) = 0 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "A square matrix A is called skew-symmetric if: A. A^T = A B. A^T = -A (and all diagonal elements are 0) C. det(A) = 1 D. A * A^T = I Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "A square matrix A is singular if and only if: A. det(A) != 0 B. det(A) = 0 C. Trace(A) = 0 D. A = I Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the formula for the inverse of an invertible square matrix A? A. A^-1 = A^T B. A^-1 = (1 / det(A)) * adj(A) C. A^-1 = det(A) * adj(A) D. A^-1 = -A Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "For any n x n square matrix A, what is A * adj(A)? A. det(A) * A B. det(A) * I C. I D. 0 Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "If A is an n x n matrix and k is a scalar, what is det(k * A)? A. k * det(A) B. k^n * det(A) C. k^2 * det(A) D. n * k * det(A) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is det(A^T) for any square matrix A? A. - det(A) B. det(A) C. 1 / det(A) D. 0 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "If two rows or two columns of a determinant are identical or proportional, what is the value of the determinant? A. 1 B. 0 C. -1 D. Depends on elements Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "If all elements of a row or column of a determinant are zero, the determinant value is: A. 1 B. 0 C. -1 D. Undefined Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the value of det(A * B) for two square matrices of the same order? A. det(A) + det(B) B. det(A) * det(B) C. det(A) / det(B) D. 0 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is (A * B)^T equal to by the reversal law of transpose? A. A^T * B^T B. B^T * A^T C. A * B D. - B^T * A^T Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is (A * B)^-1 equal to for invertible matrices A and B? A. A^-1 * B^-1 B. B^-1 * A^-1 C. A * B D. B^-1 + A^-1 Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the trace of a square matrix? A. Determinant of matrix B. Sum of the main diagonal elements C. Product of diagonal elements D. Number of rows Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "In Cramer's rule for a system of 3 linear equations, when does a unique solution exist? A. det(D) = 0 B. det(D) != 0 (where D is the coefficient determinant) C. D1 = D2 = D3 = 0 D. D = infinity Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "In Cramer's rule, if D = 0 and at least one of Dx, Dy, Dz is non-zero, the system of equations has: A. Unique solution B. No solution (inconsistent system) C. Infinitely many solutions D. Trivial solution Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is an idempotent matrix A? A. A^2 = 0 B. A^2 = A C. A^2 = I D. A^T = A Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is an orthogonal matrix A? A. A^T = -A B. A * A^T = A^T * A = I (or A^-1 = A^T) C. A^2 = I D. det(A) = 0 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the determinant of a 2x2 matrix [[a, b], [c, d]]? A. a*c - b*d B. a*d - b*c C. a*b - c*d D. a*d + b*c Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -69,11 +141,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The magnitude of 3i + 4j is: A. 3 B. 4 C. 5 D. 7 Answer: C"
+            "content": "What is the unit vector in the direction of vector A? A. A * |A| B. A / |A| C. |A| / A D. A x A Answer: B"
           },
           {
             "number": 2,
-            "content": "If a·b = 0 for two non-zero vectors, the angle is: A. 0° B. 45° C. 90° D. 180° Answer: C"
+            "content": "If A = a1 i + a2 j + a3 k, what is the magnitude |A|? A. a1 + a2 + a3 B. sqrt(a1^2 + a2^2 + a3^2) C. a1^2 + a2^2 + a3^2 D. sqrt(a1*a2*a3) Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What are the direction cosines l, m, n of a vector satisfying? A. l + m + n = 1 B. l^2 + m^2 + n^2 = 1 C. l^2 + m^2 + n^2 = 0 D. l*m*n = 1 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the dot product of vectors A = 2i + 3j - k and B = i - 2j + 4k? A. 2 - 6 - 4 = -8 B. 2 + 6 + 4 = 12 C. -8 D. 0 Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the angle theta between two vectors A and B? A. cos theta = (A . B) / (|A| * |B|) B. sin theta = (A . B) / (|A| * |B|) C. cos theta = |A x B| / (|A| * |B|) D. tan theta = A . B Answer: A"
+          },
+          {
+            "number": 6,
+            "content": "What is the projection of vector A on vector B? A. (A . B) / |A| B. (A . B) / |B| C. (A x B) / |B| D. |A| * |B| Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the vector component of A along B? A. ((A . B) / |B|) * (B / |B|) = ((A . B) / |B|^2) * B B. (A . B) * B C. (A x B) / |B| D. B / |B| Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "Two vectors A and B are orthogonal (perpendicular) if and only if: A. A x B = 0 B. A . B = 0 C. |A| = |B| D. A + B = 0 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "Two non-zero vectors A and B are collinear (parallel) if and only if: A. A . B = 0 B. A x B = 0 (or A = k * B) C. A + B = 0 D. |A| = |B| Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the scalar triple product of three vectors A, B, C representing? A. Area of triangle B. Volume of the parallelepiped formed by A, B, C (V = [A B C] = A . (B x C)) C. Surface area D. Work done Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Three vectors A, B, C are coplanar if and only if their scalar triple product is: A. 1 B. 0 ([A B C] = 0) C. -1 D. Infinite Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "In vector triple product, what is A x (B x C)? A. (A . B) C - (A . C) B B. (A . C) B - (A . B) C (BAC-CAB rule) C. (B . C) A - (A . B) C D. 0 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is i . (j x k)? A. 0 B. 1 (i . i = 1) C. -1 D. k Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the position vector of the midpoint of the line segment joining points with position vectors A and B? A. A - B B. (A + B) / 2 C. (A + B) / 3 D. 2 * (A + B) Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the position vector of the point dividing the join of A and B internally in ratio m:n? A. (m*A + n*B) / (m + n) B. (m*B + n*A) / (m + n) C. (m*B - n*A) / (m - n) D. (A + B) / (m + n) Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the position vector of the centroid G of a triangle with vertices position vectors A, B, C? A. (A + B + C) / 2 B. (A + B + C) / 3 C. A + B + C D. (A + B + C) / 4 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "Work done by a force F causing a displacement d is given by the vector formula: A. W = F x d B. W = F . d C. W = |F| / |d| D. W = (1/2) F . d Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the moment of a force F about a point with position vector r? A. r . F B. r x F (Torque) C. F x r D. r * F Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "If |A + B| = |A - B|, what is the angle between vectors A and B? A. 0° B. 90° (vectors are perpendicular) C. 180° D. 45° Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "If A + B + C = 0 and |A| = 3, |B| = 5, |C| = 7, what is the angle between A and B? A. 30° B. 60° (cos theta = (49 - 9 - 25) / 30 = 15/30 = 1/2) C. 45° D. 90° Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -99,11 +243,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The slope of a line parallel to y = 5x + 2 is: A. −5 B. 1/5 C. 5 D. 2 Answer: C"
+            "content": "What is the distance between two points (x1, y1) and (x2, y2) in Cartesian plane? A. sqrt((x2 - x1) + (y2 - y1)) B. sqrt((x2 - x1)^2 + (y2 - y1)^2) C. (x2 - x1)^2 + (y2 - y1)^2 D. abs(x2 - x1) + abs(y2 - y1) Answer: B"
           },
           {
             "number": 2,
-            "content": "A vertical line has equation: A. y = constant B. x = constant C. y = mx+c D. x+y=0 Answer: B Bangladesh HSC Higher Mathematics | First & Second Paper Page 4"
+            "content": "What are the coordinates of the point dividing the line segment joining (x1, y1) and (x2, y2) internally in ratio m:n? A. ((m*x2 + n*x1)/(m+n), (m*y2 + n*y1)/(m+n)) B. ((m*x1 + n*x2)/(m+n), (m*y1 + n*y2)/(m+n)) C. ((m*x2 - n*x1)/(m-n), (m*y2 - n*y1)/(m-n)) D. ((x1+x2)/2, (y1+y2)/2) Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "What is the area of a triangle with vertices (x1, y1), (x2, y2), (x3, y3)? A. (1/2) * |x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2)| B. x1*y2 + x2*y3 + x3*y1 C. (1/2) * (x1 + x2 + x3) D. abs(x1*y1 + x2*y2 + x3*y3) Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "What is the slope (gradient) m of a straight line making an angle theta with positive x-axis? A. sin theta B. tan theta (or (y2 - y1)/(x2 - x1)) C. cos theta D. cot theta Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the slope-intercept form of the equation of a straight line? A. x/a + y/b = 1 B. y = m*x + c C. A*x + B*y + C = 0 D. y - y1 = m*(x - x1) Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the intercept form of a straight line making intercepts a and b on x and y axes? A. x/b + y/a = 1 B. x/a + y/b = 1 C. a*x + b*y = 1 D. x*a + y*b = 0 Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the normal (perpendicular) form of a straight line (normal length p, angle alpha with x-axis)? A. x * sin alpha + y * cos alpha = p B. x * cos alpha + y * sin alpha = p C. x * tan alpha + y = p D. x/cos alpha + y/sin alpha = p Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the slope of the line A*x + B*y + C = 0? A. A / B B. - A / B C. - B / A D. C / B Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the condition for two lines with slopes m1 and m2 to be parallel? A. m1 * m2 = -1 B. m1 = m2 C. m1 + m2 = 0 D. m1 * m2 = 1 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the condition for two straight lines with slopes m1 and m2 to be perpendicular? A. m1 = m2 B. m1 * m2 = -1 C. m1 + m2 = 0 D. m1 * m2 = 1 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the angle theta between two lines with slopes m1 and m2? A. tan theta = +/-( (m1 - m2) / (1 + m1 * m2) ) B. tan theta = (m1 + m2) / (1 - m1*m2) C. cos theta = m1 * m2 D. sin theta = m1 - m2 Answer: A"
+          },
+          {
+            "number": 12,
+            "content": "What is the perpendicular distance d from point (x1, y1) to the line A*x + B*y + C = 0? A. abs(A*x1 + B*y1 + C) / (A^2 + B^2) B. abs(A*x1 + B*y1 + C) / sqrt(A^2 + B^2) C. abs(A*x1 + B*y1) / sqrt(A^2 + B^2) D. A*x1 + B*y1 + C Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the distance d between two parallel lines A*x + B*y + C1 = 0 and A*x + B*y + C2 = 0? A. abs(C1 + C2) / sqrt(A^2 + B^2) B. abs(C1 - C2) / sqrt(A^2 + B^2) C. abs(C1 - C2) / (A^2 + B^2) D. abs(C1 - C2) Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "The equation of a line parallel to A*x + B*y + C = 0 is: A. B*x - A*y + k = 0 B. A*x + B*y + k = 0 C. A*x - B*y + k = 0 D. x + y + k = 0 Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "The equation of a line perpendicular to A*x + B*y + C = 0 is: A. A*x + B*y + k = 0 B. B*x - A*y + k = 0 C. B*x + A*y + k = 0 D. A*x - B*y + k = 0 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What are the coordinates of the centroid of a triangle with vertices (x1, y1), (x2, y2), (x3, y3)? A. ((x1+x2+x3)/2, (y1+y2+y3)/2) B. ((x1+x2+x3)/3, (y1+y2+y3)/3) C. (x1+x2+x3, y1+y2+y3) D. ((x1*x2*x3)/3, (y1*y2*y3)/3) Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the point of intersection of the three medians of a triangle? A. Orthocenter B. Centroid C. Incenter D. Circumcenter Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the point of intersection of the three altitudes of a triangle? A. Centroid B. Orthocenter C. Circumcenter D. Incenter Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the point of intersection of the perpendicular bisectors of the sides of a triangle? A. Orthocenter B. Circumcenter C. Incenter D. Centroid Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "In what ratio does the centroid G divide each median from vertex to base? A. 1 : 1 B. 2 : 1 C. 3 : 1 D. 1 : 2 Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -129,11 +345,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The radius of x²+y²=49 is: A. 5 B. 7 C. 14 D. 49 Answer: B"
+            "content": "What is the standard equation of a circle with center (h, k) and radius r? A. (x + h)^2 + (y + k)^2 = r^2 B. (x - h)^2 + (y - k)^2 = r^2 C. x^2 + y^2 = r^2 D. (x - h)^2 - (y - k)^2 = r^2 Answer: B"
           },
           {
             "number": 2,
-            "content": "A tangent to a circle is perpendicular to the: A. Diameter anywhere B. Radius at contact C. Chord always D. Secant Answer: B"
+            "content": "What are the center and radius of the general circle x^2 + y^2 + 2gx + 2fy + c = 0? A. Center (g, f), radius sqrt(g^2 + f^2) B. Center (-g, -f), radius sqrt(g^2 + f^2 - c) C. Center (-g, -f), radius g^2 + f^2 - c D. Center (g, f), radius sqrt(g^2 + f^2 + c) Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the condition for the general equation of second degree to represent a circle? A. h = 0 and a = b (coefficient of x^2 equals coefficient of y^2 and no xy term) B. h != 0 and a = b C. a = -b D. c = 0 Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "What is the condition for a circle x^2 + y^2 + 2gx + 2fy + c = 0 to touch the x-axis? A. f^2 = c B. g^2 = c C. g^2 + f^2 = c D. g = 0 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the condition for a circle to touch the y-axis? A. g^2 = c B. f^2 = c C. f = 0 D. c = 0 Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the length of intercept cut off by the circle on the x-axis? A. 2 * sqrt(f^2 - c) B. 2 * sqrt(g^2 - c) C. sqrt(g^2 - c) D. 2 * g Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the length of intercept cut off by the circle on the y-axis? A. 2 * sqrt(g^2 - c) B. 2 * sqrt(f^2 - c) C. sqrt(f^2 - c) D. 2 * f Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the condition for the line y = mx + c to be a tangent to the circle x^2 + y^2 = a^2? A. c = a * m B. c^2 = a^2 * (1 + m^2) (or c = +/- a * sqrt(1 + m^2)) C. c = a / m D. c^2 = a^2 * (1 - m^2) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the equation of the tangent to the circle x^2 + y^2 = a^2 at point (x1, y1)? A. x1*y + y1*x = a^2 B. x*x1 + y*y1 = a^2 C. x*x1 - y*y1 = a^2 D. x/x1 + y/y1 = 1 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the equation of the normal to the circle x^2 + y^2 = a^2 at point (x1, y1)? A. x*y1 - y*x1 = 0 (or y = (y1/x1)*x, passes through center) B. x*x1 + y*y1 = a^2 C. x*y1 + y*x1 = 0 D. x - y = x1 - y1 Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "What is the length of the tangent from external point (x1, y1) to circle x^2 + y^2 + 2gx + 2fy + c = 0? A. x1^2 + y1^2 + 2gx1 + 2fy1 + c B. sqrt(x1^2 + y1^2 + 2gx1 + 2fy1 + c) = sqrt(S1) C. 2 * sqrt(S1) D. S1 / 2 Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the condition for two circles with centers C1, C2 and radii r1, r2 to touch externally? A. C1C2 = r1 - r2 B. C1C2 = r1 + r2 C. C1C2 < r1 + r2 D. C1C2 = 0 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the condition for two circles to touch internally? A. C1C2 = r1 + r2 B. C1C2 = abs(r1 - r2) C. C1C2 = 0 D. C1C2 > r1 + r2 Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the condition for two circles to intersect orthogonally (at right angles)? A. 2(g1*g2 + f1*f2) = c1 + c2 B. g1*g2 + f1*f2 = c1*c2 C. 2(g1*f2 + g2*f1) = c1 + c2 D. g1 = g2 and f1 = f2 Answer: A"
+          },
+          {
+            "number": 15,
+            "content": "What is the equation of the radical axis of two circles S1 = 0 and S2 = 0? A. S1 + S2 = 0 B. S1 - S2 = 0 (straight line) C. S1 * S2 = 0 D. S1 / S2 = 1 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the equation of the circle having (x1, y1) and (x2, y2) as endpoints of a diameter? A. (x - x1)(y - y1) + (x - x2)(y - y2) = 0 B. (x - x1)(x - x2) + (y - y1)(y - y2) = 0 C. (x - x1)^2 + (y - y2)^2 = 0 D. (x1 - x2)^2 + (y1 - y2)^2 = r^2 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "How many tangents can be drawn to a circle from an external point? A. 1 B. 2 (of equal lengths) C. Infinitely many D. 0 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "How many tangents can be drawn to a circle from an internal point? A. 1 B. 0 (no tangent possible) C. 2 D. Infinitely many Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the power of a point P(x1, y1) with respect to circle S = 0? A. Length of chord B. S1 = x1^2 + y1^2 + 2gx1 + 2fy1 + c (positive outside, zero on circle, negative inside) C. Radius squared D. Distance to center Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "If point (x1, y1) lies on the circle x^2 + y^2 = a^2, what is x1^2 + y1^2 - a^2? A. Greater than 0 B. Equal to 0 C. Less than 0 D. Equal to a Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -159,11 +447,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "■P■ equals: A. 10 B. 20 C. 25 D. 60 Answer: B"
+            "content": "What is the formula for permutations of n distinct objects taken r at a time (nPr)? A. n! / (r! * (n - r)!) B. n! / (n - r)! C. n! / r! D. (n - r)! / n! Answer: B"
           },
           {
             "number": 2,
-            "content": "■C■ equals: A. 10 B. 20 C. 25 D. 60 Answer: A"
+            "content": "What is the formula for combinations of n distinct objects taken r at a time (nCr)? A. n! / (n - r)! B. n! / (r! * (n - r)!) C. n! / r! D. r! / n! Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the relation between nPr and nCr? A. nPr = nCr / r! B. nPr = r! * nCr C. nCr = r! * nPr D. nPr = nCr Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is nC0 and nCn equal to? A. 0 B. 1 C. n D. n! Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the identity nCr + nC(r-1) equal to (Pascal's Rule)? A. nC(r+1) B. (n + 1)Cr C. (n + 1)C(r+1) D. 2 * nCr Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the symmetry property of combinations? A. nCr = nC(r-1) B. nCr = nC(n - r) C. nCr = - nC(n - r) D. nCr = n * r Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the total number of subsets (including empty set and self) of a set with n elements? A. 2n B. 2^n (sum from r=0 to n of nCr = 2^n) C. n^2 D. n! Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "How many permutations can be formed from n objects where p are of one kind, q of another, and r of a third kind? A. n! * p! * q! * r! B. n! / (p! * q! * r!) C. (p + q + r)! / n! D. n! / (p + q + r)! Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "How many different arrangements can be made from the letters of the word 'BANGLADESH' (10 letters: 2 A's)? A. 10! B. 10! / 2! = 1,814,400 C. 10! / (2! * 2!) D. 9! Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "How many circular permutations can be formed from n distinct objects? A. n! B. (n - 1)! C. (n - 1)! / 2 D. n! / 2 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "For a necklace or garland of n distinct beads where clockwise and anticlockwise are indistinguishable, circular permutations count is: A. (n - 1)! B. (n - 1)! / 2 C. n! / 2 D. n! Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is 0! (zero factorial) defined as by convention? A. 0 B. 1 C. Undefined D. Infinity Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "In how many ways can 5 people be seated in a row? A. 24 B. 120 (5! = 120) C. 25 D. 60 Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "In how many ways can 5 people be seated at a round table? A. 120 B. 24 ((5 - 1)! = 4! = 24) C. 60 D. 12 Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "How many diagonals are there in a polygon with n sides? A. n(n - 1) / 2 B. n(n - 3) / 2 (or nC2 - n) C. n(n - 2) / 2 D. n^2 - n Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "How many diagonals does a regular hexagon (n = 6 sides) have? A. 6 B. 9 (6 * 3 / 2 = 9) C. 12 D. 15 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "From a group of 7 men and 4 women, in how many ways can a committee of 5 with 3 men and 2 women be chosen? A. 7C3 + 4C2 B. 7C3 * 4C2 = 35 * 6 = 210 C. 11C5 D. 7! * 4! Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "If nC10 = nC12, what is the value of n? A. 2 B. 22 (since n = 10 + 12) C. 120 D. 11 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "How many 3-digit numbers can be formed using digits 1, 2, 3, 4, 5 without repetition? A. 5^3 = 125 B. 5P3 = 60 C. 5C3 = 10 D. 15 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the sum of all coefficients in the expansion of (1 + x)^n? A. n B. 2^n (set x = 1) C. 2^(n-1) D. 0 Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -189,11 +549,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "If sinθ = 0.6 and θ is acute, cosθ is: A. 0.4 B. 0.6 C. 0.8 D. 1.6 Answer: C"
+            "content": "What is the fundamental Pythagorean trigonometric identity? A. sin^2(theta) - cos^2(theta) = 1 B. sin^2(theta) + cos^2(theta) = 1 C. tan^2(theta) - 1 = sec^2(theta) D. sin(theta) + cos(theta) = 1 Answer: B"
           },
           {
             "number": 2,
-            "content": "tanθ equals: A. cosθ/sinθ B. sinθ/cosθ C. 1/sinθ D. 1/cosθ Answer: B"
+            "content": "What is 1 + tan^2(theta) equal to? A. cot^2(theta) B. sec^2(theta) C. cosec^2(theta) D. cos^2(theta) Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is 1 + cot^2(theta) equal to? A. tan^2(theta) B. cosec^2(theta) C. sec^2(theta) D. sin^2(theta) Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the radian measure of an angle subtended at the center by an arc of length s on a circle of radius r? A. theta = r / s B. theta = s / r (s = r * theta) C. theta = s * r D. theta = 2*pi * s / r Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "How many degrees is 1 radian approximately equal to? A. 90° B. 57.3° (180° / pi ~ 57° 17' 45'') C. 45° D. 60° Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the area of a circular sector of radius r and central angle theta (in radians)? A. r * theta B. (1/2) * r^2 * theta C. pi * r^2 * theta D. r^2 * theta Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "In which quadrant are both sine and cosine negative, while tangent is positive? A. Quadrant I B. Quadrant III C. Quadrant II D. Quadrant IV Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is sin(-theta) and cos(-theta) equal to? A. -sin(theta) and -cos(theta) B. -sin(theta) and cos(theta) (even/odd functions) C. sin(theta) and cos(theta) D. sin(theta) and -cos(theta) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the range of the function f(x) = sin(x) for all real x? A. [-infinity, +infinity] B. [-1, 1] C. [0, 1] D. (-1, 1) Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the fundamental period of the functions sin(x) and cos(x)? A. pi B. 2*pi C. pi / 2 D. 4*pi Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the fundamental period of tan(x) and cot(x)? A. 2*pi B. pi C. pi / 2 D. 4*pi Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the value of sin(15°) or sin(pi/12)? A. (sqrt(3) - 1) / 2 B. (sqrt(6) - sqrt(2)) / 4 C. (sqrt(3) + 1) / 2 D. 1 / 4 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the value of cos(15°)? A. (sqrt(6) - sqrt(2)) / 4 B. (sqrt(6) + sqrt(2)) / 4 C. (sqrt(3) - 1) / 2 D. 1 / 2 Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is tan(A + B) equal to? A. (tan A + tan B) / (1 + tan A * tan B) B. (tan A + tan B) / (1 - tan A * tan B) C. (tan A - tan B) / (1 + tan A * tan B) D. tan A + tan B Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is sin(A + B) equal to? A. sin A * cos B - cos A * sin B B. sin A * cos B + cos A * sin B C. cos A * cos B - sin A * sin B D. sin A * sin B + cos A * cos B Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is cos(A + B) equal to? A. cos A * cos B + sin A * sin B B. cos A * cos B - sin A * sin B C. sin A * cos B - cos A * sin B D. cos A - cos B Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the double angle formula sin(2A)? A. 2 * sin A B. 2 * sin A * cos A (or 2 tan A / (1 + tan^2 A)) C. sin^2 A - cos^2 A D. cos^2 A - sin^2 A Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is cos(2A) in terms of cos A and sin A? A. cos^2 A + sin^2 A B. cos^2 A - sin^2 A (or 2 cos^2 A - 1 = 1 - 2 sin^2 A) C. 2 * cos A D. 1 - sin A Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is tan(2A) equal to? A. 2 * tan A B. 2 * tan A / (1 - tan^2 A) C. 2 * tan A / (1 + tan^2 A) D. tan^2 A - 1 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is 1 - cos(2A) and 1 + cos(2A) equal to? A. 2 cos^2 A and 2 sin^2 A B. 2 sin^2 A and 2 cos^2 A C. sin^2 A and cos^2 A D. 2 sin A and 2 cos A Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 6"
@@ -202,7 +634,7 @@
     },
     {
       "chapter_number": 7,
-      "title": "Trigonometric Ratios of Associated",
+      "title": "Trigonometric Ratios of Associated Angles",
       "paper": "1st Paper",
       "content": {
         "overview": "Associated-angle identities express trigonometric functions of angles related by complements, supplements and half/full turns.",
@@ -219,11 +651,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "cos(180°−θ) equals: A. cosθ B. −cosθ C. sinθ D. −sinθ Answer: B"
+            "content": "What is the transformation formula for sin C + sin D? A. 2 * cos((C+D)/2) * sin((C-D)/2) B. 2 * sin((C+D)/2) * cos((C-D)/2) C. 2 * sin((C+D)/2) * sin((C-D)/2) D. cos((C+D)/2) Answer: B"
           },
           {
             "number": 2,
-            "content": "sin(360°−θ) equals: A. sinθ B. −sinθ C. cosθ D. −cosθ Answer: B"
+            "content": "What is sin C - sin D equal to? A. 2 * sin((C+D)/2) * cos((C-D)/2) B. 2 * cos((C+D)/2) * sin((C-D)/2) C. 2 * cos((C+D)/2) * cos((C-D)/2) D. sin(C - D) Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is cos C + cos D equal to? A. 2 * sin((C+D)/2) * sin((C-D)/2) B. 2 * cos((C+D)/2) * cos((C-D)/2) C. -2 * sin((C+D)/2) * sin((C-D)/2) D. cos(C + D) Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is cos C - cos D equal to? A. 2 * cos((C+D)/2) * cos((C-D)/2) B. 2 * sin((C+D)/2) * sin((D-C)/2) (or -2 sin((C+D)/2) sin((C-D)/2)) C. 2 * sin((C+D)/2) * cos((C-D)/2) D. 0 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is 2 * sin A * cos B equal to? A. cos(A + B) + cos(A - B) B. sin(A + B) + sin(A - B) C. sin(A + B) - sin(A - B) D. cos(A - B) - cos(A + B) Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is 2 * cos A * sin B equal to? A. sin(A + B) + sin(A - B) B. sin(A + B) - sin(A - B) C. cos(A + B) - cos(A - B) D. cos(A - B) Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is 2 * cos A * cos B equal to? A. sin(A + B) + sin(A - B) B. cos(A + B) + cos(A - B) C. cos(A - B) - cos(A + B) D. sin(A - B) Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is 2 * sin A * sin B equal to? A. cos(A + B) - cos(A - B) B. cos(A - B) - cos(A + B) C. sin(A + B) - sin(A - B) D. cos(A + B) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "In any triangle ABC (A + B + C = pi), what is tan A + tan B + tan C equal to? A. 1 B. tan A * tan B * tan C C. 0 D. -1 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "In any triangle ABC, what is cot(A/2) + cot(B/2) + cot(C/2) equal to? A. 1 B. cot(A/2) * cot(B/2) * cot(C/2) C. 0 D. 3 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the sine rule for any triangle ABC (circumradius R)? A. a/sin A = b/sin B = c/sin C = R B. a/sin A = b/sin B = c/sin C = 2R C. a*sin A = b*sin B = c*sin C D. a/cos A = b/cos B = c/cos C Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the cosine rule for side a in triangle ABC? A. a^2 = b^2 + c^2 + 2bc cos A B. a^2 = b^2 + c^2 - 2bc cos A C. cos A = (b^2 + c^2 + a^2) / (2bc) D. a = b cos C Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the projection formula for side a in triangle ABC? A. a = b sin C + c sin B B. a = b * cos C + c * cos B C. a = b cos B + c cos C D. a = (b + c) cos A Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the area Delta of a triangle ABC in terms of two sides and included angle? A. (1/2) a * b B. (1/2) * a * b * sin C = (1/2) * b * c * sin A = (1/2) * c * a * sin B C. a * b * sin C D. a * b * cos C Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is Heron's formula for the area Delta of a triangle ABC with semi-perimeter s = (a+b+c)/2? A. s * (s - a)(s - b) B. sqrt(s * (s - a) * (s - b) * (s - c)) C. (s - a)(s - b)(s - c) D. sqrt(s(a + b + c)) Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the inradius r of a triangle with area Delta and semi-perimeter s? A. r = Delta * s B. r = Delta / s C. r = s / Delta D. r = sqrt(Delta / s) Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the circumradius R of a triangle ABC with area Delta? A. R = a*b*c / (2*Delta) B. R = a * b * c / (4 * Delta) C. R = Delta / (a*b*c) D. R = 4*Delta / (a*b*c) Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is sin(3A) equal to in terms of sin A? A. 3 sin A + 4 sin^3 A B. 3 * sin A - 4 * sin^3 A C. 4 sin^3 A - 3 sin A D. 3 sin A - sin^3 A Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is cos(3A) equal to in terms of cos A? A. 4 cos^3 A + 3 cos A B. 4 * cos^3 A - 3 * cos A C. 3 cos A - 4 cos^3 A D. cos^3 A - 3 cos A Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is tan(3A) equal to in terms of tan A? A. (3 tan A - tan^3 A) / (1 + 3 tan^2 A) B. (3 * tan A - tan^3 A) / (1 - 3 * tan^2 A) C. 3 tan A / (1 - tan^2 A) D. tan^3 A / 3 Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -249,11 +753,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "If f(x)=x² on all real numbers, it is: A. One-to-one B. Not one-to-one C. Constant D. Undefined Answer: B"
+            "content": "What is the domain of the real-valued function f(x) = sqrt(x - 3)? A. x < 3 B. x >= 3 (or [3, infinity)) C. x > 3 D. All real numbers Answer: B"
           },
           {
             "number": 2,
-            "content": "The domain of f(x)=1/x excludes: A. 1 B. −1 C. 0 D. 2 Answer: C"
+            "content": "What is the domain of f(x) = 1 / (x^2 - 4)? A. x = +/- 2 B. All real numbers except x = 2 and x = -2 (R - {-2, 2}) C. x > 2 D. [-2, 2] Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "A function f: A -> B is one-to-one (injective) if and only if: A. f(x1) = f(x2) implies x1 != x2 B. f(x1) = f(x2) implies x1 = x2 C. Range = B D. Domain = Range Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "A function f: A -> B is onto (surjective) if and only if: A. Domain = A B. Range(f) = Codomain B C. f is one-to-one D. A is finite Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "A function f has an inverse function f^-1 if and only if f is: A. Injective only B. Bijective (both one-to-one and onto) C. Surjective only D. Continuous Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "If f(x) = (2x + 3) / (x - 1), what is f^-1(x)? A. (x - 1) / (2x + 3) B. (x + 3) / (x - 2) C. (2x - 3) / (x + 1) D. 1 / f(x) Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is (f o g)(x) called for two functions f and g? A. Sum of functions B. Composite function f(g(x)) C. Product of functions D. Quotient Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "A function f(x) is an even function if and only if for all x in its domain: A. f(-x) = -f(x) B. f(-x) = f(x) (symmetric about y-axis) C. f(x) = 0 D. f(1/x) = f(x) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "Which of the following is an odd function (f(-x) = -f(x))? A. cos(x) B. sin(x) (symmetric about origin) C. x^2 + 1 D. |x| Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the domain and range of the absolute value function f(x) = |x|? A. Domain: R, Range: [0, infinity) B. Domain: [0, inf), Range: R C. Domain: R, Range: R D. Domain: (-1, 1), Range: [0, 1] Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "What is the value of limit x -> 0 of (sin x / x)? A. 0 B. 1 C. Infinity D. Undefined Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the value of limit x -> 0 of (tan x / x)? A. 0 B. 1 C. Infinity D. pi Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is limit x -> 0 of ((e^x - 1) / x)? A. 0 B. 1 C. e D. ln(x) Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is limit x -> 0 of (ln(1 + x) / x)? A. 0 B. 1 C. e D. 1 / e Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is limit x -> infinity of (1 + 1/x)^x? A. 1 B. e (~2.71828) C. Infinity D. 0 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is limit x -> a of ((x^n - a^n) / (x - a))? A. n * a^n B. n * a^(n - 1) C. a^n D. 0 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "When applying L'Hopital's rule to indeterminate forms 0/0 or inf/inf, limit f(x)/g(x) equals: A. limit (f(x) / g'(x)) B. limit (f'(x) / g'(x)) C. limit (f'(x) * g'(x)) D. (limit f' / limit g)^2 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "A function f(x) is continuous at x = a if and only if: A. f(a) is defined B. limit x -> a f(x) exists and equals f(a) (LHL = RHL = f(a)) C. f'(a) exists D. f(a) > 0 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the slope of the horizontal line y = c? A. 1 B. 0 C. Infinity (undefined) D. -1 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the slope of the vertical line x = k? A. 0 B. Undefined (infinite) C. 1 D. k Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -279,11 +855,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "d(x■)/dx equals: A. x³ B. 4x³ C. 4x■ D. x■ Answer: B"
+            "content": "What is the definition of derivative f'(x) from first principles? A. limit h -> 0 of (f(x+h) + f(x)) / h B. limit h -> 0 of (f(x + h) - f(x)) / h C. limit h -> 0 of (f(x) - f(h)) / h D. f(x+h) / h Answer: B"
           },
           {
             "number": 2,
-            "content": "The derivative of cos x is: A. sin x B. −sin x C. cos x D. −cos x Answer: B"
+            "content": "What is d/dx of x^n for any real constant n? A. n * x^(n+1) B. n * x^(n - 1) C. x^(n-1) D. n! * x Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is d/dx of sin(x)? A. -cos(x) B. cos(x) C. sec^2(x) D. -sin(x) Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is d/dx of cos(x)? A. sin(x) B. -sin(x) C. -sec^2(x) D. cos(x) Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is d/dx of tan(x)? A. cot(x) B. sec^2(x) C. -sec^2(x) D. sec(x)*tan(x) Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is d/dx of e^x? A. x * e^(x-1) B. e^x C. e^x * ln(e) D. 1 / e^x Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is d/dx of ln(x)? A. e^x B. 1 / x (for x > 0) C. -1 / x^2 D. x Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is d/dx of a^x (where a > 0)? A. x * a^(x-1) B. a^x * ln(a) C. a^x / ln(a) D. a^x Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the product rule for differentiation d/dx (u * v)? A. u' * v' B. u * (dv/dx) + v * (du/dx) C. u * (dv/dx) - v * (du/dx) D. (u' + v') / 2 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the quotient rule d/dx (u / v)? A. (u' * v - v' * u) / v B. (v * (du/dx) - u * (dv/dx)) / v^2 C. (u * v' - v * u') / v^2 D. (u' / v') Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the chain rule for composite function y = f(u) where u = g(x)? A. dy/dx = dy/du + du/dx B. dy/dx = (dy/du) * (du/dx) C. dy/dx = (dy/du) / (du/dx) D. dy/dx = du/dx Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is d/dx of sin^-1(x)? A. -1 / sqrt(1 - x^2) B. 1 / sqrt(1 - x^2) C. 1 / (1 + x^2) D. -1 / (1 + x^2) Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is d/dx of tan^-1(x)? A. 1 / sqrt(1 - x^2) B. 1 / (1 + x^2) C. -1 / (1 + x^2) D. sec^-1(x) Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What does the derivative dy/dx represent geometrically at a point on the curve y = f(x)? A. Normal to curve B. Slope (gradient) of the tangent to the curve at that point (m = dy/dx) C. Area under curve D. Curvature radius Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the slope of the normal to the curve at point (x1, y1) where tangent slope is m? A. m B. - 1 / m C. 1 / m D. -m Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the necessary condition for a function f(x) to have a local maximum or minimum at x = c? A. f''(c) = 0 B. f'(c) = 0 (critical/stationary point) C. f(c) = 0 D. f'(c) > 0 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "If f'(c) = 0 and f''(c) < 0, what does x = c represent? A. Local minimum B. Local maximum C. Point of inflection D. Discontinuity Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "If f'(c) = 0 and f''(c) > 0, what does x = c represent? A. Local maximum B. Local minimum C. Saddle point D. Zero Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the point where f''(x) = 0 and concavity changes called? A. Critical point B. Point of inflection C. Stationary point D. Cusp Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is Rolle's theorem condition for f(x) on [a, b] with f(a) = f(b)? A. f'(c) > 0 B. There exists at least one c in (a, b) such that f'(c) = 0 C. f''(c) = 0 D. f(c) = 0 Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 8"
@@ -309,11 +957,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "∫x²dx equals: A. 2x+C B. x³/3+C C. x²/2+C D. 3x+C Answer: B"
+            "content": "Integration is the inverse mathematical process of: A. Multiplication B. Differentiation (anti-derivative) C. Logarithm D. Factorization Answer: B"
           },
           {
             "number": 2,
-            "content": "The derivative of an antiderivative F(x) is: A. 0 B. f(x) C. F(x)² D. C Answer: B"
+            "content": "What is the indefinite integral integral of x^n dx (for n != -1)? A. n * x^(n-1) + C B. (x^(n + 1) / (n + 1)) + C C. x^(n+1) + C D. (x^n / n) + C Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is integral of (1 / x) dx? A. x + C B. ln|x| + C C. -1 / x^2 + C D. e^x + C Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is integral of e^x dx? A. x * e^x + C B. e^x + C C. e^(x+1) + C D. ln(x) + C Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is integral of sin(x) dx? A. cos(x) + C B. -cos(x) + C C. sec(x) + C D. -sin(x) + C Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is integral of cos(x) dx? A. -sin(x) + C B. sin(x) + C C. tan(x) + C D. -cos(x) + C Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is integral of sec^2(x) dx? A. sec(x) + C B. tan(x) + C C. -cot(x) + C D. 2 sec(x) + C Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is integral of (1 / (1 + x^2)) dx? A. sin^-1(x) + C B. tan^-1(x) + C C. ln(1 + x^2) + C D. sec^-1(x) + C Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is integral of (1 / sqrt(1 - x^2)) dx? A. tan^-1(x) + C B. sin^-1(x) + C C. cos^-1(x) + C D. -sin^-1(x) + C Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the formula for integration by parts integral of (u * v) dx? A. u * integral v dx - integral (u' * integral v dx) dx B. u * v - integral u' dx C. u * integral v dx + integral u' dx D. (integral u) * (integral v) Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "In integration by parts, what rule helps choose the first function u? A. BODMAS rule B. ILATE rule (Inverse trig, Log, Algebraic, Trig, Exponential) C. L'Hopital rule D. Cramer rule Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is integral of e^x * [f(x) + f'(x)] dx? A. e^x + C B. e^x * f(x) + C C. e^x * f'(x) + C D. f(x) + C Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the Fundamental Theorem of Calculus for definite integral from a to b of f(x) dx (where F' = f)? A. F(b) + F(a) B. F(b) - F(a) C. F'(b) - F'(a) D. F(b) * F(a) Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the value of definite integral from -a to a of an odd function f(x) dx? A. 2 * integral from 0 to a of f(x) dx B. 0 C. a D. -a Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the definite integral from -a to a of an even function f(x) dx? A. 0 B. 2 * integral from 0 to a of f(x) dx C. F(a) D. 4 * F(a) Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What does the definite integral from a to b of y dx represent geometrically? A. Slope of tangent B. Area enclosed under the curve y = f(x), x-axis, and lines x = a and x = b C. Arc length D. Volume of sphere Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the total area enclosed by the circle x^2 + y^2 = a^2? A. 2 * pi * a B. pi * a^2 C. 4 * pi * a^2 D. (4/3) * pi * a^3 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the total area enclosed by the ellipse x^2/a^2 + y^2/b^2 = 1? A. pi * (a^2 + b^2) B. pi * a * b C. 2 * pi * a * b D. 4 * a * b Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the area enclosed between the parabola y^2 = 4ax and its latus rectum x = a? A. 16 * a^2 B. (8/3) * a^2 C. (4/3) * a^2 D. 8 * a^2 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is integral of (f'(x) / f(x)) dx? A. f(x) + C B. ln|f(x)| + C C. (1/2) [f(x)]^2 + C D. 1 / f(x) + C Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 9 HIGHER MATHEMATICS 2ND PAPER"
@@ -339,11 +1059,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Which is irrational? A. 3/4 B. 0.25 C. √2 D. −5 Answer: C"
+            "content": "Which of the following is an irrational number? A. 3/4 B. sqrt(2) (non-terminating, non-repeating) C. 0.333... D. sqrt(9) Answer: B"
           },
           {
             "number": 2,
-            "content": "If −2x > 6, then: A. x>−3 B. x<−3 C. x>3 D. x<3 Answer: B"
+            "content": "What is the completeness axiom of the set of real numbers R? A. Every set has a minimum B. Every non-empty subset of R bounded above has a least upper bound (supremum) C. R is countable D. Every number is rational Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the absolute value inequality |x| < a (where a > 0) equivalent to? A. x < a B. -a < x < a C. x > a or x < -a D. x = +/- a Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the inequality |x| >= a (where a > 0) equivalent to? A. -a <= x <= a B. x >= a or x <= -a C. x > a D. x = a Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the triangle inequality for real numbers a and b? A. |a + b| >= |a| + |b| B. |a + b| <= |a| + |b| C. |a - b| = |a| - |b| D. |a * b| <= |a| Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the solution set of |2x - 3| < 5? A. (-1, 4) B. (-1, 4) (-5 < 2x - 3 < 5 => -2 < 2x < 8 => -1 < x < 4) C. [-1, 4] D. (1, 4) Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the supremum (least upper bound) of the open interval (2, 5)? A. 2 B. 5 C. 5.1 D. Does not exist Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the infimum (greatest lower bound) of the set S = {1/n : n in N}? A. 1 B. 0 (since 1/n > 0 for all n and approaches 0) C. Does not exist D. -1 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "According to Archimedean property of real numbers, for any real x, there exists a natural number n such that: A. n < x B. n > x C. n = x D. n * x = 1 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "If a < b and c < 0, what happens to the inequality when multiplying both sides by c? A. a*c < b*c B. a*c > b*c (the inequality sign reverses) C. a*c = b*c D. No change Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the arithmetic mean (AM) and geometric mean (GM) relationship for positive real numbers a and b? A. AM <= GM B. AM >= GM (with equality if and only if a = b) C. AM * GM = 1 D. AM = 2*GM Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the solution of the quadratic inequality x^2 - 5x + 6 < 0? A. (2, 3) (since (x - 2)(x - 3) < 0) B. (-infinity, 2) U (3, infinity) C. [2, 3] D. x > 3 Answer: A"
+          },
+          {
+            "number": 13,
+            "content": "What is the interval notation for {x in R : -2 <= x < 5}? A. (-2, 5) B. [-2, 5) C. [-2, 5] D. (-2, 5] Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "Which of the following sets is bounded both above and below? A. Set of integers Z B. Set of natural numbers N C. Interval [0, 1] D. Set of prime numbers Answer: C"
+          },
+          {
+            "number": 15,
+            "content": "What is the Cauchy-Schwarz inequality for real sequences (a1, a2) and (b1, b2)? A. (a1*b1 + a2*b2)^2 <= (a1^2 + a2^2) * (b1^2 + b2^2) B. (a1+b1)^2 <= a1^2 + b1^2 C. a1*b1 <= a2*b2 D. (a1*b1)^2 = a1^2 * b1^2 Answer: A"
+          },
+          {
+            "number": 16,
+            "content": "What is the value of | -7 |? A. -7 B. 7 C. +/- 7 D. 0 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "If a, b, c > 0, what is the minimum value of (a/b + b/a)? A. 1 B. 2 (by AM >= GM: (a/b + b/a)/2 >= 1) C. 4 D. 0 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the density property of rational numbers in R? A. There are no irrational numbers B. Between any two distinct real numbers, there exists at least one rational (and irrational) number C. All numbers are integers D. Rationals are finite Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the solution of 1 / (x - 2) > 0? A. x < 2 B. x > 2 C. x != 2 D. All real x Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is |x - a| geometrically on the real number line? A. Sum of x and a B. Distance between the points representing x and a C. Product of x and a D. Midpoint of x and a Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -369,11 +1161,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The objective function in a linear programming problem is: A. Always quadratic B. A linear expression C. A trigonometric function D. A matrix only Answer: B"
+            "content": "In a linear programming problem (LPP), what is the function to be maximized or minimized called? A. Constraint function B. Objective function (Z = ax + by) C. Feasible function D. Slack variable Answer: B"
           },
           {
             "number": 2,
-            "content": "The feasible region is bounded by: A. Constraint inequalities B. Only the objective value C. The y-axis only D. Random points Answer: A"
+            "content": "What type of mathematical relationships must both the objective function and constraints satisfy in LPP? A. Quadratic B. Linear (degree 1 in all variables) C. Exponential D. Non-linear Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "The non-negativity restrictions in standard LPP are represented by: A. x <= 0, y <= 0 B. x >= 0, y >= 0 (first quadrant) C. x + y >= 0 D. x * y >= 0 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the collection of all points satisfying all the linear constraints of an LPP called? A. Infeasible region B. Feasible region (solution space) C. Unbounded plane D. Optimum region Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What geometric property does the feasible region of any linear programming problem always possess? A. Concave set B. Convex polygon / convex set C. Circular disc D. Non-convex set Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "According to the Fundamental Theorem of Linear Programming, where does the optimal (maximum or minimum) value of the objective function occur? A. At the origin only B. At one or more corner points (vertices / extreme points) of the feasible region C. In the interior of feasible region D. At infinity only Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "If the feasible region of an LPP is bounded, what can be said about the maximum and minimum values of Z? A. Neither exists B. Both maximum and minimum values of Z exist C. Only maximum exists D. Only minimum exists Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "If two corner points of a feasible region yield the same optimal value of Z, then: A. No solution exists B. Every point on the line segment joining these two vertices is also an optimal solution (infinitely many solutions) C. The problem is inconsistent D. Only the midpoint is optimal Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is an unbounded feasible region in LPP? A. A region that has no corner points B. A feasible region that extends indefinitely in at least one direction C. A single point D. Empty set Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What happens when the constraints of an LPP have no common point satisfying all of them? A. Multiple optimal solutions B. No feasible solution (infeasible problem) C. Degenerate solution D. Unbounded solution Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "In the graphical method of LPP, the lines representing the constraints are called: A. Isocost lines B. Boundary lines C. Objective lines D. Axes Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is an iso-profit or iso-cost line in LPP graphical solution? A. A constraint boundary B. A line along which the objective function Z has a constant value (Z = c) C. Coordinate axis D. 45° line Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "A non-negative variable added to a '<=' constraint to convert it into an equality is called a: A. Surplus variable B. Slack variable C. Artificial variable D. Basic variable Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "A non-negative variable subtracted from a '>=' constraint to convert it into an equality is called a: A. Slack variable B. Surplus variable C. Unrestricted variable D. Scalar Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What algorithm developed by George Dantzig in 1947 solves general multi-variable LPPs algebraically? A. Newton-Raphson method B. Simplex method / Simplex algorithm C. Euler method D. Gauss-Seidel method Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "For the objective function Z = 3x + 4y with corner points (0, 0), (4, 0), (2, 3), and (0, 5), what is the maximum value of Z? A. 12 B. 20 (at corner point (0, 5): 3*0 + 4*5 = 20) C. 18 D. 16 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "For the constraints x + y <= 4, x >= 0, y >= 0, what shape is the feasible region? A. Square B. Right-angled triangle with vertices (0,0), (4,0), (0,4) C. Trapezoid D. Unbounded strip Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the dual of a linear programming problem? A. Inverse function B. An associated LPP derived systematically from the primal problem whose optimal value equals that of primal C. Negative of primal D. Complement of set Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Can the optimal solution of a linear programming problem occur strictly in the interior of the feasible region? A. Always B. No, it always occurs on the boundary, specifically at extreme vertices C. Only for maximization D. Only if variables are negative Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is a redundant constraint in an LPP? A. A constraint that cannot be satisfied B. A constraint whose removal does not alter the feasible region C. The non-negativity constraint D. The objective function Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -399,11 +1263,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The modulus of 3+4i is: A. 3 B. 4 C. 5 D. 7 Answer: C"
+            "content": "What is the value of imaginary unit i defined by Euler? A. sqrt(1) B. i = sqrt(-1) (or i^2 = -1) C. -1 D. undefined Answer: B"
           },
           {
             "number": 2,
-            "content": "The conjugate of a+bi is: A. −a+bi B. a−bi C. −a−bi D. b+ai Answer: B"
+            "content": "What is the value of i^4? A. i B. 1 C. -1 D. -i Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the value of i^3? A. 1 B. -i C. i D. -1 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the modulus r of the complex number z = x + i*y? A. x^2 + y^2 B. sqrt(x^2 + y^2) C. x + y D. abs(x) + abs(y) Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the complex conjugate z_bar of z = x + i*y? A. x + i*y B. x - i*y C. -x + i*y D. -x - i*y Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the product of a complex number z and its conjugate z_bar? A. 0 B. |z|^2 = x^2 + y^2 (a real number) C. 2x D. 2i y Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the principal argument theta = Arg(z) range for any complex number z? A. [0, 2*pi] B. (-pi, pi] (or -pi < theta <= pi) C. [0, pi] D. [-pi/2, pi/2] Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the polar form of a complex number z = x + i*y (modulus r, argument theta)? A. r * (cos theta - i sin theta) B. r * (cos theta + i sin theta) = r * e^(i*theta) C. r * tan theta D. r * (sin theta + i cos theta) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "According to De Moivre's Theorem, for any integer n, (cos theta + i sin theta)^n is equal to: A. cos^n theta + i sin^n theta B. cos(n * theta) + i * sin(n * theta) C. n * cos theta + i * n * sin theta D. cos(theta / n) + i sin(theta / n) Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What are the three cube roots of unity (roots of z^3 = 1)? A. 1, -1, i B. 1, omega = (-1 + i*sqrt(3))/2, omega^2 = (-1 - i*sqrt(3))/2 C. 1, i, -i D. 0, 1, -1 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the sum of the three cube roots of unity (1 + omega + omega^2)? A. 1 B. 0 C. -1 D. 3 Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the product of the complex cube roots of unity (omega * omega^2 = omega^3)? A. 0 B. 1 C. -1 D. omega Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the square root of -16? A. +/- 4 B. +/- 4i C. 4 D. -4 Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What are the square roots of i? A. +/- (1 + i) B. +/- (1 + i) / sqrt(2) C. +/- (1 - i) / sqrt(2) D. +/- i Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What are the square roots of -i? A. +/- (1 + i) / sqrt(2) B. +/- (1 - i) / sqrt(2) C. +/- 1 D. +/- i Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is Euler's identity connecting five fundamental mathematical constants e, i, pi, 1, 0? A. e^(i*pi) - 1 = 0 B. e^(i * pi) + 1 = 0 (or e^(i*pi) = -1) C. e^(pi) = i D. ln(i) = pi Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What does the equation |z - z0| = r represent in the Argand plane? A. Straight line B. Circle with center z0 and radius r C. Ellipse D. Parabola Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What does the equation |z - z1| = |z - z2| represent in the complex plane? A. Circle B. Perpendicular bisector of the line segment joining z1 and z2 C. Ellipse D. Line segment Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "If |z1 + z2| = |z1 - z2| for non-zero complex numbers, the angle between z1 and z2 in Argand plane is: A. 0° B. 90° (pi/2 radians, arg(z1) - arg(z2) = pi/2) C. 180° D. 45° Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the modulus of (1 + i) / (1 - i)? A. sqrt(2) B. 1 (since (1+i)/(1-i) = i, |i| = 1) C. 2 D. 0 Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 11"
@@ -412,7 +1348,7 @@
     },
     {
       "chapter_number": 4,
-      "title": "Polynomials and Polynomial",
+      "title": "Polynomials and Polynomial Equations",
       "paper": "2nd Paper",
       "content": {
         "overview": "A polynomial is an algebraic expression with non-negative integer powers of the variable. Polynomial equations can be studied\nthrough roots, factors and coefficients.",
@@ -429,11 +1365,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The sum of roots of ax²+bx+c=0 is: A. b/a B. −b/a C. c/a D. −c/a Answer: B"
+            "content": "What are the roots of the quadratic equation a*x^2 + b*x + c = 0 (a != 0)? A. (-b +/- sqrt(b^2 + 4ac)) / (2a) B. (-b +/- sqrt(b^2 - 4ac)) / (2a) C. (b +/- sqrt(b^2 - 4ac)) / (2a) D. -b / (2a) Answer: B"
           },
           {
             "number": 2,
-            "content": "If f(2)=0, then a factor is: A. x+2 B. x−2 C. 2x−1 D. x²+2 Answer: B"
+            "content": "What is the discriminant D of the quadratic equation a*x^2 + b*x + c = 0? A. b^2 + 4ac B. b^2 - 4ac C. 4ac - b^2 D. sqrt(b^2 - 4ac) Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "If the discriminant D > 0 and not a perfect square (with rational coefficients), the roots are: A. Real and equal B. Real, unequal, and irrational (conjugate surds) C. Complex conjugates D. Zero Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "If the discriminant D = 0, the roots of the quadratic equation are: A. Imaginary B. Real and equal (repeated root x = -b / 2a) C. Unequal D. Undefined Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "If the discriminant D < 0, the roots are: A. Real and unequal B. Complex conjugates (p + i*q and p - i*q) C. Rational D. Opposite in sign Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "For roots alpha and beta of a*x^2 + b*x + c = 0, what is the sum of roots (alpha + beta)? A. b / a B. - b / a C. c / a D. - c / a Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the product of roots (alpha * beta) of a*x^2 + b*x + c = 0? A. - c / a B. c / a C. - b / a D. b / c Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the quadratic equation whose roots are alpha and beta? A. x^2 + (alpha + beta)x + alpha*beta = 0 B. x^2 - (alpha + beta)x + alpha * beta = 0 C. x^2 - alpha*x + beta = 0 D. (x - alpha) + (x - beta) = 0 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "For a cubic equation a*x^3 + b*x^2 + c*x + d = 0 with roots alpha, beta, gamma, what is sum alpha? A. b / a B. - b / a C. c / a D. - d / a Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "For the cubic equation a*x^3 + b*x^2 + c*x + d = 0, what is sum (alpha * beta)? A. - c / a B. c / a C. - d / a D. b / a Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "For the cubic equation a*x^3 + b*x^2 + c*x + d = 0, what is the product of roots (alpha * beta * gamma)? A. d / a B. - d / a C. c / a D. - b / a Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What does the Factor Theorem state? A. f(a) = 0 implies f(x) has no roots B. (x - a) is a factor of polynomial f(x) if and only if f(a) = 0 C. f(x) / (x - a) = 0 D. Every polynomial has degree 2 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What does the Remainder Theorem state when polynomial f(x) is divided by (x - a)? A. Remainder is f'(a) B. Remainder is f(a) C. Remainder is 0 D. Remainder is a Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "According to Fundamental Theorem of Algebra, a polynomial equation of degree n with complex coefficients has: A. At least n+1 roots B. Exactly n complex roots (counting multiplicities) C. Only real roots D. n - 1 roots Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "In a polynomial equation with real coefficients, complex (imaginary) roots always occur in: A. Singles B. Conjugate pairs (a + ib and a - ib) C. Triplets D. Even degrees only Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "In a polynomial equation with rational coefficients, irrational roots with surds always occur in: A. Random values B. Conjugate pairs (m + sqrt(n) and m - sqrt(n)) C. Integers D. Imaginary pairs Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "According to Descartes' Rule of Signs, the maximum number of positive real roots of f(x) = 0 equals: A. Degree of polynomial B. Number of sign variations in the coefficients of f(x) C. Number of negative roots D. Constant term Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the condition for two quadratic equations to have a common root? A. (c1*a2 - c2*a1)^2 = (b1*c2 - b2*c1)(a1*b2 - a2*b1) B. a1/a2 = b1/b2 = c1/c2 C. b1^2 - 4a1c1 = b2^2 - 4a2c2 D. c1 = c2 Answer: A"
+          },
+          {
+            "number": 19,
+            "content": "What is the condition for two quadratic equations a1*x^2 + b1*x + c1 = 0 and a2*x^2 + b2*x + c2 = 0 to have both roots common? A. a1 + b1 = a2 + b2 B. a1 / a2 = b1 / b2 = c1 / c2 C. a1*a2 = b1*b2 D. c1 = c2 = 0 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "If the roots of x^2 - px + q = 0 differ by unity (alpha - beta = 1), what is the relation between p and q? A. p^2 = 4q B. p^2 - 4q = 1 (since (alpha - beta)^2 = (alpha+beta)^2 - 4alpha*beta = p^2 - 4q = 1) C. p^2 + 4q = 1 D. p = q + 1 Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -459,11 +1467,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The number of terms in (a+b)■ is: A. 5 B. 6 C. 7 D. 10 Answer: B"
+            "content": "What is the binomial theorem expansion for (x + a)^n for a positive integer n? A. sum r=0 to n of nCr * x^(n - r) * a^r B. sum r=0 to n of nPr * x^r * a^(n-r) C. n * (x + a)^(n-1) D. sum x^r * a^r Answer: A"
           },
           {
             "number": 2,
-            "content": "■C■ equals: A. 12 B. 15 C. 20 D. 30 Answer: B"
+            "content": "How many terms are there in the binomial expansion of (x + a)^n for a positive integer n? A. n B. n + 1 terms C. n - 1 D. 2^n Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the formula for the general term T_(r+1) in the expansion of (x + a)^n? A. nCr * x^r * a^(n-r) B. T_(r+1) = nCr * x^(n - r) * a^r C. nC(r+1) * x^(n-r) D. n! * x^r Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the middle term in the expansion of (x + a)^n when n is an even integer? A. T_(n/2) B. T_(n/2 + 1) (only one middle term) C. T_n D. Two middle terms Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "When n is an odd integer, how many middle terms are there in the expansion of (x + a)^n? A. One B. Two middle terms: T_((n+1)/2) and T_((n+3)/2) C. Three D. None Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the sum of binomial coefficients C0 + C1 + C2 + ... + Cn in (1 + x)^n? A. n! B. 2^n (put x = 1) C. 2^(n-1) D. n * 2^(n-1) Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the sum of odd binomial coefficients (C1 + C3 + C5 + ...) equal to? A. 2^n B. 2^(n - 1) (which also equals sum of even coefficients C0 + C2 + ...) C. 2^(n+1) D. n Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the alternating sum of binomial coefficients C0 - C1 + C2 - C3 + ... + (-1)^n Cn? A. 2^n B. 0 (put x = -1 in (1+x)^n) C. 1 D. -1 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "For any real index n (negative or fractional), the binomial series (1 + x)^n is valid and converges if and only if: A. x > 1 B. |x| < 1 (or -1 < x < 1) C. x = 1 D. Any real x Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the expansion of (1 - x)^(-1) for |x| < 1? A. 1 - x + x^2 - x^3 + ... B. 1 + x + x^2 + x^3 + ... + x^r + ... C. 1 - 2x + 3x^2 - ... D. ln(1 - x) Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the expansion of (1 + x)^(-1) for |x| < 1? A. 1 + x + x^2 + ... B. 1 - x + x^2 - x^3 + ... + (-1)^r x^r + ... C. 1 - x/2 + x^2/3 - ... D. -1 - x Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the expansion of (1 - x)^(-2) for |x| < 1? A. 1 + x + x^2 + ... B. 1 + 2x + 3x^2 + 4x^3 + ... + (r + 1)x^r + ... C. 1 - 2x + 3x^2 - ... D. 2 + 4x + 6x^2 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the expansion of (1 + x)^(-2) for |x| < 1? A. 1 + 2x + 3x^2 + ... B. 1 - 2x + 3x^2 - 4x^3 + ... + (-1)^r (r + 1)x^r + ... C. 1 - x + x^2 - ... D. x + x^2 + ... Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the term independent of x (constant term) in the expansion of (x + 1/x)^(2n)? A. 2nCn B. (2n)! / (n! * n!) = 2nCn C. 2nC(n-1) D. 1 Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the coefficient of x^r in the expansion of (1 - x)^(-n) where n is a positive integer? A. nCr B. (n + r - 1)Cr C. (n + r)Cr D. nPr Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "In the expansion of (1 + x)^n, what is the ratio of consecutive coefficients C(r+1) / Cr? A. (n - r) / (r + 1) B. (n - r + 1) / r C. r / (n - r) D. (r + 1) / n Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "What is the sum C1 + 2*C2 + 3*C3 + ... + n*Cn equal to? A. n * 2^n B. n * 2^(n - 1) C. (n/2) * 2^n D. 2^(n-1) Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "How many terms are in the expansion of (x + y + z)^n for a positive integer n? A. (n + 1)^2 B. (n + 1)(n + 2) / 2 = (n + 2)C2 C. 3^n D. n + 3 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the greatest coefficient in the expansion of (1 + x)^n when n is even? A. nC(n/2) B. nC(n/2) (the central binomial coefficient) C. nC0 D. 2^n Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the expansion of e^x (exponential series) for all real x? A. sum x^n / n B. 1 + x + x^2/2! + x^3/3! + ... = sum x^n / n! C. 1 - x + x^2/2 - ... D. x + x^2 + x^3 + ... Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -489,11 +1569,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The eccentricity of an ellipse is: A. Equal to 1 B. Less than 1 C. Greater than 1 D. Always 2 Answer: B"
+            "content": "What is eccentricity e of a conic defined as (ratio of distance from focus S to directrix PM, SP/PM)? A. SP + PM B. e = SP / PM C. SP * PM D. PM / SP Answer: B"
           },
           {
             "number": 2,
-            "content": "For y²=4ax, the focus is: A. (0,a) B. (a,0) C. (−a,0) D. (0,−a) Answer: B"
+            "content": "A conic is a parabola if and only if its eccentricity e is: A. e < 1 B. e = 1 C. e > 1 D. e = 0 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "A conic section is an ellipse if and only if its eccentricity e is: A. e = 1 B. 0 < e < 1 C. e > 1 D. e = 0 (circle) Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "A conic section is a hyperbola if and only if its eccentricity e is: A. e = 1 B. e > 1 C. e < 1 D. e = -1 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the standard equation of a parabola with vertex at origin opening rightward along x-axis? A. x^2 = 4ay B. y^2 = 4ax C. x^2 + y^2 = 4a D. y = 4ax^2 Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What are the coordinates of the focus of the parabola y^2 = 4ax? A. (0, a) B. (a, 0) C. (-a, 0) D. (0, -a) Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the equation of the directrix of the parabola y^2 = 4ax? A. y = -a B. x = -a (or x + a = 0) C. x = a D. y = a Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the length of the latus rectum of the parabola y^2 = 4ax? A. 2a B. 4a (or 4|a|) C. a D. 8a Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the condition for the straight line y = mx + c to touch the parabola y^2 = 4ax (tangent condition)? A. c = a * m B. c = a / m C. c = -a / m^2 D. c^2 = a^2 * (1 + m^2) Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the equation of the tangent to the parabola y^2 = 4ax at point (x1, y1)? A. y*y1 = 4a(x + x1) B. y * y1 = 2a(x + x1) C. y + y1 = 2a(x - x1) D. x*x1 = 2a(y + y1) Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the standard equation of an ellipse centered at origin with major axis along x-axis (a > b)? A. x^2 / a^2 - y^2 / b^2 = 1 B. x^2 / a^2 + y^2 / b^2 = 1 C. x^2 + y^2 = a^2 + b^2 D. x / a + y / b = 1 Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the eccentricity e formula of the ellipse x^2/a^2 + y^2/b^2 = 1 (a > b)? A. e = sqrt(1 + b^2/a^2) B. e = sqrt(1 - b^2 / a^2) (or b^2 = a^2(1 - e^2)) C. e = b / a D. e = 1 - b/a Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What are the coordinates of the foci of the ellipse x^2/a^2 + y^2/b^2 = 1 (a > b)? A. (0, +/- ae) B. (+/- ae, 0) C. (+/- a, 0) D. (+/- a/e, 0) Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the length of the latus rectum of the ellipse x^2/a^2 + y^2/b^2 = 1 (a > b)? A. 2a^2 / b B. 2b^2 / a C. b^2 / a D. 4b^2 / a Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the sum of focal distances of any point P on an ellipse with major axis 2a (SP + S'P)? A. 2b B. 2a (constant equal to major axis length) C. 4a D. ae Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the standard equation of a hyperbola with transverse axis along x-axis? A. x^2/a^2 + y^2/b^2 = 1 B. x^2 / a^2 - y^2 / b^2 = 1 C. y^2/a^2 - x^2/b^2 = 1 D. x*y = c^2 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the eccentricity e of the hyperbola x^2/a^2 - y^2/b^2 = 1? A. sqrt(1 - b^2/a^2) B. e = sqrt(1 + b^2 / a^2) (or b^2 = a^2(e^2 - 1)) C. a / b D. 1 + b/a Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is a rectangular (equilateral) hyperbola? A. a = 2b B. A hyperbola where lengths of transverse and conjugate axes are equal (a = b, e = sqrt(2)) C. e = 1 D. b = 0 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the eccentricity of any rectangular hyperbola (e.g., x^2 - y^2 = a^2 or xy = c^2)? A. 1 B. sqrt(2) (~1.414) C. 2 D. sqrt(3) Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What are the equations of the asymptotes of the hyperbola x^2/a^2 - y^2/b^2 = 1? A. y = +/- x B. y = +/- (b / a) * x C. y = +/- (a / b) * x D. x = +/- a Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 13"
@@ -519,11 +1671,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The principal range of tan■¹x is: A. [0,π] B. (−π/2,π/2) C. [−π,π] D. [0,2π] Answer: B"
+            "content": "What is the principal value branch (range) of sin^-1(x)? A. [0, pi] B. [-pi / 2, pi / 2] C. ( -pi/2, pi/2 ) D. [0, 2*pi] Answer: B"
           },
           {
             "number": 2,
-            "content": "cos■¹(1) equals: A. 0 B. π/2 C. π D. 2π Answer: A"
+            "content": "What is the principal value branch (range) of cos^-1(x)? A. [-pi/2, pi/2] B. [0, pi] C. (-pi/2, pi/2) D. [0, pi/2] Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the principal value branch of tan^-1(x)? A. [-pi/2, pi/2] B. ( -pi / 2, pi / 2 ) C. [0, pi] D. (0, pi) Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is sin^-1(x) + cos^-1(x) equal to for all x in [-1, 1]? A. 0 B. pi / 2 C. pi D. 1 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is tan^-1(x) + cot^-1(x) equal to for all real x? A. 0 B. pi / 2 C. pi D. 2*pi Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is sec^-1(x) + cosec^-1(x) equal to for |x| >= 1? A. 0 B. pi / 2 C. pi D. -pi/2 Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is tan^-1(x) + tan^-1(y) equal to when x*y < 1? A. tan^-1((x - y) / (1 + xy)) B. tan^-1((x + y) / (1 - x*y)) C. pi + tan^-1((x+y)/(1-xy)) D. tan^-1(x + y) Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is 2 * tan^-1(x) in terms of sin^-1? A. sin^-1(2x / (1 - x^2)) B. sin^-1(2x / (1 + x^2)) C. cos^-1((1 - x^2)/(1 + x^2)) D. tan^-1(2x) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is 2 * tan^-1(x) in terms of cos^-1 (for x >= 0)? A. cos^-1(2x / (1+x^2)) B. cos^-1((1 - x^2) / (1 + x^2)) C. sin^-1((1-x^2)/(1+x^2)) D. tan^-1(x^2) Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the general solution of the trigonometric equation sin(theta) = 0? A. theta = 2n*pi B. theta = n * pi (where n is an integer) C. theta = (2n + 1)*pi/2 D. theta = n*pi/2 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the general solution of cos(theta) = 0? A. theta = n*pi B. theta = (2n + 1) * (pi / 2) C. theta = 2n*pi D. theta = n*pi/4 Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the general solution of tan(theta) = 0? A. theta = 2n*pi B. theta = n * pi C. theta = (2n+1)*pi/2 D. theta = 0 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the general solution of sin(theta) = sin(alpha)? A. theta = 2n*pi +/- alpha B. theta = n * pi + (-1)^n * alpha C. theta = n*pi +/- alpha D. theta = 2n*pi + alpha Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the general solution of cos(theta) = cos(alpha)? A. theta = n*pi + (-1)^n * alpha B. theta = 2n * pi +/- alpha C. theta = n*pi +/- alpha D. theta = 2n*pi Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the general solution of tan(theta) = tan(alpha)? A. theta = 2n*pi + alpha B. theta = n * pi + alpha C. theta = n*pi +/- alpha D. theta = 2n*pi +/- alpha Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the value of sin^-1(sin(2*pi / 3))? A. 2*pi / 3 B. pi / 3 (since 2pi/3 is outside [-pi/2, pi/2], sin(2pi/3) = sin(pi/3)) C. -pi / 3 D. pi / 6 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the value of tan^-1(1) + tan^-1(2) + tan^-1(3)? A. pi / 2 B. pi C. 2*pi D. 0 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the principal value of cos^-1(-1/2)? A. -pi / 3 B. 2*pi / 3 (since cos(2pi/3) = -1/2 in [0, pi]) C. pi / 3 D. 4*pi / 3 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the general solution of sin^2(theta) = sin^2(alpha)? A. theta = 2n*pi +/- alpha B. theta = n * pi +/- alpha C. theta = n*pi + (-1)^n * alpha D. theta = n*pi Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the value of sin(2 * sin^-1(0.6))? A. 0.6 B. 0.96 (2 * 0.6 * 0.8 = 0.96) C. 1.2 D. 0.8 Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -549,11 +1773,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "For a body in rotational equilibrium, the net moment is: A. Maximum B. Zero C. Equal to mass D. Always positive Answer: B"
+            "content": "What does Lami's theorem state for three coplanar forces P, Q, R in equilibrium at a point? A. P + Q + R = 0 B. P / sin(alpha) = Q / sin(beta) = R / sin(gamma) (where alpha, beta, gamma are angles between other pairs) C. P*sin alpha = Q*sin beta D. P^2 + Q^2 = R^2 Answer: B"
           },
           {
             "number": 2,
-            "content": "The SI unit of moment of force is: A. N B. N m C. J/s D. Pa Answer: B"
+            "content": "What is the condition of equilibrium for three coplanar forces according to triangle law of forces? A. Forces must be parallel B. Forces must be represented in magnitude and direction by the sides of a closed triangle taken in order C. Forces must be collinear D. Forces must be perpendicular Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the resultant R of two like parallel forces P and Q acting at distance d apart? A. P - Q B. P + Q (acting parallel in the same direction at distance from P: x = Q*d / (P+Q)) C. sqrt(P^2 + Q^2) D. P * Q Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the resultant of two unlike parallel forces P and Q (P > Q)? A. P + Q B. P - Q (acting in direction of P, outside the line segment) C. P * Q D. 0 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is a couple in mechanics? A. Two equal and like parallel forces B. Two equal, opposite, non-collinear parallel forces C. Two perpendicular forces D. Single force Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the moment of a couple (torque)? A. Force + arm B. Magnitude of either force * perpendicular distance between their lines of action (arm of couple) C. Force / arm D. Zero Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "Can a couple be equilibrated by a single force? A. Yes, if force is large B. No, a couple can only be balanced by another couple of equal and opposite moment C. Always D. Depends on friction Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "According to Varignon's Theorem of moments, the algebraic sum of moments of two coplanar forces about any point equals: A. Zero B. The moment of their resultant about that same point C. Product of moments D. Sum of forces Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What are the conditions of equilibrium for a system of coplanar forces? A. sum Fx = 0, sum Fy = 0, and sum M = 0 (sum of moments about any point is zero) B. sum Fx = 0 only C. sum M = 0 only D. sum Fx = sum Fy Answer: A"
+          },
+          {
+            "number": 10,
+            "content": "If three forces acting on a rigid body keep it in equilibrium, their lines of action must be: A. Skew lines B. Either all parallel or all concurrent at a single point C. Mutually perpendicular D. Closed loop Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the angle of friction lambda defined as (where mu is coefficient of static friction)? A. sin lambda = mu B. tan lambda = mu (or lambda = tan^-1(mu)) C. cos lambda = mu D. lambda = mu Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the angle of repose theta_r of an inclined plane? A. Angle where body accelerates B. Maximum inclination of plane with horizontal at which a body placed on it remains at rest without slipping (theta_r = lambda) C. 90° D. 45° always Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the center of gravity (CG) of a uniform solid triangular lamina (plate)? A. Orthocenter B. Centroid (intersection of medians, at height h/3 from base) C. Circumcenter D. Incenter Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "Where is the center of gravity of a uniform solid cone of height h from its base? A. h / 2 B. h / 4 (at height h/4 from base on central axis) C. h / 3 D. 2h / 3 Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "Where is the center of gravity of a solid hemisphere of radius r from its flat base? A. r / 2 B. 3r / 8 C. 4r / (3*pi) D. r / 3 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Where is the center of gravity of a uniform thin hemispherical shell of radius r from base? A. 3r / 8 B. r / 2 C. 4r / (3*pi) D. 2r / 3 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is stable equilibrium of a body? A. Body does not move when pushed B. When slightly displaced, forces and moments tend to restore it to original position (potential energy is minimum) C. Potential energy is maximum D. Neutral position Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "In unstable equilibrium, what is the nature of the potential energy of the body? A. Minimum B. Maximum (slight displacement causes it to move further away) C. Zero D. Negative Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "In neutral equilibrium (e.g. A sphere on a flat table), what is the potential energy when displaced? A. Increases B. Remains constant at all positions C. Decreases D. Zero always Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Two forces of magnitudes 3 N and 5 N act on a particle at 60°. What is their resultant R? A. 8 N B. 7 N (sqrt(9 + 25 + 2*3*5*cos 60°) = sqrt(34 + 15) = sqrt(49) = 7 N) C. sqrt(34) N D. 2 N Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant."
@@ -579,11 +1875,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "At the highest point of projectile motion, vertical velocity is: A. u sinθ B. Zero C. g D. u cosθ Answer: B"
+            "content": "A particle moves in a straight line with uniform acceleration f. What is displacement s after time t? A. s = ut + ft B. s = ut + (1/2) * f * t^2 C. s = (1/2) f t^2 D. s = u t^2 Answer: B"
           },
           {
             "number": 2,
-            "content": "The horizontal acceleration of an ideal projectile is: A. g B. −g C. Zero D. Variable Answer: C"
+            "content": "What is the distance traveled in the nth second by a particle with initial velocity u and acceleration f? A. s_n = u + f * n B. s_n = u + (1/2) * f * (2n - 1) C. s_n = u + (1/2) f n^2 D. s_n = (2n - 1) f Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "A body is projected vertically upwards with speed u. What is the maximum height H reached (g = acceleration due to gravity)? A. u / 2g B. H = u^2 / (2g) C. 2u^2 / g D. u^2 / g Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the total time of flight T for a body projected vertically upward with speed u? A. u / g B. T = 2u / g C. u^2 / 2g D. sqrt(2u / g) Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "A body projected vertically upwards takes time t1 to reach height h on its way up and t2 on its way down. What is h? A. (1/2) g (t1 + t2) B. (1/2) * g * t1 * t2 C. g * t1 * t2 D. sqrt(t1 * t2) Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the total time of flight (t1 + t2) for the body projected vertically upward? A. 2u / g B. t1 + t2 = 2u / g C. u / g D. sqrt(2h / g) Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the equation of the trajectory of a projectile launched with speed u at angle alpha? A. y = x * sin alpha - (g*x^2)/(2u^2) B. y = x * tan alpha - (g * x^2) / (2 * u^2 * cos^2 alpha) C. y = x * tan alpha + g*x^2 D. y = x^2 / (2u^2) Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the horizontal range R of a projectile launched at angle alpha with speed u? A. u^2 * sin alpha / g B. R = (u^2 * sin(2*alpha)) / g C. u^2 * cos(2*alpha) / g D. 2u^2 * sin alpha / g Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the maximum horizontal range R_max achievable with speed u? A. u^2 / 2g B. R_max = u^2 / g (at launch angle alpha = 45°) C. 2u^2 / g D. u / g Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the relation between maximum height H and maximum horizontal range R_max (at 45°)? A. H = R_max B. H = R_max / 4 (since H = u^2/4g and R_max = u^2/g) C. H = R_max / 2 D. H = 2 * R_max Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the velocity v of a projectile at its highest point? A. Zero B. v = u * cos alpha (only horizontal component remains) C. u * sin alpha D. u Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "At what angle of projection is the horizontal range R equal to the maximum height H? A. 45° B. alpha = tan^-1(4) (~76°) C. 60° D. 30° Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the time of flight T of a projectile launched on an inclined plane of slope beta with angle alpha to horizontal? A. 2u sin(alpha - beta) / (g cos beta) B. 2u sin alpha / g C. 2u cos alpha / g D. u^2 / g Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "In relative motion, what is the velocity of body A relative to body B (v_AB)? A. v_A + v_B B. v_A - v_B C. v_B - v_A D. v_A * v_B Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "A rain drop falls vertically at 4 m/s and a person walks horizontally at 3 m/s. What is the apparent speed of rain felt by person? A. 1 m/s B. 5 m/s (sqrt(4^2 + 3^2) = 5 m/s) C. 7 m/s D. 12 m/s Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "At what angle with the vertical must the person hold their umbrella to protect from rain? A. tan^-1(4/3) B. tan^-1(3/4) (~37° inclined forward) C. 45° D. 90° Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the tangential acceleration a_t in non-uniform circular motion (speed v, radius r)? A. v^2 / r B. a_t = dv / dt C. omega^2 * r D. 0 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the total acceleration a in non-uniform circular motion? A. a_t + a_c B. a = sqrt(a_t^2 + a_c^2) (where a_c = v^2/r) C. a_t * a_c D. a_c - a_t Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Two particles are projected simultaneously from the same point with equal speeds at complementary angles alpha and (90° - alpha). Their times of flight t1 and t2 satisfy: A. t1 = t2 B. t1 / t2 = tan alpha C. t1 * t2 = 2R / g D. Both B and C are correct Answer: D"
+          },
+          {
+            "number": 20,
+            "content": "A stone dropped from a balloon rising vertically with speed u at height h hits the ground with initial velocity: A. 0 B. u upwards (kinematics: -h = ut - (1/2)gt^2) C. u downwards D. 2u Answer: B"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 15"
@@ -609,11 +1977,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The range of 2, 4, 9, 10 is: A. 6 B. 7 C. 8 D. 12 Answer: C"
+            "content": "Which measure of central tendency is affected most by extreme values (outliers)? A. Median B. Arithmetic Mean (AM) C. Mode D. Geometric Mean Answer: B"
           },
           {
             "number": 2,
-            "content": "For independent events A and B: A. P(A∩B)=P(A)+P(B) B. P(A∩B)=P(A)P(B) C. P(A)=P(B) D. P(A∪B)=0 Answer: B"
+            "content": "What is the median of an ordered dataset of n observations when n is odd? A. Observation at (n/2) B. Observation at ((n + 1) / 2)th position C. (n + 1) / 2 D. Average of all Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the mode of a dataset? A. The arithmetic average B. The value that occurs with greatest frequency C. The middle value D. Highest value minus lowest Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the empirical relation between Mean, Median, and Mode for moderately skewed distribution? A. Mean - Mode = Median B. Mode = 3 * Median - 2 * Mean C. Median = 3 * Mode - 2 * Mean D. Mode = 2 * Median - Mean Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is range in measures of dispersion? A. Variance B. Difference between the maximum and minimum observations (Range = X_max - X_min) C. Standard deviation D. Mean deviation Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the variance sigma^2 formula for n observations x1, x2... xn with mean x_bar? A. sum (xi - x_bar) / n B. sigma^2 = (1 / n) * sum (xi - x_bar)^2 = (1/n) sum xi^2 - (x_bar)^2 C. sqrt(sum xi^2) D. sum xi / n Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is standard deviation (sigma)? A. Variance squared B. Positive square root of variance (sigma = sqrt(Variance)) C. Mean deviation D. Range / 2 Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the coefficient of variation (CV) used to compare dispersion of two datasets? A. (Mean / SD) * 100 B. CV = (Standard Deviation / Mean) * 100 = (sigma / x_bar) * 100 C. Variance * 100 D. SD * Mean Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "If all observations in a dataset are increased by a constant c (y = x + c), what happens to variance and standard deviation? A. Increases by c B. Remains completely unchanged (variance is independent of change of origin) C. Multiplied by c D. Becomes zero Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "If all observations are multiplied by a constant c (y = c * x), what is the new standard deviation? A. sigma_x B. |c| * sigma_x (variance is multiplied by c^2) C. c^2 * sigma_x D. sigma_x / c Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the sum of deviations of all observations from their arithmetic mean (sum (xi - x_bar))? A. n B. Zero (always 0 by definition of mean) C. 1 D. Variance Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the classical definition of probability P(A) of an event A with m favorable outcomes and n total equally likely outcomes? A. P(A) = n / m B. P(A) = m / n (where 0 <= P(A) <= 1) C. P(A) = m * n D. P(A) = m + n Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the probability of the sure (certain) event S and impossible event phi? A. P(S) = 0, P(phi) = 1 B. P(S) = 1, P(phi) = 0 C. P(S) = 0.5, P(phi) = 0.5 D. P(S) = infinity Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "For any event A, what is P(A) + P(A') (where A' is the complementary event)? A. 0 B. 1 C. 2 D. P(A) Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the addition rule of probability for any two events A and B? A. P(A U B) = P(A) + P(B) B. P(A U B) = P(A) + P(B) - P(A cap B) C. P(A U B) = P(A) * P(B) D. P(A U B) = P(A) / P(B) Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Two events A and B are mutually exclusive (disjoint) if and only if: A. P(A) = P(B) B. P(A cap B) = 0 (they cannot occur simultaneously) C. P(A cap B) = P(A)*P(B) D. A = B Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "Two events A and B are statistically independent if and only if: A. P(A cap B) = 0 B. P(A cap B) = P(A) * P(B) C. P(A U B) = 1 D. P(A) + P(B) = 1 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the conditional probability P(A | B) of event A given that event B has occurred (P(B) > 0)? A. P(A) / P(B) B. P(A cap B) / P(B) C. P(A U B) / P(B) D. P(A) * P(B) Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the probability of getting an even number or a prime number in a single roll of an unbiased six-sided die? A. 3/6 B. 5/6 (events: {2, 3, 4, 5, 6} out of {1, 2, 3, 4, 5, 6}) C. 4/6 D. 1 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "In a binomial probability distribution with n trials and success probability p, what are the mean and variance? A. Mean = n*p, Variance = n*p*q (where q = 1 - p) B. Mean = n/p, Variance = n*p C. Mean = p, Variance = p*q D. Mean = n*p, Variance = sqrt(n*p*q) Answer: A"
           }
         ],
         "answer_tip": "Exam tip: State the formula or theorem, show the substitution and algebraic steps, and include units or domain restrictions where relevant. Bangladesh HSC Higher Mathematics | First & Second Paper Page 16 Final Revision Checklist • Can I state and apply the key formulae in every chapter? • Can I solve standard problems without looking at worked examples? • Have I checked algebraic steps, signs, brackets and arithmetic? • Have I checked domains, excluded values and interval restrictions? • Can I explain why a theorem or method applies? • Have I practised both MCQs and longer creative/problem-solving questions? • Have I checked the latest examination syllabus and practical requirements? Syllabus note Chapter titles and paper structure were checked against publicly available Bangladesh HSC Higher Mathematics syllabus outlines, including a 2027 school syllabus document and current chapter lists. Exact topic coverage, exercise selection, practical requirements and examination-year changes should be confirmed from the NCTB-prescribed textbooks and official notices from the relevant college and education board. Bangladesh HSC Higher Mathematics | First & Second Paper Page 17"

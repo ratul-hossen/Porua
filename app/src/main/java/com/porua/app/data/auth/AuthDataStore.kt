@@ -63,7 +63,7 @@ class AuthDataStore(private val context: Context) {
                 name = prefs[KEY_USER_NAME] ?: "",
                 emailOrPhone = prefs[KEY_EMAIL_OR_PHONE] ?: "",
                 group = prefs[KEY_GROUP] ?: "Science",
-                hscClass = prefs[KEY_HSC_CLASS] ?: "Class 11"
+                hscClass = prefs[KEY_HSC_CLASS] ?: "HSC"
             )
         } else {
             null

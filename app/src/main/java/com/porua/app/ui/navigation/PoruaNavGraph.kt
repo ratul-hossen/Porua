@@ -210,10 +210,39 @@ fun PoruaNavGraph(
             PracticeHubScreen(
                 uiState = uiState,
                 onNavigateBottom = navigateBottom,
-                onSubjectClick = { sub -> navController.navigate(Screen.Chapters.route) },
+                onSubjectClick = { sub ->
+                    val resolvedSubjectId = when (sub.id) {
+                        "chem" -> "chemistry"
+                        "phy" -> "physics"
+                        "math" -> "higher_mathematics"
+                        "bio" -> "biology"
+                        "eng" -> "english"
+                        "ict" -> "ict"
+                        "acc" -> "accounting"
+                        "econ" -> "economics"
+                        "civ" -> "civics"
+                        "hist" -> "history"
+                        "fin" -> "finance_banking"
+                        "bus" -> "business_organization"
+                        else -> sub.id
+                    }
+                    contentViewModel.loadChapters(resolvedSubjectId, sub.name)
+                    navController.navigate(
+                        Screen.ContentChapters.createRoute(resolvedSubjectId, sub.name)
+                    )
+                },
                 onSmartMixClick = {
                     val defaultSub = uiState.subjects.firstOrNull()?.id ?: "physics"
-                    navController.navigate(Screen.Quiz.createRoute(defaultSub))
+                    val resolvedId = when (defaultSub) {
+                        "chem" -> "chemistry"
+                        "phy" -> "physics"
+                        "math" -> "higher_mathematics"
+                        "bio" -> "biology"
+                        "eng" -> "english"
+                        "ict" -> "ict"
+                        else -> defaultSub
+                    }
+                    navController.navigate(Screen.Quiz.createRoute(resolvedId))
                 },
                 onReviewDueClick = { navController.navigate(Screen.Question.route) },
                 onPracticeWithAiClick = { navController.navigate(Screen.AskPorua.route) },
@@ -223,12 +252,35 @@ fun PoruaNavGraph(
 
         // 08 · Chapters
         composable(Screen.Chapters.route) {
-            ChaptersScreen(
-                subjectTitle = "Chemistry • 2nd paper",
-                chapters = uiState.currentSubjectChapters,
+            val defaultSub = uiState.subjects.firstOrNull()?.id ?: "physics"
+            val defaultName = uiState.subjects.firstOrNull()?.name ?: "Physics"
+            val resolvedId = when (defaultSub) {
+                "chem" -> "chemistry"
+                "phy" -> "physics"
+                "math" -> "higher_mathematics"
+                "bio" -> "biology"
+                "eng" -> "english"
+                "ict" -> "ict"
+                else -> defaultSub
+            }
+            LaunchedEffect(resolvedId) {
+                contentViewModel.loadChapters(resolvedId, defaultName)
+            }
+            ContentChaptersScreen(
+                subjectName = defaultName,
+                chapters = contentState.chapters,
                 onBack = { navController.popBackStack() },
-                onChapterClick = { chapter ->
-                    navController.navigate(Screen.Quiz.createRoute("chemistry", chapter.chapterNumber))
+                onChapterClick = { chapter, mode ->
+                    val idx = contentState.chapters.indexOf(chapter)
+                    if (mode == "mcq") {
+                        navController.navigate(
+                            Screen.Quiz.createRoute(resolvedId, chapterNumber = chapter.chapterNumber, chapterIndex = idx)
+                        )
+                    } else {
+                        navController.navigate(
+                            Screen.ContentPractice.createRoute(resolvedId, idx, mode)
+                        )
+                    }
                 }
             )
         }
@@ -405,12 +457,12 @@ fun PoruaNavGraph(
                 chapters = contentState.chapters,
                 onBack = { navController.popBackStack() },
                 onChapterClick = { chapter, mode ->
+                    val idx = contentState.chapters.indexOf(chapter)
                     if (mode == "mcq") {
                         navController.navigate(
-                            Screen.Quiz.createRoute(subjectId, chapter.chapterNumber)
+                            Screen.Quiz.createRoute(subjectId, chapterNumber = chapter.chapterNumber, chapterIndex = idx)
                         )
                     } else {
-                        val idx = contentState.chapters.indexOf(chapter)
                         navController.navigate(
                             Screen.ContentPractice.createRoute(subjectId, idx, mode)
                         )
@@ -448,17 +500,23 @@ fun PoruaNavGraph(
                 navArgument("chapterNumber") {
                     type = NavType.IntType
                     defaultValue = -1
+                },
+                navArgument("chapterIndex") {
+                    type = NavType.IntType
+                    defaultValue = -1
                 }
             )
         ) { backStackEntry ->
             val subjectId = backStackEntry.arguments?.getString("subjectId") ?: "physics"
             val chNum = backStackEntry.arguments?.getInt("chapterNumber")?.takeIf { it != -1 }
+            val rawIdx = backStackEntry.arguments?.getInt("chapterIndex") ?: -1
+            val chIdx = if (rawIdx >= 0) rawIdx else null
             val app = context.applicationContext as PoruaApplication
             val quizViewModel: QuizViewModel = composeViewModel(
                 factory = QuizViewModelFactory(context, app.repository)
             )
-            LaunchedEffect(subjectId, chNum) {
-                quizViewModel.startQuiz(subjectId, chNum)
+            LaunchedEffect(subjectId, chNum, chIdx) {
+                quizViewModel.startQuiz(subjectId, chapterNumber = chNum, chapterIndex = chIdx)
             }
             QuizScreen(
                 viewModel = quizViewModel,

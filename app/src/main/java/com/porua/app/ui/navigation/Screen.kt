@@ -34,8 +34,12 @@ sealed class Screen(val route: String) {
     }
 
     // ── Coursera-Style 20-Question MCQ Quiz ──────────────────────────────────
-    object Quiz : Screen("quiz/{subjectId}?chapterNumber={chapterNumber}") {
-        fun createRoute(subjectId: String, chapterNumber: Int? = null) =
-            if (chapterNumber != null) "quiz/$subjectId?chapterNumber=$chapterNumber" else "quiz/$subjectId"
+    object Quiz : Screen("quiz/{subjectId}?chapterNumber={chapterNumber}&chapterIndex={chapterIndex}") {
+        fun createRoute(subjectId: String, chapterNumber: Int? = null, chapterIndex: Int? = null): String {
+            val params = mutableListOf<String>()
+            if (chapterNumber != null) params.add("chapterNumber=$chapterNumber")
+            if (chapterIndex != null) params.add("chapterIndex=$chapterIndex")
+            return if (params.isNotEmpty()) "quiz/$subjectId?${params.joinToString("&")}" else "quiz/$subjectId"
+        }
     }
 }

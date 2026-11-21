@@ -51,11 +51,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Which item protects the eyes from chemical splashes? A. Sandals B. Safety goggles C. Paper towel D. Cotton cap Answer: B"
+            "content": "Which equipment protects the eyes from chemical splashes? A. Face shield B. Safety goggles C. Microscope D. Sunglasses Answer: B"
           },
           {
             "number": 2,
-            "content": "When diluting concentrated acid, one should: A. Add water rapidly to acid B. Add acid slowly to water C. Heat the acid D. Shake in a closed bottle Answer: B"
+            "content": "Which substance neutralizes acid burns on skin safely? A. Conc. NaOH B. 5% NaHCO3 solution C. Ethanol D. Conc. HCl Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "When diluting concentrated H2SO4, what is the standard protocol? A. Add water rapidly to acid B. Add acid slowly to water with constant stirring C. Boil the acid first D. Mix both together at once Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "Which gas cylinder is color-coded black in laboratories? A. Oxygen B. Nitrogen C. Acetylene D. Hydrogen Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "Which primary standard substance is used for acid-base titration? A. NaOH B. Anhydrous Na2CO3 C. HCl D. KMnO4 Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the hazard symbol for flammable substances? A. Skull and crossbones B. Flame symbol C. Corrosive tube D. Trefoil Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "Which glass apparatus is designed to deliver exact volumes of liquid in titrations? A. Beaker B. Burette C. Conical flask D. Reagent bottle Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What should be done first if a chemical enters the eye? A. Rub vigorously B. Rinse with clean water for at least 15 minutes C. Apply petroleum jelly D. Bandage immediately Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "Which substance is a secondary standard substance? A. Oxalic acid B. Sodium hydroxide (NaOH) C. K2Cr2O7 D. Succinic acid Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is used in a desiccator as a drying agent? A. Liquid water B. Anhydrous CaCl2 or silica gel C. Sodium chloride D. Glucose Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Semi-micro qualitative analysis uses what sample amount? A. 0.5 to 1.0 g B. 0.05 to 0.1 g (50-100 mg) C. 10 to 20 g D. Less than 1 mg Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the safest way to smell vapors from a test tube? A. Place nose directly over the mouth B. Waft vapor gently toward nose with hand C. Inhale deeply D. Heat strongly first Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Which burner produces a non-luminous, oxidizing flame? A. Bunsen burner with air holes open B. Candle C. Spirit lamp with closed wick D. Kerosene stove Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "Which balance provides precision up to 4 decimal places (0.0001 g)? A. Rough top-pan balance B. Analytical balance C. Spring balance D. Triple beam balance Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "How should broken glass contaminated with chemicals be disposed of? A. In normal waste bin B. In designated sharps chemical waste box C. Washed down the sink D. Burned Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Which chemical is an oxidizing agent hazard? A. Hydrogen gas B. Potassium dichromate (K2Cr2O7) C. Methane D. Ethanol Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the pH of a 5% sodium bicarbonate solution used for acid splashes? A. Highly acidic (~1) B. Mildly basic (~8.3) C. Neutral (7.0) D. Strongly basic (14.0) Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Which pipette delivers only one fixed volume accurately? A. Graduated pipette B. Volumetric (transfer) pipette C. Dropper D. Pasteur pipette Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What type of apron material is safest for chemical laboratories? A. Pure nylon B. 100% Cotton lab coat C. Silk D. Polyester fleece Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What does the trefoil radiation symbol indicate? A. Biological hazard B. Radioactive material C. Explosive chemical D. Corrosive acid Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion."
@@ -94,11 +166,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The maximum number of electrons in one orbital is: A. 1 B. 2 C. 6 D. 10 Answer: B"
+            "content": "Who proposed that electrons revolve in stationary orbits with fixed angular momentum? A. J.J. Thomson B. Niels Bohr C. Ernest Rutherford D. John Dalton Answer: B"
           },
           {
             "number": 2,
-            "content": "For AgCl, the solubility-product expression is: A. [Ag+] + [Cl−] B. [Ag+][Cl−] C. [Ag+]²[Cl−] D. [AgCl] Answer: B Bangladesh HSC Chemistry | First & Second Paper Page 5"
+            "content": "What is the formula for the orbital angular momentum of an electron in Bohr model? A. mvr = nh / (2*pi) B. mvr = h / (2*pi*n) C. mvr = 2*pi / (nh) D. mvr = nh*pi Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "Which quantum number determines the shape of an orbital? A. Principal (n) B. Azimuthal / Subsidiary (l) C. Magnetic (m) D. Spin (s) Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "For principal quantum number n = 3, what are the possible values of azimuthal quantum number l? A. 1, 2, 3 B. 0, 1, 2 C. 0, 1 D. -1, 0, +1 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the maximum number of electrons that can be accommodated in an orbital? A. 1 B. 2 C. 6 D. 10 Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "Which principle states that no two electrons in an atom can have the same four quantum numbers? A. Aufbau principle B. Pauli exclusion principle C. Hund rule D. Heisenberg uncertainty principle Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "According to Aufbau principle, which orbital fills first between 4s and 3d? A. 3d (higher energy) B. 4s (lower energy, n+l = 4) C. Both fill simultaneously D. Depends on temperature Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What color does barium (Ba2+) impart to the non-luminous Bunsen flame? A. Golden yellow B. Apple green C. Crimson red D. Lilac (violet) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What color does sodium (Na+) impart to the flame test? A. Brick red B. Golden yellow C. Apple green D. Crimson red Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "Which reagent is used to detect ammonium (NH4+) ion producing a brown precipitate? A. Fehling solution B. Nessler reagent (K2[HgI4]) C. Tollens reagent D. Lucas reagent Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Which spectral series of hydrogen atom lies in the visible region? A. Lyman series B. Balmer series C. Paschen series D. Brackett series Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "The Lyman series of hydrogen atom falls in which region of electromagnetic spectrum? A. Infrared B. Ultraviolet (UV) C. Visible D. X-ray Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the relationship between wavelength (lambda) and frequency (nu) of light? A. c = nu * lambda B. c = nu / lambda C. lambda = c * nu D. nu = c * lambda^2 Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "Which separation technique is based on difference in partition coefficient between two phases? A. Distillation B. Chromatography C. Crystallization D. Filtration Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "In paper chromatography, what represents the stationary phase? A. Water adsorbed on paper fibers B. Organic solvent C. Developing chamber air D. Pencil line Answer: A"
+          },
+          {
+            "number": 16,
+            "content": "What is the Rf value formula in chromatography? A. Distance traveled by solvent / distance by solute B. Distance traveled by solute / distance traveled by solvent front C. Solute mass / Solvent mass D. Total distance * 100 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "A precipitate forms when ionic product (IP) and solubility product (Ksp) relate as: A. IP < Ksp B. IP > Ksp C. IP = Ksp D. IP = 0 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the solubility product expression for sparingly soluble salt AgCl (solubility S)? A. Ksp = S B. Ksp = S^2 C. Ksp = 4S^3 D. Ksp = 27S^4 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the common ion effect on the solubility of a sparingly soluble salt? A. Increases solubility B. Suppresses / decreases solubility C. No effect D. Changes solubility product Ksp Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Which reagent gives a white curdy precipitate with Cl- ion, soluble in dilute NH4OH? A. BaCl2 B. AgNO3 C. FeSO4 D. K2CrO4 Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion."
@@ -136,11 +280,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The shape of a methane molecule is: A. Linear B. Trigonal planar C. Tetrahedral D. Bent Answer: C"
+            "content": "The modern periodic law states that physical and chemical properties of elements are periodic functions of their: A. Atomic mass B. Atomic number C. Neutron number D. Mass number Answer: B"
           },
           {
             "number": 2,
-            "content": "Which bond involves donation of both shared electrons by one atom? A. Ionic B. Coordinate covalent C. Metallic D. Hydrogen Answer: B"
+            "content": "Across a period from left to right, what happens to atomic radius? A. Increases B. Decreases C. Remains constant D. First decreases then increases Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Down a group from top to bottom, what happens to ionization energy? A. Increases B. Decreases C. Remains constant D. Becomes zero Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "Which element in the periodic table has the highest electronegativity (Pauling scale 4.0)? A. Chlorine B. Fluorine C. Oxygen D. Nitrogen Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "Which element has the highest electron affinity in the periodic table? A. Fluorine B. Chlorine C. Bromine D. Iodine Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the hybridization and bond angle in a methane (CH4) molecule? A. sp2, 120° B. sp3, 109.5° (109°28') C. sp, 180° D. dsp2, 90° Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the geometry and bond angle of a water (H2O) molecule? A. Linear, 180° B. Bent / V-shaped, 104.5° C. Trigonal planar, 120° D. Tetrahedral, 109.5° Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Why is the bond angle in ammonia (NH3) 107° instead of 109.5°? A. Due to two lone pairs B. Due to one lone pair - bond pair repulsion C. Due to empty d-orbitals D. Due to hydrogen bonding Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "According to Fajan's rules, covalent character in an ionic bond increases with: A. Large cation and small anion B. Small cation and large, easily polarizable anion C. Low cation charge D. Large cation and high ionic radius Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "Which molecule exhibits intramolecular hydrogen bonding? A. Water B. o-Nitrophenol C. p-Nitrophenol D. Ethanol Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Which of the following compounds has the highest boiling point due to intermolecular hydrogen bonding? A. H2S B. H2O C. H2Se D. H2Te Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the hybridization of carbon in ethylene (C2H4)? A. sp3 B. sp2 C. sp D. dsp2 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the hybridization of carbon in acetylene (C2H2)? A. sp3 B. sp2 C. sp D. sp3d Answer: C"
+          },
+          {
+            "number": 14,
+            "content": "How many sigma and pi bonds are present in an ethyne (acetylene) molecule? A. 3 sigma, 2 pi B. 2 sigma, 3 pi C. 4 sigma, 1 pi D. 5 sigma, 0 pi Answer: A"
+          },
+          {
+            "number": 15,
+            "content": "Which transition metal ion is colorless in aqueous solution? A. Cu2+ B. Zn2+ (d10 configuration) C. Fe3+ D. Ni2+ Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Why do transition metals form colored compounds? A. s-s transition B. d-d electron transition C. p-d transition D. f-d transition Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What type of oxide is Al2O3 (aluminum oxide)? A. Acidic oxide B. Amphoteric oxide C. Basic oxide D. Neutral oxide Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Which element is a metalloid (semimetal)? A. Carbon B. Silicon (Si) C. Sulfur D. Argon Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the oxidation state of sulfur in H2SO4? A. +4 B. +6 C. +2 D. -2 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Which species is isoelectronic with Neon (Ne, 10 electrons)? A. Na+ (11-1 = 10) B. Mg+ (11 electrons) C. Cl- (18 electrons) D. K+ (18 electrons) Answer: A"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion."
@@ -179,11 +395,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "A catalyst changes the: A. Equilibrium constant B. Activation energy C. Enthalpy change D. Final equilibrium composition Answer: B"
+            "content": "According to Le Chatelier's principle, an increase in pressure on N2(g) + 3H2(g) <=> 2NH3(g) shifts equilibrium: A. To the left (reactants) B. To the right (towards fewer moles of gas) C. No effect D. Stops the reaction Answer: B"
           },
           {
             "number": 2,
-            "content": "For an exothermic forward reaction, increasing temperature shifts equilibrium: A. Forward B. Reverse C. No change D. Stops reaction Answer: B"
+            "content": "For the reaction PCl5(g) <=> PCl3(g) + Cl2(g), what is the relationship between Kp and Kc? A. Kp = Kc B. Kp = Kc * (RT) C. Kp = Kc * (RT)^(-1) D. Kp = Kc * (RT)^2 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the mathematical relation between Kp and Kc? A. Kp = Kc * (RT)^Delta_n B. Kc = Kp * (RT)^Delta_n C. Kp = Kc / (RT) D. Kp = Delta_n * Kc Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "For an exothermic reaction, what happens to the equilibrium constant (K) as temperature increases? A. Increases B. Decreases C. Remains constant D. Becomes zero Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the unit of rate constant (k) for a first-order reaction? A. mol L^-1 s^-1 B. s^-1 C. L mol^-1 s^-1 D. L^2 mol^-2 s^-1 Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the half-life (t_1/2) formula for a first-order reaction with rate constant k? A. t_1/2 = 0.693 / k B. t_1/2 = k / 0.693 C. t_1/2 = [A]0 / (2k) D. t_1/2 = 1 / (k[A]0) Answer: A"
+          },
+          {
+            "number": 7,
+            "content": "How does a positive catalyst increase the rate of a chemical reaction? A. Increases activation energy B. Lowers activation energy by providing alternative pathway C. Increases Delta H D. Changes equilibrium constant Kc Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the ionic product of water (Kw) at 25 °C? A. 1.0 * 10^-7 B. 1.0 * 10^-14 mol^2 L^-2 C. 1.0 * 10^-10 D. 7.0 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the pH of a 0.001 M HCl solution? A. 1 B. 3 C. 7 D. 11 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the pH of pure neutral water at 25 °C? A. 0 B. 7.0 C. 14.0 D. 1.0 * 10^-7 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the conjugate base of HSO4-? A. H2SO4 B. SO4^2- C. SO3^2- D. H+ Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What constitutes an acidic buffer solution? A. Strong acid + its salt B. Weak acid + its salt with a strong base (e.g., CH3COOH + CH3COONa) C. Strong base + its salt D. Weak base + strong acid Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the Henderson-Hasselbalch equation for an acidic buffer? A. pH = pKa + log([Salt] / [Acid]) B. pH = pKa - log([Salt] / [Acid]) C. pH = pKb + log([Acid] / [Salt]) D. pH = pKa * [Salt]/[Acid] Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "What is the normal physiological pH range of human blood? A. 6.0 to 6.5 B. 7.35 to 7.45 C. 8.0 to 8.5 D. 5.5 to 6.0 Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "Which buffer system is the primary extracellular buffer controlling human blood pH? A. Phosphate buffer B. Carbonic acid - bicarbonate (H2CO3 / HCO3-) buffer C. Protein buffer D. Hemoglobin buffer Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the Arrhenius equation connecting rate constant k and temperature T? A. k = A * e^(-Ea / RT) B. k = A * e^(Ea / RT) C. k = Ea / (RT) D. k = A * ln(Ea / RT) Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "For a zero-order reaction, the rate of reaction depends on: A. Reactant concentration B. Independent of reactant concentration C. Square of concentration D. Temperature only Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is Ostwald's dilution law for a weak monobasic acid (alpha << 1)? A. alpha = sqrt(Ka / C) B. alpha = Ka * C C. alpha = Ka / C^2 D. alpha = sqrt(Ka * C) Answer: A"
+          },
+          {
+            "number": 19,
+            "content": "What is the enthalpy change (Delta H) for the neutralization of any strong acid by a strong base? A. -57.34 kJ mol^-1 B. +57.34 kJ mol^-1 C. -13.7 kJ mol^-1 D. 0 kJ mol^-1 Answer: A"
+          },
+          {
+            "number": 20,
+            "content": "Why is the heat of neutralization of HF and NaOH slightly more exothermic (-68.6 kJ)? A. HF is strong acid B. High hydration enthalpy of small F- ion C. NaOH dissociates incompletely D. HF has low lattice energy Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion."
@@ -221,11 +509,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The process used to make soap from fats and alkali is: A. Polymerisation B. Saponification C. Neutralisation only D. Hydrogenation Answer: B"
+            "content": "What is vinegar chemically? A. 100% pure glacial acetic acid B. 4% to 8% aqueous solution of acetic acid (CH3COOH) C. 50% ethanol solution D. 10% formic acid Answer: B"
           },
           {
             "number": 2,
-            "content": "Which is an addition polymer? A. Polyethylene B. Nylon-6,6 C. Polyester D. Protein Answer: A"
+            "content": "Which chemical is used as a food preservative to inhibit yeast and mold in acidic foods? A. Sodium chloride B. Sodium benzoate C. Calcium carbide D. Formalin Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the toxic substance used illegally for artificial fruit ripening in Bangladesh? A. Vinegar B. Calcium carbide (producing impure acetylene) C. Citric acid D. Ascorbic acid Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "Formalin is an aqueous solution of what percentage of formaldehyde gas? A. 10% to 20% B. 37% to 40% C. 70% to 80% D. 100% Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "Which enzyme in milk converts lactose into lactic acid during curd formation? A. Zymase B. Lactase / Lactobacillus bacteria C. Invertase D. Diastase Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the primary natural preservative used in mango pickles? A. Mustard oil and salt B. Formalin C. Benzoic acid D. Copper sulfate Answer: A"
+          },
+          {
+            "number": 7,
+            "content": "What is the chemical name of table salt used in food preservation through osmosis? A. Sodium bicarbonate B. Sodium chloride (NaCl) C. Potassium chloride D. Calcium chloride Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Which substance acts as an antioxidant food preservative? A. BHT (Butylated hydroxytoluene) B. Sodium fluoride C. Ammonium nitrate D. Lead acetate Answer: A"
+          },
+          {
+            "number": 9,
+            "content": "What is the main cleansing agent in toilet cleaner? A. Sodium hydroxide (caustic soda) B. Sodium hydrogen sulfate or hydrochloric acid (acidic) C. Vinegar D. Alcohol Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the active component of glass cleaner? A. Concentrated sulfuric acid B. Liquor ammonia (aqueous NH3) and isopropanol C. Bleaching powder D. Sodium carbonate Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the chemical formula of bleaching powder? A. CaCl2 B. Ca(OCl)Cl / Ca(ClO)2 C. CaCO3 D. CaSO4 Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is cold cream primarily an emulsion of? A. Oil-in-water (O/W) B. Water-in-oil (W/O) C. Gas-in-liquid D. Solid-in-solid Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is vanishing cream primarily an emulsion of? A. Water-in-oil (W/O) B. Oil-in-water (O/W) C. Gas-in-solid D. Pure wax Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "Which humectant is added in cosmetics and lotions to retain moisture? A. Ethanol B. Glycerol (glycerin) C. Benzene D. Chloroform Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is talcum powder made of primarily? A. Calcium carbonate B. Hydrated magnesium silicate (talc) C. Zinc oxide D. Titanium dioxide Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Which toxic chemical in skin whitening creams poses severe health risks? A. Vitamin C B. Mercury (Hg) compounds C. Aloe vera D. Zinc oxide Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the function of EDTA in canned food preservation? A. Coloring agent B. Chelating / sequestering agent for metal ions C. Sweetener D. Flavor enhancer Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Which gas is used in packaging potato chips to prevent oxidative rancidity? A. Oxygen B. Nitrogen gas C. Carbon monoxide D. Chlorine Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What causes rancidity in fats and oils? A. Reduction B. Hydrolysis and oxidation of unsaturated fatty acids C. Esterification D. Polymerization Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Pasteurization of milk is carried out by heating milk to what temperature for 30 minutes? A. 100 °C B. 62.8 °C (63 °C) or 72 °C for 15 seconds (HTST) C. 40 °C D. 120 °C Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion. CHEMISTRY SECOND PAPER"
@@ -263,11 +623,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "A high BOD value usually indicates: A. Very pure water B. High biodegradable organic load C. No microorganisms D. High salinity only Answer: B"
+            "content": "Which layer of atmosphere is closest to Earth's surface and contains 75% of atmospheric mass? A. Stratosphere B. Troposphere C. Mesosphere D. Thermosphere Answer: B"
           },
           {
             "number": 2,
-            "content": "The ideal gas equation is: A. PV=nRT B. P/T=V C. PV=RT/n D. P=nV/RT Answer: A"
+            "content": "In which atmospheric layer is the protective ozone (O3) layer located? A. Troposphere B. Stratosphere C. Mesosphere D. Exosphere Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is Boyle's law relating pressure P and volume V at constant temperature? A. P * V = constant B. P / V = constant C. V / T = constant D. P / T = constant Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "What is Charles's law relating volume V and absolute temperature T at constant pressure? A. V * T = constant B. V / T = constant C. P * V = constant D. P / T = constant Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the value of molar gas constant R in SI units (J K^-1 mol^-1)? A. 0.0821 B. 8.314 J K^-1 mol^-1 C. 1.987 D. 62.36 Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the value of molar gas constant R in L atm K^-1 mol^-1? A. 8.314 B. 0.0821 L atm K^-1 mol^-1 C. 1.987 D. 8.314 * 10^7 Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What are standard temperature and pressure (STP) values? A. 0 °C (273.15 K) and 1 atm (101.325 kPa) B. 25 °C and 1 atm C. 0 °C and 1 bar D. 25 °C and 1 bar Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "What is the molar volume of an ideal gas at STP? A. 24.789 L B. 22.414 L C. 20.0 L D. 25.0 L Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the molar volume of an ideal gas at SATP (25 °C, 100 kPa)? A. 22.4 L B. 24.789 L C. 25.0 L D. 22.7 L Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "According to Graham's law, the rate of diffusion of a gas is inversely proportional to: A. Density B. Square root of its molar mass or density C. Absolute temperature D. Pressure Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Between CH4 (molar mass 16) and SO2 (molar mass 64), which diffuses faster and by how many times? A. SO2 by 2 times B. CH4 by 2 times (sqrt(64/16) = 2) C. Both diffuse at same rate D. CH4 by 4 times Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is Dalton's law of partial pressure formula for a gas mixture? A. P_total = p1 + p2 + p3 + ... B. P_total = p1 * p2 C. p_i = P_total / X_i D. P_total = nRT / V^2 Answer: A"
+          },
+          {
+            "number": 13,
+            "content": "In van der Waals equation (P + a*n^2/V^2)(V - nb) = nRT, what does constant 'a' correct for? A. Molecular volume B. Intermolecular attraction force C. Kinetic energy D. Temperature Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "In van der Waals equation, what does constant 'b' correct for? A. Intermolecular attraction B. Effective / excluded volume of gas molecules C. Pressure D. Number of moles Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the root mean square velocity (c_rms) formula for an ideal gas? A. sqrt(3RT / M) B. sqrt(8RT / (pi*M)) C. sqrt(2RT / M) D. 3RT / M Answer: A"
+          },
+          {
+            "number": 16,
+            "content": "Which greenhouse gas contributes the most to global warming? A. Methane (CH4) B. Carbon dioxide (CO2) C. CFC D. Nitrous oxide Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "Which free radical from CFCs catalytically destroys ozone molecules in stratosphere? A. Fluorine radical B. Chlorine free radical (Cl•) C. Carbon radical D. Hydrogen radical Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the acceptable pH range of unpolluted natural rainwater? A. 7.0 to 8.0 B. 5.6 to 6.5 (due to dissolved CO2 forming H2CO3) C. 3.0 to 4.0 D. 1.0 to 2.0 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Acid rain occurs when rainwater pH falls below what threshold? A. 7.0 B. 5.6 C. 4.0 D. 2.0 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What parameter measures the amount of oxygen required by aerobic microbes to decompose organic waste in water? A. COD B. BOD (Biochemical Oxygen Demand) C. TDS D. DO Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion."
@@ -306,11 +738,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The functional group of a carboxylic acid is: A. –OH B. –CHO C. –COOH D. –CO– Answer: C"
+            "content": "Who synthesized urea from inorganic ammonium cyanate, disproving the vital force theory? A. Lavoisier B. Friedrich Wöhler (1828) C. Berzelius D. Kekulé Answer: B"
           },
           {
             "number": 2,
-            "content": "Which compound decolourises bromine water under ordinary test conditions? A. Ethane B. Ethene C. Methane D. Benzene Answer: B Bangladesh HSC Chemistry | First & Second Paper Page 13"
+            "content": "What is the general formula for aliphatic alkanes? A. CnH2n B. CnH2n+2 C. CnH2n-2 D. CnH2n-6 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Which type of isomerism is shown by but-1-ene and but-2-ene? A. Chain isomerism B. Position isomerism C. Functional group isomerism D. Metamerism Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "Ethanol (CH3CH2OH) and dimethyl ether (CH3OCH3) are examples of: A. Position isomers B. Functional group isomers C. Tautomers D. Chain isomers Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What condition is required for geometrical (cis-trans) isomerism? A. Carbon-carbon triple bond B. Restricted rotation about C=C and two different groups on each carbon C. Chiral carbon atom D. Presence of nitrogen Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "A carbon atom bonded to four different atoms or groups is called: A. Anomeric carbon B. Chiral / Asymmetric carbon C. Primary carbon D. Carbocation Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "Non-superimposable mirror image stereoisomers are known as: A. Diastereomers B. Enantiomers C. Meso compounds D. Conformers Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "How many optical isomers exist for a compound with n non-identical chiral carbons? A. n B. 2^n C. 2n D. n^2 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "According to Markovnikov's rule, when HBr adds to propene, where does H+ attach? A. Carbon with fewer hydrogens B. Carbon with greater number of hydrogen atoms C. Equally to both carbons D. To Br atom Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What catalyst is used in Friedel-Crafts alkylation of benzene? A. Conc. H2SO4 B. Anhydrous AlCl3 (Lewis acid) C. FeSO4 D. Ni powder Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the electrophile in the nitration of benzene with conc. HNO3 + conc. H2SO4? A. NO2- B. Nitronium ion (NO2+) C. NO3- D. NO+ Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "Which group is an ortho/para-directing activating group on benzene ring? A. -NO2 B. -OH / -CH3 / -NH2 C. -COOH D. -CHO Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Which group is a meta-directing deactivating group on benzene ring? A. -CH3 B. -NO2 / -CHO / -COOH C. -OH D. -Cl Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "Lucas reagent (conc. HCl + anhydrous ZnCl2) distinguishes primary, secondary, and tertiary alcohols based on: A. Color change B. Rate of turbidity / cloudiness formation (3° immediate, 2° in 5 min, 1° only on heating) C. Gas evolution D. Precipitate dissolving Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "Which alcohol reacts immediately with Lucas reagent at room temperature? A. 1° Alcohol B. 3° (Tertiary) Alcohol C. 2° Alcohol D. Methanol Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Tollens' reagent (ammoniacal AgNO3) gives a silver mirror test with which functional group? A. Ketones B. Aldehydes (-CHO) C. Alcohols D. Ethers Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "Which reagent gives a red precipitate of Cu2O with aliphatic aldehydes? A. Lucas reagent B. Fehling's solution C. Baeyer's reagent D. Nessler's reagent Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "The haloform (iodoform) reaction gives a yellow precipitate of CHI3 with compounds having: A. Carboxylic acid group B. CH3-C=O or CH3-CH(OH)- group C. Alkene group D. Ester group Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the product when phenol is heated with zinc dust? A. Toluene B. Benzene C. Cyclohexane D. Benzoic acid Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Which polymer is made from hexamethylenediamine and adipic acid? A. Terylene B. Nylon-6,6 C. Bakelite D. Teflon Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion."
@@ -348,11 +852,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The unit of molar concentration is commonly: A. mol L−1 B. g mol−1 C. kg m−3 only D. mol g−1 Answer: A"
+            "content": "What is molarity (M) defined as? A. Moles of solute per kg of solvent B. Moles of solute per liter of solution C. Equivalents per liter D. Grams of solute per 100 g solvent Answer: B"
           },
           {
             "number": 2,
-            "content": "The reactant consumed first is called the: A. Catalyst B. Solvent C. Limiting reagent D. Product Answer: C"
+            "content": "What is molality (m) defined as? A. Moles of solute per liter of solution B. Moles of solute per kilogram of solvent C. Grams of solute per liter D. Volume of solute / Volume of solution Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Which concentration unit is temperature-independent? A. Molarity B. Molality and mole fraction (mass-based units) C. Normality D. Percentage weight/volume Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "How many molecules are present in 1 mole of any substance (Avogadro's number)? A. 6.022 * 10^22 B. 6.022 * 10^23 C. 6.022 * 10^24 D. 3.011 * 10^23 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What volume of 1 M HCl is required to neutralize 50 mL of 0.5 M NaOH? A. 50 mL B. 25 mL (V1S1 = V2S2) C. 100 mL D. 10 mL Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the oxidation number of Cr in K2Cr2O7? A. +3 B. +6 C. +7 D. +4 Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the oxidation number of Mn in KMnO4? A. +2 B. +7 C. +4 D. +6 Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "In acidic medium, how many electrons does one MnO4- ion gain upon reduction to Mn2+? A. 1 B. 5 C. 3 D. 7 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "In acidic medium, how many electrons are gained per Cr2O7^2- ion in redox titration? A. 3 B. 6 (each Cr changes from +6 to +3) C. 2 D. 1 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the primary indicator used in iodometric titration? A. Phenolphthalein B. Freshly prepared starch solution C. Methyl orange D. Litmus Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What color transition occurs at the end point of starch-iodine titration? A. Colorless to red B. Deep blue to colorless C. Yellow to green D. Red to blue Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "Which indicator is ideal for strong acid vs weak base titration? A. Phenolphthalein (pH 8.2-10) B. Methyl orange (pH 3.1-4.4) C. Litmus only D. Universal indicator Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Which indicator is ideal for weak acid vs strong base titration (e.g. CH3COOH vs NaOH)? A. Methyl orange B. Phenolphthalein C. Methyl red D. Bromothymol blue Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is Beer-Lambert's law relating absorbance A, molar absorptivity epsilon, path length b, and concentration c? A. A = epsilon * b * c B. A = epsilon / (b * c) C. A = log(c / b) D. A = b / (epsilon * c) Answer: A"
+          },
+          {
+            "number": 15,
+            "content": "What is ppm (parts per million) concentration in terms of mg/L in dilute aqueous solution? A. 1 ppm = 1 g/L B. 1 ppm = 1 mg/L C. 1 ppm = 1 microgram/L D. 1 ppm = 1 kg/L Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "How many grams of NaOH (molar mass 40 g/mol) are required to prepare 250 mL of 0.1 M solution? A. 10 g B. 1.0 g C. 4.0 g D. 0.25 g Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the percentage of purity formula for an impure sample? A. (Mass of pure substance / Total mass of impure sample) * 100 B. (Total mass / Pure mass) * 100 C. (Volume / Mass) * 100 D. Moles * 100 Answer: A"
+          },
+          {
+            "number": 18,
+            "content": "In the redox reaction 2Fe^2+ + Cl2 -> 2Fe^3+ + 2Cl^-, which species is oxidized? A. Cl2 B. Fe^2+ (loses an electron to become Fe^3+) C. Cl^- D. Fe^3+ Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the equivalent weight of KMnO4 in acidic medium (molecular weight M)? A. M / 1 B. M / 5 C. M / 3 D. M / 2 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the equivalent weight of oxalic acid dihydrate (H2C2O4.2H2O, MW = 126 g/mol)? A. 126 B. 63 g/equiv (126 / 2 basicity) C. 42 D. 252 Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion."
@@ -391,11 +967,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Reduction takes place at the: A. Anode B. Cathode C. Salt bridge D. Voltmeter Answer: B"
+            "content": "What is the standard potential of the Standard Hydrogen Electrode (SHE) at 25 °C? A. 1.00 V B. 0.00 V (by international convention) C. -0.76 V D. +0.34 V Answer: B"
           },
           {
             "number": 2,
-            "content": "The SI unit of electric charge is: A. Ampere B. Volt C. Coulomb D. Ohm Answer: C"
+            "content": "In an electrochemical galvanic cell, oxidation takes place at the: A. Cathode (positive pole) B. Anode (negative pole) C. Salt bridge D. Voltmeter Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "In an electrolytic cell, reduction takes place at the: A. Anode B. Cathode C. Power source D. Aqueous boundary Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the standard EMF of the Daniell cell (Zn | Zn2+ || Cu2+ | Cu) with E°(Zn2+/Zn) = -0.76 V and E°(Cu2+/Cu) = +0.34 V? A. 0.42 V B. 1.10 V (0.34 - (-0.76) = 1.10 V) C. -1.10 V D. 0.76 V Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the function of the salt bridge in a galvanic cell? A. Conduct electrons directly B. Maintain electrical neutrality by ion migration without mixing solutions C. Increase cell voltage by 2 V D. Provide metallic contact Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What electrolyte is typically used in the salt bridge agar jelly? A. HCl B. KCl or KNO3 or NH4NO3 C. H2SO4 D. NaOH Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "According to Faraday's 1st law of electrolysis, the mass of substance deposited (W) is: A. W = Z * I * t B. W = I / (Z * t) C. W = Z / Q D. W = t / (Z * I) Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "What is the value of 1 Faraday (charge of 1 mole of electrons) in Coulombs? A. 9650 C B. 96485 C (~96500 C) C. 1.602 * 10^-19 C D. 6.022 * 10^23 C Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the electrochemical equivalent (Z) formula in terms of equivalent weight E and Faraday constant F? A. Z = E * F B. Z = E / F C. Z = F / E D. Z = E / 965 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "How many Faradays of electricity are required to deposit 1 mole of Al from molten Al3+? A. 1 F B. 3 F C. 2 F D. 6 F Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the Nernst equation for a single electrode at 25 °C (298 K)? A. E = E° - (0.0591 / n) * log([Red] / [Ox]) B. E = E° + (0.0591 / n) * log([Ox] / [Red]) C. E = E° * (0.0591 / n) D. E = E° - nF * log(Q) Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "For a spontaneous electrochemical process, what must be the sign of Delta G° and E°cell? A. Delta G° > 0, E°cell < 0 B. Delta G° < 0, E°cell > 0 C. Delta G° = 0, E°cell = 0 D. Both positive Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the relationship between standard free energy change Delta G° and standard cell potential E°cell? A. Delta G° = -n * F * E°cell B. Delta G° = n * F * E°cell C. Delta G° = -E°cell / (nF) D. Delta G° = nF / E°cell Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "Which metal among the following is the strongest reducing agent based on electrochemical series? A. Cu (E° = +0.34 V) B. Li (most negative E° = -3.05 V) C. Ag (E° = +0.80 V) D. Fe (E° = -0.44 V) Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "Can a copper spoon be used to stir an aqueous solution of zinc sulfate (ZnSO4)? A. No, copper displaces zinc B. Yes, copper has higher reduction potential (+0.34 V) and cannot reduce Zn2+ C. Booming explosion occurs D. Copper dissolves completely Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the electrolyte used in a lead-acid storage battery? A. Dilute HCl B. 38% aqueous sulfuric acid (H2SO4, density ~1.28 g/cm3) C. Concentrated HNO3 D. Aqueous KOH Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "During discharging of a lead-acid accumulator battery, what forms at both electrodes? A. PbO2 B. Lead sulfate (PbSO4) C. Pb metal D. Lead nitrate Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the anode material and fuel in a hydrogen-oxygen fuel cell? A. Carbon, O2 B. Porous carbon with Pt catalyst, H2 gas C. Nickel, CH4 D. Zinc, H2SO4 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the main environmental advantage of H2-O2 fuel cells? A. Low initial cost B. Produces only pure water (H2O) and heat as byproducts with zero emissions C. Uses solid coal D. Works without oxygen Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the nominal voltage of a modern Lithium-ion rechargeable battery cell? A. 1.2 V B. 3.7 V (operating 3.6 - 4.2 V) C. 2.0 V D. 1.5 V Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion."
@@ -433,11 +1081,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The catalyst commonly used in the Contact process is: A. Iron B. V2O5 C. Nickel D. Platinum only Answer: B"
+            "content": "What is the primary natural raw material used for urea fertilizer production in Bangladesh? A. Coal B. Natural gas (methane, CH4) C. Petroleum oil D. Biomass Answer: B"
           },
           {
             "number": 2,
-            "content": "Which group of nutrients is represented by NPK fertiliser? A. Nitrogen, phosphorus, potassium B. Nickel, phosphorus, krypton C. Nitrogen, protein, calcium D. Sodium, phosphorus, potassium Answer: A"
+            "content": "In Haber-Bosch synthesis of ammonia, what is the optimum temperature and pressure? A. 100 °C, 1 atm B. 450-500 °C, 200 atm with Fe catalyst C. 1000 °C, 10 atm D.  room temp, 500 atm Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the percentage of nitrogen present in pure urea fertilizer [CO(NH2)2]? A. 21% B. 46.6% (~46%) C. 60% D. 15% Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the chemical formula of urea? A. NH4NO3 B. CO(NH2)2 C. (NH4)2SO4 D. CaCN2 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What are the two essential raw materials for manufacturing Portland cement? A. Coal and sand B. Calcareous material (limestone, CaCO3) and Argillaceous material (clay, SiO2/Al2O3) C. Gypsum and iron D. Sulfur and lime Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "Why is 2% to 3% gypsum (CaSO4.2H2O) added to cement clinker during grinding? A. To accelerate hardening B. To retard/delay the initial setting time and prevent flash setting C. To give color D. To reduce cost Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the major compound in ordinary Portland cement responsible for early strength? A. Dicalcium silicate B. Tricalcium silicate (3CaO.SiO2 / C3S) C. Tricalcium aluminate D. Tetracalcium aluminoferrite Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Which raw material is the main fibrous source for paper pulp in Bangladesh? A. Cotton lint B. Bamboo, wood (e.g. Gewa), and sugarcane bagasse C. Plastic fibers D. Wool Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the Kraft (sulfate) pulping process cooking liquor composed of? A. HCl and HNO3 B. NaOH and Na2S (white liquor) C. H2SO4 and Ca(HSO3)2 D. Bleach only Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the primary ceramic raw material providing plasticity? A. Quartz B. China clay / Kaolin [Al2Si2O5(OH)4] C. Feldspar D. Limestone Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the fluxing agent in ceramic manufacturing that lowers the melting point? A. Silica sand B. Feldspar (K2O.Al2O3.6SiO2) C. Kaolin D. Bone ash Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the chemical composition of ordinary window soda-lime glass? A. Pure SiO2 B. Na2O.CaO.6SiO2 C. PbO.K2O.6SiO2 D. B2O3.SiO2 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Which chemical oxide gives blue color to glass? A. Iron(II) oxide B. Cobalt oxide (CoO) C. Chromium oxide D. Copper oxide Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is annealing in glass manufacturing? A. Rapid quenching in water B. Controlled slow cooling to eliminate internal stress and prevent brittleness C. Painting the glass D. Melting at 2000 °C Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What toxic heavy metal is predominantly present in untreated tannery effluents in Hazaribagh/Savar? A. Cadmium B. Chromium (Cr3+ / Cr6+) C. Lead D. Mercury Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the chemical agent used in chrome tanning of animal hides? A. Basic chromium sulfate [Cr(OH)SO4] B. Sodium chloride C. Sulfuric acid alone D. Tannic acid Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "What is ETP in industrial environmental pollution control? A. Electron Transport Pathway B. Effluent Treatment Plant C. Energy Tracking Protocol D. Emission Testing Process Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the highest grade of coal based on fixed carbon content (over 90%) and calorific value? A. Lignite B. Anthracite C. Bituminous D. Peat Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Which coal field in Bangladesh has the largest bituminous coal deposit currently mined? A. Khalashpir B. Barapukuria (Dinajpur) C. Jamalganj D. Dighipara Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "In petroleum refining, what process breaks large hydrocarbon molecules into smaller, high-demand gasoline fractions? A. Fractional distillation B. Catalytic cracking (Fluid Catalytic Cracking) C. Polymerization D. Isomerization Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the relevant concept, state the principle or reaction, explain symbols and conditions, show each logical step, use correct chemical formulae and units, and end with a clear conclusion. Bangladesh HSC Chemistry | First & Second Paper Page 18 Final Revision Checklist ■ Know laboratory hazard symbols, PPE, emergency procedures and waste segregation. ■ Practise electron configurations, quantum numbers, spectra and Ksp calculations. ■ Revise periodic trends, Lewis structures, molecular shapes, polarity and intermolecular forces. ■ Balance equations and practise reaction rates, equilibrium, pH and buffer calculations. ■ Review applied chemistry products, polymers, soap, detergents, preservation and corrosion control. ■ Understand air and water pollutants, greenhouse effect, acid rain, BOD and gas laws. ■ Practise IUPAC naming, functional groups, isomerism and organic reaction pathways. ■ Solve mole, concentration, dilution, limiting-reagent, yield and titration problems. ■ Learn galvanic and electrolytic cell diagrams, electrode reactions, cell potentials and Faraday calculations. ■ Revise major industrial processes, catalysts, raw materials, process conditions and green chemistry. Important constants and reminders Quantity Value / reminder Avogadro constant 6.022 × 10²³ mol■¹ Faraday constant ≈ 96485 C mol■¹ Gas constant R = 8.314 J mol■¹ K■¹ (or 0.08206 L atm mol■¹ K■¹) Temperature T(K) = t(°C) + 273.15 pH pH = −log■■[H■] (dilute aqueous solution) This guide is designed as a structured revision companion. Always follow your teacher's instructions and the current official syllabus for final examination preparation. Bangladesh HSC Chemistry | First & Second Paper Page 19"

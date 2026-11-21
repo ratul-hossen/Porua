@@ -93,10 +93,23 @@ class PoruaViewModel(
                 if (profile != null) {
                     val yearInt = profile.examYear.toIntOrNull() ?: ExamDateProvider.getAvailableExamYears().first()
                     val countdown = ExamDateProvider.calculateCountdown(yearInt)
+                    val streamSubjects = com.porua.app.data.content.ContentRepository.getSubjectsForGroup(profile.group).map { cs ->
+                        SubjectEntity(
+                            id = cs.id,
+                            name = cs.name,
+                            paper = if (cs.stream == "Common") "Common (Mandatory)" else "${cs.stream} Stream",
+                            chaptersCount = cs.chaptersCount,
+                            questionsCount = cs.chaptersCount * 20,
+                            mastery = 0,
+                            iconType = cs.icon,
+                            isSelected = true
+                        )
+                    }
                     _uiState.update {
                         it.copy(
                             userProfile = profile,
-                            countdownResult = countdown
+                            countdownResult = countdown,
+                            subjects = streamSubjects
                         )
                     }
                 }
@@ -117,7 +130,9 @@ class PoruaViewModel(
 
         viewModelScope.launch {
             repository.getAllSubjects().collect { subjects ->
-                _uiState.update { it.copy(subjects = subjects) }
+                if (_uiState.value.subjects.isEmpty()) {
+                    _uiState.update { it.copy(subjects = subjects) }
+                }
             }
         }
 

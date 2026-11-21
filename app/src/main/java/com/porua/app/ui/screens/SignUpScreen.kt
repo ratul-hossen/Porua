@@ -77,7 +77,7 @@ fun SignUpScreen(
     var password by remember { mutableStateOf("") }
     var passwordVisible by remember { mutableStateOf(false) }
     var selectedGroup by remember { mutableStateOf("Science") }
-    var selectedClass by remember { mutableStateOf("Class 11") }
+    val selectedClass = "HSC"
 
     var nameError by remember { mutableStateOf<String?>(null) }
     var emailOrPhoneError by remember { mutableStateOf<String?>(null) }
@@ -88,7 +88,6 @@ fun SignUpScreen(
     var isLoading by remember { mutableStateOf(false) }
 
     val groups = listOf("Science", "Humanities", "Business Studies")
-    val classes = listOf("Class 11", "Class 12")
 
     val errNameEmpty = stringResource(R.string.err_name_empty)
     val errContactEmpty = stringResource(R.string.err_contact_empty)
@@ -393,9 +392,9 @@ fun SignUpScreen(
 
         Spacer(modifier = Modifier.height(20.dp))
 
-        // 5. HSC Class Selection
+        // 5. Target Exam Level: Fixed to HSC
         Text(
-            text = stringResource(R.string.label_select_class),
+            text = "Target Exam",
             fontSize = 13.sp,
             fontWeight = FontWeight.SemiBold,
             color = colors.text
@@ -404,20 +403,11 @@ fun SignUpScreen(
         Row(
             horizontalArrangement = Arrangement.spacedBy(10.dp)
         ) {
-            classes.forEach { hscClass ->
-                PoruaFilterChip(
-                    text = hscClass,
-                    isSelected = selectedClass == hscClass,
-                    onClick = {
-                        selectedClass = hscClass
-                        if (classError != null) classError = null
-                    }
-                )
-            }
-        }
-        if (classError != null) {
-            Spacer(modifier = Modifier.height(4.dp))
-            Text(text = classError ?: "", color = colors.danger, fontSize = 12.sp)
+            PoruaFilterChip(
+                text = "HSC",
+                isSelected = true,
+                onClick = { /* Fixed to HSC */ }
+            )
         }
 
         Spacer(modifier = Modifier.height(32.dp))

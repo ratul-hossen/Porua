@@ -45,11 +45,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The SI unit of force is: A. joule B. newton C. watt D. pascal Answer: B"
+            "content": "Which of the following is a fundamental SI base unit? A. Newton B. Kilogram (kg) C. Joule D. Watt Answer: B"
           },
           {
             "number": 2,
-            "content": "The dimensions of velocity are: A. [LT■¹] B. [LT■²] C. [MLT■¹] D. [L²T■¹] Answer: A"
+            "content": "What is the SI unit of luminous intensity? A. Lumen B. Candela (cd) C. Lux D. Dioptre Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What are the dimensions of force [F]? A. M L T^-1 B. M L T^-2 C. M L^2 T^-2 D. M L^-1 T^-2 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What are the dimensions of universal gravitational constant [G]? A. M^-1 L^3 T^-2 B. M L^2 T^-2 C. M L^3 T^-1 D. M^-2 L^3 T^-1 Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What are the dimensions of Planck's constant [h]? A. M L^2 T^-1 B. M L T^-1 C. M L^2 T^-2 D. M L^-1 T^-1 Answer: A"
+          },
+          {
+            "number": 6,
+            "content": "What is the vernier constant (VC) of a slide calipers with main scale division 1 mm and 20 vernier divisions matching 19 mm? A. 0.1 mm B. 0.05 mm (1/20 mm) C. 0.01 mm D. 0.02 mm Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the pitch of a screw gauge that advances 1 mm in 2 complete rotations? A. 1 mm B. 0.5 mm C. 2 mm D. 0.01 mm Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Least count (LC) of a screw gauge is calculated as: A. Pitch / Number of circular scale divisions B. Pitch * Number of divisions C. Main scale division / Pitch D. Total length / Pitch Answer: A"
+          },
+          {
+            "number": 9,
+            "content": "Which type of error cannot be eliminated completely and fluctuates unpredictably? A. Zero error B. Random error C. Instrumental error D. Systematic error Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "Percentage error in measurement is given by: A. (Absolute error / True value) * 100 B. (True value / Absolute error) * 100 C. Relative error / 100 D. Zero error * 100 Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "If relative error in radius r of a sphere is 2%, what is the percentage error in its volume V? A. 2% B. 6% (Delta V / V = 3 * Delta r / r) C. 4% D. 8% Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "How many significant figures are in the measured quantity 0.005020 kg? A. 3 B. 4 (5, 0, 2, 0) C. 6 D. 2 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Light year is a unit of which physical quantity? A. Time B. Astronomical distance C. Speed D. Luminosity Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "1 Angstrom (Å) is equal to how many meters? A. 10^-6 m B. 10^-10 m C. 10^-9 m D. 10^-12 m Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What are the dimensions of work or energy? A. M L T^-2 B. M L^2 T^-2 C. M L^2 T^-3 D. M L^-1 T^-2 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the dimension of power? A. M L^2 T^-2 B. M L^2 T^-3 C. M L T^-3 D. M L^3 T^-2 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "Which of the following physical quantities is dimensionless? A. Velocity gradient B. Refractive index (or strain) C. Gravitational constant D. Surface tension Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the dimension of linear momentum? A. M L T^-2 B. M L T^-1 C. M L^2 T^-1 D. M T^-1 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "1 Fermi (femtometer) equals how many meters? A. 10^-12 m B. 10^-15 m C. 10^-9 m D. 10^-18 m Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "If Z = A * B, what is the fractional error Delta Z / Z? A. Delta A / A + Delta B / B B. Delta A / A - Delta B / B C. Delta A * Delta B D. Delta A / Delta B Answer: A"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -82,11 +154,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The magnitude of a unit vector is: A. zero B. one C. two D. variable Answer: B"
+            "content": "Which of the following is a scalar quantity? A. Velocity B. Electric potential (or work) C. Acceleration D. Torque Answer: B"
           },
           {
             "number": 2,
-            "content": "A·B is zero when the angle between A and B is: A. 0° B. 45° C. 90° D. 180° Answer: C"
+            "content": "What is the magnitude of the unit vector (i + j + k) / sqrt(3)? A. 3 B. 1 C. sqrt(3) D. 0 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Two vectors P and Q act at an angle theta. What is the magnitude of their resultant R? A. sqrt(P^2 + Q^2 + 2PQ cos theta) B. sqrt(P^2 + Q^2 - 2PQ cos theta) C. P + Q cos theta D. sqrt(P^2 + Q^2) Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "When is the resultant of two equal vectors P equal in magnitude to P? A. theta = 90° B. theta = 120° C. theta = 60° D. theta = 180° Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "The dot product (scalar product) of two perpendicular non-zero vectors is: A. Maximum B. Zero (P . Q = 0) C. Negative D. Equal to magnitude Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "The cross product (vector product) of two parallel vectors is: A. Maximum B. Null vector (zero magnitude) C. Scalar quantity D. 1 Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is i . j (dot product of orthogonal unit vectors)? A. 1 B. 0 C. k D. -k Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is i x j (cross product of unit vectors)? A. 0 B. k C. -k D. 1 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is i x i (cross product of a unit vector with itself)? A. 1 B. 0 C. k D. j Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "The area of a parallelogram formed by two adjacent vectors A and B as sides is: A. A . B B. |A x B| C. (1/2) |A x B| D. A * B Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "The area of a triangle formed by vectors A and B is: A. |A x B| B. (1/2) |A x B| C. A . B D. (1/2) A . B Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "If A . B = |A x B|, what is the angle theta between A and B? A. 0° B. 45° (tan theta = 1) C. 90° D. 60° Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the gradient of a scalar field phi, grad(phi)? A. Scalar field B. Vector field C. Tensor D. Zero Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "A vector field V is termed solenoidal if: A. curl V = 0 B. div V = 0 (nabla . V = 0) C. grad V = 0 D. V = 0 Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "A vector field V is irrotational (conservative) if: A. div V = 0 B. curl V = 0 (nabla x V = 0) C. V . V = 0 D. grad V = 0 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the minimum angle a swimmer must head upstream to cross a river of current speed u in the shortest path (v > u)? A. 90° B. alpha = 90° + sin^-1(u / v) (or cos alpha = -u/v) C. 45° D. 180° Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "To cross a river in the shortest possible time, in which direction should a swimmer steer? A. Upstream at an angle B. Directly perpendicular to the river bank (90°) C. Downstream at 45° D. Along the current Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the position vector of point (3, -2, 5)? A. 3i + 2j + 5k B. 3i - 2j + 5k C. -3i + 2j - 5k D. 5i - 2j + 3k Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the magnitude of vector A = 2i + 3j + 6k? A. 7 (sqrt(4+9+36) = sqrt(49) = 7) B. 11 C. sqrt(13) D. 49 Answer: A"
+          },
+          {
+            "number": 20,
+            "content": "If three vectors form a closed triangle taken in order, their vector sum is: A. Maximum B. Zero (null vector) C. Twice the third side D. Undefined Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -118,11 +262,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The slope of a velocity-time graph represents: A. displacement B. acceleration C. force D. momentum Answer: B"
+            "content": "What is the acceleration of a freely falling body near Earth's surface? A. Zero B. 9.8 m s^-2 downwards C. 9.8 m s^-1 D. Variable with mass Answer: B"
           },
           {
             "number": 2,
-            "content": "At the highest point of ideal projectile motion, vertical velocity is: A. maximum B. zero C. g D. unchanged Answer: B"
+            "content": "Which kinematic equation represents displacement under uniform acceleration? A. v = u + at B. s = ut + (1/2)at^2 C. v^2 = u^2 + 2as D. All of the above are valid Answer: D"
+          },
+          {
+            "number": 3,
+            "content": "What is the shape of the trajectory of a projectile launched horizontally or at an angle in a vacuum? A. Circular B. Parabolic C. Hyperbolic D. Straight line Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the maximum horizontal range formula for a projectile launched with speed u? A. R_max = u^2 / g (at theta = 45°) B. R_max = 2u^2 / g C. R_max = u / (2g) D. R_max = u^2 / (2g) Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "At what angle of projection is the horizontal range of a projectile maximum? A. 30° B. 45° C. 60° D. 90° Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the time of flight (T) formula for a projectile launched with speed u at angle theta? A. T = 2u sin theta / g B. T = u sin theta / g C. T = u^2 sin(2 theta) / g D. T = 2u cos theta / g Answer: A"
+          },
+          {
+            "number": 7,
+            "content": "What is the maximum height (H) reached by a projectile launched with velocity u at angle theta? A. H = u^2 sin^2 theta / (2g) B. H = u sin theta / (2g) C. H = 2u^2 sin theta / g D. H = u^2 / g Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "At the highest point of a projectile trajectory, what is its vertical velocity? A. Maximum B. Zero C. u cos theta D. u sin theta Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "At the highest point of a projectile trajectory, what is its acceleration? A. Zero B. g downwards C. u^2 / g D. Horizontal Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the relation between linear velocity v and angular velocity omega in circular motion? A. v = omega / r B. v = omega * r C. omega = v * r D. v = omega^2 * r Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the centripetal acceleration formula for an object moving in a circle of radius r with speed v? A. a_c = v^2 / r B. a_c = v * r C. a_c = v / r^2 D. a_c = v^2 * r Answer: A"
+          },
+          {
+            "number": 12,
+            "content": "What is the slope of a displacement-time graph equal to? A. Acceleration B. Velocity C. Force D. Momentum Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What does the area under a velocity-time graph represent? A. Acceleration B. Displacement C. Speed D. Force Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What does the slope of a velocity-time graph represent? A. Displacement B. Acceleration C. Jerk D. Power Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "A car travels the first half of distance at speed v1 and the second half at v2. What is its average speed? A. (v1 + v2) / 2 B. 2 * v1 * v2 / (v1 + v2) (Harmonic mean) C. sqrt(v1 * v2) D. v1 * v2 / 2 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "A stone dropped from a tower of height h reaches the ground in time t. What is t? A. sqrt(h / g) B. sqrt(2h / g) C. 2h / g D. h / (2g) Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the velocity of an object projected vertically upward with speed u after reaching maximum height and returning to launch point? A. Zero B. u downwards C. 2u D. u / 2 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Two projectiles are thrown at complementary angles theta and (90° - theta) with the same speed. Their horizontal ranges are: A. Different B. Equal (R1 = R2) C. R1 = 2 * R2 D. R1 = 0.5 * R2 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the angular displacement in 1 complete revolution? A. pi radians B. 2*pi radians (360°) C. pi/2 radians D. 4*pi radians Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "An object moves with constant speed in a circular path. Is its velocity constant? A. Yes B. No, its direction continuously changes C. Only in vacuum D. Speed is zero Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -156,11 +372,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Newton's second law in general form is: A. F = mv B. F = dp/dt C. p = F/t D. F = m/v Answer: B"
+            "content": "Newton's first law of motion defines which physical concept? A. Work B. Inertia and Force qualitative definition C. Momentum quantitative D. Energy Answer: B"
           },
           {
             "number": 2,
-            "content": "The SI unit of momentum is: A. N B. kg m s■¹ C. joule D. watt Answer: B"
+            "content": "Newton's second law of motion gives the quantitative definition and formula of: A. Inertia B. Force (F = dp/dt = ma) C. Energy D. Friction Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the law of conservation of linear momentum when external force is zero? A. m1*u1 + m2*u2 = m1*v1 + m2*v2 B. m1*v1 = m2*v2 C. P = constant * t D. F = 0 Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "What is impulse of force (J) defined as? A. F / t B. Force * time interval (J = F * Delta t = Delta p) C. F * s D. m * a * t^2 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the recoil velocity V of a gun of mass M firing a bullet of mass m with velocity v? A. V = m*v / M B. V = - (m * v) / M C. V = M*v / m D. V = (M + m) * v Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the formula for torque (tau) in terms of position vector r and force F? A. tau = r . F B. tau = r x F C. tau = F x r D. tau = r * F Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the rotational analogue of mass in linear motion? A. Angular momentum B. Moment of inertia (I = sum m*r^2) C. Torque D. Angular velocity Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the moment of inertia of a uniform thin rod of mass M and length L about an axis through its center perpendicular to length? A. M*L^2 / 3 B. M*L^2 / 12 C. M*L^2 / 2 D. M*L^2 / 6 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the moment of inertia of a solid cylinder or disc of mass M and radius R about its central axis? A. M*R^2 B. (1/2) M*R^2 C. (2/5) M*R^2 D. (2/3) M*R^2 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the moment of inertia of a solid sphere of mass M and radius R about its diameter? A. (1/2) M*R^2 B. (2/5) M*R^2 C. (2/3) M*R^2 D. M*R^2 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the theorem of parallel axes for moment of inertia? A. I = I_G + M*h^2 B. I = I_G - M*h^2 C. I = I_x + I_y D. I = M*h / 2 Answer: A"
+          },
+          {
+            "number": 12,
+            "content": "What is the rotational kinetic energy of a body with moment of inertia I rotating at angular speed omega? A. I * omega B. (1/2) I * omega^2 C. (1/2) I^2 * omega D. I * omega^2 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the angular momentum (L) formula in rotational motion? A. L = I * omega B. L = I / omega C. L = tau * omega D. L = (1/2) I * omega^2 Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "According to law of conservation of angular momentum, if moment of inertia I decreases, angular velocity omega: A. Decreases B. Increases (I1*omega1 = I2*omega2) C. Remains unchanged D. Becomes zero Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "Why does a spinning ice-skater spin faster when pulling her arms inward? A. Friction decreases B. Moment of inertia decreases, so angular velocity increases C. External torque acts D. Mass decreases Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the formula for the banking angle theta of a curved road of radius r designed for speed v without friction? A. tan theta = v^2 / (r*g) B. tan theta = v / (r*g) C. sin theta = v^2 * r / g D. cos theta = v^2 / (r*g) Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "What is the maximum static friction force formula (f_s,max)? A. mu_s * N B. mu_k * N C. N / mu_s D. mu_s / N Answer: A"
+          },
+          {
+            "number": 18,
+            "content": "In an elastic collision, what physical quantities are conserved? A. Kinetic energy only B. Both linear momentum and kinetic energy C. Linear momentum only D. Potential energy only Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "In a perfectly inelastic collision, the colliding bodies: A. Bounce back with same speed B. Stick together and move with a common velocity C. Lose all momentum D. Explode Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the apparent weight of a person of mass m in an elevator accelerating upward with acceleration a? A. m(g - a) B. m(g + a) C. mg D. m*a Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -194,11 +482,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Work done by a force perpendicular to displacement is: A. maximum B. zero C. negative always D. infinite Answer: B"
+            "content": "What is the work done W by a constant force F causing displacement s at an angle theta? A. W = F * s * sin theta B. W = F . s = F * s * cos theta C. W = F * s * tan theta D. W = F / s Answer: B"
           },
           {
             "number": 2,
-            "content": "The SI unit of power is: A. joule B. newton C. watt D. pascal Answer: C"
+            "content": "When is the work done by a force zero? A. theta = 0° B. theta = 90° (perpendicular displacement) C. theta = 180° D. theta = 45° Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the work done by the centripetal force on an object moving in a circle? A. Maximum B. Zero (since force is perpendicular to displacement) C. Negative D. Variable Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "Work done against gravity in lifting a mass m to a height h is: A. mg / h B. m * g * h C. m * g * h^2 D. (1/2) m*g*h Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the work-energy theorem? A. Work done = Force * distance B. Work done by net force equals change in kinetic energy (W = Delta K) C. Work done = Potential energy D. Power = Work / time Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the kinetic energy (K) of an object of mass m and momentum p? A. K = p^2 / m B. K = p^2 / (2m) C. K = 2m / p^2 D. K = p * m Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "If the linear momentum of a body is doubled, what happens to its kinetic energy? A. Doubles B. Quadruples (4 times) C. Remains same D. Halves Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the potential energy stored in an ideal spring stretched by distance x (spring constant k)? A. k * x B. (1/2) k * x^2 C. k * x^2 D. (1/2) k^2 * x Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What are the SI units of spring constant k? A. N m B. N m^-1 (or kg s^-2) C. N m^-2 D. J m Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is a conservative force? A. Friction B. A force whose work done around any closed path is zero (e.g. Gravity, Electrostatic) C. Air resistance D. Viscous force Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Which of the following is a non-conservative force? A. Gravitational force B. Friction / Viscous drag force C. Electrostatic force D. Elastic spring force Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the SI unit of power? A. Joule B. Watt (1 W = 1 J s^-1) C. Horsepower D. Calorie Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "1 Horsepower (1 hp) in British engineering equals how many Watts? A. 550 W B. 746 W C. 1000 W D. 735.5 W Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "1 kilowatt-hour (1 kWh, commercial electricity unit) equals how many Joules? A. 1000 J B. 3.6 * 10^6 J (3.6 MJ) C. 3600 J D. 3.6 * 10^5 J Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the efficiency (eta) formula of an engine or pump? A. (Total input energy / Useful output work) * 100 B. (Useful output work / Total input energy) * 100 C. Output / Loss D. Input * Output Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "An electric pump lifts 2000 kg of water to a height of 10 m in 20 seconds. What is its useful output power (g = 9.8 m/s^2)? A. 1000 W B. 9800 W (9.8 kW) C. 4900 W D. 19600 W Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "When a spring is compressed by x, the work done by the spring force on the compressing agent is: A. Positive B. Negative (-1/2 k x^2) C. Zero D. Infinite Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "A body is falling freely under gravity. Its total mechanical energy (K + U) is: A. Increasing B. Conserved / Constant at all points C. Decreasing D. Zero Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "At what point of a free fall from height h are kinetic energy and potential energy equal? A. At ground level B. At height h / 2 C. At height h / 4 D. At height 3h / 4 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the power delivered by a force F moving an object at instantaneous velocity v? A. P = F / v B. P = F . v C. P = F x v D. P = (1/2) F * v^2 Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -230,11 +590,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Gravitational force between two point masses varies as: A. r² B. r C. 1/r D. 1/r² Answer: D"
+            "content": "Newton's universal law of gravitation gives the gravitational force F as: A. G * (m1 + m2) / r^2 B. G * (m1 * m2) / r^2 C. G * (m1 * m2) / r D. g * m1 * m2 / r^2 Answer: B"
           },
           {
             "number": 2,
-            "content": "The value of g at a height equal to Earth's radius above its surface is approximately: A. g B. g/2 C. g/4 D. 2g Answer: C"
+            "content": "What is the accepted value of universal gravitational constant G in SI units? A. 6.674 * 10^-11 N m^2 kg^-2 B. 9.8 m s^-2 C. 6.674 * 10^-8 D. 3.0 * 10^8 Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "What is the acceleration due to gravity g at Earth's surface (mass M, radius R)? A. g = G * M / R B. g = G * M / R^2 C. g = G * R^2 / M D. g = G * M^2 / R Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What happens to the acceleration due to gravity g at a height h above Earth's surface? A. Increases B. Decreases as g_h = g * (R / (R + h))^2 C. Remains constant D. Becomes zero everywhere Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the acceleration due to gravity g_d at a depth d below Earth's surface? A. g_d = g * (1 - d/R) B. g_d = g * (1 + d/R) C. g_d = g * (1 - d^2/R^2) D. g_d = g * d / R Answer: A"
+          },
+          {
+            "number": 6,
+            "content": "What is the value of acceleration due to gravity g at the center of the Earth (d = R)? A. 9.8 m s^-2 B. Zero (0 m s^-2) C. Infinity D. Maximum Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "Where on Earth's surface is the value of g maximum? A. Equator (due to centrifugal effect and larger radius) B. Poles (minimum radius, zero centrifugal effect) C. Tropic of Cancer D. At sea level only Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the formula for escape velocity (v_e) from the surface of Earth? A. sqrt(g * R) B. sqrt(2 * g * R) = sqrt(2GM / R) C. 2 * sqrt(g * R) D. sqrt(GM / (2R)) Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the approximate numerical value of escape velocity from Earth's surface? A. 8.0 km s^-1 B. 11.2 km s^-1 C. 9.8 km s^-1 D. 42.0 km s^-1 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the orbital velocity (v_o) of a satellite orbiting close to Earth's surface (h << R)? A. sqrt(2 * g * R) B. sqrt(g * R) (~7.9 km s^-1) C. g * R D. sqrt(GM / 2R) Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the relation between escape velocity v_e and orbital velocity v_o for Earth? A. v_e = v_o / sqrt(2) B. v_e = sqrt(2) * v_o C. v_e = 2 * v_o D. v_e = v_o Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the orbital period of a geostationary satellite? A. 12 hours B. 24 hours (synchronous with Earth rotation) C. 90 minutes D. 365 days Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "In what plane and direction does a geostationary satellite orbit? A. Polar orbit, North to South B. Equatorial plane from West to East C. Equatorial plane from East to West D. Inclined at 45° Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the approximate altitude of a geostationary satellite above Earth's equator? A. 3600 km B. 35,786 km (~36,000 km) C. 6400 km D. 400 km Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "According to Kepler's 1st law, planets revolve around the Sun in what shaped orbits? A. Circular B. Elliptical with Sun at one focus C. Parabolic D. Hyperbolic Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Kepler's second law (law of areas: dA/dt = constant) is a direct consequence of conservation of: A. Linear momentum B. Angular momentum C. Mechanical energy D. Mass Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "According to Kepler's third law (law of periods), the square of orbital period T is proportional to: A. Semi-major axis a B. Cube of semi-major axis (T^2 proportional to a^3) C. a^2 D. 1 / a^3 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is gravitational potential V at distance r from Earth's center (mass M)? A. G*M / r B. - G * M / r C. - G * M / r^2 D. m*g*h Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Gravitational potential at an infinite distance from any mass is taken by convention as: A. Infinite B. Zero C. -9.8 J/kg D. 1 J/kg Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the weight of an astronaut inside an orbiting artificial satellite? A. Normal weight mg B. Apparent weight is zero (weightlessness due to free fall) C. Half of normal weight D. Double normal weight Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -269,11 +701,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Young's modulus is the ratio of: A. strain to stress B. stress to strain C. force to length D. mass to volume Answer: B"
+            "content": "According to Hooke's law within elastic limit, stress is directly proportional to: A. Force B. Strain (Stress / Strain = Modulus of Elasticity) C. Length D. Area Answer: B"
           },
           {
             "number": 2,
-            "content": "The SI unit of surface tension is: A. N m■¹ B. N m C. Pa m D. J s Answer: A"
+            "content": "What are the SI units of stress and Young's modulus? A. N m B. N m^-2 (or Pascal, Pa) C. Dimensionless D. N m^-1 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the SI unit of strain? A. Pascal B. Dimensionless / Unitless (ratio of two like quantities) C. N m^-2 D. meter Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "Young's modulus (Y) is defined for which type of deformation? A. Volume change B. Longitudinal / Tensile deformation (Y = (F/A) / (Delta L / L)) C. Shear deformation D. Twisting Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "Bulk modulus (K or B) measures a material's resistance to change in: A. Length B. Volume under uniform pressure (K = - Delta P / (Delta V / V)) C. Shape at constant volume D. Surface area Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the reciprocal of Bulk modulus called? A. Modulus of rigidity B. Compressibility (beta = 1 / K) C. Poisson's ratio D. Elastic limit Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "Modulus of rigidity (eta or G) relates to which type of strain? A. Longitudinal strain B. Shearing / tangential strain (Shear stress / Shearing strain) C. Volume strain D. Tensile strain Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is Poisson's ratio (sigma) defined as? A. Lateral strain / Longitudinal strain B. Longitudinal strain / Lateral strain C. Shear stress / Shear strain D. Stress * Strain Answer: A"
+          },
+          {
+            "number": 9,
+            "content": "What is the theoretical range of Poisson's ratio (sigma) for isotropic solids? A. -1 to +0.5 B. 0 to 1 C. 0 to 0.5 (practically) D. -1 to +1 Answer: A"
+          },
+          {
+            "number": 10,
+            "content": "What is the energy stored per unit volume (energy density) in a strained wire? A. Y * strain B. (1/2) * Stress * Strain = (1/2) * Y * (Strain)^2 C. Stress * Strain D. Y * (Stress)^2 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is surface tension (T) defined as? A. Force per unit area B. Force acting per unit length of an imaginary line on the liquid surface (N/m) C. Energy per unit volume D. Pressure per length Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What are the SI units of surface tension? A. N m^-2 B. N m^-1 (or J m^-2) C. N m D. J m^-1 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Why do small liquid drops and raindrops assume a spherical shape? A. Gravity B. Surface tension minimizes surface area for a given volume C. Atmospheric pressure D. Viscosity Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What happens to the surface tension of a liquid as temperature increases? A. Increases B. Decreases (becomes zero at critical temperature) C. Remains constant D. First decreases then increases Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the excess pressure Delta P inside a spherical liquid drop of radius R and surface tension T? A. T / R B. 2T / R C. 4T / R D. 2T / R^2 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the excess pressure inside a hollow soap bubble of radius R in air (having two surfaces)? A. 2T / R B. 4T / R C. T / R D. 8T / R Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the angle of contact for pure water and clean glass? A. 90° B. Nearly 0° (acute, wets glass) C. 138° (obtuse) D. 180° Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the angle of contact between mercury and clean glass? A. 0° B. Obtuse (~138° to 140°, does not wet glass) C. 45° D. 90° Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "According to Stokes' law, what is the viscous drag force F on a sphere of radius r moving with terminal velocity v in a fluid of viscosity eta? A. 3*pi * eta * r * v B. 6*pi * eta * r * v C. 4*pi * eta * r^2 * v D. (1/2) eta * r * v Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "According to Bernoulli's principle for streamline flow of an ideal fluid, along a streamline: A. P * v = constant B. P + (1/2) rho * v^2 + rho * g * h = constant C. P / rho = constant D. v^2 / 2g = constant Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -307,11 +811,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "In SHM, acceleration is: A. constant B. proportional to displacement and opposite in direction C. always zero D. proportional to velocity Answer: B"
+            "content": "What defines simple harmonic motion (SHM)? A. Acceleration proportional to velocity B. Acceleration directly proportional to displacement from equilibrium and directed opposite to it (a = - omega^2 * x) C. Constant speed in circle D. Force independent of position Answer: B"
           },
           {
             "number": 2,
-            "content": "At the mean position of ideal SHM, kinetic energy is: A. zero B. maximum C. minimum but nonzero D. undefined Answer: B"
+            "content": "What is the differential equation of simple harmonic motion? A. d^2x/dt^2 + omega^2 * x = 0 B. d^2x/dt^2 - omega^2 * x = 0 C. dx/dt + omega * x = 0 D. d^2x/dt^2 + omega * x = 0 Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "In SHM with displacement x = A * sin(omega * t + delta), what is the maximum velocity (v_max)? A. A / omega B. v_max = omega * A (at mean position x = 0) C. omega^2 * A D. A * omega / 2 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "At what position in SHM is the acceleration of the particle maximum? A. Mean position (x = 0) B. Extreme position (x = +/- A, a_max = omega^2 * A) C. x = A / 2 D. Independent of x Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the velocity of an SHM oscillator at its extreme amplitude position? A. Maximum B. Zero C. omega * A D. v_max / 2 Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the time period T of a simple pendulum of effective length L? A. 2*pi * sqrt(g / L) B. 2*pi * sqrt(L / g) C. pi * sqrt(L / g) D. 2*pi * L / g Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the time period of a seconds pendulum? A. 1 second B. 2 seconds (1 second tick each way) C. 4 seconds D. 0.5 second Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the effective length of a seconds pendulum on Earth (g = 9.8 m/s^2)? A. 0.5 m B. 0.993 m (~1 meter) C. 2.0 m D. 0.25 m Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the time period T of a spring-mass oscillator (mass m, spring constant k)? A. 2*pi * sqrt(k / m) B. 2*pi * sqrt(m / k) C. pi * sqrt(m / k) D. 2*pi * m / k Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "If two springs with spring constants k1 and k2 are connected in parallel, what is the effective spring constant k_eff? A. k1 * k2 / (k1 + k2) B. k_eff = k1 + k2 C. sqrt(k1^2 + k2^2) D. (k1 + k2) / 2 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "If two springs of constant k1 and k2 are connected in series, the effective constant k_eff is: A. k1 + k2 B. 1/k_eff = 1/k1 + 1/k2  (k1*k2 / (k1+k2)) C. k1 * k2 D. 2 * (k1 + k2) Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the total mechanical energy E of an SHM oscillator (mass m, amplitude A)? A. (1/2) m * omega * A B. (1/2) m * omega^2 * A^2 = (1/2) k * A^2 C. m * omega^2 * A D. (1/2) k * A Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "At what displacement x from mean position is kinetic energy equal to potential energy in SHM? A. x = A / 2 B. x = A / sqrt(2) (~0.707 A) C. x = A / 4 D. x = A / sqrt(3) Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the phase difference between displacement and acceleration in SHM? A. 0 radians B. pi radians (180°) C. pi / 2 radians (90°) D. 2*pi radians Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the phase difference between displacement and velocity in SHM? A. 0 B. pi / 2 radians (90°, velocity leads displacement) C. pi radians D. 3*pi / 2 Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What happens to the time period of a simple pendulum if its length is quadrupled (4L)? A. Halves B. Doubles (T is proportional to sqrt(L)) C. Quadruples D. Remains same Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "If a simple pendulum is taken to the Moon where g_moon = g_earth / 6, its time period will: A. Decrease B. Increase by sqrt(6) times C. Decrease by 6 times D. Become zero Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the frequency of oscillation of the kinetic energy of an SHM particle with frequency f? A. f B. 2f (KE completes two cycles per one oscillation) C. f / 2 D. 4f Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is resonance in forced oscillations? A. Damping becomes zero B. Driving frequency matches natural frequency, resulting in maximum amplitude C. Amplitude becomes zero D. Frequency becomes infinite Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What happens to the time period of a simple pendulum inside a freely falling elevator? A. Zero B. Infinite (g_eff = 0, pendulum ceases to oscillate) C. Normal D. Decreases Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -345,11 +921,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The relation between wave speed, frequency and wavelength is: A. v = f/λ B. v = fλ C. v = λ/f D. v = f + λ Answer: B"
+            "content": "What type of wave is a sound wave in air? A. Transverse electromagnetic B. Longitudinal mechanical wave (compressions and rarefactions) C. Stationary wave only D. Torsional wave Answer: B"
           },
           {
             "number": 2,
-            "content": "A stationary wave has: A. travelling nodes B. fixed nodes C. no antinodes D. only one wave Answer: B Bangladesh HSC Physics | First & Second Paper Page 9"
+            "content": "What type of wave is light in vacuum? A. Longitudinal mechanical B. Transverse electromagnetic wave C. Pressure wave D. Matter wave Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the wave speed formula relating frequency f and wavelength lambda? A. v = f / lambda B. v = f * lambda C. v = lambda / f D. v = f^2 * lambda Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "In a progressive wave y = A * sin(omega*t - k*x), what is the wave number k? A. 2*pi * f B. 2*pi / lambda C. lambda / (2*pi) D. omega / v^2 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the phase difference Delta phi between two points separated by path difference Delta x? A. Delta phi = (2*pi / lambda) * Delta x B. Delta phi = (lambda / 2*pi) * Delta x C. Delta phi = 2*pi * Delta x D. Delta phi = lambda * Delta x Answer: A"
+          },
+          {
+            "number": 6,
+            "content": "What condition creates a stationary (standing) wave? A. Two waves of different frequencies B. Superposition of two identical waves traveling in opposite directions along same line C. Refraction of light D. Diffraction Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "In a standing wave, what are points of zero displacement and maximum displacement called? A. Antinodes and Nodes B. Nodes and Antinodes C. Crests and Troughs D. Compressions and Rarefactions Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the distance between two consecutive nodes (or two consecutive antinodes)? A. lambda B. lambda / 2 C. lambda / 4 D. 2 * lambda Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the distance between an adjacent node and antinode in a standing wave? A. lambda / 2 B. lambda / 4 C. lambda D. 3*lambda / 4 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the fundamental frequency f1 of a stretched string of length L, mass per unit length m, under tension T? A. f1 = (1 / 2L) * sqrt(T / m) B. f1 = (1 / L) * sqrt(T / m) C. f1 = 2L * sqrt(T / m) D. f1 = (1 / 2L) * sqrt(m / T) Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "What are the frequencies of harmonics produced in an open organ pipe of length L? A. Only odd harmonics (f, 3f, 5f) B. All harmonics (f, 2f, 3f, 4f...) C. Only even harmonics D. None Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What are the frequencies of harmonics produced in a closed organ pipe? A. All harmonics B. Only odd harmonics (f, 3f, 5f...) C. Only even harmonics D. Continuous spectrum Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What causes the phenomenon of acoustic beats? A. Interference of two sound waves of slightly different frequencies (Delta f = |f1 - f2|) B. Reflection of sound C. Diffraction of sound D. Resonance with same frequency Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "What is the beat frequency produced by two tuning forks of frequencies 256 Hz and 260 Hz? A. 516 Hz B. 4 Hz (|260 - 256| = 4 beats per second) C. 2 Hz D. 10 Hz Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is Laplace's correction to Newton's formula for the speed of sound in an ideal gas? A. Isothermal: v = sqrt(P/rho) B. Adiabatic: v = sqrt(gamma * P / rho) C. Isobaric: v = sqrt(T/rho) D. v = P * rho Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the ratio of molar heat capacities gamma = Cp / Cv for air (diatomic gas)? A. 1.67 B. 1.40 C. 1.33 D. 1.00 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What happens to the speed of sound in air when humidity increases? A. Decreases B. Increases (humid air has lower density than dry air) C. Remains unchanged D. Becomes zero Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the threshold of hearing intensity (I0) in SI units (W m^-2)? A. 1 W m^-2 B. 1.0 * 10^-12 W m^-2 C. 1.0 * 10^-6 W m^-2 D. 10^-10 W m^-2 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is sound intensity level beta in decibels (dB)? A. beta = 10 * log10(I / I0) B. beta = log10(I / I0) C. beta = 20 * ln(I / I0) D. beta = I / I0 Answer: A"
+          },
+          {
+            "number": 20,
+            "content": "What is the Doppler effect in sound? A. Change in sound speed with temperature B. Apparent change in frequency/pitch due to relative motion between source and observer C. Echo from a wall D. Bending of sound around obstacles Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -382,11 +1030,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The ideal-gas equation is: A. pV = nRT B. pT = nRV C. pV = nT/R D. p = nRTV Answer: A"
+            "content": "What is the ideal gas equation for n moles of gas? A. P * V = n * R * T B. P / V = n * R * T C. P * V = k * T D. P * T = n * R * V Answer: A"
           },
           {
             "number": 2,
-            "content": "The average translational kinetic energy of an ideal-gas molecule is proportional to: A. Celsius temperature B. absolute temperature C. pressure only D. volume only Answer: B"
+            "content": "What is Boltzmann constant k_B in terms of gas constant R and Avogadro's number N_A? A. k_B = R * N_A B. k_B = R / N_A (~1.38 * 10^-23 J K^-1) C. k_B = N_A / R D. k_B = R / (2*N_A) Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the fundamental pressure equation of an ideal gas from kinetic theory (N molecules, mass m, volume V)? A. P = (1/3) * (N*m / V) * c_rms^2 = (1/3) * rho * c_rms^2 B. P = (1/2) * rho * c_rms^2 C. P = rho * c_rms^2 D. P = (2/3) * rho * c_rms Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "What is the root mean square speed (c_rms) formula for an ideal gas? A. c_rms = sqrt(3RT / M) B. c_rms = sqrt(8RT / (pi*M)) C. c_rms = sqrt(2RT / M) D. c_rms = 3RT / M Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the average kinetic energy of one molecule of a monoatomic ideal gas? A. (1/2) k_B * T B. (3/2) k_B * T C. 3 k_B * T D. (5/2) k_B * T Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the total translational kinetic energy of 1 mole of an ideal gas at temperature T? A. (1/2) R * T B. (3/2) R * T C. 3 R * T D. (5/2) R * T Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "At what temperature does the kinetic energy of an ideal gas become theoretically zero? A. 0 °C B. 0 Kelvin (-273.15 °C, Absolute Zero) C. 100 K D. -100 °C Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What are the degrees of freedom (f) for a monoatomic gas molecule (e.g., He, Ar)? A. 5 B. 3 (translational only) C. 6 D. 1 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What are the degrees of freedom for a rigid diatomic gas molecule (e.g., O2, N2) at room temperature? A. 3 B. 5 (3 translational + 2 rotational) C. 6 D. 7 Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "According to law of equipartition of energy, what is the average energy associated with each degree of freedom per molecule? A. k_B * T B. (1/2) k_B * T C. (3/2) k_B * T D. 2 k_B * T Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is gamma (Cp / Cv) for a monoatomic gas? A. 1.40 B. 1.67 (5/3) C. 1.33 (4/3) D. 1.28 Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is gamma (Cp / Cv) for a diatomic gas? A. 1.67 B. 1.40 (7/5) C. 1.33 D. 1.50 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the mean free path (lambda) of gas molecules according to Clausius/Maxwell? A. lambda = 1 / (sqrt(2) * pi * n * d^2) B. lambda = pi * n * d^2 C. lambda = sqrt(2) / (n * d) D. lambda = n * d^2 Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "What is dew point? A. 0 °C B. The temperature at which unsaturated air becomes saturated with water vapor present in it C. Boiling point of water D. 100 °C Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is relative humidity (RH)? A. (SVP at dew point / SVP at air temperature) * 100 B. (Actual vapor pressure f / Saturated vapor pressure F at air temperature) * 100 C. (Mass of air / Mass of vapor) * 100 D. Dew point / Air temperature Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "When the dry bulb and wet bulb thermometers of a hygrometer show the same reading, the relative humidity is: A. 0% B. 100% (air is completely saturated) C. 50% D. 75% Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "If relative humidity is high (e.g., 90%), rate of evaporation of sweat from human skin is: A. Very rapid B. Very slow (feels muggy and uncomfortable) C. Unaffected D. Zero always Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What instrument is used to determine relative humidity in meteorology? A. Barometer B. Wet and Dry Bulb Hygrometer (Psychrometer) C. Anemometer D. Manometer Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Under what conditions does a real gas behave most like an ideal gas? A. High pressure and low temperature B. Low pressure and high temperature C. High pressure and high temperature D. Low pressure and low temperature Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the value of absolute zero temperature on the Fahrenheit scale? A. -459.67 °F B. -273.15 °F C. -32 °F D. 0 °F Answer: A"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly. PHYSICS 2ND PAPER",
@@ -421,11 +1141,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "In an isochoric process, the: A. pressure is constant B. volume is constant C. temperature is constant D. heat transfer is zero Answer: B"
+            "content": "What does the zeroth law of thermodynamics define? A. Internal energy B. Temperature and thermal equilibrium C. Entropy D. Work Answer: B"
           },
           {
             "number": 2,
-            "content": "Carnot efficiency depends on: A. working substance only B. engine size C. source and sink temperatures D. pressure only Answer: C"
+            "content": "According to the first law of thermodynamics, what is the relation between heat dQ, internal energy dU, and work dW? A. dQ = dU + dW (conservation of energy) B. dQ = dU - dW C. dU = dQ + dW D. dW = dQ * dU Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "In an isothermal process for an ideal gas, which quantity remains constant? A. Pressure B. Temperature (Delta T = 0, Delta U = 0) C. Volume D. Heat content Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the work done W in an isothermal expansion of n moles of an ideal gas from V1 to V2? A. W = n * R * T * ln(V2 / V1) B. W = P * (V2 - V1) C. W = n * R * (T2 - T1) D. W = 0 Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "In an adiabatic process, what is the heat exchange between system and surroundings? A. Maximum B. Zero (dQ = 0, dU = - dW) C. Constant and positive D. Infinite Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the relation between pressure P and volume V in a reversible adiabatic process? A. P * V = constant B. P * V^gamma = constant C. T * V^gamma = constant D. P^gamma * V = constant Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "In an isobaric process, which thermodynamic property remains constant? A. Volume B. Pressure (P = constant, W = P * Delta V) C. Temperature D. Entropy Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "In an isochoric (isovolumetric) process, what is the work done by the gas? A. Maximum B. Zero (dW = P * dV = 0) C. n * R * T D. Delta U Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "Molar heat capacity at constant pressure Cp and at constant volume Cv satisfy Mayer's relation: A. Cp + Cv = R B. Cp - Cv = R C. Cp / Cv = R D. Cv - Cp = R Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the efficiency (eta) formula of a Carnot heat engine operating between source T1 and sink T2 (in Kelvin)? A. eta = 1 - (T2 / T1) = (T1 - T2) / T1 B. eta = 1 - (T1 / T2) C. eta = T2 / T1 D. eta = T1 / (T1 - T2) Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "Can a heat engine operating in a cycle achieve 100% efficiency? A. Yes, if friction is zero B. No, second law prohibits 100% conversion of heat into work without a colder sink at 0 K C. Yes, in Carnot engine D. Depends on working substance Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "Carnot cycle consists of which four reversible processes in sequence? A. Two isochoric and two isobaric B. Two reversible isothermals and two reversible adiabatics C. Four isothermals D. Four adiabatics Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the mathematical definition of entropy change dS for a reversible process? A. dS = dW / T B. dS = dQ_rev / T C. dS = T * dQ D. dS = dU / T Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "In an irreversible natural spontaneous process in an isolated system, the entropy of the universe: A. Decreases B. Increases (Delta S_universe > 0) C. Remains constant D. Becomes zero Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "In a reversible Carnot cycle, what is the total change in entropy of the universe? A. Positive B. Zero (Delta S = 0) C. Negative D. Infinite Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "The coefficient of performance (COP) beta of an ideal Carnot refrigerator is given by: A. T1 / (T1 - T2) B. T2 / (T1 - T2) C. (T1 - T2) / T2 D. 1 - T2 / T1 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "A Carnot engine absorbs 1000 J of heat from a reservoir at 600 K and rejects heat to 300 K. What is its efficiency? A. 25% B. 50% (1 - 300/600 = 0.50) C. 75% D. 100% Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Which law of thermodynamics states that absolute zero (0 K) cannot be reached in a finite number of steps? A. Zeroth law B. Third law of thermodynamics (Nernst heat theorem) C. First law D. Second law Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the slope of an adiabatic PV curve compared to an isothermal PV curve at the same point? A. Same B. gamma times steeper (Slope_adi = gamma * Slope_iso) C. 1/gamma times D. Half Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Clausius statement of the second law of thermodynamics relates to: A. Heat engines B. Heat cannot flow spontaneously from a colder body to a hotter body without external work C. Entropy of universe D. Conservation of energy Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -460,11 +1252,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The SI unit of electric field is: A. N C■¹ B. C N■¹ C. J C D. N m Answer: A"
+            "content": "Coulomb's law for electrostatic force F between charges q1 and q2 separated by distance r is: A. F = (1 / (4*pi*epsilon0)) * (q1 * q2 / r^2) B. F = (1 / (4*pi*epsilon0)) * (q1 * q2 / r) C. F = q1 * q2 / r^2 D. F = 4*pi*epsilon0 * q1 * q2 / r^2 Answer: A"
           },
           {
             "number": 2,
-            "content": "The capacitance of a parallel-plate capacitor increases when: A. plate area decreases B. separation increases C. plate area increases D. dielectric is removed Answer: C"
+            "content": "What is the value of 1 / (4*pi*epsilon0) in SI units (N m^2 C^-2)? A. 8.854 * 10^-12 B. 9.0 * 10^9 N m^2 C^-2 C. 1.602 * 10^-19 D. 6.674 * 10^-11 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the SI unit and value of permittivity of free space epsilon0? A. 8.854 * 10^-12 C^2 N^-1 m^-2 (or F m^-1) B. 9.0 * 10^9 C. 1.6 * 10^-19 D. 8.854 * 10^-11 Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "What is the relation between electric field intensity E and electrostatic potential V? A. E = - dV / dr (negative potential gradient) B. E = dV / dr C. V = - dE / dr D. E = V * r Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the electric field intensity E inside a charged hollow spherical conducting shell? A. Maximum B. Zero (E = 0 everywhere inside) C. V / R D. Infinity Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the electric potential V inside a charged conducting sphere of radius R and surface charge Q? A. Zero B. Constant and equal to its value on the surface (V = Q / (4*pi*epsilon0*R)) C. Decreases to center D. V / 2 Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "Electric dipole moment p for charges +q and -q separated by distance 2a is: A. p = q * a B. p = q * 2a (directed from negative to positive charge) C. p = q / 2a D. p = 2q / a Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the torque tau on an electric dipole p placed in uniform electric field E? A. tau = p . E B. tau = p x E = p * E * sin theta C. tau = E x p D. tau = p * E * cos theta Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "According to Gauss's law, total electric flux Phi through any closed surface enclosing net charge Q_in is: A. Phi = Q_in / epsilon0 B. Phi = epsilon0 / Q_in C. Phi = Q_in * epsilon0 D. Phi = 4*pi * Q_in Answer: A"
+          },
+          {
+            "number": 10,
+            "content": "What is the capacitance C of an isolated spherical conductor of radius R in air? A. C = R B. C = 4*pi * epsilon0 * R C. C = R / (4*pi*epsilon0) D. C = 2*pi * epsilon0 * R^2 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the capacitance C of a parallel plate capacitor (plate area A, separation d, dielectric k)? A. C = k * epsilon0 * A / d B. C = epsilon0 * A * d C. C = k * epsilon0 * d / A D. C = A / (epsilon0 * d) Answer: A"
+          },
+          {
+            "number": 12,
+            "content": "What is the energy U stored in a charged capacitor (capacitance C, voltage V, charge Q)? A. U = C * V B. U = (1/2) C * V^2 = (1/2) Q * V = Q^2 / (2C) C. U = C * V^2 D. U = (1/2) C^2 * V Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "When capacitors C1 and C2 are connected in parallel, the equivalent capacitance C_p is: A. C1 * C2 / (C1 + C2) B. C1 + C2 C. sqrt(C1 * C2) D. 1 / (C1 + C2) Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "When capacitors C1 and C2 are connected in series, the equivalent capacitance C_s is: A. C1 + C2 B. C1 * C2 / (C1 + C2) C. (C1 + C2) / 2 D. 1 / (C1 * C2) Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the energy density u_E (energy per unit volume) in an electric field E? A. epsilon0 * E^2 B. (1/2) * epsilon0 * E^2 C. (1/2) * E^2 / epsilon0 D. epsilon0 * E Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What happens to the capacitance of a parallel plate capacitor when a dielectric slab (k > 1) is inserted? A. Decreases B. Increases by a factor of k (C = k * C0) C. Remains unchanged D. Becomes zero Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the potential energy of an electric dipole p in uniform electric field E? A. U = p * E * sin theta B. U = - p . E = - p * E * cos theta C. U = p . E D. U = (1/2) p * E Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Electric field lines never cross each other because: A. They are imaginary B. At the point of intersection, there would be two unique tangents indicating two directions of electric field, which is impossible C. They are closed loops D. They attract each other Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "The work done in moving a test charge over an equipotential surface is: A. Maximum B. Zero (W = q * Delta V = 0) C. Negative D. Depends on path length Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the charge of one electron / proton in Coulombs? A. 9.11 * 10^-31 C B. 1.602 * 10^-19 C C. 6.022 * 10^23 C D. 1.0 C Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -498,11 +1362,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The SI unit of resistivity is: A. Ω B. Ω m C. Ω m■¹ D. S m Answer: B"
+            "content": "Ohm's law states that electric current I through a conductor is proportional to voltage V provided: A. Length changes B. Temperature and other physical conditions remain constant (V = I * R) C. Resistance varies D. Frequency is zero Answer: B"
           },
           {
             "number": 2,
-            "content": "Kirchhoff's junction rule is based on conservation of: A. energy B. charge C. momentum D. mass Answer: B"
+            "content": "What is the drift velocity v_d formula in terms of current I, free electron density n, area A, and charge e? A. v_d = I / (n * A * e) B. v_d = I * n * A * e C. v_d = n * e / (I * A) D. v_d = I * A / (n * e) Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "What is the electrical resistance R of a wire of length L, cross-sectional area A, and resistivity rho? A. R = rho * A / L B. R = rho * L / A C. R = L / (rho * A) D. R = rho / (L * A) Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What are the SI units of electrical resistivity (rho)? A. Ohm / meter B. Ohm meter (Omega m) C. Ohm meter^-2 D. Siemens m^-1 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is electrical conductivity (sigma) defined as? A. Resistance B. Reciprocal of resistivity (sigma = 1 / rho, unit: S m^-1 or Omega^-1 m^-1) C. Current / Voltage D. Resistivity * length Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "How does the resistance of a metallic conductor change with increasing temperature? A. Decreases B. Increases linearly (R_T = R_0 * (1 + alpha * Delta T)) C. Remains constant D. First decreases then increases Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "How does the resistance of a semiconductor (e.g. Silicon, Germanium) change with temperature? A. Increases B. Decreases exponentially (negative temperature coefficient of resistance) C. Remains unchanged D. Becomes infinite Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Kirchhoff's first law (Junction Rule: sum I = 0) is a direct consequence of conservation of: A. Energy B. Electric charge C. Linear momentum D. Angular momentum Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "Kirchhoff's second law (Loop Rule: sum V = sum I*R) is a consequence of conservation of: A. Charge B. Energy C. Magnetic flux D. Mass Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the balance condition for a Wheatstone bridge with four arms P, Q, R, S? A. P * Q = R * S B. P / Q = R / S (or P * S = Q * R) C. P + Q = R + S D. P - Q = R - S Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Meter bridge is an experimental apparatus based on the principle of: A. Potentiometer B. Balanced Wheatstone bridge (P/Q = l / (100 - l)) C. Ohm's law directly D. Seebeck effect Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the principle of a potentiometer for comparing EMFs of two cells? A. Balanced bridge B. Potential drop across a uniform wire is directly proportional to length (E proportional to l) C. High resistance ammeter D. Thermocouple Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Why is a potentiometer preferred over an ordinary voltmeter to measure cell EMF? A. Draws heavy current B. Draws zero current at null balance point (acts as ideal voltmeter with infinite resistance) C. Cheaper D. Very small in size Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the terminal potential difference V of a cell of EMF E and internal resistance r discharging current I? A. V = E + I * r B. V = E - I * r C. V = E / r D. V = I * r Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the maximum power transfer theorem condition for an external load R connected to a cell of internal resistance r? A. R = 0 B. R = r (Load resistance equals internal resistance) C. R = infinity D. R = 2r Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is Joule's law of electric heating (heat H generated by current I in resistance R in time t)? A. H = I * R * t B. H = I^2 * R * t (or V^2*t / R) C. H = I^2 / (R * t) D. H = V * I^2 * t Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the equivalent resistance of two resistors R1 and R2 connected in parallel? A. R1 + R2 B. R1 * R2 / (R1 + R2) C. (R1 + R2) / 2 D. sqrt(R1 * R2) Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "How is an ammeter connected in an electrical circuit, and what should be its ideal resistance? A. In parallel, zero B. In series, ideal resistance is zero C. In series, infinite D. In parallel, infinite Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "How is a voltmeter connected in a circuit, and what should be its ideal resistance? A. In series, zero B. In parallel, ideal resistance is infinite C. In series, infinite D. In parallel, zero Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "How to convert a galvanometer into an ammeter of desired range? A. Connect a high resistance in series B. Connect a small resistance (shunt, S) in parallel with galvanometer C. Connect a low resistance in series D. Remove the coil Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -535,11 +1471,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Magnetic force on a moving charge is maximum when velocity and field are: A. parallel B. antiparallel C. perpendicular D. at 30° Answer: C"
+            "content": "According to Biot-Savart law, the magnetic field dB due to a current element I dl at distance r is: A. dB = (mu0 / 4*pi) * (I dl x r) / r^3 B. dB = (mu0 / 4*pi) * I dl / r C. dB = mu0 * I dl * r D. dB = I dl / r^2 Answer: A"
           },
           {
             "number": 2,
-            "content": "The SI unit of magnetic flux is: A. tesla B. weber C. henry D. ampere Answer: B"
+            "content": "What is the magnetic field B at a perpendicular distance r from a long, straight wire carrying current I? A. B = mu0 * I / (4*pi*r) B. B = mu0 * I / (2*pi*r) C. B = mu0 * I * r D. B = 2*pi * mu0 * I / r Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the magnetic field B at the center of a circular coil of radius R having N turns and carrying current I? A. B = mu0 * N * I / (4*R) B. B = mu0 * N * I / (2*R) C. B = mu0 * N * I / (2*pi*R) D. B = mu0 * I / R^2 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the magnetic field B inside a long ideal solenoid having n turns per unit length carrying current I? A. B = mu0 * n * I B. B = (1/2) mu0 * n * I C. B = mu0 * n / I D. B = 2*pi * mu0 * n * I Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the magnetic Lorentz force F on a charge q moving with velocity v in a magnetic field B? A. F = q * (v . B) B. F = q * (v x B) = q * v * B * sin theta C. F = q * (B x v) D. F = v * (q x B) Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "When a charged particle enters a uniform magnetic field perpendicularly (theta = 90°), what is the shape of its path? A. Straight line B. Circular (with radius r = m*v / (q*B)) C. Parabolic D. Hyperbolic Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the magnetic force F on a straight conductor of length L carrying current I in uniform magnetic field B? A. F = I * (L . B) B. F = I * (L x B) = I * L * B * sin theta C. F = L * (I x B) D. F = I * B / L Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Two long parallel wires carrying currents I1 and I2 in the same direction separated by distance d will: A. Repel each other B. Attract each other with force F/L = mu0 * I1 * I2 / (2*pi*d) C. Rotate perpendicularly D. Exert zero force Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the magnetic dipole moment M of a current-carrying loop of area A and N turns carrying current I? A. M = N * I / A B. M = N * I * A C. M = I * A / N D. M = N * A / I Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the torque tau experienced by a magnetic dipole M in uniform magnetic field B? A. tau = M . B B. tau = M x B = M * B * sin theta C. tau = B x M D. tau = M * B * cos theta Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is the value of permeability of free space mu0 in SI units? A. 9.0 * 10^9 B. 4*pi * 10^-7 T m A^-1 (or H m^-1) C. 8.854 * 10^-12 D. 1.602 * 10^-19 Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the SI unit of magnetic field B (magnetic flux density)? A. Weber (Wb) B. Tesla (T, 1 T = 1 N A^-1 m^-1 = 1 Wb m^-2) C. Gauss D. Ampere/meter Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the SI unit of magnetic flux Phi_B? A. Tesla B. Weber (Wb = T m^2) C. Henry D. Coulomb Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What are the magnetic properties of a diamagnetic substance? A. Strongly attracted by magnets B. Feebly repelled by magnets (relative permeability mu_r < 1, negative susceptibility) C. Retains permanent magnetism D. Attracted towards stronger magnetic field Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "Which material is an example of a ferromagnetic substance? A. Aluminum B. Iron, Nickel, and Cobalt (high positive susceptibility) C. Copper D. Water Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Above which temperature does a ferromagnetic substance lose its spontaneous magnetization and become paramagnetic? A. Boyle temperature B. Curie temperature (T_C) C. Critical temperature D. Absolute zero Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is magnetic declination (angle of declination)? A. Angle of dip B. Angle between geographic meridian and magnetic meridian at a place C. Angle of compass needle with horizontal D. Latitude of place Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the angle of dip (magnetic inclination) at the Earth's magnetic equator? A. 90° B. 0° (horizontal magnetic field) C. 45° D. 180° Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the angle of dip (magnetic inclination) at the Earth's magnetic poles? A. 0° B. 90° (vertical magnetic field) C. 45° D. 60° Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Cyclotron frequency (gyrofrequency) f_c for a charged particle (mass m, charge q) in field B is: A. f_c = q*B / (2*pi*m) B. f_c = 2*pi*m / (q*B) C. f_c = q*m / (2*pi*B) D. f_c = B / (q*m) Answer: A"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -573,11 +1581,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "At series RLC resonance: A. XL > XC B. XL < XC C. XL = XC D. R = 0 Answer: C"
+            "content": "Faraday's law of electromagnetic induction states that induced EMF epsilon equals: A. epsilon = - dPhi_B / dt B. epsilon = dPhi_B / dt C. epsilon = - L * dI / dt D. epsilon = Phi_B * t Answer: A"
           },
           {
             "number": 2,
-            "content": "The RMS value of a sinusoidal current with peak value I■ is: A. I■ B. I■/2 C. I■/√2 D. √2I■ Answer: C"
+            "content": "Lenz's law states that the direction of induced current always opposes the change producing it, which is a consequence of: A. Conservation of charge B. Conservation of energy C. Conservation of momentum D. Ampere's law Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the motional EMF induced across a conductor of length L moving with speed v perpendicular to uniform field B? A. epsilon = B * L / v B. epsilon = B * L * v C. epsilon = B * v / L D. epsilon = (1/2) B * L * v^2 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the self-inductance L formula relating induced EMF epsilon and rate of change of current dI/dt? A. epsilon = - L * (dI / dt) B. epsilon = - L / (dI / dt) C. L = epsilon * dI * dt D. epsilon = L * I * t Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the SI unit of self-inductance and mutual inductance? A. Tesla B. Henry (H = 1 Wb A^-1 = 1 V s A^-1) C. Weber D. Farad Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the energy U stored in the magnetic field of an inductor of inductance L carrying current I? A. U = L * I B. U = (1/2) * L * I^2 C. U = L * I^2 D. U = (1/2) * L^2 * I Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "In an ideal step-up transformer (primary turns Np, secondary turns Ns with Ns > Np), what happens to voltage and current? A. Voltage decreases, current increases B. Voltage increases (Vs > Vp), current decreases (Is < Ip) C. Both increase D. Both decrease Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the turns ratio equation for an ideal transformer? A. Vs / Vp = Ns / Np = Ip / Is B. Vs / Vp = Np / Ns C. Vs * Vp = Ns * Np D. Is / Ip = Ns / Np Answer: A"
+          },
+          {
+            "number": 9,
+            "content": "What type of core is used in transformers to minimize eddy current energy losses? A. Solid soft iron block B. Thin insulated laminated silicon steel sheets C. Copper core D. Air core only Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the relationship between peak voltage V0 and root mean square voltage V_rms for sinusoidal AC? A. V_rms = V0 * sqrt(2) B. V_rms = V0 / sqrt(2) (~0.707 * V0) C. V_rms = 2 * V0 / pi D. V_rms = V0 / 2 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "In Bangladesh and Europe, what is the standard domestic AC line voltage and frequency? A. 110 V, 60 Hz B. 220 V (or 230 V), 50 Hz C. 220 V, 60 Hz D. 100 V, 50 Hz Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the inductive reactance X_L of an inductor of inductance L at AC frequency f? A. X_L = 1 / (2*pi*f*L) B. X_L = 2*pi * f * L = omega * L C. X_L = 2*pi * f / L D. X_L = f * L^2 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the capacitive reactance X_C of a capacitor of capacitance C at AC frequency f? A. X_C = 2*pi * f * C B. X_C = 1 / (2*pi * f * C) = 1 / (omega * C) C. X_C = 1 / (f^2 * C) D. X_C = 2*pi * C / f Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "In a purely inductive AC circuit, what is the phase relationship between voltage V and current I? A. Current leads voltage by 90° B. Voltage leads current by 90° (pi/2 radians) C. In phase D. Opposite phase (180°) Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "In a purely capacitive AC circuit, what is the phase relationship between current and voltage? A. Voltage leads current by 90° B. Current leads voltage by 90° (pi/2 radians) C. In phase D. 180° out of phase Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the impedance Z of a series LCR circuit (resistance R, reactance X_L and X_C)? A. Z = R + X_L + X_C B. Z = sqrt(R^2 + (X_L - X_C)^2) C. Z = sqrt(R^2 + X_L^2 + X_C^2) D. Z = R - X_L - X_C Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "At electrical resonance in a series LCR circuit, what is the condition between reactances? A. X_L = 0 B. X_L = X_C (Impedance Z is minimum and equals R) C. X_C = 0 D. R = 0 Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the resonant frequency f0 of a series LCR circuit? A. f0 = 2*pi * sqrt(L * C) B. f0 = 1 / (2*pi * sqrt(L * C)) C. f0 = sqrt(L / C) / (2*pi) D. f0 = 1 / (L * C) Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is the power factor cos(phi) of a series LCR circuit at resonance (phi = 0)? A. 0 B. 1.0 (unity power factor) C. 0.5 D. -1.0 Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the average power dissipated in a purely reactive AC circuit (pure L or pure C where phi = 90°)? A. V_rms * I_rms B. Zero (P_avg = V_rms * I_rms * cos(90°) = 0, wattless current) C. Infinite D. (1/2) V0 * I0 Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -612,11 +1692,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "A lens of focal length 0.5 m has power: A. 0.5 D B. 1 D C. 2 D D. 5 D Answer: C"
+            "content": "According to Snell's law of refraction, what is the constant ratio of sin(i) to sin(r)? A. sin(i) / sin(r) = n2 / n1 = 1_n_2 B. sin(i) * sin(r) = constant C. sin(r) / sin(i) = n2 D. sin(i) - sin(r) = 0 Answer: A"
           },
           {
             "number": 2,
-            "content": "Total internal reflection occurs when light travels from: A. rarer to denser medium B. denser to rarer medium above critical angle C. vacuum to air only D. any medium at normal incidence Answer: B"
+            "content": "What is critical angle theta_c for total internal reflection when light travels from dense medium (n1) to rare medium (n2)? A. sin(theta_c) = n1 / n2 B. sin(theta_c) = n2 / n1 (where n1 > n2) C. cos(theta_c) = n2 / n1 D. tan(theta_c) = n2 / n1 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Optical fibers transmit light signals over long distances with minimal loss using: A. Diffraction B. Total Internal Reflection (TIR) C. Refraction D. Polarization Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the lens maker's formula for a thin lens of refractive index n and radii of curvature R1, R2? A. 1 / f = (n - 1) * (1/R1 - 1/R2) B. 1 / f = (n + 1) * (1/R1 + 1/R2) C. 1 / f = n * (R1 - R2) D. f = (n - 1) * (R1 + R2) Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the thin lens formula relating focal length f, image distance v, and object distance u? A. 1/v - 1/u = 1/f B. 1/v + 1/u = 1/f C. v + u = f D. 1/f = u * v Answer: A"
+          },
+          {
+            "number": 6,
+            "content": "What is the optical power P of a lens with focal length f (in meters)? A. P = f B. P = 1 / f (unit: Dioptre, D) C. P = 100 * f D. P = f^2 Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the focal length of a converging lens of power +2.5 Dioptres? A. +2.5 m B. +0.4 m (40 cm) C. +0.25 m D. +1.0 m Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "When two thin lenses of focal lengths f1 and f2 are placed in contact, their combined focal length F is: A. F = f1 + f2 B. 1/F = 1/f1 + 1/f2 (or F = f1*f2 / (f1 + f2)) C. F = f1 * f2 D. 1/F = f1 - f2 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "For an equilateral triangular prism (angle A = 60°), the refractive index n at minimum deviation delta_m is: A. n = sin((A + delta_m) / 2) / sin(A / 2) B. n = sin(A) / sin(delta_m) C. n = (A + delta_m) / A D. n = sin(delta_m / 2) / sin(A) Answer: A"
+          },
+          {
+            "number": 10,
+            "content": "What is the condition for minimum deviation (delta_m) through a prism? A. Angle of incidence i1 = 90° B. Angle of incidence equals angle of emergence (i1 = i2 and r1 = r2) C. r1 = 0 D. delta = 0 Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Which color of visible light undergoes maximum deviation when passed through a glass prism? A. Red (longest wavelength) B. Violet (highest refractive index n) C. Yellow D. Green Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "Which defect of vision (nearsightedness) is corrected using a concave (diverging) lens? A. Hypermetropia B. Myopia C. Presbyopia D. Astigmatism Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Which defect of vision (farsightedness) is corrected using a convex (converging) lens? A. Myopia B. Hypermetropia C. Cataract D. Glaucoma Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the near point distance of a normal healthy human eye? A. Infinity B. 25 cm (0.25 m) C. 10 cm D. 50 cm Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the magnifying power M of a simple microscope (magnifying glass, focal length f) at least distance of distinct vision D = 25 cm? A. M = D / f B. M = 1 + (D / f) C. M = 1 - (D / f) D. M = f / D Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the magnifying power of a compound microscope in normal adjustment (image at infinity)? A. M = (L / fo) * (D / fe) B. M = (L / fo) * (1 + D / fe) C. M = fo / fe D. M = fe / fo Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "What is the magnifying power M of an astronomical telescope in normal adjustment? A. M = fe / fo B. M = fo / fe C. M = fo * fe D. M = 1 + fo / fe Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the length L of an astronomical telescope in normal adjustment (focal lengths fo and fe)? A. fo - fe B. fo + fe C. fo * fe D. 2 * fo Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Why is chromatic aberration completely absent in reflecting telescopes? A. Mirrors have short focal lengths B. Reflection obeys laws of reflection independent of light wavelength C. Silver coating is achromatic D. Mirrors use polarized light Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What causes mirage in deserts on hot sunny days? A. Diffraction B. Total internal reflection in air layers of varying density/temperature C. Interference D. Scattering of blue light Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -650,11 +1802,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "Polarisation is evidence that light is: A. longitudinal B. transverse C. a sound wave D. stationary Answer: B"
+            "content": "According to Huygens' wave principle, each point on a primary wavefront acts as a source of: A. Electromagnetic radiation B. Secondary wavelets spreading out in all directions with wave speed C. Particles D. Transverse rays only Answer: B"
           },
           {
             "number": 2,
-            "content": "In Young's double-slit experiment, fringe width increases when: A. slit separation increases B. wavelength decreases C. screen distance increases D. screen distance decreases Answer: C"
+            "content": "What is the shape of the wavefront originating from a point light source in isotropic medium? A. Planar B. Spherical wavefront C. Cylindrical D. Elliptical Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What is the shape of the wavefront originating from a distant star or collimated parallel beam? A. Spherical B. Plane wavefront C. Cylindrical D. Parabolic Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What are coherent sources of light? A. Sources emitting same color only B. Sources having same frequency and constant or zero phase difference C. Two independent light bulbs D. Lasers of different wavelengths Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "In Young's double-slit experiment (slit separation d, screen distance D), what is fringe width beta? A. beta = d * lambda / D B. beta = lambda * D / d C. beta = D / (lambda * d) D. beta = lambda / (D * d) Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is the condition for constructive interference (bright fringe) in terms of path difference Delta x? A. Delta x = n * lambda (where n = 0, 1, 2...) B. Delta x = (2n + 1) * lambda / 2 C. Delta x = (2n - 1) * lambda D. Delta x = lambda / 4 Answer: A"
+          },
+          {
+            "number": 7,
+            "content": "What is the condition for destructive interference (dark fringe) in terms of path difference Delta x? A. Delta x = n * lambda B. Delta x = (2n + 1) * lambda / 2 (where n = 0, 1, 2...) C. Delta x = 2n * lambda D. Delta x = lambda Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "If Young's double-slit apparatus is immersed completely in water (n = 4/3), what happens to fringe width? A. Increases B. Decreases (since lambda_water = lambda / n, fringe width decreases by 4/3) C. Remains unchanged D. Fringes disappear Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the phenomenon of bending of light waves around corners of an obstacle or narrow aperture called? A. Refraction B. Diffraction C. Polarization D. Dispersion Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "In single-slit Fraunhofer diffraction (slit width a), what is the condition for minima? A. a * sin theta = n * lambda (n = 1, 2, 3...) B. a * sin theta = (2n + 1) * lambda / 2 C. a * sin theta = lambda / 2 D. a = n * lambda Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "What is the width of the central diffraction maximum in single-slit Fraunhofer diffraction? A. lambda * D / a B. 2 * lambda * D / a (twice the width of secondary maxima) C. lambda * D / (2a) D. 4 * lambda * D / a Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is a diffraction grating? A. Single slit of wide aperture B. An arrangement of large number of equidistant, parallel, closely spaced transparent slits C. Convex lens D. Prism Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the grating equation for principal maxima (grating element d = a + b)? A. (a + b) * sin theta = n * lambda (or d * sin theta = n * lambda) B. d * cos theta = n * lambda C. d * tan theta = lambda D. sin theta = n * d * lambda Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "Which optical phenomenon definitively proves that light is a transverse wave, not longitudinal? A. Interference B. Polarization (longitudinal waves cannot be polarized) C. Diffraction D. Refraction Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "According to Brewster's law, what is the relation between polarizing angle i_p and refractive index n? A. n = sin(i_p) B. n = tan(i_p) C. n = cos(i_p) D. n = 1 / tan(i_p) Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "When unpolarized light is incident at Brewster's polarizing angle, what is the angle between reflected and refracted rays? A. 0° B. 90° (reflected ray is completely plane polarized perpendicular to plane of incidence) C. 180° D. 45° Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "According to Malus's law, transmitted intensity I of plane-polarized light through an analyzer at angle theta is: A. I = I0 * cos(theta) B. I = I0 * cos^2(theta) C. I = I0 * sin^2(theta) D. I = I0 / cos(theta) Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "When an unpolarized light beam of intensity I0 passes through a single ideal Polaroid filter, the transmitted intensity is: A. I0 B. (1/2) * I0 C. (1/4) * I0 D. Zero Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What causes the brilliant iridescent colors seen on thin soap bubbles or oil films on water? A. Diffraction B. Interference of light reflected from upper and lower surfaces of thin film C. Polarization D. Scattering Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is Rayleigh's criterion for resolution of two closely spaced point sources through circular aperture diameter D? A. theta_min = lambda / D B. theta_min = 1.22 * lambda / D C. theta_min = 0.61 * D / lambda D. theta_min = 2 * lambda / D Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -688,11 +1912,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The energy of a photon is: A. h/f B. hf C. hλ D. f/h Answer: B"
+            "content": "What are the two fundamental postulates of Einstein's Special Theory of Relativity (1905)? A. Ether exists and time is absolute B. Laws of physics are identical in all inertial frames, and speed of light c in vacuum is constant for all observers C. Mass is absolute and energy is relative D. Space is Euclidean and speed of light is infinite Answer: B"
           },
           {
             "number": 2,
-            "content": "The de Broglie wavelength is inversely proportional to: A. momentum B. charge C. temperature D. time Bangladesh HSC Physics | First & Second Paper Page 16 Answer: A"
+            "content": "What is the Lorentz factor gamma formula for a particle moving at speed v relative to speed of light c? A. gamma = sqrt(1 - v^2/c^2) B. gamma = 1 / sqrt(1 - v^2 / c^2) C. gamma = 1 + v^2/c^2 D. gamma = 1 / (1 - v/c) Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "According to relativistic length contraction, the measured length L of a moving rod in direction of motion is: A. L = L0 * gamma B. L = L0 * sqrt(1 - v^2 / c^2) C. L = L0 / (1 - v^2/c^2) D. L = L0 Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "According to relativistic time dilation, a moving clock runs: A. Faster B. Slower (t = t0 / sqrt(1 - v^2/c^2)) C. At normal rate D. Backwards Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the relativistic mass m of a particle with rest mass m0 moving at speed v? A. m = m0 * (1 - v^2/c^2) B. m = m0 / sqrt(1 - v^2 / c^2) C. m = m0 * sqrt(1 - v^2/c^2) D. m = m0 + v/c Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What is Einstein's mass-energy equivalence equation? A. E = m * c B. E = m * c^2 C. E = (1/2) m * c^2 D. E = m^2 * c Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the relativistic momentum p and total energy E relation (invariant mass relation)? A. E^2 = p^2 * c^2 + m0^2 * c^4 B. E = p * c + m0 * c^2 C. E^2 = p * c^2 + m0 * c^2 D. p = E * c Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "What is the rest mass of a photon? A. 1.67 * 10^-27 kg B. Zero (m0 = 0, photon always moves at c) C. 9.11 * 10^-31 kg D. Variable with frequency Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the energy of a photon of frequency nu and wavelength lambda? A. E = h / nu B. E = h * nu = h * c / lambda C. E = h * lambda / c D. E = c / (h * nu) Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the value of Planck's constant h in SI units (J s)? A. 6.626 * 10^-34 J s B. 1.055 * 10^-34 C. 3.0 * 10^8 D. 6.022 * 10^23 Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "In the photoelectric effect, Einstein's photoelectric equation is: A. h * nu = W0 + (1/2) m * v_max^2 (or h*nu = W0 + e * V0) B. h * nu = W0 - e * V0 C. W0 = h * nu + e * V0 D. e * V0 = h / nu Answer: A"
+          },
+          {
+            "number": 12,
+            "content": "What is work function W0 (threshold energy) of a metal? A. Energy required to ionize atom B. Minimum energy required to eject an electron from the metal surface (W0 = h * nu_0) C. Kinetic energy of photoelectron D. Potential of anode Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What does the stopping potential V0 in the photoelectric effect depend upon? A. Intensity of incident light B. Frequency of incident light and work function of metal (independent of intensity) C. Distance of light source D. Area of cathode Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What does the saturation photoelectric current depend upon? A. Frequency of light B. Intensity of incident light (number of photons per second) C. Work function D. Threshold wavelength Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is Compton scattering? A. Emission of electrons from metal B. Inelastic scattering of an X-ray or gamma photon by an electron with an increase in photon wavelength C. Total internal reflection of X-rays D. Pair production Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What is the Compton wavelength shift formula Delta lambda? A. Delta lambda = (h / (m_e * c)) * (1 - cos theta) B. Delta lambda = (h / m_e) * cos theta C. Delta lambda = h * c * (1 - cos theta) D. Delta lambda = (m_e * c / h) * sin theta Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "What is the numerical value of Compton wavelength lambda_c = h / (m_e * c) for an electron? A. 0.0243 Å (2.426 * 10^-12 m) B. 1.0 Å C. 0.529 Å D. 5000 Å Answer: A"
+          },
+          {
+            "number": 18,
+            "content": "According to de Broglie hypothesis, what is the wavelength lambda of a matter wave associated with momentum p? A. lambda = h * p B. lambda = h / p = h / (m * v) C. lambda = p / h D. lambda = m * v^2 / h Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What is Heisenberg's uncertainty principle for position x and momentum p? A. Delta x * Delta p >= h / (4*pi) (or hbar / 2) B. Delta x * Delta p = 0 C. Delta x / Delta p >= h D. Delta x * Delta p <= h / 2 Answer: A"
+          },
+          {
+            "number": 20,
+            "content": "In pair production, a high energy gamma photon (E >= 1.02 MeV) materializes into: A. Two photons B. An electron and a positron (matter-antimatter pair) C. Proton and antiproton D. Two neutrons Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -726,11 +2022,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The half-life is: A. λ/ln2 B. ln2/λ C. 2λ D. 1/λ² Answer: B"
+            "content": "Rutherford's alpha-particle scattering experiment led to the discovery of: A. Electron B. Atomic nucleus (dense, positively charged center) C. Neutron D. Proton charge quantization Answer: B"
           },
           {
             "number": 2,
-            "content": "Nuclear binding energy is related to mass defect by: A. E = mc B. E = ∆mc² C. E = m/c² D. E = ∆m/c Answer: B"
+            "content": "What is Bohr's quantization condition for electron angular momentum in stable orbits? A. L = n * h / (2*pi) (where n = 1, 2, 3...) B. L = n * h * 2*pi C. L = h / (2*pi * n) D. L = n^2 * h Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "What is the radius r_n formula for the nth Bohr orbit of a hydrogen atom? A. r_n = r1 / n^2 B. r_n = r1 * n^2 (where r1 = 0.529 Å = 0.053 nm) C. r_n = r1 * n D. r_n = r1 * sqrt(n) Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the energy En of an electron in the nth Bohr orbit of hydrogen atom? A. En = - 13.6 / n eV B. En = - 13.6 / n^2 eV C. En = + 13.6 * n^2 eV D. En = - 13.6 * n^2 eV Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the ground state ionization energy of hydrogen atom (n = 1)? A. 3.4 eV B. 13.6 eV C. 10.2 eV D. 0 eV Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "Rydberg formula for wave number 1/lambda of spectral lines of hydrogen atom is: A. 1/lambda = R_H * (1/n1^2 - 1/n2^2) B. 1/lambda = R_H * (n1 - n2) C. lambda = R_H * (1/n1^2 - 1/n2^2) D. 1/lambda = R_H / (n1*n2) Answer: A"
+          },
+          {
+            "number": 7,
+            "content": "What is the value of Rydberg constant R_H for hydrogen in SI units? A. 1.097 * 10^7 m^-1 B. 6.626 * 10^-34 C. 9.11 * 10^-31 D. 3.0 * 10^8 Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "What are isotopes? A. Atoms with same mass number B. Atoms of same element with same atomic number Z but different mass numbers A (different neutrons) C. Atoms with same neutrons D. Same chemical properties but different electrons Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What are isobars? A. Same atomic number B. Nuclides with same mass number A but different atomic numbers Z C. Same neutrons D. Same electrons Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What are isotones? A. Same mass number B. Nuclides having same number of neutrons (N = A - Z) C. Same protons D. Same chemical symbol Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What is 1 unified atomic mass unit (1 amu or 1 u) in kilograms? A. 1.6605 * 10^-27 kg B. 9.11 * 10^-31 kg C. 1.6726 * 10^-27 kg D. 1.0 * 10^-3 kg Answer: A"
+          },
+          {
+            "number": 12,
+            "content": "What is the energy equivalent of 1 atomic mass unit (1 u) in MeV? A. 93.15 MeV B. 931.5 MeV (~931.5 MeV) C. 1.02 MeV D. 0.511 MeV Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Mass defect Delta m in a nucleus (Z protons, N neutrons, mass M_nucleus) is: A. Delta m = Z*mp + N*mn - M_nucleus B. Delta m = M_nucleus - (Z*mp + N*mn) C. Delta m = Z*mp - N*mn D. Delta m = A * mp Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "Nuclear binding energy B.E. per nucleon is highest (~8.8 MeV/nucleon) for which nucleus? A. Uranium-235 B. Iron-56 (56_Fe, most stable nucleus) C. Helium-4 D. Carbon-12 Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "According to Rutherford-Soddy radioactive decay law, the number of undecayed nuclei N at time t is: A. N = N0 * e^(-lambda * t) B. N = N0 * e^(lambda * t) C. N = N0 * (1 - lambda * t) D. N = N0 / (lambda * t) Answer: A"
+          },
+          {
+            "number": 16,
+            "content": "What is the relation between decay constant lambda and half-life T_1/2? A. T_1/2 = lambda / 0.693 B. T_1/2 = 0.693 / lambda = ln(2) / lambda C. T_1/2 = 1 / lambda D. T_1/2 = lambda * 0.693 Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the mean life (average life) tau of a radioactive element? A. tau = T_1/2 B. tau = 1 / lambda = 1.44 * T_1/2 C. tau = lambda / 2 D. tau = 0.693 * lambda Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the SI unit of radioactivity (activity A = -dN/dt)? A. Curie (Ci) B. Becquerel (Bq, 1 decay per second) C. Roentgen D. Gray Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "In nuclear fission of Uranium-235 triggered by a slow thermal neutron, what are released along with fission fragments? A. Only alpha particles B. 2 to 3 fast neutrons and ~200 MeV energy per fission C. Only gamma rays D. Protons Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the principle of energy generation in the Sun and stars? A. Nuclear fission of uranium B. Thermonuclear fusion of hydrogen nuclei into helium (proton-proton chain) C. Chemical combustion of hydrogen gas D. Gravitational collapse alone Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -763,11 +2131,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "The majority carriers in an n-type semiconductor are: A. holes B. electrons C. protons D. neutrons Answer: B"
+            "content": "What is the forbidden energy band gap Eg for an electrical insulator (e.g. diamond, glass)? A. 0 eV B. Greater than 3 eV to 5 eV (wide bandgap) C. ~1.1 eV D. Negative Answer: B"
           },
           {
             "number": 2,
-            "content": "A NOT gate produces: A. the same input B. the inverse of input C. always 1 D. always 0 Answer: B"
+            "content": "What is the band gap energy Eg of silicon (Si) and germanium (Ge) at room temperature (300 K)? A. Si: 1.1 eV, Ge: 0.72 eV B. Si: 5 eV, Ge: 1 eV C. Si: 0.1 eV, Ge: 0.05 eV D. Si: 0 eV, Ge: 0 eV Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "At absolute zero temperature (0 K), an intrinsic semiconductor behaves as a: A. Superconductor B. Perfect electrical insulator (valence band full, conduction band empty) C. Good metallic conductor D. Resistor of zero resistance Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What type of impurity is doped into silicon to produce an n-type extrinsic semiconductor? A. Trivalent (e.g. Boron, Aluminum) B. Pentavalent donor (e.g. Phosphorus, Arsenic, Antimony) C. Monovalent D. Inert gas Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What type of impurity is doped into silicon to produce a p-type semiconductor? A. Pentavalent B. Trivalent acceptor (e.g. Boron, Indium, Gallium) C. Hexavalent D. Carbon Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What are the majority charge carriers in an n-type semiconductor? A. Holes B. Electrons C. Positive donor ions D. Protons Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What are the majority charge carriers in a p-type semiconductor? A. Electrons B. Holes (electron vacancies) C. Negative acceptor ions D. Neutrons Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Is an n-type or p-type semiconductor piece electrically charged or neutral overall? A. Positively charged B. Electrically neutral overall (protons balance electrons) C. Negatively charged D. Charged under voltage only Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "In a forward-biased p-n junction diode: A. p is connected to negative, n to positive B. p is connected to positive terminal, n to negative terminal (depletion layer narrows) C. Depletion layer widens D. No current flows Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What is the barrier potential (knee voltage) of silicon and germanium diodes? A. Si: 0.7 V, Ge: 0.3 V B. Si: 1.5 V, Ge: 1.0 V C. Si: 0.1 V, Ge: 0.05 V D. Si: 5.0 V, Ge: 2.0 V Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "A Zener diode is specifically designed to operate in which region of I-V characteristic? A. Forward bias only B. Reverse breakdown region (as a constant voltage regulator) C. Cutoff region D. Saturation region Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is the ripple factor and maximum efficiency of a full-wave bridge rectifier? A. 40.6%, ripple 1.21 B. 81.2%, ripple factor 0.48 C. 100%, ripple 0 D. 50%, ripple 0.5 Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "In a bipolar junction transistor (BJT), what are the three terminals and their doping levels? A. Emitter is heavily doped, Base is very thin and lightly doped, Collector is moderately doped and largest B. All three have equal doping C. Base is heavily doped D. Collector is smallest Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "What is the relationship between emitter current I_E, base current I_B, and collector current I_C in a transistor? A. I_E = I_B + I_C B. I_C = I_E + I_B C. I_B = I_E + I_C D. I_E = I_C / I_B Answer: A"
+          },
+          {
+            "number": 15,
+            "content": "What is the relationship between common-base current gain alpha and common-emitter gain beta? A. beta = alpha / (1 - alpha) B. alpha = beta / (1 + beta) C. beta = alpha * (1 + alpha) D. Both A and B are correct relations Answer: D"
+          },
+          {
+            "number": 16,
+            "content": "For an active mode amplifying transistor, the emitter-base junction must be: A. Forward biased, and collector-base junction reverse biased B. Both reverse biased C. Both forward biased D. Emitter reverse, collector forward Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "What logic gate outputs 1 only when all its inputs are 1? A. OR gate B. AND gate (Y = A . B) C. NOT gate D. XOR gate Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What logic gate is formed by inverting the output of an OR gate? A. NAND gate B. NOR gate (Y = (A + B)') C. XOR gate D. AND gate Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Why are NAND and NOR gates called Universal Logic Gates? A. They consume less power B. Any digital logic function (AND, OR, NOT) can be realized using only NAND or NOR gates C. They work at all voltages D. Invented by Boole Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "According to De Morgan's first theorem in Boolean algebra: A. (A + B)' = A' . B' B. (A . B)' = A' + B' C. A + A' = 0 D. A . A' = 1 Answer: A"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly.",
@@ -820,11 +2260,83 @@
         "mcqs": [
           {
             "number": 1,
-            "content": "A light-year is a unit of: A. time B. distance C. brightness D. mass Answer: B"
+            "content": "According to Hubble's law, the recessional velocity v of a distant galaxy is proportional to its distance d: A. v = H0 * d (where H0 is Hubble's constant) B. v = H0 / d C. v = H0 * d^2 D. v = d / H0 Answer: A"
           },
           {
             "number": 2,
-            "content": "The main factor determining the final evolutionary stage of a star is its: A. colour only B. initial mass C. distance from Earth D. apparent size Answer: B"
+            "content": "What is the cosmological red shift observed in spectra of distant galaxies evidence of? A. Expansion of the universe B. Rotation of galaxies C. Cooling of stars D. Gravitational lensing alone Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "What is the Cosmic Microwave Background Radiation (CMBR, ~2.725 K) evidence of? A. Black hole radiation B. Thermal remnant radiation from the Big Bang C. Solar wind D. Dark energy emission Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the approximate age of the universe according to standard Lambda-CDM cosmological model? A. 4.5 billion years B. 13.8 billion years (~13.8 Gyr) C. 100 billion years D. 1 million years Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What is the Chandrasekhar mass limit (~1.4 solar masses, 1.4 M_sun)? A. Maximum mass of a black hole B. Maximum stable mass of a white dwarf star supported by electron degeneracy pressure C. Minimum mass of a neutron star D. Mass of the Sun Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "When a star with core mass greater than the Chandrasekhar limit collapses at the end of its life, it forms: A. A red giant B. A neutron star (or pulsar) or a black hole C. A white dwarf D. A brown dwarf Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the boundary around a black hole from which nothing, not even light, can escape? A. Accretion disc B. Event horizon C. Ergosphere D. Singularity Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the Schwarzschild radius R_s formula for a non-rotating black hole of mass M? A. R_s = 2 * G * M / c^2 B. R_s = G * M / c^2 C. R_s = G * M^2 / c D. R_s = 2 * c^2 / (G * M) Answer: A"
+          },
+          {
+            "number": 9,
+            "content": "What is a pulsar in astronomy? A. Pulsating white dwarf B. Rapidly rotating highly magnetized neutron star emitting beams of electromagnetic radiation C. Supernova explosion in real time D. Binary asteroid Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "What type of galaxy is our Milky Way galaxy? A. Elliptical galaxy B. Barred spiral galaxy C. Irregular galaxy D. Lenticular galaxy Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What astronomical distance is defined as the average distance between the Earth and the Sun? A. 1 Light year B. 1 Astronomical Unit (1 AU ~ 1.496 * 10^11 m) C. 1 Parsec D. 1 Megaparsec Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What is 1 Parsec (pc) in terms of light years? A. 1.0 ly B. 3.26 light years (~3.086 * 10^16 m) C. 9.46 * 10^12 ly D. 0.5 ly Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "What is the primary nuclear fusion reaction powering the Sun during its main sequence phase? A. Carbon-nitrogen cycle only B. Proton-proton (p-p) chain fusing hydrogen into helium C. Triple-alpha process D. Uranium fission Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the Hertzsprung-Russell (H-R) diagram in astronomy? A. Plot of star position vs velocity B. Scatter plot of stars showing the relationship between absolute magnitude / luminosity versus stellar classification / surface temperature C. Map of constellations D. Orbit plot of planets Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What mysterious component constitutes approximately 68% of the total energy density of the universe, causing accelerated expansion? A. Ordinary baryonic matter (5%) B. Dark Energy C. Cold Dark Matter (27%) D. Neutrinos Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "What constitutes roughly 27% of the mass-energy content of the universe that does not emit or absorb light but exerts gravitational attraction? A. Dark Energy B. Dark Matter C. Interstellar dust D. Black holes alone Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What optical phenomenon occurs when light from a distant galaxy is bent around a massive foreground cluster of galaxies? A. Gravitational lensing (predicted by General Relativity) B. Optical dispersion C. Atmospheric refraction D. Doppler shifting Answer: A"
+          },
+          {
+            "number": 18,
+            "content": "What is a supernova? A. Birth of a star B. Cataclysmic, extremely luminous stellar explosion marking the end of a massive star's life C. Colliding planets D. Solar flare Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "What will our Sun evolve into at the end of its life cycle after the red giant phase? A. Black hole B. White dwarf surrounded by a planetary nebula C. Neutron star D. Supernova remnant Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "What is the solar constant S (solar radiation power per unit area reaching Earth's upper atmosphere)? A. 100 W m^-2 B. 1361 W m^-2 (~1.36 kW m^-2) C. 10,000 W m^-2 D. 500 W m^-2 Answer: B"
           }
         ],
         "answer_tip": "Answer-writing tip: Define the principle, state assumptions, write the relevant equation, explain symbols, substitute values with SI units and present the final result clearly. Bangladesh HSC Physics | First & Second Paper Page 19 Final Revision Checklist • Can I explain the main idea and",

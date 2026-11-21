@@ -77,7 +77,7 @@ object ContentRepository {
         val subjectData = ContentParser.loadSubjectData(context, path) ?: return emptyList()
         val subjectName = getSubjectName(subjectId)
         val result = mutableListOf<PooledMcqItem>()
-        subjectData.chapters.forEach { ch ->
+        subjectData.chapters.forEachIndexed { chIdx, ch ->
             val contentCh = ContentParser.toContentChapter(subjectId, ch)
             val explanation = ch.content.worked_example.ifBlank {
                 ch.content.model_answers.ifBlank { ch.content.answer_tip }
@@ -87,6 +87,7 @@ object ContentRepository {
                     PooledMcqItem(
                         subjectId = subjectId,
                         subjectName = subjectName,
+                        chapterIndex = chIdx,
                         chapterNumber = ch.chapter_number,
                         chapterTitle = ch.title,
                         paper = ch.paper,
@@ -109,6 +110,7 @@ object ContentRepository {
 data class PooledMcqItem(
     val subjectId: String,
     val subjectName: String,
+    val chapterIndex: Int = 0,
     val chapterNumber: Int,
     val chapterTitle: String,
     val paper: String,

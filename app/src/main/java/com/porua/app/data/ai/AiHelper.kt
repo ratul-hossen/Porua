@@ -28,12 +28,12 @@ object AiHelper {
             ?: GROK_API_KEY.takeIf { it.isNotBlank() && !it.contains("YOUR_") } ?: ""
 
     // === MODELS ===
-    const val GEMINI_MODEL = "gemini-flash-lite-latest"
-    const val GEMINI_FALLBACK_MODEL = "gemini-flash-latest"
-    const val GROK_MODEL = "openai/gpt-oss-120b"
-    const val GROQ_VISION_MODEL = "qwen/qwen3.8-27b"
-    const val GROQ_FAST_FALLBACK = "openai/gpt-oss-20b"
-    const val GROK_ENDPOINT = "https://api.x.ai/v1/chat/completions"
+    const val GEMINI_MODEL = "gemini-2.5-flash"
+    const val GEMINI_FALLBACK_MODEL = "gemini-1.5-flash"
+    const val GROK_MODEL = "llama-3.3-70b-versatile"
+    const val GROQ_VISION_MODEL = "llama-3.2-11b-vision-preview"
+    const val GROQ_FAST_FALLBACK = "llama-3.1-8b-instant"
+    const val GROK_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 
     // === IN-MEMORY CACHE (Fast 0ms response for repeated queries) ===
     private val queryMemoryCache = java.util.concurrent.ConcurrentHashMap<String, String>()

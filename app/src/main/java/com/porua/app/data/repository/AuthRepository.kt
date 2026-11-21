@@ -67,7 +67,7 @@ class LocalAuthRepository(
                 else -> group
             }
 
-            val examYear = if (hscClass.contains("11")) "2027" else "2026"
+            val examYear = if (hscClass.contains("2027")) "2027" else "2026"
 
             poruaRepository?.let { repo ->
                 val current = repo.getUserProfile().first() ?: UserProfileEntity()
@@ -86,7 +86,7 @@ class LocalAuthRepository(
                 name = name.trim(),
                 emailOrPhone = emailOrPhone.trim(),
                 group = englishGroup,
-                hscClass = if (hscClass.contains("11")) "Class 11" else "Class 12"
+                hscClass = "HSC"
             )
             Result.success(user)
         } catch (e: Exception) {
@@ -111,7 +111,7 @@ class LocalAuthRepository(
                 val inputHash = PasswordHasher.hash(password)
                 if (inputHash == storedHash) {
                     authDataStore.setLoggedIn(true)
-                    val activeUser = user ?: AuthUser("Student", emailOrPhone.trim(), "Science", "Class 11")
+                    val activeUser = user ?: AuthUser("Student", emailOrPhone.trim(), "Science", "HSC")
                     Result.success(activeUser)
                 } else {
                     Result.failure(Exception("Incorrect password. Please try again."))

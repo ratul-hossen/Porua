@@ -100,7 +100,12 @@ class QuizViewModel(
 
     private var timerJob: Job? = null
 
-    fun startQuiz(subjectId: String, chapterNumber: Int? = null, retryQuestions: List<QuizQuestion>? = null) {
+    fun startQuiz(
+        subjectId: String,
+        chapterNumber: Int? = null,
+        chapterIndex: Int? = null,
+        retryQuestions: List<QuizQuestion>? = null
+    ) {
         timerJob?.cancel()
         _uiState.update {
             it.copy(
@@ -125,20 +130,30 @@ class QuizViewModel(
                 questions = retryQuestions.mapIndexed { idx, q -> q.copy(index = idx + 1) }
             } else {
                 val allMcqs = ContentRepository.getAllMcqsForSubject(appContext, subjectId)
-                val subjectName = allMcqs.firstOrNull()?.subjectName ?: subjectId.replaceFirstChar { it.uppercase() }
+
+                // If chapterIndex is provided, prioritize it for exact chapter targeting (handles 1st vs 2nd paper)
+                val candidateItems = when {
+                    chapterIndex != null -> allMcqs.filter { it.chapterIndex == chapterIndex }
+                    chapterNumber != null -> allMcqs.filter { it.chapterNumber == chapterNumber }
+                    else -> allMcqs
+                }
+
+                val subjectName = candidateItems.firstOrNull()?.let {
+                    if (chapterNumber != null || chapterIndex != null) {
+                        "${it.subjectName} • ${it.paper} Ch ${it.chapterNumber}"
+                    } else {
+                        it.subjectName
+                    }
+                } ?: (allMcqs.firstOrNull()?.subjectName ?: subjectId.replaceFirstChar { it.uppercase() })
 
                 // Retrieve recently seen question texts from latest attempt to avoid immediate repeats
                 val latestAttempt = repository.getLatestAttemptForSubject(subjectId)
                 val recentlySeenTexts = parseSeenQuestionTexts(latestAttempt?.questionResultsJson)
 
-                val pooledItems = buildPooledSet(allMcqs, chapterNumber, recentlySeenTexts)
+                val pooledItems = buildPooledSet(candidateItems, recentlySeenTexts)
 
-                if (allMcqs.size < 20) {
-                    note = "Only ${allMcqs.size} questions are available for this subject."
-                } else if (chapterNumber != null && pooledItems.size > 2) {
-                    val fromCh = pooledItems.count { it.chapterNumber == chapterNumber }
-                    val fromOthers = pooledItems.size - fromCh
-                    note = "Included $fromCh questions from Ch $chapterNumber and $fromOthers from other chapters to complete your 20-question set."
+                if (candidateItems.size < 20 && candidateItems.isNotEmpty()) {
+                    note = "${candidateItems.size} questions available in this chapter."
                 }
 
                 questions = pooledItems.mapIndexed { idx, item ->
@@ -176,33 +191,18 @@ class QuizViewModel(
     }
 
     private fun buildPooledSet(
-        allMcqs: List<PooledMcqItem>,
-        chapterNumber: Int?,
+        candidatePool: List<PooledMcqItem>,
         recentlySeenTexts: Set<String>
     ): List<PooledMcqItem> {
-        val targetCount = minOf(20, allMcqs.size)
-        if (allMcqs.isEmpty()) return emptyList()
+        val targetCount = minOf(20, candidatePool.size)
+        if (candidatePool.isEmpty()) return emptyList()
 
-        val selected = mutableListOf<PooledMcqItem>()
-        val chosenChapterItems = if (chapterNumber != null) {
-            allMcqs.filter { it.chapterNumber == chapterNumber }
-        } else emptyList()
+        // Strictly pick questions belonging to this candidate pool (no mixing from other chapters)
+        val notSeenRecently = candidatePool.filter { it.mcq.questionText !in recentlySeenTexts }.shuffled()
+        val seenRecently = candidatePool.filter { it.mcq.questionText in recentlySeenTexts }.shuffled()
 
-        selected.addAll(chosenChapterItems)
-
-        val remainingPool = allMcqs.filter { item -> !selected.any { it.mcq.questionText == item.mcq.questionText } }
-
-        // Prefer questions not seen recently
-        val notSeenRecently = remainingPool.filter { it.mcq.questionText !in recentlySeenTexts }.shuffled()
-        val seenRecently = remainingPool.filter { it.mcq.questionText in recentlySeenTexts }.shuffled()
-
-        val needed = targetCount - selected.size
-        if (needed > 0) {
-            val toAdd = (notSeenRecently + seenRecently).take(needed)
-            selected.addAll(toAdd)
-        }
-
-        return selected.take(targetCount)
+        val combined = notSeenRecently + seenRecently
+        return combined.take(targetCount)
     }
 
     private fun parseSeenQuestionTexts(json: String?): Set<String> {
