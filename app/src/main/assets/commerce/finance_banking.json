@@ -1,0 +1,205 @@
+{
+  "class": "HSC Commerce",
+  "stream": "Commerce",
+  "subject": "Finance, Banking & Insurance",
+  "curriculum": "Bangladesh NCTB",
+  "language": "English/Bengali",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Time Value of Money & Capital Budgeting",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Concept of Time Value of Money (TVM), compounding, discounting, present value, future value, Rule of 72, capital budgeting techniques (Payback Period, NPV, IRR).",
+        "key_terms": [
+          "Time Value of Money: A taka today is worth more than a taka in the future due to earning capacity and inflation.",
+          "Net Present Value (NPV): Present value of cash inflows minus initial investment."
+        ],
+        "study_notes": [
+          "Rule of 72: Doubling period = 72 / interest rate.",
+          "If NPV > 0, project is accepted."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Why is a taka today worth more than a taka to be received in the future? A. Inflation and investment earning opportunity B. Depreciation C. Taxation D. Deflation Answer: A"
+          },
+          {
+            "number": 2,
+            "content": "Under the Rule of 72, at a 12% annual interest rate, money will double in: A. 5 years B. 6 years C. 8 years D. 10 years Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "The process of determining the present value of future cash flows is called: A. Compounding B. Discounting C. Annuity D. Amortization Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "A series of equal cash flows occurring at equal intervals of time is an: A. Perpetuity B. Annuity C. Capital gain D. Sinking fund Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "If cash flows occur at the beginning of each period, the annuity is termed an: A. Ordinary Annuity B. Annuity Due C. Deferred Annuity D. Perpetuity Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "In capital budgeting, a project is acceptable under the NPV criterion when: A. NPV < 0 B. NPV > 0 (Positive) C. NPV = -1 D. Initial cost > PV of inflows Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the discount rate that makes the Net Present Value (NPV) of a project exactly zero? A. Cost of Capital B. Internal Rate of Return (IRR) C. Hurdle rate D. Risk-free rate Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "The time required to recover the initial cash investment of a capital project is the: A. Payback Period B. Accounting Rate of Return C. Duration D. Operating cycle Answer: A"
+          },
+          {
+            "number": 9,
+            "content": "What is the formula for calculating Future Value under simple annual compounding? A. FV = PV * (1 + i)^n B. FV = PV / (1 + i)^n C. FV = PV * (1 + i*n) D. FV = PV * i * n Answer: A"
+          },
+          {
+            "number": 10,
+            "content": "If you deposit 1,000 BDT for 2 years at 10% compound interest, what is the FV? A. 1,200 BDT B. 1,210 BDT C. 1,100 BDT D. 1,250 BDT Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Which capital budgeting method explicitly considers the time value of money? A. Payback Period B. Accounting Rate of Return (ARR) C. Net Present Value (NPV) D. Average profit method Answer: C"
+          },
+          {
+            "number": 12,
+            "content": "The Effective Annual Rate (EAR) is higher than the nominal rate when compounding is: A. Annual B. Semi-annual or monthly C. Once in 2 years D. At maturity only Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Risk caused by macroeconomic factors affecting all securities in the market is: A. Unsystematic / Specific risk B. Systematic / Market risk C. Operational risk D. Default risk Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "Which metric measures the sensitivity of a stock's return relative to market returns? A. Standard deviation B. Beta coefficient C. Variance D. Range Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "In finance, a risk-free asset is commonly represented by: A. Corporate debentures B. Government Treasury Bills (T-Bills) C. Commercial paper D. Ordinary shares Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Which source of business capital represents residual ownership with voting rights? A. Ordinary Shares (Common Stock) B. Preference Shares C. Debentures D. Bank Loan Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "A bond issued at a price lower than its face par value is sold at a: A. Premium B. Discount C. Par D. Yield Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "The stated interest rate printed on a bond certificate is known as the: A. Market yield B. Coupon rate C. Yield to maturity D. Effective rate Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Which financial market deals with long-term securities (stocks and long-term bonds)? A. Money Market B. Capital Market C. Foreign Exchange Market D. Call Money Market Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "The primary regulator of capital markets and stock exchanges in Bangladesh is: A. Bangladesh Bank B. Bangladesh Securities and Exchange Commission (BSEC) C. Ministry of Commerce D. NBR Answer: B"
+          }
+        ]
+      }
+    },
+    {
+      "chapter_number": 2,
+      "title": "Central Banking & Commercial Banking",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Role of Bangladesh Bank as central bank, monetary policy tools (CRR, SLR, Bank Rate), credit creation by commercial banks, check clearing, and electronic banking.",
+        "key_terms": [
+          "Central Bank: Apex monetary and currency issuing authority of a nation (Bangladesh Bank).",
+          "CRR & SLR: Cash Reserve Ratio and Statutory Liquidity Ratio mandated on commercial banks."
+        ],
+        "study_notes": [
+          "Bangladesh Bank was established on 16 December 1971 under Bangladesh Bank Order 1972.",
+          "Commercial banks create credit through multiple expansions of demand deposits."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "When was Bangladesh Bank formally established as the central bank? A. 1947 B. 1971 / 1972 C. 1982 D. 1990 Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Which institution holds the sole monopoly right to issue currency notes in Bangladesh? A. Sonali Bank B. Bangladesh Bank C. Ministry of Finance D. BSEC Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Which notes are issued directly by the Government of Bangladesh, bearing Finance Secretary signature? A. 1, 2, and 5 Taka notes/coins B. 10 and 20 Taka C. 50 and 100 Taka D. 500 and 1000 Taka Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "The rate at which the central bank lends funds to commercial banks against approved securities is: A. Repo Rate / Bank Rate B. Call Money Rate C. Prime Lending Rate D. Treasury Rate Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the primary function of a commercial bank? A. Issuing currency notes B. Accepting deposits and granting loans C. Directing national budget D. Formulating foreign policy Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "What does CRR stand for in central banking regulations? A. Credit Reserve Ratio B. Cash Reserve Ratio C. Capital Risk Ratio D. Currency Return Rate Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What does SLR stand for in statutory banking requirements? A. Statutory Liquidity Ratio B. Standard Loan Rate C. Secondary Liquidity Reserve D. Systematic Lending Ratio Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "How do commercial banks create money in the modern economy? A. Printing notes B. Credit creation through deposit expansion C. Mining gold D. Importing foreign exchange Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "The central bank acts as the 'Lender of Last Resort' to which institutions? A. General public B. Commercial banks facing emergency liquidity crises C. Foreign tourists D. Non-governmental organizations Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "A check crossed with two parallel transverse lines on the top-left corner must be: A. Paid in cash across the counter B. Credited directly to a bank account C. Endorsed to third party in cash D. Cancelled Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Which bank account type is designated for business firms with frequent daily deposits and withdrawals? A. Savings Account B. Current (Demand) Account C. Fixed Deposit (FDR) D. Recurring Deposit Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "Which bank account pays the highest interest rate but locks funds for a specified tenure? A. Current Account B. Savings Account C. Fixed Deposit Account (FDR) D. Student Account Answer: C"
+          },
+          {
+            "number": 13,
+            "content": "The short-term interbank money market where banks lend to each other overnight is: A. Capital market B. Call Money Market C. Foreign Exchange market D. Derivative market Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "What is the automated electronic check clearing system operated by Bangladesh Bank? A. BACPS (Bangladesh Automated Clearing House) B. SWIFT C. BEFTN D. RTGS Answer: A"
+          },
+          {
+            "number": 15,
+            "content": "Which system enables instantaneous large-value fund transfers between banks in real time? A. RTGS (Real Time Gross Settlement) B. Normal Clearing C. Postal Order D. Demand Draft Answer: A"
+          },
+          {
+            "number": 16,
+            "content": "A letter of credit (L/C) is a crucial financial instrument primarily used in: A. Domestic retail shopping B. International import and export trade C. Microfinance lending D. Stock trading Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What is the fee or consideration paid by an insured person to the insurance company? A. Claim B. Premium C. Sum assured D. Policy bonus Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Which fundamental principle of insurance states that the insured must suffer financial loss upon damage? A. Utmost Good Faith B. Insurable Interest C. Indemnity D. Subrogation Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "The Principle of Indemnity applies to property and fire insurance, but strictly does NOT apply to: A. Life Insurance B. Marine Cargo Insurance C. Motor Insurance D. Burglary Insurance Answer: A"
+          },
+          {
+            "number": 20,
+            "content": "Which international messaging network facilitates secure global interbank financial communication? A. SWIFT B. INTERPOL C. NASDAQ D. UNESCO Answer: A"
+          }
+        ]
+      }
+    }
+  ]
+}

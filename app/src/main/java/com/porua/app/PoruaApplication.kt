@@ -10,6 +10,9 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
 
+import kotlinx.coroutines.launch
+import com.porua.app.data.ai.AiHelper
+
 class PoruaApplication : Application() {
 
     private val applicationScope = CoroutineScope(SupervisorJob() + Dispatchers.IO)
@@ -18,4 +21,18 @@ class PoruaApplication : Application() {
     val repository by lazy { PoruaRepository(database) }
     val authDataStore by lazy { AuthDataStore(this) }
     val authRepository: AuthRepository by lazy { LocalAuthRepository(authDataStore, repository) }
+
+    override fun onCreate() {
+        super.onCreate()
+        applicationScope.launch {
+            authDataStore.geminiApiKey.collect { key ->
+                AiHelper.userGoogleApiKey = key
+            }
+        }
+        applicationScope.launch {
+            authDataStore.grokApiKey.collect { key ->
+                AiHelper.userGrokApiKey = key
+            }
+        }
+    }
 }

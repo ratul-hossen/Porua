@@ -1,0 +1,205 @@
+{
+  "class": "HSC Arts",
+  "stream": "Arts",
+  "subject": "Civics & Good Governance",
+  "curriculum": "Bangladesh NCTB",
+  "language": "English/Bengali",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "State, Sovereignty & Good Governance",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Definition and 4 essential elements of the State (Population, Territory, Government, Sovereignty), Rule of Law, Human Rights, and pillars of Good Governance.",
+        "key_terms": [
+          "Sovereignty: Supreme absolute power of the state internally and externally (Jean Bodin).",
+          "Good Governance: Transparent, accountable, and participatory governance (World Bank 1989)."
+        ],
+        "study_notes": [
+          "Four elements of State: Population, Defined Territory, Government, Sovereignty.",
+          "Rule of Law means equality before law and absence of arbitrary power (A.V. Dicey)."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "What are the four essential elements required to constitute a State? A. Population, Territory, Government, Sovereignty B. President, Parliament, Army, Police C. Religion, Culture, Language, Currency D. Land, Tax, Court, Constitution Answer: A"
+          },
+          {
+            "number": 2,
+            "content": "Which element is considered the supreme soul and defining characteristic of a State? A. Population B. Territory C. Sovereignty D. Government Answer: C"
+          },
+          {
+            "number": 3,
+            "content": "Who is known as the pioneer theorist of absolute sovereignty in political thought? A. Aristotle B. Jean Bodin C. John Locke D. Karl Marx Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "The term 'Good Governance' was formally introduced into development discourse in 1989 by: A. United Nations B. World Bank C. International Monetary Fund D. Asian Development Bank Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "What are the four core pillars of Good Governance identified by international bodies? A. Secrecy, Force, Control, Monopoly B. Transparency, Accountability, Participation, Rule of Law C. Power, Wealth, Force, Hierarchy D. Centralization, Bureaucracy, Strictness, Order Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "Who formulated the classical concept of the 'Rule of Law' in British constitutional jurisprudence? A. A.V. Dicey B. Harold Laski C. John Austin D. Thomas Hobbes Answer: A"
+          },
+          {
+            "number": 7,
+            "content": "The Latin root word 'Civitas' from which Civics originates means: A. Nation B. Citizen / City-State C. King D. Army Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Who is universally regarded as the Father of Political Science? A. Plato B. Aristotle C. Socrates D. Machiavelli Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "Aristotle famously observed that 'Man is by nature a: A. Economic machine B. Social and political animal C. Solitary wanderer D. Feudal servant Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "In a direct democracy, who participates directly in the enactment of state laws? A. Elected representatives only B. All qualified citizens C. The monarch D. Military council Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "What form of government exists when constitutional executive power is vested in a Prime Minister and Cabinet responsible to Parliament? A. Presidential B. Parliamentary (Westminster) C. Absolute Monarchy D. Totalitarian Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "Which organ of government is primarily tasked with interpreting the constitution and administering justice? A. Legislature B. Executive C. Judiciary D. Bureaucracy Answer: C"
+          },
+          {
+            "number": 13,
+            "content": "The doctrine of 'Separation of Powers' was famously expounded by which French philosopher? A. Jean-Jacques Rousseau B. Montesquieu C. Voltaire D. Auguste Comte Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "The Right to Information (RTI) primarily promotes which fundamental aspect of good governance? A. Secrecy B. Transparency and administrative openness C. Corruption D. Red-tapism Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "Which office in modern constitutional law acts as an independent guardian against administrative maladministration? A. Ombudsman B. Attorney General C. Auditor General D. Chief Whip Answer: A"
+          },
+          {
+            "number": 16,
+            "content": "Universal Adult Franchise grants the right to vote based on: A. Property ownership B. Educational qualification C. Reaching legal adult age without discrimination D. Tax payment Answer: C"
+          },
+          {
+            "number": 17,
+            "content": "Which document is revered as the supreme law of the People's Republic of Bangladesh? A. Penal Code 1860 B. The Constitution of Bangladesh C. Criminal Procedure Code D. Police Act Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "The Universal Declaration of Human Rights (UDHR) was adopted by the UN General Assembly in: A. 1945 B. 1948 C. 1952 D. 1971 Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "The administrative practice of public services delivered electronically via internet and mobile portals is: A. E-Governance B. Bureaucracy C. Oligarchy D. Direct polling Answer: A"
+          },
+          {
+            "number": 20,
+            "content": "Excessive devotion to official rules and formalities causing procedural delays in public office is known as: A. Decentralization B. Red-tapism C. Transparency D. Rule of law Answer: B"
+          }
+        ]
+      }
+    },
+    {
+      "chapter_number": 2,
+      "title": "Constitution of Bangladesh & Organs of Government",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "History and features of the 1972 Constitution of Bangladesh, fundamental principles of state policy, fundamental rights, structure of Jatiya Sangsad, Prime Minister, President, and Supreme Court.",
+        "key_terms": [
+          "1972 Constitution: Adopted on 4 Nov 1972, effective from 16 Dec 1972.",
+          "Fundamental Principles: Nationalism, Socialism, Democracy, Secularism."
+        ],
+        "study_notes": [
+          "Article 7 states: All powers in the Republic belong to the people.",
+          "Supreme Court comprises Appellate Division and High Court Division."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "When was the Constitution of Bangladesh adopted by the Constituent Assembly (Ganaparishad)? A. 26 March 1971 B. 4 November 1972 C. 16 December 1972 D. 7 March 1973 Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "On which historic date did the Constitution of Bangladesh officially come into force? A. 26 March 1972 B. 16 December 1972 C. 4 November 1972 D. 21 February 1973 Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Who served as the Chairman of the Constitution Drafting Committee of Bangladesh in 1972? A. Tajuddin Ahmad B. Dr. Kamal Hossain C. Syed Nazrul Islam D. Abdus Salam Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "How many fundamental state principles were enshrined in the original 1972 Constitution? A. 2 B. 4 (Nationalism, Socialism, Democracy, Secularism) C. 6 D. 10 Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "According to Article 7(1) of the Constitution, who is the ultimate repository of all power in the Republic? A. The Prime Minister B. The President C. The People D. The Supreme Court Answer: C"
+          },
+          {
+            "number": 6,
+            "content": "The Parliament of Bangladesh (Jatiya Sangsad) is what type of legislature? A. Bicameral B. Unicameral (Single House) C. Tricameral D. Presidential Council Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "How many directly elected general seats exist in Jatiya Sangsad of Bangladesh? A. 300 B. 350 C. 50 D. 250 Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "How many seats are reserved exclusively for women in the Jatiya Sangsad? A. 30 B. 50 C. 60 D. 100 Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "What is the normal constitutional tenure of the Jatiya Sangsad? A. 4 years B. 5 years C. 6 years D. Indefinite Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "Who is the executive head of the Government in the parliamentary system of Bangladesh? A. The President B. The Prime Minister C. The Speaker D. The Chief Justice Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Who is the titular Constitutional Head of State of the People's Republic of Bangladesh? A. The Prime Minister B. The President C. Chief of Army Staff D. Chief Election Commissioner Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "What are the two constituent divisions of the Supreme Court of Bangladesh? A. Civil and Criminal Division B. High Court Division and Appellate Division C. Sessions and Magistrate Court D. Constitutional and Administrative Court Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Under which Article of the Constitution can a citizen file a Writ petition for enforcement of fundamental rights? A. Article 7 B. Article 102 C. Article 142 D. Article 21 Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "Who presides over the legislative proceedings and debates of the Jatiya Sangsad? A. The President B. The Speaker C. The Prime Minister D. The Chief Whip Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the minimum qualifying age for a Bangladeshi citizen to be elected as a Member of Parliament? A. 18 years B. 21 years C. 25 years D. 30 years Answer: C"
+          },
+          {
+            "number": 16,
+            "content": "What is the minimum voting age for citizens in Bangladesh general elections? A. 18 years B. 21 years C. 25 years D. 16 years Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "Which constitutional amendment made the care-taker government system non-existent in 2011? A. 12th Amendment B. 15th Amendment C. 13th Amendment D. 8th Amendment Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Which constitutional body conducts presidential and parliamentary elections in Bangladesh? A. Public Service Commission B. Election Commission of Bangladesh C. Law Commission D. Planning Commission Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "Who appoints the Chief Justice of Bangladesh according to the Constitution? A. The Prime Minister B. The President C. The Speaker D. Parliamentary Committee Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Which Article of the Bangladesh Constitution guarantees equality before law to all citizens? A. Article 27 B. Article 32 C. Article 36 D. Article 39 Answer: A"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -47,6 +47,19 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.material.icons.filled.VpnKey
+import androidx.compose.material3.Button
+import androidx.compose.material3.ButtonDefaults
+import androidx.compose.material3.OutlinedTextFieldDefaults
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.input.PasswordVisualTransformation
+import androidx.compose.ui.text.input.VisualTransformation
+import com.porua.app.PoruaApplication
+import com.porua.app.data.ai.AiHelper
+import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.launch
 import com.porua.app.domain.countdown.ExamDateProvider
 import com.porua.app.ui.components.BottomNavItem
 import com.porua.app.ui.components.PoruaBottomNav
@@ -89,6 +102,27 @@ fun MeScreen(
     var editDailyGoal by remember { mutableStateOf(profile.dailyStudyTime) }
     var editSelectedSubjectIds by remember(uiState.subjects) {
         mutableStateOf(uiState.subjects.filter { it.isSelected }.map { it.id }.toSet())
+    }
+
+    val context = LocalContext.current
+    val coroutineScope = rememberCoroutineScope()
+    val app = context.applicationContext as? PoruaApplication
+    val authDataStore = app?.authDataStore
+
+    var geminiInput by remember { mutableStateOf("") }
+    var grokInput by remember { mutableStateOf("") }
+    var showKeys by remember { mutableStateOf(false) }
+    var keysSavedMessage by remember { mutableStateOf(false) }
+
+    LaunchedEffect(Unit) {
+        authDataStore?.let { store ->
+            val gKey = store.geminiApiKey.first() ?: ""
+            val grKey = store.grokApiKey.first() ?: ""
+            geminiInput = gKey
+            grokInput = grKey
+            AiHelper.userGoogleApiKey = gKey
+            AiHelper.userGrokApiKey = grKey
+        }
     }
 
     Column(
@@ -451,6 +485,126 @@ fun MeScreen(
                         checkedTrackColor = colors.primary
                     )
                 )
+            }
+
+            Spacer(modifier = Modifier.height(14.dp))
+
+            // ── AI Configuration (BYOK - Bring Your Own Key) ────────────────
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clip(ShapeLg)
+                    .background(colors.surface)
+                    .border(1.dp, colors.border, ShapeLg)
+                    .padding(16.dp)
+            ) {
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Icon(
+                        imageVector = Icons.Default.VpnKey,
+                        contentDescription = null,
+                        tint = colors.primary,
+                        modifier = Modifier.size(18.dp)
+                    )
+                    Spacer(modifier = Modifier.width(8.dp))
+                    Text(
+                        text = "AI API Keys (Gemini & Grok)",
+                        fontSize = 14.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = colors.text
+                    )
+                }
+
+                Spacer(modifier = Modifier.height(6.dp))
+
+                Text(
+                    text = "Provide your own API keys to run Ask Porua AI tutor. Keys are stored locally on-device and never leaked.",
+                    fontSize = 12.sp,
+                    color = colors.textMuted
+                )
+
+                Spacer(modifier = Modifier.height(14.dp))
+
+                Text(
+                    text = "Google Gemini API Key",
+                    fontSize = 12.sp,
+                    fontWeight = FontWeight.SemiBold,
+                    color = colors.text
+                )
+                Spacer(modifier = Modifier.height(4.dp))
+                OutlinedTextField(
+                    value = geminiInput,
+                    onValueChange = { geminiInput = it },
+                    placeholder = { Text("AIzaSy...", fontSize = 12.sp, color = colors.textMuted) },
+                    singleLine = true,
+                    visualTransformation = if (showKeys) VisualTransformation.None else PasswordVisualTransformation(),
+                    modifier = Modifier.fillMaxWidth(),
+                    colors = OutlinedTextFieldDefaults.colors(
+                        focusedBorderColor = colors.primary,
+                        unfocusedBorderColor = colors.border,
+                        focusedTextColor = colors.text,
+                        unfocusedTextColor = colors.text
+                    )
+                )
+
+                Spacer(modifier = Modifier.height(12.dp))
+
+                Text(
+                    text = "Grok / Groq API Key",
+                    fontSize = 12.sp,
+                    fontWeight = FontWeight.SemiBold,
+                    color = colors.text
+                )
+                Spacer(modifier = Modifier.height(4.dp))
+                OutlinedTextField(
+                    value = grokInput,
+                    onValueChange = { grokInput = it },
+                    placeholder = { Text("gsk_...", fontSize = 12.sp, color = colors.textMuted) },
+                    singleLine = true,
+                    visualTransformation = if (showKeys) VisualTransformation.None else PasswordVisualTransformation(),
+                    modifier = Modifier.fillMaxWidth(),
+                    colors = OutlinedTextFieldDefaults.colors(
+                        focusedBorderColor = colors.primary,
+                        unfocusedBorderColor = colors.border,
+                        focusedTextColor = colors.text,
+                        unfocusedTextColor = colors.text
+                    )
+                )
+
+                Spacer(modifier = Modifier.height(14.dp))
+
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    TextButton(onClick = { showKeys = !showKeys }) {
+                        Text(
+                            text = if (showKeys) "Hide Keys" else "Show Keys",
+                            fontSize = 12.sp,
+                            color = colors.textMuted
+                        )
+                    }
+
+                    Button(
+                        onClick = {
+                            coroutineScope.launch {
+                                authDataStore?.saveAiKeys(geminiInput, grokInput)
+                                AiHelper.userGoogleApiKey = geminiInput.trim()
+                                AiHelper.userGrokApiKey = grokInput.trim()
+                                keysSavedMessage = true
+                                kotlinx.coroutines.delay(2000)
+                                keysSavedMessage = false
+                            }
+                        },
+                        colors = ButtonDefaults.buttonColors(containerColor = colors.primary)
+                    ) {
+                        Text(
+                            text = if (keysSavedMessage) "✓ Saved!" else "Save Keys",
+                            fontSize = 13.sp,
+                            fontWeight = FontWeight.Bold
+                        )
+                    }
+                }
             }
 
             Spacer(modifier = Modifier.height(24.dp))

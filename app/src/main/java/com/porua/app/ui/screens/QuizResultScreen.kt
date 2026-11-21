@@ -245,29 +245,96 @@ fun QuizResultScreen(
             Spacer(modifier = Modifier.height(14.dp))
         }
 
-        // ── Bottom Action Buttons ────────────────────────────────────────────
+        // ── Bottom Action Buttons (Adaptive 100% Next vs Learn from Mistakes Loop) ──
         item {
-            Spacer(modifier = Modifier.height(12.dp))
+            Spacer(modifier = Modifier.height(16.dp))
 
-            if (result.wrongCount > 0) {
+            val isPerfectScore = result.score == result.totalQuestions && result.totalQuestions > 0
+
+            if (isPerfectScore) {
+                // 100% Score: Celebratory Next Session Path
+                Column(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .clip(ShapeLg)
+                        .background(colors.surface)
+                        .border(1.dp, colors.success.copy(alpha = 0.5f), ShapeLg)
+                        .padding(16.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally
+                ) {
+                    Text(
+                        text = "🎉 100% Perfect Mastery!",
+                        fontSize = 18.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = colors.success
+                    )
+                    Spacer(modifier = Modifier.height(6.dp))
+                    Text(
+                        text = "Outstanding! You got all ${result.totalQuestions} questions correct. Ready for the next challenge?",
+                        fontSize = 13.sp,
+                        color = colors.textMuted,
+                        textAlign = androidx.compose.ui.text.style.TextAlign.Center
+                    )
+                }
+
+                Spacer(modifier = Modifier.height(16.dp))
+
                 PoruaPrimaryButton(
-                    text = "Retry Wrong Questions (${result.wrongCount})",
+                    text = "NEXT SESSION ➔ (পরবর্তী সেশন)",
+                    onClick = onNewSet
+                )
+
+                Spacer(modifier = Modifier.height(10.dp))
+
+                PoruaSecondaryButton(
+                    text = "Back to Practice",
+                    onClick = onBackToPractice
+                )
+            } else {
+                // Mistakes Made: Dual-Branch (Learn from Mistakes vs Skip)
+                Column(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .clip(ShapeLg)
+                        .background(colors.surface)
+                        .border(1.dp, colors.primary.copy(alpha = 0.3f), ShapeLg)
+                        .padding(14.dp)
+                ) {
+                    Text(
+                        text = "💡 Adaptive Remedial Practice",
+                        fontSize = 14.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = colors.text
+                    )
+                    Spacer(modifier = Modifier.height(4.dp))
+                    Text(
+                        text = "Practice a new targeted 20-question set focused on the topics you missed (${result.wrongCount} mistakes).",
+                        fontSize = 12.sp,
+                        color = colors.textMuted
+                    )
+                }
+
+                Spacer(modifier = Modifier.height(14.dp))
+
+                PoruaPrimaryButton(
+                    text = "✦ Learn from Mistakes (ভুল থেকে শেখো)",
                     onClick = onRetryWrong
                 )
+
                 Spacer(modifier = Modifier.height(10.dp))
+
+                PoruaSecondaryButton(
+                    text = "Skip ➔ (স্কিপ)",
+                    onClick = onNewSet
+                )
+
+                Spacer(modifier = Modifier.height(10.dp))
+
+                PoruaSecondaryButton(
+                    text = "Back to Practice",
+                    onClick = onBackToPractice
+                )
             }
-
-            PoruaSecondaryButton(
-                text = "New 20-Question Set",
-                onClick = onNewSet
-            )
-
-            Spacer(modifier = Modifier.height(10.dp))
-
-            PoruaSecondaryButton(
-                text = "Back to Practice",
-                onClick = onBackToPractice
-            )
 
             Spacer(modifier = Modifier.height(40.dp))
         }

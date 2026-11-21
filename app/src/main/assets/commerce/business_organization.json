@@ -1,0 +1,205 @@
+{
+  "class": "HSC Commerce",
+  "stream": "Commerce",
+  "subject": "Business Organization & Management",
+  "curriculum": "Bangladesh NCTB",
+  "language": "English/Bengali",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Fundamental Concepts of Business",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Definition, nature, evolution, branches, and modern role of commerce and business in economic development.",
+        "key_terms": [
+          "Industry: Extraction, production, and processing of goods.",
+          "Commerce: Distribution of goods from producer to consumer."
+        ],
+        "study_notes": [
+          "Industry creates form utility; Transport creates place utility; Warehousing creates time utility; Banking creates financial utility."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Which economic utility is created by the manufacturing industry? A. Time utility B. Form utility C. Place utility D. Ownership utility Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Which branch of commerce removes the hindrance of place in distributing goods? A. Warehousing B. Transportation C. Banking D. Insurance Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Warehousing creates which type of utility in marketing goods? A. Place utility B. Time utility C. Form utility D. Knowledge utility Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "Insurance removes which obstacle in commercial trade? A. Risk obstacle B. Place obstacle C. Time obstacle D. Finance obstacle Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the primary driving motive of any commercial enterprise? A. Social service B. Profit earning with calculated risk C. Charity D. Government order Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "Which industry involves extracting raw materials directly from nature? A. Extractive industry (Mining/Agriculture) B. Genetic industry C. Construction industry D. Service industry Answer: A"
+          },
+          {
+            "number": 7,
+            "content": "Poultry farming and fish hatcheries are examples of which industry? A. Extractive industry B. Genetic industry C. Synthetic industry D. Analytic industry Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "The totality of activities involving buying and selling goods is called: A. Trade B. Industry C. Production D. Assembly Answer: A"
+          },
+          {
+            "number": 9,
+            "content": "Importing goods from one foreign country and re-exporting to another country is: A. Direct export B. Entrepot trade C. Internal trade D. Wholesale trade Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "Advertising primarily eliminates which obstacle in trade? A. Risk B. Knowledge / Information obstacle C. Financial obstacle D. Distance obstacle Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Business ethics primarily addresses which dimension of enterprise? A. Maximizing tax evasion B. Fair dealing, consumer welfare and social responsibility C. Monopolistic pricing D. Hostile takeovers Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "Which environmental factor encompasses laws, political stability, and policies? A. Economic environment B. Political and Legal environment C. Cultural environment D. Technological environment Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Trade conducted within the geographical boundary of a single nation is: A. Foreign trade B. Domestic / Internal trade C. Entrepot trade D. Bilateral trade Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "A middleman who purchases in large bulk from factory and sells to retailers is: A. Broker B. Wholesaler C. Consumer D. Agent Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "The term CSR in modern business stands for: A. Corporate Social Responsibility B. Commercial Sales Revenue C. Central Standard Ratio D. Capital Stock Reserve Answer: A"
+          },
+          {
+            "number": 16,
+            "content": "Which element of business environment includes literacy rate, values, and customs? A. Socio-cultural environment B. Physical environment C. Legal environment D. Economic environment Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "An enterprise owned, controlled, and managed by a single individual is a: A. Partnership B. Sole Proprietorship C. Corporation D. Cooperative Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "What is the greatest risk in a sole proprietorship form of organization? A. Unlimited liability of the proprietor B. Dual taxation C. Complicated registration D. Too many owners Answer: A"
+          },
+          {
+            "number": 19,
+            "content": "Which document is considered the foundational charter of a registered Joint Stock Company? A. Articles of Association B. Memorandum of Association C. Prospectus D. Certificate of Commencement Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "The maximum number of members in a private limited company under Bangladesh Companies Act 1994 is: A. 20 B. 50 C. 100 D. Unlimited Answer: B"
+          }
+        ]
+      }
+    },
+    {
+      "chapter_number": 2,
+      "title": "Principles of Management & Leadership",
+      "paper": "2nd Paper",
+      "content": {
+        "overview": "Evolution of management thought, Henri Fayol's administrative principles, F.W. Taylor's scientific management, POSDCORB functions, leadership styles, and motivation.",
+        "key_terms": [
+          "Henri Fayol: Father of Modern Management (14 Principles).",
+          "F.W. Taylor: Father of Scientific Management.",
+          "POSDCORB: Planning, Organizing, Staffing, Directing, Coordinating, Reporting, Budgeting."
+        ],
+        "study_notes": [
+          "Unity of Command: An employee should receive orders from one superior only.",
+          "Unity of Direction: One head and one plan for a group of activities with the same objective."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Who formulated the 14 Principles of Management? A. F.W. Taylor B. Henri Fayol C. Max Weber D. Elton Mayo Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "What is the core rule of the principle of 'Unity of Command'? A. Employees receive orders from one boss only B. All departments have one head C. Equal salary for all D. Dual reporting Answer: A"
+          },
+          {
+            "number": 3,
+            "content": "Who is globally recognized as the Father of Scientific Management? A. Henri Fayol B. F.W. Taylor C. Peter Drucker D. Chester Barnard Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "What is the foundational first function in the management process? A. Organizing B. Planning C. Controlling D. Staffing Answer: B"
+          },
+          {
+            "number": 5,
+            "content": "Comparing actual organizational performance against planned standards is: A. Directing B. Controlling C. Motivating D. Delegating Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "Which leadership style centralizes all decision-making authority in the leader alone? A. Democratic / Participative B. Autocratic / Authoritarian C. Laissez-faire / Free-rein D. Bureaucratic Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "Who proposed the Hierarchy of Needs Theory of Motivation? A. Douglas McGregor B. Abraham Maslow C. Frederick Herzberg D. David McClelland Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the base physiological need at the bottom of Maslow's pyramid? A. Safety and security B. Food, water, shelter, sleep C. Esteem needs D. Self-actualization Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "The highest level need in Maslow's motivational hierarchy is: A. Social belonging B. Self-Actualization C. Status and esteem D. Job security Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "In McGregor's Theory X and Theory Y, Theory Y assumes that employees: A. Dislike work and evade responsibility B. Are self-motivated, creative and seek responsibility C. Only work for punishment D. Are purely lazy Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "The acronym POSDCORB was coined by which administrative theorist? A. Luther Gulick B. Henri Fayol C. Lyndall Urwick D. Max Weber Answer: A"
+          },
+          {
+            "number": 12,
+            "content": "The unbroken line of authority extending from top management to lowest level is: A. Unity of command B. Scalar Chain C. Span of control D. Centralization Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "The number of direct subordinates a manager can effectively supervise is termed: A. Line of command B. Span of control / Span of management C. Departmentation D. Delegation Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "Delegation of authority involves assigning responsibility, granting authority, and creating: A. Accountability B. Centralization C. Disobedience D. Isolation Answer: A"
+          },
+          {
+            "number": 15,
+            "content": "In Herzberg's two-factor theory, which factor prevents job dissatisfaction? A. Motivators B. Hygiene factors (Company policy, salary, working conditions) C. Self-esteem D. Autonomy Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "A leader who invites suggestions and consults subordinates before deciding is: A. Autocratic B. Democratic / Participative C. Laissez-faire D. Coercive Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "What management level includes Board of Directors, Chairman, and Chief Executive Officers? A. Top-level management B. Middle-level management C. Operating / Lower-level D. Supervisory Answer: A"
+          },
+          {
+            "number": 18,
+            "content": "The bridge used in Fayol's scalar chain for direct cross-communication in emergencies is: A. Line authority B. Gang Plank C. Matrix link D. Staff liaison Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "The French term 'Esprit de Corps' in Fayol's management principles means: A. Strict discipline B. Team spirit and unity among employees C. Individual ambition D. Order and placement Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Which step in controlling determines corrective action? A. Establishing standards B. Measuring performance C. Comparing actual with standard D. Taking corrective remedial measures Answer: D"
+          }
+        ]
+      }
+    }
+  ]
+}

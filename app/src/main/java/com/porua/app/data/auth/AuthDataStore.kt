@@ -29,6 +29,23 @@ class AuthDataStore(private val context: Context) {
         val KEY_GROUP = stringPreferencesKey("user_group")
         val KEY_HSC_CLASS = stringPreferencesKey("hsc_class")
         val KEY_EXAM_YEAR = stringPreferencesKey("exam_year")
+        val KEY_GEMINI_API_KEY = stringPreferencesKey("gemini_api_key")
+        val KEY_GROK_API_KEY = stringPreferencesKey("grok_api_key")
+    }
+
+    val geminiApiKey: Flow<String?> = context.authDataStore.data.map { prefs ->
+        prefs[KEY_GEMINI_API_KEY]
+    }
+
+    val grokApiKey: Flow<String?> = context.authDataStore.data.map { prefs ->
+        prefs[KEY_GROK_API_KEY]
+    }
+
+    suspend fun saveAiKeys(geminiKey: String, grokKey: String) {
+        context.authDataStore.edit { prefs ->
+            prefs[KEY_GEMINI_API_KEY] = geminiKey.trim()
+            prefs[KEY_GROK_API_KEY] = grokKey.trim()
+        }
     }
 
     val isLoggedIn: Flow<Boolean> = context.authDataStore.data.map { prefs ->

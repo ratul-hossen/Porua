@@ -81,7 +81,7 @@ fun QuizScreen(
             state = state,
             onFilterChange = { viewModel.setReviewFilter(it) },
             onRetryWrong = { viewModel.retryWrongQuestions() },
-            onNewSet = { viewModel.newQuizSet() },
+            onNewSet = { viewModel.startNextSession() },
             onExplainAi = { viewModel.explainWithAi(it) },
             onBackToPractice = onClose
         )

@@ -16,6 +16,17 @@ object AiHelper {
     const val GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY_HERE"
     const val GROK_API_KEY = "YOUR_GROQ_API_KEY_HERE"
 
+    var userGoogleApiKey: String? = null
+    var userGrokApiKey: String? = null
+
+    val effectiveGoogleApiKey: String
+        get() = userGoogleApiKey?.takeIf { it.isNotBlank() && !it.contains("YOUR_") }
+            ?: GOOGLE_API_KEY.takeIf { it.isNotBlank() && !it.contains("YOUR_") } ?: ""
+
+    val effectiveGrokApiKey: String
+        get() = userGrokApiKey?.takeIf { it.isNotBlank() && !it.contains("YOUR_") }
+            ?: GROK_API_KEY.takeIf { it.isNotBlank() && !it.contains("YOUR_") } ?: ""
+
     // === MODELS ===
     const val GEMINI_MODEL = "gemini-flash-lite-latest"
     const val GEMINI_FALLBACK_MODEL = "gemini-flash-latest"
@@ -61,8 +72,8 @@ RULES:
      * 5. Strips stray asterisks and markdown symbols so the answer is always clean plain text.
      */
     suspend fun askAi(prompt: String, imageBase64: String? = null, mimeType: String = "image/jpeg"): String = withContext(Dispatchers.IO) {
-        val googleReady = GOOGLE_API_KEY.isNotBlank() && !GOOGLE_API_KEY.contains("YOUR_")
-        val grokReady = GROK_API_KEY.isNotBlank() && !GROK_API_KEY.contains("YOUR_")
+        val googleReady = effectiveGoogleApiKey.isNotBlank()
+        val grokReady = effectiveGrokApiKey.isNotBlank()
 
         val cacheKey = if (imageBase64.isNullOrBlank()) prompt.trim().lowercase() else ""
         if (cacheKey.isNotBlank()) {
@@ -102,8 +113,9 @@ RULES:
      * Google Gemini API (gemini-2.0-flash with fallback to gemini-1.5-flash)
      */
     suspend fun askGoogle(prompt: String, imageBase64: String? = null, mimeType: String = "image/jpeg"): String = withContext(Dispatchers.IO) {
-        if (GOOGLE_API_KEY.contains("YOUR_") || GOOGLE_API_KEY.isBlank()) {
-            return@withContext "Google API Key is not set! Please set GOOGLE_API_KEY in AiHelper.kt"
+        val apiKey = effectiveGoogleApiKey
+        if (apiKey.isBlank()) {
+            return@withContext "Google Gemini API Key is not set! Please add your key in Settings > AI Configuration."
         }
 
         // Try primary model (gemini-2.0-flash), fallback to gemini-1.5-flash if needed
@@ -122,13 +134,14 @@ RULES:
 
     private fun executeGoogleRequest(model: String, prompt: String, imageBase64: String?, mimeType: String): String {
         var connection: HttpURLConnection? = null
+        val apiKey = effectiveGoogleApiKey
         return try {
-            val endpoint = "https://generativelanguage.googleapis.com/v1beta/models/$model:generateContent?key=$GOOGLE_API_KEY"
+            val endpoint = "https://generativelanguage.googleapis.com/v1beta/models/$model:generateContent?key=$apiKey"
             val url = URL(endpoint)
             connection = (url.openConnection() as HttpURLConnection).apply {
                 requestMethod = "POST"
                 setRequestProperty("Content-Type", "application/json; charset=UTF-8")
-                setRequestProperty("x-goog-api-key", GOOGLE_API_KEY)
+                setRequestProperty("x-goog-api-key", apiKey)
                 doOutput = true
                 connectTimeout = 15000
                 readTimeout = 30000
@@ -215,11 +228,12 @@ RULES:
      * Grok / Groq / OpenAI Compatible API (auto Groq flagship routing)
      */
     suspend fun askGrok(prompt: String, imageBase64: String? = null, mimeType: String = "image/jpeg"): String = withContext(Dispatchers.IO) {
-        if (GROK_API_KEY.contains("YOUR_") || GROK_API_KEY.isBlank()) {
-            return@withContext "Grok API Key is not set! Please set GROK_API_KEY in AiHelper.kt"
+        val apiKey = effectiveGrokApiKey
+        if (apiKey.isBlank()) {
+            return@withContext "Grok API Key is not set! Please add your key in Settings > AI Configuration."
         }
 
-        val isGroq = GROK_API_KEY.startsWith("gsk_")
+        val isGroq = apiKey.startsWith("gsk_")
         val hasImage = !imageBase64.isNullOrBlank()
 
         // On Groq Cloud:
@@ -250,11 +264,12 @@ RULES:
 
     private fun executeGrokRequest(model: String, prompt: String, imageBase64: String?, mimeType: String): String {
         var connection: HttpURLConnection? = null
+        val apiKey = effectiveGrokApiKey
         return try {
             // Auto-detect Groq, OpenRouter or xAI endpoint based on API key prefix
             val endpointUrl = when {
-                GROK_API_KEY.startsWith("gsk_") -> "https://api.groq.com/openai/v1/chat/completions"
-                GROK_API_KEY.startsWith("sk-or-") -> "https://openrouter.ai/api/v1/chat/completions"
+                apiKey.startsWith("gsk_") -> "https://api.groq.com/openai/v1/chat/completions"
+                apiKey.startsWith("sk-or-") -> "https://openrouter.ai/api/v1/chat/completions"
                 else -> GROK_ENDPOINT
             }
 
@@ -262,7 +277,7 @@ RULES:
             connection = (url.openConnection() as HttpURLConnection).apply {
                 requestMethod = "POST"
                 setRequestProperty("Content-Type", "application/json; charset=UTF-8")
-                setRequestProperty("Authorization", "Bearer $GROK_API_KEY")
+                setRequestProperty("Authorization", "Bearer $apiKey")
                 if (endpointUrl.contains("openrouter")) {
                     setRequestProperty("HTTP-Referer", "https://porua.app")
                     setRequestProperty("X-Title", "Porua Educational App")

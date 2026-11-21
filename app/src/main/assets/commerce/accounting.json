@@ -1,0 +1,209 @@
+{
+  "class": "HSC Commerce",
+  "stream": "Commerce",
+  "subject": "Accounting",
+  "curriculum": "Bangladesh NCTB",
+  "language": "English/Bengali",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction to Accounting & Accounting Equation",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Fundamental concepts of accounting, accounting cycle, transaction identification, and the fundamental accounting equation Assets = Liabilities + Owner's Equity.",
+        "key_terms": [
+          "Accounting Equation: Assets = Liabilities + Owner's Equity (A = L + OE).",
+          "Dual Aspect Principle: Every transaction affects at least two accounts with equal debits and credits.",
+          "Entity Concept: Business is treated as legally separate from its owner."
+        ],
+        "study_notes": [
+          "Owner's Equity = Capital + Revenue - Expenses - Drawings.",
+          "Asset increases are recorded on the Debit side; Liability increases on the Credit side."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "What is the fundamental accounting equation? A. Assets = Liabilities - Capital B. Assets = Liabilities + Owner's Equity C. Capital = Assets + Liabilities D. Assets + Owner's Equity = Liabilities Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "Who is revered as the Father of Modern Double Entry Bookkeeping? A. Adam Smith B. Luca Pacioli C. Alfred Marshall D. F.W. Taylor Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "When a business pays cash to settle an accounts payable liability, what happens to the accounting equation? A. Assets decrease and Liabilities decrease B. Assets increase and Liabilities increase C. Assets decrease and Capital decreases D. Only Assets change Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "Which event is considered a financial transaction in accounting? A. Appointing a manager with salary B. Ordering goods for purchase C. Paying office rent in cash D. Receiving a price quotation Answer: C"
+          },
+          {
+            "number": 5,
+            "content": "Which accounting principle states that a business will continue operations indefinitely? A. Monetary Unit Assumption B. Going Concern Assumption C. Periodicity Concept D. Conservatism Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "When the proprietor withdraws cash from the business for personal use, which account is debited? A. Cash A/C B. Drawings A/C C. Capital A/C D. Salary A/C Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "What is the normal balance of an Asset account in the ledger? A. Credit B. Debit C. Zero D. Negative Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "Which financial statement reports the financial position of a business on a specific date? A. Income Statement B. Balance Sheet C. Cash Flow Statement D. Trial Balance Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "Revenue earned but not yet received in cash is classified as an: A. Accrued Asset (Receivable) B. Liability C. Expense D. Drawings Answer: A"
+          },
+          {
+            "number": 10,
+            "content": "The rule 'Debit the receiver, credit the giver' applies to which account type in traditional classification? A. Real Account B. Personal Account C. Nominal Account D. Valuation Account Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "Purchasing office equipment on credit results in: A. Asset increase and Liability increase B. Asset increase and Asset decrease C. Liability decrease D. Expense increase Answer: A"
+          },
+          {
+            "number": 12,
+            "content": "Which of the following is considered an intangible asset on the Balance Sheet? A. Machinery B. Goodwill / Patent C. Inventory D. Accounts Receivable Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Rent paid in advance by a tenant is classified as an: A. Prepaid Expense (Current Asset) B. Unearned Revenue C. Direct Expense D. Capital Expenditure Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "Which accounting principle requires revenues and expenses to be recognized in the same accounting period? A. Cost Principle B. Matching Principle C. Disclosure Principle D. Materiality Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What is the summary statement of all ledger balances prepared to check arithmetical accuracy? A. Ledger B. Trial Balance C. Journal D. Balance Sheet Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Depreciation on plant and equipment is considered a: A. Non-cash operating expense B. Cash outflow C. Capital gain D. Current liability Answer: A"
+          },
+          {
+            "number": 17,
+            "content": "Which discount is deducted directly on the invoice and is not recorded in journal entries? A. Cash Discount B. Trade Discount C. Settlement Discount D. Bank Discount Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "If Assets = 500,000 BDT and Liabilities = 200,000 BDT, what is the Owner's Equity? A. 700,000 BDT B. 300,000 BDT C. 250,000 BDT D. 100,000 BDT Answer: B"
+          },
+          {
+            "number": 19,
+            "content": "The book of original prime entry in accounting is the: A. Ledger B. Journal C. Trial Balance D. Balance Sheet Answer: B"
+          },
+          {
+            "number": 20,
+            "content": "Which qualitative characteristic of accounting information ensures it is free from material bias? A. Relevance B. Reliability / Faithful representation C. Timeliness D. Understandability Answer: B"
+          }
+        ],
+        "answer_tip": "Keep the basic equation A = L + OE in mind; assets debit, liabilities credit."
+      }
+    },
+    {
+      "chapter_number": 2,
+      "title": "Bank Reconciliation Statement & Adjusting Entries",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Reconciliation between Cash Book bank column and Bank Pass Book statement balance, adjusting entries for accruals, prepayments, depreciation, and bad debts.",
+        "key_terms": [
+          "Bank Reconciliation Statement (BRS): Reconciles timing and recording discrepancies between firm's Cash Book and Bank Pass Book.",
+          "Outstanding Checks: Checks issued by firm but not yet presented at bank for payment.",
+          "Uncredited Deposits: Deposits sent to bank but not yet cleared/credited on the statement."
+        ],
+        "study_notes": [
+          "Bank charges deducted by bank reduce Cash Book balance.",
+          "Adjusting entries are prepared at the end of the fiscal period under accrual accounting."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "A check issued by the firm to a supplier but not yet presented for payment at the bank is an: A. Uncredited check B. Outstanding / Unpresented check C. Dishonored check D. Stale check Answer: B"
+          },
+          {
+            "number": 2,
+            "content": "How do bank charges recorded on the bank passbook affect the cash book reconciliation? A. Added to cash book B. Deducted from cash book C. Ignored D. Doubled Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "Direct deposit by a customer into the firm's bank account should be: A. Added to cash book balance B. Deducted from cash book balance C. Added to pass book balance D. Ignored Answer: A"
+          },
+          {
+            "number": 4,
+            "content": "A favorable bank balance according to the Cash Book represents a: A. Debit balance B. Credit balance C. Overdraft D. Liability Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "An unfavorable (overdraft) balance according to the Bank Pass Book represents a: A. Credit balance B. Debit balance C. Asset D. Surplus Answer: B"
+          },
+          {
+            "number": 6,
+            "content": "The adjusting entry to record accrued unpaid salaries at the end of the year is: A. Salaries A/C Dr, Cash A/C Cr B. Salaries A/C Dr, Salaries Payable A/C Cr C. Salaries Payable A/C Dr, Salaries A/C Cr D. Cash A/C Dr, Salaries A/C Cr Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "The adjusting entry for prepaid insurance expired during the accounting period is: A. Insurance Expense A/C Dr, Prepaid Insurance A/C Cr B. Prepaid Insurance A/C Dr, Cash A/C Cr C. Cash A/C Dr, Insurance Expense A/C Cr D. Insurance Expense A/C Dr, Cash A/C Cr Answer: A"
+          },
+          {
+            "number": 8,
+            "content": "What is the adjusting entry to record annual depreciation on office furniture? A. Furniture A/C Dr, Depreciation A/C Cr B. Depreciation Expense A/C Dr, Accumulated Depreciation A/C Cr C. Cash A/C Dr, Depreciation A/C Cr D. Capital A/C Dr, Furniture A/C Cr Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "Accumulated Depreciation is presented on the Balance Sheet as a: A. Current Liability B. Contra-Asset deducting from Fixed Asset C. Operating Expense D. Intangible Asset Answer: B"
+          },
+          {
+            "number": 10,
+            "content": "Under which method does depreciation expense remain constant every year throughout asset life? A. Straight Line Method B. Diminishing Balance Method C. Sum of Years Digits D. Machine Hour Rate Answer: A"
+          },
+          {
+            "number": 11,
+            "content": "If an asset costs 100,000 BDT, has scrap value of 10,000 BDT, and useful life of 5 years, what is straight-line annual depreciation? A. 20,000 BDT B. 18,000 BDT C. 15,000 BDT D. 22,000 BDT Answer: B"
+          },
+          {
+            "number": 12,
+            "content": "Under Diminishing Balance Method, depreciation is calculated on the asset's: A. Original cost B. Written Down Value (Book Value) C. Market value D. Scrap value Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "The provision for doubtful debts is created to comply with which accounting principle? A. Materiality B. Prudence / Conservatism C. Consistency D. Full Disclosure Answer: B"
+          },
+          {
+            "number": 14,
+            "content": "When a customer's check deposited into the bank bounces due to insufficient funds, it is termed a: A. Certified check B. Dishonored check C. Stale check D. Bearer check Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "Who typically prepares the Bank Reconciliation Statement? A. The Bank Manager B. The Business Account Holder C. External Auditor D. Tax Authority Answer: B"
+          },
+          {
+            "number": 16,
+            "content": "Unearned revenue received in advance from a client is initially recorded as a: A. Current Asset B. Current Liability C. Net Income D. Capital addition Answer: B"
+          },
+          {
+            "number": 17,
+            "content": "If a check becomes invalid after six months from date of issue, it is called a: A. Post-dated check B. Stale check C. Open check D. Crossed check Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "Dividend collected directly by bank on behalf of the company is: A. Added to cash book B. Deducted from cash book C. Added to passbook only D. Deducted from passbook Answer: A"
+          },
+          {
+            "number": 19,
+            "content": "A trial balance will NOT reveal which type of error? A. Compensating error B. Single-sided ledger posting error C. Arithmetical casting error D. Trial balance total mismatch Answer: A"
+          },
+          {
+            "number": 20,
+            "content": "Recording a capital expenditure as an ordinary revenue expense is an error of: A. Commission B. Omission C. Principle D. Duplication Answer: C"
+          }
+        ],
+        "answer_tip": "Remember: Straight-line depreciation = (Cost - Scrap) / Useful Life."
+      }
+    }
+  ]
+}

@@ -364,11 +364,75 @@ class QuizViewModel(
     }
 
     fun retryWrongQuestions() {
-        val result = _uiState.value.result ?: return
-        val wrongQuestions = result.reviewItems.filter { !it.isCorrect && !it.isSkipped }.map { it.question }
-        if (wrongQuestions.isNotEmpty()) {
-            startQuiz(_uiState.value.subjectId, _uiState.value.chapterNumber, wrongQuestions)
+        startLearnFromMistakes()
+    }
+
+    fun startLearnFromMistakes() {
+        val state = _uiState.value
+        val result = state.result ?: return
+        val wrongReviewItems = result.reviewItems.filter { !it.isCorrect }
+        if (wrongReviewItems.isEmpty()) return
+
+        val failedQuestions = wrongReviewItems.map { it.question }
+        val weakChapterNumbers = failedQuestions.map { it.chapterNumber }.toSet()
+
+        viewModelScope.launch(Dispatchers.IO) {
+            val allMcqs = ContentRepository.getAllMcqsForSubject(appContext, state.subjectId)
+
+            val remedialQuestions = mutableListOf<QuizQuestion>()
+            // 1. First add the failed questions directly for reinforcement
+            failedQuestions.forEach { q ->
+                remedialQuestions.add(q.copy(index = remedialQuestions.size + 1))
+            }
+
+            // 2. Pull other questions from the SAME chapters/topics to complete the 20-question set
+            val existingTexts = failedQuestions.map { it.questionText }.toSet()
+            val categoryPool = allMcqs.filter { it.chapterNumber in weakChapterNumbers && it.mcq.questionText !in existingTexts }.shuffled()
+            val generalPool = allMcqs.filter { it.mcq.questionText !in existingTexts && it.chapterNumber !in weakChapterNumbers }.shuffled()
+
+            val combinedPool = categoryPool + generalPool
+            val needed = 20 - remedialQuestions.size
+            if (needed > 0) {
+                combinedPool.take(needed).forEach { item ->
+                    val idx = remedialQuestions.size
+                    remedialQuestions.add(
+                        QuizQuestion(
+                            id = "${item.subjectId}_ch${item.chapterNumber}_${item.mcq.number}_remedial_$idx",
+                            index = idx + 1,
+                            subjectId = item.subjectId,
+                            subjectName = item.subjectName,
+                            chapterNumber = item.chapterNumber,
+                            chapterTitle = item.chapterTitle,
+                            paper = item.paper,
+                            questionText = item.mcq.questionText,
+                            optionA = item.mcq.optionA,
+                            optionB = item.mcq.optionB,
+                            optionC = item.mcq.optionC,
+                            optionD = item.mcq.optionD,
+                            correctOption = item.mcq.correctOption,
+                            explanation = item.explanation
+                        )
+                    )
+                }
+            }
+
+            startQuiz(
+                subjectId = state.subjectId,
+                chapterNumber = null,
+                retryQuestions = remedialQuestions.take(20)
+            )
         }
+    }
+
+    fun startNextSession() {
+        val state = _uiState.value
+        val currentCh = state.chapterNumber ?: 1
+        val chapters = ContentRepository.getChaptersForSubject(appContext, state.subjectId)
+        val nextCh = if (chapters.isNotEmpty()) {
+            val next = currentCh + 1
+            if (next <= chapters.size) next else 1
+        } else null
+        startQuiz(state.subjectId, nextCh)
     }
 
     fun newQuizSet() {

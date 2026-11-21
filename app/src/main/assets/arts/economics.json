@@ -1,0 +1,110 @@
+{
+  "class": "HSC Arts",
+  "stream": "Arts",
+  "subject": "Economics",
+  "curriculum": "Bangladesh NCTB",
+  "language": "English/Bengali",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Basic Economic Problems & Economic Systems",
+      "paper": "1st Paper",
+      "content": {
+        "overview": "Fundamental economic scarcity, choice, opportunity cost, Production Possibility Curve (PPC), and economic systems (Capitalist, Socialist, Mixed, Islamic).",
+        "key_terms": [
+          "Scarcity: Unlimited human wants versus limited available economic resources (Lionel Robbins).",
+          "Opportunity Cost: The value of the next best alternative foregone when making a choice.",
+          "Production Possibility Curve (PPC): Graphical boundary showing maximum combinatory outputs of two goods with given resources."
+        ],
+        "study_notes": [
+          "Points inside the PPC indicate underemployment/inefficient resource utilization.",
+          "Points outside the PPC are unattainable with current resources and technology.",
+          "Market economy solves 'What, How, and For Whom to produce' via the price mechanism."
+        ],
+        "mcqs": [
+          {
+            "number": 1,
+            "content": "Who defined economics as the science of scarcity and choice in 1932? A. Adam Smith B. Alfred Marshall C. Lionel Robbins D. J.M. Keynes Answer: C"
+          },
+          {
+            "number": 2,
+            "content": "The value of the next best alternative given up when making an economic decision is: A. Marginal cost B. Opportunity cost C. Accounting cost D. Sunk cost Answer: B"
+          },
+          {
+            "number": 3,
+            "content": "What does a point situated inside the Production Possibility Curve (PPC) represent? A. Maximum efficiency B. Inefficient / Underutilized resources C. Unattainable output D. Technological growth Answer: B"
+          },
+          {
+            "number": 4,
+            "content": "In which economic system does the price mechanism automatically coordinate supply and demand? A. Capitalist / Free Market B. Socialist / Command C. Traditional D. Feudal Answer: A"
+          },
+          {
+            "number": 5,
+            "content": "What is the prevailing economic system of Bangladesh? A. Pure Capitalist B. Pure Socialist C. Mixed Economy D. Barter Economy Answer: C"
+          },
+          {
+            "number": 6,
+            "content": "The classical book 'The Wealth of Nations' (1776) was authored by: A. David Ricardo B. Adam Smith C. John Stuart Mill D. Karl Marx Answer: B"
+          },
+          {
+            "number": 7,
+            "content": "The Law of Diminishing Marginal Utility states that as consumption of a good increases, marginal utility: A. Increases B. Decreases C. Stays constant D. Becomes infinite Answer: B"
+          },
+          {
+            "number": 8,
+            "content": "What is the slope of a normal demand curve? A. Upward sloping (positive) B. Downward sloping (negative) C. Horizontal D. Vertical Answer: B"
+          },
+          {
+            "number": 9,
+            "content": "When price rises, quantity supplied typically: A. Increases B. Decreases C. Remains unchanged D. Drops to zero Answer: A"
+          },
+          {
+            "number": 10,
+            "content": "The market equilibrium price occurs at the intersection where: A. Demand exceeds supply B. Quantity demanded equals quantity supplied C. Government fixes price D. Production cost is zero Answer: B"
+          },
+          {
+            "number": 11,
+            "content": "If price elasticity of demand (Ep) is greater than 1, demand is classified as: A. Perfectly inelastic B. Inelastic C. Elastic D. Unitary elastic Answer: C"
+          },
+          {
+            "number": 12,
+            "content": "Goods whose demand increases as consumer income rises are known as: A. Inferior goods B. Normal goods C. Giffen goods D. Veblen goods Answer: B"
+          },
+          {
+            "number": 13,
+            "content": "Tea and coffee are classic examples of: A. Substitute goods B. Complementary goods C. Unrelated goods D. Inferior goods Answer: A"
+          },
+          {
+            "number": 14,
+            "content": "Car and petrol/gasoline represent: A. Substitute goods B. Complementary goods C. Independent goods D. Public goods Answer: B"
+          },
+          {
+            "number": 15,
+            "content": "What are the four classical factors of production? A. Land, Labor, Capital, Organization B. Money, Machines, Materials, Management C. Rent, Wages, Interest, Profit D. Gold, Silver, Oil, Coal Answer: A"
+          },
+          {
+            "number": 16,
+            "content": "The reward or return received by Capital as a factor of production is: A. Rent B. Wages C. Interest D. Profit Answer: C"
+          },
+          {
+            "number": 17,
+            "content": "In a perfectly competitive market, individual firms are price: A. Makers B. Takers C. Discriminators D. Regulators Answer: B"
+          },
+          {
+            "number": 18,
+            "content": "A market structure dominated by a single seller with no close substitutes is a: A. Monopoly B. Oligopoly C. Monopolistic competition D. Duopoly Answer: A"
+          },
+          {
+            "number": 19,
+            "content": "What is Gross Domestic Product (GDP)? A. Total output produced within country borders B. Total income earned by citizens anywhere C. Total exports D. Net national savings Answer: A"
+          },
+          {
+            "number": 20,
+            "content": "A sustained increase in the general price level of goods and services over time is termed: A. Deflation B. Inflation C. Stagflation D. Devaluation Answer: B"
+          }
+        ],
+        "answer_tip": "Recall PPC points: Inside=Inefficient, On curve=Efficient, Outside=Unattainable."
+      }
+    }
+  ]
+}

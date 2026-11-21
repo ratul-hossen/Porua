@@ -24,6 +24,15 @@ import androidx.compose.material.icons.filled.Functions
 import androidx.compose.material.icons.filled.Eco
 import androidx.compose.material.icons.filled.Science
 import androidx.compose.material.icons.filled.Whatshot
+import androidx.compose.material.icons.filled.Computer
+import androidx.compose.material.icons.filled.MenuBook
+import androidx.compose.material.icons.filled.Calculate
+import androidx.compose.material.icons.filled.Business
+import androidx.compose.material.icons.filled.AccountBalance
+import androidx.compose.material.icons.filled.BarChart
+import androidx.compose.material.icons.filled.Balance
+import androidx.compose.material.icons.filled.HistoryEdu
+import androidx.compose.material.icons.filled.School
 import androidx.compose.material3.Icon
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -118,11 +127,19 @@ private fun ContentSubjectCard(
     val colors = LocalPoruaColors.current
 
     val icon = when (subject.iconType) {
-        "atom"  -> Icons.Default.Whatshot
-        "flask" -> Icons.Default.Science
-        "sigma" -> Icons.Default.Functions
-        "leaf"  -> Icons.Default.Eco
-        else    -> Icons.Default.Science
+        "atom"        -> Icons.Default.Whatshot
+        "flask"       -> Icons.Default.Science
+        "sigma"       -> Icons.Default.Functions
+        "leaf"        -> Icons.Default.Eco
+        "laptop"      -> Icons.Default.Computer
+        "book"        -> Icons.Default.MenuBook
+        "calculator"  -> Icons.Default.Calculate
+        "briefcase"   -> Icons.Default.Business
+        "bank"        -> Icons.Default.AccountBalance
+        "chart"       -> Icons.Default.BarChart
+        "scale"       -> Icons.Default.Balance
+        "scroll"      -> Icons.Default.HistoryEdu
+        else          -> Icons.Default.School
     }
 
     Row(

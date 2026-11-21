@@ -142,7 +142,7 @@ fun SplashScreen(
             Spacer(modifier = Modifier.height(16.dp))
 
             Text(
-                text = "v1.0 • Group 8 • INTI",
+                text = "v2.0 • Group 8 • INTI",
                 fontSize = 11.sp,
                 fontWeight = FontWeight.Medium,
                 color = Color.White.copy(alpha = 0.6f)
