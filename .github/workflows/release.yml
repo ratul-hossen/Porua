@@ -41,8 +41,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release create ${{ github.ref_name }} release-assets/Porua-${{ github.ref_name }}.apk \
-            --title "Porua ${{ github.ref_name }}" \
-            --generate-notes \
-            --verify-tag \
-            --clobber
+          if gh release view "${{ github.ref_name }}" > /dev/null 2>&1; then
+            echo "Release already exists, uploading APK asset with --clobber..."
+            gh release upload "${{ github.ref_name }}" release-assets/Porua-${{ github.ref_name }}.apk --clobber
+          else
+            echo "Creating new release and uploading APK asset..."
+            gh release create "${{ github.ref_name }}" release-assets/Porua-${{ github.ref_name }}.apk \
+              --title "Porua ${{ github.ref_name }}" \
+              --generate-notes \
+              --verify-tag
+          fi
