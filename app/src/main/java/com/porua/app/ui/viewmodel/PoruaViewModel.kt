@@ -97,11 +97,11 @@ class PoruaViewModel(
                         SubjectEntity(
                             id = cs.id,
                             name = cs.name,
-                            paper = if (cs.stream == "Common") "Common (Mandatory)" else "${cs.stream} Stream",
-                            chaptersCount = cs.chaptersCount,
-                            questionsCount = cs.chaptersCount * 20,
+                            paper = if (cs.group == "Common") "Common (Mandatory)" else "${cs.group} Stream",
+                            chaptersCount = cs.chapterCount,
+                            questionsCount = cs.chapterCount * 20,
                             mastery = 0,
-                            iconType = cs.icon,
+                            iconType = cs.iconType,
                             isSelected = true
                         )
                     }
