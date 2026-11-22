@@ -112,7 +112,8 @@ fun MeScreen(
     var geminiInput by remember { mutableStateOf("") }
     var grokInput by remember { mutableStateOf("") }
     var showKeys by remember { mutableStateOf(false) }
-    var keysSavedMessage by remember { mutableStateOf(false) }
+    var keysStatusMessage by remember { mutableStateOf<String?>(null) }
+    var isCheckingKeys by remember { mutableStateOf(false) }
 
     LaunchedEffect(Unit) {
         authDataStore?.let { store ->
@@ -549,7 +550,7 @@ fun MeScreen(
                 Spacer(modifier = Modifier.height(12.dp))
 
                 Text(
-                    text = "Grok / Groq API Key",
+                    text = "Groq / OpenAI API Key (OpenAI models on Groq)",
                     fontSize = 12.sp,
                     fontWeight = FontWeight.SemiBold,
                     color = colors.text
@@ -558,7 +559,7 @@ fun MeScreen(
                 OutlinedTextField(
                     value = grokInput,
                     onValueChange = { grokInput = it },
-                    placeholder = { Text("gsk_...", fontSize = 12.sp, color = colors.textMuted) },
+                    placeholder = { Text("gsk_... or sk-...", fontSize = 12.sp, color = colors.textMuted) },
                     singleLine = true,
                     visualTransformation = if (showKeys) VisualTransformation.None else PasswordVisualTransformation(),
                     modifier = Modifier.fillMaxWidth(),
@@ -569,6 +570,15 @@ fun MeScreen(
                         unfocusedTextColor = colors.text
                     )
                 )
+
+                if (!keysStatusMessage.isNullOrBlank()) {
+                    Spacer(modifier = Modifier.height(10.dp))
+                    Text(
+                        text = keysStatusMessage ?: "",
+                        fontSize = 12.sp,
+                        color = if (keysStatusMessage?.startsWith("✓") == true) colors.success else colors.danger
+                    )
+                }
 
                 Spacer(modifier = Modifier.height(14.dp))
 
@@ -587,19 +597,30 @@ fun MeScreen(
 
                     Button(
                         onClick = {
+                            isCheckingKeys = true
+                            keysStatusMessage = null
                             coroutineScope.launch {
-                                authDataStore?.saveAiKeys(geminiInput, grokInput)
-                                AiHelper.userGoogleApiKey = geminiInput.trim()
-                                AiHelper.userGrokApiKey = grokInput.trim()
-                                keysSavedMessage = true
-                                kotlinx.coroutines.delay(2000)
-                                keysSavedMessage = false
+                                val cleanG = geminiInput.trim().trim('"', '\'', '`')
+                                val cleanGr = grokInput.trim().trim('"', '\'', '`')
+                                authDataStore?.saveAiKeys(cleanG, cleanGr)
+                                AiHelper.userGoogleApiKey = cleanG
+                                AiHelper.userGrokApiKey = cleanGr
+
+                                val check = kotlinx.coroutines.withContext(kotlinx.coroutines.Dispatchers.IO) {
+                                    AiHelper.autoCheckActiveConnection()
+                                }
+                                isCheckingKeys = false
+                                if (check.isValid) {
+                                    keysStatusMessage = "✓ Verified & Active: ${check.message}"
+                                } else {
+                                    keysStatusMessage = check.message
+                                }
                             }
                         },
                         colors = ButtonDefaults.buttonColors(containerColor = colors.primary)
                     ) {
                         Text(
-                            text = if (keysSavedMessage) "✓ Saved!" else "Save Keys",
+                            text = if (isCheckingKeys) "Verifying..." else "Save & Verify",
                             fontSize = 13.sp,
                             fontWeight = FontWeight.Bold
                         )

@@ -37,10 +37,24 @@ object AiHelper {
     // === MODELS ===
     const val GEMINI_MODEL = "gemini-2.0-flash"
     const val GEMINI_FALLBACK_MODEL = "gemini-1.5-flash"
-    const val GROK_MODEL = "llama-3.3-70b-versatile"
+    const val GROQ_MODEL_OPENAI_120B = "openai/gpt-oss-120b"
+    const val GROQ_MODEL_OPENAI_20B = "openai/gpt-oss-20b"
+    const val GROQ_MODEL_FAST = "llama-3.1-8b-instant"
     const val GROQ_VISION_MODEL = "llama-3.2-11b-vision-preview"
-    const val GROQ_FAST_FALLBACK = "llama-3.1-8b-instant"
+    const val GROK_MODEL = GROQ_MODEL_OPENAI_120B
+    const val GROQ_FAST_FALLBACK = GROQ_MODEL_FAST
     const val GROK_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
+
+    @Volatile var activeGoogleModel: String = "gemini-2.0-flash"
+    @Volatile var activeGoogleApiVersion: String = "v1beta"
+    @Volatile var activeGroqModel: String = GROQ_MODEL_OPENAI_120B
+
+    data class KeyCheckResult(
+        val isValid: Boolean,
+        val provider: String,
+        val activeModel: String,
+        val message: String
+    )
 
     // === IN-MEMORY LRU CACHE (Max 50 items, thread-safe, prevents memory leak) ===
     private val queryMemoryCache = java.util.Collections.synchronizedMap(
@@ -185,7 +199,208 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
     }
 
     /**
-     * Google Gemini API (gemini-2.0-flash with fallback to gemini-1.5-flash + Multi-turn Context)
+     * Check and validate Google Gemini API key. Queries available models dynamically.
+     */
+    suspend fun checkGoogleKey(apiKey: String = effectiveGoogleApiKey): KeyCheckResult = withContext(Dispatchers.IO) {
+        val clean = cleanKey(apiKey)
+        if (clean.isBlank()) {
+            return@withContext KeyCheckResult(false, "Gemini", "", "Google API key is not configured.")
+        }
+        var connection: HttpURLConnection? = null
+        try {
+            val encodedKey = java.net.URLEncoder.encode(clean, "UTF-8")
+            var url = URL("https://generativelanguage.googleapis.com/v1beta/models?key=$encodedKey")
+            connection = (url.openConnection() as HttpURLConnection).apply {
+                requestMethod = "GET"
+                connectTimeout = 10000
+                readTimeout = 15000
+            }
+            var responseCode = connection.responseCode
+            var apiVer = "v1beta"
+            var responseText = ""
+
+            if (responseCode == HttpURLConnection.HTTP_NOT_FOUND) {
+                connection.disconnect()
+                url = URL("https://generativelanguage.googleapis.com/v1/models?key=$encodedKey")
+                connection = (url.openConnection() as HttpURLConnection).apply {
+                    requestMethod = "GET"
+                    connectTimeout = 10000
+                    readTimeout = 15000
+                }
+                responseCode = connection.responseCode
+                apiVer = "v1"
+            }
+
+            if (responseCode == HttpURLConnection.HTTP_OK) {
+                responseText = connection.inputStream.bufferedReader(StandardCharsets.UTF_8).use(BufferedReader::readText)
+                val json = JSONObject(responseText)
+                val modelsArray = json.optJSONArray("models")
+                var selectedModel = ""
+                if (modelsArray != null) {
+                    val supportedList = mutableListOf<String>()
+                    for (i in 0 until modelsArray.length()) {
+                        val mObj = modelsArray.optJSONObject(i) ?: continue
+                        val mName = mObj.optString("name", "").removePrefix("models/")
+                        val methods = mObj.optJSONArray("supportedGenerationMethods")
+                        var canGenerate = false
+                        if (methods != null) {
+                            for (j in 0 until methods.length()) {
+                                if (methods.optString(j) == "generateContent") canGenerate = true
+                            }
+                        }
+                        if (canGenerate) supportedList.add(mName)
+                    }
+
+                    selectedModel = supportedList.firstOrNull { it.contains("gemini-2.0-flash") }
+                        ?: supportedList.firstOrNull { it.contains("gemini-2.5-flash") }
+                        ?: supportedList.firstOrNull { it.contains("gemini-1.5-flash-latest") }
+                        ?: supportedList.firstOrNull { it.contains("gemini-1.5-flash") }
+                        ?: supportedList.firstOrNull { it.contains("gemini-1.5-pro") }
+                        ?: supportedList.firstOrNull { it.contains("flash") }
+                        ?: supportedList.firstOrNull() ?: "gemini-2.0-flash"
+                } else {
+                    selectedModel = "gemini-2.0-flash"
+                }
+
+                activeGoogleModel = selectedModel
+                activeGoogleApiVersion = apiVer
+                KeyCheckResult(true, "Gemini", selectedModel, "Gemini ($selectedModel) • Active")
+            } else {
+                val errorStream = connection.errorStream?.bufferedReader(StandardCharsets.UTF_8)?.use(BufferedReader::readText) ?: ""
+                val errorMsg = try {
+                    JSONObject(errorStream).optJSONObject("error")?.optString("message") ?: errorStream
+                } catch (e: Exception) {
+                    errorStream.ifBlank { "HTTP $responseCode" }
+                }
+                KeyCheckResult(false, "Gemini", "", "Google API Error ($responseCode): $errorMsg")
+            }
+        } catch (e: Exception) {
+            KeyCheckResult(false, "Gemini", "", "Google Connection Error: ${e.localizedMessage ?: "Network failed"}")
+        } finally {
+            connection?.disconnect()
+        }
+    }
+
+    /**
+     * Check and validate Groq / OpenAI / xAI API key.
+     */
+    suspend fun checkGrokKey(apiKey: String = effectiveGrokApiKey): KeyCheckResult = withContext(Dispatchers.IO) {
+        val clean = cleanKey(apiKey)
+        if (clean.isBlank()) {
+            return@withContext KeyCheckResult(false, "Groq", "", "Groq/OpenAI key is not configured.")
+        }
+        var connection: HttpURLConnection? = null
+        try {
+            val isGroq = clean.startsWith("gsk_")
+            val isOpenAi = clean.startsWith("sk-") && !clean.startsWith("sk-or-")
+            val isXai = clean.startsWith("xai-")
+
+            val modelsUrl = when {
+                isGroq -> "https://api.groq.com/openai/v1/models"
+                isOpenAi -> "https://api.openai.com/v1/models"
+                isXai -> "https://api.x.ai/v1/models"
+                clean.startsWith("sk-or-") -> "https://openrouter.ai/api/v1/models"
+                else -> "https://api.groq.com/openai/v1/models"
+            }
+
+            connection = (URL(modelsUrl).openConnection() as HttpURLConnection).apply {
+                requestMethod = "GET"
+                setRequestProperty("Authorization", "Bearer $clean")
+                connectTimeout = 10000
+                readTimeout = 15000
+            }
+
+            val responseCode = connection.responseCode
+            if (responseCode == HttpURLConnection.HTTP_OK) {
+                val responseText = connection.inputStream.bufferedReader(StandardCharsets.UTF_8).use(BufferedReader::readText)
+                var chosenModel = ""
+                val providerName = when {
+                    isGroq -> "Groq"
+                    isOpenAi -> "OpenAI"
+                    isXai -> "xAI"
+                    else -> "AI"
+                }
+
+                if (isGroq) {
+                    val json = JSONObject(responseText)
+                    val data = json.optJSONArray("data")
+                    val modelList = mutableListOf<String>()
+                    if (data != null) {
+                        for (i in 0 until data.length()) {
+                            val id = data.optJSONObject(i)?.optString("id", "") ?: ""
+                            if (id.isNotBlank()) modelList.add(id)
+                        }
+                    }
+                    chosenModel = modelList.firstOrNull { it.contains("openai/gpt-oss-120b") }
+                        ?: modelList.firstOrNull { it.contains("openai/gpt-oss-20b") }
+                        ?: modelList.firstOrNull { it.contains("llama-3.1-8b-instant") }
+                        ?: modelList.firstOrNull { it.contains("llama3-70b-8192") }
+                        ?: GROQ_MODEL_OPENAI_120B
+
+                    activeGroqModel = chosenModel
+                } else if (isOpenAi) {
+                    chosenModel = "gpt-4o-mini"
+                    activeGroqModel = chosenModel
+                } else if (isXai) {
+                    chosenModel = "grok-2-latest"
+                    activeGroqModel = chosenModel
+                } else {
+                    chosenModel = "custom"
+                }
+
+                KeyCheckResult(true, providerName, chosenModel, "$providerName ($chosenModel) • Active")
+            } else {
+                val errorStream = connection.errorStream?.bufferedReader(StandardCharsets.UTF_8)?.use(BufferedReader::readText) ?: ""
+                val errorMsg = try {
+                    JSONObject(errorStream).optJSONObject("error")?.optString("message") ?: errorStream
+                } catch (e: Exception) {
+                    errorStream.ifBlank { "HTTP $responseCode" }
+                }
+                KeyCheckResult(false, if (isGroq) "Groq" else "AI", "", "API Error ($responseCode): $errorMsg")
+            }
+        } catch (e: Exception) {
+            KeyCheckResult(false, "AI", "", "Connection Error: ${e.localizedMessage ?: "Network failed"}")
+        } finally {
+            connection?.disconnect()
+        }
+    }
+
+    /**
+     * Auto check active connection across configured keys.
+     */
+    suspend fun autoCheckActiveConnection(): KeyCheckResult = withContext(Dispatchers.IO) {
+        val googleReady = effectiveGoogleApiKey.isNotBlank()
+        val grokReady = effectiveGrokApiKey.isNotBlank()
+
+        if (!googleReady && !grokReady) {
+            return@withContext KeyCheckResult(false, "Offline", "", "Offline Mode • Tap to set API Key")
+        }
+
+        var googleResult: KeyCheckResult? = null
+        if (googleReady) {
+            val res = checkGoogleKey()
+            if (res.isValid) return@withContext res
+            googleResult = res
+        }
+
+        var grokResult: KeyCheckResult? = null
+        if (grokReady) {
+            val res = checkGrokKey()
+            if (res.isValid) return@withContext res
+            grokResult = res
+        }
+
+        val msg = when {
+            googleResult != null && grokResult != null -> "⚠️ Both Keys Invalid • Tap to fix"
+            googleResult != null -> "⚠️ Google Key Invalid • Tap to fix"
+            grokResult != null -> "⚠️ Groq Key Invalid • Tap to fix"
+            else -> "⚠️ AI Key Error • Tap to check"
+        }
+        KeyCheckResult(false, "Error", "", msg)
+    }
+
+    /**
+     * Google Gemini API with intelligent multi-model / multi-version fallback cascade.
      */
     suspend fun askGoogle(
         prompt: String,
@@ -198,25 +413,40 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
             return@withContext "Google Gemini API Key is not set! Please add your key in Settings or tap 🔑 in Ask Porua."
         }
 
-        // Try primary model (gemini-2.0-flash)
-        val primaryResult = executeGoogleRequest(GEMINI_MODEL, prompt, imageBase64, mimeType, history)
-        if (!primaryResult.startsWith("Google API Error") && !primaryResult.startsWith("Google API Connection Error")) {
-            return@withContext primaryResult
+        val candidates = mutableListOf<Pair<String, String>>()
+        candidates.add(activeGoogleApiVersion to activeGoogleModel)
+        val defaultCandidates = listOf(
+            "v1beta" to "gemini-2.0-flash",
+            "v1beta" to "gemini-2.5-flash",
+            "v1" to "gemini-1.5-flash",
+            "v1beta" to "gemini-1.5-flash-latest",
+            "v1" to "gemini-2.0-flash",
+            "v1beta" to "gemini-1.5-flash",
+            "v1beta" to "gemini-1.5-pro"
+        )
+        for (c in defaultCandidates) {
+            if (!candidates.contains(c)) candidates.add(c)
         }
 
-        // Try fallback to gemini-1.5-flash if not an explicit invalid API key error
-        if (!primaryResult.contains("API_KEY_INVALID") && !primaryResult.contains("PERMISSION_DENIED")) {
-            val fallbackResult = executeGoogleRequest(GEMINI_FALLBACK_MODEL, prompt, imageBase64, mimeType, history)
-            if (!fallbackResult.startsWith("Google API Error") && !fallbackResult.startsWith("Google API Connection Error")) {
-                return@withContext fallbackResult
+        var lastError = ""
+        for ((ver, mod) in candidates) {
+            val result = executeGoogleRequest(mod, ver, prompt, imageBase64, mimeType, history)
+            if (!result.startsWith("Google API Error") && !result.startsWith("Google API Connection Error")) {
+                activeGoogleApiVersion = ver
+                activeGoogleModel = mod
+                return@withContext result
             }
-            return@withContext fallbackResult
+            lastError = result
+            if (result.contains("API_KEY_INVALID") || result.contains("PERMISSION_DENIED") || result.contains("(400)") || result.contains("(403)")) {
+                return@withContext result
+            }
         }
-        primaryResult
+        lastError
     }
 
     private fun executeGoogleRequest(
         model: String,
+        apiVersion: String = activeGoogleApiVersion,
         prompt: String,
         imageBase64: String?,
         mimeType: String,
@@ -226,7 +456,7 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
         val apiKey = effectiveGoogleApiKey
         return try {
             val encodedKey = java.net.URLEncoder.encode(apiKey, "UTF-8")
-            val endpoint = "https://generativelanguage.googleapis.com/v1beta/models/$model:generateContent?key=$encodedKey"
+            val endpoint = "https://generativelanguage.googleapis.com/$apiVersion/models/$model:generateContent?key=$encodedKey"
             val url = URL(endpoint)
             connection = (url.openConnection() as HttpURLConnection).apply {
                 requestMethod = "POST"
@@ -238,7 +468,7 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
             }
 
             val requestJson = JSONObject().apply {
-                // System Instruction (v1beta camelCase)
+                // System Instruction (v1beta/v1 camelCase)
                 put("systemInstruction", JSONObject().apply {
                     put("parts", JSONArray().apply {
                         put(JSONObject().put("text", SYSTEM_PROMPT))
@@ -278,7 +508,6 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
 
                 put("contents", contentsArray)
 
-                // Generation Config: Low temperature for direct, factual, non-cluttered answers
                 put("generationConfig", JSONObject().apply {
                     put("temperature", 0.3)
                 })
@@ -331,7 +560,8 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
     }
 
     /**
-     * Grok / Groq / OpenAI Compatible API (auto Groq flagship routing + Multi-turn Context)
+     * Groq / OpenAI Compatible API: Uses OpenAI models on Groq (openai/gpt-oss-120b & 20b),
+     * native OpenAI (gpt-4o-mini), xAI (grok-2), with fast fallback to llama-3.1-8b-instant.
      */
     suspend fun askGrok(
         prompt: String,
@@ -341,37 +571,46 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
     ): String = withContext(Dispatchers.IO) {
         val apiKey = effectiveGrokApiKey
         if (apiKey.isBlank()) {
-            return@withContext "Grok/Groq API Key is not set! Please add your key in Settings > AI Configuration or tap 🔑 in Ask Porua."
+            return@withContext "Groq / OpenAI API Key is not set! Please add your key in Settings > AI Configuration or tap 🔑 in Ask Porua."
         }
 
         val isGroq = apiKey.startsWith("gsk_")
         val isXai = apiKey.startsWith("xai-")
         val isOpenRouter = apiKey.startsWith("sk-or-")
+        val isOpenAi = apiKey.startsWith("sk-") && !isOpenRouter
         val hasImage = !imageBase64.isNullOrBlank()
 
-        val targetModel = when {
-            isGroq && hasImage -> GROQ_VISION_MODEL
-            isGroq -> GROK_MODEL
-            isXai -> "grok-2-latest"
-            isOpenRouter -> "meta-llama/llama-3.3-70b-instruct"
-            else -> GROK_MODEL
+        val candidates = when {
+            isGroq && hasImage -> listOf(GROQ_VISION_MODEL)
+            isGroq -> listOf(
+                activeGroqModel,
+                GROQ_MODEL_OPENAI_120B,
+                GROQ_MODEL_OPENAI_20B,
+                GROQ_MODEL_FAST,
+                "llama-3.1-70b-versatile",
+                "llama3-70b-8192"
+            ).distinct()
+            isXai -> listOf("grok-2-latest")
+            isOpenAi -> listOf("gpt-4o-mini", "gpt-4o")
+            isOpenRouter -> listOf("openai/gpt-4o-mini", "meta-llama/llama-3.3-70b-instruct")
+            else -> listOf(activeGroqModel, GROQ_MODEL_OPENAI_120B, GROQ_MODEL_FAST).distinct()
         }
 
-        val primaryResult = executeGrokRequest(targetModel, prompt, imageBase64, mimeType, history)
-        if (!primaryResult.startsWith("Grok API Error") && !primaryResult.startsWith("Grok API Connection Error")) {
-            return@withContext primaryResult
-        }
-
-        // Fast fallback on Groq to 8b if 70b was busy (do not retry if key is invalid / 401 / 403)
-        if (isGroq && !hasImage && targetModel != GROQ_FAST_FALLBACK &&
-            !primaryResult.contains("401") && !primaryResult.contains("403")) {
-            val fastFallback = executeGrokRequest(GROQ_FAST_FALLBACK, prompt, imageBase64, mimeType, history)
-            if (!fastFallback.startsWith("Grok API Error") && !fastFallback.startsWith("Grok API Connection Error")) {
-                return@withContext fastFallback
+        var lastError = ""
+        for (model in candidates) {
+            val result = executeGrokRequest(model, prompt, imageBase64, mimeType, history)
+            if (!result.startsWith("Grok API Error") && !result.startsWith("Grok API Connection Error")) {
+                if (isGroq && !hasImage) {
+                    activeGroqModel = model
+                }
+                return@withContext result
+            }
+            lastError = result
+            if (result.contains("401") || result.contains("403") || result.contains("invalid_api_key")) {
+                return@withContext result
             }
         }
-
-        primaryResult
+        lastError
     }
 
     private fun executeGrokRequest(
@@ -384,11 +623,12 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
         var connection: HttpURLConnection? = null
         val apiKey = effectiveGrokApiKey
         return try {
-            // Auto-detect Groq, OpenRouter or xAI endpoint based on API key prefix
+            // Auto-detect Groq, OpenRouter, OpenAI, or xAI endpoint based on API key prefix
             val endpointUrl = when {
                 apiKey.startsWith("gsk_") -> "https://api.groq.com/openai/v1/chat/completions"
                 apiKey.startsWith("xai-") -> "https://api.x.ai/v1/chat/completions"
                 apiKey.startsWith("sk-or-") -> "https://openrouter.ai/api/v1/chat/completions"
+                apiKey.startsWith("sk-") -> "https://api.openai.com/v1/chat/completions"
                 else -> "https://api.groq.com/openai/v1/chat/completions"
             }
 

@@ -65,6 +65,8 @@ import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.runtime.rememberCoroutineScope
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import kotlinx.coroutines.Dispatchers
 import com.porua.app.PoruaApplication
 import com.porua.app.data.ai.AiHelper
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -132,14 +134,26 @@ fun AskPoruaScreen(
     val imageSourceSheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
     val apiKeySheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
 
-    val hasAnyKey = AiHelper.hasAnyApiKey()
-    val isGoogleConfigured = AiHelper.effectiveGoogleApiKey.isNotBlank()
-    val isGrokConfigured = AiHelper.effectiveGrokApiKey.isNotBlank()
+    var activeConnectionMsg by remember { mutableStateOf("Checking AI status...") }
+    var isConnectionActive by remember { mutableStateOf<Boolean?>(null) }
 
     LaunchedEffect(Unit) {
         authDataStore?.let { store ->
             geminiKeyInput = store.geminiApiKey.first() ?: ""
             grokKeyInput = store.grokApiKey.first() ?: ""
+        }
+    }
+
+    LaunchedEffect(geminiKeyInput, grokKeyInput) {
+        if (!AiHelper.hasAnyApiKey()) {
+            activeConnectionMsg = "Offline Mode • Tap to set API Key"
+            isConnectionActive = null
+        } else {
+            val check = withContext(Dispatchers.IO) {
+                AiHelper.autoCheckActiveConnection()
+            }
+            activeConnectionMsg = check.message
+            isConnectionActive = check.isValid
         }
     }
 
@@ -272,18 +286,24 @@ fun AskPoruaScreen(
                         modifier = Modifier
                             .size(6.dp)
                             .clip(CircleShape)
-                            .background(if (hasAnyKey) colors.success else colors.primary)
+                            .background(
+                                when (isConnectionActive) {
+                                    true -> colors.success
+                                    false -> colors.danger
+                                    null -> colors.primary
+                                }
+                            )
                     )
                     Spacer(modifier = Modifier.width(4.dp))
                     Text(
-                        text = when {
-                            isGoogleConfigured -> "Gemini 2.0 • Active"
-                            isGrokConfigured -> "Groq / Grok • Active"
-                            else -> "Offline Mode • Tap to set API Key"
-                        },
+                        text = activeConnectionMsg,
                         fontSize = 11.sp,
-                        color = if (hasAnyKey) colors.success else colors.primary,
-                        fontWeight = if (!hasAnyKey) FontWeight.SemiBold else FontWeight.Normal
+                        color = when (isConnectionActive) {
+                            true -> colors.success
+                            false -> colors.danger
+                            null -> colors.primary
+                        },
+                        fontWeight = if (isConnectionActive == true) FontWeight.Normal else FontWeight.SemiBold
                     )
                 }
             }
@@ -293,14 +313,24 @@ fun AskPoruaScreen(
                 modifier = Modifier
                     .size(36.dp)
                     .clip(CircleShape)
-                    .background(if (hasAnyKey) colors.successSoft else colors.primarySoft)
+                    .background(
+                        when (isConnectionActive) {
+                            true -> colors.successSoft
+                            false -> colors.dangerSoft
+                            null -> colors.primarySoft
+                        }
+                    )
                     .clickable { showApiKeySheet = true },
                 contentAlignment = Alignment.Center
             ) {
                 Icon(
                     imageVector = Icons.Default.VpnKey,
                     contentDescription = "API Keys",
-                    tint = if (hasAnyKey) colors.success else colors.primary,
+                    tint = when (isConnectionActive) {
+                        true -> colors.success
+                        false -> colors.danger
+                        null -> colors.primary
+                    },
                     modifier = Modifier.size(18.dp)
                 )
             }
@@ -1085,7 +1115,7 @@ fun AskPoruaScreen(
                 Spacer(modifier = Modifier.height(12.dp))
 
                 Text(
-                    text = "Groq / Grok API Key (Ultra-fast Backup)",
+                    text = "Groq / OpenAI API Key (OpenAI models on Groq)",
                     fontSize = 12.sp,
                     fontWeight = FontWeight.SemiBold,
                     color = colors.text
@@ -1094,7 +1124,7 @@ fun AskPoruaScreen(
                 OutlinedTextField(
                     value = grokKeyInput,
                     onValueChange = { grokKeyInput = it },
-                    placeholder = { Text("gsk_... or xai-...", fontSize = 12.sp, color = colors.textMuted) },
+                    placeholder = { Text("gsk_... or sk-...", fontSize = 12.sp, color = colors.textMuted) },
                     singleLine = true,
                     visualTransformation = if (showKeyVisibility) VisualTransformation.None else PasswordVisualTransformation(),
                     modifier = Modifier.fillMaxWidth(),
@@ -1106,7 +1136,7 @@ fun AskPoruaScreen(
                     )
                 )
                 Text(
-                    text = "Free key from: console.groq.com",
+                    text = "Free key from: console.groq.com (hosts openai/gpt-oss-120b) or platform.openai.com",
                     fontSize = 11.sp,
                     color = colors.textMuted
                 )
@@ -1138,38 +1168,65 @@ fun AskPoruaScreen(
                                 AiHelper.userGoogleApiKey = cleanG
                                 AiHelper.userGrokApiKey = cleanGr
 
-                                val result = if (cleanG.isNotBlank()) {
-                                    AiHelper.askGoogle("Hello")
-                                } else if (cleanGr.isNotBlank()) {
-                                    AiHelper.askGrok("Hello")
-                                } else {
-                                    "Please enter at least one API key."
+                                val sb = StringBuilder()
+                                if (cleanG.isNotBlank()) {
+                                    val gCheck = withContext(Dispatchers.IO) { AiHelper.checkGoogleKey(cleanG) }
+                                    if (gCheck.isValid) {
+                                        sb.append("✓ Google Key: ").append(gCheck.message).append("\n")
+                                    } else {
+                                        sb.append("❌ Google Key: ").append(gCheck.message).append("\n")
+                                    }
+                                }
+                                if (cleanGr.isNotBlank()) {
+                                    val grCheck = withContext(Dispatchers.IO) { AiHelper.checkGrokKey(cleanGr) }
+                                    if (grCheck.isValid) {
+                                        sb.append("✓ Groq/OpenAI Key: ").append(grCheck.message)
+                                    } else {
+                                        sb.append("❌ Groq/OpenAI Key: ").append(grCheck.message)
+                                    }
+                                }
+                                if (cleanG.isBlank() && cleanGr.isBlank()) {
+                                    sb.append("Please enter at least one API key.")
                                 }
 
                                 isTestingConnection = false
-                                if (!result.startsWith("Google API Error") && !result.startsWith("Google API Connection Error") &&
-                                    !result.startsWith("Grok API Error") && !result.startsWith("Grok API Connection Error") &&
-                                    !result.contains("is not set")) {
-                                    testResultMsg = "✓ Connected successfully to AI!"
-                                } else {
-                                    testResultMsg = result
-                                }
+                                testResultMsg = sb.toString().trim()
+
+                                val overallCheck = withContext(Dispatchers.IO) { AiHelper.autoCheckActiveConnection() }
+                                activeConnectionMsg = overallCheck.message
+                                isConnectionActive = if (!AiHelper.hasAnyApiKey()) null else overallCheck.isValid
                             }
                         },
                         modifier = Modifier.weight(1f)
                     )
 
                     PoruaPrimaryButton(
-                        text = "Save & Activate",
+                        text = if (isTestingConnection) "Verifying..." else "Save & Activate",
                         onClick = {
+                            isTestingConnection = true
+                            testResultMsg = null
                             coroutineScope.launch {
                                 val cleanG = geminiKeyInput.trim().trim('"', '\'', '`')
                                 val cleanGr = grokKeyInput.trim().trim('"', '\'', '`')
                                 authDataStore?.saveAiKeys(cleanG, cleanGr)
                                 AiHelper.userGoogleApiKey = cleanG
                                 AiHelper.userGrokApiKey = cleanGr
-                                showApiKeySheet = false
-                                Toast.makeText(context, "API Keys saved & activated!", Toast.LENGTH_SHORT).show()
+
+                                val check = withContext(Dispatchers.IO) {
+                                    AiHelper.autoCheckActiveConnection()
+                                }
+                                isTestingConnection = false
+                                activeConnectionMsg = check.message
+                                isConnectionActive = if (!AiHelper.hasAnyApiKey()) null else check.isValid
+
+                                if (check.isValid) {
+                                    testResultMsg = "✓ ${check.message}"
+                                    kotlinx.coroutines.delay(600)
+                                    showApiKeySheet = false
+                                    Toast.makeText(context, "API Key verified & activated!", Toast.LENGTH_SHORT).show()
+                                } else {
+                                    testResultMsg = check.message
+                                }
                             }
                         },
                         modifier = Modifier.weight(1f)
