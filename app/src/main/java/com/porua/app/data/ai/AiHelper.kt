@@ -19,16 +19,23 @@ object AiHelper {
     var userGoogleApiKey: String? = null
     var userGrokApiKey: String? = null
 
+    private fun cleanKey(key: String?): String {
+        if (key.isNullOrBlank()) return ""
+        return key.trim().trim('"', '\'', '`')
+    }
+
     val effectiveGoogleApiKey: String
-        get() = userGoogleApiKey?.takeIf { it.isNotBlank() && !it.contains("YOUR_") }
-            ?: GOOGLE_API_KEY.takeIf { it.isNotBlank() && !it.contains("YOUR_") } ?: ""
+        get() = cleanKey(userGoogleApiKey).takeIf { it.isNotBlank() && !it.contains("YOUR_") }
+            ?: cleanKey(GOOGLE_API_KEY).takeIf { it.isNotBlank() && !it.contains("YOUR_") } ?: ""
 
     val effectiveGrokApiKey: String
-        get() = userGrokApiKey?.takeIf { it.isNotBlank() && !it.contains("YOUR_") }
-            ?: GROK_API_KEY.takeIf { it.isNotBlank() && !it.contains("YOUR_") } ?: ""
+        get() = cleanKey(userGrokApiKey).takeIf { it.isNotBlank() && !it.contains("YOUR_") }
+            ?: cleanKey(GROK_API_KEY).takeIf { it.isNotBlank() && !it.contains("YOUR_") } ?: ""
+
+    fun hasAnyApiKey(): Boolean = effectiveGoogleApiKey.isNotBlank() || effectiveGrokApiKey.isNotBlank()
 
     // === MODELS ===
-    const val GEMINI_MODEL = "gemini-2.5-flash"
+    const val GEMINI_MODEL = "gemini-2.0-flash"
     const val GEMINI_FALLBACK_MODEL = "gemini-1.5-flash"
     const val GROK_MODEL = "llama-3.3-70b-versatile"
     const val GROQ_VISION_MODEL = "llama-3.2-11b-vision-preview"
@@ -46,8 +53,9 @@ object AiHelper {
     const val SYSTEM_PROMPT = """You are Porua AI, an academic study tutor for students in Bangladesh preparing for the NCTB HSC curriculum exams (Class 11 & 12).
 
 RULES:
-1. STRICT ENGLISH ONLY:
-- Always reply strictly in English. Never use Bengali or Banglish in answers.
+1. BILINGUAL SUPPORT:
+- If the student asks in Bengali or Banglish, explain clearly and naturally in Bengali (with English terms in brackets where helpful).
+- If the student asks in English, reply in English.
 
 2. ABSOLUTELY NO ASTERISKS OR MARKDOWN STARS:
 - Never use asterisks (*, **, or ***) anywhere in your response.
@@ -60,14 +68,13 @@ RULES:
 - Answer simply, clearly, and directly what was asked. Avoid unnecessary clutter, verbose filler, or repetitive headers.
 
 4. OUT-OF-SUBJECT / OFF-TOPIC QUERIES:
-- If a student asks questions outside their academic syllabus or subjects (e.g., movies, gaming, entertainment, personal advice, gossip, jokes, or non-educational topics), handle it respectfully and politely.
-- State that you are Porua AI, an academic tutor dedicated to NCTB curriculum subjects (Physics, Chemistry, Higher Math, Biology, ICT, English, Bangla, and Commerce), and invite them to ask any question regarding their academic syllabus or exam preparation."""
+- If a student asks questions outside their academic syllabus or subjects, politely remind them that you are Porua AI, dedicated to NCTB HSC syllabus subjects (Physics, Chemistry, Higher Math, Biology, ICT, English, Bangla, and Commerce)."""
 
     /**
      * Unified AI caller:
      * 1. If an image is attached, Google Gemini handles vision / diagrams / OCR natively.
-     * 2. Tries Google Gemini FIRST (gemini-flash-lite-latest, fast and reliable).
-     * 3. If Google fails or rate limits, automatically falls back to Groq Cloud (openai/gpt-oss-120b).
+     * 2. Tries Google Gemini FIRST (gemini-2.0-flash / gemini-1.5-flash).
+     * 3. If Google fails or rate limits, automatically falls back to Groq Cloud / xAI Grok.
      * 4. If offline or no network, falls back to Porua's intelligent offline NCTB tutor.
      * 5. Strips stray asterisks and markdown symbols so the answer is always clean plain text.
      */
@@ -83,6 +90,9 @@ RULES:
             }
         }
 
+        var googleError: String? = null
+        var grokError: String? = null
+
         // 1. Primary Provider: Google Gemini FIRST (Text & Vision)
         if (googleReady) {
             val googleResult = askGoogle(prompt, imageBase64, mimeType)
@@ -90,20 +100,43 @@ RULES:
                 val cleaned = sanitizeEducationalResponse(googleResult)
                 if (cacheKey.isNotBlank()) queryMemoryCache[cacheKey] = cleaned
                 return@withContext cleaned
+            } else {
+                googleError = googleResult
             }
         }
 
-        // 2. Secondary Provider / Fallback: Groq Cloud (openai/gpt-oss-120b)
+        // 2. Secondary Provider / Fallback: Groq Cloud / xAI
         if (grokReady) {
             val grokResult = askGrok(prompt, imageBase64, mimeType)
             if (!grokResult.startsWith("Grok API Error") && !grokResult.startsWith("Grok API Connection Error")) {
                 val cleaned = sanitizeEducationalResponse(grokResult)
                 if (cacheKey.isNotBlank()) queryMemoryCache[cacheKey] = cleaned
                 return@withContext cleaned
+            } else {
+                grokError = grokResult
             }
         }
 
-        // 3. Fallback: Intelligent Offline NCTB Tutor
+        // 3. If API keys were provided, but API failed with error:
+        if (googleReady || grokReady) {
+            val sb = StringBuilder()
+            sb.append("⚠️ AI Connection Error:\n\n")
+            if (googleError != null) {
+                sb.append("• Gemini Error: ").append(googleError).append("\n")
+            }
+            if (grokError != null) {
+                sb.append("• Groq/Grok Error: ").append(grokError).append("\n")
+            }
+            sb.append("\nPlease check: \n")
+            sb.append("1. Tap 🔑 at the top right to verify/re-enter your API Key.\n")
+            sb.append("2. Ensure your key is valid and has active quota.\n")
+            sb.append("3. Make sure your device is connected to the internet.\n\n")
+            sb.append("--- [Offline Backup Response] ---\n")
+            sb.append(sanitizeEducationalResponse(getOfflineTutorResponse(prompt)))
+            return@withContext sb.toString()
+        }
+
+        // 4. Fallback: Intelligent Offline NCTB Tutor (when no keys provided)
         val offlineResult = sanitizeEducationalResponse(getOfflineTutorResponse(prompt))
         if (cacheKey.isNotBlank()) queryMemoryCache[cacheKey] = offlineResult
         offlineResult
@@ -115,19 +148,22 @@ RULES:
     suspend fun askGoogle(prompt: String, imageBase64: String? = null, mimeType: String = "image/jpeg"): String = withContext(Dispatchers.IO) {
         val apiKey = effectiveGoogleApiKey
         if (apiKey.isBlank()) {
-            return@withContext "Google Gemini API Key is not set! Please add your key in Settings > AI Configuration."
+            return@withContext "Google Gemini API Key is not set! Please add your key in Settings or tap 🔑 in Ask Porua."
         }
 
-        // Try primary model (gemini-2.0-flash), fallback to gemini-1.5-flash if needed
+        // Try primary model (gemini-2.0-flash)
         val primaryResult = executeGoogleRequest(GEMINI_MODEL, prompt, imageBase64, mimeType)
-        if (primaryResult.startsWith("Google API Error (404)") ||
-            primaryResult.startsWith("Google API Error (400)") ||
-            primaryResult.startsWith("Google API Error (429)") ||
-            primaryResult.startsWith("Google API Error (503)")) {
+        if (!primaryResult.startsWith("Google API Error") && !primaryResult.startsWith("Google API Connection Error")) {
+            return@withContext primaryResult
+        }
+
+        // Try fallback to gemini-1.5-flash if not an explicit invalid API key error
+        if (!primaryResult.contains("API_KEY_INVALID") && !primaryResult.contains("PERMISSION_DENIED")) {
             val fallbackResult = executeGoogleRequest(GEMINI_FALLBACK_MODEL, prompt, imageBase64, mimeType)
             if (!fallbackResult.startsWith("Google API Error") && !fallbackResult.startsWith("Google API Connection Error")) {
                 return@withContext fallbackResult
             }
+            return@withContext fallbackResult
         }
         primaryResult
     }
@@ -136,7 +172,8 @@ RULES:
         var connection: HttpURLConnection? = null
         val apiKey = effectiveGoogleApiKey
         return try {
-            val endpoint = "https://generativelanguage.googleapis.com/v1beta/models/$model:generateContent?key=$apiKey"
+            val encodedKey = java.net.URLEncoder.encode(apiKey, "UTF-8")
+            val endpoint = "https://generativelanguage.googleapis.com/v1beta/models/$model:generateContent?key=$encodedKey"
             val url = URL(endpoint)
             connection = (url.openConnection() as HttpURLConnection).apply {
                 requestMethod = "POST"
@@ -230,18 +267,19 @@ RULES:
     suspend fun askGrok(prompt: String, imageBase64: String? = null, mimeType: String = "image/jpeg"): String = withContext(Dispatchers.IO) {
         val apiKey = effectiveGrokApiKey
         if (apiKey.isBlank()) {
-            return@withContext "Grok API Key is not set! Please add your key in Settings > AI Configuration."
+            return@withContext "Grok/Groq API Key is not set! Please add your key in Settings > AI Configuration or tap 🔑 in Ask Porua."
         }
 
         val isGroq = apiKey.startsWith("gsk_")
+        val isXai = apiKey.startsWith("xai-")
+        val isOpenRouter = apiKey.startsWith("sk-or-")
         val hasImage = !imageBase64.isNullOrBlank()
 
-        // On Groq Cloud:
-        // - If image is attached, route to Groq Multimodal Vision: qwen/qwen3.8-27b
-        // - Otherwise use flagship reasoning model: openai/gpt-oss-120b
         val targetModel = when {
             isGroq && hasImage -> GROQ_VISION_MODEL
             isGroq -> GROK_MODEL
+            isXai -> "grok-2-latest"
+            isOpenRouter -> "meta-llama/llama-3.3-70b-instruct"
             else -> GROK_MODEL
         }
 
@@ -250,7 +288,7 @@ RULES:
             return@withContext primaryResult
         }
 
-        // Fast fallback on Groq to openai/gpt-oss-20b if 120b was busy (do not retry if key is invalid / 401 / 403)
+        // Fast fallback on Groq to 8b if 70b was busy (do not retry if key is invalid / 401 / 403)
         if (isGroq && !hasImage && targetModel != GROQ_FAST_FALLBACK &&
             !primaryResult.contains("401") && !primaryResult.contains("403")) {
             val fastFallback = executeGrokRequest(GROQ_FAST_FALLBACK, prompt, imageBase64, mimeType)
@@ -269,8 +307,9 @@ RULES:
             // Auto-detect Groq, OpenRouter or xAI endpoint based on API key prefix
             val endpointUrl = when {
                 apiKey.startsWith("gsk_") -> "https://api.groq.com/openai/v1/chat/completions"
+                apiKey.startsWith("xai-") -> "https://api.x.ai/v1/chat/completions"
                 apiKey.startsWith("sk-or-") -> "https://openrouter.ai/api/v1/chat/completions"
-                else -> GROK_ENDPOINT
+                else -> "https://api.groq.com/openai/v1/chat/completions"
             }
 
             val url = URL(endpointUrl)

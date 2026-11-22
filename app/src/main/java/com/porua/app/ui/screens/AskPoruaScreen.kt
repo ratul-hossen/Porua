@@ -49,6 +49,21 @@ import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.material.icons.filled.Security
 import androidx.compose.material.icons.filled.Send
 import androidx.compose.material.icons.filled.TrackChanges
+import androidx.compose.material.icons.filled.VpnKey
+import androidx.compose.material.icons.filled.Visibility
+import androidx.compose.material.icons.filled.VisibilityOff
+import androidx.compose.material3.Button
+import androidx.compose.material3.ButtonDefaults
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.OutlinedTextFieldDefaults
+import androidx.compose.material3.TextButton
+import androidx.compose.ui.text.input.PasswordVisualTransformation
+import androidx.compose.ui.text.input.VisualTransformation
+import androidx.compose.runtime.rememberCoroutineScope
+import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.launch
+import com.porua.app.PoruaApplication
+import com.porua.app.data.ai.AiHelper
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.ModalBottomSheet
@@ -95,12 +110,35 @@ fun AskPoruaScreen(
 ) {
     val colors = LocalPoruaColors.current
     val context = LocalContext.current
+    val app = context.applicationContext as? PoruaApplication
+    val authDataStore = app?.authDataStore
+    val coroutineScope = rememberCoroutineScope()
+
     var inputText by remember { mutableStateOf("") }
     var selectedImageUri by remember { mutableStateOf<Uri?>(null) }
     var capturedBitmap by remember { mutableStateOf<Bitmap?>(null) }
     var showImageSourceSheet by remember { mutableStateOf(false) }
+    var showApiKeySheet by remember { mutableStateOf(false) }
+    var geminiKeyInput by remember { mutableStateOf("") }
+    var grokKeyInput by remember { mutableStateOf("") }
+    var showKeyVisibility by remember { mutableStateOf(false) }
+    var testResultMsg by remember { mutableStateOf<String?>(null) }
+    var isTestingConnection by remember { mutableStateOf(false) }
+
     val sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
     val imageSourceSheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
+    val apiKeySheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
+
+    val hasAnyKey = AiHelper.hasAnyApiKey()
+    val isGoogleConfigured = AiHelper.effectiveGoogleApiKey.isNotBlank()
+    val isGrokConfigured = AiHelper.effectiveGrokApiKey.isNotBlank()
+
+    LaunchedEffect(Unit) {
+        authDataStore?.let { store ->
+            geminiKeyInput = store.geminiApiKey.first() ?: ""
+            grokKeyInput = store.grokApiKey.first() ?: ""
+        }
+    }
 
     // Camera launcher (takes photo directly)
     val cameraLauncher = rememberLauncherForActivityResult(
@@ -194,7 +232,11 @@ fun AskPoruaScreen(
 
             Spacer(modifier = Modifier.width(10.dp))
 
-            Column(modifier = Modifier.weight(1f)) {
+            Column(
+                modifier = Modifier
+                    .weight(1f)
+                    .clickable { showApiKeySheet = true }
+            ) {
                 Text(
                     text = "Ask Porua",
                     fontSize = 16.sp,
@@ -206,22 +248,46 @@ fun AskPoruaScreen(
                         modifier = Modifier
                             .size(6.dp)
                             .clip(CircleShape)
-                            .background(colors.success)
+                            .background(if (hasAnyKey) colors.success else colors.primary)
                     )
                     Spacer(modifier = Modifier.width(4.dp))
                     Text(
-                        text = "AI Tutor • Online",
+                        text = when {
+                            isGoogleConfigured -> "Gemini 2.0 • Active"
+                            isGrokConfigured -> "Groq / Grok • Active"
+                            else -> "Offline Mode • Tap to set API Key"
+                        },
                         fontSize = 11.sp,
-                        color = colors.textMuted
+                        color = if (hasAnyKey) colors.success else colors.primary,
+                        fontWeight = if (!hasAnyKey) FontWeight.SemiBold else FontWeight.Normal
                     )
                 }
             }
+
+            // API Key Button
+            Box(
+                modifier = Modifier
+                    .size(36.dp)
+                    .clip(CircleShape)
+                    .background(if (hasAnyKey) colors.successSoft else colors.primarySoft)
+                    .clickable { showApiKeySheet = true },
+                contentAlignment = Alignment.Center
+            ) {
+                Icon(
+                    imageVector = Icons.Default.VpnKey,
+                    contentDescription = "API Keys",
+                    tint = if (hasAnyKey) colors.success else colors.primary,
+                    modifier = Modifier.size(18.dp)
+                )
+            }
+
+            Spacer(modifier = Modifier.width(6.dp))
 
             // New Chat Button with '+' Icon
             Row(
                 modifier = Modifier
                     .clip(ShapeFull)
-                    .background(colors.primarySoft)
+                    .background(colors.surface2)
                     .clickable {
                         onNewChat()
                         Toast.makeText(context, "Started fresh new chat", Toast.LENGTH_SHORT).show()
@@ -233,14 +299,14 @@ fun AskPoruaScreen(
                 Icon(
                     imageVector = Icons.Default.Add,
                     contentDescription = "New Chat",
-                    tint = colors.primary,
+                    tint = colors.text,
                     modifier = Modifier.size(16.dp)
                 )
                 Text(
-                    text = "New Chat",
+                    text = "New",
                     fontSize = 12.sp,
                     fontWeight = FontWeight.SemiBold,
-                    color = colors.primary
+                    color = colors.text
                 )
             }
 
@@ -248,8 +314,9 @@ fun AskPoruaScreen(
 
             Box(
                 modifier = Modifier
-                    .size(40.dp)
+                    .size(36.dp)
                     .clip(CircleShape)
+                    .background(colors.surface2)
                     .clickable { onToggleConsentDialog(true) },
                 contentAlignment = Alignment.Center
             ) {
@@ -257,7 +324,7 @@ fun AskPoruaScreen(
                     imageVector = Icons.Default.MoreVert,
                     contentDescription = "Menu",
                     tint = colors.text,
-                    modifier = Modifier.size(20.dp)
+                    modifier = Modifier.size(18.dp)
                 )
             }
         }
@@ -833,6 +900,171 @@ fun AskPoruaScreen(
                 onAllow = { onToggleConsentDialog(false) },
                 onNotNow = { onToggleConsentDialog(false) }
             )
+        }
+    }
+
+    // AI API Key Configuration Bottom Sheet
+    if (showApiKeySheet) {
+        ModalBottomSheet(
+            onDismissRequest = { showApiKeySheet = false },
+            sheetState = apiKeySheetState,
+            containerColor = colors.surface
+        ) {
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 24.dp)
+                    .padding(bottom = 32.dp)
+            ) {
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        text = "AI API Configuration",
+                        fontSize = 18.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = colors.text
+                    )
+                    TextButton(onClick = { showKeyVisibility = !showKeyVisibility }) {
+                        Text(
+                            text = if (showKeyVisibility) "Hide Keys" else "Show Keys",
+                            fontSize = 12.sp,
+                            color = colors.primary
+                        )
+                    }
+                }
+
+                Text(
+                    text = "Provide your Google Gemini or Groq API key to activate live AI tutoring. Keys are stored locally on-device.",
+                    fontSize = 12.sp,
+                    color = colors.textMuted
+                )
+
+                Spacer(modifier = Modifier.height(14.dp))
+
+                Text(
+                    text = "Google Gemini API Key (Recommended)",
+                    fontSize = 12.sp,
+                    fontWeight = FontWeight.SemiBold,
+                    color = colors.text
+                )
+                Spacer(modifier = Modifier.height(4.dp))
+                OutlinedTextField(
+                    value = geminiKeyInput,
+                    onValueChange = { geminiKeyInput = it },
+                    placeholder = { Text("AIzaSy...", fontSize = 12.sp, color = colors.textMuted) },
+                    singleLine = true,
+                    visualTransformation = if (showKeyVisibility) VisualTransformation.None else PasswordVisualTransformation(),
+                    modifier = Modifier.fillMaxWidth(),
+                    colors = OutlinedTextFieldDefaults.colors(
+                        focusedBorderColor = colors.primary,
+                        unfocusedBorderColor = colors.border,
+                        focusedTextColor = colors.text,
+                        unfocusedTextColor = colors.text
+                    )
+                )
+                Text(
+                    text = "Free key from: aistudio.google.com",
+                    fontSize = 11.sp,
+                    color = colors.primary
+                )
+
+                Spacer(modifier = Modifier.height(12.dp))
+
+                Text(
+                    text = "Groq / Grok API Key (Ultra-fast Backup)",
+                    fontSize = 12.sp,
+                    fontWeight = FontWeight.SemiBold,
+                    color = colors.text
+                )
+                Spacer(modifier = Modifier.height(4.dp))
+                OutlinedTextField(
+                    value = grokKeyInput,
+                    onValueChange = { grokKeyInput = it },
+                    placeholder = { Text("gsk_... or xai-...", fontSize = 12.sp, color = colors.textMuted) },
+                    singleLine = true,
+                    visualTransformation = if (showKeyVisibility) VisualTransformation.None else PasswordVisualTransformation(),
+                    modifier = Modifier.fillMaxWidth(),
+                    colors = OutlinedTextFieldDefaults.colors(
+                        focusedBorderColor = colors.primary,
+                        unfocusedBorderColor = colors.border,
+                        focusedTextColor = colors.text,
+                        unfocusedTextColor = colors.text
+                    )
+                )
+                Text(
+                    text = "Free key from: console.groq.com",
+                    fontSize = 11.sp,
+                    color = colors.textMuted
+                )
+
+                if (!testResultMsg.isNullOrBlank()) {
+                    Spacer(modifier = Modifier.height(10.dp))
+                    Text(
+                        text = testResultMsg ?: "",
+                        fontSize = 12.sp,
+                        color = if (testResultMsg?.startsWith("✓") == true) colors.success else colors.danger
+                    )
+                }
+
+                Spacer(modifier = Modifier.height(16.dp))
+
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.spacedBy(10.dp)
+                ) {
+                    PoruaSecondaryButton(
+                        text = if (isTestingConnection) "Testing..." else "Test Connection",
+                        onClick = {
+                            isTestingConnection = true
+                            testResultMsg = null
+                            coroutineScope.launch {
+                                val cleanG = geminiKeyInput.trim().trim('"', '\'', '`')
+                                val cleanGr = grokKeyInput.trim().trim('"', '\'', '`')
+                                authDataStore?.saveAiKeys(cleanG, cleanGr)
+                                AiHelper.userGoogleApiKey = cleanG
+                                AiHelper.userGrokApiKey = cleanGr
+
+                                val result = if (cleanG.isNotBlank()) {
+                                    AiHelper.askGoogle("Hello")
+                                } else if (cleanGr.isNotBlank()) {
+                                    AiHelper.askGrok("Hello")
+                                } else {
+                                    "Please enter at least one API key."
+                                }
+
+                                isTestingConnection = false
+                                if (!result.startsWith("Google API Error") && !result.startsWith("Google API Connection Error") &&
+                                    !result.startsWith("Grok API Error") && !result.startsWith("Grok API Connection Error") &&
+                                    !result.contains("is not set")) {
+                                    testResultMsg = "✓ Connected successfully to AI!"
+                                } else {
+                                    testResultMsg = result
+                                }
+                            }
+                        },
+                        modifier = Modifier.weight(1f)
+                    )
+
+                    PoruaPrimaryButton(
+                        text = "Save & Activate",
+                        onClick = {
+                            coroutineScope.launch {
+                                val cleanG = geminiKeyInput.trim().trim('"', '\'', '`')
+                                val cleanGr = grokKeyInput.trim().trim('"', '\'', '`')
+                                authDataStore?.saveAiKeys(cleanG, cleanGr)
+                                AiHelper.userGoogleApiKey = cleanG
+                                AiHelper.userGrokApiKey = cleanGr
+                                showApiKeySheet = false
+                                Toast.makeText(context, "API Keys saved & activated!", Toast.LENGTH_SHORT).show()
+                            }
+                        },
+                        modifier = Modifier.weight(1f)
+                    )
+                }
+            }
         }
     }
 }

@@ -42,10 +42,14 @@ class AuthDataStore(private val context: Context) {
     }
 
     suspend fun saveAiKeys(geminiKey: String, grokKey: String) {
+        val cleanGemini = geminiKey.trim().trim('"', '\'', '`')
+        val cleanGrok = grokKey.trim().trim('"', '\'', '`')
         context.authDataStore.edit { prefs ->
-            prefs[KEY_GEMINI_API_KEY] = geminiKey.trim()
-            prefs[KEY_GROK_API_KEY] = grokKey.trim()
+            prefs[KEY_GEMINI_API_KEY] = cleanGemini
+            prefs[KEY_GROK_API_KEY] = cleanGrok
         }
+        com.porua.app.data.ai.AiHelper.userGoogleApiKey = cleanGemini
+        com.porua.app.data.ai.AiHelper.userGrokApiKey = cleanGrok
     }
 
     val isLoggedIn: Flow<Boolean> = context.authDataStore.data.map { prefs ->

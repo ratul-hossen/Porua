@@ -301,8 +301,11 @@ class PoruaViewModel(
 
         viewModelScope.launch {
             try {
-                // 1. Check local offline cache first for instant responses
-                val cached = if (imageBase64.isNullOrBlank()) repository.getCachedReply(text) else null
+                // 1. Check local offline cache only when NO live AI key is configured
+                val cached = if (imageBase64.isNullOrBlank() && !AiHelper.hasAnyApiKey()) {
+                    repository.getCachedReply(text)
+                } else null
+
                 val aiResponse = if (!cached.isNullOrBlank()) {
                     cached
                 } else if (useGrok) {
