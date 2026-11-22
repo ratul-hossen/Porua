@@ -140,6 +140,8 @@ fun AskPoruaScreen(
 
     var activeConnectionMsg by remember { mutableStateOf("Checking AI status...") }
     var isConnectionActive by remember { mutableStateOf<Boolean?>(null) }
+    var geminiStatusBadge by remember { mutableStateOf<String?>(null) }
+    var grokStatusBadge by remember { mutableStateOf<String?>(null) }
 
     LaunchedEffect(Unit) {
         authDataStore?.let { store ->
@@ -152,12 +154,20 @@ fun AskPoruaScreen(
         if (!AiHelper.hasAnyApiKey()) {
             activeConnectionMsg = "Offline Mode • Tap to set API Key"
             isConnectionActive = null
+            geminiStatusBadge = null
+            grokStatusBadge = null
         } else {
-            val check = withContext(Dispatchers.IO) {
-                AiHelper.autoCheckActiveConnection()
+            val dual = withContext(Dispatchers.IO) {
+                AiHelper.checkBothKeys()
             }
-            activeConnectionMsg = check.message
-            isConnectionActive = check.isValid
+            activeConnectionMsg = dual.overallMessage
+            isConnectionActive = dual.hasAnyActive
+            geminiStatusBadge = if (geminiKeyInput.isNotBlank()) {
+                if (dual.googleResult.isValid) "✓ ${dual.googleResult.message}" else "❌ ${dual.googleResult.message}"
+            } else null
+            grokStatusBadge = if (grokKeyInput.isNotBlank()) {
+                if (dual.grokResult.isValid) "✓ ${dual.grokResult.message}" else "❌ ${dual.grokResult.message}"
+            } else null
         }
     }
 
@@ -387,29 +397,31 @@ fun AskPoruaScreen(
             }
         }
 
-        // Context Badge
-        Row(
-            modifier = Modifier
-                .padding(horizontal = 16.dp, vertical = 4.dp)
-                .fillMaxWidth()
-                .clip(ShapeSm)
-                .background(colors.surface2)
-                .padding(horizontal = 12.dp, vertical = 8.dp),
-            verticalAlignment = Alignment.CenterVertically
-        ) {
-            Icon(
-                imageVector = Icons.Default.AutoAwesome,
-                contentDescription = null,
-                tint = colors.primary,
-                modifier = Modifier.size(14.dp)
-            )
-            Spacer(modifier = Modifier.width(6.dp))
-            Text(
-                text = "NCTB Curriculum • Ask or snap any question",
-                fontSize = 12.sp,
-                color = colors.textMuted,
-                fontWeight = FontWeight.Medium
-            )
+        // Context Badge (Only shown at the beginning of chat, disappears once chat starts)
+        if (uiState.chatMessages.isEmpty()) {
+            Row(
+                modifier = Modifier
+                    .padding(horizontal = 16.dp, vertical = 4.dp)
+                    .fillMaxWidth()
+                    .clip(ShapeSm)
+                    .background(colors.surface2)
+                    .padding(horizontal = 12.dp, vertical = 8.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Icon(
+                    imageVector = Icons.Default.AutoAwesome,
+                    contentDescription = null,
+                    tint = colors.primary,
+                    modifier = Modifier.size(14.dp)
+                )
+                Spacer(modifier = Modifier.width(6.dp))
+                Text(
+                    text = "NCTB Curriculum • Ask or snap any question",
+                    fontSize = 12.sp,
+                    color = colors.textMuted,
+                    fontWeight = FontWeight.Medium
+                )
+            }
         }
 
         // Chat Messages List or Welcome Placeholder
@@ -658,25 +670,27 @@ fun AskPoruaScreen(
             }
         }
 
-        // Privacy indicator
-        Row(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(horizontal = 16.dp, vertical = 4.dp),
-            verticalAlignment = Alignment.CenterVertically
-        ) {
-            Icon(
-                imageVector = Icons.Default.Lock,
-                contentDescription = null,
-                tint = colors.textMuted,
-                modifier = Modifier.size(12.dp)
-            )
-            Spacer(modifier = Modifier.width(6.dp))
-            Text(
-                text = "Secure AI tutor • NCTB aligned",
-                fontSize = 11.sp,
-                color = colors.textMuted
-            )
+        // Privacy indicator (Only shown at the beginning of chat, disappears once chat starts)
+        if (uiState.chatMessages.isEmpty()) {
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 16.dp, vertical = 4.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Icon(
+                    imageVector = Icons.Default.Lock,
+                    contentDescription = null,
+                    tint = colors.textMuted,
+                    modifier = Modifier.size(12.dp)
+                )
+                Spacer(modifier = Modifier.width(6.dp))
+                Text(
+                    text = "Secure AI tutor • NCTB aligned",
+                    fontSize = 11.sp,
+                    color = colors.textMuted
+                )
+            }
         }
 
         // Bottom Input Row
@@ -1118,11 +1132,25 @@ fun AskPoruaScreen(
                         unfocusedTextColor = colors.text
                     )
                 )
-                Text(
-                    text = "Free key from: aistudio.google.com",
-                    fontSize = 11.sp,
-                    color = colors.primary
-                )
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        text = "Free key from: aistudio.google.com",
+                        fontSize = 11.sp,
+                        color = colors.primary
+                    )
+                    if (geminiStatusBadge != null) {
+                        Text(
+                            text = geminiStatusBadge ?: "",
+                            fontSize = 11.sp,
+                            fontWeight = FontWeight.SemiBold,
+                            color = if (geminiStatusBadge?.startsWith("✓") == true) colors.success else colors.danger
+                        )
+                    }
+                }
 
                 Spacer(modifier = Modifier.height(12.dp))
 
@@ -1147,17 +1175,32 @@ fun AskPoruaScreen(
                         unfocusedTextColor = colors.text
                     )
                 )
-                Text(
-                    text = "Free key from: console.groq.com (hosts openai/gpt-oss-120b) or platform.openai.com",
-                    fontSize = 11.sp,
-                    color = colors.textMuted
-                )
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        text = "Free key from: console.groq.com",
+                        fontSize = 11.sp,
+                        color = colors.textMuted
+                    )
+                    if (grokStatusBadge != null) {
+                        Text(
+                            text = grokStatusBadge ?: "",
+                            fontSize = 11.sp,
+                            fontWeight = FontWeight.SemiBold,
+                            color = if (grokStatusBadge?.startsWith("✓") == true) colors.success else colors.danger
+                        )
+                    }
+                }
 
                 if (!testResultMsg.isNullOrBlank()) {
                     Spacer(modifier = Modifier.height(10.dp))
                     Text(
                         text = testResultMsg ?: "",
                         fontSize = 12.sp,
+                        fontWeight = FontWeight.Medium,
                         color = if (testResultMsg?.startsWith("✓") == true) colors.success else colors.danger
                     )
                 }
@@ -1169,7 +1212,7 @@ fun AskPoruaScreen(
                     horizontalArrangement = Arrangement.spacedBy(10.dp)
                 ) {
                     PoruaSecondaryButton(
-                        text = if (isTestingConnection) "Testing..." else "Test Connection",
+                        text = if (isTestingConnection) "Testing Both..." else "Test Connection",
                         onClick = {
                             isTestingConnection = true
                             testResultMsg = null
@@ -1180,33 +1223,25 @@ fun AskPoruaScreen(
                                 AiHelper.userGoogleApiKey = cleanG
                                 AiHelper.userGrokApiKey = cleanGr
 
-                                val sb = StringBuilder()
-                                if (cleanG.isNotBlank()) {
-                                    val gCheck = withContext(Dispatchers.IO) { AiHelper.checkGoogleKey(cleanG) }
-                                    if (gCheck.isValid) {
-                                        sb.append("✓ Google Key: ").append(gCheck.message).append("\n")
-                                    } else {
-                                        sb.append("❌ Google Key: ").append(gCheck.message).append("\n")
-                                    }
+                                val dual = withContext(Dispatchers.IO) {
+                                    AiHelper.checkBothKeys(cleanG, cleanGr)
                                 }
-                                if (cleanGr.isNotBlank()) {
-                                    val grCheck = withContext(Dispatchers.IO) { AiHelper.checkGrokKey(cleanGr) }
-                                    if (grCheck.isValid) {
-                                        sb.append("✓ Groq/OpenAI Key: ").append(grCheck.message)
-                                    } else {
-                                        sb.append("❌ Groq/OpenAI Key: ").append(grCheck.message)
-                                    }
-                                }
-                                if (cleanG.isBlank() && cleanGr.isBlank()) {
-                                    sb.append("Please enter at least one API key.")
-                                }
-
                                 isTestingConnection = false
-                                testResultMsg = sb.toString().trim()
+                                geminiStatusBadge = if (cleanG.isNotBlank()) {
+                                    if (dual.googleResult.isValid) "✓ Google: Active" else "❌ Google: Error"
+                                } else "No key entered"
+                                grokStatusBadge = if (cleanGr.isNotBlank()) {
+                                    if (dual.grokResult.isValid) "✓ Groq: Active" else "❌ Groq: Error"
+                                } else "No key entered"
 
-                                val overallCheck = withContext(Dispatchers.IO) { AiHelper.autoCheckActiveConnection() }
-                                activeConnectionMsg = overallCheck.message
-                                isConnectionActive = if (!AiHelper.hasAnyApiKey()) null else overallCheck.isValid
+                                testResultMsg = if (dual.hasAnyActive) {
+                                    "✓ Ready to chat! Succeeded: ${dual.overallMessage}"
+                                } else {
+                                    "❌ Neither key is working. Please verify keys and connection."
+                                }
+
+                                activeConnectionMsg = dual.overallMessage
+                                isConnectionActive = if (!AiHelper.hasAnyApiKey()) null else dual.hasAnyActive
                             }
                         },
                         modifier = Modifier.weight(1f)
@@ -1224,20 +1259,27 @@ fun AskPoruaScreen(
                                 AiHelper.userGoogleApiKey = cleanG
                                 AiHelper.userGrokApiKey = cleanGr
 
-                                val check = withContext(Dispatchers.IO) {
-                                    AiHelper.autoCheckActiveConnection()
+                                val dual = withContext(Dispatchers.IO) {
+                                    AiHelper.checkBothKeys(cleanG, cleanGr)
                                 }
                                 isTestingConnection = false
-                                activeConnectionMsg = check.message
-                                isConnectionActive = if (!AiHelper.hasAnyApiKey()) null else check.isValid
+                                geminiStatusBadge = if (cleanG.isNotBlank()) {
+                                    if (dual.googleResult.isValid) "✓ Google: Active" else "❌ Google: Error"
+                                } else null
+                                grokStatusBadge = if (cleanGr.isNotBlank()) {
+                                    if (dual.grokResult.isValid) "✓ Groq: Active" else "❌ Groq: Error"
+                                } else null
 
-                                if (check.isValid) {
-                                    testResultMsg = "✓ ${check.message}"
+                                activeConnectionMsg = dual.overallMessage
+                                isConnectionActive = if (!AiHelper.hasAnyApiKey()) null else dual.hasAnyActive
+
+                                if (dual.hasAnyActive) {
+                                    testResultMsg = "✓ Saved & Active: ${dual.overallMessage}"
                                     kotlinx.coroutines.delay(600)
                                     showApiKeySheet = false
-                                    Toast.makeText(context, "API Key verified & activated!", Toast.LENGTH_SHORT).show()
+                                    Toast.makeText(context, "AI Active: ${dual.overallMessage}", Toast.LENGTH_SHORT).show()
                                 } else {
-                                    testResultMsg = check.message
+                                    testResultMsg = "❌ Neither key is active. Please check your keys."
                                 }
                             }
                         },

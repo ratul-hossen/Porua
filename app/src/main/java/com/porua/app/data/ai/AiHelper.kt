@@ -1,6 +1,7 @@
 package com.porua.app.data.ai
 
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.async
 import kotlinx.coroutines.withContext
 import org.json.JSONArray
 import org.json.JSONObject
@@ -54,6 +55,13 @@ object AiHelper {
         val provider: String,
         val activeModel: String,
         val message: String
+    )
+
+    data class DualKeyStatus(
+        val googleResult: KeyCheckResult,
+        val grokResult: KeyCheckResult,
+        val hasAnyActive: Boolean,
+        val overallMessage: String
     )
 
     // === IN-MEMORY LRU CACHE (Max 50 items, thread-safe, prevents memory leak) ===
@@ -371,37 +379,70 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
     }
 
     /**
-     * Auto check active connection across configured keys.
+     * Simultaneously check BOTH Google Gemini and Groq/OpenAI keys in parallel.
+     * Returns individual validation statuses for each key and an overall operational summary.
+     */
+    suspend fun checkBothKeys(
+        googleKey: String = effectiveGoogleApiKey,
+        grokKey: String = effectiveGrokApiKey
+    ): DualKeyStatus = withContext(Dispatchers.IO) {
+        val googleReady = googleKey.isNotBlank()
+        val grokReady = grokKey.isNotBlank()
+
+        val gDeferred = async {
+            if (googleReady) checkGoogleKey(googleKey) else KeyCheckResult(false, "Gemini", "", "No Google key entered")
+        }
+        val grDeferred = async {
+            if (grokReady) checkGrokKey(grokKey) else KeyCheckResult(false, "Groq", "", "No Groq/OpenAI key entered")
+        }
+
+        val gRes = gDeferred.await()
+        val grRes = grDeferred.await()
+
+        val hasAny = gRes.isValid || grRes.isValid
+
+        val overallMsg = when {
+            gRes.isValid && grRes.isValid -> "Gemini & Groq • Active"
+            gRes.isValid -> "${gRes.provider} (${gRes.activeModel}) • Active"
+            grRes.isValid -> "${grRes.provider} (${grRes.activeModel}) • Active"
+            !googleReady && !grokReady -> "Offline Mode • Tap to set API Key"
+            googleReady && grokReady -> "⚠️ Both Keys Invalid • Tap to fix"
+            googleReady -> "⚠️ Google Key Invalid • Tap to fix"
+            grokReady -> "⚠️ Groq Key Invalid • Tap to fix"
+            else -> "Offline Mode • Tap to set API Key"
+        }
+
+        DualKeyStatus(
+            googleResult = gRes,
+            grokResult = grRes,
+            hasAnyActive = hasAny,
+            overallMessage = overallMsg
+        )
+    }
+
+    /**
+     * Auto check active connection across BOTH keys.
+     * The chatbot is fully active if AT LEAST ONE key is valid!
      */
     suspend fun autoCheckActiveConnection(): KeyCheckResult = withContext(Dispatchers.IO) {
-        val googleReady = effectiveGoogleApiKey.isNotBlank()
-        val grokReady = effectiveGrokApiKey.isNotBlank()
-
-        if (!googleReady && !grokReady) {
-            return@withContext KeyCheckResult(false, "Offline", "", "Offline Mode • Tap to set API Key")
+        val dual = checkBothKeys()
+        val provider = when {
+            dual.googleResult.isValid && dual.grokResult.isValid -> "Gemini & Groq"
+            dual.googleResult.isValid -> dual.googleResult.provider
+            dual.grokResult.isValid -> dual.grokResult.provider
+            else -> "Offline"
         }
-
-        var googleResult: KeyCheckResult? = null
-        if (googleReady) {
-            val res = checkGoogleKey()
-            if (res.isValid) return@withContext res
-            googleResult = res
+        val activeModel = when {
+            dual.googleResult.isValid -> dual.googleResult.activeModel
+            dual.grokResult.isValid -> dual.grokResult.activeModel
+            else -> ""
         }
-
-        var grokResult: KeyCheckResult? = null
-        if (grokReady) {
-            val res = checkGrokKey()
-            if (res.isValid) return@withContext res
-            grokResult = res
-        }
-
-        val msg = when {
-            googleResult != null && grokResult != null -> "⚠️ Both Keys Invalid • Tap to fix"
-            googleResult != null -> "⚠️ Google Key Invalid • Tap to fix"
-            grokResult != null -> "⚠️ Groq Key Invalid • Tap to fix"
-            else -> "⚠️ AI Key Error • Tap to check"
-        }
-        KeyCheckResult(false, "Error", "", msg)
+        KeyCheckResult(
+            isValid = dual.hasAnyActive,
+            provider = provider,
+            activeModel = activeModel,
+            message = dual.overallMessage
+        )
     }
 
     /**
