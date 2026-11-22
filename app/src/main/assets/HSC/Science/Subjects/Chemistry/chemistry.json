@@ -1,0 +1,94 @@
+{
+  "class": "HSC",
+  "stream": "Science",
+  "subject": "Chemistry",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 10,
+  "total_questions": 500,
+  "papers": [
+    {
+      "paper": "1st Paper",
+      "folder": "1st_Paper",
+      "chapter_count": 5,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Safe Use of Laboratory",
+          "file": "1st_Paper/chapter_01.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Qualitative Chemistry",
+          "file": "1st_Paper/chapter_02.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Periodic Properties of Elements and Chemical Bonding",
+          "file": "1st_Paper/chapter_03.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Chemical Changes",
+          "file": "1st_Paper/chapter_04.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Applied Chemistry",
+          "file": "1st_Paper/chapter_05.json",
+          "question_count": 50
+        }
+      ]
+    },
+    {
+      "paper": "2nd Paper",
+      "folder": "2nd_Paper",
+      "chapter_count": 5,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Environmental Chemistry",
+          "file": "2nd_Paper/chapter_01.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Organic Chemistry",
+          "file": "2nd_Paper/chapter_02.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Quantitative Chemistry",
+          "file": "2nd_Paper/chapter_03.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Electrochemistry",
+          "file": "2nd_Paper/chapter_04.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Economic Chemistry",
+          "file": "2nd_Paper/chapter_05.json",
+          "question_count": 50
+        }
+      ]
+    }
+  ],
+  "question_schema": {
+    "id": "Unique question identifier",
+    "question": "Question text",
+    "options": "Four options labelled A-D",
+    "correct_answer": "Correct option label",
+    "correct_answer_text": "Correct option text",
+    "explanation": "Brief explanation",
+    "difficulty": "Easy, Medium, or Hard"
+  }
+}

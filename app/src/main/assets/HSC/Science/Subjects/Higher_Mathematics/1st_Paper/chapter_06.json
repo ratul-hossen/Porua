@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 6,
+  "chapter_title": "Trigonometric Ratios",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Degrees and Radians",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q001",
+          "question": "Convert 30° to radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "π/6"
+            },
+            {
+              "label": "B",
+              "text": "30π/1800"
+            },
+            {
+              "label": "C",
+              "text": "30π/360"
+            },
+            {
+              "label": "D",
+              "text": "30π/90"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "π/6",
+          "explanation": "Multiply degrees by π/180; the angle is π/6 radians.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q002",
+          "question": "Convert 45° to radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45π/1800"
+            },
+            {
+              "label": "B",
+              "text": "π/4"
+            },
+            {
+              "label": "C",
+              "text": "45π/360"
+            },
+            {
+              "label": "D",
+              "text": "45π/90"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "π/4",
+          "explanation": "Multiply degrees by π/180; the angle is π/4 radians.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q003",
+          "question": "Convert 60° to radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "60π/360"
+            },
+            {
+              "label": "B",
+              "text": "60π/1800"
+            },
+            {
+              "label": "C",
+              "text": "π/3"
+            },
+            {
+              "label": "D",
+              "text": "60π/90"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "π/3",
+          "explanation": "Multiply degrees by π/180; the angle is π/3 radians.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q004",
+          "question": "Convert 90° to radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "90π/90"
+            },
+            {
+              "label": "B",
+              "text": "90π/360"
+            },
+            {
+              "label": "C",
+              "text": "90π/1800"
+            },
+            {
+              "label": "D",
+              "text": "π/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "π/2",
+          "explanation": "Multiply degrees by π/180; the angle is π/2 radians.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q005",
+          "question": "Convert 120° to radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2π/3"
+            },
+            {
+              "label": "B",
+              "text": "120π/90"
+            },
+            {
+              "label": "C",
+              "text": "120π/360"
+            },
+            {
+              "label": "D",
+              "text": "120π/1800"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2π/3",
+          "explanation": "Multiply degrees by π/180; the angle is 2π/3 radians.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Signs by Quadrant",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q006",
+          "question": "For θ=120°, what is the sign of cos θ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Depends on θ"
+            },
+            {
+              "label": "B",
+              "text": "Negative"
+            },
+            {
+              "label": "C",
+              "text": "Undefined"
+            },
+            {
+              "label": "D",
+              "text": "Zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Negative",
+          "explanation": "Cosine is positive in quadrants I and IV and negative in quadrants II and III; here it is Negative.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q007",
+          "question": "For θ=135°, what is the sign of cos θ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Undefined"
+            },
+            {
+              "label": "B",
+              "text": "Depends on θ"
+            },
+            {
+              "label": "C",
+              "text": "Negative"
+            },
+            {
+              "label": "D",
+              "text": "Zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Negative",
+          "explanation": "Cosine is positive in quadrants I and IV and negative in quadrants II and III; here it is Negative.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q008",
+          "question": "For θ=210°, what is the sign of cos θ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zero"
+            },
+            {
+              "label": "B",
+              "text": "Undefined"
+            },
+            {
+              "label": "C",
+              "text": "Depends on θ"
+            },
+            {
+              "label": "D",
+              "text": "Negative"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Negative",
+          "explanation": "Cosine is positive in quadrants I and IV and negative in quadrants II and III; here it is Negative.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q009",
+          "question": "For θ=300°, what is the sign of cos θ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Positive"
+            },
+            {
+              "label": "B",
+              "text": "Zero"
+            },
+            {
+              "label": "C",
+              "text": "Undefined"
+            },
+            {
+              "label": "D",
+              "text": "Depends on θ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Positive",
+          "explanation": "Cosine is positive in quadrants I and IV and negative in quadrants II and III; here it is Positive.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q010",
+          "question": "For θ=330°, what is the sign of cos θ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Depends on θ"
+            },
+            {
+              "label": "B",
+              "text": "Positive"
+            },
+            {
+              "label": "C",
+              "text": "Undefined"
+            },
+            {
+              "label": "D",
+              "text": "Zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Positive",
+          "explanation": "Cosine is positive in quadrants I and IV and negative in quadrants II and III; here it is Positive.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Special-angle Sine",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q011",
+          "question": "Evaluate sin 0°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "−1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "0",
+          "explanation": "The standard trigonometric value at 0° is 0.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q012",
+          "question": "Evaluate sin 30°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "√3/2"
+            },
+            {
+              "label": "D",
+              "text": "1/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1/2",
+          "explanation": "The standard trigonometric value at 30° is 1/2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q013",
+          "question": "Evaluate sin 45°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "√2/2"
+            },
+            {
+              "label": "B",
+              "text": "1/2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "√3/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "√2/2",
+          "explanation": "The standard trigonometric value at 45° is √2/2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q014",
+          "question": "Evaluate sin 60°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/2"
+            },
+            {
+              "label": "B",
+              "text": "√3/2"
+            },
+            {
+              "label": "C",
+              "text": "√2/2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "√3/2",
+          "explanation": "The standard trigonometric value at 60° is √3/2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q015",
+          "question": "Evaluate sin 90°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "1/2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "−1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1",
+          "explanation": "The standard trigonometric value at 90° is 1.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Special-angle Cosine",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q016",
+          "question": "Evaluate cos 0°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "1/2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "The standard trigonometric value at 0° is 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q017",
+          "question": "Evaluate cos 30°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "√3/2"
+            },
+            {
+              "label": "B",
+              "text": "1/2"
+            },
+            {
+              "label": "C",
+              "text": "√2/2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "√3/2",
+          "explanation": "The standard trigonometric value at 30° is √3/2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q018",
+          "question": "Evaluate cos 45°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "√2/2"
+            },
+            {
+              "label": "C",
+              "text": "√3/2"
+            },
+            {
+              "label": "D",
+              "text": "1/2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "√2/2",
+          "explanation": "The standard trigonometric value at 45° is √2/2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q019",
+          "question": "Evaluate cos 60°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "√3/2"
+            },
+            {
+              "label": "C",
+              "text": "1/2"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1/2",
+          "explanation": "The standard trigonometric value at 60° is 1/2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q020",
+          "question": "Evaluate cos 90°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "−1"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "0",
+          "explanation": "The standard trigonometric value at 90° is 0.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cofunction Identities",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q021",
+          "question": "Which trigonometric expression equals sin(80°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cos 10°"
+            },
+            {
+              "label": "B",
+              "text": "tan 10°"
+            },
+            {
+              "label": "C",
+              "text": "sin 10°"
+            },
+            {
+              "label": "D",
+              "text": "−cos 10°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cos 10°",
+          "explanation": "By the cofunction identity sin(90°−θ)=cos θ, the equivalent expression is cos 10°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q022",
+          "question": "Which trigonometric expression equals sin(70°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin 20°"
+            },
+            {
+              "label": "B",
+              "text": "cos 20°"
+            },
+            {
+              "label": "C",
+              "text": "−cos 20°"
+            },
+            {
+              "label": "D",
+              "text": "tan 20°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "cos 20°",
+          "explanation": "By the cofunction identity sin(90°−θ)=cos θ, the equivalent expression is cos 20°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q023",
+          "question": "Which trigonometric expression equals sin(60°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "−cos 30°"
+            },
+            {
+              "label": "B",
+              "text": "tan 30°"
+            },
+            {
+              "label": "C",
+              "text": "cos 30°"
+            },
+            {
+              "label": "D",
+              "text": "sin 30°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "cos 30°",
+          "explanation": "By the cofunction identity sin(90°−θ)=cos θ, the equivalent expression is cos 30°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q024",
+          "question": "Which trigonometric expression equals sin(50°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "−cos 40°"
+            },
+            {
+              "label": "B",
+              "text": "sin 40°"
+            },
+            {
+              "label": "C",
+              "text": "tan 40°"
+            },
+            {
+              "label": "D",
+              "text": "cos 40°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "cos 40°",
+          "explanation": "By the cofunction identity sin(90°−θ)=cos θ, the equivalent expression is cos 40°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q025",
+          "question": "Which trigonometric expression equals sin(40°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cos 50°"
+            },
+            {
+              "label": "B",
+              "text": "tan 50°"
+            },
+            {
+              "label": "C",
+              "text": "sin 50°"
+            },
+            {
+              "label": "D",
+              "text": "−cos 50°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cos 50°",
+          "explanation": "By the cofunction identity sin(90°−θ)=cos θ, the equivalent expression is cos 50°.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Pythagorean Identity",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q026",
+          "question": "If θ is acute and sin θ=3/5, find cos θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4/3"
+            },
+            {
+              "label": "B",
+              "text": "4/5"
+            },
+            {
+              "label": "C",
+              "text": "3/5"
+            },
+            {
+              "label": "D",
+              "text": "-4/5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "4/5",
+          "explanation": "Since sin²θ+cos²θ=1 and cos θ>0 for acute θ, cos θ=4/5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q027",
+          "question": "If θ is acute and sin θ=5/13, find cos θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5/13"
+            },
+            {
+              "label": "B",
+              "text": "-12/13"
+            },
+            {
+              "label": "C",
+              "text": "12/13"
+            },
+            {
+              "label": "D",
+              "text": "12/5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "12/13",
+          "explanation": "Since sin²θ+cos²θ=1 and cos θ>0 for acute θ, cos θ=12/13.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q028",
+          "question": "If θ is acute and sin θ=8/17, find cos θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-15/17"
+            },
+            {
+              "label": "B",
+              "text": "15/8"
+            },
+            {
+              "label": "C",
+              "text": "8/17"
+            },
+            {
+              "label": "D",
+              "text": "15/17"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "15/17",
+          "explanation": "Since sin²θ+cos²θ=1 and cos θ>0 for acute θ, cos θ=15/17.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q029",
+          "question": "If θ is acute and sin θ=7/25, find cos θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "24/25"
+            },
+            {
+              "label": "B",
+              "text": "7/25"
+            },
+            {
+              "label": "C",
+              "text": "24/7"
+            },
+            {
+              "label": "D",
+              "text": "-24/25"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "24/25",
+          "explanation": "Since sin²θ+cos²θ=1 and cos θ>0 for acute θ, cos θ=24/25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q030",
+          "question": "If θ is acute and sin θ=6/10, find cos θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3/5"
+            },
+            {
+              "label": "B",
+              "text": "4/5"
+            },
+            {
+              "label": "C",
+              "text": "-4/5"
+            },
+            {
+              "label": "D",
+              "text": "4/3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "4/5",
+          "explanation": "Since sin²θ+cos²θ=1 and cos θ>0 for acute θ, cos θ=4/5.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Tangent Ratio",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q031",
+          "question": "In a right triangle, the side opposite θ is 3 and the adjacent side is 4. Find tan θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3/5"
+            },
+            {
+              "label": "B",
+              "text": "4/3"
+            },
+            {
+              "label": "C",
+              "text": "3/4"
+            },
+            {
+              "label": "D",
+              "text": "-3/4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3/4",
+          "explanation": "tan θ=opposite/adjacent, so tan θ=3/4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q032",
+          "question": "In a right triangle, the side opposite θ is 5 and the adjacent side is 12. Find tan θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5/13"
+            },
+            {
+              "label": "B",
+              "text": "12/5"
+            },
+            {
+              "label": "C",
+              "text": "-5/12"
+            },
+            {
+              "label": "D",
+              "text": "5/12"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5/12",
+          "explanation": "tan θ=opposite/adjacent, so tan θ=5/12.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q033",
+          "question": "In a right triangle, the side opposite θ is 8 and the adjacent side is 15. Find tan θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8/15"
+            },
+            {
+              "label": "B",
+              "text": "8/17"
+            },
+            {
+              "label": "C",
+              "text": "-8/15"
+            },
+            {
+              "label": "D",
+              "text": "15/8"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "8/15",
+          "explanation": "tan θ=opposite/adjacent, so tan θ=8/15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q034",
+          "question": "In a right triangle, the side opposite θ is 7 and the adjacent side is 24. Find tan θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7/24"
+            },
+            {
+              "label": "B",
+              "text": "7/24"
+            },
+            {
+              "label": "C",
+              "text": "24/7"
+            },
+            {
+              "label": "D",
+              "text": "7/25"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "7/24",
+          "explanation": "tan θ=opposite/adjacent, so tan θ=7/24.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q035",
+          "question": "In a right triangle, the side opposite θ is 6 and the adjacent side is 8. Find tan θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4/3"
+            },
+            {
+              "label": "B",
+              "text": "3/5"
+            },
+            {
+              "label": "C",
+              "text": "3/4"
+            },
+            {
+              "label": "D",
+              "text": "-3/4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3/4",
+          "explanation": "tan θ=opposite/adjacent, so tan θ=3/4.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Reciprocal Ratios",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q036",
+          "question": "In a right triangle, the opposite side to θ is 3 and the hypotenuse is 5. Find cosec θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5/4"
+            },
+            {
+              "label": "B",
+              "text": "4/3"
+            },
+            {
+              "label": "C",
+              "text": "3/5"
+            },
+            {
+              "label": "D",
+              "text": "5/3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5/3",
+          "explanation": "cosec θ=hypotenuse/opposite, which gives 5/3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q037",
+          "question": "In a right triangle, the opposite side to θ is 5 and the hypotenuse is 13. Find cosec θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13/5"
+            },
+            {
+              "label": "B",
+              "text": "12/5"
+            },
+            {
+              "label": "C",
+              "text": "13/12"
+            },
+            {
+              "label": "D",
+              "text": "5/13"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "13/5",
+          "explanation": "cosec θ=hypotenuse/opposite, which gives 13/5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q038",
+          "question": "In a right triangle, the opposite side to θ is 8 and the hypotenuse is 17. Find cosec θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "17/15"
+            },
+            {
+              "label": "B",
+              "text": "17/8"
+            },
+            {
+              "label": "C",
+              "text": "15/8"
+            },
+            {
+              "label": "D",
+              "text": "8/17"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "17/8",
+          "explanation": "cosec θ=hypotenuse/opposite, which gives 17/8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q039",
+          "question": "In a right triangle, the opposite side to θ is 7 and the hypotenuse is 25. Find cosec θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "25/24"
+            },
+            {
+              "label": "B",
+              "text": "24/7"
+            },
+            {
+              "label": "C",
+              "text": "25/7"
+            },
+            {
+              "label": "D",
+              "text": "7/25"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "25/7",
+          "explanation": "cosec θ=hypotenuse/opposite, which gives 25/7.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q040",
+          "question": "In a right triangle, the opposite side to θ is 6 and the hypotenuse is 10. Find cosec θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3/5"
+            },
+            {
+              "label": "B",
+              "text": "5/4"
+            },
+            {
+              "label": "C",
+              "text": "4/3"
+            },
+            {
+              "label": "D",
+              "text": "5/3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5/3",
+          "explanation": "cosec θ=hypotenuse/opposite, which gives 5/3.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Trigonometric Identity",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q041",
+          "question": "Evaluate sin²(20°)+cos²(20°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "−1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "The Pythagorean identity sin²θ+cos²θ=1 gives 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q042",
+          "question": "Evaluate sin²(40°)+cos²(40°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "−1"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1",
+          "explanation": "The Pythagorean identity sin²θ+cos²θ=1 gives 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q043",
+          "question": "Evaluate sin²(70°)+cos²(70°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1",
+          "explanation": "The Pythagorean identity sin²θ+cos²θ=1 gives 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q044",
+          "question": "Evaluate sin²(110°)+cos²(110°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "The Pythagorean identity sin²θ+cos²θ=1 gives 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C06-Q045",
+          "question": "Evaluate sin²(140°)+cos²(140°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "−1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "The Pythagorean identity sin²θ+cos²θ=1 gives 1.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Fundamental Identity",
+      "questions": [
+        {
+          "id": "HM-P1-C06-Q046",
+          "question": "Which expression is equivalent to 1+tan²(10°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cot² 10°"
+            },
+            {
+              "label": "B",
+              "text": "sec² 10°"
+            },
+            {
+              "label": "C",
+              "text": "cosec² 10°"
+            },
+            {
+              "label": "D",
+              "text": "sin² 10°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "sec² 10°",
+          "explanation": "The identity 1+tan²θ=sec²θ gives sec² 10°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q047",
+          "question": "Which expression is equivalent to 1+tan²(20°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cot² 20°"
+            },
+            {
+              "label": "B",
+              "text": "sin² 20°"
+            },
+            {
+              "label": "C",
+              "text": "sec² 20°"
+            },
+            {
+              "label": "D",
+              "text": "cosec² 20°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "sec² 20°",
+          "explanation": "The identity 1+tan²θ=sec²θ gives sec² 20°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q048",
+          "question": "Which expression is equivalent to 1+tan²(35°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin² 35°"
+            },
+            {
+              "label": "B",
+              "text": "cot² 35°"
+            },
+            {
+              "label": "C",
+              "text": "cosec² 35°"
+            },
+            {
+              "label": "D",
+              "text": "sec² 35°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "sec² 35°",
+          "explanation": "The identity 1+tan²θ=sec²θ gives sec² 35°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q049",
+          "question": "Which expression is equivalent to 1+tan²(50°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sec² 50°"
+            },
+            {
+              "label": "B",
+              "text": "cot² 50°"
+            },
+            {
+              "label": "C",
+              "text": "sin² 50°"
+            },
+            {
+              "label": "D",
+              "text": "cosec² 50°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "sec² 50°",
+          "explanation": "The identity 1+tan²θ=sec²θ gives sec² 50°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C06-Q050",
+          "question": "Which expression is equivalent to 1+tan²(70°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cosec² 70°"
+            },
+            {
+              "label": "B",
+              "text": "sec² 70°"
+            },
+            {
+              "label": "C",
+              "text": "cot² 70°"
+            },
+            {
+              "label": "D",
+              "text": "sin² 70°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "sec² 70°",
+          "explanation": "The identity 1+tan²θ=sec²θ gives sec² 70°.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

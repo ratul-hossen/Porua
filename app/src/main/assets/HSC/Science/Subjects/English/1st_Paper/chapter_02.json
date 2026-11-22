@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 2,
+  "chapter_title": "Education and Life",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Rabindranath Tagore's 'The Parrot's Tale' (Tota Kahini)",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-001",
+          "question": "What is the central theme of Rabindranath Tagore's satire 'The Parrot's Tale'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The cruel absurdity of mechanical rote learning and pedantic schooling"
+            },
+            {
+              "label": "B",
+              "text": "Care and feeding of exotic birds in royal menageries"
+            },
+            {
+              "label": "C",
+              "text": "The architecture of golden palace cages"
+            },
+            {
+              "label": "D",
+              "text": "The celebration of ancient imperial judicial courts"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The cruel absurdity of mechanical rote learning and pedantic schooling",
+          "explanation": "Tagore wrote 'The Parrot's Tale' (Tota Kahini) to satirize lifeless, rote-based educational systems that stifle a child's natural curiosity and spirit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-002",
+          "question": "In 'The Parrot's Tale', what did the pundits and scribes do instead of teaching the bird to sing naturally?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They stuffed its beak with shredded manuscripts and crammed it into a gilded cage"
+            },
+            {
+              "label": "B",
+              "text": "They released it into a dense forest"
+            },
+            {
+              "label": "C",
+              "text": "They encouraged it to fly freely"
+            },
+            {
+              "label": "D",
+              "text": "They played melodious flutes for it"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "They stuffed its beak with shredded manuscripts and crammed it into a gilded cage",
+          "explanation": "The pedantic scholars tore leaves from heavy manuscripts and stuffed them down the parrot's throat, destroying its natural life in the name of formal education.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-003",
+          "question": "What ultimate tragedy befell the bird as a consequence of this artificial educational system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The bird died silently, completely starved of natural nourishment and vitality"
+            },
+            {
+              "label": "B",
+              "text": "The bird became a renowned royal singer"
+            },
+            {
+              "label": "C",
+              "text": "The bird escaped to another kingdom"
+            },
+            {
+              "label": "D",
+              "text": "The bird learned how to recite the entire epic"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The bird died silently, completely starved of natural nourishment and vitality",
+          "explanation": "The parrot eventually perished of dry throat and starvation inside the ornamental cage, unnoticed by the scholars until its dead body was poked.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-004",
+          "question": "What does the 'golden cage' in 'The Parrot's Tale' symbolize?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Elaborate, expensive, yet suffocating institutional school infrastructure"
+            },
+            {
+              "label": "B",
+              "text": "A genuine sanctuary of love and nature"
+            },
+            {
+              "label": "C",
+              "text": "The royal treasury's wealth"
+            },
+            {
+              "label": "D",
+              "text": "Freedom of creative expression"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Elaborate, expensive, yet suffocating institutional school infrastructure",
+          "explanation": "The ornate golden cage symbolizes rigid schools and institutions that prioritize outward show and money over genuine human development.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-005",
+          "question": "When the nephew inspected the education, he remarked: 'The education is going on splendidly.' What literary device is this?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Irony"
+            },
+            {
+              "label": "B",
+              "text": "Onomatopoeia"
+            },
+            {
+              "label": "C",
+              "text": "Hyperbole"
+            },
+            {
+              "label": "D",
+              "text": "Alliteration"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Irony",
+          "explanation": "This is dramatic irony: the inspector declares the education splendid while the helpless bird is actually dying of torture.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Purpose and Philosophy of True Education",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-006",
+          "question": "According to educationists, what is the prime objective of genuine education?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Holistic development of mind, body, and moral character"
+            },
+            {
+              "label": "B",
+              "text": "Solely obtaining paper certificates for high salaries"
+            },
+            {
+              "label": "C",
+              "text": "Memorizing textbooks without understanding"
+            },
+            {
+              "label": "D",
+              "text": "Blindly obeying authoritarian dogma"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Holistic development of mind, body, and moral character",
+          "explanation": "True education aims at the complete, harmonious development of intellectual, physical, emotional, and ethical faculties in a human being.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-007",
+          "question": "Nelson Mandela famously described education as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "'The most powerful weapon which you can use to change the world'"
+            },
+            {
+              "label": "B",
+              "text": "'A luxury reserved only for the affluent elite'"
+            },
+            {
+              "label": "C",
+              "text": "'A temporary phase ending with childhood'"
+            },
+            {
+              "label": "D",
+              "text": "'A burden that prevents industrial productivity'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'The most powerful weapon which you can use to change the world'",
+          "explanation": "Mandela declared: 'Education is the most powerful weapon which you can use to change the world.'",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-008",
+          "question": "How does education foster civic engagement in democratic societies?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By empowering citizens with awareness of rights, duties, and social responsibilities"
+            },
+            {
+              "label": "B",
+              "text": "By encouraging citizens to avoid voting in elections"
+            },
+            {
+              "label": "C",
+              "text": "By isolating students from community issues"
+            },
+            {
+              "label": "D",
+              "text": "By suppressing independent political thought"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By empowering citizens with awareness of rights, duties, and social responsibilities",
+          "explanation": "An educated populace understands democratic values, exercises informed voting rights, and actively participates in community welfare.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-009",
+          "question": "What is the distinction between 'literacy' and 'true education'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Literacy is the ability to read and write, whereas true education enlightens the mind and shapes moral conduct"
+            },
+            {
+              "label": "B",
+              "text": "Literacy is only taught at university levels"
+            },
+            {
+              "label": "C",
+              "text": "There is no difference between them"
+            },
+            {
+              "label": "D",
+              "text": "Education is purely numerical, literacy is purely verbal"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Literacy is the ability to read and write, whereas true education enlightens the mind and shapes moral conduct",
+          "explanation": "Literacy provides functional tools for reading and writing, but education encompasses wisdom, critical analysis, empathy, and ethical maturity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-010",
+          "question": "Which of the following is considered an intrinsic value of liberal education?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Broadening intellectual horizons and cultivating independent critical reasoning"
+            },
+            {
+              "label": "B",
+              "text": "Guaranteed instant lottery riches"
+            },
+            {
+              "label": "C",
+              "text": "Elimination of personal curiosity"
+            },
+            {
+              "label": "D",
+              "text": "Strict conformity to outdated social prejudices"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Broadening intellectual horizons and cultivating independent critical reasoning",
+          "explanation": "A liberal education develops the mind's ability to evaluate ideas critically, question assumptions, and appreciate truth and beauty.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Education and Modern Technology",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-011",
+          "question": "How has the internet transformed modern education for underprivileged students globally?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By democratizing access to knowledge, open educational resources (OER), and distance learning"
+            },
+            {
+              "label": "B",
+              "text": "By rendering human teachers entirely obsolete"
+            },
+            {
+              "label": "C",
+              "text": "By making printed books illegal"
+            },
+            {
+              "label": "D",
+              "text": "By restricting research papers to elite universities"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By democratizing access to knowledge, open educational resources (OER), and distance learning",
+          "explanation": "Online platforms bridge geographic barriers, allowing students in remote regions to access world-class lectures and resources freely.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-012",
+          "question": "What is the primary risk of excessive, unguided reliance on screen-based digital media in early education?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reduced attention span, lack of deep reading, and diminished social interaction"
+            },
+            {
+              "label": "B",
+              "text": "Excessive physical stamina"
+            },
+            {
+              "label": "C",
+              "text": "Sudden loss of hearing in all children"
+            },
+            {
+              "label": "D",
+              "text": "Inability to speak English"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Reduced attention span, lack of deep reading, and diminished social interaction",
+          "explanation": "Excessive screen time is linked to cognitive distraction, eye strain, shorter attention spans, and delayed interpersonal social skills.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-013",
+          "question": "In the phrase 'flipped classroom', what educational methodology is implied?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Students study lecture content online at home and engage in interactive problem-solving in class"
+            },
+            {
+              "label": "B",
+              "text": "Desks are physically turned upside down"
+            },
+            {
+              "label": "C",
+              "text": "Teachers take exams written by students"
+            },
+            {
+              "label": "D",
+              "text": "Classes are held outside school buildings"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Students study lecture content online at home and engage in interactive problem-solving in class",
+          "explanation": "The flipped classroom reverses traditional lecture-homework structure: instructional content is reviewed at home, and class time is used for discussions.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG102-MCQ-014",
+          "question": "What role should multimedia presentations serve in classroom instruction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "As visual and interactive aids to clarify abstract and complex concepts"
+            },
+            {
+              "label": "B",
+              "text": "To replace teachers during class time"
+            },
+            {
+              "label": "C",
+              "text": "To entertain students with irrelevant cartoons"
+            },
+            {
+              "label": "D",
+              "text": "To eliminate the need for student participation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "As visual and interactive aids to clarify abstract and complex concepts",
+          "explanation": "Multimedia tools enhance comprehension by visualizing difficult scientific and historical concepts vividly.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-015",
+          "question": "What is 'Digital Divide' in the context of global education?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The gap between individuals who have access to modern ICT technology and those who do not"
+            },
+            {
+              "label": "B",
+              "text": "A computer calculation error"
+            },
+            {
+              "label": "C",
+              "text": "The divide between analog and digital clocks"
+            },
+            {
+              "label": "D",
+              "text": "The separation of keyboard from screen"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The gap between individuals who have access to modern ICT technology and those who do not",
+          "explanation": "The digital divide refers to inequality in access to computers, digital devices, and broadband internet connectivity among socio-economic groups.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Paulo Coelho's 'A Warrior of Light'",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-016",
+          "question": "According to Paulo Coelho's philosophical text, who is a 'Warrior of Light'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Someone who is capable of understanding the miracle of life and fights for what they believe in"
+            },
+            {
+              "label": "B",
+              "text": "A soldier fighting in a world war"
+            },
+            {
+              "label": "C",
+              "text": "A professional boxer in an arena"
+            },
+            {
+              "label": "D",
+              "text": "A manufacturer of electrical light bulbs"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Someone who is capable of understanding the miracle of life and fights for what they believe in",
+          "explanation": "Coelho characterizes the Warrior of Light as an enlightened, conscious individual who learns from failures, seeks beauty, and fights for their ideals.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-017",
+          "question": "How does a Warrior of Light react when confronted with personal failure or mistakes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "He accepts the lesson with humility, repairs his armor, and perseveres forward"
+            },
+            {
+              "label": "B",
+              "text": "He blames his companions and gives up forever"
+            },
+            {
+              "label": "C",
+              "text": "He pretends that the mistake never occurred"
+            },
+            {
+              "label": "D",
+              "text": "He vents his anger on innocent bystanders"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He accepts the lesson with humility, repairs his armor, and perseveres forward",
+          "explanation": "A warrior knows that defeat is a teacher; he does not waste time in self-pity but learns from setbacks to renew his strength.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-018",
+          "question": "What is the symbolic meaning of the phrase 'sharpening the sword' in self-cultivation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Continuously refining one's intellect, character, and mental clarity through discipline"
+            },
+            {
+              "label": "B",
+              "text": "Preparing for physical duels in streets"
+            },
+            {
+              "label": "C",
+              "text": "Purchasing antique weapons"
+            },
+            {
+              "label": "D",
+              "text": "Cutting tree branches in forests"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Continuously refining one's intellect, character, and mental clarity through discipline",
+          "explanation": "Metaphorically, 'sharpening the sword' signifies developing inner mental sharpness, knowledge, and moral preparedness.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-019",
+          "question": "Coelho writes that a warrior 'knows that words have power'. What does this emphasize?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The profound impact of speech to inspire, heal, or inflict emotional damage"
+            },
+            {
+              "label": "B",
+              "text": "Speaking aloud without thinking"
+            },
+            {
+              "label": "C",
+              "text": "Using long words to confuse listeners"
+            },
+            {
+              "label": "D",
+              "text": "Avoiding learning foreign languages"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The profound impact of speech to inspire, heal, or inflict emotional damage",
+          "explanation": "Words carry moral resonance and creative energy; enlightened individuals choose their speech carefully with integrity and empathy.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG102-MCQ-020",
+          "question": "What virtue is highlighted when Coelho says a warrior 'does not judge the world by what he sees on the surface'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Insightful discernment and deep empathy"
+            },
+            {
+              "label": "B",
+              "text": "Superficial vanity"
+            },
+            {
+              "label": "C",
+              "text": "Credulity and gullibility"
+            },
+            {
+              "label": "D",
+              "text": "Recklessness"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Insightful discernment and deep empathy",
+          "explanation": "True wisdom penetrates external appearances to perceive inner motives, underlying truth, and hidden spiritual values.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Pioneers of Education - Begum Rokeya and Social Reform",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-021",
+          "question": "Why is Begum Rokeya Sakhawat Hossain revered as the pioneer of female education in Bengal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "She established the first modern school for Muslim girls and advocated relentlessly for female emancipation"
+            },
+            {
+              "label": "B",
+              "text": "She won an Olympic gold medal in swimming"
+            },
+            {
+              "label": "C",
+              "text": "She was the first female pilot in India"
+            },
+            {
+              "label": "D",
+              "text": "She wrote the first English dictionary"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "She established the first modern school for Muslim girls and advocated relentlessly for female emancipation",
+          "explanation": "Begum Rokeya broke through severe social conservatism to establish Sakhawat Memorial Girls' School and champion women's equal rights and education.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-022",
+          "question": "In her pioneering feminist utopian novella 'Sultana's Dream' (1905), what revolutionary concept did Begum Rokeya depict?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'Ladyland', a peaceful realm governed by women utilizing solar energy, science, and education"
+            },
+            {
+              "label": "B",
+              "text": "A dystopian planet without books"
+            },
+            {
+              "label": "C",
+              "text": "An undersea empire of fish"
+            },
+            {
+              "label": "D",
+              "text": "An industrial town of coal mines"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'Ladyland', a peaceful realm governed by women utilizing solar energy, science, and education",
+          "explanation": "In 'Sultana's Dream', Rokeya envisioned a society where educated women apply scientific innovations (solar power, cloud-harvesting) to create peace and prosperity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-023",
+          "question": "What major obstacle did Begum Rokeya face while seeking students for her newly opened school in Kolkata?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Deeply entrenched purdah norms and fierce hostility from conservative guardians"
+            },
+            {
+              "label": "B",
+              "text": "A severe flood that destroyed the city"
+            },
+            {
+              "label": "C",
+              "text": "Government bans on building schools"
+            },
+            {
+              "label": "D",
+              "text": "A total lack of interest among young girls themselves"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Deeply entrenched purdah norms and fierce hostility from conservative guardians",
+          "explanation": "She had to go door-to-door, persuading reluctant and suspicious parents that educating daughters would not corrupt their morals or faith.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-024",
+          "question": "Rokeya famously compared men and women to which common vehicle component?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The two wheels of a carriage"
+            },
+            {
+              "label": "B",
+              "text": "The engine and exhaust of a motorcar"
+            },
+            {
+              "label": "C",
+              "text": "The mast and rudder of a ship"
+            },
+            {
+              "label": "D",
+              "text": "The wings and tail of a bird"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The two wheels of a carriage",
+          "explanation": "She argued that society is like a two-wheeled carriage: if one wheel (women) is broken or kept small, the carriage cannot move forward.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG102-MCQ-025",
+          "question": "Which quality best defines Begum Rokeya's leadership in the history of Bengal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Visionary courage and unwavering commitment to social justice"
+            },
+            {
+              "label": "B",
+              "text": "Hesitant compromise with orthodox customs"
+            },
+            {
+              "label": "C",
+              "text": "Preference for personal wealth"
+            },
+            {
+              "label": "D",
+              "text": "Indifference to rural women's suffering"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Visionary courage and unwavering commitment to social justice",
+          "explanation": "Her forward-thinking vision, intellectual brilliance, and moral fortitude make her one of South Asia's greatest social reformers.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vocabulary and Terminology of Education",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-026",
+          "question": "What is the synonym of the word 'pedantic' as applied to dogmatic scholars in 'The Parrot's Tale'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bookish and overly concerned with formal trivia"
+            },
+            {
+              "label": "B",
+              "text": "Creative and visionary"
+            },
+            {
+              "label": "C",
+              "text": "Careless and negligent"
+            },
+            {
+              "label": "D",
+              "text": "Broad-minded and generous"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bookish and overly concerned with formal trivia",
+          "explanation": "'Pedantic' describes a person obsessively focused on minor details, formal rules, or rote learning rather than real understanding.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-027",
+          "question": "What is the contextual meaning of 'enlightenment' in educational discourse?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Acquiring spiritual, intellectual, or moral insight that dispels ignorance"
+            },
+            {
+              "label": "B",
+              "text": "Switching on electric fluorescent lights"
+            },
+            {
+              "label": "C",
+              "text": "Reducing the physical weight of a backpack"
+            },
+            {
+              "label": "D",
+              "text": "Painting classroom walls with bright paint"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Acquiring spiritual, intellectual, or moral insight that dispels ignorance",
+          "explanation": "'Enlightenment' refers to the awakening of understanding, rationality, and moral vision that frees individuals from prejudice and ignorance.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-028",
+          "question": "What is the antonym of the adjective 'superficial' in educational evaluation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Profound"
+            },
+            {
+              "label": "B",
+              "text": "Shallow"
+            },
+            {
+              "label": "C",
+              "text": "Trivial"
+            },
+            {
+              "label": "D",
+              "text": "Flimsy"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Profound",
+          "explanation": "'Superficial' means surface-level and lacking depth. Its direct antonym is 'profound' (deep and meaningful).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-029",
+          "question": "What does the term 'edification' signify?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moral, intellectual, or spiritual improvement of a person"
+            },
+            {
+              "label": "B",
+              "text": "Constructing brick commercial offices"
+            },
+            {
+              "label": "C",
+              "text": "Publishing magazines for profit"
+            },
+            {
+              "label": "D",
+              "text": "Imposing judicial penalties"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Moral, intellectual, or spiritual improvement of a person",
+          "explanation": "'Edification' means the instruction or improvement of a person morally or intellectually.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG102-MCQ-030",
+          "question": "What does the term 'curriculum' denote in an academic institution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The entire structured course of study and academic content offered by a school"
+            },
+            {
+              "label": "B",
+              "text": "The architectural layout of the playground"
+            },
+            {
+              "label": "C",
+              "text": "The bus timetable for students"
+            },
+            {
+              "label": "D",
+              "text": "The school cafeteria lunch menu"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The entire structured course of study and academic content offered by a school",
+          "explanation": "A curriculum is the planned sequence of learning experiences, syllabi, and educational objectives delivered by an educational institution.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Grammatical Patterns and Syntactic Accuracy",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-031",
+          "question": "Choose the correct modal auxiliary: 'Students ______ think critically rather than cram notes blindly.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "ought to"
+            },
+            {
+              "label": "B",
+              "text": "must to"
+            },
+            {
+              "label": "C",
+              "text": "should to"
+            },
+            {
+              "label": "D",
+              "text": "ought"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ought to",
+          "explanation": "'Ought to' expresses moral duty and takes an infinitive verb; 'should to' and 'must to' are grammatically incorrect.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-032",
+          "question": "Fill in the blank with the appropriate preposition: 'True education equips a student ______ moral values and wisdom.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "with"
+            },
+            {
+              "label": "B",
+              "text": "by"
+            },
+            {
+              "label": "C",
+              "text": "at"
+            },
+            {
+              "label": "D",
+              "text": "on"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "with",
+          "explanation": "The appropriate preposition after 'equip' is 'with' (equip someone with something).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-033",
+          "question": "'If the parrot had been allowed to fly in the orchard, it ______ happily.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "would have lived"
+            },
+            {
+              "label": "B",
+              "text": "will live"
+            },
+            {
+              "label": "C",
+              "text": "would live"
+            },
+            {
+              "label": "D",
+              "text": "lived"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "would have lived",
+          "explanation": "In a third conditional sentence ('If + past perfect'), the result clause takes 'would have + past participle'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-034",
+          "question": "Identify the clause type of the underlined part: 'He who learns only for exams [lacks true understanding].'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Principal clause predicate"
+            },
+            {
+              "label": "B",
+              "text": "Adverbial clause of manner"
+            },
+            {
+              "label": "C",
+              "text": "Noun clause in apposition"
+            },
+            {
+              "label": "D",
+              "text": "Conditional clause"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Principal clause predicate",
+          "explanation": "The complete independent sentence is 'He lacks true understanding' with a subordinate relative clause 'who learns only for exams'.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG102-MCQ-035",
+          "question": "'Had Begum Rokeya not dedicated her life to reform, women's education in Bengal ______ severely delayed.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "would have been"
+            },
+            {
+              "label": "B",
+              "text": "will be"
+            },
+            {
+              "label": "C",
+              "text": "is"
+            },
+            {
+              "label": "D",
+              "text": "was"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "would have been",
+          "explanation": "Inverted third conditional ('Had + subject + not + past participle') requires 'would have been' in the consequence clause.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Critical Literacy and 21st-Century Skills",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-036",
+          "question": "Which of the following is recognized as one of the essential '4 Cs' of 21st-century education?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Critical Thinking"
+            },
+            {
+              "label": "B",
+              "text": "Careless Memorization"
+            },
+            {
+              "label": "C",
+              "text": "Commercial Marketing"
+            },
+            {
+              "label": "D",
+              "text": "Computer Hardware Assembly"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Critical Thinking",
+          "explanation": "The 4 Cs of 21st-century learning are Critical Thinking, Creativity, Collaboration, and Communication.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-037",
+          "question": "Why is 'Information Literacy' vital for modern students in the digital age?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To distinguish credible, verified facts from internet misinformation and fake news"
+            },
+            {
+              "label": "B",
+              "text": "To memorize all search engine query algorithms"
+            },
+            {
+              "label": "C",
+              "text": "To download software games quickly"
+            },
+            {
+              "label": "D",
+              "text": "To send unsolicited spam messages"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To distinguish credible, verified facts from internet misinformation and fake news",
+          "explanation": "Information literacy enables learners to locate, evaluate, synthesize, and ethically use digital information in an era flooded with propaganda.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-038",
+          "question": "What is the concept of 'Lifelong Learning'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Continuous self-motivated acquisition of knowledge and skills throughout one's entire lifespan"
+            },
+            {
+              "label": "B",
+              "text": "Staying enrolled in primary school permanently"
+            },
+            {
+              "label": "C",
+              "text": "Never taking a professional retirement"
+            },
+            {
+              "label": "D",
+              "text": "Paying annual college fees until age eighty"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Continuous self-motivated acquisition of knowledge and skills throughout one's entire lifespan",
+          "explanation": "Lifelong learning emphasizes that education does not end with formal graduation; individuals must continually adapt and learn in a rapidly changing world.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-039",
+          "question": "How does collaborative learning in small groups benefit students compared to solitary competitive cramming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It fosters teamwork, interpersonal communication, and diverse problem-solving perspectives"
+            },
+            {
+              "label": "B",
+              "text": "It eliminates the need for individual evaluation"
+            },
+            {
+              "label": "C",
+              "text": "It allows one student to do all the work while others sleep"
+            },
+            {
+              "label": "D",
+              "text": "It reduces the amount of knowledge learned"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It fosters teamwork, interpersonal communication, and diverse problem-solving perspectives",
+          "explanation": "Group work cultivates emotional intelligence, mutual empathy, active listening, and collective problem-solving skills crucial in the workforce.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-040",
+          "question": "Which educational approach integrates Science, Technology, Engineering, Arts, and Mathematics into a unified framework?",
+          "options": [
+            {
+              "label": "A",
+              "text": "STEAM Education"
+            },
+            {
+              "label": "B",
+              "text": "Rote Instruction"
+            },
+            {
+              "label": "C",
+              "text": "Grammar Translation Method"
+            },
+            {
+              "label": "D",
+              "text": "Strict Classical Trivium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "STEAM Education",
+          "explanation": "STEAM (Science, Technology, Engineering, Arts, Math) promotes interdisciplinary, inquiry-based, and hands-on creative learning.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Themes of Character Building and Ethics",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-041",
+          "question": "Martin Luther King Jr. stated that 'Intelligence plus character—that is the goal of true education.' What does this mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Academic intellectual brilliance is dangerous without moral values and empathy"
+            },
+            {
+              "label": "B",
+              "text": "Intelligence is unnecessary if one is polite"
+            },
+            {
+              "label": "C",
+              "text": "Character is evaluated only through written exams"
+            },
+            {
+              "label": "D",
+              "text": "Schools should only teach mathematics"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Academic intellectual brilliance is dangerous without moral values and empathy",
+          "explanation": "King warned that high intelligence without moral integrity produces clever criminals; education must build moral conscience.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-042",
+          "question": "How does moral education combat corrupt practices in professional careers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By instilling an internal sense of integrity, justice, and accountability"
+            },
+            {
+              "label": "B",
+              "text": "By guaranteeing absolute immunity from the law"
+            },
+            {
+              "label": "C",
+              "text": "By teaching students how to evade financial audits"
+            },
+            {
+              "label": "D",
+              "text": "By enforcing silence about social evils"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By instilling an internal sense of integrity, justice, and accountability",
+          "explanation": "Internalized moral principles guide professionals to act honestly and serve society ethically even when unsupervised.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-043",
+          "question": "In 'The Parrot's Tale', what moral failure did the king's courtiers and scholars display?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hypocrisy, greed for royal gold, and total indifference to the suffering bird"
+            },
+            {
+              "label": "B",
+              "text": "Excessive generosity to the poor"
+            },
+            {
+              "label": "C",
+              "text": "Refusal to accept royal wages"
+            },
+            {
+              "label": "D",
+              "text": "Disobedience to the king's orders"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hypocrisy, greed for royal gold, and total indifference to the suffering bird",
+          "explanation": "The courtiers grew rich from contracts for cages and manuscripts while demonstrating complete moral bankruptcy toward the dying bird.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-044",
+          "question": "What is the relationship between empathy and global citizenship?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Empathy allows individuals to appreciate diverse human perspectives and care for universal human well-being"
+            },
+            {
+              "label": "B",
+              "text": "Empathy encourages extreme narrow nationalism"
+            },
+            {
+              "label": "C",
+              "text": "Empathy causes people to disregard foreign cultures"
+            },
+            {
+              "label": "D",
+              "text": "There is no relationship between them"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Empathy allows individuals to appreciate diverse human perspectives and care for universal human well-being",
+          "explanation": "Empathy expands human awareness beyond narrow sectarian borders, fostering compassion for all humanity.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG102-MCQ-045",
+          "question": "Which ancient philosopher founded the Academy in Athens to cultivate intellectual inquiry and moral virtues?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plato"
+            },
+            {
+              "label": "B",
+              "text": "Julius Caesar"
+            },
+            {
+              "label": "C",
+              "text": "Alexander the Great"
+            },
+            {
+              "label": "D",
+              "text": "Nero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Plato",
+          "explanation": "Plato established the Academy in 387 BC in Athens, one of the earliest institutions of higher learning in the Western world.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Passage Comprehension and Literary Appreciation",
+      "questions": [
+        {
+          "id": "ENG102-MCQ-046",
+          "question": "Why did the King in 'The Parrot's Tale' order the bird to be educated in the first place?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because it hopped and flew in the trees and sang unmethodically without royal manners"
+            },
+            {
+              "label": "B",
+              "text": "Because it attacked the guards"
+            },
+            {
+              "label": "C",
+              "text": "Because it was gifted to him by a foreign emperor"
+            },
+            {
+              "label": "D",
+              "text": "Because it asked for an academic tutor"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because it hopped and flew in the trees and sang unmethodically without royal manners",
+          "explanation": "The king found the wild parrot's natural behavior disorderly and unproductive, deciding it must be civilized by institutional education.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-047",
+          "question": "Who gained the most financial benefit from the parrot's education in Tagore's tale?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The goldsmiths, scribes, pundits, and supervisors who pocketed royal gold"
+            },
+            {
+              "label": "B",
+              "text": "The bird itself"
+            },
+            {
+              "label": "C",
+              "text": "The common farmers of the kingdom"
+            },
+            {
+              "label": "D",
+              "text": "The wild birds in the forest"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The goldsmiths, scribes, pundits, and supervisors who pocketed royal gold",
+          "explanation": "Tagore satirizes the commercialized educational industry where everyone profits lavishly except the student who is crushed.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG102-MCQ-048",
+          "question": "What sound did the dead parrot make when poked by the king's courtiers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the dry rustle of paper leaves inside its stomach"
+            },
+            {
+              "label": "B",
+              "text": "A sweet musical trill"
+            },
+            {
+              "label": "C",
+              "text": "A loud shriek"
+            },
+            {
+              "label": "D",
+              "text": "A classical Sanskrit hymn"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Only the dry rustle of paper leaves inside its stomach",
+          "explanation": "When prodded, the dead bird made only the dry, lifeless rustling of stuffed paper leaves, illustrating the death of living spirit.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG102-MCQ-049",
+          "question": "What did Begum Rokeya consider to be the main barrier keeping women imprisoned in social backwardness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Denial of modern education and economic self-reliance"
+            },
+            {
+              "label": "B",
+              "text": "Lack of jewelry"
+            },
+            {
+              "label": "C",
+              "text": "Physical climate of Bengal"
+            },
+            {
+              "label": "D",
+              "text": "Shortage of clothing"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Denial of modern education and economic self-reliance",
+          "explanation": "Rokeya identified ignorance and complete economic dependence on men as the primary shackles chaining women.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG102-MCQ-050",
+          "question": "In the concluding analysis of true education, what transforms knowledge into wisdom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reflective experience, empathy, and practical application for human good"
+            },
+            {
+              "label": "B",
+              "text": "Speed reading thousands of pages without pause"
+            },
+            {
+              "label": "C",
+              "text": "Scoring 100% on multiple choice tests"
+            },
+            {
+              "label": "D",
+              "text": "Collecting numerous framed diplomas"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Reflective experience, empathy, and practical application for human good",
+          "explanation": "Knowledge is the gathering of facts; wisdom is the moral insight, empathy, and practical maturity to apply facts for the betterment of life.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

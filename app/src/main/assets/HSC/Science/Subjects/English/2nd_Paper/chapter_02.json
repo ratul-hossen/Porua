@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 2,
+  "chapter_title": "Right Form of Verbs and Subject-Verb Agreement",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Subject-Verb Agreement - Core Principles",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-001",
+          "question": "Choose the correct verb form: 'The quality of the mangoes ______ genuinely exceptional.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "was"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "was",
+          "explanation": "The head noun subject is 'The quality' (singular uncountable), not the plural noun 'mangoes' inside the prepositional phrase. Hence the singular verb 'was' is required.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-002",
+          "question": "Fill in the blank: 'Slow and steady ______ the race.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "wins"
+            },
+            {
+              "label": "B",
+              "text": "win"
+            },
+            {
+              "label": "C",
+              "text": "are winning"
+            },
+            {
+              "label": "D",
+              "text": "have won"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "wins",
+          "explanation": "When two singular nouns joined by 'and' express a single unified idea or compound concept ('slow and steady'), they take a singular verb ('wins').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-003",
+          "question": "Choose the correct verb: 'Ten thousand dollars ______ a substantial sum of money for the research project.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "are"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "is",
+          "explanation": "Plural expressions of distance, money, periods of time, or measurement regarded as a single total take a singular verb ('is').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-004",
+          "question": "Fill in the blank: 'Physics ______ always been her favorite academic discipline.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "has"
+            },
+            {
+              "label": "B",
+              "text": "have"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "has",
+          "explanation": "Nouns plural in form but singular in meaning (Physics, Mathematics, Economics, News) take singular verbs ('has').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-005",
+          "question": "Choose the correct verb: 'A large number of students ______ participating in the annual debate competition.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "was"
+            },
+            {
+              "label": "D",
+              "text": "has been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "are",
+          "explanation": "'A number of + plural noun' takes a plural verb ('are'), whereas 'The number of + plural noun' takes a singular verb ('is').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Compound Subjects with Prepositional Connectors",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-006",
+          "question": "Choose the correct verb: 'The teacher, along with his students, ______ attending the international conference.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "are"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "is",
+          "explanation": "When a subject is accompanied by phrases like 'along with', 'as well as', 'together with', or 'in addition to', the verb agrees with the primary first subject ('The teacher' = singular).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-007",
+          "question": "Fill in the blank: 'Rahim as well as his brothers ______ invited to the banquet.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "was"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "was",
+          "explanation": "With 'as well as', the verb agrees with the initial subject ('Rahim', singular), so 'was' is grammatically correct.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-008",
+          "question": "Choose the correct verb: 'The Prime Minister, accompanied by several cabinet ministers, ______ arrived at the summit.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "has"
+            },
+            {
+              "label": "B",
+              "text": "have"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "has",
+          "explanation": "The parenthetical phrase 'accompanied by...' does not affect subject-verb agreement; the verb agrees with 'The Prime Minister' (singular).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-009",
+          "question": "'Bread and butter ______ his only breakfast every morning.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "are"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "have"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "is",
+          "explanation": "'Bread and butter' represents a single unified meal item, requiring the singular verb 'is'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-010",
+          "question": "Identify the correct verb: 'No passenger and no luggage ______ permitted on the runway.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "was"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "was",
+          "explanation": "When two singular subjects are preceded by 'no' or 'every', they take a singular verb ('was').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Correlative Conjunctions and Agreement",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-011",
+          "question": "Choose the correct verb: 'Neither the manager nor the employees ______ satisfied with the new policy.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "were"
+            },
+            {
+              "label": "B",
+              "text": "was"
+            },
+            {
+              "label": "C",
+              "text": "is"
+            },
+            {
+              "label": "D",
+              "text": "has been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "were",
+          "explanation": "In 'neither... nor...', the verb agrees with the subject closest to it ('the employees', plural), demanding 'were'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-012",
+          "question": "Fill in the blank: 'Either you or he ______ mistaken in this matter.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "are"
+            },
+            {
+              "label": "C",
+              "text": "am"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "is",
+          "explanation": "With 'either... or...', the verb agrees with the proximate subject ('he' = 3rd person singular), hence 'is'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-013",
+          "question": "'Not only the captain but also the sailors ______ honored for their bravery.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "were"
+            },
+            {
+              "label": "B",
+              "text": "was"
+            },
+            {
+              "label": "C",
+              "text": "is"
+            },
+            {
+              "label": "D",
+              "text": "has been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "were",
+          "explanation": "In 'not only... but also...', the verb agrees with the second noun phrase ('the sailors', plural).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-014",
+          "question": "Choose the correct sentence:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neither my brother nor I am interested in joining the corporate firm."
+            },
+            {
+              "label": "B",
+              "text": "Neither my brother nor I are interested in joining the corporate firm."
+            },
+            {
+              "label": "C",
+              "text": "Neither my brother nor I is interested in joining the corporate firm."
+            },
+            {
+              "label": "D",
+              "text": "Neither my brother nor I were interested in joining the corporate firm."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Neither my brother nor I am interested in joining the corporate firm.",
+          "explanation": "The closest subject to the verb is the first-person singular pronoun 'I', which correctly takes 'am'.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG202-MCQ-015",
+          "question": "Fill in the blank: 'Either the principal or the teachers ______ responsible for organizing the sports day.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "are"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "was"
+            },
+            {
+              "label": "D",
+              "text": "has been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "are",
+          "explanation": "'Teachers' is plural and sits immediately adjacent to the verb, so 'are' is grammatically required.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Indefinite Pronouns and Collective Nouns",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-016",
+          "question": "Choose the correct verb: 'One of my closest friends ______ a senior software architect in Silicon Valley.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "is"
+            },
+            {
+              "label": "B",
+              "text": "are"
+            },
+            {
+              "label": "C",
+              "text": "were"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "is",
+          "explanation": "The structure 'One of + plural noun' always takes a singular verb ('is') because the subject is 'One'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-017",
+          "question": "Fill in the blank: 'Everyone in the auditorium ______ standing to applaud the national anthem.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "was"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "was",
+          "explanation": "Indefinite pronouns ending in -one, -body, or -thing (everyone, somebody, anything) take singular verbs.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-018",
+          "question": "When does a collective noun like 'jury' take a PLURAL verb?",
+          "options": [
+            {
+              "label": "A",
+              "text": "When the members of the jury are divided in their individual opinions"
+            },
+            {
+              "label": "B",
+              "text": "Whenever the jury reaches a unanimous verdict"
+            },
+            {
+              "label": "C",
+              "text": "When the trial lasts more than one week"
+            },
+            {
+              "label": "D",
+              "text": "Collective nouns never take plural verbs"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "When the members of the jury are divided in their individual opinions",
+          "explanation": "A collective noun (jury, committee) takes a plural verb when its members act as separate individuals with conflicting opinions ('The jury were divided in their opinions').",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG202-MCQ-019",
+          "question": "Fill in the blank: 'Each of the participants ______ awarded a certificate of merit.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "was"
+            },
+            {
+              "label": "B",
+              "text": "were"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "have been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "was",
+          "explanation": "'Each of + plural noun' is grammatically singular and takes the singular verb 'was'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-020",
+          "question": "Choose the correct verb: 'The committee ______ submitted its unanimous annual report.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "has"
+            },
+            {
+              "label": "B",
+              "text": "have"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "has",
+          "explanation": "When a collective noun acts as a unified single body (indicated here by the pronoun 'its'), it takes a singular verb ('has').",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Tense Consistency and Time Adverbs",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-021",
+          "question": "Choose the correct form of verb: 'He just (receive) ______ the letter from the university.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "has received"
+            },
+            {
+              "label": "B",
+              "text": "received"
+            },
+            {
+              "label": "C",
+              "text": "had received"
+            },
+            {
+              "label": "D",
+              "text": "receives"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "has received",
+          "explanation": "Time adverbs like 'just', 'already', 'recently', and 'yet' typically signal the present perfect tense ('has received').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-022",
+          "question": "Fill in the blank: 'I (see) ______ him walking across the park three days ago.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "saw"
+            },
+            {
+              "label": "B",
+              "text": "have seen"
+            },
+            {
+              "label": "C",
+              "text": "had seen"
+            },
+            {
+              "label": "D",
+              "text": "see"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "saw",
+          "explanation": "Past time markers like 'ago', 'yesterday', and 'last night' require the simple past tense ('saw').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-023",
+          "question": "Complete the classic sequence: 'The patient (die) ______ before the doctor arrived.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "had died"
+            },
+            {
+              "label": "B",
+              "text": "died"
+            },
+            {
+              "label": "C",
+              "text": "has died"
+            },
+            {
+              "label": "D",
+              "text": "was dying"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "had died",
+          "explanation": "In two past actions linked by 'before', the earlier action takes the past perfect ('had died') and the subsequent action takes the simple past ('arrived').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-024",
+          "question": "'The train started after I (reach) ______ the station.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "had reached"
+            },
+            {
+              "label": "B",
+              "text": "reached"
+            },
+            {
+              "label": "C",
+              "text": "have reached"
+            },
+            {
+              "label": "D",
+              "text": "reach"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "had reached",
+          "explanation": "When two past actions are joined by 'after', the clause following 'after' takes past perfect ('had reached').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-025",
+          "question": "Fill in the blank: 'By next December, we ______ in this house for ten years.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "will have been living"
+            },
+            {
+              "label": "B",
+              "text": "will live"
+            },
+            {
+              "label": "C",
+              "text": "are living"
+            },
+            {
+              "label": "D",
+              "text": "have lived"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "will have been living",
+          "explanation": "A duration extending up to a specified future point ('By next December... for ten years') takes the future perfect continuous tense.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Conditional Sentences (Conditionals 0, 1, 2, 3)",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-026",
+          "question": "Complete the First Conditional: 'If it rains this afternoon, we ______ the match.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "will postpone"
+            },
+            {
+              "label": "B",
+              "text": "would postpone"
+            },
+            {
+              "label": "C",
+              "text": "would have postponed"
+            },
+            {
+              "label": "D",
+              "text": "postponed"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "will postpone",
+          "explanation": "In first conditionals ('If + present simple'), the principal clause takes 'will + base verb' ('will postpone').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-027",
+          "question": "Complete the Second Conditional: 'If I knew his contact number, I ______ him immediately.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "would call"
+            },
+            {
+              "label": "B",
+              "text": "will call"
+            },
+            {
+              "label": "C",
+              "text": "would have called"
+            },
+            {
+              "label": "D",
+              "text": "called"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "would call",
+          "explanation": "In second conditionals representing unreal present situations ('If + past simple'), the result clause takes 'would + base verb' ('would call').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-028",
+          "question": "Complete the Third Conditional: 'If they had invited him cordially, he ______ the celebration.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "would have attended"
+            },
+            {
+              "label": "B",
+              "text": "would attend"
+            },
+            {
+              "label": "C",
+              "text": "will attend"
+            },
+            {
+              "label": "D",
+              "text": "attended"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "would have attended",
+          "explanation": "In third conditionals representing unreal past conditions ('If + past perfect'), the consequence clause requires 'would have + past participle'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-029",
+          "question": "'Had I possessed wings like a dove, I ______ across the oceans.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "would have flown"
+            },
+            {
+              "label": "B",
+              "text": "will fly"
+            },
+            {
+              "label": "C",
+              "text": "fly"
+            },
+            {
+              "label": "D",
+              "text": "would fly"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "would have flown",
+          "explanation": "An inverted third conditional beginning with 'Had I + past participle' is completed by 'would have + past participle' ('would have flown').",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG202-MCQ-030",
+          "question": "Complete the Zero Conditional expressing scientific truth: 'If water is heated to 100 degrees Celsius, it ______.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "boils"
+            },
+            {
+              "label": "B",
+              "text": "will boil"
+            },
+            {
+              "label": "C",
+              "text": "would boil"
+            },
+            {
+              "label": "D",
+              "text": "boiled"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "boils",
+          "explanation": "Zero conditionals express scientific or universal laws; both clauses use the present simple tense ('heats... boils').",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Gerunds, Infinitives and Participles",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-031",
+          "question": "Which verb is typically followed directly by a GERUND (verb+ing) rather than an infinitive?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Avoid"
+            },
+            {
+              "label": "B",
+              "text": "Decide"
+            },
+            {
+              "label": "C",
+              "text": "Hope"
+            },
+            {
+              "label": "D",
+              "text": "Promise"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Avoid",
+          "explanation": "Verbs like 'avoid', 'enjoy', 'mind', 'deny', 'postpone', and 'admit' are followed by gerunds (e.g. 'avoid making mistakes').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-032",
+          "question": "'Would you mind ______ the window? It is quite chilly inside.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "closing"
+            },
+            {
+              "label": "B",
+              "text": "close"
+            },
+            {
+              "label": "C",
+              "text": "to close"
+            },
+            {
+              "label": "D",
+              "text": "closed"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "closing",
+          "explanation": "The polite request structure 'Would you mind...' is strictly followed by a gerund ('closing').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-033",
+          "question": "What is the difference in verb form between 'used to' and 'is used to'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'Used to' takes a base verb (past habit), whereas 'is used to' takes a gerund (accustomed to something)"
+            },
+            {
+              "label": "B",
+              "text": "'Used to' takes a past participle, 'is used to' takes an infinitive"
+            },
+            {
+              "label": "C",
+              "text": "There is no difference"
+            },
+            {
+              "label": "D",
+              "text": "'Used to' is only used in negative sentences"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'Used to' takes a base verb (past habit), whereas 'is used to' takes a gerund (accustomed to something)",
+          "explanation": "'He used to swim' (past habit + base verb) vs 'He is used to swimming' (be accustomed to + gerund).",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG202-MCQ-034",
+          "question": "Fill in the blank: 'He went to the bookstore with a view to ______ reference dictionaries.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "purchasing"
+            },
+            {
+              "label": "B",
+              "text": "purchase"
+            },
+            {
+              "label": "C",
+              "text": "purchased"
+            },
+            {
+              "label": "D",
+              "text": "to purchase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "purchasing",
+          "explanation": "'With a view to' ends in a preposition and must be followed by a gerund ('purchasing').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-035",
+          "question": "Identify the participle in: 'The barking dog rarely bites.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "barking (Present Participle acting as an adjective)"
+            },
+            {
+              "label": "B",
+              "text": "bites (Finite verb)"
+            },
+            {
+              "label": "C",
+              "text": "rarely (Adverb)"
+            },
+            {
+              "label": "D",
+              "text": "dog (Noun)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "barking (Present Participle acting as an adjective)",
+          "explanation": "'Barking' is a present participle (verb+ing) modifying the noun 'dog' as a descriptive verbal adjective.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Modal Auxiliaries and Causative Verbs",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-036",
+          "question": "Fill in the blank with the correct verb form: 'You had better ______ a doctor without further delay.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "consult"
+            },
+            {
+              "label": "B",
+              "text": "to consult"
+            },
+            {
+              "label": "C",
+              "text": "consulting"
+            },
+            {
+              "label": "D",
+              "text": "consulted"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "consult",
+          "explanation": "'Had better' behaves as a modal idiom followed by a bare infinitive (base form of verb without 'to': 'consult').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-037",
+          "question": "In causative constructions with 'make', which form of verb follows the agent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bare infinitive (base form without 'to')"
+            },
+            {
+              "label": "B",
+              "text": "Full infinitive (to + verb)"
+            },
+            {
+              "label": "C",
+              "text": "Gerund (-ing)"
+            },
+            {
+              "label": "D",
+              "text": "Past participle"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bare infinitive (base form without 'to')",
+          "explanation": "Active causative 'make' requires a bare infinitive: 'The teacher made the student apologize' (not 'to apologize').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-038",
+          "question": "'I had my automobile ______ by an expert mechanic yesterday.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "repaired"
+            },
+            {
+              "label": "B",
+              "text": "repair"
+            },
+            {
+              "label": "C",
+              "text": "to repair"
+            },
+            {
+              "label": "D",
+              "text": "repairing"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "repaired",
+          "explanation": "In passive causative 'have/get something done', when an object receives the action, the past participle ('repaired') is used.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG202-MCQ-039",
+          "question": "Fill in the blank: 'The mother let her child ______ outside in the garden.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "play"
+            },
+            {
+              "label": "B",
+              "text": "to play"
+            },
+            {
+              "label": "C",
+              "text": "playing"
+            },
+            {
+              "label": "D",
+              "text": "played"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "play",
+          "explanation": "Causative 'let' is followed by a bare infinitive ('let him play').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-040",
+          "question": "Fill in the blank: 'He got his brother ______ the heavy carton to the attic.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "to carry"
+            },
+            {
+              "label": "B",
+              "text": "carry"
+            },
+            {
+              "label": "C",
+              "text": "carrying"
+            },
+            {
+              "label": "D",
+              "text": "carried"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "to carry",
+          "explanation": "Active causative 'get' requires a full infinitive with 'to' ('get someone to do something').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Special Constructions (As If, As Though, It is high time)",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-041",
+          "question": "Complete the sentence correctly: 'He talks as if he (know) ______ everything.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "knew"
+            },
+            {
+              "label": "B",
+              "text": "knows"
+            },
+            {
+              "label": "C",
+              "text": "had known"
+            },
+            {
+              "label": "D",
+              "text": "has known"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "knew",
+          "explanation": "When the main clause is present tense ('He talks'), 'as if / as though' takes a past subjunctive ('knew' or 'were') to denote unreal pretense.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-042",
+          "question": "'He behaved as if he (be) ______ the owner of the mansion.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "were"
+            },
+            {
+              "label": "B",
+              "text": "was"
+            },
+            {
+              "label": "C",
+              "text": "is"
+            },
+            {
+              "label": "D",
+              "text": "has been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "were",
+          "explanation": "In hypothetical/unreal clauses after 'as if', the subjunctive 'were' is used for all persons and numbers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-043",
+          "question": "'He spoke as though he (witness) ______ the incident with his own eyes.' (Main clause in past tense)",
+          "options": [
+            {
+              "label": "A",
+              "text": "had witnessed"
+            },
+            {
+              "label": "B",
+              "text": "witnessed"
+            },
+            {
+              "label": "C",
+              "text": "witnesses"
+            },
+            {
+              "label": "D",
+              "text": "has witnessed"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "had witnessed",
+          "explanation": "When the main clause preceding 'as though' is in the past tense ('He spoke'), the subsequent clause takes the past perfect ('had witnessed').",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG202-MCQ-044",
+          "question": "Fill in the blank: 'It is high time we (change) ______ our corrupt habits.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "changed"
+            },
+            {
+              "label": "B",
+              "text": "change"
+            },
+            {
+              "label": "C",
+              "text": "have changed"
+            },
+            {
+              "label": "D",
+              "text": "should change"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "changed",
+          "explanation": "The idiom 'It is high time / It is time' followed by a subject clause strictly requires the simple past tense ('changed') to express urgent necessity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-045",
+          "question": "Choose the correct sentence:",
+          "options": [
+            {
+              "label": "A",
+              "text": "I wish I were a philologist studying ancient scripts."
+            },
+            {
+              "label": "B",
+              "text": "I wish I was a philologist studying ancient scripts."
+            },
+            {
+              "label": "C",
+              "text": "I wish I am a philologist studying ancient scripts."
+            },
+            {
+              "label": "D",
+              "text": "I wish I have been a philologist studying ancient scripts."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "I wish I were a philologist studying ancient scripts.",
+          "explanation": "In formal English, unreal subjunctive wishes about the present require 'were' instead of 'was'.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Passive Voice and Board Exam Passage Integration",
+      "questions": [
+        {
+          "id": "ENG202-MCQ-046",
+          "question": "Fill in the blank with the right form of verb: 'English (speak) ______ all over the world as an international lingua franca.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "is spoken"
+            },
+            {
+              "label": "B",
+              "text": "speaks"
+            },
+            {
+              "label": "C",
+              "text": "is speaking"
+            },
+            {
+              "label": "D",
+              "text": "has spoken"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "is spoken",
+          "explanation": "English does not speak itself; it is spoken by people worldwide, requiring the present simple passive 'is spoken'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-047",
+          "question": "'Paper (invent) ______ in ancient China centuries ago.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "was invented"
+            },
+            {
+              "label": "B",
+              "text": "invented"
+            },
+            {
+              "label": "C",
+              "text": "has been invented"
+            },
+            {
+              "label": "D",
+              "text": "is invented"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "was invented",
+          "explanation": "A past historical event with a passive subject takes the past simple passive ('was invented').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG202-MCQ-048",
+          "question": "'The building is currently under construction; it (complete) ______ by next December.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "will be completed"
+            },
+            {
+              "label": "B",
+              "text": "completes"
+            },
+            {
+              "label": "C",
+              "text": "is completing"
+            },
+            {
+              "label": "D",
+              "text": "completed"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "will be completed",
+          "explanation": "Future passive with specified deadline requires 'will be + past participle' ('will be completed').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-049",
+          "question": "Fill the blank in the board-style cloze text: 'Corruption must (uproot) ______ if the nation is to prosper.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "be uprooted"
+            },
+            {
+              "label": "B",
+              "text": "uproot"
+            },
+            {
+              "label": "C",
+              "text": "uprooting"
+            },
+            {
+              "label": "D",
+              "text": "have uprooted"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "be uprooted",
+          "explanation": "Modal passive construction requires 'modal + be + past participle' ('must be uprooted').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG202-MCQ-050",
+          "question": "Choose the correct sentence: 'Walk fast lest you ______ miss the morning express train.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "should"
+            },
+            {
+              "label": "B",
+              "text": "would"
+            },
+            {
+              "label": "C",
+              "text": "will"
+            },
+            {
+              "label": "D",
+              "text": "might not"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "should",
+          "explanation": "The conjunction 'lest' ('for fear that') is followed by a clause containing 'should' + base verb (or subjunctive base verb).",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

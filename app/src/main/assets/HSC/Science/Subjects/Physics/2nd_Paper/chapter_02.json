@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 2,
+  "chapter_title": "Static Electricity",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Electric charge",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ001",
+          "question": "Which statement best describes electric charge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Like electric charges repel and unlike charges attract"
+            },
+            {
+              "label": "B",
+              "text": "charges exert no force"
+            },
+            {
+              "label": "C",
+              "text": "all charges attract"
+            },
+            {
+              "label": "D",
+              "text": "all charges repel"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Like electric charges repel and unlike charges attract",
+          "explanation": "The electrostatic force is repulsive for like signs and attractive for opposite signs.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ002",
+          "question": "Which option is correctly associated with electric charge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Like electric charges repel and unlike charges attract"
+            },
+            {
+              "label": "B",
+              "text": "all charges attract"
+            },
+            {
+              "label": "C",
+              "text": "charges exert no force"
+            },
+            {
+              "label": "D",
+              "text": "all charges repel"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Like electric charges repel and unlike charges attract",
+          "explanation": "The electrostatic force is repulsive for like signs and attractive for opposite signs.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ003",
+          "question": "In a basic HSC Physics question about electric charge, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "all charges attract"
+            },
+            {
+              "label": "B",
+              "text": "all charges repel"
+            },
+            {
+              "label": "C",
+              "text": "charges exert no force"
+            },
+            {
+              "label": "D",
+              "text": "Like electric charges repel and unlike charges attract"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Like electric charges repel and unlike charges attract",
+          "explanation": "The electrostatic force is repulsive for like signs and attractive for opposite signs.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ004",
+          "question": "Which fact should be remembered about electric charge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "all charges repel"
+            },
+            {
+              "label": "B",
+              "text": "all charges attract"
+            },
+            {
+              "label": "C",
+              "text": "charges exert no force"
+            },
+            {
+              "label": "D",
+              "text": "Like electric charges repel and unlike charges attract"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Like electric charges repel and unlike charges attract",
+          "explanation": "The electrostatic force is repulsive for like signs and attractive for opposite signs.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning electric charge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "charges exert no force"
+            },
+            {
+              "label": "B",
+              "text": "all charges attract"
+            },
+            {
+              "label": "C",
+              "text": "all charges repel"
+            },
+            {
+              "label": "D",
+              "text": "Like electric charges repel and unlike charges attract"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Like electric charges repel and unlike charges attract",
+          "explanation": "The electrostatic force is repulsive for like signs and attractive for opposite signs.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Charge quantization",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ006",
+          "question": "Which statement best describes charge quantization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "any arbitrary continuous value for isolated bodies"
+            },
+            {
+              "label": "B",
+              "text": "only multiples of 2e"
+            },
+            {
+              "label": "C",
+              "text": "only positive values"
+            },
+            {
+              "label": "D",
+              "text": "Electric charge occurs in integer multiples of the elementary charge e"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electric charge occurs in integer multiples of the elementary charge e",
+          "explanation": "Q = ne, where n is an integer and e is the elementary charge magnitude.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ007",
+          "question": "Which option is correctly associated with charge quantization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only positive values"
+            },
+            {
+              "label": "B",
+              "text": "only multiples of 2e"
+            },
+            {
+              "label": "C",
+              "text": "Electric charge occurs in integer multiples of the elementary charge e"
+            },
+            {
+              "label": "D",
+              "text": "any arbitrary continuous value for isolated bodies"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electric charge occurs in integer multiples of the elementary charge e",
+          "explanation": "Q = ne, where n is an integer and e is the elementary charge magnitude.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ008",
+          "question": "In a basic HSC Physics question about charge quantization, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electric charge occurs in integer multiples of the elementary charge e"
+            },
+            {
+              "label": "B",
+              "text": "any arbitrary continuous value for isolated bodies"
+            },
+            {
+              "label": "C",
+              "text": "only positive values"
+            },
+            {
+              "label": "D",
+              "text": "only multiples of 2e"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Electric charge occurs in integer multiples of the elementary charge e",
+          "explanation": "Q = ne, where n is an integer and e is the elementary charge magnitude.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ009",
+          "question": "Which fact should be remembered about charge quantization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only multiples of 2e"
+            },
+            {
+              "label": "B",
+              "text": "any arbitrary continuous value for isolated bodies"
+            },
+            {
+              "label": "C",
+              "text": "Electric charge occurs in integer multiples of the elementary charge e"
+            },
+            {
+              "label": "D",
+              "text": "only positive values"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electric charge occurs in integer multiples of the elementary charge e",
+          "explanation": "Q = ne, where n is an integer and e is the elementary charge magnitude.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning charge quantization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "any arbitrary continuous value for isolated bodies"
+            },
+            {
+              "label": "B",
+              "text": "only multiples of 2e"
+            },
+            {
+              "label": "C",
+              "text": "Electric charge occurs in integer multiples of the elementary charge e"
+            },
+            {
+              "label": "D",
+              "text": "only positive values"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electric charge occurs in integer multiples of the elementary charge e",
+          "explanation": "Q = ne, where n is an integer and e is the elementary charge magnitude.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Coulomb's law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ011",
+          "question": "Which statement best describes coulomb's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/r"
+            },
+            {
+              "label": "B",
+              "text": "r²"
+            },
+            {
+              "label": "C",
+              "text": "r"
+            },
+            {
+              "label": "D",
+              "text": "The electrostatic force magnitude between point charges varies as 1/r²"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The electrostatic force magnitude between point charges varies as 1/r²",
+          "explanation": "Coulomb's law gives F = k|q■q■|/r² in vacuum.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ012",
+          "question": "Which option is correctly associated with coulomb's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The electrostatic force magnitude between point charges varies as 1/r²"
+            },
+            {
+              "label": "B",
+              "text": "1/r"
+            },
+            {
+              "label": "C",
+              "text": "r"
+            },
+            {
+              "label": "D",
+              "text": "r²"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The electrostatic force magnitude between point charges varies as 1/r²",
+          "explanation": "Coulomb's law gives F = k|q■q■|/r² in vacuum.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ013",
+          "question": "In a basic HSC Physics question about coulomb's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/r"
+            },
+            {
+              "label": "B",
+              "text": "r"
+            },
+            {
+              "label": "C",
+              "text": "The electrostatic force magnitude between point charges varies as 1/r²"
+            },
+            {
+              "label": "D",
+              "text": "r²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The electrostatic force magnitude between point charges varies as 1/r²",
+          "explanation": "Coulomb's law gives F = k|q■q■|/r² in vacuum.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ014",
+          "question": "Which fact should be remembered about coulomb's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/r"
+            },
+            {
+              "label": "B",
+              "text": "r"
+            },
+            {
+              "label": "C",
+              "text": "r²"
+            },
+            {
+              "label": "D",
+              "text": "The electrostatic force magnitude between point charges varies as 1/r²"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The electrostatic force magnitude between point charges varies as 1/r²",
+          "explanation": "Coulomb's law gives F = k|q■q■|/r² in vacuum.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning coulomb's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "r²"
+            },
+            {
+              "label": "B",
+              "text": "r"
+            },
+            {
+              "label": "C",
+              "text": "The electrostatic force magnitude between point charges varies as 1/r²"
+            },
+            {
+              "label": "D",
+              "text": "1/r"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The electrostatic force magnitude between point charges varies as 1/r²",
+          "explanation": "Coulomb's law gives F = k|q■q■|/r² in vacuum.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Electric field",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ016",
+          "question": "Which statement best describes electric field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force multiplied by charge"
+            },
+            {
+              "label": "B",
+              "text": "charge per unit area"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit charge"
+            },
+            {
+              "label": "D",
+              "text": "Electric field strength is force per unit positive test charge"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electric field strength is force per unit positive test charge",
+          "explanation": "E = F/q and its SI unit is N C■¹.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ017",
+          "question": "Which option is correctly associated with electric field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "Electric field strength is force per unit positive test charge"
+            },
+            {
+              "label": "C",
+              "text": "force multiplied by charge"
+            },
+            {
+              "label": "D",
+              "text": "charge per unit area"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electric field strength is force per unit positive test charge",
+          "explanation": "E = F/q and its SI unit is N C■¹.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ018",
+          "question": "In a basic HSC Physics question about electric field, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "charge per unit area"
+            },
+            {
+              "label": "B",
+              "text": "Electric field strength is force per unit positive test charge"
+            },
+            {
+              "label": "C",
+              "text": "force multiplied by charge"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit charge"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electric field strength is force per unit positive test charge",
+          "explanation": "E = F/q and its SI unit is N C■¹.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ019",
+          "question": "Which fact should be remembered about electric field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by charge"
+            },
+            {
+              "label": "C",
+              "text": "Electric field strength is force per unit positive test charge"
+            },
+            {
+              "label": "D",
+              "text": "charge per unit area"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electric field strength is force per unit positive test charge",
+          "explanation": "E = F/q and its SI unit is N C■¹.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning electric field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electric field strength is force per unit positive test charge"
+            },
+            {
+              "label": "B",
+              "text": "charge per unit area"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit charge"
+            },
+            {
+              "label": "D",
+              "text": "force multiplied by charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Electric field strength is force per unit positive test charge",
+          "explanation": "E = F/q and its SI unit is N C■¹.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Electric field direction",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ021",
+          "question": "Which statement best describes electric field direction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The electric field direction is the force direction on a positive test charge"
+            },
+            {
+              "label": "B",
+              "text": "direction of electron flow always"
+            },
+            {
+              "label": "C",
+              "text": "direction of magnetic north"
+            },
+            {
+              "label": "D",
+              "text": "force direction on a negative test charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The electric field direction is the force direction on a positive test charge",
+          "explanation": "Field direction is defined using a positive test charge.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ022",
+          "question": "Which option is correctly associated with electric field direction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The electric field direction is the force direction on a positive test charge"
+            },
+            {
+              "label": "B",
+              "text": "direction of electron flow always"
+            },
+            {
+              "label": "C",
+              "text": "direction of magnetic north"
+            },
+            {
+              "label": "D",
+              "text": "force direction on a negative test charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The electric field direction is the force direction on a positive test charge",
+          "explanation": "Field direction is defined using a positive test charge.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ023",
+          "question": "In a basic HSC Physics question about electric field direction, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "direction of magnetic north"
+            },
+            {
+              "label": "B",
+              "text": "force direction on a negative test charge"
+            },
+            {
+              "label": "C",
+              "text": "direction of electron flow always"
+            },
+            {
+              "label": "D",
+              "text": "The electric field direction is the force direction on a positive test charge"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The electric field direction is the force direction on a positive test charge",
+          "explanation": "Field direction is defined using a positive test charge.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ024",
+          "question": "Which fact should be remembered about electric field direction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "direction of electron flow always"
+            },
+            {
+              "label": "B",
+              "text": "force direction on a negative test charge"
+            },
+            {
+              "label": "C",
+              "text": "direction of magnetic north"
+            },
+            {
+              "label": "D",
+              "text": "The electric field direction is the force direction on a positive test charge"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The electric field direction is the force direction on a positive test charge",
+          "explanation": "Field direction is defined using a positive test charge.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning electric field direction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force direction on a negative test charge"
+            },
+            {
+              "label": "B",
+              "text": "The electric field direction is the force direction on a positive test charge"
+            },
+            {
+              "label": "C",
+              "text": "direction of magnetic north"
+            },
+            {
+              "label": "D",
+              "text": "direction of electron flow always"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The electric field direction is the force direction on a positive test charge",
+          "explanation": "Field direction is defined using a positive test charge.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Electric potential",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ026",
+          "question": "Which statement best describes electric potential?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "energy multiplied by charge"
+            },
+            {
+              "label": "C",
+              "text": "charge per unit energy"
+            },
+            {
+              "label": "D",
+              "text": "Electric potential is potential energy per unit charge"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electric potential is potential energy per unit charge",
+          "explanation": "V = U/q and is measured in volts.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ027",
+          "question": "Which option is correctly associated with electric potential?",
+          "options": [
+            {
+              "label": "A",
+              "text": "charge per unit energy"
+            },
+            {
+              "label": "B",
+              "text": "energy multiplied by charge"
+            },
+            {
+              "label": "C",
+              "text": "Electric potential is potential energy per unit charge"
+            },
+            {
+              "label": "D",
+              "text": "force per unit charge"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electric potential is potential energy per unit charge",
+          "explanation": "V = U/q and is measured in volts.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ028",
+          "question": "In a basic HSC Physics question about electric potential, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "charge per unit energy"
+            },
+            {
+              "label": "B",
+              "text": "Electric potential is potential energy per unit charge"
+            },
+            {
+              "label": "C",
+              "text": "energy multiplied by charge"
+            },
+            {
+              "label": "D",
+              "text": "force per unit charge"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electric potential is potential energy per unit charge",
+          "explanation": "V = U/q and is measured in volts.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ029",
+          "question": "Which fact should be remembered about electric potential?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "energy multiplied by charge"
+            },
+            {
+              "label": "C",
+              "text": "charge per unit energy"
+            },
+            {
+              "label": "D",
+              "text": "Electric potential is potential energy per unit charge"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electric potential is potential energy per unit charge",
+          "explanation": "V = U/q and is measured in volts.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning electric potential?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy multiplied by charge"
+            },
+            {
+              "label": "B",
+              "text": "force per unit charge"
+            },
+            {
+              "label": "C",
+              "text": "Electric potential is potential energy per unit charge"
+            },
+            {
+              "label": "D",
+              "text": "charge per unit energy"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electric potential is potential energy per unit charge",
+          "explanation": "V = U/q and is measured in volts.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Potential difference",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ031",
+          "question": "Which statement best describes potential difference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "one newton per metre"
+            },
+            {
+              "label": "B",
+              "text": "one coulomb per joule"
+            },
+            {
+              "label": "C",
+              "text": "one joule per second"
+            },
+            {
+              "label": "D",
+              "text": "One volt equals one joule per coulomb"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "One volt equals one joule per coulomb",
+          "explanation": "Potential difference is work or energy transferred per unit charge.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ032",
+          "question": "Which option is correctly associated with potential difference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One volt equals one joule per coulomb"
+            },
+            {
+              "label": "B",
+              "text": "one joule per second"
+            },
+            {
+              "label": "C",
+              "text": "one newton per metre"
+            },
+            {
+              "label": "D",
+              "text": "one coulomb per joule"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "One volt equals one joule per coulomb",
+          "explanation": "Potential difference is work or energy transferred per unit charge.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ033",
+          "question": "In a basic HSC Physics question about potential difference, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "one coulomb per joule"
+            },
+            {
+              "label": "B",
+              "text": "one joule per second"
+            },
+            {
+              "label": "C",
+              "text": "One volt equals one joule per coulomb"
+            },
+            {
+              "label": "D",
+              "text": "one newton per metre"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "One volt equals one joule per coulomb",
+          "explanation": "Potential difference is work or energy transferred per unit charge.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ034",
+          "question": "Which fact should be remembered about potential difference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "one newton per metre"
+            },
+            {
+              "label": "B",
+              "text": "one coulomb per joule"
+            },
+            {
+              "label": "C",
+              "text": "One volt equals one joule per coulomb"
+            },
+            {
+              "label": "D",
+              "text": "one joule per second"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "One volt equals one joule per coulomb",
+          "explanation": "Potential difference is work or energy transferred per unit charge.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning potential difference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One volt equals one joule per coulomb"
+            },
+            {
+              "label": "B",
+              "text": "one joule per second"
+            },
+            {
+              "label": "C",
+              "text": "one coulomb per joule"
+            },
+            {
+              "label": "D",
+              "text": "one newton per metre"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "One volt equals one joule per coulomb",
+          "explanation": "Potential difference is work or energy transferred per unit charge.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Capacitance",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ036",
+          "question": "Which statement best describes capacitance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "voltage per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "energy per unit mass"
+            },
+            {
+              "label": "C",
+              "text": "Capacitance is charge stored per unit potential difference"
+            },
+            {
+              "label": "D",
+              "text": "current per unit time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Capacitance is charge stored per unit potential difference",
+          "explanation": "C = Q/V and its SI unit is the farad.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ037",
+          "question": "Which option is correctly associated with capacitance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "voltage per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "current per unit time"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit mass"
+            },
+            {
+              "label": "D",
+              "text": "Capacitance is charge stored per unit potential difference"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Capacitance is charge stored per unit potential difference",
+          "explanation": "C = Q/V and its SI unit is the farad.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ038",
+          "question": "In a basic HSC Physics question about capacitance, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "voltage per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "current per unit time"
+            },
+            {
+              "label": "C",
+              "text": "Capacitance is charge stored per unit potential difference"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Capacitance is charge stored per unit potential difference",
+          "explanation": "C = Q/V and its SI unit is the farad.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ039",
+          "question": "Which fact should be remembered about capacitance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy per unit mass"
+            },
+            {
+              "label": "B",
+              "text": "Capacitance is charge stored per unit potential difference"
+            },
+            {
+              "label": "C",
+              "text": "voltage per unit charge"
+            },
+            {
+              "label": "D",
+              "text": "current per unit time"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Capacitance is charge stored per unit potential difference",
+          "explanation": "C = Q/V and its SI unit is the farad.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning capacitance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "voltage per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "Capacitance is charge stored per unit potential difference"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit mass"
+            },
+            {
+              "label": "D",
+              "text": "current per unit time"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Capacitance is charge stored per unit potential difference",
+          "explanation": "C = Q/V and its SI unit is the farad.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Parallel plate capacitor",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ041",
+          "question": "Which statement best describes parallel plate capacitor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ad/ε"
+            },
+            {
+              "label": "B",
+              "text": "ε/(Ad)"
+            },
+            {
+              "label": "C",
+              "text": "εd/A"
+            },
+            {
+              "label": "D",
+              "text": "For an ideal parallel-plate capacitor, C = εA/d"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For an ideal parallel-plate capacitor, C = εA/d",
+          "explanation": "Capacitance increases with plate area and permittivity, and decreases with separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ042",
+          "question": "Which option is correctly associated with parallel plate capacitor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ε/(Ad)"
+            },
+            {
+              "label": "B",
+              "text": "εd/A"
+            },
+            {
+              "label": "C",
+              "text": "Ad/ε"
+            },
+            {
+              "label": "D",
+              "text": "For an ideal parallel-plate capacitor, C = εA/d"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For an ideal parallel-plate capacitor, C = εA/d",
+          "explanation": "Capacitance increases with plate area and permittivity, and decreases with separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ043",
+          "question": "In a basic HSC Physics question about parallel plate capacitor, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ad/ε"
+            },
+            {
+              "label": "B",
+              "text": "εd/A"
+            },
+            {
+              "label": "C",
+              "text": "ε/(Ad)"
+            },
+            {
+              "label": "D",
+              "text": "For an ideal parallel-plate capacitor, C = εA/d"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For an ideal parallel-plate capacitor, C = εA/d",
+          "explanation": "Capacitance increases with plate area and permittivity, and decreases with separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ044",
+          "question": "Which fact should be remembered about parallel plate capacitor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "εd/A"
+            },
+            {
+              "label": "B",
+              "text": "ε/(Ad)"
+            },
+            {
+              "label": "C",
+              "text": "Ad/ε"
+            },
+            {
+              "label": "D",
+              "text": "For an ideal parallel-plate capacitor, C = εA/d"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For an ideal parallel-plate capacitor, C = εA/d",
+          "explanation": "Capacitance increases with plate area and permittivity, and decreases with separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning parallel plate capacitor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ad/ε"
+            },
+            {
+              "label": "B",
+              "text": "εd/A"
+            },
+            {
+              "label": "C",
+              "text": "ε/(Ad)"
+            },
+            {
+              "label": "D",
+              "text": "For an ideal parallel-plate capacitor, C = εA/d"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For an ideal parallel-plate capacitor, C = εA/d",
+          "explanation": "Capacitance increases with plate area and permittivity, and decreases with separation.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Gauss's law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH02_MCQ046",
+          "question": "Which statement best describes gauss's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total charge multiplied by ε■"
+            },
+            {
+              "label": "B",
+              "text": "surface area divided by charge"
+            },
+            {
+              "label": "C",
+              "text": "zero for every closed surface"
+            },
+            {
+              "label": "D",
+              "text": "The net electric flux through a closed surface equals enclosed charge divided by ε■"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The net electric flux through a closed surface equals enclosed charge divided by ε■",
+          "explanation": "Gauss's law is ■E·dA = Qenc/ε■.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ047",
+          "question": "Which option is correctly associated with gauss's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "zero for every closed surface"
+            },
+            {
+              "label": "B",
+              "text": "surface area divided by charge"
+            },
+            {
+              "label": "C",
+              "text": "total charge multiplied by ε■"
+            },
+            {
+              "label": "D",
+              "text": "The net electric flux through a closed surface equals enclosed charge divided by ε■"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The net electric flux through a closed surface equals enclosed charge divided by ε■",
+          "explanation": "Gauss's law is ■E·dA = Qenc/ε■.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ048",
+          "question": "In a basic HSC Physics question about gauss's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total charge multiplied by ε■"
+            },
+            {
+              "label": "B",
+              "text": "The net electric flux through a closed surface equals enclosed charge divided by ε■"
+            },
+            {
+              "label": "C",
+              "text": "zero for every closed surface"
+            },
+            {
+              "label": "D",
+              "text": "surface area divided by charge"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The net electric flux through a closed surface equals enclosed charge divided by ε■",
+          "explanation": "Gauss's law is ■E·dA = Qenc/ε■.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ049",
+          "question": "Which fact should be remembered about gauss's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total charge multiplied by ε■"
+            },
+            {
+              "label": "B",
+              "text": "The net electric flux through a closed surface equals enclosed charge divided by ε■"
+            },
+            {
+              "label": "C",
+              "text": "zero for every closed surface"
+            },
+            {
+              "label": "D",
+              "text": "surface area divided by charge"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The net electric flux through a closed surface equals enclosed charge divided by ε■",
+          "explanation": "Gauss's law is ■E·dA = Qenc/ε■.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH02_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning gauss's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "surface area divided by charge"
+            },
+            {
+              "label": "B",
+              "text": "zero for every closed surface"
+            },
+            {
+              "label": "C",
+              "text": "The net electric flux through a closed surface equals enclosed charge divided by ε■"
+            },
+            {
+              "label": "D",
+              "text": "total charge multiplied by ε■"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The net electric flux through a closed surface equals enclosed charge divided by ε■",
+          "explanation": "Gauss's law is ■E·dA = Qenc/ε■.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

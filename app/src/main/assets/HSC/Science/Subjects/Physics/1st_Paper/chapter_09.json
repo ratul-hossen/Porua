@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 9,
+  "chapter_title": "Waves",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Wave basics",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ001",
+          "question": "Which statement best describes wave basics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A mechanical wave transfers energy through a medium without net transport of the medium"
+            },
+            {
+              "label": "B",
+              "text": "requires no disturbance"
+            },
+            {
+              "label": "C",
+              "text": "transports the medium permanently"
+            },
+            {
+              "label": "D",
+              "text": "creates matter"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A mechanical wave transfers energy through a medium without net transport of the medium",
+          "explanation": "Particles oscillate about equilibrium while the disturbance propagates.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ002",
+          "question": "Which option is correctly associated with wave basics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "creates matter"
+            },
+            {
+              "label": "B",
+              "text": "A mechanical wave transfers energy through a medium without net transport of the medium"
+            },
+            {
+              "label": "C",
+              "text": "transports the medium permanently"
+            },
+            {
+              "label": "D",
+              "text": "requires no disturbance"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A mechanical wave transfers energy through a medium without net transport of the medium",
+          "explanation": "Particles oscillate about equilibrium while the disturbance propagates.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ003",
+          "question": "In a basic HSC Physics question about wave basics, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "requires no disturbance"
+            },
+            {
+              "label": "B",
+              "text": "A mechanical wave transfers energy through a medium without net transport of the medium"
+            },
+            {
+              "label": "C",
+              "text": "transports the medium permanently"
+            },
+            {
+              "label": "D",
+              "text": "creates matter"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A mechanical wave transfers energy through a medium without net transport of the medium",
+          "explanation": "Particles oscillate about equilibrium while the disturbance propagates.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ004",
+          "question": "Which fact should be remembered about wave basics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A mechanical wave transfers energy through a medium without net transport of the medium"
+            },
+            {
+              "label": "B",
+              "text": "creates matter"
+            },
+            {
+              "label": "C",
+              "text": "requires no disturbance"
+            },
+            {
+              "label": "D",
+              "text": "transports the medium permanently"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A mechanical wave transfers energy through a medium without net transport of the medium",
+          "explanation": "Particles oscillate about equilibrium while the disturbance propagates.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning wave basics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "requires no disturbance"
+            },
+            {
+              "label": "B",
+              "text": "A mechanical wave transfers energy through a medium without net transport of the medium"
+            },
+            {
+              "label": "C",
+              "text": "transports the medium permanently"
+            },
+            {
+              "label": "D",
+              "text": "creates matter"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A mechanical wave transfers energy through a medium without net transport of the medium",
+          "explanation": "Particles oscillate about equilibrium while the disturbance propagates.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Wave speed",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ006",
+          "question": "Which statement best describes wave speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "v = λ/f²"
+            },
+            {
+              "label": "B",
+              "text": "Wave speed is v = fλ"
+            },
+            {
+              "label": "C",
+              "text": "v = f/λ"
+            },
+            {
+              "label": "D",
+              "text": "v = f + λ"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Wave speed is v = fλ",
+          "explanation": "Speed equals frequency multiplied by wavelength.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ007",
+          "question": "Which option is correctly associated with wave speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "v = λ/f²"
+            },
+            {
+              "label": "B",
+              "text": "v = f/λ"
+            },
+            {
+              "label": "C",
+              "text": "Wave speed is v = fλ"
+            },
+            {
+              "label": "D",
+              "text": "v = f + λ"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Wave speed is v = fλ",
+          "explanation": "Speed equals frequency multiplied by wavelength.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ008",
+          "question": "In a basic HSC Physics question about wave speed, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wave speed is v = fλ"
+            },
+            {
+              "label": "B",
+              "text": "v = f/λ"
+            },
+            {
+              "label": "C",
+              "text": "v = λ/f²"
+            },
+            {
+              "label": "D",
+              "text": "v = f + λ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Wave speed is v = fλ",
+          "explanation": "Speed equals frequency multiplied by wavelength.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ009",
+          "question": "Which fact should be remembered about wave speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "v = f + λ"
+            },
+            {
+              "label": "B",
+              "text": "v = λ/f²"
+            },
+            {
+              "label": "C",
+              "text": "v = f/λ"
+            },
+            {
+              "label": "D",
+              "text": "Wave speed is v = fλ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Wave speed is v = fλ",
+          "explanation": "Speed equals frequency multiplied by wavelength.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning wave speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wave speed is v = fλ"
+            },
+            {
+              "label": "B",
+              "text": "v = f/λ"
+            },
+            {
+              "label": "C",
+              "text": "v = λ/f²"
+            },
+            {
+              "label": "D",
+              "text": "v = f + λ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Wave speed is v = fλ",
+          "explanation": "Speed equals frequency multiplied by wavelength.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Transverse waves",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ011",
+          "question": "Which statement best describes transverse waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "zero"
+            },
+            {
+              "label": "B",
+              "text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation"
+            },
+            {
+              "label": "C",
+              "text": "always circular"
+            },
+            {
+              "label": "D",
+              "text": "parallel to propagation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation",
+          "explanation": "Examples include waves on a stretched string.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ012",
+          "question": "Which option is correctly associated with transverse waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always circular"
+            },
+            {
+              "label": "B",
+              "text": "parallel to propagation"
+            },
+            {
+              "label": "C",
+              "text": "zero"
+            },
+            {
+              "label": "D",
+              "text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation",
+          "explanation": "Examples include waves on a stretched string.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ013",
+          "question": "In a basic HSC Physics question about transverse waves, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always circular"
+            },
+            {
+              "label": "B",
+              "text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation"
+            },
+            {
+              "label": "C",
+              "text": "parallel to propagation"
+            },
+            {
+              "label": "D",
+              "text": "zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation",
+          "explanation": "Examples include waves on a stretched string.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ014",
+          "question": "Which fact should be remembered about transverse waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parallel to propagation"
+            },
+            {
+              "label": "B",
+              "text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation"
+            },
+            {
+              "label": "C",
+              "text": "zero"
+            },
+            {
+              "label": "D",
+              "text": "always circular"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation",
+          "explanation": "Examples include waves on a stretched string.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning transverse waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parallel to propagation"
+            },
+            {
+              "label": "B",
+              "text": "zero"
+            },
+            {
+              "label": "C",
+              "text": "always circular"
+            },
+            {
+              "label": "D",
+              "text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a transverse wave, particle vibration is perpendicular to the direction of propagation",
+          "explanation": "Examples include waves on a stretched string.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Longitudinal waves",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ016",
+          "question": "Which statement best describes longitudinal waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation"
+            },
+            {
+              "label": "B",
+              "text": "only vertically"
+            },
+            {
+              "label": "C",
+              "text": "perpendicular to propagation"
+            },
+            {
+              "label": "D",
+              "text": "in random directions"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation",
+          "explanation": "Sound in air is a longitudinal wave with compressions and rarefactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ017",
+          "question": "Which option is correctly associated with longitudinal waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "perpendicular to propagation"
+            },
+            {
+              "label": "B",
+              "text": "only vertically"
+            },
+            {
+              "label": "C",
+              "text": "in random directions"
+            },
+            {
+              "label": "D",
+              "text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation",
+          "explanation": "Sound in air is a longitudinal wave with compressions and rarefactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ018",
+          "question": "In a basic HSC Physics question about longitudinal waves, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "perpendicular to propagation"
+            },
+            {
+              "label": "B",
+              "text": "only vertically"
+            },
+            {
+              "label": "C",
+              "text": "in random directions"
+            },
+            {
+              "label": "D",
+              "text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation",
+          "explanation": "Sound in air is a longitudinal wave with compressions and rarefactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ019",
+          "question": "Which fact should be remembered about longitudinal waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "perpendicular to propagation"
+            },
+            {
+              "label": "B",
+              "text": "only vertically"
+            },
+            {
+              "label": "C",
+              "text": "in random directions"
+            },
+            {
+              "label": "D",
+              "text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation",
+          "explanation": "Sound in air is a longitudinal wave with compressions and rarefactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning longitudinal waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "perpendicular to propagation"
+            },
+            {
+              "label": "B",
+              "text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation"
+            },
+            {
+              "label": "C",
+              "text": "only vertically"
+            },
+            {
+              "label": "D",
+              "text": "in random directions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a longitudinal wave, particles vibrate parallel to the direction of propagation",
+          "explanation": "Sound in air is a longitudinal wave with compressions and rarefactions.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Superposition",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ021",
+          "question": "Which statement best describes superposition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "waves destroy each other always"
+            },
+            {
+              "label": "B",
+              "text": "The principle of superposition states that overlapping wave displacements add algebraically"
+            },
+            {
+              "label": "C",
+              "text": "wave speeds must add"
+            },
+            {
+              "label": "D",
+              "text": "frequency becomes zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The principle of superposition states that overlapping wave displacements add algebraically",
+          "explanation": "The resultant displacement is the sum of individual displacements.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ022",
+          "question": "Which option is correctly associated with superposition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "waves destroy each other always"
+            },
+            {
+              "label": "B",
+              "text": "wave speeds must add"
+            },
+            {
+              "label": "C",
+              "text": "The principle of superposition states that overlapping wave displacements add algebraically"
+            },
+            {
+              "label": "D",
+              "text": "frequency becomes zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The principle of superposition states that overlapping wave displacements add algebraically",
+          "explanation": "The resultant displacement is the sum of individual displacements.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ023",
+          "question": "In a basic HSC Physics question about superposition, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "wave speeds must add"
+            },
+            {
+              "label": "B",
+              "text": "waves destroy each other always"
+            },
+            {
+              "label": "C",
+              "text": "The principle of superposition states that overlapping wave displacements add algebraically"
+            },
+            {
+              "label": "D",
+              "text": "frequency becomes zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The principle of superposition states that overlapping wave displacements add algebraically",
+          "explanation": "The resultant displacement is the sum of individual displacements.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ024",
+          "question": "Which fact should be remembered about superposition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "wave speeds must add"
+            },
+            {
+              "label": "B",
+              "text": "The principle of superposition states that overlapping wave displacements add algebraically"
+            },
+            {
+              "label": "C",
+              "text": "waves destroy each other always"
+            },
+            {
+              "label": "D",
+              "text": "frequency becomes zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The principle of superposition states that overlapping wave displacements add algebraically",
+          "explanation": "The resultant displacement is the sum of individual displacements.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning superposition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "waves destroy each other always"
+            },
+            {
+              "label": "B",
+              "text": "wave speeds must add"
+            },
+            {
+              "label": "C",
+              "text": "The principle of superposition states that overlapping wave displacements add algebraically"
+            },
+            {
+              "label": "D",
+              "text": "frequency becomes zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The principle of superposition states that overlapping wave displacements add algebraically",
+          "explanation": "The resultant displacement is the sum of individual displacements.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Interference",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ026",
+          "question": "Which statement best describes interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Constructive interference occurs when waves arrive in phase"
+            },
+            {
+              "label": "B",
+              "text": "with unrelated directions only"
+            },
+            {
+              "label": "C",
+              "text": "with zero amplitude"
+            },
+            {
+              "label": "D",
+              "text": "exactly out of phase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Constructive interference occurs when waves arrive in phase",
+          "explanation": "In-phase waves reinforce one another.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ027",
+          "question": "Which option is correctly associated with interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "with unrelated directions only"
+            },
+            {
+              "label": "B",
+              "text": "exactly out of phase"
+            },
+            {
+              "label": "C",
+              "text": "with zero amplitude"
+            },
+            {
+              "label": "D",
+              "text": "Constructive interference occurs when waves arrive in phase"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Constructive interference occurs when waves arrive in phase",
+          "explanation": "In-phase waves reinforce one another.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ028",
+          "question": "In a basic HSC Physics question about interference, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "with unrelated directions only"
+            },
+            {
+              "label": "B",
+              "text": "exactly out of phase"
+            },
+            {
+              "label": "C",
+              "text": "with zero amplitude"
+            },
+            {
+              "label": "D",
+              "text": "Constructive interference occurs when waves arrive in phase"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Constructive interference occurs when waves arrive in phase",
+          "explanation": "In-phase waves reinforce one another.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ029",
+          "question": "Which fact should be remembered about interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "exactly out of phase"
+            },
+            {
+              "label": "B",
+              "text": "with unrelated directions only"
+            },
+            {
+              "label": "C",
+              "text": "Constructive interference occurs when waves arrive in phase"
+            },
+            {
+              "label": "D",
+              "text": "with zero amplitude"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Constructive interference occurs when waves arrive in phase",
+          "explanation": "In-phase waves reinforce one another.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "with unrelated directions only"
+            },
+            {
+              "label": "B",
+              "text": "with zero amplitude"
+            },
+            {
+              "label": "C",
+              "text": "exactly out of phase"
+            },
+            {
+              "label": "D",
+              "text": "Constructive interference occurs when waves arrive in phase"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Constructive interference occurs when waves arrive in phase",
+          "explanation": "In-phase waves reinforce one another.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Standing waves",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ031",
+          "question": "Which statement best describes standing waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "maximum wave speed"
+            },
+            {
+              "label": "B",
+              "text": "A node is a point of zero displacement in a standing wave"
+            },
+            {
+              "label": "C",
+              "text": "maximum displacement"
+            },
+            {
+              "label": "D",
+              "text": "a point where frequency is zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A node is a point of zero displacement in a standing wave",
+          "explanation": "Destructive interference creates fixed nodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ032",
+          "question": "Which option is correctly associated with standing waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a point where frequency is zero"
+            },
+            {
+              "label": "B",
+              "text": "maximum displacement"
+            },
+            {
+              "label": "C",
+              "text": "A node is a point of zero displacement in a standing wave"
+            },
+            {
+              "label": "D",
+              "text": "maximum wave speed"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A node is a point of zero displacement in a standing wave",
+          "explanation": "Destructive interference creates fixed nodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ033",
+          "question": "In a basic HSC Physics question about standing waves, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a point where frequency is zero"
+            },
+            {
+              "label": "B",
+              "text": "A node is a point of zero displacement in a standing wave"
+            },
+            {
+              "label": "C",
+              "text": "maximum displacement"
+            },
+            {
+              "label": "D",
+              "text": "maximum wave speed"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A node is a point of zero displacement in a standing wave",
+          "explanation": "Destructive interference creates fixed nodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ034",
+          "question": "Which fact should be remembered about standing waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "maximum displacement"
+            },
+            {
+              "label": "B",
+              "text": "maximum wave speed"
+            },
+            {
+              "label": "C",
+              "text": "a point where frequency is zero"
+            },
+            {
+              "label": "D",
+              "text": "A node is a point of zero displacement in a standing wave"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A node is a point of zero displacement in a standing wave",
+          "explanation": "Destructive interference creates fixed nodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning standing waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A node is a point of zero displacement in a standing wave"
+            },
+            {
+              "label": "B",
+              "text": "a point where frequency is zero"
+            },
+            {
+              "label": "C",
+              "text": "maximum wave speed"
+            },
+            {
+              "label": "D",
+              "text": "maximum displacement"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A node is a point of zero displacement in a standing wave",
+          "explanation": "Destructive interference creates fixed nodes.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sound intensity",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ036",
+          "question": "Which statement best describes sound intensity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure multiplied by wavelength"
+            },
+            {
+              "label": "B",
+              "text": "energy per unit volume only"
+            },
+            {
+              "label": "C",
+              "text": "frequency per unit time"
+            },
+            {
+              "label": "D",
+              "text": "Sound intensity is power transmitted per unit area"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Sound intensity is power transmitted per unit area",
+          "explanation": "Intensity has SI unit W m■².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ037",
+          "question": "Which option is correctly associated with sound intensity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sound intensity is power transmitted per unit area"
+            },
+            {
+              "label": "B",
+              "text": "energy per unit volume only"
+            },
+            {
+              "label": "C",
+              "text": "frequency per unit time"
+            },
+            {
+              "label": "D",
+              "text": "pressure multiplied by wavelength"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Sound intensity is power transmitted per unit area",
+          "explanation": "Intensity has SI unit W m■².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ038",
+          "question": "In a basic HSC Physics question about sound intensity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure multiplied by wavelength"
+            },
+            {
+              "label": "B",
+              "text": "energy per unit volume only"
+            },
+            {
+              "label": "C",
+              "text": "Sound intensity is power transmitted per unit area"
+            },
+            {
+              "label": "D",
+              "text": "frequency per unit time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Sound intensity is power transmitted per unit area",
+          "explanation": "Intensity has SI unit W m■².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ039",
+          "question": "Which fact should be remembered about sound intensity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy per unit volume only"
+            },
+            {
+              "label": "B",
+              "text": "pressure multiplied by wavelength"
+            },
+            {
+              "label": "C",
+              "text": "frequency per unit time"
+            },
+            {
+              "label": "D",
+              "text": "Sound intensity is power transmitted per unit area"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Sound intensity is power transmitted per unit area",
+          "explanation": "Intensity has SI unit W m■².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning sound intensity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure multiplied by wavelength"
+            },
+            {
+              "label": "B",
+              "text": "Sound intensity is power transmitted per unit area"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit volume only"
+            },
+            {
+              "label": "D",
+              "text": "frequency per unit time"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Sound intensity is power transmitted per unit area",
+          "explanation": "Intensity has SI unit W m■².",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Doppler effect",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ041",
+          "question": "Which statement best describes doppler effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Doppler effect is the observed change in frequency due to relative motion of source and observer"
+            },
+            {
+              "label": "B",
+              "text": "change in wave speed due only to amplitude"
+            },
+            {
+              "label": "C",
+              "text": "conversion of sound to light"
+            },
+            {
+              "label": "D",
+              "text": "reflection of all waves"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Doppler effect is the observed change in frequency due to relative motion of source and",
+          "explanation": "Relative motion changes the rate at which wavefronts are encountered.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ042",
+          "question": "Which option is correctly associated with doppler effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "change in wave speed due only to amplitude"
+            },
+            {
+              "label": "B",
+              "text": "conversion of sound to light"
+            },
+            {
+              "label": "C",
+              "text": "The Doppler effect is the observed change in frequency due to relative motion of source and observer"
+            },
+            {
+              "label": "D",
+              "text": "reflection of all waves"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The Doppler effect is the observed change in frequency due to relative motion of source and",
+          "explanation": "Relative motion changes the rate at which wavefronts are encountered.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ043",
+          "question": "In a basic HSC Physics question about doppler effect, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Doppler effect is the observed change in frequency due to relative motion of source and observer"
+            },
+            {
+              "label": "B",
+              "text": "change in wave speed due only to amplitude"
+            },
+            {
+              "label": "C",
+              "text": "reflection of all waves"
+            },
+            {
+              "label": "D",
+              "text": "conversion of sound to light"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Doppler effect is the observed change in frequency due to relative motion of source and",
+          "explanation": "Relative motion changes the rate at which wavefronts are encountered.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ044",
+          "question": "Which fact should be remembered about doppler effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Doppler effect is the observed change in frequency due to relative motion of source and observer"
+            },
+            {
+              "label": "B",
+              "text": "change in wave speed due only to amplitude"
+            },
+            {
+              "label": "C",
+              "text": "reflection of all waves"
+            },
+            {
+              "label": "D",
+              "text": "conversion of sound to light"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Doppler effect is the observed change in frequency due to relative motion of source and",
+          "explanation": "Relative motion changes the rate at which wavefronts are encountered.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning doppler effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflection of all waves"
+            },
+            {
+              "label": "B",
+              "text": "change in wave speed due only to amplitude"
+            },
+            {
+              "label": "C",
+              "text": "The Doppler effect is the observed change in frequency due to relative motion of source and observer"
+            },
+            {
+              "label": "D",
+              "text": "conversion of sound to light"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The Doppler effect is the observed change in frequency due to relative motion of source and",
+          "explanation": "Relative motion changes the rate at which wavefronts are encountered.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Resonance",
+      "questions": [
+        {
+          "id": "PHY_1P_CH09_MCQ046",
+          "question": "Which statement best describes resonance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "driving frequency is zero"
+            },
+            {
+              "label": "B",
+              "text": "Resonance occurs when a system is driven near its natural frequency"
+            },
+            {
+              "label": "C",
+              "text": "the system has no natural frequency"
+            },
+            {
+              "label": "D",
+              "text": "damping is infinite"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Resonance occurs when a system is driven near its natural frequency",
+          "explanation": "Near resonance, energy transfer and response amplitude can become large.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ047",
+          "question": "Which option is correctly associated with resonance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "damping is infinite"
+            },
+            {
+              "label": "B",
+              "text": "driving frequency is zero"
+            },
+            {
+              "label": "C",
+              "text": "the system has no natural frequency"
+            },
+            {
+              "label": "D",
+              "text": "Resonance occurs when a system is driven near its natural frequency"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Resonance occurs when a system is driven near its natural frequency",
+          "explanation": "Near resonance, energy transfer and response amplitude can become large.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ048",
+          "question": "In a basic HSC Physics question about resonance, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Resonance occurs when a system is driven near its natural frequency"
+            },
+            {
+              "label": "B",
+              "text": "driving frequency is zero"
+            },
+            {
+              "label": "C",
+              "text": "the system has no natural frequency"
+            },
+            {
+              "label": "D",
+              "text": "damping is infinite"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Resonance occurs when a system is driven near its natural frequency",
+          "explanation": "Near resonance, energy transfer and response amplitude can become large.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ049",
+          "question": "Which fact should be remembered about resonance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the system has no natural frequency"
+            },
+            {
+              "label": "B",
+              "text": "Resonance occurs when a system is driven near its natural frequency"
+            },
+            {
+              "label": "C",
+              "text": "driving frequency is zero"
+            },
+            {
+              "label": "D",
+              "text": "damping is infinite"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Resonance occurs when a system is driven near its natural frequency",
+          "explanation": "Near resonance, energy transfer and response amplitude can become large.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH09_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning resonance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "damping is infinite"
+            },
+            {
+              "label": "B",
+              "text": "the system has no natural frequency"
+            },
+            {
+              "label": "C",
+              "text": "driving frequency is zero"
+            },
+            {
+              "label": "D",
+              "text": "Resonance occurs when a system is driven near its natural frequency"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Resonance occurs when a system is driven near its natural frequency",
+          "explanation": "Near resonance, energy transfer and response amplitude can become large.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

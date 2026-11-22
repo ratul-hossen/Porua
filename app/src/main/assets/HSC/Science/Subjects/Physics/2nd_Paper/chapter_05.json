@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 5,
+  "chapter_title": "Electromagnetic Induction and",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Magnetic induction",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ001",
+          "question": "Which statement best describes magnetic induction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "production of charge from mass"
+            },
+            {
+              "label": "B",
+              "text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage"
+            },
+            {
+              "label": "C",
+              "text": "heating a wire only"
+            },
+            {
+              "label": "D",
+              "text": "static charge at rest"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage",
+          "explanation": "A changing flux through a circuit induces an emf.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ002",
+          "question": "Which option is correctly associated with magnetic induction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heating a wire only"
+            },
+            {
+              "label": "B",
+              "text": "production of charge from mass"
+            },
+            {
+              "label": "C",
+              "text": "static charge at rest"
+            },
+            {
+              "label": "D",
+              "text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage",
+          "explanation": "A changing flux through a circuit induces an emf.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ003",
+          "question": "In a basic HSC Physics question about magnetic induction, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heating a wire only"
+            },
+            {
+              "label": "B",
+              "text": "production of charge from mass"
+            },
+            {
+              "label": "C",
+              "text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage"
+            },
+            {
+              "label": "D",
+              "text": "static charge at rest"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage",
+          "explanation": "A changing flux through a circuit induces an emf.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ004",
+          "question": "Which fact should be remembered about magnetic induction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "static charge at rest"
+            },
+            {
+              "label": "B",
+              "text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage"
+            },
+            {
+              "label": "C",
+              "text": "heating a wire only"
+            },
+            {
+              "label": "D",
+              "text": "production of charge from mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage",
+          "explanation": "A changing flux through a circuit induces an emf.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning magnetic induction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "production of charge from mass"
+            },
+            {
+              "label": "B",
+              "text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage"
+            },
+            {
+              "label": "C",
+              "text": "static charge at rest"
+            },
+            {
+              "label": "D",
+              "text": "heating a wire only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electromagnetic induction is the production of emf by a changing magnetic flux linkage",
+          "explanation": "A changing flux through a circuit induces an emf.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Faraday's law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ006",
+          "question": "Which statement best describes faraday's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the flux value only"
+            },
+            {
+              "label": "B",
+              "text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage"
+            },
+            {
+              "label": "C",
+              "text": "the resistance only"
+            },
+            {
+              "label": "D",
+              "text": "the wire's mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage",
+          "explanation": "For N turns, ε = −N dΦ/dt.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ007",
+          "question": "Which option is correctly associated with faraday's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the flux value only"
+            },
+            {
+              "label": "B",
+              "text": "the resistance only"
+            },
+            {
+              "label": "C",
+              "text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage"
+            },
+            {
+              "label": "D",
+              "text": "the wire's mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage",
+          "explanation": "For N turns, ε = −N dΦ/dt.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ008",
+          "question": "In a basic HSC Physics question about faraday's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the resistance only"
+            },
+            {
+              "label": "B",
+              "text": "the flux value only"
+            },
+            {
+              "label": "C",
+              "text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage"
+            },
+            {
+              "label": "D",
+              "text": "the wire's mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage",
+          "explanation": "For N turns, ε = −N dΦ/dt.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ009",
+          "question": "Which fact should be remembered about faraday's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the flux value only"
+            },
+            {
+              "label": "B",
+              "text": "the resistance only"
+            },
+            {
+              "label": "C",
+              "text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage"
+            },
+            {
+              "label": "D",
+              "text": "the wire's mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage",
+          "explanation": "For N turns, ε = −N dΦ/dt.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning faraday's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the wire's mass"
+            },
+            {
+              "label": "B",
+              "text": "the resistance only"
+            },
+            {
+              "label": "C",
+              "text": "the flux value only"
+            },
+            {
+              "label": "D",
+              "text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The induced emf magnitude is proportional to the rate of change of magnetic flux linkage",
+          "explanation": "For N turns, ε = −N dΦ/dt.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Lenz's law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ011",
+          "question": "Which statement best describes lenz's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is independent of flux change"
+            },
+            {
+              "label": "B",
+              "text": "always aids the change"
+            },
+            {
+              "label": "C",
+              "text": "The induced current acts in a direction that opposes the change producing it"
+            },
+            {
+              "label": "D",
+              "text": "always flows clockwise"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The induced current acts in a direction that opposes the change producing it",
+          "explanation": "The negative sign in Faraday's law represents Lenz's law and energy conservation.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ012",
+          "question": "Which option is correctly associated with lenz's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always flows clockwise"
+            },
+            {
+              "label": "B",
+              "text": "always aids the change"
+            },
+            {
+              "label": "C",
+              "text": "The induced current acts in a direction that opposes the change producing it"
+            },
+            {
+              "label": "D",
+              "text": "is independent of flux change"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The induced current acts in a direction that opposes the change producing it",
+          "explanation": "The negative sign in Faraday's law represents Lenz's law and energy conservation.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ013",
+          "question": "In a basic HSC Physics question about lenz's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always flows clockwise"
+            },
+            {
+              "label": "B",
+              "text": "The induced current acts in a direction that opposes the change producing it"
+            },
+            {
+              "label": "C",
+              "text": "always aids the change"
+            },
+            {
+              "label": "D",
+              "text": "is independent of flux change"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The induced current acts in a direction that opposes the change producing it",
+          "explanation": "The negative sign in Faraday's law represents Lenz's law and energy conservation.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ014",
+          "question": "Which fact should be remembered about lenz's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always flows clockwise"
+            },
+            {
+              "label": "B",
+              "text": "is independent of flux change"
+            },
+            {
+              "label": "C",
+              "text": "The induced current acts in a direction that opposes the change producing it"
+            },
+            {
+              "label": "D",
+              "text": "always aids the change"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The induced current acts in a direction that opposes the change producing it",
+          "explanation": "The negative sign in Faraday's law represents Lenz's law and energy conservation.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning lenz's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The induced current acts in a direction that opposes the change producing it"
+            },
+            {
+              "label": "B",
+              "text": "is independent of flux change"
+            },
+            {
+              "label": "C",
+              "text": "always flows clockwise"
+            },
+            {
+              "label": "D",
+              "text": "always aids the change"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The induced current acts in a direction that opposes the change producing it",
+          "explanation": "The negative sign in Faraday's law represents Lenz's law and energy conservation.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Motional emf",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ016",
+          "question": "Which statement best describes motional emf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bv/L"
+            },
+            {
+              "label": "B",
+              "text": "BL/v"
+            },
+            {
+              "label": "C",
+              "text": "B/Lv"
+            },
+            {
+              "label": "D",
+              "text": "A rod of length L moving perpendicular to B with speed v has emf BLv"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A rod of length L moving perpendicular to B with speed v has emf BLv",
+          "explanation": "For perpendicular motion and field, motional emf is ε = BLv.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ017",
+          "question": "Which option is correctly associated with motional emf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bv/L"
+            },
+            {
+              "label": "B",
+              "text": "A rod of length L moving perpendicular to B with speed v has emf BLv"
+            },
+            {
+              "label": "C",
+              "text": "B/Lv"
+            },
+            {
+              "label": "D",
+              "text": "BL/v"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A rod of length L moving perpendicular to B with speed v has emf BLv",
+          "explanation": "For perpendicular motion and field, motional emf is ε = BLv.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ018",
+          "question": "In a basic HSC Physics question about motional emf, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A rod of length L moving perpendicular to B with speed v has emf BLv"
+            },
+            {
+              "label": "B",
+              "text": "Bv/L"
+            },
+            {
+              "label": "C",
+              "text": "BL/v"
+            },
+            {
+              "label": "D",
+              "text": "B/Lv"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A rod of length L moving perpendicular to B with speed v has emf BLv",
+          "explanation": "For perpendicular motion and field, motional emf is ε = BLv.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ019",
+          "question": "Which fact should be remembered about motional emf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bv/L"
+            },
+            {
+              "label": "B",
+              "text": "B/Lv"
+            },
+            {
+              "label": "C",
+              "text": "BL/v"
+            },
+            {
+              "label": "D",
+              "text": "A rod of length L moving perpendicular to B with speed v has emf BLv"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A rod of length L moving perpendicular to B with speed v has emf BLv",
+          "explanation": "For perpendicular motion and field, motional emf is ε = BLv.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning motional emf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bv/L"
+            },
+            {
+              "label": "B",
+              "text": "BL/v"
+            },
+            {
+              "label": "C",
+              "text": "B/Lv"
+            },
+            {
+              "label": "D",
+              "text": "A rod of length L moving perpendicular to B with speed v has emf BLv"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A rod of length L moving perpendicular to B with speed v has emf BLv",
+          "explanation": "For perpendicular motion and field, motional emf is ε = BLv.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Self-inductance",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ021",
+          "question": "Which statement best describes self-inductance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "capacitance per unit area"
+            },
+            {
+              "label": "B",
+              "text": "resistance to charge"
+            },
+            {
+              "label": "C",
+              "text": "Self-inductance measures the induced emf response to a changing current in the same circuit"
+            },
+            {
+              "label": "D",
+              "text": "magnetic force per unit mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Self-inductance measures the induced emf response to a changing current in the same circuit",
+          "explanation": "The induced emf is ε = −L dI/dt.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ022",
+          "question": "Which option is correctly associated with self-inductance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "capacitance per unit area"
+            },
+            {
+              "label": "B",
+              "text": "Self-inductance measures the induced emf response to a changing current in the same circuit"
+            },
+            {
+              "label": "C",
+              "text": "resistance to charge"
+            },
+            {
+              "label": "D",
+              "text": "magnetic force per unit mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Self-inductance measures the induced emf response to a changing current in the same circuit",
+          "explanation": "The induced emf is ε = −L dI/dt.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ023",
+          "question": "In a basic HSC Physics question about self-inductance, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Self-inductance measures the induced emf response to a changing current in the same circuit"
+            },
+            {
+              "label": "B",
+              "text": "capacitance per unit area"
+            },
+            {
+              "label": "C",
+              "text": "resistance to charge"
+            },
+            {
+              "label": "D",
+              "text": "magnetic force per unit mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Self-inductance measures the induced emf response to a changing current in the same circuit",
+          "explanation": "The induced emf is ε = −L dI/dt.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ024",
+          "question": "Which fact should be remembered about self-inductance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "magnetic force per unit mass"
+            },
+            {
+              "label": "B",
+              "text": "resistance to charge"
+            },
+            {
+              "label": "C",
+              "text": "capacitance per unit area"
+            },
+            {
+              "label": "D",
+              "text": "Self-inductance measures the induced emf response to a changing current in the same circuit"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Self-inductance measures the induced emf response to a changing current in the same circuit",
+          "explanation": "The induced emf is ε = −L dI/dt.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning self-inductance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Self-inductance measures the induced emf response to a changing current in the same circuit"
+            },
+            {
+              "label": "B",
+              "text": "magnetic force per unit mass"
+            },
+            {
+              "label": "C",
+              "text": "capacitance per unit area"
+            },
+            {
+              "label": "D",
+              "text": "resistance to charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Self-inductance measures the induced emf response to a changing current in the same circuit",
+          "explanation": "The induced emf is ε = −L dI/dt.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Transformer",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ026",
+          "question": "Which statement best describes transformer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An ideal transformer obeys Vs/Vp = Ns/Np"
+            },
+            {
+              "label": "B",
+              "text": "Vs/Vp = Np/Ns"
+            },
+            {
+              "label": "C",
+              "text": "Vs + Vp = Ns + Np"
+            },
+            {
+              "label": "D",
+              "text": "VsVp = NsNp"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An ideal transformer obeys Vs/Vp = Ns/Np",
+          "explanation": "The voltage ratio equals the turns ratio for an ideal transformer.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ027",
+          "question": "Which option is correctly associated with transformer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "VsVp = NsNp"
+            },
+            {
+              "label": "B",
+              "text": "Vs + Vp = Ns + Np"
+            },
+            {
+              "label": "C",
+              "text": "An ideal transformer obeys Vs/Vp = Ns/Np"
+            },
+            {
+              "label": "D",
+              "text": "Vs/Vp = Np/Ns"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An ideal transformer obeys Vs/Vp = Ns/Np",
+          "explanation": "The voltage ratio equals the turns ratio for an ideal transformer.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ028",
+          "question": "In a basic HSC Physics question about transformer, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An ideal transformer obeys Vs/Vp = Ns/Np"
+            },
+            {
+              "label": "B",
+              "text": "Vs + Vp = Ns + Np"
+            },
+            {
+              "label": "C",
+              "text": "Vs/Vp = Np/Ns"
+            },
+            {
+              "label": "D",
+              "text": "VsVp = NsNp"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An ideal transformer obeys Vs/Vp = Ns/Np",
+          "explanation": "The voltage ratio equals the turns ratio for an ideal transformer.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ029",
+          "question": "Which fact should be remembered about transformer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Vs + Vp = Ns + Np"
+            },
+            {
+              "label": "B",
+              "text": "An ideal transformer obeys Vs/Vp = Ns/Np"
+            },
+            {
+              "label": "C",
+              "text": "VsVp = NsNp"
+            },
+            {
+              "label": "D",
+              "text": "Vs/Vp = Np/Ns"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "An ideal transformer obeys Vs/Vp = Ns/Np",
+          "explanation": "The voltage ratio equals the turns ratio for an ideal transformer.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning transformer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Vs + Vp = Ns + Np"
+            },
+            {
+              "label": "B",
+              "text": "VsVp = NsNp"
+            },
+            {
+              "label": "C",
+              "text": "An ideal transformer obeys Vs/Vp = Ns/Np"
+            },
+            {
+              "label": "D",
+              "text": "Vs/Vp = Np/Ns"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An ideal transformer obeys Vs/Vp = Ns/Np",
+          "explanation": "The voltage ratio equals the turns ratio for an ideal transformer.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "AC frequency",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ031",
+          "question": "Which statement best describes ac frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance per second"
+            },
+            {
+              "label": "B",
+              "text": "The frequency of an alternating current is the number of cycles per second"
+            },
+            {
+              "label": "C",
+              "text": "peak current"
+            },
+            {
+              "label": "D",
+              "text": "mean current per cycle"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The frequency of an alternating current is the number of cycles per second",
+          "explanation": "Frequency is measured in hertz.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ032",
+          "question": "Which option is correctly associated with ac frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The frequency of an alternating current is the number of cycles per second"
+            },
+            {
+              "label": "B",
+              "text": "resistance per second"
+            },
+            {
+              "label": "C",
+              "text": "peak current"
+            },
+            {
+              "label": "D",
+              "text": "mean current per cycle"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The frequency of an alternating current is the number of cycles per second",
+          "explanation": "Frequency is measured in hertz.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ033",
+          "question": "In a basic HSC Physics question about ac frequency, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The frequency of an alternating current is the number of cycles per second"
+            },
+            {
+              "label": "B",
+              "text": "peak current"
+            },
+            {
+              "label": "C",
+              "text": "mean current per cycle"
+            },
+            {
+              "label": "D",
+              "text": "resistance per second"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The frequency of an alternating current is the number of cycles per second",
+          "explanation": "Frequency is measured in hertz.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ034",
+          "question": "Which fact should be remembered about ac frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peak current"
+            },
+            {
+              "label": "B",
+              "text": "resistance per second"
+            },
+            {
+              "label": "C",
+              "text": "The frequency of an alternating current is the number of cycles per second"
+            },
+            {
+              "label": "D",
+              "text": "mean current per cycle"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The frequency of an alternating current is the number of cycles per second",
+          "explanation": "Frequency is measured in hertz.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning ac frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance per second"
+            },
+            {
+              "label": "B",
+              "text": "mean current per cycle"
+            },
+            {
+              "label": "C",
+              "text": "The frequency of an alternating current is the number of cycles per second"
+            },
+            {
+              "label": "D",
+              "text": "peak current"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The frequency of an alternating current is the number of cycles per second",
+          "explanation": "Frequency is measured in hertz.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "RMS value",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ036",
+          "question": "Which statement best describes rms value?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2"
+            },
+            {
+              "label": "B",
+              "text": "Vpeak/2"
+            },
+            {
+              "label": "C",
+              "text": "2Vpeak"
+            },
+            {
+              "label": "D",
+              "text": "√2 Vpeak"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2",
+          "explanation": "The RMS value produces the same heating effect as an equivalent DC voltage in a resistor.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ037",
+          "question": "Which option is correctly associated with rms value?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Vpeak/2"
+            },
+            {
+              "label": "B",
+              "text": "√2 Vpeak"
+            },
+            {
+              "label": "C",
+              "text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2"
+            },
+            {
+              "label": "D",
+              "text": "2Vpeak"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2",
+          "explanation": "The RMS value produces the same heating effect as an equivalent DC voltage in a resistor.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ038",
+          "question": "In a basic HSC Physics question about rms value, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Vpeak/2"
+            },
+            {
+              "label": "B",
+              "text": "2Vpeak"
+            },
+            {
+              "label": "C",
+              "text": "√2 Vpeak"
+            },
+            {
+              "label": "D",
+              "text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2",
+          "explanation": "The RMS value produces the same heating effect as an equivalent DC voltage in a resistor.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ039",
+          "question": "Which fact should be remembered about rms value?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2"
+            },
+            {
+              "label": "B",
+              "text": "√2 Vpeak"
+            },
+            {
+              "label": "C",
+              "text": "2Vpeak"
+            },
+            {
+              "label": "D",
+              "text": "Vpeak/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2",
+          "explanation": "The RMS value produces the same heating effect as an equivalent DC voltage in a resistor.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning rms value?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Vpeak/2"
+            },
+            {
+              "label": "B",
+              "text": "2Vpeak"
+            },
+            {
+              "label": "C",
+              "text": "√2 Vpeak"
+            },
+            {
+              "label": "D",
+              "text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a sinusoidal AC voltage, Vrms = Vpeak/√2",
+          "explanation": "The RMS value produces the same heating effect as an equivalent DC voltage in a resistor.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Reactance",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ041",
+          "question": "Which statement best describes reactance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ω/L"
+            },
+            {
+              "label": "B",
+              "text": "L/ω²"
+            },
+            {
+              "label": "C",
+              "text": "Inductive reactance is XL = ωL"
+            },
+            {
+              "label": "D",
+              "text": "1/ωL"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Inductive reactance is XL = ωL",
+          "explanation": "Inductive reactance increases with angular frequency and inductance.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ042",
+          "question": "Which option is correctly associated with reactance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/ωL"
+            },
+            {
+              "label": "B",
+              "text": "ω/L"
+            },
+            {
+              "label": "C",
+              "text": "Inductive reactance is XL = ωL"
+            },
+            {
+              "label": "D",
+              "text": "L/ω²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Inductive reactance is XL = ωL",
+          "explanation": "Inductive reactance increases with angular frequency and inductance.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ043",
+          "question": "In a basic HSC Physics question about reactance, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "L/ω²"
+            },
+            {
+              "label": "B",
+              "text": "Inductive reactance is XL = ωL"
+            },
+            {
+              "label": "C",
+              "text": "ω/L"
+            },
+            {
+              "label": "D",
+              "text": "1/ωL"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Inductive reactance is XL = ωL",
+          "explanation": "Inductive reactance increases with angular frequency and inductance.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ044",
+          "question": "Which fact should be remembered about reactance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "L/ω²"
+            },
+            {
+              "label": "B",
+              "text": "ω/L"
+            },
+            {
+              "label": "C",
+              "text": "Inductive reactance is XL = ωL"
+            },
+            {
+              "label": "D",
+              "text": "1/ωL"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Inductive reactance is XL = ωL",
+          "explanation": "Inductive reactance increases with angular frequency and inductance.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning reactance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "L/ω²"
+            },
+            {
+              "label": "B",
+              "text": "Inductive reactance is XL = ωL"
+            },
+            {
+              "label": "C",
+              "text": "1/ωL"
+            },
+            {
+              "label": "D",
+              "text": "ω/L"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Inductive reactance is XL = ωL",
+          "explanation": "Inductive reactance increases with angular frequency and inductance.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Resonance in RLC",
+      "questions": [
+        {
+          "id": "PHY_2P_CH05_MCQ046",
+          "question": "Which statement best describes resonance in rlc?",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance is zero"
+            },
+            {
+              "label": "B",
+              "text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal"
+            },
+            {
+              "label": "C",
+              "text": "current is zero"
+            },
+            {
+              "label": "D",
+              "text": "impedance is infinite"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal",
+          "explanation": "At resonance, XL = XC and impedance is minimum, equal to R in an ideal series circuit.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ047",
+          "question": "Which option is correctly associated with resonance in rlc?",
+          "options": [
+            {
+              "label": "A",
+              "text": "current is zero"
+            },
+            {
+              "label": "B",
+              "text": "impedance is infinite"
+            },
+            {
+              "label": "C",
+              "text": "resistance is zero"
+            },
+            {
+              "label": "D",
+              "text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal",
+          "explanation": "At resonance, XL = XC and impedance is minimum, equal to R in an ideal series circuit.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ048",
+          "question": "In a basic HSC Physics question about resonance in rlc, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal"
+            },
+            {
+              "label": "B",
+              "text": "resistance is zero"
+            },
+            {
+              "label": "C",
+              "text": "impedance is infinite"
+            },
+            {
+              "label": "D",
+              "text": "current is zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal",
+          "explanation": "At resonance, XL = XC and impedance is minimum, equal to R in an ideal series circuit.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ049",
+          "question": "Which fact should be remembered about resonance in rlc?",
+          "options": [
+            {
+              "label": "A",
+              "text": "current is zero"
+            },
+            {
+              "label": "B",
+              "text": "impedance is infinite"
+            },
+            {
+              "label": "C",
+              "text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal"
+            },
+            {
+              "label": "D",
+              "text": "resistance is zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal",
+          "explanation": "At resonance, XL = XC and impedance is minimum, equal to R in an ideal series circuit.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH05_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning resonance in rlc?",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance is zero"
+            },
+            {
+              "label": "B",
+              "text": "impedance is infinite"
+            },
+            {
+              "label": "C",
+              "text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal"
+            },
+            {
+              "label": "D",
+              "text": "current is zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In a series RLC circuit at resonance, inductive and capacitive reactances are equal",
+          "explanation": "At resonance, XL = XC and impedance is minimum, equal to R in an ideal series circuit.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 6,
+  "chapter_title": "Gravitation and Gravity",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Newton's law",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ001",
+          "question": "Which statement best describes newton's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational force between two point masses varies inversely with the square of their separation"
+            },
+            {
+              "label": "B",
+              "text": "inversely with separation cubed"
+            },
+            {
+              "label": "C",
+              "text": "independently of separation"
+            },
+            {
+              "label": "D",
+              "text": "directly with separation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Gravitational force between two point masses varies inversely with the square of their separation",
+          "explanation": "Newton's law gives F = Gm■m■/r².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ002",
+          "question": "Which option is correctly associated with newton's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "directly with separation"
+            },
+            {
+              "label": "B",
+              "text": "inversely with separation cubed"
+            },
+            {
+              "label": "C",
+              "text": "Gravitational force between two point masses varies inversely with the square of their separation"
+            },
+            {
+              "label": "D",
+              "text": "independently of separation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Gravitational force between two point masses varies inversely with the square of their separation",
+          "explanation": "Newton's law gives F = Gm■m■/r².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ003",
+          "question": "In a basic HSC Physics question about newton's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "directly with separation"
+            },
+            {
+              "label": "B",
+              "text": "Gravitational force between two point masses varies inversely with the square of their separation"
+            },
+            {
+              "label": "C",
+              "text": "independently of separation"
+            },
+            {
+              "label": "D",
+              "text": "inversely with separation cubed"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Gravitational force between two point masses varies inversely with the square of their separation",
+          "explanation": "Newton's law gives F = Gm■m■/r².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ004",
+          "question": "Which fact should be remembered about newton's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "inversely with separation cubed"
+            },
+            {
+              "label": "B",
+              "text": "directly with separation"
+            },
+            {
+              "label": "C",
+              "text": "independently of separation"
+            },
+            {
+              "label": "D",
+              "text": "Gravitational force between two point masses varies inversely with the square of their separation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gravitational force between two point masses varies inversely with the square of their separation",
+          "explanation": "Newton's law gives F = Gm■m■/r².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning newton's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational force between two point masses varies inversely with the square of their separation"
+            },
+            {
+              "label": "B",
+              "text": "inversely with separation cubed"
+            },
+            {
+              "label": "C",
+              "text": "independently of separation"
+            },
+            {
+              "label": "D",
+              "text": "directly with separation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Gravitational force between two point masses varies inversely with the square of their separation",
+          "explanation": "Newton's law gives F = Gm■m■/r².",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Gravitational constant",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ006",
+          "question": "Which statement best describes gravitational constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kg m s■¹"
+            },
+            {
+              "label": "B",
+              "text": "N kg■¹"
+            },
+            {
+              "label": "C",
+              "text": "The SI unit of G is N m² kg■²"
+            },
+            {
+              "label": "D",
+              "text": "m s■²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The SI unit of G is N m² kg■²",
+          "explanation": "From F = Gm■m■/r², the unit of G is N m² kg■².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ007",
+          "question": "Which option is correctly associated with gravitational constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "N kg■¹"
+            },
+            {
+              "label": "B",
+              "text": "kg m s■¹"
+            },
+            {
+              "label": "C",
+              "text": "The SI unit of G is N m² kg■²"
+            },
+            {
+              "label": "D",
+              "text": "m s■²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The SI unit of G is N m² kg■²",
+          "explanation": "From F = Gm■m■/r², the unit of G is N m² kg■².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ008",
+          "question": "In a basic HSC Physics question about gravitational constant, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "N kg■¹"
+            },
+            {
+              "label": "B",
+              "text": "m s■²"
+            },
+            {
+              "label": "C",
+              "text": "The SI unit of G is N m² kg■²"
+            },
+            {
+              "label": "D",
+              "text": "kg m s■¹"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The SI unit of G is N m² kg■²",
+          "explanation": "From F = Gm■m■/r², the unit of G is N m² kg■².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ009",
+          "question": "Which fact should be remembered about gravitational constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The SI unit of G is N m² kg■²"
+            },
+            {
+              "label": "B",
+              "text": "N kg■¹"
+            },
+            {
+              "label": "C",
+              "text": "kg m s■¹"
+            },
+            {
+              "label": "D",
+              "text": "m s■²"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The SI unit of G is N m² kg■²",
+          "explanation": "From F = Gm■m■/r², the unit of G is N m² kg■².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning gravitational constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "m s■²"
+            },
+            {
+              "label": "B",
+              "text": "N kg■¹"
+            },
+            {
+              "label": "C",
+              "text": "kg m s■¹"
+            },
+            {
+              "label": "D",
+              "text": "The SI unit of G is N m² kg■²"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The SI unit of G is N m² kg■²",
+          "explanation": "From F = Gm■m■/r², the unit of G is N m² kg■².",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Gravitational field",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ011",
+          "question": "Which statement best describes gravitational field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by mass"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit mass"
+            },
+            {
+              "label": "D",
+              "text": "Gravitational field strength is force per unit test mass"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gravitational field strength is force per unit test mass",
+          "explanation": "g = F/m and has SI unit N kg■¹, equivalent to m s■².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ012",
+          "question": "Which option is correctly associated with gravitational field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force multiplied by mass"
+            },
+            {
+              "label": "B",
+              "text": "energy per unit mass"
+            },
+            {
+              "label": "C",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "D",
+              "text": "Gravitational field strength is force per unit test mass"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gravitational field strength is force per unit test mass",
+          "explanation": "g = F/m and has SI unit N kg■¹, equivalent to m s■².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ013",
+          "question": "In a basic HSC Physics question about gravitational field, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by mass"
+            },
+            {
+              "label": "C",
+              "text": "Gravitational field strength is force per unit test mass"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Gravitational field strength is force per unit test mass",
+          "explanation": "g = F/m and has SI unit N kg■¹, equivalent to m s■².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ014",
+          "question": "Which fact should be remembered about gravitational field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational field strength is force per unit test mass"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by mass"
+            },
+            {
+              "label": "C",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Gravitational field strength is force per unit test mass",
+          "explanation": "g = F/m and has SI unit N kg■¹, equivalent to m s■².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning gravitational field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force multiplied by mass"
+            },
+            {
+              "label": "B",
+              "text": "Gravitational field strength is force per unit test mass"
+            },
+            {
+              "label": "C",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Gravitational field strength is force per unit test mass",
+          "explanation": "g = F/m and has SI unit N kg■¹, equivalent to m s■².",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Acceleration due to gravity",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ016",
+          "question": "Which statement best describes acceleration due to gravity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "GM/R"
+            },
+            {
+              "label": "B",
+              "text": "For a spherical planet, g at its surface is GM/R²"
+            },
+            {
+              "label": "C",
+              "text": "GMR²"
+            },
+            {
+              "label": "D",
+              "text": "GR²/M"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a spherical planet, g at its surface is GM/R²",
+          "explanation": "Equating gravitational force GMm/R² to weight mg gives g = GM/R².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ017",
+          "question": "Which option is correctly associated with acceleration due to gravity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a spherical planet, g at its surface is GM/R²"
+            },
+            {
+              "label": "B",
+              "text": "GM/R"
+            },
+            {
+              "label": "C",
+              "text": "GMR²"
+            },
+            {
+              "label": "D",
+              "text": "GR²/M"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a spherical planet, g at its surface is GM/R²",
+          "explanation": "Equating gravitational force GMm/R² to weight mg gives g = GM/R².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ018",
+          "question": "In a basic HSC Physics question about acceleration due to gravity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "GR²/M"
+            },
+            {
+              "label": "B",
+              "text": "GM/R"
+            },
+            {
+              "label": "C",
+              "text": "For a spherical planet, g at its surface is GM/R²"
+            },
+            {
+              "label": "D",
+              "text": "GMR²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For a spherical planet, g at its surface is GM/R²",
+          "explanation": "Equating gravitational force GMm/R² to weight mg gives g = GM/R².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ019",
+          "question": "Which fact should be remembered about acceleration due to gravity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "GMR²"
+            },
+            {
+              "label": "B",
+              "text": "GM/R"
+            },
+            {
+              "label": "C",
+              "text": "For a spherical planet, g at its surface is GM/R²"
+            },
+            {
+              "label": "D",
+              "text": "GR²/M"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For a spherical planet, g at its surface is GM/R²",
+          "explanation": "Equating gravitational force GMm/R² to weight mg gives g = GM/R².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning acceleration due to gravity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "GR²/M"
+            },
+            {
+              "label": "B",
+              "text": "For a spherical planet, g at its surface is GM/R²"
+            },
+            {
+              "label": "C",
+              "text": "GM/R"
+            },
+            {
+              "label": "D",
+              "text": "GMR²"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a spherical planet, g at its surface is GM/R²",
+          "explanation": "Equating gravitational force GMm/R² to weight mg gives g = GM/R².",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Variation with height",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ021",
+          "question": "Which statement best describes variation with height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational field strength decreases with increasing distance from Earth's centre"
+            },
+            {
+              "label": "B",
+              "text": "becomes independent of mass"
+            },
+            {
+              "label": "C",
+              "text": "increases linearly without limit"
+            },
+            {
+              "label": "D",
+              "text": "remains constant everywhere"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Gravitational field strength decreases with increasing distance from Earth's centre",
+          "explanation": "The inverse-square dependence makes g smaller as radius from the centre increases.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ022",
+          "question": "Which option is correctly associated with variation with height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "becomes independent of mass"
+            },
+            {
+              "label": "B",
+              "text": "increases linearly without limit"
+            },
+            {
+              "label": "C",
+              "text": "remains constant everywhere"
+            },
+            {
+              "label": "D",
+              "text": "Gravitational field strength decreases with increasing distance from Earth's centre"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gravitational field strength decreases with increasing distance from Earth's centre",
+          "explanation": "The inverse-square dependence makes g smaller as radius from the centre increases.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ023",
+          "question": "In a basic HSC Physics question about variation with height, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gravitational field strength decreases with increasing distance from Earth's centre"
+            },
+            {
+              "label": "B",
+              "text": "increases linearly without limit"
+            },
+            {
+              "label": "C",
+              "text": "remains constant everywhere"
+            },
+            {
+              "label": "D",
+              "text": "becomes independent of mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Gravitational field strength decreases with increasing distance from Earth's centre",
+          "explanation": "The inverse-square dependence makes g smaller as radius from the centre increases.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ024",
+          "question": "Which fact should be remembered about variation with height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "becomes independent of mass"
+            },
+            {
+              "label": "B",
+              "text": "increases linearly without limit"
+            },
+            {
+              "label": "C",
+              "text": "remains constant everywhere"
+            },
+            {
+              "label": "D",
+              "text": "Gravitational field strength decreases with increasing distance from Earth's centre"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gravitational field strength decreases with increasing distance from Earth's centre",
+          "explanation": "The inverse-square dependence makes g smaller as radius from the centre increases.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning variation with height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases linearly without limit"
+            },
+            {
+              "label": "B",
+              "text": "remains constant everywhere"
+            },
+            {
+              "label": "C",
+              "text": "becomes independent of mass"
+            },
+            {
+              "label": "D",
+              "text": "Gravitational field strength decreases with increasing distance from Earth's centre"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gravitational field strength decreases with increasing distance from Earth's centre",
+          "explanation": "The inverse-square dependence makes g smaller as radius from the centre increases.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Variation with depth",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ026",
+          "question": "Which statement best describes variation with depth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In the ideal uniform-density Earth model, g decreases linearly with depth"
+            },
+            {
+              "label": "B",
+              "text": "increases linearly with depth"
+            },
+            {
+              "label": "C",
+              "text": "is constant at all depths"
+            },
+            {
+              "label": "D",
+              "text": "is infinite at the centre"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In the ideal uniform-density Earth model, g decreases linearly with depth",
+          "explanation": "For a uniform-density sphere, only enclosed mass contributes and g ∝ distance from the centre.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ027",
+          "question": "Which option is correctly associated with variation with depth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is constant at all depths"
+            },
+            {
+              "label": "B",
+              "text": "is infinite at the centre"
+            },
+            {
+              "label": "C",
+              "text": "In the ideal uniform-density Earth model, g decreases linearly with depth"
+            },
+            {
+              "label": "D",
+              "text": "increases linearly with depth"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In the ideal uniform-density Earth model, g decreases linearly with depth",
+          "explanation": "For a uniform-density sphere, only enclosed mass contributes and g ∝ distance from the centre.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ028",
+          "question": "In a basic HSC Physics question about variation with depth, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In the ideal uniform-density Earth model, g decreases linearly with depth"
+            },
+            {
+              "label": "B",
+              "text": "is infinite at the centre"
+            },
+            {
+              "label": "C",
+              "text": "is constant at all depths"
+            },
+            {
+              "label": "D",
+              "text": "increases linearly with depth"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In the ideal uniform-density Earth model, g decreases linearly with depth",
+          "explanation": "For a uniform-density sphere, only enclosed mass contributes and g ∝ distance from the centre.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ029",
+          "question": "Which fact should be remembered about variation with depth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In the ideal uniform-density Earth model, g decreases linearly with depth"
+            },
+            {
+              "label": "B",
+              "text": "increases linearly with depth"
+            },
+            {
+              "label": "C",
+              "text": "is constant at all depths"
+            },
+            {
+              "label": "D",
+              "text": "is infinite at the centre"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In the ideal uniform-density Earth model, g decreases linearly with depth",
+          "explanation": "For a uniform-density sphere, only enclosed mass contributes and g ∝ distance from the centre.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning variation with depth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is constant at all depths"
+            },
+            {
+              "label": "B",
+              "text": "increases linearly with depth"
+            },
+            {
+              "label": "C",
+              "text": "In the ideal uniform-density Earth model, g decreases linearly with depth"
+            },
+            {
+              "label": "D",
+              "text": "is infinite at the centre"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In the ideal uniform-density Earth model, g decreases linearly with depth",
+          "explanation": "For a uniform-density sphere, only enclosed mass contributes and g ∝ distance from the centre.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Escape speed",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ031",
+          "question": "Which statement best describes escape speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Escape speed from a planet is √(2GM/R)"
+            },
+            {
+              "label": "B",
+              "text": "√(GM/R)"
+            },
+            {
+              "label": "C",
+              "text": "2GM/R"
+            },
+            {
+              "label": "D",
+              "text": "GM/R²"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Escape speed from a planet is √(2GM/R)",
+          "explanation": "Escape speed follows by equating launch kinetic energy to the gravitational binding energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ032",
+          "question": "Which option is correctly associated with escape speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "GM/R²"
+            },
+            {
+              "label": "B",
+              "text": "2GM/R"
+            },
+            {
+              "label": "C",
+              "text": "√(GM/R)"
+            },
+            {
+              "label": "D",
+              "text": "Escape speed from a planet is √(2GM/R)"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Escape speed from a planet is √(2GM/R)",
+          "explanation": "Escape speed follows by equating launch kinetic energy to the gravitational binding energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ033",
+          "question": "In a basic HSC Physics question about escape speed, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2GM/R"
+            },
+            {
+              "label": "B",
+              "text": "Escape speed from a planet is √(2GM/R)"
+            },
+            {
+              "label": "C",
+              "text": "GM/R²"
+            },
+            {
+              "label": "D",
+              "text": "√(GM/R)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Escape speed from a planet is √(2GM/R)",
+          "explanation": "Escape speed follows by equating launch kinetic energy to the gravitational binding energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ034",
+          "question": "Which fact should be remembered about escape speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "√(GM/R)"
+            },
+            {
+              "label": "B",
+              "text": "Escape speed from a planet is √(2GM/R)"
+            },
+            {
+              "label": "C",
+              "text": "2GM/R"
+            },
+            {
+              "label": "D",
+              "text": "GM/R²"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Escape speed from a planet is √(2GM/R)",
+          "explanation": "Escape speed follows by equating launch kinetic energy to the gravitational binding energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning escape speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "√(GM/R)"
+            },
+            {
+              "label": "B",
+              "text": "GM/R²"
+            },
+            {
+              "label": "C",
+              "text": "Escape speed from a planet is √(2GM/R)"
+            },
+            {
+              "label": "D",
+              "text": "2GM/R"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Escape speed from a planet is √(2GM/R)",
+          "explanation": "Escape speed follows by equating launch kinetic energy to the gravitational binding energy.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Orbital motion",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ036",
+          "question": "Which statement best describes orbital motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A satellite in circular orbit is kept in orbit by gravitational force"
+            },
+            {
+              "label": "B",
+              "text": "air resistance"
+            },
+            {
+              "label": "C",
+              "text": "engine thrust continuously"
+            },
+            {
+              "label": "D",
+              "text": "magnetic force"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A satellite in circular orbit is kept in orbit by gravitational force",
+          "explanation": "Gravity supplies the centripetal force for an ideal orbit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ037",
+          "question": "Which option is correctly associated with orbital motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "magnetic force"
+            },
+            {
+              "label": "B",
+              "text": "A satellite in circular orbit is kept in orbit by gravitational force"
+            },
+            {
+              "label": "C",
+              "text": "air resistance"
+            },
+            {
+              "label": "D",
+              "text": "engine thrust continuously"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A satellite in circular orbit is kept in orbit by gravitational force",
+          "explanation": "Gravity supplies the centripetal force for an ideal orbit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ038",
+          "question": "In a basic HSC Physics question about orbital motion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "air resistance"
+            },
+            {
+              "label": "B",
+              "text": "engine thrust continuously"
+            },
+            {
+              "label": "C",
+              "text": "magnetic force"
+            },
+            {
+              "label": "D",
+              "text": "A satellite in circular orbit is kept in orbit by gravitational force"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A satellite in circular orbit is kept in orbit by gravitational force",
+          "explanation": "Gravity supplies the centripetal force for an ideal orbit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ039",
+          "question": "Which fact should be remembered about orbital motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "air resistance"
+            },
+            {
+              "label": "B",
+              "text": "A satellite in circular orbit is kept in orbit by gravitational force"
+            },
+            {
+              "label": "C",
+              "text": "magnetic force"
+            },
+            {
+              "label": "D",
+              "text": "engine thrust continuously"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A satellite in circular orbit is kept in orbit by gravitational force",
+          "explanation": "Gravity supplies the centripetal force for an ideal orbit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning orbital motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "engine thrust continuously"
+            },
+            {
+              "label": "B",
+              "text": "magnetic force"
+            },
+            {
+              "label": "C",
+              "text": "air resistance"
+            },
+            {
+              "label": "D",
+              "text": "A satellite in circular orbit is kept in orbit by gravitational force"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A satellite in circular orbit is kept in orbit by gravitational force",
+          "explanation": "Gravity supplies the centripetal force for an ideal orbit.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Kepler's third law",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ041",
+          "question": "Which statement best describes kepler's third law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T³ is proportional to r²"
+            },
+            {
+              "label": "B",
+              "text": "T² is proportional to r"
+            },
+            {
+              "label": "C",
+              "text": "For planets orbiting the same central mass, T² is proportional to r³"
+            },
+            {
+              "label": "D",
+              "text": "T is proportional to r²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For planets orbiting the same central mass, T² is proportional to r³",
+          "explanation": "Kepler's third law relates orbital period and semi-major axis.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ042",
+          "question": "Which option is correctly associated with kepler's third law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T is proportional to r²"
+            },
+            {
+              "label": "B",
+              "text": "T³ is proportional to r²"
+            },
+            {
+              "label": "C",
+              "text": "T² is proportional to r"
+            },
+            {
+              "label": "D",
+              "text": "For planets orbiting the same central mass, T² is proportional to r³"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For planets orbiting the same central mass, T² is proportional to r³",
+          "explanation": "Kepler's third law relates orbital period and semi-major axis.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ043",
+          "question": "In a basic HSC Physics question about kepler's third law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T³ is proportional to r²"
+            },
+            {
+              "label": "B",
+              "text": "T is proportional to r²"
+            },
+            {
+              "label": "C",
+              "text": "For planets orbiting the same central mass, T² is proportional to r³"
+            },
+            {
+              "label": "D",
+              "text": "T² is proportional to r"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For planets orbiting the same central mass, T² is proportional to r³",
+          "explanation": "Kepler's third law relates orbital period and semi-major axis.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ044",
+          "question": "Which fact should be remembered about kepler's third law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T is proportional to r²"
+            },
+            {
+              "label": "B",
+              "text": "For planets orbiting the same central mass, T² is proportional to r³"
+            },
+            {
+              "label": "C",
+              "text": "T³ is proportional to r²"
+            },
+            {
+              "label": "D",
+              "text": "T² is proportional to r"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For planets orbiting the same central mass, T² is proportional to r³",
+          "explanation": "Kepler's third law relates orbital period and semi-major axis.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning kepler's third law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T³ is proportional to r²"
+            },
+            {
+              "label": "B",
+              "text": "T is proportional to r²"
+            },
+            {
+              "label": "C",
+              "text": "T² is proportional to r"
+            },
+            {
+              "label": "D",
+              "text": "For planets orbiting the same central mass, T² is proportional to r³"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For planets orbiting the same central mass, T² is proportional to r³",
+          "explanation": "Kepler's third law relates orbital period and semi-major axis.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Weightlessness",
+      "questions": [
+        {
+          "id": "PHY_1P_CH06_MCQ046",
+          "question": "Which statement best describes weightlessness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "air pressure cancels gravity"
+            },
+            {
+              "label": "B",
+              "text": "the astronaut has no mass"
+            },
+            {
+              "label": "C",
+              "text": "gravity is absent in orbit"
+            },
+            {
+              "label": "D",
+              "text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free fall together"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free",
+          "explanation": "Gravity remains significant in orbit; shared free fall removes the normal support force.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ047",
+          "question": "Which option is correctly associated with weightlessness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "air pressure cancels gravity"
+            },
+            {
+              "label": "B",
+              "text": "the astronaut has no mass"
+            },
+            {
+              "label": "C",
+              "text": "gravity is absent in orbit"
+            },
+            {
+              "label": "D",
+              "text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free fall together"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free",
+          "explanation": "Gravity remains significant in orbit; shared free fall removes the normal support force.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ048",
+          "question": "In a basic HSC Physics question about weightlessness, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free fall together"
+            },
+            {
+              "label": "B",
+              "text": "air pressure cancels gravity"
+            },
+            {
+              "label": "C",
+              "text": "gravity is absent in orbit"
+            },
+            {
+              "label": "D",
+              "text": "the astronaut has no mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free",
+          "explanation": "Gravity remains significant in orbit; shared free fall removes the normal support force.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ049",
+          "question": "Which fact should be remembered about weightlessness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity is absent in orbit"
+            },
+            {
+              "label": "B",
+              "text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free fall together"
+            },
+            {
+              "label": "C",
+              "text": "air pressure cancels gravity"
+            },
+            {
+              "label": "D",
+              "text": "the astronaut has no mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free",
+          "explanation": "Gravity remains significant in orbit; shared free fall removes the normal support force.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH06_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning weightlessness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the astronaut has no mass"
+            },
+            {
+              "label": "B",
+              "text": "air pressure cancels gravity"
+            },
+            {
+              "label": "C",
+              "text": "gravity is absent in orbit"
+            },
+            {
+              "label": "D",
+              "text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free fall together"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Apparent weightlessness in orbit occurs because the astronaut and spacecraft are in continuous free",
+          "explanation": "Gravity remains significant in orbit; shared free fall removes the normal support force.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

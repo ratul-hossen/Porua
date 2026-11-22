@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 5,
+  "chapter_title": "Permutations and Combinations",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Permutations",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q001",
+          "question": "Evaluate 5P2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "20"
+            },
+            {
+              "label": "B",
+              "text": "22"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "18"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "20",
+          "explanation": "Using nPr=n!/(n−r)!, the result is 20.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q002",
+          "question": "Evaluate 6P3.",
+          "options": [
+            {
+              "label": "A",
+              "text": "20"
+            },
+            {
+              "label": "B",
+              "text": "120"
+            },
+            {
+              "label": "C",
+              "text": "126"
+            },
+            {
+              "label": "D",
+              "text": "117"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "120",
+          "explanation": "Using nPr=n!/(n−r)!, the result is 120.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q003",
+          "question": "Evaluate 7P2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "44"
+            },
+            {
+              "label": "B",
+              "text": "40"
+            },
+            {
+              "label": "C",
+              "text": "42"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "42",
+          "explanation": "Using nPr=n!/(n−r)!, the result is 42.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q004",
+          "question": "Evaluate 8P3.",
+          "options": [
+            {
+              "label": "A",
+              "text": "333"
+            },
+            {
+              "label": "B",
+              "text": "342"
+            },
+            {
+              "label": "C",
+              "text": "56"
+            },
+            {
+              "label": "D",
+              "text": "336"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "336",
+          "explanation": "Using nPr=n!/(n−r)!, the result is 336.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q005",
+          "question": "Evaluate 9P2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "72"
+            },
+            {
+              "label": "B",
+              "text": "36"
+            },
+            {
+              "label": "C",
+              "text": "74"
+            },
+            {
+              "label": "D",
+              "text": "70"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "72",
+          "explanation": "Using nPr=n!/(n−r)!, the result is 72.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Combinations",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q006",
+          "question": "Evaluate 6C2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "15"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "30"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "15",
+          "explanation": "Using nCr=n!/[r!(n−r)!], the result is 15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q007",
+          "question": "Evaluate 7C3.",
+          "options": [
+            {
+              "label": "A",
+              "text": "32"
+            },
+            {
+              "label": "B",
+              "text": "38"
+            },
+            {
+              "label": "C",
+              "text": "35"
+            },
+            {
+              "label": "D",
+              "text": "105"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "35",
+          "explanation": "Using nCr=n!/[r!(n−r)!], the result is 35.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q008",
+          "question": "Evaluate 8C2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "26"
+            },
+            {
+              "label": "B",
+              "text": "30"
+            },
+            {
+              "label": "C",
+              "text": "56"
+            },
+            {
+              "label": "D",
+              "text": "28"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "28",
+          "explanation": "Using nCr=n!/[r!(n−r)!], the result is 28.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q009",
+          "question": "Evaluate 9C3.",
+          "options": [
+            {
+              "label": "A",
+              "text": "84"
+            },
+            {
+              "label": "B",
+              "text": "81"
+            },
+            {
+              "label": "C",
+              "text": "252"
+            },
+            {
+              "label": "D",
+              "text": "87"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "84",
+          "explanation": "Using nCr=n!/[r!(n−r)!], the result is 84.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q010",
+          "question": "Evaluate 10C2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "43"
+            },
+            {
+              "label": "B",
+              "text": "45"
+            },
+            {
+              "label": "C",
+              "text": "90"
+            },
+            {
+              "label": "D",
+              "text": "47"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "45",
+          "explanation": "Using nCr=n!/[r!(n−r)!], the result is 45.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Combination Symmetry",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q011",
+          "question": "If 7C2=7Ck, find the other possible k, excluding 2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "The symmetry identity nCr=nC(n−r) gives k=5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q012",
+          "question": "If 8C3=8Ck, find the other possible k, excluding 3.",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5",
+          "explanation": "The symmetry identity nCr=nC(n−r) gives k=5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q013",
+          "question": "If 9C4=9Ck, find the other possible k, excluding 4.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5",
+          "explanation": "The symmetry identity nCr=nC(n−r) gives k=5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q014",
+          "question": "If 10C2=10Ck, find the other possible k, excluding 2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "8",
+          "explanation": "The symmetry identity nCr=nC(n−r) gives k=8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q015",
+          "question": "If 11C5=11Ck, find the other possible k, excluding 5.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "16"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "6",
+          "explanation": "The symmetry identity nCr=nC(n−r) gives k=6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Circular Permutations",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q016",
+          "question": "In how many ways can 4 different people sit around a circular table if rotations are considered identical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "24"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "Circular arrangements of n distinct people number (n−1)!, giving 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q017",
+          "question": "In how many ways can 5 different people sit around a circular table if rotations are considered identical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "24"
+            },
+            {
+              "label": "B",
+              "text": "12"
+            },
+            {
+              "label": "C",
+              "text": "120"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "24",
+          "explanation": "Circular arrangements of n distinct people number (n−1)!, giving 24.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q018",
+          "question": "In how many ways can 6 different people sit around a circular table if rotations are considered identical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "60"
+            },
+            {
+              "label": "B",
+              "text": "120"
+            },
+            {
+              "label": "C",
+              "text": "720"
+            },
+            {
+              "label": "D",
+              "text": "121"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "120",
+          "explanation": "Circular arrangements of n distinct people number (n−1)!, giving 120.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q019",
+          "question": "In how many ways can 7 different people sit around a circular table if rotations are considered identical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5040"
+            },
+            {
+              "label": "B",
+              "text": "721"
+            },
+            {
+              "label": "C",
+              "text": "720"
+            },
+            {
+              "label": "D",
+              "text": "360"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "720",
+          "explanation": "Circular arrangements of n distinct people number (n−1)!, giving 720.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q020",
+          "question": "In how many ways can 8 different people sit around a circular table if rotations are considered identical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5041"
+            },
+            {
+              "label": "B",
+              "text": "40320"
+            },
+            {
+              "label": "C",
+              "text": "2520"
+            },
+            {
+              "label": "D",
+              "text": "5040"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5040",
+          "explanation": "Circular arrangements of n distinct people number (n−1)!, giving 5040.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Repeated Objects",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q021",
+          "question": "How many distinct arrangements are possible for 5 letters if exactly two are identical and all others are distinct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "60"
+            },
+            {
+              "label": "B",
+              "text": "62"
+            },
+            {
+              "label": "C",
+              "text": "30"
+            },
+            {
+              "label": "D",
+              "text": "120"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "60",
+          "explanation": "Divide n! by 2! to account for the repeated pair; the count is 60.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q022",
+          "question": "How many distinct arrangements are possible for 6 letters if exactly two are identical and all others are distinct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "720"
+            },
+            {
+              "label": "B",
+              "text": "360"
+            },
+            {
+              "label": "C",
+              "text": "180"
+            },
+            {
+              "label": "D",
+              "text": "362"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "360",
+          "explanation": "Divide n! by 2! to account for the repeated pair; the count is 360.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q023",
+          "question": "How many distinct arrangements are possible for 7 letters if exactly two are identical and all others are distinct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1260"
+            },
+            {
+              "label": "B",
+              "text": "2522"
+            },
+            {
+              "label": "C",
+              "text": "2520"
+            },
+            {
+              "label": "D",
+              "text": "5040"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2520",
+          "explanation": "Divide n! by 2! to account for the repeated pair; the count is 2520.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q024",
+          "question": "How many distinct arrangements are possible for 8 letters if exactly two are identical and all others are distinct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "20162"
+            },
+            {
+              "label": "B",
+              "text": "40320"
+            },
+            {
+              "label": "C",
+              "text": "10080"
+            },
+            {
+              "label": "D",
+              "text": "20160"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "20160",
+          "explanation": "Divide n! by 2! to account for the repeated pair; the count is 20160.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q025",
+          "question": "How many distinct arrangements are possible for 9 letters if exactly two are identical and all others are distinct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "181440"
+            },
+            {
+              "label": "B",
+              "text": "181442"
+            },
+            {
+              "label": "C",
+              "text": "90720"
+            },
+            {
+              "label": "D",
+              "text": "362880"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "181440",
+          "explanation": "Divide n! by 2! to account for the repeated pair; the count is 181440.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Restricted Combinations",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q026",
+          "question": "How many 2-person committees can be formed from 6 people if a specified person must be included?",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "15"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5",
+          "explanation": "With one member fixed, choose the remaining r−1 members from n−1; the count is 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q027",
+          "question": "How many 3-person committees can be formed from 7 people if a specified person must be included?",
+          "options": [
+            {
+              "label": "A",
+              "text": "35"
+            },
+            {
+              "label": "B",
+              "text": "18"
+            },
+            {
+              "label": "C",
+              "text": "15"
+            },
+            {
+              "label": "D",
+              "text": "16"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "15",
+          "explanation": "With one member fixed, choose the remaining r−1 members from n−1; the count is 15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q028",
+          "question": "How many 3-person committees can be formed from 8 people if a specified person must be included?",
+          "options": [
+            {
+              "label": "A",
+              "text": "22"
+            },
+            {
+              "label": "B",
+              "text": "24"
+            },
+            {
+              "label": "C",
+              "text": "56"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "21",
+          "explanation": "With one member fixed, choose the remaining r−1 members from n−1; the count is 21.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q029",
+          "question": "How many 2-person committees can be formed from 9 people if a specified person must be included?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "36"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "8",
+          "explanation": "With one member fixed, choose the remaining r−1 members from n−1; the count is 8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q030",
+          "question": "How many 4-person committees can be formed from 10 people if a specified person must be included?",
+          "options": [
+            {
+              "label": "A",
+              "text": "88"
+            },
+            {
+              "label": "B",
+              "text": "84"
+            },
+            {
+              "label": "C",
+              "text": "210"
+            },
+            {
+              "label": "D",
+              "text": "85"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "84",
+          "explanation": "With one member fixed, choose the remaining r−1 members from n−1; the count is 84.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Selection and Arrangement",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q031",
+          "question": "In how many ways can 2 objects be selected from 5 distinct objects and then arranged in order?",
+          "options": [
+            {
+              "label": "A",
+              "text": "22"
+            },
+            {
+              "label": "B",
+              "text": "23"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "20",
+          "explanation": "Choose r objects and permute them: nCr×r!=nPr=20.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q032",
+          "question": "In how many ways can 3 objects be selected from 6 distinct objects and then arranged in order?",
+          "options": [
+            {
+              "label": "A",
+              "text": "122"
+            },
+            {
+              "label": "B",
+              "text": "60"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "120"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "120",
+          "explanation": "Choose r objects and permute them: nCr×r!=nPr=120.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q033",
+          "question": "In how many ways can 2 objects be selected from 7 distinct objects and then arranged in order?",
+          "options": [
+            {
+              "label": "A",
+              "text": "42"
+            },
+            {
+              "label": "B",
+              "text": "21"
+            },
+            {
+              "label": "C",
+              "text": "45"
+            },
+            {
+              "label": "D",
+              "text": "44"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "42",
+          "explanation": "Choose r objects and permute them: nCr×r!=nPr=42.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q034",
+          "question": "In how many ways can 3 objects be selected from 8 distinct objects and then arranged in order?",
+          "options": [
+            {
+              "label": "A",
+              "text": "168"
+            },
+            {
+              "label": "B",
+              "text": "336"
+            },
+            {
+              "label": "C",
+              "text": "56"
+            },
+            {
+              "label": "D",
+              "text": "338"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "336",
+          "explanation": "Choose r objects and permute them: nCr×r!=nPr=336.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q035",
+          "question": "In how many ways can 4 objects be selected from 9 distinct objects and then arranged in order?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3026"
+            },
+            {
+              "label": "B",
+              "text": "1512"
+            },
+            {
+              "label": "C",
+              "text": "3024"
+            },
+            {
+              "label": "D",
+              "text": "126"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3024",
+          "explanation": "Choose r objects and permute them: nCr×r!=nPr=3024.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Pascal Identity",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q036",
+          "question": "Evaluate 5C2+5C1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "14"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "16"
+            },
+            {
+              "label": "D",
+              "text": "15"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "15",
+          "explanation": "Pascal's identity nCr+nC(r−1)=(n+1)Cr gives 15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q037",
+          "question": "Evaluate 6C2+6C1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "21"
+            },
+            {
+              "label": "B",
+              "text": "22"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "15"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "21",
+          "explanation": "Pascal's identity nCr+nC(r−1)=(n+1)Cr gives 21.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q038",
+          "question": "Evaluate 7C3+7C2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "35"
+            },
+            {
+              "label": "B",
+              "text": "56"
+            },
+            {
+              "label": "C",
+              "text": "55"
+            },
+            {
+              "label": "D",
+              "text": "57"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "56",
+          "explanation": "Pascal's identity nCr+nC(r−1)=(n+1)Cr gives 56.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q039",
+          "question": "Evaluate 8C3+8C2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "56"
+            },
+            {
+              "label": "B",
+              "text": "85"
+            },
+            {
+              "label": "C",
+              "text": "84"
+            },
+            {
+              "label": "D",
+              "text": "83"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "84",
+          "explanation": "Pascal's identity nCr+nC(r−1)=(n+1)Cr gives 84.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q040",
+          "question": "Evaluate 9C2+9C1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "46"
+            },
+            {
+              "label": "B",
+              "text": "44"
+            },
+            {
+              "label": "C",
+              "text": "36"
+            },
+            {
+              "label": "D",
+              "text": "45"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "45",
+          "explanation": "Pascal's identity nCr+nC(r−1)=(n+1)Cr gives 45.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Factorials",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q041",
+          "question": "In how many orders can 3 different books be placed on a shelf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6",
+          "explanation": "There are n! linear arrangements of n different books, giving 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q042",
+          "question": "In how many orders can 4 different books be placed on a shelf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "24"
+            },
+            {
+              "label": "C",
+              "text": "16"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "24",
+          "explanation": "There are n! linear arrangements of n different books, giving 24.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q043",
+          "question": "In how many orders can 5 different books be placed on a shelf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "25"
+            },
+            {
+              "label": "B",
+              "text": "24"
+            },
+            {
+              "label": "C",
+              "text": "120"
+            },
+            {
+              "label": "D",
+              "text": "121"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "120",
+          "explanation": "There are n! linear arrangements of n different books, giving 120.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q044",
+          "question": "In how many orders can 6 different books be placed on a shelf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "120"
+            },
+            {
+              "label": "B",
+              "text": "36"
+            },
+            {
+              "label": "C",
+              "text": "721"
+            },
+            {
+              "label": "D",
+              "text": "720"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "720",
+          "explanation": "There are n! linear arrangements of n different books, giving 720.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q045",
+          "question": "In how many orders can 7 different books be placed on a shelf?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5040"
+            },
+            {
+              "label": "B",
+              "text": "720"
+            },
+            {
+              "label": "C",
+              "text": "5041"
+            },
+            {
+              "label": "D",
+              "text": "49"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5040",
+          "explanation": "There are n! linear arrangements of n different books, giving 5040.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Applications of Combinations",
+      "questions": [
+        {
+          "id": "HM-P1-C05-Q046",
+          "question": "How many bouquets of 2 flowers can be made from 5 distinct flowers when order does not matter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "20"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "10",
+          "explanation": "Selecting without order uses nCr, which equals 10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q047",
+          "question": "How many bouquets of 3 flowers can be made from 6 distinct flowers when order does not matter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "19"
+            },
+            {
+              "label": "B",
+              "text": "120"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "20",
+          "explanation": "Selecting without order uses nCr, which equals 20.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q048",
+          "question": "How many bouquets of 2 flowers can be made from 7 distinct flowers when order does not matter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "22"
+            },
+            {
+              "label": "B",
+              "text": "20"
+            },
+            {
+              "label": "C",
+              "text": "42"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "21",
+          "explanation": "Selecting without order uses nCr, which equals 21.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q049",
+          "question": "How many bouquets of 4 flowers can be made from 8 distinct flowers when order does not matter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "70"
+            },
+            {
+              "label": "B",
+              "text": "1680"
+            },
+            {
+              "label": "C",
+              "text": "71"
+            },
+            {
+              "label": "D",
+              "text": "69"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "70",
+          "explanation": "Selecting without order uses nCr, which equals 70.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C05-Q050",
+          "question": "How many bouquets of 3 flowers can be made from 9 distinct flowers when order does not matter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "504"
+            },
+            {
+              "label": "B",
+              "text": "84"
+            },
+            {
+              "label": "C",
+              "text": "83"
+            },
+            {
+              "label": "D",
+              "text": "85"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "84",
+          "explanation": "Selecting without order uses nCr, which equals 84.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

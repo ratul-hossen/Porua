@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 3,
+  "chapter_title": "Periodic Properties of Elements and Chemical Bonding",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Period trend in atomic radius",
+      "questions": [
+        {
+          "id": "CH03-MCQ-001",
+          "question": "Which statement correctly describes period trend in atomic radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Remains exactly constant"
+            },
+            {
+              "label": "B",
+              "text": "Generally decreases across a period"
+            },
+            {
+              "label": "C",
+              "text": "Changes randomly without a trend"
+            },
+            {
+              "label": "D",
+              "text": "Always increases"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Generally decreases across a period",
+          "explanation": "Effective nuclear charge increases while electrons are added to the same principal shell.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning period trend in atomic radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Generally decreases across a period"
+            },
+            {
+              "label": "B",
+              "text": "Remains exactly constant"
+            },
+            {
+              "label": "C",
+              "text": "Always increases"
+            },
+            {
+              "label": "D",
+              "text": "Changes randomly without a trend"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Generally decreases across a period",
+          "explanation": "Effective nuclear charge increases while electrons are added to the same principal shell.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-003",
+          "question": "A student is reviewing period trend in atomic radius. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Generally decreases across a period"
+            },
+            {
+              "label": "B",
+              "text": "Remains exactly constant"
+            },
+            {
+              "label": "C",
+              "text": "Always increases"
+            },
+            {
+              "label": "D",
+              "text": "Changes randomly without a trend"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Generally decreases across a period",
+          "explanation": "Effective nuclear charge increases while electrons are added to the same principal shell.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-004",
+          "question": "Which option gives the most accurate explanation of period trend in atomic radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always increases"
+            },
+            {
+              "label": "B",
+              "text": "Generally decreases across a period"
+            },
+            {
+              "label": "C",
+              "text": "Remains exactly constant"
+            },
+            {
+              "label": "D",
+              "text": "Changes randomly without a trend"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Generally decreases across a period",
+          "explanation": "Effective nuclear charge increases while electrons are added to the same principal shell.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-005",
+          "question": "Choose the correct principle or fact associated with period trend in atomic radius.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Changes randomly without a trend"
+            },
+            {
+              "label": "B",
+              "text": "Generally decreases across a period"
+            },
+            {
+              "label": "C",
+              "text": "Remains exactly constant"
+            },
+            {
+              "label": "D",
+              "text": "Always increases"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Generally decreases across a period",
+          "explanation": "Effective nuclear charge increases while electrons are added to the same principal shell.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Group trend in atomic radius",
+      "questions": [
+        {
+          "id": "CH03-MCQ-006",
+          "question": "Which statement correctly describes group trend in atomic radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Generally increases down a group"
+            },
+            {
+              "label": "B",
+              "text": "Becomes zero"
+            },
+            {
+              "label": "C",
+              "text": "Always decreases"
+            },
+            {
+              "label": "D",
+              "text": "Is independent of shells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Generally increases down a group",
+          "explanation": "Additional occupied electron shells increase atomic size.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning group trend in atomic radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Becomes zero"
+            },
+            {
+              "label": "B",
+              "text": "Generally increases down a group"
+            },
+            {
+              "label": "C",
+              "text": "Always decreases"
+            },
+            {
+              "label": "D",
+              "text": "Is independent of shells"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Generally increases down a group",
+          "explanation": "Additional occupied electron shells increase atomic size.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-008",
+          "question": "A student is reviewing group trend in atomic radius. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is independent of shells"
+            },
+            {
+              "label": "B",
+              "text": "Always decreases"
+            },
+            {
+              "label": "C",
+              "text": "Generally increases down a group"
+            },
+            {
+              "label": "D",
+              "text": "Becomes zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Generally increases down a group",
+          "explanation": "Additional occupied electron shells increase atomic size.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-009",
+          "question": "Which option gives the most accurate explanation of group trend in atomic radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Becomes zero"
+            },
+            {
+              "label": "B",
+              "text": "Generally increases down a group"
+            },
+            {
+              "label": "C",
+              "text": "Is independent of shells"
+            },
+            {
+              "label": "D",
+              "text": "Always decreases"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Generally increases down a group",
+          "explanation": "Additional occupied electron shells increase atomic size.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-010",
+          "question": "Choose the correct principle or fact associated with group trend in atomic radius.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is independent of shells"
+            },
+            {
+              "label": "B",
+              "text": "Becomes zero"
+            },
+            {
+              "label": "C",
+              "text": "Always decreases"
+            },
+            {
+              "label": "D",
+              "text": "Generally increases down a group"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Generally increases down a group",
+          "explanation": "Additional occupied electron shells increase atomic size.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Ionisation energy",
+      "questions": [
+        {
+          "id": "CH03-MCQ-011",
+          "question": "Which statement correctly describes ionisation energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy needed to remove an electron from a gaseous atom"
+            },
+            {
+              "label": "B",
+              "text": "Energy released by forming a solid"
+            },
+            {
+              "label": "C",
+              "text": "Energy of a neutron"
+            },
+            {
+              "label": "D",
+              "text": "Energy needed to melt an element"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Energy needed to remove an electron from a gaseous atom",
+          "explanation": "Ionisation energy describes electron removal from an isolated gaseous atom.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning ionisation energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy released by forming a solid"
+            },
+            {
+              "label": "B",
+              "text": "Energy needed to melt an element"
+            },
+            {
+              "label": "C",
+              "text": "Energy of a neutron"
+            },
+            {
+              "label": "D",
+              "text": "Energy needed to remove an electron from a gaseous atom"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Energy needed to remove an electron from a gaseous atom",
+          "explanation": "Ionisation energy describes electron removal from an isolated gaseous atom.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-013",
+          "question": "A student is reviewing ionisation energy. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy needed to melt an element"
+            },
+            {
+              "label": "B",
+              "text": "Energy of a neutron"
+            },
+            {
+              "label": "C",
+              "text": "Energy needed to remove an electron from a gaseous atom"
+            },
+            {
+              "label": "D",
+              "text": "Energy released by forming a solid"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Energy needed to remove an electron from a gaseous atom",
+          "explanation": "Ionisation energy describes electron removal from an isolated gaseous atom.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-014",
+          "question": "Which option gives the most accurate explanation of ionisation energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy needed to remove an electron from a gaseous atom"
+            },
+            {
+              "label": "B",
+              "text": "Energy of a neutron"
+            },
+            {
+              "label": "C",
+              "text": "Energy released by forming a solid"
+            },
+            {
+              "label": "D",
+              "text": "Energy needed to melt an element"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Energy needed to remove an electron from a gaseous atom",
+          "explanation": "Ionisation energy describes electron removal from an isolated gaseous atom.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-015",
+          "question": "Choose the correct principle or fact associated with ionisation energy.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy of a neutron"
+            },
+            {
+              "label": "B",
+              "text": "Energy needed to remove an electron from a gaseous atom"
+            },
+            {
+              "label": "C",
+              "text": "Energy needed to melt an element"
+            },
+            {
+              "label": "D",
+              "text": "Energy released by forming a solid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Energy needed to remove an electron from a gaseous atom",
+          "explanation": "Ionisation energy describes electron removal from an isolated gaseous atom.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Electronegativity",
+      "questions": [
+        {
+          "id": "CH03-MCQ-016",
+          "question": "Which statement correctly describes electronegativity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Tendency to emit neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Attraction for shared electrons in a bond"
+            },
+            {
+              "label": "C",
+              "text": "Mass of an atom"
+            },
+            {
+              "label": "D",
+              "text": "Ability to conduct heat"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Attraction for shared electrons in a bond",
+          "explanation": "Electronegativity measures an atom's ability to attract bonding electrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning electronegativity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass of an atom"
+            },
+            {
+              "label": "B",
+              "text": "Attraction for shared electrons in a bond"
+            },
+            {
+              "label": "C",
+              "text": "Tendency to emit neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Ability to conduct heat"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Attraction for shared electrons in a bond",
+          "explanation": "Electronegativity measures an atom's ability to attract bonding electrons.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-018",
+          "question": "A student is reviewing electronegativity. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ability to conduct heat"
+            },
+            {
+              "label": "B",
+              "text": "Tendency to emit neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Attraction for shared electrons in a bond"
+            },
+            {
+              "label": "D",
+              "text": "Mass of an atom"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Attraction for shared electrons in a bond",
+          "explanation": "Electronegativity measures an atom's ability to attract bonding electrons.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-019",
+          "question": "Which option gives the most accurate explanation of electronegativity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ability to conduct heat"
+            },
+            {
+              "label": "B",
+              "text": "Attraction for shared electrons in a bond"
+            },
+            {
+              "label": "C",
+              "text": "Tendency to emit neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Mass of an atom"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Attraction for shared electrons in a bond",
+          "explanation": "Electronegativity measures an atom's ability to attract bonding electrons.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-020",
+          "question": "Choose the correct principle or fact associated with electronegativity.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ability to conduct heat"
+            },
+            {
+              "label": "B",
+              "text": "Attraction for shared electrons in a bond"
+            },
+            {
+              "label": "C",
+              "text": "Tendency to emit neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Mass of an atom"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Attraction for shared electrons in a bond",
+          "explanation": "Electronegativity measures an atom's ability to attract bonding electrons.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Ionic bond",
+      "questions": [
+        {
+          "id": "CH03-MCQ-021",
+          "question": "Which statement correctly describes ionic bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sharing of a proton pair"
+            },
+            {
+              "label": "B",
+              "text": "Metallic lattice vibration"
+            },
+            {
+              "label": "C",
+              "text": "Electrostatic attraction between oppositely charged ions"
+            },
+            {
+              "label": "D",
+              "text": "Attraction between neutral molecules only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electrostatic attraction between oppositely charged ions",
+          "explanation": "Ionic bonding commonly follows electron transfer and ion formation.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning ionic bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sharing of a proton pair"
+            },
+            {
+              "label": "B",
+              "text": "Metallic lattice vibration"
+            },
+            {
+              "label": "C",
+              "text": "Attraction between neutral molecules only"
+            },
+            {
+              "label": "D",
+              "text": "Electrostatic attraction between oppositely charged ions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electrostatic attraction between oppositely charged ions",
+          "explanation": "Ionic bonding commonly follows electron transfer and ion formation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-023",
+          "question": "A student is reviewing ionic bond. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Attraction between neutral molecules only"
+            },
+            {
+              "label": "B",
+              "text": "Sharing of a proton pair"
+            },
+            {
+              "label": "C",
+              "text": "Electrostatic attraction between oppositely charged ions"
+            },
+            {
+              "label": "D",
+              "text": "Metallic lattice vibration"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electrostatic attraction between oppositely charged ions",
+          "explanation": "Ionic bonding commonly follows electron transfer and ion formation.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-024",
+          "question": "Which option gives the most accurate explanation of ionic bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metallic lattice vibration"
+            },
+            {
+              "label": "B",
+              "text": "Electrostatic attraction between oppositely charged ions"
+            },
+            {
+              "label": "C",
+              "text": "Attraction between neutral molecules only"
+            },
+            {
+              "label": "D",
+              "text": "Sharing of a proton pair"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electrostatic attraction between oppositely charged ions",
+          "explanation": "Ionic bonding commonly follows electron transfer and ion formation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-025",
+          "question": "Choose the correct principle or fact associated with ionic bond.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metallic lattice vibration"
+            },
+            {
+              "label": "B",
+              "text": "Electrostatic attraction between oppositely charged ions"
+            },
+            {
+              "label": "C",
+              "text": "Sharing of a proton pair"
+            },
+            {
+              "label": "D",
+              "text": "Attraction between neutral molecules only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electrostatic attraction between oppositely charged ions",
+          "explanation": "Ionic bonding commonly follows electron transfer and ion formation.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Covalent bond",
+      "questions": [
+        {
+          "id": "CH03-MCQ-026",
+          "question": "Which statement correctly describes covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sharing of electron pairs"
+            },
+            {
+              "label": "B",
+              "text": "Attraction between ions only"
+            },
+            {
+              "label": "C",
+              "text": "Loss of all valence electrons"
+            },
+            {
+              "label": "D",
+              "text": "Complete transfer of neutrons"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Sharing of electron pairs",
+          "explanation": "Covalent bonds form when atoms share one or more pairs of electrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Complete transfer of neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Attraction between ions only"
+            },
+            {
+              "label": "C",
+              "text": "Loss of all valence electrons"
+            },
+            {
+              "label": "D",
+              "text": "Sharing of electron pairs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Sharing of electron pairs",
+          "explanation": "Covalent bonds form when atoms share one or more pairs of electrons.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-028",
+          "question": "A student is reviewing covalent bond. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Loss of all valence electrons"
+            },
+            {
+              "label": "B",
+              "text": "Attraction between ions only"
+            },
+            {
+              "label": "C",
+              "text": "Complete transfer of neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Sharing of electron pairs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Sharing of electron pairs",
+          "explanation": "Covalent bonds form when atoms share one or more pairs of electrons.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-029",
+          "question": "Which option gives the most accurate explanation of covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Complete transfer of neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Attraction between ions only"
+            },
+            {
+              "label": "C",
+              "text": "Sharing of electron pairs"
+            },
+            {
+              "label": "D",
+              "text": "Loss of all valence electrons"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Sharing of electron pairs",
+          "explanation": "Covalent bonds form when atoms share one or more pairs of electrons.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-030",
+          "question": "Choose the correct principle or fact associated with covalent bond.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Attraction between ions only"
+            },
+            {
+              "label": "B",
+              "text": "Complete transfer of neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Loss of all valence electrons"
+            },
+            {
+              "label": "D",
+              "text": "Sharing of electron pairs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Sharing of electron pairs",
+          "explanation": "Covalent bonds form when atoms share one or more pairs of electrons.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Metallic bonding",
+      "questions": [
+        {
+          "id": "CH03-MCQ-031",
+          "question": "Which statement correctly describes metallic bonding?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shared localised proton pairs"
+            },
+            {
+              "label": "B",
+              "text": "Alternating anions and cations only"
+            },
+            {
+              "label": "C",
+              "text": "Positive metal ions in delocalised electrons"
+            },
+            {
+              "label": "D",
+              "text": "Neutral atoms in a vacuum"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Positive metal ions in delocalised electrons",
+          "explanation": "Mobile delocalised electrons help explain electrical conductivity in metals.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning metallic bonding?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neutral atoms in a vacuum"
+            },
+            {
+              "label": "B",
+              "text": "Positive metal ions in delocalised electrons"
+            },
+            {
+              "label": "C",
+              "text": "Shared localised proton pairs"
+            },
+            {
+              "label": "D",
+              "text": "Alternating anions and cations only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Positive metal ions in delocalised electrons",
+          "explanation": "Mobile delocalised electrons help explain electrical conductivity in metals.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-033",
+          "question": "A student is reviewing metallic bonding. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Positive metal ions in delocalised electrons"
+            },
+            {
+              "label": "B",
+              "text": "Shared localised proton pairs"
+            },
+            {
+              "label": "C",
+              "text": "Neutral atoms in a vacuum"
+            },
+            {
+              "label": "D",
+              "text": "Alternating anions and cations only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Positive metal ions in delocalised electrons",
+          "explanation": "Mobile delocalised electrons help explain electrical conductivity in metals.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-034",
+          "question": "Which option gives the most accurate explanation of metallic bonding?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shared localised proton pairs"
+            },
+            {
+              "label": "B",
+              "text": "Neutral atoms in a vacuum"
+            },
+            {
+              "label": "C",
+              "text": "Positive metal ions in delocalised electrons"
+            },
+            {
+              "label": "D",
+              "text": "Alternating anions and cations only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Positive metal ions in delocalised electrons",
+          "explanation": "Mobile delocalised electrons help explain electrical conductivity in metals.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-035",
+          "question": "Choose the correct principle or fact associated with metallic bonding.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neutral atoms in a vacuum"
+            },
+            {
+              "label": "B",
+              "text": "Shared localised proton pairs"
+            },
+            {
+              "label": "C",
+              "text": "Positive metal ions in delocalised electrons"
+            },
+            {
+              "label": "D",
+              "text": "Alternating anions and cations only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Positive metal ions in delocalised electrons",
+          "explanation": "Mobile delocalised electrons help explain electrical conductivity in metals.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Polar covalent bond",
+      "questions": [
+        {
+          "id": "CH03-MCQ-036",
+          "question": "Which statement correctly describes polar covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Complete transfer in all cases"
+            },
+            {
+              "label": "B",
+              "text": "Unequal sharing of electrons"
+            },
+            {
+              "label": "C",
+              "text": "Equal sharing in every case"
+            },
+            {
+              "label": "D",
+              "text": "No electron interaction"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Unequal sharing of electrons",
+          "explanation": "A difference in electronegativity produces partial charges in the bond.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning polar covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Equal sharing in every case"
+            },
+            {
+              "label": "B",
+              "text": "Complete transfer in all cases"
+            },
+            {
+              "label": "C",
+              "text": "No electron interaction"
+            },
+            {
+              "label": "D",
+              "text": "Unequal sharing of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Unequal sharing of electrons",
+          "explanation": "A difference in electronegativity produces partial charges in the bond.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-038",
+          "question": "A student is reviewing polar covalent bond. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No electron interaction"
+            },
+            {
+              "label": "B",
+              "text": "Unequal sharing of electrons"
+            },
+            {
+              "label": "C",
+              "text": "Complete transfer in all cases"
+            },
+            {
+              "label": "D",
+              "text": "Equal sharing in every case"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Unequal sharing of electrons",
+          "explanation": "A difference in electronegativity produces partial charges in the bond.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-039",
+          "question": "Which option gives the most accurate explanation of polar covalent bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Equal sharing in every case"
+            },
+            {
+              "label": "B",
+              "text": "No electron interaction"
+            },
+            {
+              "label": "C",
+              "text": "Unequal sharing of electrons"
+            },
+            {
+              "label": "D",
+              "text": "Complete transfer in all cases"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Unequal sharing of electrons",
+          "explanation": "A difference in electronegativity produces partial charges in the bond.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-040",
+          "question": "Choose the correct principle or fact associated with polar covalent bond.",
+          "options": [
+            {
+              "label": "A",
+              "text": "No electron interaction"
+            },
+            {
+              "label": "B",
+              "text": "Complete transfer in all cases"
+            },
+            {
+              "label": "C",
+              "text": "Unequal sharing of electrons"
+            },
+            {
+              "label": "D",
+              "text": "Equal sharing in every case"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Unequal sharing of electrons",
+          "explanation": "A difference in electronegativity produces partial charges in the bond.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Octet rule",
+      "questions": [
+        {
+          "id": "CH03-MCQ-041",
+          "question": "Which statement correctly describes octet rule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclei contain eight neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Atoms tend to attain eight valence electrons"
+            },
+            {
+              "label": "C",
+              "text": "Atoms always lose eight protons"
+            },
+            {
+              "label": "D",
+              "text": "All atoms must have eight shells"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Atoms tend to attain eight valence electrons",
+          "explanation": "Many main-group atoms form bonds to reach a noble-gas-like valence configuration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning octet rule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclei contain eight neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Atoms always lose eight protons"
+            },
+            {
+              "label": "C",
+              "text": "All atoms must have eight shells"
+            },
+            {
+              "label": "D",
+              "text": "Atoms tend to attain eight valence electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Atoms tend to attain eight valence electrons",
+          "explanation": "Many main-group atoms form bonds to reach a noble-gas-like valence configuration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-043",
+          "question": "A student is reviewing octet rule. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "All atoms must have eight shells"
+            },
+            {
+              "label": "B",
+              "text": "Atoms always lose eight protons"
+            },
+            {
+              "label": "C",
+              "text": "Nuclei contain eight neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Atoms tend to attain eight valence electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Atoms tend to attain eight valence electrons",
+          "explanation": "Many main-group atoms form bonds to reach a noble-gas-like valence configuration.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-044",
+          "question": "Which option gives the most accurate explanation of octet rule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Atoms tend to attain eight valence electrons"
+            },
+            {
+              "label": "B",
+              "text": "Nuclei contain eight neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Atoms always lose eight protons"
+            },
+            {
+              "label": "D",
+              "text": "All atoms must have eight shells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Atoms tend to attain eight valence electrons",
+          "explanation": "Many main-group atoms form bonds to reach a noble-gas-like valence configuration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-045",
+          "question": "Choose the correct principle or fact associated with octet rule.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclei contain eight neutrons"
+            },
+            {
+              "label": "B",
+              "text": "All atoms must have eight shells"
+            },
+            {
+              "label": "C",
+              "text": "Atoms tend to attain eight valence electrons"
+            },
+            {
+              "label": "D",
+              "text": "Atoms always lose eight protons"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Atoms tend to attain eight valence electrons",
+          "explanation": "Many main-group atoms form bonds to reach a noble-gas-like valence configuration.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Molecular shape",
+      "questions": [
+        {
+          "id": "CH03-MCQ-046",
+          "question": "Which statement correctly describes molecular shape?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass conservation alone"
+            },
+            {
+              "label": "B",
+              "text": "Nuclear magnetic attraction"
+            },
+            {
+              "label": "C",
+              "text": "Electron-pair repulsion"
+            },
+            {
+              "label": "D",
+              "text": "The colour of the molecule"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electron-pair repulsion",
+          "explanation": "Vsepr theory predicts geometry by minimising repulsion among electron domains.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning molecular shape?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear magnetic attraction"
+            },
+            {
+              "label": "B",
+              "text": "Electron-pair repulsion"
+            },
+            {
+              "label": "C",
+              "text": "The colour of the molecule"
+            },
+            {
+              "label": "D",
+              "text": "Mass conservation alone"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electron-pair repulsion",
+          "explanation": "Vsepr theory predicts geometry by minimising repulsion among electron domains.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-048",
+          "question": "A student is reviewing molecular shape. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The colour of the molecule"
+            },
+            {
+              "label": "B",
+              "text": "Nuclear magnetic attraction"
+            },
+            {
+              "label": "C",
+              "text": "Mass conservation alone"
+            },
+            {
+              "label": "D",
+              "text": "Electron-pair repulsion"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electron-pair repulsion",
+          "explanation": "Vsepr theory predicts geometry by minimising repulsion among electron domains.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-049",
+          "question": "Which option gives the most accurate explanation of molecular shape?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear magnetic attraction"
+            },
+            {
+              "label": "B",
+              "text": "Mass conservation alone"
+            },
+            {
+              "label": "C",
+              "text": "Electron-pair repulsion"
+            },
+            {
+              "label": "D",
+              "text": "The colour of the molecule"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electron-pair repulsion",
+          "explanation": "Vsepr theory predicts geometry by minimising repulsion among electron domains.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-050",
+          "question": "Choose the correct principle or fact associated with molecular shape.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electron-pair repulsion"
+            },
+            {
+              "label": "B",
+              "text": "The colour of the molecule"
+            },
+            {
+              "label": "C",
+              "text": "Mass conservation alone"
+            },
+            {
+              "label": "D",
+              "text": "Nuclear magnetic attraction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Electron-pair repulsion",
+          "explanation": "Vsepr theory predicts geometry by minimising repulsion among electron domains.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

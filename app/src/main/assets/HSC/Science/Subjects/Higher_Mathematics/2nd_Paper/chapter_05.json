@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 5,
+  "chapter_title": "Binomial Expansion",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Binomial Coefficients",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q001",
+          "question": "What is the coefficient of x^2 in (1+x)^5?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10",
+          "explanation": "By the binomial theorem the coefficient is nCr, giving 10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q002",
+          "question": "What is the coefficient of x^3 in (1+x)^6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "19"
+            },
+            {
+              "label": "B",
+              "text": "20"
+            },
+            {
+              "label": "C",
+              "text": "21"
+            },
+            {
+              "label": "D",
+              "text": "18"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "20",
+          "explanation": "By the binomial theorem the coefficient is nCr, giving 20.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q003",
+          "question": "What is the coefficient of x^2 in (1+x)^7?",
+          "options": [
+            {
+              "label": "A",
+              "text": "20"
+            },
+            {
+              "label": "B",
+              "text": "22"
+            },
+            {
+              "label": "C",
+              "text": "21"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "21",
+          "explanation": "By the binomial theorem the coefficient is nCr, giving 21.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q004",
+          "question": "What is the coefficient of x^4 in (1+x)^8?",
+          "options": [
+            {
+              "label": "A",
+              "text": "32"
+            },
+            {
+              "label": "B",
+              "text": "71"
+            },
+            {
+              "label": "C",
+              "text": "69"
+            },
+            {
+              "label": "D",
+              "text": "70"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "70",
+          "explanation": "By the binomial theorem the coefficient is nCr, giving 70.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q005",
+          "question": "What is the coefficient of x^3 in (1+x)^9?",
+          "options": [
+            {
+              "label": "A",
+              "text": "84"
+            },
+            {
+              "label": "B",
+              "text": "27"
+            },
+            {
+              "label": "C",
+              "text": "83"
+            },
+            {
+              "label": "D",
+              "text": "85"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "84",
+          "explanation": "By the binomial theorem the coefficient is nCr, giving 84.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Coefficients in Expansion",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q006",
+          "question": "What is the coefficient of x^2 in (1+2x)^4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "22"
+            },
+            {
+              "label": "B",
+              "text": "24"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "26"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "24",
+          "explanation": "The coefficient is nCr·a^r, which evaluates to 24.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q007",
+          "question": "What is the coefficient of x^2 in (1+3x)^5?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "93"
+            },
+            {
+              "label": "C",
+              "text": "90"
+            },
+            {
+              "label": "D",
+              "text": "87"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "90",
+          "explanation": "The coefficient is nCr·a^r, which evaluates to 90.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q008",
+          "question": "What is the coefficient of x^3 in (1+2x)^6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "158"
+            },
+            {
+              "label": "B",
+              "text": "20"
+            },
+            {
+              "label": "C",
+              "text": "162"
+            },
+            {
+              "label": "D",
+              "text": "160"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "160",
+          "explanation": "The coefficient is nCr·a^r, which evaluates to 160.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q009",
+          "question": "What is the coefficient of x^2 in (1+2x)^7?",
+          "options": [
+            {
+              "label": "A",
+              "text": "84"
+            },
+            {
+              "label": "B",
+              "text": "82"
+            },
+            {
+              "label": "C",
+              "text": "21"
+            },
+            {
+              "label": "D",
+              "text": "86"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "84",
+          "explanation": "The coefficient is nCr·a^r, which evaluates to 84.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q010",
+          "question": "What is the coefficient of x^3 in (1+3x)^8?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1509"
+            },
+            {
+              "label": "B",
+              "text": "1512"
+            },
+            {
+              "label": "C",
+              "text": "56"
+            },
+            {
+              "label": "D",
+              "text": "1515"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1512",
+          "explanation": "The coefficient is nCr·a^r, which evaluates to 1512.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "General Term",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q011",
+          "question": "In (a+b)^5, which term number contains a^3b^2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3",
+          "explanation": "The general term is T₍ᵣ₊₁₎=nCr·aⁿ⁻ʳbʳ. Therefore the term number is 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q012",
+          "question": "In (a+b)^6, which term number contains a^3b^3?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4",
+          "explanation": "The general term is T₍ᵣ₊₁₎=nCr·aⁿ⁻ʳbʳ. Therefore the term number is 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q013",
+          "question": "In (a+b)^7, which term number contains a^5b^2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3",
+          "explanation": "The general term is T₍ᵣ₊₁₎=nCr·aⁿ⁻ʳbʳ. Therefore the term number is 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q014",
+          "question": "In (a+b)^8, which term number contains a^4b^4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5",
+          "explanation": "The general term is T₍ᵣ₊₁₎=nCr·aⁿ⁻ʳbʳ. Therefore the term number is 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q015",
+          "question": "In (a+b)^9, which term number contains a^6b^3?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4",
+          "explanation": "The general term is T₍ᵣ₊₁₎=nCr·aⁿ⁻ʳbʳ. Therefore the term number is 4.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Middle Term",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q016",
+          "question": "Which term is the middle term in the expansion of (a+b)^4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "3",
+          "explanation": "For even n, the middle term has index n/2+1, so it is term 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q017",
+          "question": "Which term is the middle term in the expansion of (a+b)^6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4",
+          "explanation": "For even n, the middle term has index n/2+1, so it is term 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q018",
+          "question": "Which term is the middle term in the expansion of (a+b)^8?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5",
+          "explanation": "For even n, the middle term has index n/2+1, so it is term 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q019",
+          "question": "Which term is the middle term in the expansion of (a+b)^10?",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "6",
+          "explanation": "For even n, the middle term has index n/2+1, so it is term 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q020",
+          "question": "Which term is the middle term in the expansion of (a+b)^12?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "13"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "7",
+          "explanation": "For even n, the middle term has index n/2+1, so it is term 7.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sum of Coefficients",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q021",
+          "question": "What is the sum of all coefficients in (1+x)^3?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "8",
+          "explanation": "Set x=1 to sum the coefficients: (1+1)ⁿ=8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q022",
+          "question": "What is the sum of all coefficients in (1+x)^4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "17"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "18"
+            },
+            {
+              "label": "D",
+              "text": "15"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "16",
+          "explanation": "Set x=1 to sum the coefficients: (1+1)ⁿ=16.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q023",
+          "question": "What is the sum of all coefficients in (1+x)^5?",
+          "options": [
+            {
+              "label": "A",
+              "text": "25"
+            },
+            {
+              "label": "B",
+              "text": "31"
+            },
+            {
+              "label": "C",
+              "text": "32"
+            },
+            {
+              "label": "D",
+              "text": "33"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "32",
+          "explanation": "Set x=1 to sum the coefficients: (1+1)ⁿ=32.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q024",
+          "question": "What is the sum of all coefficients in (1+x)^6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "63"
+            },
+            {
+              "label": "B",
+              "text": "36"
+            },
+            {
+              "label": "C",
+              "text": "65"
+            },
+            {
+              "label": "D",
+              "text": "64"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "64",
+          "explanation": "Set x=1 to sum the coefficients: (1+1)ⁿ=64.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q025",
+          "question": "What is the sum of all coefficients in (1+x)^7?",
+          "options": [
+            {
+              "label": "A",
+              "text": "128"
+            },
+            {
+              "label": "B",
+              "text": "49"
+            },
+            {
+              "label": "C",
+              "text": "127"
+            },
+            {
+              "label": "D",
+              "text": "129"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "128",
+          "explanation": "Set x=1 to sum the coefficients: (1+1)ⁿ=128.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Alternating Coefficient Sum",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q026",
+          "question": "What is the alternating sum of coefficients in (1+x)^3?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "8"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "0",
+          "explanation": "Set x=−1. The alternating coefficient sum is (1−1)ⁿ=0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q027",
+          "question": "What is the alternating sum of coefficients in (1+x)^4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "0",
+          "explanation": "Set x=−1. The alternating coefficient sum is (1−1)ⁿ=0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q028",
+          "question": "What is the alternating sum of coefficients in (1+x)^5?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1"
+            },
+            {
+              "label": "B",
+              "text": "32"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "0",
+          "explanation": "Set x=−1. The alternating coefficient sum is (1−1)ⁿ=0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q029",
+          "question": "What is the alternating sum of coefficients in (1+x)^6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "64"
+            },
+            {
+              "label": "C",
+              "text": "-1"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "0",
+          "explanation": "Set x=−1. The alternating coefficient sum is (1−1)ⁿ=0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q030",
+          "question": "What is the alternating sum of coefficients in (1+x)^7?",
+          "options": [
+            {
+              "label": "A",
+              "text": "128"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "0",
+          "explanation": "Set x=−1. The alternating coefficient sum is (1−1)ⁿ=0.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Constant Term",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q031",
+          "question": "What is the constant term in the expansion of (x+2/x)^4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "25"
+            },
+            {
+              "label": "B",
+              "text": "23"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "24",
+          "explanation": "The general term has exponent n−2r; set it to zero to obtain constant term 24.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q032",
+          "question": "What is the constant term in the expansion of (x+2/x)^6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "20"
+            },
+            {
+              "label": "B",
+              "text": "159"
+            },
+            {
+              "label": "C",
+              "text": "161"
+            },
+            {
+              "label": "D",
+              "text": "160"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "160",
+          "explanation": "The general term has exponent n−2r; set it to zero to obtain constant term 160.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q033",
+          "question": "What is the constant term in the expansion of (x+3/x)^8?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5670"
+            },
+            {
+              "label": "B",
+              "text": "5671"
+            },
+            {
+              "label": "C",
+              "text": "70"
+            },
+            {
+              "label": "D",
+              "text": "5669"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5670",
+          "explanation": "The general term has exponent n−2r; set it to zero to obtain constant term 5670.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q034",
+          "question": "What is the constant term in the expansion of (x+2/x)^10?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8065"
+            },
+            {
+              "label": "B",
+              "text": "8064"
+            },
+            {
+              "label": "C",
+              "text": "252"
+            },
+            {
+              "label": "D",
+              "text": "8063"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "8064",
+          "explanation": "The general term has exponent n−2r; set it to zero to obtain constant term 8064.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q035",
+          "question": "What is the constant term in the expansion of (x+2/x)^12?",
+          "options": [
+            {
+              "label": "A",
+              "text": "924"
+            },
+            {
+              "label": "B",
+              "text": "59135"
+            },
+            {
+              "label": "C",
+              "text": "59136"
+            },
+            {
+              "label": "D",
+              "text": "59137"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "59136",
+          "explanation": "The general term has exponent n−2r; set it to zero to obtain constant term 59136.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Negative Binomial Signs",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q036",
+          "question": "Find the coefficient of x^3 in (1−x)^5.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-11"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "-9"
+            },
+            {
+              "label": "D",
+              "text": "-10"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-10",
+          "explanation": "For (1−x)ⁿ, the coefficient is nCr(−1)^r, giving -10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q037",
+          "question": "Find the coefficient of x^4 in (1−x)^6.",
+          "options": [
+            {
+              "label": "A",
+              "text": "15"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "15",
+          "explanation": "For (1−x)ⁿ, the coefficient is nCr(−1)^r, giving 15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q038",
+          "question": "Find the coefficient of x^5 in (1−x)^7.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-22"
+            },
+            {
+              "label": "B",
+              "text": "-21"
+            },
+            {
+              "label": "C",
+              "text": "-20"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-21",
+          "explanation": "For (1−x)ⁿ, the coefficient is nCr(−1)^r, giving -21.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q039",
+          "question": "Find the coefficient of x^6 in (1−x)^8.",
+          "options": [
+            {
+              "label": "A",
+              "text": "27"
+            },
+            {
+              "label": "B",
+              "text": "29"
+            },
+            {
+              "label": "C",
+              "text": "28"
+            },
+            {
+              "label": "D",
+              "text": "30"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "28",
+          "explanation": "For (1−x)ⁿ, the coefficient is nCr(−1)^r, giving 28.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q040",
+          "question": "Find the coefficient of x^4 in (1−x)^9.",
+          "options": [
+            {
+              "label": "A",
+              "text": "125"
+            },
+            {
+              "label": "B",
+              "text": "127"
+            },
+            {
+              "label": "C",
+              "text": "128"
+            },
+            {
+              "label": "D",
+              "text": "126"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "126",
+          "explanation": "For (1−x)ⁿ, the coefficient is nCr(−1)^r, giving 126.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Linear Coefficient",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q041",
+          "question": "Find the coefficient of x in (1+x)^4.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "16"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4",
+          "explanation": "The coefficient of x is nC1=n, which equals 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q042",
+          "question": "Find the coefficient of x in (1+x)^5.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "25"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5",
+          "explanation": "The coefficient of x is nC1=n, which equals 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q043",
+          "question": "Find the coefficient of x in (1+x)^6.",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "36"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "6",
+          "explanation": "The coefficient of x is nC1=n, which equals 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q044",
+          "question": "Find the coefficient of x in (1+x)^7.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "49"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "7",
+          "explanation": "The coefficient of x is nC1=n, which equals 7.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q045",
+          "question": "Find the coefficient of x in (1+x)^8.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "64"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "8",
+          "explanation": "The coefficient of x is nC1=n, which equals 8.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "General Binomial Term",
+      "questions": [
+        {
+          "id": "HM-P2-C05-Q046",
+          "question": "Find the numerical coefficient of a^3b^2 in (a+b)^5.",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "10",
+          "explanation": "The coefficient of aⁿ⁻ʳbʳ is nCr, giving 10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q047",
+          "question": "Find the numerical coefficient of a^3b^3 in (a+b)^6.",
+          "options": [
+            {
+              "label": "A",
+              "text": "21"
+            },
+            {
+              "label": "B",
+              "text": "18"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "19"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "20",
+          "explanation": "The coefficient of aⁿ⁻ʳbʳ is nCr, giving 20.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q048",
+          "question": "Find the numerical coefficient of a^5b^2 in (a+b)^7.",
+          "options": [
+            {
+              "label": "A",
+              "text": "22"
+            },
+            {
+              "label": "B",
+              "text": "14"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "21",
+          "explanation": "The coefficient of aⁿ⁻ʳbʳ is nCr, giving 21.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q049",
+          "question": "Find the numerical coefficient of a^4b^4 in (a+b)^8.",
+          "options": [
+            {
+              "label": "A",
+              "text": "70"
+            },
+            {
+              "label": "B",
+              "text": "71"
+            },
+            {
+              "label": "C",
+              "text": "32"
+            },
+            {
+              "label": "D",
+              "text": "69"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "70",
+          "explanation": "The coefficient of aⁿ⁻ʳbʳ is nCr, giving 70.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C05-Q050",
+          "question": "Find the numerical coefficient of a^6b^3 in (a+b)^9.",
+          "options": [
+            {
+              "label": "A",
+              "text": "27"
+            },
+            {
+              "label": "B",
+              "text": "84"
+            },
+            {
+              "label": "C",
+              "text": "83"
+            },
+            {
+              "label": "D",
+              "text": "85"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "84",
+          "explanation": "The coefficient of aⁿ⁻ʳbʳ is nCr, giving 84.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

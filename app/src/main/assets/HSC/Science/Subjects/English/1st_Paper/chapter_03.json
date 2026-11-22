@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 3,
+  "chapter_title": "Dreams, Myths and Literature",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "What is a Dream? - Science and Psychology",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-001",
+          "question": "Which psychoanalyst famously proposed that dreams are the 'royal road to the unconscious' in 'The Interpretation of Dreams' (1899)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sigmund Freud"
+            },
+            {
+              "label": "B",
+              "text": "Carl Jung"
+            },
+            {
+              "label": "C",
+              "text": "B.F. Skinner"
+            },
+            {
+              "label": "D",
+              "text": "Ivan Pavlov"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Sigmund Freud",
+          "explanation": "Sigmund Freud theorized that dreams represent disguised fulfillments of repressed unconscious desires and childhood wishes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-002",
+          "question": "During which phase of sleep do the most vivid and narrative-like dreams predominantly occur in humans?",
+          "options": [
+            {
+              "label": "A",
+              "text": "REM (Rapid Eye Movement) sleep"
+            },
+            {
+              "label": "B",
+              "text": "NREM Stage 1 light sleep"
+            },
+            {
+              "label": "C",
+              "text": "Deep slow-wave coma"
+            },
+            {
+              "label": "D",
+              "text": "Wakeful transition"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "REM (Rapid Eye Movement) sleep",
+          "explanation": "During REM sleep, brain activity mirrors wakefulness while voluntary muscles are paralyzed, producing intensely visual and emotional dreams.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-003",
+          "question": "What is the phenomenon where a person becomes conscious that they are dreaming while remaining asleep called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lucid dreaming"
+            },
+            {
+              "label": "B",
+              "text": "Somnambulism"
+            },
+            {
+              "label": "C",
+              "text": "Sleep apnea"
+            },
+            {
+              "label": "D",
+              "text": "Insomnia"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Lucid dreaming",
+          "explanation": "In a lucid dream, the dreamer is aware they are in a dream state and can often consciously manipulate or guide the dream environment.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-004",
+          "question": "Neurobiologists suggest that one evolutionary purpose of dreaming is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Memory consolidation, neural pruning, and emotional processing of waking experiences"
+            },
+            {
+              "label": "B",
+              "text": "Total shutdown of all brain cell metabolism"
+            },
+            {
+              "label": "C",
+              "text": "Predicting exact future stock market fluctuations"
+            },
+            {
+              "label": "D",
+              "text": "Converting physical body fat into bone tissue"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Memory consolidation, neural pruning, and emotional processing of waking experiences",
+          "explanation": "Modern cognitive science views dreams as part of memory processing, emotional regulation, and cognitive problem-solving.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-005",
+          "question": "What is the synonym of the word 'elusive' as applied to forgotten dreams in the morning?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fleeting and difficult to grasp"
+            },
+            {
+              "label": "B",
+              "text": "Permanent and unchangeable"
+            },
+            {
+              "label": "C",
+              "text": "Heavy and tangible"
+            },
+            {
+              "label": "D",
+              "text": "Terrifying"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Fleeting and difficult to grasp",
+          "explanation": "'Elusive' means difficult to find, catch, capture, or recall clearly in conscious memory.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Langston Hughes - Poems on Dreams",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-006",
+          "question": "In his famous poem 'Dreams', what does Langston Hughes compare a life without dreams to?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'A broken-winged bird that cannot fly' and 'A barren field frozen with snow'"
+            },
+            {
+              "label": "B",
+              "text": "A dry desert without water"
+            },
+            {
+              "label": "C",
+              "text": "A stormy sea without a lighthouse"
+            },
+            {
+              "label": "D",
+              "text": "An empty house without furniture"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'A broken-winged bird that cannot fly' and 'A barren field frozen with snow'",
+          "explanation": "Hughes uses two powerful metaphors: 'for if dreams die / Life is a broken-winged bird / That cannot fly' and 'a barren field / Frozen with snow.'",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-007",
+          "question": "What literary movement was Langston Hughes a leading pioneer of during the 1920s in New York?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Harlem Renaissance"
+            },
+            {
+              "label": "B",
+              "text": "The Victorian Era"
+            },
+            {
+              "label": "C",
+              "text": "The Beat Generation"
+            },
+            {
+              "label": "D",
+              "text": "The Romantic Period"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Harlem Renaissance",
+          "explanation": "Hughes was a central figure in the Harlem Renaissance, celebrating African American cultural identity, jazz poetry, and social justice.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-008",
+          "question": "In the poem 'Harlem' ('Dream Deferred'), Hughes asks: 'What happens to a dream deferred? Does it dry up like...'",
+          "options": [
+            {
+              "label": "A",
+              "text": "A raisin in the sun"
+            },
+            {
+              "label": "B",
+              "text": "A leaf in autumn"
+            },
+            {
+              "label": "C",
+              "text": "A droplet on glass"
+            },
+            {
+              "label": "D",
+              "text": "A snowflake on water"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A raisin in the sun",
+          "explanation": "Hughes opens: 'What happens to a dream deferred? / Does it dry up / like a raisin in the sun?'",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-009",
+          "question": "What is the climactic, explosive warning in the final line of Hughes's 'Harlem'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'Or does it explode?'"
+            },
+            {
+              "label": "B",
+              "text": "'Or does it fly away?'"
+            },
+            {
+              "label": "C",
+              "text": "'Or does it turn to dust?'"
+            },
+            {
+              "label": "D",
+              "text": "'Or does it sleep forever?'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'Or does it explode?'",
+          "explanation": "The italicized final question 'Or does it explode?' warns of social upheaval when marginalized communities have their human dreams deferred.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-010",
+          "question": "What does the word 'deferred' mean in 'a dream deferred'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Postponed, delayed, or put off to a later time"
+            },
+            {
+              "label": "B",
+              "text": "Accelerated and fulfilled quickly"
+            },
+            {
+              "label": "C",
+              "text": "Celebrated universally"
+            },
+            {
+              "label": "D",
+              "text": "Purchased with money"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Postponed, delayed, or put off to a later time",
+          "explanation": "'Deferred' means delayed or postponed; in the context of civil rights, it refers to justice and equality constantly delayed.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "D.H. Lawrence on Dreams and Action",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-011",
+          "question": "D.H. Lawrence contrasts two types of dreamers. Who are the 'dangerous men' according to him?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The dreamers of the day, who act on their dreams with open eyes to make them real"
+            },
+            {
+              "label": "B",
+              "text": "Night dreamers who sleep all day long"
+            },
+            {
+              "label": "C",
+              "text": "People who never dream at all"
+            },
+            {
+              "label": "D",
+              "text": "People who write science fiction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The dreamers of the day, who act on their dreams with open eyes to make them real",
+          "explanation": "Lawrence wrote: '...the dreamers of the day are dangerous men, for they may act on their dreams with open eyes, to make it possible.'",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-012",
+          "question": "What happens to the dreams of those who dream only at night in the 'dusty recesses of their minds'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They wake in the morning to find that it was mere vanity and illusion"
+            },
+            {
+              "label": "B",
+              "text": "Their dreams immediately materialize into gold"
+            },
+            {
+              "label": "C",
+              "text": "They permanently lose their memories"
+            },
+            {
+              "label": "D",
+              "text": "They become world leaders"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "They wake in the morning to find that it was mere vanity and illusion",
+          "explanation": "Lawrence observes that passive night-dreamers awake to the empty reality of the morning, finding their nightly dreams were hollow vanity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-013",
+          "question": "What is the synonym of the word 'vanity' in Lawrence's philosophical passage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Futility and worthlessness"
+            },
+            {
+              "label": "B",
+              "text": "Enduring achievement"
+            },
+            {
+              "label": "C",
+              "text": "Deep scientific truth"
+            },
+            {
+              "label": "D",
+              "text": "Physical stamina"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Futility and worthlessness",
+          "explanation": "'Vanity' here denotes emptiness, unreality, and hollow futility, derived from the Latin 'vanitas'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-014",
+          "question": "Why does Lawrence call day-dreamers 'dangerous'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they possess the relentless will to transform visionary ideas into physical reality"
+            },
+            {
+              "label": "B",
+              "text": "Because they carry dangerous weapons"
+            },
+            {
+              "label": "C",
+              "text": "Because they suffer from infectious diseases"
+            },
+            {
+              "label": "D",
+              "text": "Because they break laws without reason"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because they possess the relentless will to transform visionary ideas into physical reality",
+          "explanation": "They are 'dangerous' to the status quo because their conscious dreams ignite revolutions, inventions, and societal transformations.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG103-MCQ-015",
+          "question": "Which quality bridges the gap between a passive night dream and a realized daytime vision?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Conscious action, perseverance, and disciplined execution"
+            },
+            {
+              "label": "B",
+              "text": "Sleeping for more hours"
+            },
+            {
+              "label": "C",
+              "text": "Wishing on shooting stars"
+            },
+            {
+              "label": "D",
+              "text": "Avoiding all physical labor"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Conscious action, perseverance, and disciplined execution",
+          "explanation": "Dreams remain illusions unless backed by wakeful planning, decisive courage, and sustained labor.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "The Myth of Icarus and Daedalus",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-016",
+          "question": "In Greek mythology, why did the master craftsman Daedalus fashion wings made of bird feathers and wax?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To escape with his son Icarus from King Minos's island Labyrinth in Crete"
+            },
+            {
+              "label": "B",
+              "text": "To participate in an aerial tournament against gods"
+            },
+            {
+              "label": "C",
+              "text": "To fly to Mount Olympus and steal fire"
+            },
+            {
+              "label": "D",
+              "text": "To test a mechanical toy for children"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To escape with his son Icarus from King Minos's island Labyrinth in Crete",
+          "explanation": "King Minos imprisoned Daedalus and Icarus in Crete; Daedalus built wings of feathers bound with wax to escape by air.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-017",
+          "question": "What crucial warning did Daedalus give young Icarus before they took flight?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Do not fly too close to the sun lest the wax melt, nor too low lest seawater dampen the feathers"
+            },
+            {
+              "label": "B",
+              "text": "Do not fly after sunset"
+            },
+            {
+              "label": "C",
+              "text": "Fly as high as possible into the upper clouds"
+            },
+            {
+              "label": "D",
+              "text": "Follow the migratory sea birds at all times"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Do not fly too close to the sun lest the wax melt, nor too low lest seawater dampen the feathers",
+          "explanation": "Daedalus warned of the golden mean: flying too high would melt the wax via solar heat, while sea spray would weigh down low feathers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-018",
+          "question": "Why did Icarus disregard his father's advice and fly higher and higher toward the sky?",
+          "options": [
+            {
+              "label": "A",
+              "text": "He was overwhelmed by hubris, exhilarating ecstasy, and the intoxicating sensation of flight"
+            },
+            {
+              "label": "B",
+              "text": "He was attacked by an eagle"
+            },
+            {
+              "label": "C",
+              "text": "A strong updraft sucked him into the clouds against his will"
+            },
+            {
+              "label": "D",
+              "text": "He forgot where he was going"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He was overwhelmed by hubris, exhilarating ecstasy, and the intoxicating sensation of flight",
+          "explanation": "Youthful recklessness, pride (hubris), and the intoxicating freedom of flight tempted Icarus ever closer to the blazing sun.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-019",
+          "question": "What tragic consequence resulted from the melting of the beeswax on Icarus's wings?",
+          "options": [
+            {
+              "label": "A",
+              "text": "His feathers detached and he plummeted into the sea and drowned"
+            },
+            {
+              "label": "B",
+              "text": "He caught fire and turned into a constellation"
+            },
+            {
+              "label": "C",
+              "text": "He was rescued by a passing ship"
+            },
+            {
+              "label": "D",
+              "text": "He landed safely on a nearby island"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "His feathers detached and he plummeted into the sea and drowned",
+          "explanation": "The hot sun melted the wax; Icarus flapped his bare arms helplessly and plunged into the sea (now known as the Icarian Sea).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-020",
+          "question": "What moral and philosophical lesson does the myth of Icarus teach humanity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The perilous danger of excessive hubris, unchecked ambition, and disregarding wise counsel"
+            },
+            {
+              "label": "B",
+              "text": "That birds are superior to human beings"
+            },
+            {
+              "label": "C",
+              "text": "That wax is unsuitable for crafts"
+            },
+            {
+              "label": "D",
+              "text": "That fathers should never teach their sons crafts"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The perilous danger of excessive hubris, unchecked ambition, and disregarding wise counsel",
+          "explanation": "The tragedy of Icarus serves as a timeless cautionary tale against reckless pride, overstepping human bounds, and ignoring temperate wisdom.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "The Legend of Gazi - Folk Culture of Bengal",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-021",
+          "question": "In Bengal folk mythology, Gazi Pir is venerated as a saint who possessed miraculous powers to subdue which ferocious beast?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Royal Bengal Tiger and estuarine crocodiles"
+            },
+            {
+              "label": "B",
+              "text": "Wild desert camels"
+            },
+            {
+              "label": "C",
+              "text": "Polar bears"
+            },
+            {
+              "label": "D",
+              "text": "Sea whales"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Royal Bengal Tiger and estuarine crocodiles",
+          "explanation": "Gazi Pir is depicted in folk folklore as a saintly protector who tamed tigers and crocodiles in the treacherous, marshy forests of the Sundarbans.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-022",
+          "question": "How is Gazi Pir traditionally depicted in traditional folk scroll paintings (Gazir Pat)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Riding majestically on a fierce Royal Bengal tiger with a staff or sword in hand"
+            },
+            {
+              "label": "B",
+              "text": "Flying on an airborne chariot"
+            },
+            {
+              "label": "C",
+              "text": "Sitting under an oak tree in winter"
+            },
+            {
+              "label": "D",
+              "text": "Sailing on a steamship"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Riding majestically on a fierce Royal Bengal tiger with a staff or sword in hand",
+          "explanation": "Folk artists (patuas) depict Gazi Pir riding serenely atop a tiger, symbolizing the harmonious reconciliation between human holiness and wild nature.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-023",
+          "question": "Who were the primary communities in southern Bengal who prayed to Gazi Pir for spiritual protection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Woodcutters (bawalis), honey-collectors (mowals), and fishermen entering the Sundarbans"
+            },
+            {
+              "label": "B",
+              "text": "Merchants trading with European ships"
+            },
+            {
+              "label": "C",
+              "text": "Textile factory owners in Dhaka"
+            },
+            {
+              "label": "D",
+              "text": "Tea garden owners in Sylhet"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Woodcutters (bawalis), honey-collectors (mowals), and fishermen entering the Sundarbans",
+          "explanation": "Because the Sundarbans mangrove jungle was fraught with man-eating tigers and snakes, forest dwellers sought Gazi Pir's divine blessing before entering.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-024",
+          "question": "What performing art accompanied the visual display of Gazir Pat (Gazi scrolls) in rural villages?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Singing narrative ballads and rhythmic storytelling by traveling folk minstrels"
+            },
+            {
+              "label": "B",
+              "text": "Silent pantomime acts without words"
+            },
+            {
+              "label": "C",
+              "text": "Western classical violin concerts"
+            },
+            {
+              "label": "D",
+              "text": "Modern digital cinema projection"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Singing narrative ballads and rhythmic storytelling by traveling folk minstrels",
+          "explanation": "Patuas unrolled scroll paintings section by section while singing traditional verses narrating Gazi Pir's miraculous exploits.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-025",
+          "question": "What does the Gazi Pir tradition reflect about the cultural syncretism of rural Bengal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Harmonious coexistence and mutual reverence shared by both Hindu and Muslim communities"
+            },
+            {
+              "label": "B",
+              "text": "Strict sectarian division and hostility"
+            },
+            {
+              "label": "C",
+              "text": "Foreign colonial influence"
+            },
+            {
+              "label": "D",
+              "text": "Rejection of local folklore"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Harmonious coexistence and mutual reverence shared by both Hindu and Muslim communities",
+          "explanation": "Both Hindu and Muslim forest-goers reverently pray to Gazi Pir and Bonbibi, embodying Bengal's secular, syncretic folk heritage.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Khona's Sayings - Agricultural Wisdom of Bengal",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-026",
+          "question": "Who was Khona in the oral literary folklore of Bengal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A legendary medieval woman renowned for her rhyming proverbs on agriculture, weather, and health"
+            },
+            {
+              "label": "B",
+              "text": "A royal queen who commanded an army of archers"
+            },
+            {
+              "label": "C",
+              "text": "A Sanskrit dramatist who wrote court comedies"
+            },
+            {
+              "label": "D",
+              "text": "A famous musician at the court of Akbar"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A legendary medieval woman renowned for her rhyming proverbs on agriculture, weather, and health",
+          "explanation": "Khona (or Lilavati) was a legendary astronomer and poetess whose pithy rhymed maxims ('Khonar Bochon') have guided Bengal's farmers for centuries.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-027",
+          "question": "What primary subjects do 'Khonar Bochon' (Khona's maxims) focus upon?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Crop cultivation, monsoon forecasting, soil preparation, and domestic well-being"
+            },
+            {
+              "label": "B",
+              "text": "International maritime diplomacy"
+            },
+            {
+              "label": "C",
+              "text": "Chemical weapon design"
+            },
+            {
+              "label": "D",
+              "text": "Urban railway construction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Crop cultivation, monsoon forecasting, soil preparation, and domestic well-being",
+          "explanation": "Her rhymes contain practical observational wisdom regarding seasonal rains, planting schedules for rice, coconut, and vegetables, and animal husbandry.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-028",
+          "question": "According to tragic legend, why was Khona's tongue severed by her father-in-law or husband?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because her astrological and agricultural predictions surpassed and humiliated the royal male astrologers"
+            },
+            {
+              "label": "B",
+              "text": "Because she spoke treason against the emperor"
+            },
+            {
+              "label": "C",
+              "text": "Because she refused to marry a prince"
+            },
+            {
+              "label": "D",
+              "text": "Due to a medical affliction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because her astrological and agricultural predictions surpassed and humiliated the royal male astrologers",
+          "explanation": "The tragic myth reflects patriarchal jealousy where her extraordinary astronomical genius eclipsed male court scholars, leading to her silencing.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-029",
+          "question": "What is the enduring cultural value of 'Khonar Bochon' today?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They represent indigenous scientific knowledge and weather wisdom passed down through generations"
+            },
+            {
+              "label": "B",
+              "text": "They are exclusively used as courtroom legal statutes"
+            },
+            {
+              "label": "C",
+              "text": "They have been proven completely false by modern meteorology"
+            },
+            {
+              "label": "D",
+              "text": "They are only memorized by urban bankers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "They represent indigenous scientific knowledge and weather wisdom passed down through generations",
+          "explanation": "Khona's sayings preserve centuries of empirical observation of climatic patterns, monsoons, and organic agricultural rhythms.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-030",
+          "question": "What poetic form do Khona's sayings typically take?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Short, rhymed couplets and quatrains in colloquial Bengali"
+            },
+            {
+              "label": "B",
+              "text": "Long epic poems in unrhymed blank verse"
+            },
+            {
+              "label": "C",
+              "text": "Fourteen-line Shakespearean sonnets"
+            },
+            {
+              "label": "D",
+              "text": "Complex prose essays"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Short, rhymed couplets and quatrains in colloquial Bengali",
+          "explanation": "The proverbs are composed in rhythmic, easily memorable rhyming couplets perfectly suited for oral recitation by rural farmers.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "William Wordsworth - 'The Solitary Reaper'",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-031",
+          "question": "Where does the speaker in William Wordsworth's poem encounter the 'Solitary Reaper'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In the remote Scottish Highlands"
+            },
+            {
+              "label": "B",
+              "text": "In the streets of London"
+            },
+            {
+              "label": "C",
+              "text": "On an island in the Mediterranean"
+            },
+            {
+              "label": "D",
+              "text": "In the valleys of Switzerland"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In the remote Scottish Highlands",
+          "explanation": "Wordsworth encounters the 'Highland Lass' reaping grain and singing all alone in a secluded Scottish field.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-032",
+          "question": "What is the solitary maiden doing as she works in the field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reaping and binding the grain while singing a melancholy strain"
+            },
+            {
+              "label": "B",
+              "text": "Painting the mountain scenery"
+            },
+            {
+              "label": "C",
+              "text": "Planting seeds in complete silence"
+            },
+            {
+              "label": "D",
+              "text": "Herding sheep across a stream"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Reaping and binding the grain while singing a melancholy strain",
+          "explanation": "Wordsworth writes: 'Alone she cuts and binds the grain, / And sings a melancholy strain.'",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-033",
+          "question": "Which two birds does the poet compare the reaper's enchanting voice to?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Nightingale and the Cuckoo"
+            },
+            {
+              "label": "B",
+              "text": "The Eagle and the Hawk"
+            },
+            {
+              "label": "C",
+              "text": "The Sparrow and the Robin"
+            },
+            {
+              "label": "D",
+              "text": "The Swan and the Peacock"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Nightingale and the Cuckoo",
+          "explanation": "Her voice is sweeter than a nightingale singing to weary desert travelers and more thrilling than a cuckoo breaking the silence of the Hebrides.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-034",
+          "question": "Why does the poet say 'Will no one tell me what she sings?'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because she was singing in Scots Gaelic, a language the poet did not understand"
+            },
+            {
+              "label": "B",
+              "text": "Because her voice was too quiet to hear"
+            },
+            {
+              "label": "C",
+              "text": "Because the poet was completely deaf"
+            },
+            {
+              "label": "D",
+              "text": "Because the wind blew her words away"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because she was singing in Scots Gaelic, a language the poet did not understand",
+          "explanation": "The Highland maiden sang in Scots Gaelic; though Wordsworth could not comprehend the dialect words, the poignant emotional melody touched him deeply.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-035",
+          "question": "What enduring effect did the reaper's song have on the poet as he climbed up the hill?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'The music in my heart I bore, / Long after it was heard no more'"
+            },
+            {
+              "label": "B",
+              "text": "He instantly forgot the entire melody"
+            },
+            {
+              "label": "C",
+              "text": "He decided to become a Scottish farmer"
+            },
+            {
+              "label": "D",
+              "text": "He wrote a letter of protest to the landowner"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'The music in my heart I bore, / Long after it was heard no more'",
+          "explanation": "Wordsworth carried the memory of the sweet song in his heart long after the physical sound faded, demonstrating Romanticism's power of memory.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Literary Devices and Poetic Imagery",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-036",
+          "question": "In 'Life is a broken-winged bird', what poetic figure of speech is utilized?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metaphor"
+            },
+            {
+              "label": "B",
+              "text": "Simile"
+            },
+            {
+              "label": "C",
+              "text": "Hyperbole"
+            },
+            {
+              "label": "D",
+              "text": "Apostrophe"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Metaphor",
+          "explanation": "Directly identifying life with a broken-winged bird without using 'like' or 'as' is a direct metaphor.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-037",
+          "question": "In 'Does it dry up like a raisin in the sun?', what figure of speech is employed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Simile"
+            },
+            {
+              "label": "B",
+              "text": "Metaphor"
+            },
+            {
+              "label": "C",
+              "text": "Synecdoche"
+            },
+            {
+              "label": "D",
+              "text": "Metonymy"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Simile",
+          "explanation": "Comparing a deferred dream to a drying raisin using the comparative word 'like' creates a vivid simile.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-038",
+          "question": "What type of imagery dominates the lines 'A voice so thrilling ne'er was heard / In spring-time from the Cuckoo-bird'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Auditory imagery"
+            },
+            {
+              "label": "B",
+              "text": "Olfactory imagery"
+            },
+            {
+              "label": "C",
+              "text": "Tactile imagery"
+            },
+            {
+              "label": "D",
+              "text": "Gustatory imagery"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Auditory imagery",
+          "explanation": "Auditory imagery appeals to the sense of hearing, describing the piercing, melodious sound of birds and songs.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-039",
+          "question": "What is the rhyme scheme of Hughes's stanza: 'Hold fast to dreams / For if dreams die / Life is a broken-winged bird / That cannot fly'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ABCB"
+            },
+            {
+              "label": "B",
+              "text": "AABB"
+            },
+            {
+              "label": "C",
+              "text": "ABAB"
+            },
+            {
+              "label": "D",
+              "text": "ABBA"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ABCB",
+          "explanation": "'dreams' (A), 'die' (B), 'bird' (C), 'fly' (B) produces an ABCB rhyming pattern where lines 2 and 4 rhyme.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-040",
+          "question": "In literature, what is an 'archetype'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A recurrent symbol, character motif, or mythic narrative across different cultures (e.g. the flying hero who falls)"
+            },
+            {
+              "label": "B",
+              "text": "A typographical printing error"
+            },
+            {
+              "label": "C",
+              "text": "A poem consisting only of numbers"
+            },
+            {
+              "label": "D",
+              "text": "An unpublished personal diary"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A recurrent symbol, character motif, or mythic narrative across different cultures (e.g. the flying hero who falls)",
+          "explanation": "An archetype is a universal, primordial image, character type, or pattern found in myths, folklore, and literature across human history.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vocabulary and Connotative Meaning",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-041",
+          "question": "What does 'hubris' mean in classical Greek mythic literature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Excessive, dangerous pride or self-confidence defying the gods"
+            },
+            {
+              "label": "B",
+              "text": "Extreme physical weakness"
+            },
+            {
+              "label": "C",
+              "text": "Loyalty to family elders"
+            },
+            {
+              "label": "D",
+              "text": "Deep philosophical wisdom"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Excessive, dangerous pride or self-confidence defying the gods",
+          "explanation": "'Hubris' is arrogant overconfidence and fatal pride that leads tragic mythic figures (like Icarus) to their downfall.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-042",
+          "question": "What is the synonym of the word 'barren' in 'a barren field frozen with snow'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Desolate and unproductive"
+            },
+            {
+              "label": "B",
+              "text": "Lush and fertile"
+            },
+            {
+              "label": "C",
+              "text": "Crowded and vibrant"
+            },
+            {
+              "label": "D",
+              "text": "Warm and hospitable"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Desolate and unproductive",
+          "explanation": "'Barren' describes land unable to bear vegetation, fruit, or crops; desolate and unproductive are direct synonyms.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-043",
+          "question": "What is the meaning of 'plaintive numbers' in Wordsworth's line 'Perhaps the plaintive numbers flow / For old, unhappy, far-off things'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sorrowful, melancholy poetic verses or musical notes"
+            },
+            {
+              "label": "B",
+              "text": "Complicated mathematical calculations"
+            },
+            {
+              "label": "C",
+              "text": "Telephone dial numbers"
+            },
+            {
+              "label": "D",
+              "text": "Census statistics of a population"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Sorrowful, melancholy poetic verses or musical notes",
+          "explanation": "In poetic English, 'numbers' historically refers to metrical musical verses or rhythmic poetry; 'plaintive' means mournful.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG103-MCQ-044",
+          "question": "What is the antonym of the word 'fester' as in 'Or does it fester like a sore?'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heal"
+            },
+            {
+              "label": "B",
+              "text": "Rot"
+            },
+            {
+              "label": "C",
+              "text": "Decay"
+            },
+            {
+              "label": "D",
+              "text": "Infect"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Heal",
+          "explanation": "'Fester' means to generate pus, rot, or deteriorate painfully. Its direct opposite is 'heal'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-045",
+          "question": "What does the word 'syncretic' mean when describing the legend of Gazi Pir?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Combining and blending different religious traditions and cultural beliefs into a unified whole"
+            },
+            {
+              "label": "B",
+              "text": "Strictly limited to a foreign language"
+            },
+            {
+              "label": "C",
+              "text": "Composed in computerized binary format"
+            },
+            {
+              "label": "D",
+              "text": "Violently rejecting all ancient folklore"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Combining and blending different religious traditions and cultural beliefs into a unified whole",
+          "explanation": "Cultural syncretism is the fusion of diverse philosophical or religious traditions (e.g. Sufi-Hindu integration in Bengal folk culture).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Grammar and Syntax in Literary Context",
+      "questions": [
+        {
+          "id": "ENG103-MCQ-046",
+          "question": "Identify the figure of speech and grammatical structure in: 'Stop here, or gently pass!'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Imperative sentence mood addressing an implied reader"
+            },
+            {
+              "label": "B",
+              "text": "Interrogative question"
+            },
+            {
+              "label": "C",
+              "text": "Passive subjunctive clause"
+            },
+            {
+              "label": "D",
+              "text": "Negative inverted statement"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Imperative sentence mood addressing an implied reader",
+          "explanation": "The poet addresses travelers in the imperative mood ('Stop here, or gently pass!'), inviting them to respect the singer's solitude.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG103-MCQ-047",
+          "question": "Choose the correct preposition: 'The youth yearned ______ soaring higher into the heavens.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "for"
+            },
+            {
+              "label": "B",
+              "text": "to"
+            },
+            {
+              "label": "C",
+              "text": "at"
+            },
+            {
+              "label": "D",
+              "text": "with"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "for",
+          "explanation": "The appropriate preposition after the verb 'yearn' is 'for' (yearn for something / doing something).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-048",
+          "question": "'O listen! for the Vale profound / Is overflowing with the sound.' What does 'Vale profound' mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A deep, echoing mountain valley"
+            },
+            {
+              "label": "B",
+              "text": "A shallow ditch in an urban street"
+            },
+            {
+              "label": "C",
+              "text": "A dark underground mine"
+            },
+            {
+              "label": "D",
+              "text": "A thick ocean cloud"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A deep, echoing mountain valley",
+          "explanation": "'Vale' is poetic for valley; 'profound' means deep, describing the vast mountain valley reverberating with song.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG103-MCQ-049",
+          "question": "What is the grammatical function of the underlined phrase: '[Singing a melancholy song], the reaper worked in the field.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Participial phrase acting as an adverbial modifier of the subject"
+            },
+            {
+              "label": "B",
+              "text": "Noun clause functioning as direct object"
+            },
+            {
+              "label": "C",
+              "text": "Prepositional phrase of place"
+            },
+            {
+              "label": "D",
+              "text": "Infinitive clause of purpose"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Participial phrase acting as an adverbial modifier of the subject",
+          "explanation": "'Singing a melancholy song' is a present participial phrase modifying the subject 'the reaper'.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG103-MCQ-050",
+          "question": "Complete the sentence correctly: 'Neither Daedalus nor his companions ______ able to prevent Icarus from his reckless flight.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "were"
+            },
+            {
+              "label": "B",
+              "text": "was"
+            },
+            {
+              "label": "C",
+              "text": "is"
+            },
+            {
+              "label": "D",
+              "text": "has been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "were",
+          "explanation": "In 'neither... nor...', the verb agrees with the closer subject ('his companions', plural), requiring 'were'.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

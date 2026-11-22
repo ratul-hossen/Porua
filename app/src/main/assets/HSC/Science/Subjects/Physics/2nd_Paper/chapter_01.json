@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 1,
+  "chapter_title": "Thermodynamics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Thermal equilibrium",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ001",
+          "question": "Which statement best describes thermal equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conservation of energy"
+            },
+            {
+              "label": "B",
+              "text": "work-energy equivalence"
+            },
+            {
+              "label": "C",
+              "text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium"
+            },
+            {
+              "label": "D",
+              "text": "entropy increase only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium",
+          "explanation": "If A and B are each in thermal equilibrium with C, they are in equilibrium with each other.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ002",
+          "question": "Which option is correctly associated with thermal equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conservation of energy"
+            },
+            {
+              "label": "B",
+              "text": "entropy increase only"
+            },
+            {
+              "label": "C",
+              "text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium"
+            },
+            {
+              "label": "D",
+              "text": "work-energy equivalence"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium",
+          "explanation": "If A and B are each in thermal equilibrium with C, they are in equilibrium with each other.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ003",
+          "question": "In a basic HSC Physics question about thermal equilibrium, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "entropy increase only"
+            },
+            {
+              "label": "B",
+              "text": "work-energy equivalence"
+            },
+            {
+              "label": "C",
+              "text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium"
+            },
+            {
+              "label": "D",
+              "text": "conservation of energy"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium",
+          "explanation": "If A and B are each in thermal equilibrium with C, they are in equilibrium with each other.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ004",
+          "question": "Which fact should be remembered about thermal equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conservation of energy"
+            },
+            {
+              "label": "B",
+              "text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium"
+            },
+            {
+              "label": "C",
+              "text": "entropy increase only"
+            },
+            {
+              "label": "D",
+              "text": "work-energy equivalence"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium",
+          "explanation": "If A and B are each in thermal equilibrium with C, they are in equilibrium with each other.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning thermal equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "entropy increase only"
+            },
+            {
+              "label": "B",
+              "text": "conservation of energy"
+            },
+            {
+              "label": "C",
+              "text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium"
+            },
+            {
+              "label": "D",
+              "text": "work-energy equivalence"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The zeroth law of thermodynamics establishes the transitive nature of thermal equilibrium",
+          "explanation": "If A and B are each in thermal equilibrium with C, they are in equilibrium with each other.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "First law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ006",
+          "question": "Which statement best describes first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Newton's third law"
+            },
+            {
+              "label": "B",
+              "text": "conservation of momentum only"
+            },
+            {
+              "label": "C",
+              "text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system"
+            },
+            {
+              "label": "D",
+              "text": "conservation of charge"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system",
+          "explanation": "A common convention is ∆Q = ∆U + W, where W is work done by the system.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ007",
+          "question": "Which option is correctly associated with first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Newton's third law"
+            },
+            {
+              "label": "B",
+              "text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system"
+            },
+            {
+              "label": "C",
+              "text": "conservation of charge"
+            },
+            {
+              "label": "D",
+              "text": "conservation of momentum only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system",
+          "explanation": "A common convention is ∆Q = ∆U + W, where W is work done by the system.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ008",
+          "question": "In a basic HSC Physics question about first law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system"
+            },
+            {
+              "label": "B",
+              "text": "conservation of momentum only"
+            },
+            {
+              "label": "C",
+              "text": "Newton's third law"
+            },
+            {
+              "label": "D",
+              "text": "conservation of charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system",
+          "explanation": "A common convention is ∆Q = ∆U + W, where W is work done by the system.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ009",
+          "question": "Which fact should be remembered about first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Newton's third law"
+            },
+            {
+              "label": "B",
+              "text": "conservation of charge"
+            },
+            {
+              "label": "C",
+              "text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system"
+            },
+            {
+              "label": "D",
+              "text": "conservation of momentum only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system",
+          "explanation": "A common convention is ∆Q = ∆U + W, where W is work done by the system.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Newton's third law"
+            },
+            {
+              "label": "B",
+              "text": "conservation of charge"
+            },
+            {
+              "label": "C",
+              "text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system"
+            },
+            {
+              "label": "D",
+              "text": "conservation of momentum only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The first law of thermodynamics expresses conservation of energy for a thermodynamic system",
+          "explanation": "A common convention is ∆Q = ∆U + W, where W is work done by the system.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Internal energy",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ011",
+          "question": "Which statement best describes internal energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents"
+            },
+            {
+              "label": "B",
+              "text": "the work done on the surroundings"
+            },
+            {
+              "label": "C",
+              "text": "its gravitational energy only"
+            },
+            {
+              "label": "D",
+              "text": "the system's centre-of-mass kinetic energy only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents",
+          "explanation": "Internal energy accounts for microscopic energy within the system.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ012",
+          "question": "Which option is correctly associated with internal energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its gravitational energy only"
+            },
+            {
+              "label": "B",
+              "text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents"
+            },
+            {
+              "label": "C",
+              "text": "the system's centre-of-mass kinetic energy only"
+            },
+            {
+              "label": "D",
+              "text": "the work done on the surroundings"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents",
+          "explanation": "Internal energy accounts for microscopic energy within the system.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ013",
+          "question": "In a basic HSC Physics question about internal energy, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the work done on the surroundings"
+            },
+            {
+              "label": "B",
+              "text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents"
+            },
+            {
+              "label": "C",
+              "text": "the system's centre-of-mass kinetic energy only"
+            },
+            {
+              "label": "D",
+              "text": "its gravitational energy only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents",
+          "explanation": "Internal energy accounts for microscopic energy within the system.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ014",
+          "question": "Which fact should be remembered about internal energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its gravitational energy only"
+            },
+            {
+              "label": "B",
+              "text": "the system's centre-of-mass kinetic energy only"
+            },
+            {
+              "label": "C",
+              "text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents"
+            },
+            {
+              "label": "D",
+              "text": "the work done on the surroundings"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents",
+          "explanation": "Internal energy accounts for microscopic energy within the system.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning internal energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its gravitational energy only"
+            },
+            {
+              "label": "B",
+              "text": "the work done on the surroundings"
+            },
+            {
+              "label": "C",
+              "text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents"
+            },
+            {
+              "label": "D",
+              "text": "the system's centre-of-mass kinetic energy only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Internal energy is the microscopic kinetic and potential energy of a system's constituents",
+          "explanation": "Internal energy accounts for microscopic energy within the system.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Isothermal process",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ016",
+          "question": "Which statement best describes isothermal process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume remains constant"
+            },
+            {
+              "label": "B",
+              "text": "In an isothermal process, temperature remains constant"
+            },
+            {
+              "label": "C",
+              "text": "pressure remains constant"
+            },
+            {
+              "label": "D",
+              "text": "heat transfer is always zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In an isothermal process, temperature remains constant",
+          "explanation": "Isothermal means constant temperature; heat may flow to maintain it.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ017",
+          "question": "Which option is correctly associated with isothermal process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In an isothermal process, temperature remains constant"
+            },
+            {
+              "label": "B",
+              "text": "volume remains constant"
+            },
+            {
+              "label": "C",
+              "text": "pressure remains constant"
+            },
+            {
+              "label": "D",
+              "text": "heat transfer is always zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In an isothermal process, temperature remains constant",
+          "explanation": "Isothermal means constant temperature; heat may flow to maintain it.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ018",
+          "question": "In a basic HSC Physics question about isothermal process, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume remains constant"
+            },
+            {
+              "label": "B",
+              "text": "heat transfer is always zero"
+            },
+            {
+              "label": "C",
+              "text": "In an isothermal process, temperature remains constant"
+            },
+            {
+              "label": "D",
+              "text": "pressure remains constant"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In an isothermal process, temperature remains constant",
+          "explanation": "Isothermal means constant temperature; heat may flow to maintain it.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ019",
+          "question": "Which fact should be remembered about isothermal process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume remains constant"
+            },
+            {
+              "label": "B",
+              "text": "In an isothermal process, temperature remains constant"
+            },
+            {
+              "label": "C",
+              "text": "pressure remains constant"
+            },
+            {
+              "label": "D",
+              "text": "heat transfer is always zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In an isothermal process, temperature remains constant",
+          "explanation": "Isothermal means constant temperature; heat may flow to maintain it.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning isothermal process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume remains constant"
+            },
+            {
+              "label": "B",
+              "text": "pressure remains constant"
+            },
+            {
+              "label": "C",
+              "text": "heat transfer is always zero"
+            },
+            {
+              "label": "D",
+              "text": "In an isothermal process, temperature remains constant"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In an isothermal process, temperature remains constant",
+          "explanation": "Isothermal means constant temperature; heat may flow to maintain it.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Adiabatic process",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ021",
+          "question": "Which statement best describes adiabatic process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "temperature is constant"
+            },
+            {
+              "label": "B",
+              "text": "In an adiabatic process, no heat is transferred across the system boundary"
+            },
+            {
+              "label": "C",
+              "text": "pressure is constant"
+            },
+            {
+              "label": "D",
+              "text": "internal energy is zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In an adiabatic process, no heat is transferred across the system boundary",
+          "explanation": "Adiabatic means Q = 0; temperature can change.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ022",
+          "question": "Which option is correctly associated with adiabatic process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In an adiabatic process, no heat is transferred across the system boundary"
+            },
+            {
+              "label": "B",
+              "text": "temperature is constant"
+            },
+            {
+              "label": "C",
+              "text": "pressure is constant"
+            },
+            {
+              "label": "D",
+              "text": "internal energy is zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In an adiabatic process, no heat is transferred across the system boundary",
+          "explanation": "Adiabatic means Q = 0; temperature can change.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ023",
+          "question": "In a basic HSC Physics question about adiabatic process, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In an adiabatic process, no heat is transferred across the system boundary"
+            },
+            {
+              "label": "B",
+              "text": "internal energy is zero"
+            },
+            {
+              "label": "C",
+              "text": "pressure is constant"
+            },
+            {
+              "label": "D",
+              "text": "temperature is constant"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In an adiabatic process, no heat is transferred across the system boundary",
+          "explanation": "Adiabatic means Q = 0; temperature can change.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ024",
+          "question": "Which fact should be remembered about adiabatic process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "internal energy is zero"
+            },
+            {
+              "label": "B",
+              "text": "In an adiabatic process, no heat is transferred across the system boundary"
+            },
+            {
+              "label": "C",
+              "text": "pressure is constant"
+            },
+            {
+              "label": "D",
+              "text": "temperature is constant"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In an adiabatic process, no heat is transferred across the system boundary",
+          "explanation": "Adiabatic means Q = 0; temperature can change.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning adiabatic process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "temperature is constant"
+            },
+            {
+              "label": "B",
+              "text": "pressure is constant"
+            },
+            {
+              "label": "C",
+              "text": "In an adiabatic process, no heat is transferred across the system boundary"
+            },
+            {
+              "label": "D",
+              "text": "internal energy is zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In an adiabatic process, no heat is transferred across the system boundary",
+          "explanation": "Adiabatic means Q = 0; temperature can change.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Isobaric process",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ026",
+          "question": "Which statement best describes isobaric process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An isobaric process occurs at constant pressure"
+            },
+            {
+              "label": "B",
+              "text": "constant temperature"
+            },
+            {
+              "label": "C",
+              "text": "zero work"
+            },
+            {
+              "label": "D",
+              "text": "constant volume"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An isobaric process occurs at constant pressure",
+          "explanation": "The prefix 'iso' means same, and 'baric' refers to pressure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ027",
+          "question": "Which option is correctly associated with isobaric process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An isobaric process occurs at constant pressure"
+            },
+            {
+              "label": "B",
+              "text": "zero work"
+            },
+            {
+              "label": "C",
+              "text": "constant temperature"
+            },
+            {
+              "label": "D",
+              "text": "constant volume"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An isobaric process occurs at constant pressure",
+          "explanation": "The prefix 'iso' means same, and 'baric' refers to pressure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ028",
+          "question": "In a basic HSC Physics question about isobaric process, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "constant volume"
+            },
+            {
+              "label": "B",
+              "text": "zero work"
+            },
+            {
+              "label": "C",
+              "text": "An isobaric process occurs at constant pressure"
+            },
+            {
+              "label": "D",
+              "text": "constant temperature"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An isobaric process occurs at constant pressure",
+          "explanation": "The prefix 'iso' means same, and 'baric' refers to pressure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ029",
+          "question": "Which fact should be remembered about isobaric process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "constant temperature"
+            },
+            {
+              "label": "B",
+              "text": "An isobaric process occurs at constant pressure"
+            },
+            {
+              "label": "C",
+              "text": "zero work"
+            },
+            {
+              "label": "D",
+              "text": "constant volume"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "An isobaric process occurs at constant pressure",
+          "explanation": "The prefix 'iso' means same, and 'baric' refers to pressure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning isobaric process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "constant volume"
+            },
+            {
+              "label": "B",
+              "text": "An isobaric process occurs at constant pressure"
+            },
+            {
+              "label": "C",
+              "text": "zero work"
+            },
+            {
+              "label": "D",
+              "text": "constant temperature"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "An isobaric process occurs at constant pressure",
+          "explanation": "The prefix 'iso' means same, and 'baric' refers to pressure.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Isochoric process",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ031",
+          "question": "Which statement best describes isochoric process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure remains constant"
+            },
+            {
+              "label": "B",
+              "text": "heat transfer is zero"
+            },
+            {
+              "label": "C",
+              "text": "In an isochoric process, volume remains constant and boundary work is zero"
+            },
+            {
+              "label": "D",
+              "text": "temperature remains constant"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In an isochoric process, volume remains constant and boundary work is zero",
+          "explanation": "W = ∫p dV = 0 when volume does not change.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ032",
+          "question": "Which option is correctly associated with isochoric process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heat transfer is zero"
+            },
+            {
+              "label": "B",
+              "text": "pressure remains constant"
+            },
+            {
+              "label": "C",
+              "text": "temperature remains constant"
+            },
+            {
+              "label": "D",
+              "text": "In an isochoric process, volume remains constant and boundary work is zero"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In an isochoric process, volume remains constant and boundary work is zero",
+          "explanation": "W = ∫p dV = 0 when volume does not change.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ033",
+          "question": "In a basic HSC Physics question about isochoric process, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heat transfer is zero"
+            },
+            {
+              "label": "B",
+              "text": "In an isochoric process, volume remains constant and boundary work is zero"
+            },
+            {
+              "label": "C",
+              "text": "temperature remains constant"
+            },
+            {
+              "label": "D",
+              "text": "pressure remains constant"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In an isochoric process, volume remains constant and boundary work is zero",
+          "explanation": "W = ∫p dV = 0 when volume does not change.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ034",
+          "question": "Which fact should be remembered about isochoric process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure remains constant"
+            },
+            {
+              "label": "B",
+              "text": "In an isochoric process, volume remains constant and boundary work is zero"
+            },
+            {
+              "label": "C",
+              "text": "temperature remains constant"
+            },
+            {
+              "label": "D",
+              "text": "heat transfer is zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In an isochoric process, volume remains constant and boundary work is zero",
+          "explanation": "W = ∫p dV = 0 when volume does not change.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning isochoric process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "temperature remains constant"
+            },
+            {
+              "label": "B",
+              "text": "pressure remains constant"
+            },
+            {
+              "label": "C",
+              "text": "heat transfer is zero"
+            },
+            {
+              "label": "D",
+              "text": "In an isochoric process, volume remains constant and boundary work is zero"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In an isochoric process, volume remains constant and boundary work is zero",
+          "explanation": "W = ∫p dV = 0 when volume does not change.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Second law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ036",
+          "question": "Which statement best describes second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "all processes are reversible"
+            },
+            {
+              "label": "B",
+              "text": "The second law states that the entropy of an isolated system does not decrease"
+            },
+            {
+              "label": "C",
+              "text": "energy is not conserved"
+            },
+            {
+              "label": "D",
+              "text": "heat flows spontaneously from cold to hot"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The second law states that the entropy of an isolated system does not decrease",
+          "explanation": "Natural irreversible processes increase total entropy; reversible ones leave it unchanged.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ037",
+          "question": "Which option is correctly associated with second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heat flows spontaneously from cold to hot"
+            },
+            {
+              "label": "B",
+              "text": "all processes are reversible"
+            },
+            {
+              "label": "C",
+              "text": "The second law states that the entropy of an isolated system does not decrease"
+            },
+            {
+              "label": "D",
+              "text": "energy is not conserved"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The second law states that the entropy of an isolated system does not decrease",
+          "explanation": "Natural irreversible processes increase total entropy; reversible ones leave it unchanged.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ038",
+          "question": "In a basic HSC Physics question about second law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "all processes are reversible"
+            },
+            {
+              "label": "B",
+              "text": "heat flows spontaneously from cold to hot"
+            },
+            {
+              "label": "C",
+              "text": "energy is not conserved"
+            },
+            {
+              "label": "D",
+              "text": "The second law states that the entropy of an isolated system does not decrease"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The second law states that the entropy of an isolated system does not decrease",
+          "explanation": "Natural irreversible processes increase total entropy; reversible ones leave it unchanged.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ039",
+          "question": "Which fact should be remembered about second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heat flows spontaneously from cold to hot"
+            },
+            {
+              "label": "B",
+              "text": "all processes are reversible"
+            },
+            {
+              "label": "C",
+              "text": "The second law states that the entropy of an isolated system does not decrease"
+            },
+            {
+              "label": "D",
+              "text": "energy is not conserved"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The second law states that the entropy of an isolated system does not decrease",
+          "explanation": "Natural irreversible processes increase total entropy; reversible ones leave it unchanged.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "all processes are reversible"
+            },
+            {
+              "label": "B",
+              "text": "heat flows spontaneously from cold to hot"
+            },
+            {
+              "label": "C",
+              "text": "energy is not conserved"
+            },
+            {
+              "label": "D",
+              "text": "The second law states that the entropy of an isolated system does not decrease"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The second law states that the entropy of an isolated system does not decrease",
+          "explanation": "Natural irreversible processes increase total entropy; reversible ones leave it unchanged.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Heat engine",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ041",
+          "question": "Which statement best describes heat engine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder reservoir"
+            },
+            {
+              "label": "B",
+              "text": "creates energy"
+            },
+            {
+              "label": "C",
+              "text": "converts all heat to work in a cycle"
+            },
+            {
+              "label": "D",
+              "text": "moves heat from cold to hot without work"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder",
+          "explanation": "The second law prevents a cyclic engine from converting all absorbed heat into work.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ042",
+          "question": "Which option is correctly associated with heat engine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder reservoir"
+            },
+            {
+              "label": "B",
+              "text": "converts all heat to work in a cycle"
+            },
+            {
+              "label": "C",
+              "text": "moves heat from cold to hot without work"
+            },
+            {
+              "label": "D",
+              "text": "creates energy"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder",
+          "explanation": "The second law prevents a cyclic engine from converting all absorbed heat into work.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ043",
+          "question": "In a basic HSC Physics question about heat engine, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "creates energy"
+            },
+            {
+              "label": "B",
+              "text": "moves heat from cold to hot without work"
+            },
+            {
+              "label": "C",
+              "text": "converts all heat to work in a cycle"
+            },
+            {
+              "label": "D",
+              "text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder reservoir"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder",
+          "explanation": "The second law prevents a cyclic engine from converting all absorbed heat into work.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ044",
+          "question": "Which fact should be remembered about heat engine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder reservoir"
+            },
+            {
+              "label": "B",
+              "text": "creates energy"
+            },
+            {
+              "label": "C",
+              "text": "moves heat from cold to hot without work"
+            },
+            {
+              "label": "D",
+              "text": "converts all heat to work in a cycle"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder",
+          "explanation": "The second law prevents a cyclic engine from converting all absorbed heat into work.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning heat engine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "converts all heat to work in a cycle"
+            },
+            {
+              "label": "B",
+              "text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder reservoir"
+            },
+            {
+              "label": "C",
+              "text": "moves heat from cold to hot without work"
+            },
+            {
+              "label": "D",
+              "text": "creates energy"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A heat engine converts part of absorbed heat into work while rejecting some heat to a colder",
+          "explanation": "The second law prevents a cyclic engine from converting all absorbed heat into work.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Carnot efficiency",
+      "questions": [
+        {
+          "id": "PHY_2P_CH01_MCQ046",
+          "question": "Which statement best describes carnot efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th"
+            },
+            {
+              "label": "B",
+              "text": "Th − Tc"
+            },
+            {
+              "label": "C",
+              "text": "1 − Th/Tc"
+            },
+            {
+              "label": "D",
+              "text": "Tc/Th"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th",
+          "explanation": "Temperatures must be in kelvin; no engine operating between the same reservoirs can exceed this ideal efficiency.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ047",
+          "question": "Which option is correctly associated with carnot efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th"
+            },
+            {
+              "label": "B",
+              "text": "Tc/Th"
+            },
+            {
+              "label": "C",
+              "text": "1 − Th/Tc"
+            },
+            {
+              "label": "D",
+              "text": "Th − Tc"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th",
+          "explanation": "Temperatures must be in kelvin; no engine operating between the same reservoirs can exceed this ideal efficiency.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ048",
+          "question": "In a basic HSC Physics question about carnot efficiency, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Th − Tc"
+            },
+            {
+              "label": "B",
+              "text": "Tc/Th"
+            },
+            {
+              "label": "C",
+              "text": "1 − Th/Tc"
+            },
+            {
+              "label": "D",
+              "text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th",
+          "explanation": "Temperatures must be in kelvin; no engine operating between the same reservoirs can exceed this ideal efficiency.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ049",
+          "question": "Which fact should be remembered about carnot efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Th − Tc"
+            },
+            {
+              "label": "B",
+              "text": "Tc/Th"
+            },
+            {
+              "label": "C",
+              "text": "1 − Th/Tc"
+            },
+            {
+              "label": "D",
+              "text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th",
+          "explanation": "Temperatures must be in kelvin; no engine operating between the same reservoirs can exceed this ideal efficiency.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH01_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning carnot efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th"
+            },
+            {
+              "label": "B",
+              "text": "Tc/Th"
+            },
+            {
+              "label": "C",
+              "text": "Th − Tc"
+            },
+            {
+              "label": "D",
+              "text": "1 − Th/Tc"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Carnot efficiency between hot and cold reservoirs is 1 − Tc/Th",
+          "explanation": "Temperatures must be in kelvin; no engine operating between the same reservoirs can exceed this ideal efficiency.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

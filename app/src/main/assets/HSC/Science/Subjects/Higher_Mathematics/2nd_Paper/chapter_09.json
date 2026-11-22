@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 9,
+  "chapter_title": "Motion of Particles in a Plane",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Displacement at Uniform Acceleration",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q001",
+          "question": "A particle has initial velocity 2 m/s, uniform acceleration 3 m/s², and time 4 s. Find its displacement in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "32"
+            },
+            {
+              "label": "B",
+              "text": "33"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "31"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "32",
+          "explanation": "Use s=ut+½at² to obtain 32 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q002",
+          "question": "A particle has initial velocity 3 m/s, uniform acceleration 2 m/s², and time 5 s. Find its displacement in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "41"
+            },
+            {
+              "label": "B",
+              "text": "40"
+            },
+            {
+              "label": "C",
+              "text": "39"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "40",
+          "explanation": "Use s=ut+½at² to obtain 40 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q003",
+          "question": "A particle has initial velocity 5 m/s, uniform acceleration 1 m/s², and time 6 s. Find its displacement in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "47"
+            },
+            {
+              "label": "B",
+              "text": "36"
+            },
+            {
+              "label": "C",
+              "text": "48"
+            },
+            {
+              "label": "D",
+              "text": "49"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "48",
+          "explanation": "Use s=ut+½at² to obtain 48 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q004",
+          "question": "A particle has initial velocity 4 m/s, uniform acceleration 3 m/s², and time 2 s. Find its displacement in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "15"
+            },
+            {
+              "label": "C",
+              "text": "16"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "14",
+          "explanation": "Use s=ut+½at² to obtain 14 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q005",
+          "question": "A particle has initial velocity 6 m/s, uniform acceleration 2 m/s², and time 3 s. Find its displacement in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "27"
+            },
+            {
+              "label": "B",
+              "text": "28"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "26"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "27",
+          "explanation": "Use s=ut+½at² to obtain 27 m.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Velocity–Time Formula",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q006",
+          "question": "With initial speed 2 m/s, acceleration 3 m/s² and time 4 s, find the final speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "14"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "15"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "14",
+          "explanation": "Use v=u+at; the final speed is 14 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q007",
+          "question": "With initial speed 3 m/s, acceleration 2 m/s² and time 5 s, find the final speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "12"
+            },
+            {
+              "label": "B",
+              "text": "14"
+            },
+            {
+              "label": "C",
+              "text": "13"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "13",
+          "explanation": "Use v=u+at; the final speed is 13 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q008",
+          "question": "With initial speed 5 m/s, acceleration 1 m/s² and time 6 s, find the final speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "11",
+          "explanation": "Use v=u+at; the final speed is 11 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q009",
+          "question": "With initial speed 4 m/s, acceleration 3 m/s² and time 2 s, find the final speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "14"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10",
+          "explanation": "Use v=u+at; the final speed is 10 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q010",
+          "question": "With initial speed 6 m/s, acceleration 2 m/s² and time 3 s, find the final speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "12"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "15"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "12",
+          "explanation": "Use v=u+at; the final speed is 12 m/s.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Initial Velocity",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q011",
+          "question": "After 4 s a particle's velocity is 20 m/s under acceleration 2 m/s². Find its initial velocity in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "28"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "12",
+          "explanation": "Rearrange v=u+at to u=v−at, giving 12 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q012",
+          "question": "After 5 s a particle's velocity is 25 m/s under acceleration 3 m/s². Find its initial velocity in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "40"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "10",
+          "explanation": "Rearrange v=u+at to u=v−at, giving 10 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q013",
+          "question": "After 3 s a particle's velocity is 18 m/s under acceleration 2 m/s². Find its initial velocity in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "12"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "12",
+          "explanation": "Rearrange v=u+at to u=v−at, giving 12 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q014",
+          "question": "After 5 s a particle's velocity is 30 m/s under acceleration 4 m/s². Find its initial velocity in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "50"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "10",
+          "explanation": "Rearrange v=u+at to u=v−at, giving 10 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q015",
+          "question": "After 4 s a particle's velocity is 22 m/s under acceleration 3 m/s². Find its initial velocity in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "34"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "10",
+          "explanation": "Rearrange v=u+at to u=v−at, giving 10 m/s.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Stopping Time",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q016",
+          "question": "An object slows uniformly from 10 m/s at 2 m/s². How long until it stops (in seconds)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "10/3"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5",
+          "explanation": "Set final velocity v=0 in v=u−at. The stopping time is 5 s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q017",
+          "question": "An object slows uniformly from 12 m/s at 3 m/s². How long until it stops (in seconds)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4",
+          "explanation": "Set final velocity v=0 in v=u−at. The stopping time is 4 s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q018",
+          "question": "An object slows uniformly from 20 m/s at 4 m/s². How long until it stops (in seconds)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5",
+          "explanation": "Set final velocity v=0 in v=u−at. The stopping time is 5 s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q019",
+          "question": "An object slows uniformly from 15 m/s at 3 m/s². How long until it stops (in seconds)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "15/4"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "Set final velocity v=0 in v=u−at. The stopping time is 5 s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q020",
+          "question": "An object slows uniformly from 18 m/s at 2 m/s². How long until it stops (in seconds)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "9",
+          "explanation": "Set final velocity v=0 in v=u−at. The stopping time is 9 s.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Projectile Time of Flight",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q021",
+          "question": "A projectile is launched at 10 m/s at 45°; take g=10 m/s². What is its time of flight to the launch height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "√2 s"
+            },
+            {
+              "label": "B",
+              "text": "1√3 s"
+            },
+            {
+              "label": "C",
+              "text": "1 s"
+            },
+            {
+              "label": "D",
+              "text": "2 s"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "√2 s",
+          "explanation": "The flight time is T=2u sinθ/g, giving √2 s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q022",
+          "question": "A projectile is launched at 20 m/s at 45°; take g=10 m/s². What is its time of flight to the launch height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4 s"
+            },
+            {
+              "label": "B",
+              "text": "2√2 s"
+            },
+            {
+              "label": "C",
+              "text": "2√3 s"
+            },
+            {
+              "label": "D",
+              "text": "2 s"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2√2 s",
+          "explanation": "The flight time is T=2u sinθ/g, giving 2√2 s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q023",
+          "question": "A projectile is launched at 30 m/s at 45°; take g=10 m/s². What is its time of flight to the launch height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6 s"
+            },
+            {
+              "label": "B",
+              "text": "3√3 s"
+            },
+            {
+              "label": "C",
+              "text": "3√2 s"
+            },
+            {
+              "label": "D",
+              "text": "3 s"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3√2 s",
+          "explanation": "The flight time is T=2u sinθ/g, giving 3√2 s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q024",
+          "question": "A projectile is launched at 40 m/s at 45°; take g=10 m/s². What is its time of flight to the launch height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4√3 s"
+            },
+            {
+              "label": "B",
+              "text": "4 s"
+            },
+            {
+              "label": "C",
+              "text": "8 s"
+            },
+            {
+              "label": "D",
+              "text": "4√2 s"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4√2 s",
+          "explanation": "The flight time is T=2u sinθ/g, giving 4√2 s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q025",
+          "question": "A projectile is launched at 50 m/s at 45°; take g=10 m/s². What is its time of flight to the launch height?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5√2 s"
+            },
+            {
+              "label": "B",
+              "text": "5√3 s"
+            },
+            {
+              "label": "C",
+              "text": "10 s"
+            },
+            {
+              "label": "D",
+              "text": "5 s"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5√2 s",
+          "explanation": "The flight time is T=2u sinθ/g, giving 5√2 s.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Maximum Height",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q026",
+          "question": "A projectile is launched at 10 m/s at 30°; take g=10 m/s². Find its maximum height in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5/2"
+            },
+            {
+              "label": "B",
+              "text": "5/4"
+            },
+            {
+              "label": "C",
+              "text": "13/4"
+            },
+            {
+              "label": "D",
+              "text": "9/4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5/4",
+          "explanation": "Maximum height H=u²sin²θ/(2g), which gives 5/4 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q027",
+          "question": "A projectile is launched at 20 m/s at 30°; take g=10 m/s². Find its maximum height in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "Maximum height H=u²sin²θ/(2g), which gives 5 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q028",
+          "question": "A projectile is launched at 30 m/s at 30°; take g=10 m/s². Find its maximum height in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45/2"
+            },
+            {
+              "label": "B",
+              "text": "49/4"
+            },
+            {
+              "label": "C",
+              "text": "53/4"
+            },
+            {
+              "label": "D",
+              "text": "45/4"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "45/4",
+          "explanation": "Maximum height H=u²sin²θ/(2g), which gives 45/4 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q029",
+          "question": "A projectile is launched at 40 m/s at 30°; take g=10 m/s². Find its maximum height in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "20"
+            },
+            {
+              "label": "B",
+              "text": "22"
+            },
+            {
+              "label": "C",
+              "text": "40"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "20",
+          "explanation": "Maximum height H=u²sin²θ/(2g), which gives 20 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q030",
+          "question": "A projectile is launched at 50 m/s at 30°; take g=10 m/s². Find its maximum height in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "129/4"
+            },
+            {
+              "label": "B",
+              "text": "125/4"
+            },
+            {
+              "label": "C",
+              "text": "125/2"
+            },
+            {
+              "label": "D",
+              "text": "133/4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "125/4",
+          "explanation": "Maximum height H=u²sin²θ/(2g), which gives 125/4 m.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Projectile Range",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q031",
+          "question": "A projectile is launched at 10 m/s at 45°; take g=10 m/s². Find its horizontal range in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "10",
+          "explanation": "Range R=u²sin(2θ)/g, giving 10 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q032",
+          "question": "A projectile is launched at 20 m/s at 45°; take g=10 m/s². Find its horizontal range in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "20"
+            },
+            {
+              "label": "B",
+              "text": "41"
+            },
+            {
+              "label": "C",
+              "text": "39"
+            },
+            {
+              "label": "D",
+              "text": "40"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "40",
+          "explanation": "Range R=u²sin(2θ)/g, giving 40 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q033",
+          "question": "A projectile is launched at 30 m/s at 45°; take g=10 m/s². Find its horizontal range in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "90"
+            },
+            {
+              "label": "B",
+              "text": "45"
+            },
+            {
+              "label": "C",
+              "text": "91"
+            },
+            {
+              "label": "D",
+              "text": "89"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "90",
+          "explanation": "Range R=u²sin(2θ)/g, giving 90 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q034",
+          "question": "A projectile is launched at 40 m/s at 45°; take g=10 m/s². Find its horizontal range in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "159"
+            },
+            {
+              "label": "B",
+              "text": "160"
+            },
+            {
+              "label": "C",
+              "text": "161"
+            },
+            {
+              "label": "D",
+              "text": "80"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "160",
+          "explanation": "Range R=u²sin(2θ)/g, giving 160 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q035",
+          "question": "A projectile is launched at 50 m/s at 45°; take g=10 m/s². Find its horizontal range in metres.",
+          "options": [
+            {
+              "label": "A",
+              "text": "251"
+            },
+            {
+              "label": "B",
+              "text": "249"
+            },
+            {
+              "label": "C",
+              "text": "250"
+            },
+            {
+              "label": "D",
+              "text": "125"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "250",
+          "explanation": "Range R=u²sin(2θ)/g, giving 250 m.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Horizontal Projection",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q036",
+          "question": "An object is projected horizontally at 3 m/s. How far does it travel horizontally in 4 s?",
+          "options": [
+            {
+              "label": "A",
+              "text": "24"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "13"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "12",
+          "explanation": "Horizontal velocity is constant, so horizontal displacement x=vₓt=12 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q037",
+          "question": "An object is projected horizontally at 5 m/s. How far does it travel horizontally in 6 s?",
+          "options": [
+            {
+              "label": "A",
+              "text": "30"
+            },
+            {
+              "label": "B",
+              "text": "31"
+            },
+            {
+              "label": "C",
+              "text": "90"
+            },
+            {
+              "label": "D",
+              "text": "29"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "30",
+          "explanation": "Horizontal velocity is constant, so horizontal displacement x=vₓt=30 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q038",
+          "question": "An object is projected horizontally at 8 m/s. How far does it travel horizontally in 3 s?",
+          "options": [
+            {
+              "label": "A",
+              "text": "36"
+            },
+            {
+              "label": "B",
+              "text": "24"
+            },
+            {
+              "label": "C",
+              "text": "25"
+            },
+            {
+              "label": "D",
+              "text": "23"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "24",
+          "explanation": "Horizontal velocity is constant, so horizontal displacement x=vₓt=24 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q039",
+          "question": "An object is projected horizontally at 7 m/s. How far does it travel horizontally in 5 s?",
+          "options": [
+            {
+              "label": "A",
+              "text": "175/2"
+            },
+            {
+              "label": "B",
+              "text": "34"
+            },
+            {
+              "label": "C",
+              "text": "35"
+            },
+            {
+              "label": "D",
+              "text": "36"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "35",
+          "explanation": "Horizontal velocity is constant, so horizontal displacement x=vₓt=35 m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q040",
+          "question": "An object is projected horizontally at 12 m/s. How far does it travel horizontally in 4 s?",
+          "options": [
+            {
+              "label": "A",
+              "text": "49"
+            },
+            {
+              "label": "B",
+              "text": "47"
+            },
+            {
+              "label": "C",
+              "text": "96"
+            },
+            {
+              "label": "D",
+              "text": "48"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "48",
+          "explanation": "Horizontal velocity is constant, so horizontal displacement x=vₓt=48 m.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Circular Motion",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q041",
+          "question": "A particle moves at 4 m/s around a circle of radius 2 m. Find its angular speed in rad/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "8"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2",
+          "explanation": "Angular speed ω=v/r, giving 2 rad/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q042",
+          "question": "A particle moves at 6 m/s around a circle of radius 3 m. Find its angular speed in rad/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "18"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2",
+          "explanation": "Angular speed ω=v/r, giving 2 rad/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q043",
+          "question": "A particle moves at 8 m/s around a circle of radius 4 m. Find its angular speed in rad/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "32"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2",
+          "explanation": "Angular speed ω=v/r, giving 2 rad/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q044",
+          "question": "A particle moves at 10 m/s around a circle of radius 5 m. Find its angular speed in rad/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "50"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "2",
+          "explanation": "Angular speed ω=v/r, giving 2 rad/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q045",
+          "question": "A particle moves at 12 m/s around a circle of radius 3 m. Find its angular speed in rad/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "36"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4",
+          "explanation": "Angular speed ω=v/r, giving 4 rad/s.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Relative Velocity",
+      "questions": [
+        {
+          "id": "HM-P2-C09-Q046",
+          "question": "Two particles move in the same direction at 12 m/s and 5 m/s. Find their relative speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "7",
+          "explanation": "For motion in the same direction, relative speed is the absolute difference: 7 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q047",
+          "question": "Two particles move in the same direction at 15 m/s and 8 m/s. Find their relative speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "23"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "7",
+          "explanation": "For motion in the same direction, relative speed is the absolute difference: 7 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q048",
+          "question": "Two particles move in the same direction at 20 m/s and 9 m/s. Find their relative speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "12"
+            },
+            {
+              "label": "C",
+              "text": "29"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "11",
+          "explanation": "For motion in the same direction, relative speed is the absolute difference: 11 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q049",
+          "question": "Two particles move in the same direction at 18 m/s and 7 m/s. Find their relative speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "12"
+            },
+            {
+              "label": "C",
+              "text": "25"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "11",
+          "explanation": "For motion in the same direction, relative speed is the absolute difference: 11 m/s.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C09-Q050",
+          "question": "Two particles move in the same direction at 25 m/s and 10 m/s. Find their relative speed in m/s.",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "15"
+            },
+            {
+              "label": "C",
+              "text": "35"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "15",
+          "explanation": "For motion in the same direction, relative speed is the absolute difference: 15 m/s.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

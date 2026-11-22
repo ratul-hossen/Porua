@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 5,
+  "chapter_title": "Applied Chemistry",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Fertiliser",
+      "questions": [
+        {
+          "id": "CH05-MCQ-001",
+          "question": "Which statement correctly describes fertiliser?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Supplies essential plant nutrients"
+            },
+            {
+              "label": "B",
+              "text": "Acts only as an insecticide"
+            },
+            {
+              "label": "C",
+              "text": "Stops photosynthesis"
+            },
+            {
+              "label": "D",
+              "text": "Removes all soil water"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Supplies essential plant nutrients",
+          "explanation": "Fertilisers replenish nutrients such as nitrogen, phosphorus and potassium.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning fertiliser?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Supplies essential plant nutrients"
+            },
+            {
+              "label": "B",
+              "text": "Acts only as an insecticide"
+            },
+            {
+              "label": "C",
+              "text": "Removes all soil water"
+            },
+            {
+              "label": "D",
+              "text": "Stops photosynthesis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Supplies essential plant nutrients",
+          "explanation": "Fertilisers replenish nutrients such as nitrogen, phosphorus and potassium.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-003",
+          "question": "A student is reviewing fertiliser. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stops photosynthesis"
+            },
+            {
+              "label": "B",
+              "text": "Acts only as an insecticide"
+            },
+            {
+              "label": "C",
+              "text": "Supplies essential plant nutrients"
+            },
+            {
+              "label": "D",
+              "text": "Removes all soil water"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Supplies essential plant nutrients",
+          "explanation": "Fertilisers replenish nutrients such as nitrogen, phosphorus and potassium.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-004",
+          "question": "Which option gives the most accurate explanation of fertiliser?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Supplies essential plant nutrients"
+            },
+            {
+              "label": "B",
+              "text": "Stops photosynthesis"
+            },
+            {
+              "label": "C",
+              "text": "Acts only as an insecticide"
+            },
+            {
+              "label": "D",
+              "text": "Removes all soil water"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Supplies essential plant nutrients",
+          "explanation": "Fertilisers replenish nutrients such as nitrogen, phosphorus and potassium.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-005",
+          "question": "Choose the correct principle or fact associated with fertiliser.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Supplies essential plant nutrients"
+            },
+            {
+              "label": "B",
+              "text": "Removes all soil water"
+            },
+            {
+              "label": "C",
+              "text": "Acts only as an insecticide"
+            },
+            {
+              "label": "D",
+              "text": "Stops photosynthesis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Supplies essential plant nutrients",
+          "explanation": "Fertilisers replenish nutrients such as nitrogen, phosphorus and potassium.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Ammonia manufacture",
+      "questions": [
+        {
+          "id": "CH05-MCQ-006",
+          "question": "Which statement correctly describes ammonia manufacture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contact process"
+            },
+            {
+              "label": "B",
+              "text": "Solvay process"
+            },
+            {
+              "label": "C",
+              "text": "Haber process"
+            },
+            {
+              "label": "D",
+              "text": "Ostwald process"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Haber process",
+          "explanation": "The haber process combines nitrogen and hydrogen to produce ammonia.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning ammonia manufacture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Solvay process"
+            },
+            {
+              "label": "B",
+              "text": "Haber process"
+            },
+            {
+              "label": "C",
+              "text": "Contact process"
+            },
+            {
+              "label": "D",
+              "text": "Ostwald process"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Haber process",
+          "explanation": "The haber process combines nitrogen and hydrogen to produce ammonia.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-008",
+          "question": "A student is reviewing ammonia manufacture. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contact process"
+            },
+            {
+              "label": "B",
+              "text": "Ostwald process"
+            },
+            {
+              "label": "C",
+              "text": "Solvay process"
+            },
+            {
+              "label": "D",
+              "text": "Haber process"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Haber process",
+          "explanation": "The haber process combines nitrogen and hydrogen to produce ammonia.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-009",
+          "question": "Which option gives the most accurate explanation of ammonia manufacture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Haber process"
+            },
+            {
+              "label": "B",
+              "text": "Solvay process"
+            },
+            {
+              "label": "C",
+              "text": "Contact process"
+            },
+            {
+              "label": "D",
+              "text": "Ostwald process"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Haber process",
+          "explanation": "The haber process combines nitrogen and hydrogen to produce ammonia.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-010",
+          "question": "Choose the correct principle or fact associated with ammonia manufacture.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contact process"
+            },
+            {
+              "label": "B",
+              "text": "Solvay process"
+            },
+            {
+              "label": "C",
+              "text": "Haber process"
+            },
+            {
+              "label": "D",
+              "text": "Ostwald process"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Haber process",
+          "explanation": "The haber process combines nitrogen and hydrogen to produce ammonia.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sulfuric acid manufacture",
+      "questions": [
+        {
+          "id": "CH05-MCQ-011",
+          "question": "Which statement correctly describes sulfuric acid manufacture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contact process"
+            },
+            {
+              "label": "B",
+              "text": "Bessemer process"
+            },
+            {
+              "label": "C",
+              "text": "Haber process"
+            },
+            {
+              "label": "D",
+              "text": "Hall-Héroult process"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Contact process",
+          "explanation": "Sulfur dioxide is oxidised to sulfur trioxide and then converted to sulfuric acid.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning sulfuric acid manufacture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Haber process"
+            },
+            {
+              "label": "B",
+              "text": "Contact process"
+            },
+            {
+              "label": "C",
+              "text": "Bessemer process"
+            },
+            {
+              "label": "D",
+              "text": "Hall-Héroult process"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Contact process",
+          "explanation": "Sulfur dioxide is oxidised to sulfur trioxide and then converted to sulfuric acid.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-013",
+          "question": "A student is reviewing sulfuric acid manufacture. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contact process"
+            },
+            {
+              "label": "B",
+              "text": "Haber process"
+            },
+            {
+              "label": "C",
+              "text": "Bessemer process"
+            },
+            {
+              "label": "D",
+              "text": "Hall-Héroult process"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Contact process",
+          "explanation": "Sulfur dioxide is oxidised to sulfur trioxide and then converted to sulfuric acid.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-014",
+          "question": "Which option gives the most accurate explanation of sulfuric acid manufacture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contact process"
+            },
+            {
+              "label": "B",
+              "text": "Haber process"
+            },
+            {
+              "label": "C",
+              "text": "Bessemer process"
+            },
+            {
+              "label": "D",
+              "text": "Hall-Héroult process"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Contact process",
+          "explanation": "Sulfur dioxide is oxidised to sulfur trioxide and then converted to sulfuric acid.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-015",
+          "question": "Choose the correct principle or fact associated with sulfuric acid manufacture.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contact process"
+            },
+            {
+              "label": "B",
+              "text": "Hall-Héroult process"
+            },
+            {
+              "label": "C",
+              "text": "Haber process"
+            },
+            {
+              "label": "D",
+              "text": "Bessemer process"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Contact process",
+          "explanation": "Sulfur dioxide is oxidised to sulfur trioxide and then converted to sulfuric acid.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Polymer",
+      "questions": [
+        {
+          "id": "CH05-MCQ-016",
+          "question": "Which statement correctly describes polymer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A single atom"
+            },
+            {
+              "label": "B",
+              "text": "A large molecule made from repeating monomer units"
+            },
+            {
+              "label": "C",
+              "text": "A simple salt only"
+            },
+            {
+              "label": "D",
+              "text": "A pure metal ion"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A large molecule made from repeating monomer units",
+          "explanation": "Polymers consist of long chains or networks built from smaller units.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning polymer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A simple salt only"
+            },
+            {
+              "label": "B",
+              "text": "A pure metal ion"
+            },
+            {
+              "label": "C",
+              "text": "A large molecule made from repeating monomer units"
+            },
+            {
+              "label": "D",
+              "text": "A single atom"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A large molecule made from repeating monomer units",
+          "explanation": "Polymers consist of long chains or networks built from smaller units.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-018",
+          "question": "A student is reviewing polymer. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A large molecule made from repeating monomer units"
+            },
+            {
+              "label": "B",
+              "text": "A single atom"
+            },
+            {
+              "label": "C",
+              "text": "A pure metal ion"
+            },
+            {
+              "label": "D",
+              "text": "A simple salt only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A large molecule made from repeating monomer units",
+          "explanation": "Polymers consist of long chains or networks built from smaller units.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-019",
+          "question": "Which option gives the most accurate explanation of polymer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A large molecule made from repeating monomer units"
+            },
+            {
+              "label": "B",
+              "text": "A single atom"
+            },
+            {
+              "label": "C",
+              "text": "A simple salt only"
+            },
+            {
+              "label": "D",
+              "text": "A pure metal ion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A large molecule made from repeating monomer units",
+          "explanation": "Polymers consist of long chains or networks built from smaller units.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-020",
+          "question": "Choose the correct principle or fact associated with polymer.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A simple salt only"
+            },
+            {
+              "label": "B",
+              "text": "A pure metal ion"
+            },
+            {
+              "label": "C",
+              "text": "A large molecule made from repeating monomer units"
+            },
+            {
+              "label": "D",
+              "text": "A single atom"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A large molecule made from repeating monomer units",
+          "explanation": "Polymers consist of long chains or networks built from smaller units.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Addition polymerisation",
+      "questions": [
+        {
+          "id": "CH05-MCQ-021",
+          "question": "Which statement correctly describes addition polymerisation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neutralising an acid"
+            },
+            {
+              "label": "B",
+              "text": "Breaking a polymer into monomers"
+            },
+            {
+              "label": "C",
+              "text": "Combining ions in water only"
+            },
+            {
+              "label": "D",
+              "text": "Joining unsaturated monomers without eliminating a small molecule"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Joining unsaturated monomers without eliminating a small molecule",
+          "explanation": "The carbon-carbon double bond opens to form a polymer chain.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning addition polymerisation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Joining unsaturated monomers without eliminating a small molecule"
+            },
+            {
+              "label": "B",
+              "text": "Combining ions in water only"
+            },
+            {
+              "label": "C",
+              "text": "Neutralising an acid"
+            },
+            {
+              "label": "D",
+              "text": "Breaking a polymer into monomers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Joining unsaturated monomers without eliminating a small molecule",
+          "explanation": "The carbon-carbon double bond opens to form a polymer chain.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-023",
+          "question": "A student is reviewing addition polymerisation. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neutralising an acid"
+            },
+            {
+              "label": "B",
+              "text": "Joining unsaturated monomers without eliminating a small molecule"
+            },
+            {
+              "label": "C",
+              "text": "Combining ions in water only"
+            },
+            {
+              "label": "D",
+              "text": "Breaking a polymer into monomers"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Joining unsaturated monomers without eliminating a small molecule",
+          "explanation": "The carbon-carbon double bond opens to form a polymer chain.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-024",
+          "question": "Which option gives the most accurate explanation of addition polymerisation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Breaking a polymer into monomers"
+            },
+            {
+              "label": "B",
+              "text": "Joining unsaturated monomers without eliminating a small molecule"
+            },
+            {
+              "label": "C",
+              "text": "Combining ions in water only"
+            },
+            {
+              "label": "D",
+              "text": "Neutralising an acid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Joining unsaturated monomers without eliminating a small molecule",
+          "explanation": "The carbon-carbon double bond opens to form a polymer chain.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-025",
+          "question": "Choose the correct principle or fact associated with addition polymerisation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Joining unsaturated monomers without eliminating a small molecule"
+            },
+            {
+              "label": "B",
+              "text": "Combining ions in water only"
+            },
+            {
+              "label": "C",
+              "text": "Breaking a polymer into monomers"
+            },
+            {
+              "label": "D",
+              "text": "Neutralising an acid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Joining unsaturated monomers without eliminating a small molecule",
+          "explanation": "The carbon-carbon double bond opens to form a polymer chain.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Soap",
+      "questions": [
+        {
+          "id": "CH05-MCQ-026",
+          "question": "Which statement correctly describes soap?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A mineral acid"
+            },
+            {
+              "label": "B",
+              "text": "A metal alloy"
+            },
+            {
+              "label": "C",
+              "text": "A simple carbohydrate"
+            },
+            {
+              "label": "D",
+              "text": "Salt of a higher fatty acid"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Salt of a higher fatty acid",
+          "explanation": "Soap molecules have hydrophilic and hydrophobic parts that help remove grease.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning soap?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A metal alloy"
+            },
+            {
+              "label": "B",
+              "text": "A simple carbohydrate"
+            },
+            {
+              "label": "C",
+              "text": "Salt of a higher fatty acid"
+            },
+            {
+              "label": "D",
+              "text": "A mineral acid"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Salt of a higher fatty acid",
+          "explanation": "Soap molecules have hydrophilic and hydrophobic parts that help remove grease.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-028",
+          "question": "A student is reviewing soap. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A metal alloy"
+            },
+            {
+              "label": "B",
+              "text": "Salt of a higher fatty acid"
+            },
+            {
+              "label": "C",
+              "text": "A simple carbohydrate"
+            },
+            {
+              "label": "D",
+              "text": "A mineral acid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Salt of a higher fatty acid",
+          "explanation": "Soap molecules have hydrophilic and hydrophobic parts that help remove grease.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-029",
+          "question": "Which option gives the most accurate explanation of soap?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Salt of a higher fatty acid"
+            },
+            {
+              "label": "B",
+              "text": "A simple carbohydrate"
+            },
+            {
+              "label": "C",
+              "text": "A mineral acid"
+            },
+            {
+              "label": "D",
+              "text": "A metal alloy"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Salt of a higher fatty acid",
+          "explanation": "Soap molecules have hydrophilic and hydrophobic parts that help remove grease.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-030",
+          "question": "Choose the correct principle or fact associated with soap.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Salt of a higher fatty acid"
+            },
+            {
+              "label": "B",
+              "text": "A simple carbohydrate"
+            },
+            {
+              "label": "C",
+              "text": "A metal alloy"
+            },
+            {
+              "label": "D",
+              "text": "A mineral acid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Salt of a higher fatty acid",
+          "explanation": "Soap molecules have hydrophilic and hydrophobic parts that help remove grease.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Detergent",
+      "questions": [
+        {
+          "id": "CH05-MCQ-031",
+          "question": "Which statement correctly describes detergent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Synthetic surfactant"
+            },
+            {
+              "label": "B",
+              "text": "A pure solvent"
+            },
+            {
+              "label": "C",
+              "text": "A radioactive isotope"
+            },
+            {
+              "label": "D",
+              "text": "A noble gas"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Synthetic surfactant",
+          "explanation": "Detergents reduce surface tension and can work in hard water better than many soaps.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning detergent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A pure solvent"
+            },
+            {
+              "label": "B",
+              "text": "A radioactive isotope"
+            },
+            {
+              "label": "C",
+              "text": "Synthetic surfactant"
+            },
+            {
+              "label": "D",
+              "text": "A noble gas"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Synthetic surfactant",
+          "explanation": "Detergents reduce surface tension and can work in hard water better than many soaps.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-033",
+          "question": "A student is reviewing detergent. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Synthetic surfactant"
+            },
+            {
+              "label": "B",
+              "text": "A radioactive isotope"
+            },
+            {
+              "label": "C",
+              "text": "A noble gas"
+            },
+            {
+              "label": "D",
+              "text": "A pure solvent"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Synthetic surfactant",
+          "explanation": "Detergents reduce surface tension and can work in hard water better than many soaps.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-034",
+          "question": "Which option gives the most accurate explanation of detergent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A radioactive isotope"
+            },
+            {
+              "label": "B",
+              "text": "A noble gas"
+            },
+            {
+              "label": "C",
+              "text": "A pure solvent"
+            },
+            {
+              "label": "D",
+              "text": "Synthetic surfactant"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Synthetic surfactant",
+          "explanation": "Detergents reduce surface tension and can work in hard water better than many soaps.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-035",
+          "question": "Choose the correct principle or fact associated with detergent.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A radioactive isotope"
+            },
+            {
+              "label": "B",
+              "text": "A pure solvent"
+            },
+            {
+              "label": "C",
+              "text": "Synthetic surfactant"
+            },
+            {
+              "label": "D",
+              "text": "A noble gas"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Synthetic surfactant",
+          "explanation": "Detergents reduce surface tension and can work in hard water better than many soaps.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Glass",
+      "questions": [
+        {
+          "id": "CH05-MCQ-036",
+          "question": "Which statement correctly describes glass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A crystalline hydrocarbon"
+            },
+            {
+              "label": "B",
+              "text": "Amorphous inorganic solid"
+            },
+            {
+              "label": "C",
+              "text": "A natural polymer"
+            },
+            {
+              "label": "D",
+              "text": "A pure alkali metal"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Amorphous inorganic solid",
+          "explanation": "Common glass is produced mainly from silica with suitable additives.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning glass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Amorphous inorganic solid"
+            },
+            {
+              "label": "B",
+              "text": "A pure alkali metal"
+            },
+            {
+              "label": "C",
+              "text": "A natural polymer"
+            },
+            {
+              "label": "D",
+              "text": "A crystalline hydrocarbon"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Amorphous inorganic solid",
+          "explanation": "Common glass is produced mainly from silica with suitable additives.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-038",
+          "question": "A student is reviewing glass. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A pure alkali metal"
+            },
+            {
+              "label": "B",
+              "text": "Amorphous inorganic solid"
+            },
+            {
+              "label": "C",
+              "text": "A natural polymer"
+            },
+            {
+              "label": "D",
+              "text": "A crystalline hydrocarbon"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Amorphous inorganic solid",
+          "explanation": "Common glass is produced mainly from silica with suitable additives.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-039",
+          "question": "Which option gives the most accurate explanation of glass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A crystalline hydrocarbon"
+            },
+            {
+              "label": "B",
+              "text": "A pure alkali metal"
+            },
+            {
+              "label": "C",
+              "text": "A natural polymer"
+            },
+            {
+              "label": "D",
+              "text": "Amorphous inorganic solid"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Amorphous inorganic solid",
+          "explanation": "Common glass is produced mainly from silica with suitable additives.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-040",
+          "question": "Choose the correct principle or fact associated with glass.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A crystalline hydrocarbon"
+            },
+            {
+              "label": "B",
+              "text": "Amorphous inorganic solid"
+            },
+            {
+              "label": "C",
+              "text": "A pure alkali metal"
+            },
+            {
+              "label": "D",
+              "text": "A natural polymer"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Amorphous inorganic solid",
+          "explanation": "Common glass is produced mainly from silica with suitable additives.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cement",
+      "questions": [
+        {
+          "id": "CH05-MCQ-041",
+          "question": "Which statement correctly describes cement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A volatile liquid fuel"
+            },
+            {
+              "label": "B",
+              "text": "A noble gas mixture"
+            },
+            {
+              "label": "C",
+              "text": "A synthetic fibre"
+            },
+            {
+              "label": "D",
+              "text": "Hydraulic binding material"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Hydraulic binding material",
+          "explanation": "Cement sets and hardens through reactions with water.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning cement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydraulic binding material"
+            },
+            {
+              "label": "B",
+              "text": "A synthetic fibre"
+            },
+            {
+              "label": "C",
+              "text": "A noble gas mixture"
+            },
+            {
+              "label": "D",
+              "text": "A volatile liquid fuel"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hydraulic binding material",
+          "explanation": "Cement sets and hardens through reactions with water.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-043",
+          "question": "A student is reviewing cement. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydraulic binding material"
+            },
+            {
+              "label": "B",
+              "text": "A synthetic fibre"
+            },
+            {
+              "label": "C",
+              "text": "A noble gas mixture"
+            },
+            {
+              "label": "D",
+              "text": "A volatile liquid fuel"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hydraulic binding material",
+          "explanation": "Cement sets and hardens through reactions with water.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-044",
+          "question": "Which option gives the most accurate explanation of cement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A synthetic fibre"
+            },
+            {
+              "label": "B",
+              "text": "A volatile liquid fuel"
+            },
+            {
+              "label": "C",
+              "text": "Hydraulic binding material"
+            },
+            {
+              "label": "D",
+              "text": "A noble gas mixture"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Hydraulic binding material",
+          "explanation": "Cement sets and hardens through reactions with water.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-045",
+          "question": "Choose the correct principle or fact associated with cement.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A synthetic fibre"
+            },
+            {
+              "label": "B",
+              "text": "A noble gas mixture"
+            },
+            {
+              "label": "C",
+              "text": "A volatile liquid fuel"
+            },
+            {
+              "label": "D",
+              "text": "Hydraulic binding material"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Hydraulic binding material",
+          "explanation": "Cement sets and hardens through reactions with water.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Food preservative",
+      "questions": [
+        {
+          "id": "CH05-MCQ-046",
+          "question": "Which statement correctly describes food preservative?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stops all chemical reactions in food"
+            },
+            {
+              "label": "B",
+              "text": "Slows microbial spoilage or oxidation"
+            },
+            {
+              "label": "C",
+              "text": "Increases contamination"
+            },
+            {
+              "label": "D",
+              "text": "Removes all nutrients"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Slows microbial spoilage or oxidation",
+          "explanation": "Preservatives extend shelf life by inhibiting spoilage processes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning food preservative?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removes all nutrients"
+            },
+            {
+              "label": "B",
+              "text": "Increases contamination"
+            },
+            {
+              "label": "C",
+              "text": "Slows microbial spoilage or oxidation"
+            },
+            {
+              "label": "D",
+              "text": "Stops all chemical reactions in food"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Slows microbial spoilage or oxidation",
+          "explanation": "Preservatives extend shelf life by inhibiting spoilage processes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-048",
+          "question": "A student is reviewing food preservative. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removes all nutrients"
+            },
+            {
+              "label": "B",
+              "text": "Slows microbial spoilage or oxidation"
+            },
+            {
+              "label": "C",
+              "text": "Increases contamination"
+            },
+            {
+              "label": "D",
+              "text": "Stops all chemical reactions in food"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Slows microbial spoilage or oxidation",
+          "explanation": "Preservatives extend shelf life by inhibiting spoilage processes.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-049",
+          "question": "Which option gives the most accurate explanation of food preservative?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases contamination"
+            },
+            {
+              "label": "B",
+              "text": "Removes all nutrients"
+            },
+            {
+              "label": "C",
+              "text": "Slows microbial spoilage or oxidation"
+            },
+            {
+              "label": "D",
+              "text": "Stops all chemical reactions in food"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Slows microbial spoilage or oxidation",
+          "explanation": "Preservatives extend shelf life by inhibiting spoilage processes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-050",
+          "question": "Choose the correct principle or fact associated with food preservative.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases contamination"
+            },
+            {
+              "label": "B",
+              "text": "Slows microbial spoilage or oxidation"
+            },
+            {
+              "label": "C",
+              "text": "Stops all chemical reactions in food"
+            },
+            {
+              "label": "D",
+              "text": "Removes all nutrients"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Slows microbial spoilage or oxidation",
+          "explanation": "Preservatives extend shelf life by inhibiting spoilage processes.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

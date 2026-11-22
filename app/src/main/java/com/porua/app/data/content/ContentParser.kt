@@ -10,27 +10,177 @@ object ContentParser {
     fun loadSubjectData(context: Context, assetPath: String): SubjectData? {
         return try {
             val json = context.assets.open(assetPath).bufferedReader().readText()
-            parseSubjectData(JSONObject(json))
+            val obj = JSONObject(json)
+            val baseDir = assetPath.substringBeforeLast('/', "")
+
+            val subject = obj.optString("subject")
+            val stream = obj.optString("stream")
+            val curriculum = obj.optString("curriculum")
+
+            val chapters = mutableListOf<SubjectChapter>()
+
+            if (obj.has("papers")) {
+                val papersArr = obj.optJSONArray("papers") ?: JSONArray()
+                for (i in 0 until papersArr.length()) {
+                    val paperObj = papersArr.getJSONObject(i)
+                    val paperName = paperObj.optString("paper", paperObj.optString("paper_name", ""))
+                    val folder = paperObj.optString("folder", "")
+                    val chArr = paperObj.optJSONArray("chapters") ?: JSONArray()
+                    for (j in 0 until chArr.length()) {
+                        val chObj = chArr.getJSONObject(j)
+                        val relFile = chObj.optString("file")
+                        val defaultChNum = chObj.optInt("chapter_number", j + 1)
+                        val defaultTitle = chObj.optString("chapter_title", chObj.optString("title", ""))
+
+                        val chPath = when {
+                            relFile.contains("/") -> if (baseDir.isNotBlank()) "$baseDir/$relFile" else relFile
+                            folder.isNotBlank()   -> if (baseDir.isNotBlank()) "$baseDir/$folder/$relFile" else "$folder/$relFile"
+                            else                  -> if (baseDir.isNotBlank()) "$baseDir/$relFile" else relFile
+                        }
+
+                        val chapter = loadChapterFile(
+                            context = context,
+                            chPath = chPath,
+                            defaultPaper = paperName,
+                            defaultNum = defaultChNum,
+                            defaultTitle = defaultTitle
+                        )
+                        if (chapter != null) {
+                            chapters.add(chapter)
+                        }
+                    }
+                }
+            } else if (obj.has("chapters")) {
+                val chArr = obj.optJSONArray("chapters") ?: JSONArray()
+                for (j in 0 until chArr.length()) {
+                    val chObj = chArr.getJSONObject(j)
+                    val relFile = chObj.optString("file")
+                    if (relFile.isNotBlank()) {
+                        val defaultChNum = chObj.optInt("chapter_number", j + 1)
+                        val defaultTitle = chObj.optString("chapter_title", chObj.optString("title", ""))
+                        val chPath = if (baseDir.isNotBlank()) "$baseDir/$relFile" else relFile
+                        val chapter = loadChapterFile(
+                            context = context,
+                            chPath = chPath,
+                            defaultPaper = "Compulsory",
+                            defaultNum = defaultChNum,
+                            defaultTitle = defaultTitle
+                        )
+                        if (chapter != null) {
+                            chapters.add(chapter)
+                        }
+                    } else {
+                        chapters.add(parseLegacyChapter(chObj))
+                    }
+                }
+            }
+
+            SubjectData(
+                subject = subject,
+                stream = stream,
+                curriculum = curriculum,
+                chapters = chapters
+            )
         } catch (e: Exception) {
             e.printStackTrace()
             null
         }
     }
 
-    private fun parseSubjectData(obj: JSONObject): SubjectData {
-        val chaptersArr = obj.optJSONArray("chapters") ?: JSONArray()
-        val chapters = (0 until chaptersArr.length()).map { i ->
-            parseChapter(chaptersArr.getJSONObject(i))
+    private fun loadChapterFile(
+        context: Context,
+        chPath: String,
+        defaultPaper: String,
+        defaultNum: Int,
+        defaultTitle: String
+    ): SubjectChapter? {
+        return try {
+            val json = context.assets.open(chPath).bufferedReader().readText()
+            val chJson = JSONObject(json)
+
+            val rawPaper = chJson.optString("paper", defaultPaper).trim()
+            val paper = if (rawPaper.isNotBlank()) rawPaper else defaultPaper
+            val chNum = chJson.optInt("chapter_number", defaultNum)
+            val title = chJson.optString("chapter_title", chJson.optString("title", defaultTitle))
+
+            val topicsArr = chJson.optJSONArray("topics") ?: JSONArray()
+            val topicNames = mutableListOf<String>()
+            val parsedMcqs = mutableListOf<ParsedMcq>()
+            val explanations = mutableListOf<String>()
+            var qCounter = 1
+
+            for (t in 0 until topicsArr.length()) {
+                val topObj = topicsArr.getJSONObject(t)
+                val topName = topObj.optString("topic_name")
+                if (topName.isNotBlank()) {
+                    topicNames.add(topName)
+                }
+                val questionsArr = topObj.optJSONArray("questions")
+                    ?: topObj.optJSONArray("mcqs")
+                    ?: JSONArray()
+                for (q in 0 until questionsArr.length()) {
+                    val qObj = questionsArr.getJSONObject(q)
+                    val qText = qObj.optString("question")
+                    val optionsArr = qObj.optJSONArray("options")
+                    var optA = ""
+                    var optB = ""
+                    var optC = ""
+                    var optD = ""
+                    if (optionsArr != null) {
+                        for (k in 0 until optionsArr.length()) {
+                            val opt = optionsArr.getJSONObject(k)
+                            val label = opt.optString("label").trim().uppercase()
+                            val text = opt.optString("text").trim()
+                            when (label) {
+                                "A" -> optA = text
+                                "B" -> optB = text
+                                "C" -> optC = text
+                                "D" -> optD = text
+                            }
+                        }
+                    }
+                    val correctAns = qObj.optString("correct_answer").trim().uppercase()
+                    val explanation = qObj.optString("explanation")
+
+                    parsedMcqs.add(
+                        ParsedMcq(
+                            number = qCounter++,
+                            questionText = qText,
+                            optionA = optA,
+                            optionB = optB,
+                            optionC = optC,
+                            optionD = optD,
+                            correctOption = correctAns
+                        )
+                    )
+                    explanations.add(explanation)
+                }
+            }
+
+            val overview = if (topicNames.isNotEmpty()) {
+                "Topics covered: " + topicNames.joinToString(", ")
+            } else {
+                chJson.optString("overview")
+            }
+
+            SubjectChapter(
+                chapter_number = chNum,
+                title = title,
+                paper = paper,
+                content = ChapterContent(
+                    overview = overview,
+                    study_notes = topicNames,
+                    parsedMcqs = parsedMcqs,
+                    explanations = explanations
+                )
+            )
+        } catch (e: Exception) {
+            e.printStackTrace()
+            null
         }
-        return SubjectData(
-            subject = obj.optString("subject"),
-            stream = obj.optString("stream"),
-            curriculum = obj.optString("curriculum"),
-            chapters = chapters
-        )
     }
 
-    private fun parseChapter(obj: JSONObject): SubjectChapter {
+    private fun parseLegacyChapter(obj: JSONObject): SubjectChapter {
         val contentObj = obj.optJSONObject("content") ?: JSONObject()
         val mcqArr = contentObj.optJSONArray("mcqs") ?: JSONArray()
         val mcqs = (0 until mcqArr.length()).map { i ->
@@ -62,15 +212,12 @@ object ContentParser {
     }
 
     // ── Parse raw MCQ string into structured ParsedMcq ─────────────────────
-    // Input example: "Which organelle…? A. Ribosome B. Mitochondrion C. Golgi D. Lysosome Answer: B"
     fun parseMcq(raw: McqRaw): ParsedMcq {
         val text = raw.content.trim()
 
-        // Extract correct answer  (last "Answer: X")
         val answerRegex = Regex("""Answer:\s*([A-D])""", RegexOption.IGNORE_CASE)
         val correctOption = answerRegex.findAll(text).lastOrNull()?.groupValues?.get(1)?.uppercase() ?: "A"
 
-        // Split on option labels  A.  B.  C.  D.  (or A) B) …)
         val optionRegex = Regex("""(?:^|\s)([A-D])[.)]\s+""")
         val splits = optionRegex.findAll(text).toList()
 
@@ -85,7 +232,6 @@ object ContentParser {
                 .trimEnd('.')
         }
 
-        // Question text = everything before the first option label
         val questionText = if (splits.isNotEmpty()) {
             text.substring(0, splits.first().range.first).trim()
         } else {
@@ -103,21 +249,10 @@ object ContentParser {
         )
     }
 
-    // ── Parse short-question block into list of Q&A pairs ───────────────────
-    // Handles both numbered ("1. Q\n\n   Answer: A") and plain ("Q\n\n   Answer: A") formats
     fun parseShortQuestions(raw: String): List<ParsedShortQuestion> {
         if (raw.isBlank()) return emptyList()
 
         val results = mutableListOf<ParsedShortQuestion>()
-
-        // Try splitting on "Answer:" boundaries
-        // Pattern: optional number + question text + "Answer:" + answer text
-        val qaRegex = Regex(
-            """(?:^\s*\d+\.\s*)?(.+?)\s+Answer:\s*(.+?)(?=\s+(?:\d+\.\s+|\z)|$)""",
-            setOf(RegexOption.DOT_MATCHES_ALL, RegexOption.MULTILINE)
-        )
-
-        // Simpler line-by-line split: split on "Answer:"
         val blocks = raw.split(Regex("""(?=\d+\.\s+[A-Z])""")).filter { it.isNotBlank() }
 
         if (blocks.size > 1) {
@@ -131,7 +266,6 @@ object ContentParser {
                 }
             }
         } else {
-            // Fallback: split on "Answer:" directly
             val parts = raw.split(Regex("""Answer:""", RegexOption.IGNORE_CASE))
             if (parts.size >= 2) {
                 val q = parts[0].replace(Regex("""^\d+\.\s*"""), "").trim()
@@ -147,6 +281,11 @@ object ContentParser {
 
     // ── Build ContentChapter from SubjectChapter ─────────────────────────────
     fun toContentChapter(subjectId: String, ch: SubjectChapter): ContentChapter {
+        val mcqs = if (ch.content.parsedMcqs.isNotEmpty()) {
+            ch.content.parsedMcqs
+        } else {
+            ch.content.mcqs.map { parseMcq(it) }
+        }
         return ContentChapter(
             subjectId = subjectId,
             chapterNumber = ch.chapter_number,
@@ -155,7 +294,7 @@ object ContentParser {
             overview = ch.content.overview,
             studyNotes = ch.content.study_notes,
             shortQuestions = parseShortQuestions(ch.content.short_questions),
-            mcqs = ch.content.mcqs.map { parseMcq(it) }
+            mcqs = mcqs
         )
     }
 }

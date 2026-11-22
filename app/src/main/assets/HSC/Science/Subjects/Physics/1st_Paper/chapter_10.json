@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 10,
+  "chapter_title": "Ideal Gas and Kinetic Theory of Gases",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Gas laws",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ001",
+          "question": "Which statement best describes gas laws?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure is proportional to temperature only"
+            },
+            {
+              "label": "B",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "C",
+              "text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and amount of gas"
+            },
+            {
+              "label": "D",
+              "text": "volume is independent of pressure"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and",
+          "explanation": "For a fixed mass of gas at constant temperature, pV = constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ002",
+          "question": "Which option is correctly associated with gas laws?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume is independent of pressure"
+            },
+            {
+              "label": "B",
+              "text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and amount of gas"
+            },
+            {
+              "label": "C",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "D",
+              "text": "pressure is proportional to temperature only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and",
+          "explanation": "For a fixed mass of gas at constant temperature, pV = constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ003",
+          "question": "In a basic HSC Physics question about gas laws, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "B",
+              "text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and amount of gas"
+            },
+            {
+              "label": "C",
+              "text": "pressure is proportional to temperature only"
+            },
+            {
+              "label": "D",
+              "text": "volume is independent of pressure"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and",
+          "explanation": "For a fixed mass of gas at constant temperature, pV = constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ004",
+          "question": "Which fact should be remembered about gas laws?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume is independent of pressure"
+            },
+            {
+              "label": "B",
+              "text": "pressure is proportional to temperature only"
+            },
+            {
+              "label": "C",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "D",
+              "text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and amount of gas"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and",
+          "explanation": "For a fixed mass of gas at constant temperature, pV = constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning gas laws?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure is proportional to temperature only"
+            },
+            {
+              "label": "B",
+              "text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and amount of gas"
+            },
+            {
+              "label": "C",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "D",
+              "text": "volume is independent of pressure"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Boyle's law states that pressure is inversely proportional to volume at constant temperature and",
+          "explanation": "For a fixed mass of gas at constant temperature, pV = constant.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Charles's law",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ006",
+          "question": "Which statement best describes charles's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume is inversely proportional to kelvin temperature"
+            },
+            {
+              "label": "B",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "C",
+              "text": "volume is proportional to Celsius temperature in all ranges"
+            },
+            {
+              "label": "D",
+              "text": "At constant pressure, gas volume is proportional to absolute temperature"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "At constant pressure, gas volume is proportional to absolute temperature",
+          "explanation": "Charles's law uses temperature measured in kelvin.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ007",
+          "question": "Which option is correctly associated with charles's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "B",
+              "text": "volume is proportional to Celsius temperature in all ranges"
+            },
+            {
+              "label": "C",
+              "text": "volume is inversely proportional to kelvin temperature"
+            },
+            {
+              "label": "D",
+              "text": "At constant pressure, gas volume is proportional to absolute temperature"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "At constant pressure, gas volume is proportional to absolute temperature",
+          "explanation": "Charles's law uses temperature measured in kelvin.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ008",
+          "question": "In a basic HSC Physics question about charles's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "B",
+              "text": "At constant pressure, gas volume is proportional to absolute temperature"
+            },
+            {
+              "label": "C",
+              "text": "volume is inversely proportional to kelvin temperature"
+            },
+            {
+              "label": "D",
+              "text": "volume is proportional to Celsius temperature in all ranges"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "At constant pressure, gas volume is proportional to absolute temperature",
+          "explanation": "Charles's law uses temperature measured in kelvin.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ009",
+          "question": "Which fact should be remembered about charles's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume is inversely proportional to kelvin temperature"
+            },
+            {
+              "label": "B",
+              "text": "pressure is proportional to volume"
+            },
+            {
+              "label": "C",
+              "text": "At constant pressure, gas volume is proportional to absolute temperature"
+            },
+            {
+              "label": "D",
+              "text": "volume is proportional to Celsius temperature in all ranges"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "At constant pressure, gas volume is proportional to absolute temperature",
+          "explanation": "Charles's law uses temperature measured in kelvin.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning charles's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "volume is proportional to Celsius temperature in all ranges"
+            },
+            {
+              "label": "B",
+              "text": "At constant pressure, gas volume is proportional to absolute temperature"
+            },
+            {
+              "label": "C",
+              "text": "volume is inversely proportional to kelvin temperature"
+            },
+            {
+              "label": "D",
+              "text": "pressure is proportional to volume"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "At constant pressure, gas volume is proportional to absolute temperature",
+          "explanation": "Charles's law uses temperature measured in kelvin.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Ideal gas equation",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ011",
+          "question": "Which statement best describes ideal gas equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pV = nR/T"
+            },
+            {
+              "label": "B",
+              "text": "pV = RT/n"
+            },
+            {
+              "label": "C",
+              "text": "The ideal gas equation is pV = nRT"
+            },
+            {
+              "label": "D",
+              "text": "p = nRTV"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The ideal gas equation is pV = nRT",
+          "explanation": "Pressure, volume, amount and absolute temperature are related by pV = nRT.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ012",
+          "question": "Which option is correctly associated with ideal gas equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pV = RT/n"
+            },
+            {
+              "label": "B",
+              "text": "pV = nR/T"
+            },
+            {
+              "label": "C",
+              "text": "p = nRTV"
+            },
+            {
+              "label": "D",
+              "text": "The ideal gas equation is pV = nRT"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The ideal gas equation is pV = nRT",
+          "explanation": "Pressure, volume, amount and absolute temperature are related by pV = nRT.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ013",
+          "question": "In a basic HSC Physics question about ideal gas equation, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "p = nRTV"
+            },
+            {
+              "label": "B",
+              "text": "The ideal gas equation is pV = nRT"
+            },
+            {
+              "label": "C",
+              "text": "pV = nR/T"
+            },
+            {
+              "label": "D",
+              "text": "pV = RT/n"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The ideal gas equation is pV = nRT",
+          "explanation": "Pressure, volume, amount and absolute temperature are related by pV = nRT.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ014",
+          "question": "Which fact should be remembered about ideal gas equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The ideal gas equation is pV = nRT"
+            },
+            {
+              "label": "B",
+              "text": "p = nRTV"
+            },
+            {
+              "label": "C",
+              "text": "pV = nR/T"
+            },
+            {
+              "label": "D",
+              "text": "pV = RT/n"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The ideal gas equation is pV = nRT",
+          "explanation": "Pressure, volume, amount and absolute temperature are related by pV = nRT.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning ideal gas equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pV = RT/n"
+            },
+            {
+              "label": "B",
+              "text": "The ideal gas equation is pV = nRT"
+            },
+            {
+              "label": "C",
+              "text": "p = nRTV"
+            },
+            {
+              "label": "D",
+              "text": "pV = nR/T"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The ideal gas equation is pV = nRT",
+          "explanation": "Pressure, volume, amount and absolute temperature are related by pV = nRT.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Absolute temperature",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ016",
+          "question": "Which statement best describes absolute temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T = θ/273.15"
+            },
+            {
+              "label": "B",
+              "text": "T = θ − 273.15"
+            },
+            {
+              "label": "C",
+              "text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15"
+            },
+            {
+              "label": "D",
+              "text": "T = 273.15θ"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15",
+          "explanation": "Kelvin is an absolute temperature scale.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ017",
+          "question": "Which option is correctly associated with absolute temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T = θ/273.15"
+            },
+            {
+              "label": "B",
+              "text": "T = 273.15θ"
+            },
+            {
+              "label": "C",
+              "text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15"
+            },
+            {
+              "label": "D",
+              "text": "T = θ − 273.15"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15",
+          "explanation": "Kelvin is an absolute temperature scale.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ018",
+          "question": "In a basic HSC Physics question about absolute temperature, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15"
+            },
+            {
+              "label": "B",
+              "text": "T = 273.15θ"
+            },
+            {
+              "label": "C",
+              "text": "T = θ/273.15"
+            },
+            {
+              "label": "D",
+              "text": "T = θ − 273.15"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15",
+          "explanation": "Kelvin is an absolute temperature scale.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ019",
+          "question": "Which fact should be remembered about absolute temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T = θ/273.15"
+            },
+            {
+              "label": "B",
+              "text": "T = θ − 273.15"
+            },
+            {
+              "label": "C",
+              "text": "T = 273.15θ"
+            },
+            {
+              "label": "D",
+              "text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15",
+          "explanation": "Kelvin is an absolute temperature scale.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning absolute temperature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "T = θ/273.15"
+            },
+            {
+              "label": "B",
+              "text": "T = θ − 273.15"
+            },
+            {
+              "label": "C",
+              "text": "T = 273.15θ"
+            },
+            {
+              "label": "D",
+              "text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The Kelvin temperature is related to Celsius temperature by T(K) = θ(°C) + 273.15",
+          "explanation": "Kelvin is an absolute temperature scale.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Kinetic theory",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ021",
+          "question": "Which statement best describes kinetic theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3kT"
+            },
+            {
+              "label": "B",
+              "text": "k/T"
+            },
+            {
+              "label": "C",
+              "text": "kT/2"
+            },
+            {
+              "label": "D",
+              "text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2",
+          "explanation": "For a monatomic ideal gas in thermal equilibrium, mean translational kinetic energy is 3kT/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ022",
+          "question": "Which option is correctly associated with kinetic theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2"
+            },
+            {
+              "label": "B",
+              "text": "kT/2"
+            },
+            {
+              "label": "C",
+              "text": "3kT"
+            },
+            {
+              "label": "D",
+              "text": "k/T"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2",
+          "explanation": "For a monatomic ideal gas in thermal equilibrium, mean translational kinetic energy is 3kT/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ023",
+          "question": "In a basic HSC Physics question about kinetic theory, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3kT"
+            },
+            {
+              "label": "B",
+              "text": "kT/2"
+            },
+            {
+              "label": "C",
+              "text": "k/T"
+            },
+            {
+              "label": "D",
+              "text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2",
+          "explanation": "For a monatomic ideal gas in thermal equilibrium, mean translational kinetic energy is 3kT/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ024",
+          "question": "Which fact should be remembered about kinetic theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3kT"
+            },
+            {
+              "label": "B",
+              "text": "k/T"
+            },
+            {
+              "label": "C",
+              "text": "kT/2"
+            },
+            {
+              "label": "D",
+              "text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2",
+          "explanation": "For a monatomic ideal gas in thermal equilibrium, mean translational kinetic energy is 3kT/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning kinetic theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2"
+            },
+            {
+              "label": "B",
+              "text": "kT/2"
+            },
+            {
+              "label": "C",
+              "text": "k/T"
+            },
+            {
+              "label": "D",
+              "text": "3kT"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The average translational kinetic energy per molecule of an ideal gas is 3kT/2",
+          "explanation": "For a monatomic ideal gas in thermal equilibrium, mean translational kinetic energy is 3kT/2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Molecular speed",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ026",
+          "question": "Which statement best describes molecular speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The root-mean-square speed is proportional to the square root of absolute temperature"
+            },
+            {
+              "label": "B",
+              "text": "pressure alone"
+            },
+            {
+              "label": "C",
+              "text": "temperature squared"
+            },
+            {
+              "label": "D",
+              "text": "inverse temperature"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The root-mean-square speed is proportional to the square root of absolute temperature",
+          "explanation": "For a given gas, vrms = √(3RT/M), so vrms ∝ √T.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ027",
+          "question": "Which option is correctly associated with molecular speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "inverse temperature"
+            },
+            {
+              "label": "B",
+              "text": "temperature squared"
+            },
+            {
+              "label": "C",
+              "text": "pressure alone"
+            },
+            {
+              "label": "D",
+              "text": "The root-mean-square speed is proportional to the square root of absolute temperature"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The root-mean-square speed is proportional to the square root of absolute temperature",
+          "explanation": "For a given gas, vrms = √(3RT/M), so vrms ∝ √T.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ028",
+          "question": "In a basic HSC Physics question about molecular speed, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The root-mean-square speed is proportional to the square root of absolute temperature"
+            },
+            {
+              "label": "B",
+              "text": "temperature squared"
+            },
+            {
+              "label": "C",
+              "text": "inverse temperature"
+            },
+            {
+              "label": "D",
+              "text": "pressure alone"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The root-mean-square speed is proportional to the square root of absolute temperature",
+          "explanation": "For a given gas, vrms = √(3RT/M), so vrms ∝ √T.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ029",
+          "question": "Which fact should be remembered about molecular speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The root-mean-square speed is proportional to the square root of absolute temperature"
+            },
+            {
+              "label": "B",
+              "text": "pressure alone"
+            },
+            {
+              "label": "C",
+              "text": "inverse temperature"
+            },
+            {
+              "label": "D",
+              "text": "temperature squared"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The root-mean-square speed is proportional to the square root of absolute temperature",
+          "explanation": "For a given gas, vrms = √(3RT/M), so vrms ∝ √T.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning molecular speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The root-mean-square speed is proportional to the square root of absolute temperature"
+            },
+            {
+              "label": "B",
+              "text": "inverse temperature"
+            },
+            {
+              "label": "C",
+              "text": "pressure alone"
+            },
+            {
+              "label": "D",
+              "text": "temperature squared"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The root-mean-square speed is proportional to the square root of absolute temperature",
+          "explanation": "For a given gas, vrms = √(3RT/M), so vrms ∝ √T.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Pressure interpretation",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ031",
+          "question": "Which statement best describes pressure interpretation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "molecules attracting the walls continuously"
+            },
+            {
+              "label": "B",
+              "text": "Gas pressure results from molecular collisions with the container walls"
+            },
+            {
+              "label": "C",
+              "text": "molecules remaining at rest"
+            },
+            {
+              "label": "D",
+              "text": "gravity alone"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Gas pressure results from molecular collisions with the container walls",
+          "explanation": "Molecular momentum changes at wall collisions produce pressure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ032",
+          "question": "Which option is correctly associated with pressure interpretation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity alone"
+            },
+            {
+              "label": "B",
+              "text": "Gas pressure results from molecular collisions with the container walls"
+            },
+            {
+              "label": "C",
+              "text": "molecules remaining at rest"
+            },
+            {
+              "label": "D",
+              "text": "molecules attracting the walls continuously"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Gas pressure results from molecular collisions with the container walls",
+          "explanation": "Molecular momentum changes at wall collisions produce pressure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ033",
+          "question": "In a basic HSC Physics question about pressure interpretation, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity alone"
+            },
+            {
+              "label": "B",
+              "text": "molecules remaining at rest"
+            },
+            {
+              "label": "C",
+              "text": "molecules attracting the walls continuously"
+            },
+            {
+              "label": "D",
+              "text": "Gas pressure results from molecular collisions with the container walls"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gas pressure results from molecular collisions with the container walls",
+          "explanation": "Molecular momentum changes at wall collisions produce pressure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ034",
+          "question": "Which fact should be remembered about pressure interpretation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity alone"
+            },
+            {
+              "label": "B",
+              "text": "Gas pressure results from molecular collisions with the container walls"
+            },
+            {
+              "label": "C",
+              "text": "molecules attracting the walls continuously"
+            },
+            {
+              "label": "D",
+              "text": "molecules remaining at rest"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Gas pressure results from molecular collisions with the container walls",
+          "explanation": "Molecular momentum changes at wall collisions produce pressure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning pressure interpretation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity alone"
+            },
+            {
+              "label": "B",
+              "text": "Gas pressure results from molecular collisions with the container walls"
+            },
+            {
+              "label": "C",
+              "text": "molecules attracting the walls continuously"
+            },
+            {
+              "label": "D",
+              "text": "molecules remaining at rest"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Gas pressure results from molecular collisions with the container walls",
+          "explanation": "Molecular momentum changes at wall collisions produce pressure.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Degrees of freedom",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ036",
+          "question": "Which statement best describes degrees of freedom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per molecule"
+            },
+            {
+              "label": "B",
+              "text": "kT per degree"
+            },
+            {
+              "label": "C",
+              "text": "zero energy per degree"
+            },
+            {
+              "label": "D",
+              "text": "2kT per degree"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per",
+          "explanation": "Each independent quadratic degree of freedom contributes ½kT.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ037",
+          "question": "Which option is correctly associated with degrees of freedom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "zero energy per degree"
+            },
+            {
+              "label": "B",
+              "text": "kT per degree"
+            },
+            {
+              "label": "C",
+              "text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per molecule"
+            },
+            {
+              "label": "D",
+              "text": "2kT per degree"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per",
+          "explanation": "Each independent quadratic degree of freedom contributes ½kT.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ038",
+          "question": "In a basic HSC Physics question about degrees of freedom, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kT per degree"
+            },
+            {
+              "label": "B",
+              "text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per molecule"
+            },
+            {
+              "label": "C",
+              "text": "zero energy per degree"
+            },
+            {
+              "label": "D",
+              "text": "2kT per degree"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per",
+          "explanation": "Each independent quadratic degree of freedom contributes ½kT.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ039",
+          "question": "Which fact should be remembered about degrees of freedom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kT per degree"
+            },
+            {
+              "label": "B",
+              "text": "2kT per degree"
+            },
+            {
+              "label": "C",
+              "text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per molecule"
+            },
+            {
+              "label": "D",
+              "text": "zero energy per degree"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per",
+          "explanation": "Each independent quadratic degree of freedom contributes ½kT.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning degrees of freedom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2kT per degree"
+            },
+            {
+              "label": "B",
+              "text": "zero energy per degree"
+            },
+            {
+              "label": "C",
+              "text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per molecule"
+            },
+            {
+              "label": "D",
+              "text": "kT per degree"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The equipartition theorem assigns an average energy of ½kT per quadratic degree of freedom per",
+          "explanation": "Each independent quadratic degree of freedom contributes ½kT.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Avogadro's law",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ041",
+          "question": "Which statement best describes avogadro's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "equal densities always"
+            },
+            {
+              "label": "B",
+              "text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of molecules"
+            },
+            {
+              "label": "C",
+              "text": "equal molecular speeds always"
+            },
+            {
+              "label": "D",
+              "text": "equal masses always"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of",
+          "explanation": "At fixed T and p, volume is proportional to the number of molecules.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ042",
+          "question": "Which option is correctly associated with avogadro's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "equal masses always"
+            },
+            {
+              "label": "B",
+              "text": "equal densities always"
+            },
+            {
+              "label": "C",
+              "text": "equal molecular speeds always"
+            },
+            {
+              "label": "D",
+              "text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of molecules"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of",
+          "explanation": "At fixed T and p, volume is proportional to the number of molecules.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ043",
+          "question": "In a basic HSC Physics question about avogadro's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of molecules"
+            },
+            {
+              "label": "B",
+              "text": "equal masses always"
+            },
+            {
+              "label": "C",
+              "text": "equal densities always"
+            },
+            {
+              "label": "D",
+              "text": "equal molecular speeds always"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of",
+          "explanation": "At fixed T and p, volume is proportional to the number of molecules.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ044",
+          "question": "Which fact should be remembered about avogadro's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "equal densities always"
+            },
+            {
+              "label": "B",
+              "text": "equal molecular speeds always"
+            },
+            {
+              "label": "C",
+              "text": "equal masses always"
+            },
+            {
+              "label": "D",
+              "text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of molecules"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of",
+          "explanation": "At fixed T and p, volume is proportional to the number of molecules.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning avogadro's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "equal molecular speeds always"
+            },
+            {
+              "label": "B",
+              "text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of molecules"
+            },
+            {
+              "label": "C",
+              "text": "equal masses always"
+            },
+            {
+              "label": "D",
+              "text": "equal densities always"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Equal volumes of ideal gases at the same temperature and pressure contain equal numbers of",
+          "explanation": "At fixed T and p, volume is proportional to the number of molecules.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Mean free path",
+      "questions": [
+        {
+          "id": "PHY_1P_CH10_MCQ046",
+          "question": "Which statement best describes mean free path?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total path in one second"
+            },
+            {
+              "label": "B",
+              "text": "molecular diameter"
+            },
+            {
+              "label": "C",
+              "text": "Mean free path is the average distance a gas molecule travels between successive collisions"
+            },
+            {
+              "label": "D",
+              "text": "distance from floor to ceiling"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Mean free path is the average distance a gas molecule travels between successive collisions",
+          "explanation": "It characterizes the average free distance between molecular collisions.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ047",
+          "question": "Which option is correctly associated with mean free path?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance from floor to ceiling"
+            },
+            {
+              "label": "B",
+              "text": "total path in one second"
+            },
+            {
+              "label": "C",
+              "text": "Mean free path is the average distance a gas molecule travels between successive collisions"
+            },
+            {
+              "label": "D",
+              "text": "molecular diameter"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Mean free path is the average distance a gas molecule travels between successive collisions",
+          "explanation": "It characterizes the average free distance between molecular collisions.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ048",
+          "question": "In a basic HSC Physics question about mean free path, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total path in one second"
+            },
+            {
+              "label": "B",
+              "text": "Mean free path is the average distance a gas molecule travels between successive collisions"
+            },
+            {
+              "label": "C",
+              "text": "distance from floor to ceiling"
+            },
+            {
+              "label": "D",
+              "text": "molecular diameter"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Mean free path is the average distance a gas molecule travels between successive collisions",
+          "explanation": "It characterizes the average free distance between molecular collisions.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ049",
+          "question": "Which fact should be remembered about mean free path?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total path in one second"
+            },
+            {
+              "label": "B",
+              "text": "Mean free path is the average distance a gas molecule travels between successive collisions"
+            },
+            {
+              "label": "C",
+              "text": "distance from floor to ceiling"
+            },
+            {
+              "label": "D",
+              "text": "molecular diameter"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Mean free path is the average distance a gas molecule travels between successive collisions",
+          "explanation": "It characterizes the average free distance between molecular collisions.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH10_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning mean free path?",
+          "options": [
+            {
+              "label": "A",
+              "text": "molecular diameter"
+            },
+            {
+              "label": "B",
+              "text": "distance from floor to ceiling"
+            },
+            {
+              "label": "C",
+              "text": "total path in one second"
+            },
+            {
+              "label": "D",
+              "text": "Mean free path is the average distance a gas molecule travels between successive collisions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Mean free path is the average distance a gas molecule travels between successive collisions",
+          "explanation": "It characterizes the average free distance between molecular collisions.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

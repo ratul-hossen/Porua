@@ -1,0 +1,35 @@
+{
+  "description": "Each chapter file contains topic-grouped multiple-choice questions for HSC Information and Communication Technology (ICT). ICT is a single compulsory subject in Bangladesh NCTB without 1st Paper or 2nd Paper division.",
+  "folder_structure": {
+    "ict.json": "Subject-level index containing chapter metadata and chapter files list.",
+    "chapter_01.json - chapter_06.json": "Chapter-wise MCQ questions directly located under ICT directory."
+  },
+  "chapter_structure": {
+    "paper": "Compulsory",
+    "chapter_number": "integer",
+    "chapter_title": "string",
+    "total_questions": "integer",
+    "topics": [
+      {
+        "topic_name": "string",
+        "questions": [
+          "question object"
+        ]
+      }
+    ]
+  },
+  "question_object": {
+    "id": "string",
+    "question": "string",
+    "options": [
+      {
+        "label": "A-D",
+        "text": "string"
+      }
+    ],
+    "correct_answer": "A-D",
+    "correct_answer_text": "string",
+    "explanation": "string",
+    "difficulty": "Easy | Medium | Hard"
+  }
+}

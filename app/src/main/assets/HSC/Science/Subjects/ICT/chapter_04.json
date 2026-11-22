@@ -1,0 +1,1358 @@
+{
+  "paper": "Compulsory",
+  "chapter_number": 4,
+  "chapter_title": "Introduction to Web Design and HTML",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Web Architecture, URL, DNS and IP Addressing",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-001",
+          "question": "Who invented the World Wide Web (WWW) and created the original HTML markup language in 1989-1990?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Tim Berners-Lee"
+            },
+            {
+              "label": "B",
+              "text": "Bill Gates"
+            },
+            {
+              "label": "C",
+              "text": "Steve Jobs"
+            },
+            {
+              "label": "D",
+              "text": "Vint Cerf"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Tim Berners-Lee",
+          "explanation": "Sir Tim Berners-Lee invented the World Wide Web and developed HTML, HTTP, and the first web browser while working at CERN in Switzerland.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-002",
+          "question": "What is the primary role of the Domain Name System (DNS) on the internet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To translate human-friendly domain names into numerical IP addresses"
+            },
+            {
+              "label": "B",
+              "text": "To compress image files before transmission"
+            },
+            {
+              "label": "C",
+              "text": "To encrypt HTML source code"
+            },
+            {
+              "label": "D",
+              "text": "To clean up temporary browser cookies"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To translate human-friendly domain names into numerical IP addresses",
+          "explanation": "DNS acts as the internet's phonebook, translating human-readable web addresses (like www.google.com) into numerical IP addresses (like 142.250.190.46) used by routers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-003",
+          "question": "How many total bits make up a standard IPv4 internet address?",
+          "options": [
+            {
+              "label": "A",
+              "text": "32 bits"
+            },
+            {
+              "label": "B",
+              "text": "64 bits"
+            },
+            {
+              "label": "C",
+              "text": "128 bits"
+            },
+            {
+              "label": "D",
+              "text": "16 bits"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "32 bits",
+          "explanation": "An IPv4 address consists of 32 bits divided into 4 octets (bytes) separated by dots, such as 192.168.1.1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-004",
+          "question": "How many total bits make up a modern IPv6 address?",
+          "options": [
+            {
+              "label": "A",
+              "text": "128 bits"
+            },
+            {
+              "label": "B",
+              "text": "32 bits"
+            },
+            {
+              "label": "C",
+              "text": "64 bits"
+            },
+            {
+              "label": "D",
+              "text": "256 bits"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "128 bits",
+          "explanation": "IPv6 addresses are 128 bits in length, represented as 8 hexadecimal groups separated by colons, providing an exponentially vast address space.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-005",
+          "question": "In the URL 'https://www.example.com/about.html', what does 'https' specify?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The communication protocol used for secure transfer"
+            },
+            {
+              "label": "B",
+              "text": "The physical server hard drive label"
+            },
+            {
+              "label": "C",
+              "text": "The top-level domain name"
+            },
+            {
+              "label": "D",
+              "text": "The directory path on the local client machine"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The communication protocol used for secure transfer",
+          "explanation": "In a URL, the prefix before '://' defines the application protocol (Hypertext Transfer Protocol Secure in this case).",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Static vs Dynamic Websites",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-006",
+          "question": "Which of the following is a primary characteristic of a Static Website?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Webpages display fixed content to all visitors unless manually updated by the webmaster"
+            },
+            {
+              "label": "B",
+              "text": "Webpages require a real-time relational SQL database to display any text"
+            },
+            {
+              "label": "C",
+              "text": "Content changes automatically every minute based on user behavior"
+            },
+            {
+              "label": "D",
+              "text": "Visitors can directly customize and save database user profiles"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Webpages display fixed content to all visitors unless manually updated by the webmaster",
+          "explanation": "A static website serves pre-written HTML/CSS pages directly from the server; the content does not change dynamically unless the underlying source code is manually edited.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-007",
+          "question": "Which technology is essential for creating an interactive, database-driven Dynamic Website?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Server-side scripting (e.g. PHP, Python, Node.js) and a Database"
+            },
+            {
+              "label": "B",
+              "text": "HTML and Notepad text editor only"
+            },
+            {
+              "label": "C",
+              "text": "An optical DVD-ROM drive"
+            },
+            {
+              "label": "D",
+              "text": "A flatbed document scanner"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Server-side scripting (e.g. PHP, Python, Node.js) and a Database",
+          "explanation": "Dynamic websites generate personalized page content on the fly using server-side scripting languages that query backend database management systems.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-008",
+          "question": "Which of the following online platforms is an example of a Dynamic Website?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An e-commerce shopping site with personalized carts and user logins"
+            },
+            {
+              "label": "B",
+              "text": "A single-page static HTML digital restaurant menu"
+            },
+            {
+              "label": "C",
+              "text": "A plain text document saved on a local desktop"
+            },
+            {
+              "label": "D",
+              "text": "A scanned PDF flyer posted as an image"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An e-commerce shopping site with personalized carts and user logins",
+          "explanation": "E-commerce sites dynamically load product availability, cart state, user accounts, and real-time transaction processing.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-009",
+          "question": "What is an advantage of a Static Website over a Dynamic Website?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Faster page loading speed and lower server hosting requirements"
+            },
+            {
+              "label": "B",
+              "text": "Automated online banking transaction processing"
+            },
+            {
+              "label": "C",
+              "text": "Instant user comment submission without reloading"
+            },
+            {
+              "label": "D",
+              "text": "Real-time stock market data feeds without refreshing"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Faster page loading speed and lower server hosting requirements",
+          "explanation": "Because static sites involve no server-side database queries or script processing, they load extremely fast and consume minimal server resources.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-010",
+          "question": "Why does updating content on a large Static Website with hundreds of pages become cumbersome?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Common elements like headers and navigation bars must be manually edited in every single HTML file"
+            },
+            {
+              "label": "B",
+              "text": "HTML pages automatically delete themselves when updated"
+            },
+            {
+              "label": "C",
+              "text": "Static pages cannot be read by web browsers"
+            },
+            {
+              "label": "D",
+              "text": "Static HTML files require recompilation into binary files"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Common elements like headers and navigation bars must be manually edited in every single HTML file",
+          "explanation": "Without server-side templates or a CMS database, changes to shared layout elements across hundreds of static HTML files require repetitive manual edits in each file.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Website Navigation Structures",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-011",
+          "question": "Which website structure organizes pages in a top-down hierarchy branching from the homepage into categories and sub-pages?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hierarchical (Tree) Structure"
+            },
+            {
+              "label": "B",
+              "text": "Linear (Sequential) Structure"
+            },
+            {
+              "label": "C",
+              "text": "Web-linked (Mesh) Structure"
+            },
+            {
+              "label": "D",
+              "text": "Circular Structure"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hierarchical (Tree) Structure",
+          "explanation": "Tree or hierarchical structure is the most popular website design, branching logically from the root homepage into main sections and sub-pages.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-012",
+          "question": "A step-by-step online examination or book tutorial where users must navigate pages strictly one after another utilizes which structure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Linear (Sequential) Structure"
+            },
+            {
+              "label": "B",
+              "text": "Hierarchical Structure"
+            },
+            {
+              "label": "C",
+              "text": "Full Mesh Structure"
+            },
+            {
+              "label": "D",
+              "text": "Random Matrix Structure"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Linear (Sequential) Structure",
+          "explanation": "Linear structure leads the user through a predefined sequential path using 'Next' and 'Previous' links, suitable for training modules and checkout steps.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-013",
+          "question": "In which website structure does every webpage contain direct hyperlinks connecting to all other webpages in the site?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Web-linked (Network / Mesh) Structure"
+            },
+            {
+              "label": "B",
+              "text": "Linear Structure"
+            },
+            {
+              "label": "C",
+              "text": "Tree Structure"
+            },
+            {
+              "label": "D",
+              "text": "Single Node Structure"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Web-linked (Network / Mesh) Structure",
+          "explanation": "In a web-linked (network/mesh) structure, every page is interconnected with hyperlinks, allowing visitors to jump freely between any two pages.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-014",
+          "question": "What is a website navigation structure called that combines hierarchical categorization with sequential linear sub-sections?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hybrid (Composite) Structure"
+            },
+            {
+              "label": "B",
+              "text": "Pure Linear Structure"
+            },
+            {
+              "label": "C",
+              "text": "Star Structure"
+            },
+            {
+              "label": "D",
+              "text": "Bus Structure"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hybrid (Composite) Structure",
+          "explanation": "A hybrid structure strategically integrates two or more design models (e.g. a hierarchical catalog with a linear multi-step checkout workflow).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-015",
+          "question": "What is the standard default filename recognized by web servers as the root entry homepage of a website?",
+          "options": [
+            {
+              "label": "A",
+              "text": "index.html"
+            },
+            {
+              "label": "B",
+              "text": "home.exe"
+            },
+            {
+              "label": "C",
+              "text": "start.doc"
+            },
+            {
+              "label": "D",
+              "text": "main.py"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "index.html",
+          "explanation": "Web servers (Apache, Nginx, IIS) are configured by default to load 'index.html' or 'index.htm' as the primary directory landing page.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "HTML Fundamentals and Document Structure",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-016",
+          "question": "What does the acronym HTML stand for?",
+          "options": [
+            {
+              "label": "A",
+              "text": "HyperText Markup Language"
+            },
+            {
+              "label": "B",
+              "text": "HighText Machine Language"
+            },
+            {
+              "label": "C",
+              "text": "HyperTool Multi Language"
+            },
+            {
+              "label": "D",
+              "text": "Hyperlink Transfer Markup Language"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "HyperText Markup Language",
+          "explanation": "HTML stands for HyperText Markup Language, the standard authoring language used to create documents for display in web browsers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-017",
+          "question": "Which tag defines the title displayed on the web browser tab and must be placed inside <head>?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<title>"
+            },
+            {
+              "label": "B",
+              "text": "<h1>"
+            },
+            {
+              "label": "C",
+              "text": "<caption>"
+            },
+            {
+              "label": "D",
+              "text": "<header>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<title>",
+          "explanation": "The `<title>` tag sits inside `<head>` and specifies the document title shown on the browser window or tab title bar.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-018",
+          "question": "All visible content of a webpage (paragraphs, images, tables, links) must be placed inside which tag?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<body>...</body>"
+            },
+            {
+              "label": "B",
+              "text": "<head>...</head>"
+            },
+            {
+              "label": "C",
+              "text": "<title>...</title>"
+            },
+            {
+              "label": "D",
+              "text": "<meta>...</meta>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<body>...</body>",
+          "explanation": "The `<body>` element encloses all renderable content visible to website visitors inside the browser viewport.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-019",
+          "question": "Which of the following is an example of an 'Empty Tag' (Void Tag) that does NOT have a closing tag in HTML?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<br>"
+            },
+            {
+              "label": "B",
+              "text": "<p>"
+            },
+            {
+              "label": "C",
+              "text": "<b>"
+            },
+            {
+              "label": "D",
+              "text": "<div>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<br>",
+          "explanation": "Empty tags do not enclose content and have no closing tag; common examples are `<br>`, `<img>`, `<hr>`, and `<input>`.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-020",
+          "question": "What is the very first line of a modern HTML5 document that informs the browser about the HTML version?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<!DOCTYPE html>"
+            },
+            {
+              "label": "B",
+              "text": "<html version=\"5.0\">"
+            },
+            {
+              "label": "C",
+              "text": "<?xml version=\"1.0\"?>"
+            },
+            {
+              "label": "D",
+              "text": "<head html5>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<!DOCTYPE html>",
+          "explanation": "`<!DOCTYPE html>` is the standard document type declaration (DTD) that instructs modern browsers to render the document in full HTML5 standards mode.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Text Formatting Tags",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-021",
+          "question": "Which HTML heading tag renders the largest and most prominent heading?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<h1>"
+            },
+            {
+              "label": "B",
+              "text": "<h6>"
+            },
+            {
+              "label": "C",
+              "text": "<head>"
+            },
+            {
+              "label": "D",
+              "text": "<heading>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<h1>",
+          "explanation": "HTML defines six heading levels from `<h1>` to `<h6>`, where `<h1>` represents the highest importance and largest font size.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-022",
+          "question": "Which tag is used to insert a line break without beginning a new paragraph?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<br>"
+            },
+            {
+              "label": "B",
+              "text": "<p>"
+            },
+            {
+              "label": "C",
+              "text": "<hr>"
+            },
+            {
+              "label": "D",
+              "text": "<lb>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<br>",
+          "explanation": "The `<br>` tag produces a single line break in text flow without adding the vertical margin space characteristic of `<p>` paragraphs.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-023",
+          "question": "To display the chemical formula H2O with '2' as a subscript, which HTML code is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "H<sub>2</sub>O"
+            },
+            {
+              "label": "B",
+              "text": "H<sup>2</sup>O"
+            },
+            {
+              "label": "C",
+              "text": "H<down>2</down>O"
+            },
+            {
+              "label": "D",
+              "text": "H<subscript>2</subscript>O"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "H<sub>2</sub>O",
+          "explanation": "The `<sub>` tag defines subscript text that appears half a character below the normal baseline, proper for chemical formulas like H2O.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-024",
+          "question": "To display the algebraic expression x^2 with '2' as a superscript, which HTML code is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<sup>2</sup>"
+            },
+            {
+              "label": "B",
+              "text": "x<sub>2</sub>"
+            },
+            {
+              "label": "C",
+              "text": "x<power>2</power>"
+            },
+            {
+              "label": "D",
+              "text": "x<up>2</up>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x<sup>2</sup>",
+          "explanation": "The `<sup>` tag defines superscript text that appears half a character above the normal baseline, used for powers and mathematical exponents.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-025",
+          "question": "Which HTML tag inserts a horizontal thematic divider line across the webpage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<hr>"
+            },
+            {
+              "label": "B",
+              "text": "<line>"
+            },
+            {
+              "label": "C",
+              "text": "<divider>"
+            },
+            {
+              "label": "D",
+              "text": "<border>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<hr>",
+          "explanation": "The `<hr>` (horizontal rule) tag creates a visual horizontal divider line separating content topics on a webpage.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "HTML Hyperlinks",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-026",
+          "question": "Which HTML tag is used to create a clickable hyperlink?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<a>"
+            },
+            {
+              "label": "B",
+              "text": "<link>"
+            },
+            {
+              "label": "C",
+              "text": "<href>"
+            },
+            {
+              "label": "D",
+              "text": "<url>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<a>",
+          "explanation": "The anchor tag `<a>` creates hyperlinks that direct users to another document, webpage, or specific section when clicked.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-027",
+          "question": "Which attribute of the anchor tag specified the destination URL of the hyperlink?",
+          "options": [
+            {
+              "label": "A",
+              "text": "href"
+            },
+            {
+              "label": "B",
+              "text": "src"
+            },
+            {
+              "label": "C",
+              "text": "link"
+            },
+            {
+              "label": "D",
+              "text": "target_url"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "href",
+          "explanation": "The `href` (Hypertext Reference) attribute contains the target URL address to which the hyperlink points.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-028",
+          "question": "Which target attribute value causes a hyperlink to open the destination page in a NEW browser tab?",
+          "options": [
+            {
+              "label": "A",
+              "text": "target=\"_blank\""
+            },
+            {
+              "label": "B",
+              "text": "target=\"_self\""
+            },
+            {
+              "label": "C",
+              "text": "target=\"_top\""
+            },
+            {
+              "label": "D",
+              "text": "target=\"_parent\""
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "target=\"_blank\"",
+          "explanation": "Setting `target=\"_blank\"` instructs the web browser to open the linked document in a new tab or window.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-029",
+          "question": "What is the difference between an Absolute URL and a Relative URL?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An absolute URL includes the full protocol and domain name, while a relative URL points to a file path within the same website"
+            },
+            {
+              "label": "B",
+              "text": "An absolute URL works only on localhost servers"
+            },
+            {
+              "label": "C",
+              "text": "A relative URL requires a credit card to access"
+            },
+            {
+              "label": "D",
+              "text": "An absolute URL cannot be used inside anchor tags"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An absolute URL includes the full protocol and domain name, while a relative URL points to a file path within the same website",
+          "explanation": "Absolute URLs specify the complete address including protocol and domain (e.g., https://example.com/page.html), while relative URLs relate to the current directory (e.g., page.html).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-030",
+          "question": "How is a clickable email link created in HTML that opens the user's default email client?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<a href=\"mailto:info@example.com\">Send Email</a>"
+            },
+            {
+              "label": "B",
+              "text": "<a href=\"email:info@example.com\">Send Email</a>"
+            },
+            {
+              "label": "C",
+              "text": "<mail to=\"info@example.com\">Send Email</mail>"
+            },
+            {
+              "label": "D",
+              "text": "<link send=\"info@example.com\">Send Email</link>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<a href=\"mailto:info@example.com\">Send Email</a>",
+          "explanation": "Using the `mailto:` scheme within `href` instructs the browser to open the user's email program addressed to the specified email recipient.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "HTML Images and Multimedia",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-031",
+          "question": "Which tag is used to embed an image into an HTML webpage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<img>"
+            },
+            {
+              "label": "B",
+              "text": "<picture>"
+            },
+            {
+              "label": "C",
+              "text": "<image>"
+            },
+            {
+              "label": "D",
+              "text": "<graphic>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<img>",
+          "explanation": "The `<img>` tag is the standard empty HTML element used to embed graphics and images into an HTML document.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-032",
+          "question": "Which attribute specifies the file path or web URL of the image in an <img> tag?",
+          "options": [
+            {
+              "label": "A",
+              "text": "src"
+            },
+            {
+              "label": "B",
+              "text": "href"
+            },
+            {
+              "label": "C",
+              "text": "link"
+            },
+            {
+              "label": "D",
+              "text": "source"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "src",
+          "explanation": "The `src` (source) attribute provides the relative or absolute URL of the image file to be displayed.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-033",
+          "question": "What is the purpose of the 'alt' attribute in an <img> element?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To provide alternative descriptive text if the image fails to load or for screen readers"
+            },
+            {
+              "label": "B",
+              "text": "To change the brightness and contrast of the image"
+            },
+            {
+              "label": "C",
+              "text": "To crop the image into a circle"
+            },
+            {
+              "label": "D",
+              "text": "To convert the image to black and white"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To provide alternative descriptive text if the image fails to load or for screen readers",
+          "explanation": "The `alt` (alternative text) attribute displays fallback text if the graphic is missing and assists visually impaired users using screen readers.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-034",
+          "question": "Which attributes are used to explicitly define the dimensions of an image in pixels?",
+          "options": [
+            {
+              "label": "A",
+              "text": "width and height"
+            },
+            {
+              "label": "B",
+              "text": "size and scale"
+            },
+            {
+              "label": "C",
+              "text": "row and column"
+            },
+            {
+              "label": "D",
+              "text": "length and breadth"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "width and height",
+          "explanation": "The `width` and `height` attributes set the display dimensions of the image in pixels or percentages.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-035",
+          "question": "Which native HTML5 element allows video playback directly on a webpage without third-party plugins?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<video>"
+            },
+            {
+              "label": "B",
+              "text": "<movie>"
+            },
+            {
+              "label": "C",
+              "text": "<media>"
+            },
+            {
+              "label": "D",
+              "text": "<flash>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<video>",
+          "explanation": "HTML5 introduced the standard `<video>` tag to embed video streams natively into webpages using codecs like H.264/MP4 and WebM.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "HTML Lists",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-036",
+          "question": "Which tag creates an Ordered (numbered) list in HTML?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<ol>"
+            },
+            {
+              "label": "B",
+              "text": "<ul>"
+            },
+            {
+              "label": "C",
+              "text": "<li>"
+            },
+            {
+              "label": "D",
+              "text": "<dl>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<ol>",
+          "explanation": "The `<ol>` tag defines an ordered list where each item is marked with numbers, letters, or Roman numerals.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-037",
+          "question": "Which tag defines an individual item within both ordered (<ol>) and unordered (<ul>) lists?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<li>"
+            },
+            {
+              "label": "B",
+              "text": "<item>"
+            },
+            {
+              "label": "C",
+              "text": "<list>"
+            },
+            {
+              "label": "D",
+              "text": "<entry>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<li>",
+          "explanation": "The `<li>` (list item) tag wraps each individual entry inside `<ol>` or `<ul>` containers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-038",
+          "question": "Which tag creates an Unordered (bulleted) list in HTML?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<ul>"
+            },
+            {
+              "label": "B",
+              "text": "<ol>"
+            },
+            {
+              "label": "C",
+              "text": "<bl>"
+            },
+            {
+              "label": "D",
+              "text": "<nl>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<ul>",
+          "explanation": "The `<ul>` tag creates an unordered list where list items are marked with bullet icons rather than numbers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-039",
+          "question": "What will the list items look like if `<ol type=\"A\">` is specified?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Items labeled with uppercase letters (A, B, C...)"
+            },
+            {
+              "label": "B",
+              "text": "Items labeled with lowercase Roman numerals (i, ii, iii...)"
+            },
+            {
+              "label": "C",
+              "text": "Items marked with square bullet dots"
+            },
+            {
+              "label": "D",
+              "text": "Items marked with Arabic numbers (1, 2, 3...)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Items labeled with uppercase letters (A, B, C...)",
+          "explanation": "The `type=\"A\"` attribute on an `<ol>` tag designates uppercase Latin alphabets as sequential list item markers.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-040",
+          "question": "Which tag combination defines a Description List containing terms and their explanatory descriptions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<dl>, <dt>, and <dd>"
+            },
+            {
+              "label": "B",
+              "text": "<ul>, <li>, and <p>"
+            },
+            {
+              "label": "C",
+              "text": "<ol>, <li>, and <span>"
+            },
+            {
+              "label": "D",
+              "text": "<list>, <term>, and <desc>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<dl>, <dt>, and <dd>",
+          "explanation": "A description list uses `<dl>` (description list), `<dt>` (description term), and `<dd>` (description definition).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "HTML Tables",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-041",
+          "question": "Which tag defines an individual row within an HTML table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<tr>"
+            },
+            {
+              "label": "B",
+              "text": "<td>"
+            },
+            {
+              "label": "C",
+              "text": "<th>"
+            },
+            {
+              "label": "D",
+              "text": "<table-row>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<tr>",
+          "explanation": "The `<tr>` (table row) tag encloses a horizontal row of cells within an HTML `<table>`.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-042",
+          "question": "How do standard table header cells (<th>) display content by default compared to data cells (<td>)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bold and centered"
+            },
+            {
+              "label": "B",
+              "text": "Italicized and left-aligned"
+            },
+            {
+              "label": "C",
+              "text": "Underlined and right-aligned"
+            },
+            {
+              "label": "D",
+              "text": "Colored red and justified"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bold and centered",
+          "explanation": "Text placed inside a `<th>` tag is rendered in bold typeface and centered horizontally by default in web browsers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-043",
+          "question": "Which HTML table attribute is used to merge two or more adjacent COLUMNS horizontally into a single cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "colspan"
+            },
+            {
+              "label": "B",
+              "text": "rowspan"
+            },
+            {
+              "label": "C",
+              "text": "merge-col"
+            },
+            {
+              "label": "D",
+              "text": "colmerge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "colspan",
+          "explanation": "The `colspan` attribute specifies the number of horizontal columns that a table cell should span.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-044",
+          "question": "Which HTML table attribute merges two or more vertical ROWS into a single cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rowspan"
+            },
+            {
+              "label": "B",
+              "text": "colspan"
+            },
+            {
+              "label": "C",
+              "text": "rowmerge"
+            },
+            {
+              "label": "D",
+              "text": "vertspan"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "rowspan",
+          "explanation": "The `rowspan` attribute specifies the number of vertical rows a table cell extends across.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-045",
+          "question": "Which tag defines an accessible title or caption placed directly above or below an HTML table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<caption>"
+            },
+            {
+              "label": "B",
+              "text": "<title>"
+            },
+            {
+              "label": "C",
+              "text": "<legend>"
+            },
+            {
+              "label": "D",
+              "text": "<summary>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<caption>",
+          "explanation": "The `<caption>` tag, placed immediately after opening the `<table>` tag, provides an official title for the table.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "HTML Forms and Web Publishing",
+      "questions": [
+        {
+          "id": "ICT04-MCQ-046",
+          "question": "Which input type creates a masked single-line input field where entered characters are hidden by asterisks or dots?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<input type=\"password\">"
+            },
+            {
+              "label": "B",
+              "text": "<input type=\"text\">"
+            },
+            {
+              "label": "C",
+              "text": "<input type=\"hidden\">"
+            },
+            {
+              "label": "D",
+              "text": "<input type=\"secure\">"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<input type=\"password\">",
+          "explanation": "`<input type=\"password\">` conceals characters typed by the user using bullet dots or asterisks to protect sensitive credentials.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-047",
+          "question": "Which input control allows a user to select only ONE option from a group of mutually exclusive choices?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Radio button (<input type=\"radio\">)"
+            },
+            {
+              "label": "B",
+              "text": "Checkbox (<input type=\"checkbox\">)"
+            },
+            {
+              "label": "C",
+              "text": "Text field (<input type=\"text\">)"
+            },
+            {
+              "label": "D",
+              "text": "Submit button (<input type=\"submit\">)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Radio button (<input type=\"radio\">)",
+          "explanation": "Radio buttons sharing the same `name` attribute permit only a single selection at any time, unlike checkboxes which allow multiple selections.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT04-MCQ-048",
+          "question": "What is the crucial operational difference between HTTP GET and POST form submission methods?",
+          "options": [
+            {
+              "label": "A",
+              "text": "GET appends submitted form data visibly to the URL address bar, while POST transmits data securely inside the HTTP message body"
+            },
+            {
+              "label": "B",
+              "text": "GET can only be used with images"
+            },
+            {
+              "label": "C",
+              "text": "POST deletes the website database upon submission"
+            },
+            {
+              "label": "D",
+              "text": "GET does not require an internet connection"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "GET appends submitted form data visibly to the URL address bar, while POST transmits data securely inside the HTTP message body",
+          "explanation": "GET attaches form fields to the query string in the browser URL (making it unsuitable for passwords), whereas POST encapsulates data in the HTTP request payload.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-049",
+          "question": "Which tag element creates a multi-line plain text input area for messages or comments in an HTML form?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<textarea>"
+            },
+            {
+              "label": "B",
+              "text": "<input type=\"multiline\">"
+            },
+            {
+              "label": "C",
+              "text": "<textbox>"
+            },
+            {
+              "label": "D",
+              "text": "<paragraph-input>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<textarea>",
+          "explanation": "The `<textarea>` element provides a resizable, multi-line text input field suited for user feedback, articles, or comments.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT04-MCQ-050",
+          "question": "Which protocol is standardly used by web developers to transfer and upload local website files to a remote web hosting server?",
+          "options": [
+            {
+              "label": "A",
+              "text": "FTP (File Transfer Protocol)"
+            },
+            {
+              "label": "B",
+              "text": "SMTP (Simple Mail Transfer Protocol)"
+            },
+            {
+              "label": "C",
+              "text": "SNMP (Simple Network Management Protocol)"
+            },
+            {
+              "label": "D",
+              "text": "ARP (Address Resolution Protocol)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "FTP (File Transfer Protocol)",
+          "explanation": "FTP (or secure SFTP) is the standard network protocol used to upload, download, and manage files between a local computer and a remote web server.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

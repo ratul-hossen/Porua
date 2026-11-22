@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 3,
+  "chapter_title": "Complex Numbers",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Real Parts",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q001",
+          "question": "If z=2+(3)i, find Re(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2",
+          "explanation": "In a+bi, the real part is a, which here equals 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q002",
+          "question": "If z=-1+(4)i, find Re(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-1",
+          "explanation": "In a+bi, the real part is a, which here equals -1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q003",
+          "question": "If z=5+(-2)i, find Re(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "-2"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "In a+bi, the real part is a, which here equals 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q004",
+          "question": "If z=0+(6)i, find Re(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "0",
+          "explanation": "In a+bi, the real part is a, which here equals 0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q005",
+          "question": "If z=-3+(-4)i, find Re(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "-2"
+            },
+            {
+              "label": "C",
+              "text": "-4"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-3",
+          "explanation": "In a+bi, the real part is a, which here equals -3.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Imaginary Parts",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q006",
+          "question": "If z=2+(3)i, find Im(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3",
+          "explanation": "In a+bi, the imaginary part is the coefficient b, equal to 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q007",
+          "question": "If z=-1+(4)i, find Im(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4",
+          "explanation": "In a+bi, the imaginary part is the coefficient b, equal to 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q008",
+          "question": "If z=5+(-2)i, find Im(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-2",
+          "explanation": "In a+bi, the imaginary part is the coefficient b, equal to -2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q009",
+          "question": "If z=0+(6)i, find Im(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6",
+          "explanation": "In a+bi, the imaginary part is the coefficient b, equal to 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q010",
+          "question": "If z=-3+(-4)i, find Im(z).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "-4"
+            },
+            {
+              "label": "C",
+              "text": "-2"
+            },
+            {
+              "label": "D",
+              "text": "-5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-4",
+          "explanation": "In a+bi, the imaginary part is the coefficient b, equal to -4.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Complex Addition",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q011",
+          "question": "Evaluate (2+(3)i)+(4+(1)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2+(4)i"
+            },
+            {
+              "label": "B",
+              "text": "6+(2)i"
+            },
+            {
+              "label": "C",
+              "text": "6+(4)i"
+            },
+            {
+              "label": "D",
+              "text": "7+(4)i"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "6+(4)i",
+          "explanation": "Add real parts separately and imaginary parts separately to get 6+(4)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q012",
+          "question": "Evaluate (1+(5)i)+(2+(-3)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "4+(2)i"
+            },
+            {
+              "label": "B",
+              "text": "-1+(2)i"
+            },
+            {
+              "label": "C",
+              "text": "3+(8)i"
+            },
+            {
+              "label": "D",
+              "text": "3+(2)i"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "3+(2)i",
+          "explanation": "Add real parts separately and imaginary parts separately to get 3+(2)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q013",
+          "question": "Evaluate (-2+(4)i)+(5+(3)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "3+(7)i"
+            },
+            {
+              "label": "B",
+              "text": "3+(1)i"
+            },
+            {
+              "label": "C",
+              "text": "-7+(7)i"
+            },
+            {
+              "label": "D",
+              "text": "4+(7)i"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3+(7)i",
+          "explanation": "Add real parts separately and imaginary parts separately to get 3+(7)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q014",
+          "question": "Evaluate (4+(-1)i)+(1+(6)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "6+(5)i"
+            },
+            {
+              "label": "B",
+              "text": "5+(5)i"
+            },
+            {
+              "label": "C",
+              "text": "3+(5)i"
+            },
+            {
+              "label": "D",
+              "text": "5+(-7)i"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5+(5)i",
+          "explanation": "Add real parts separately and imaginary parts separately to get 5+(5)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q015",
+          "question": "Evaluate (3+(2)i)+(-1+(5)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "2+(-3)i"
+            },
+            {
+              "label": "B",
+              "text": "4+(7)i"
+            },
+            {
+              "label": "C",
+              "text": "2+(7)i"
+            },
+            {
+              "label": "D",
+              "text": "3+(7)i"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2+(7)i",
+          "explanation": "Add real parts separately and imaginary parts separately to get 2+(7)i.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Complex Multiplication",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q016",
+          "question": "Evaluate (2+(1)i)(3+(4)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "2+(5)i"
+            },
+            {
+              "label": "B",
+              "text": "10+(11)i"
+            },
+            {
+              "label": "C",
+              "text": "3+(11)i"
+            },
+            {
+              "label": "D",
+              "text": "2+(11)i"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "2+(11)i",
+          "explanation": "Expand the product and use i²=−1; the result is 2+(11)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q017",
+          "question": "Evaluate (3+(2)i)(1+(5)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7+(17)i"
+            },
+            {
+              "label": "B",
+              "text": "-6+(17)i"
+            },
+            {
+              "label": "C",
+              "text": "-7+(13)i"
+            },
+            {
+              "label": "D",
+              "text": "13+(17)i"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-7+(17)i",
+          "explanation": "Expand the product and use i²=−1; the result is -7+(17)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q018",
+          "question": "Evaluate (4+(-1)i)(2+(3)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "11+(14)i"
+            },
+            {
+              "label": "B",
+              "text": "11+(10)i"
+            },
+            {
+              "label": "C",
+              "text": "5+(10)i"
+            },
+            {
+              "label": "D",
+              "text": "12+(10)i"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "11+(10)i",
+          "explanation": "Expand the product and use i²=−1; the result is 11+(10)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q019",
+          "question": "Evaluate (-2+(3)i)(4+(1)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-5+(10)i"
+            },
+            {
+              "label": "B",
+              "text": "-11+(-14)i"
+            },
+            {
+              "label": "C",
+              "text": "-11+(10)i"
+            },
+            {
+              "label": "D",
+              "text": "-10+(10)i"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-11+(10)i",
+          "explanation": "Expand the product and use i²=−1; the result is -11+(10)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q020",
+          "question": "Evaluate (5+(1)i)(-1+(2)i).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3+(9)i"
+            },
+            {
+              "label": "B",
+              "text": "-6+(9)i"
+            },
+            {
+              "label": "C",
+              "text": "-7+(11)i"
+            },
+            {
+              "label": "D",
+              "text": "-7+(9)i"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-7+(9)i",
+          "explanation": "Expand the product and use i²=−1; the result is -7+(9)i.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Modulus",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q021",
+          "question": "Find the modulus |z| of z=3+4i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5",
+          "explanation": "For z=a+bi, |z|=√(a²+b²), which gives 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q022",
+          "question": "Find the modulus |z| of z=5+12i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "14"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "17"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "13",
+          "explanation": "For z=a+bi, |z|=√(a²+b²), which gives 13.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q023",
+          "question": "Find the modulus |z| of z=8+15i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "23"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "18"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "17",
+          "explanation": "For z=a+bi, |z|=√(a²+b²), which gives 17.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q024",
+          "question": "Find the modulus |z| of z=7+24i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "26"
+            },
+            {
+              "label": "B",
+              "text": "24"
+            },
+            {
+              "label": "C",
+              "text": "31"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "25",
+          "explanation": "For z=a+bi, |z|=√(a²+b²), which gives 25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q025",
+          "question": "Find the modulus |z| of z=6+8i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10",
+          "explanation": "For z=a+bi, |z|=√(a²+b²), which gives 10.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Conjugates",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q026",
+          "question": "Find the complex conjugate of z=2+(3)i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2+(-3)i"
+            },
+            {
+              "label": "B",
+              "text": "2+(-3)i"
+            },
+            {
+              "label": "C",
+              "text": "2+(3)i"
+            },
+            {
+              "label": "D",
+              "text": "-2+(3)i"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2+(-3)i",
+          "explanation": "Keep the real part and reverse the sign of the imaginary part to get 2+(-3)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q027",
+          "question": "Find the complex conjugate of z=-1+(4)i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1+(4)i"
+            },
+            {
+              "label": "B",
+              "text": "1+(-4)i"
+            },
+            {
+              "label": "C",
+              "text": "-1+(-4)i"
+            },
+            {
+              "label": "D",
+              "text": "1+(4)i"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-1+(-4)i",
+          "explanation": "Keep the real part and reverse the sign of the imaginary part to get -1+(-4)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q028",
+          "question": "Find the complex conjugate of z=5+(-2)i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-5+(-2)i"
+            },
+            {
+              "label": "B",
+              "text": "-5+(2)i"
+            },
+            {
+              "label": "C",
+              "text": "5+(-2)i"
+            },
+            {
+              "label": "D",
+              "text": "5+(2)i"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5+(2)i",
+          "explanation": "Keep the real part and reverse the sign of the imaginary part to get 5+(2)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q029",
+          "question": "Find the complex conjugate of z=0+(6)i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0+(-6)i"
+            },
+            {
+              "label": "B",
+              "text": "0+(6)i"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "0+(-6)i",
+          "explanation": "Keep the real part and reverse the sign of the imaginary part to get 0+(-6)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q030",
+          "question": "Find the complex conjugate of z=-3+(-4)i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3+(-4)i"
+            },
+            {
+              "label": "B",
+              "text": "-3+(4)i"
+            },
+            {
+              "label": "C",
+              "text": "3+(4)i"
+            },
+            {
+              "label": "D",
+              "text": "3+(-4)i"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-3+(4)i",
+          "explanation": "Keep the real part and reverse the sign of the imaginary part to get -3+(4)i.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Powers of i",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q031",
+          "question": "Evaluate i^11.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "−1"
+            },
+            {
+              "label": "C",
+              "text": "−i"
+            },
+            {
+              "label": "D",
+              "text": "i"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "−i",
+          "explanation": "Powers of i repeat every four: i, −1, −i, 1. The result is −i.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C03-Q032",
+          "question": "Evaluate i^14.",
+          "options": [
+            {
+              "label": "A",
+              "text": "i"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "−i"
+            },
+            {
+              "label": "D",
+              "text": "−1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "−1",
+          "explanation": "Powers of i repeat every four: i, −1, −i, 1. The result is −1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C03-Q033",
+          "question": "Evaluate i^17.",
+          "options": [
+            {
+              "label": "A",
+              "text": "i"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "−i"
+            },
+            {
+              "label": "D",
+              "text": "−1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "i",
+          "explanation": "Powers of i repeat every four: i, −1, −i, 1. The result is i.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C03-Q034",
+          "question": "Evaluate i^20.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "i"
+            },
+            {
+              "label": "D",
+              "text": "−i"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1",
+          "explanation": "Powers of i repeat every four: i, −1, −i, 1. The result is 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C03-Q035",
+          "question": "Evaluate i^23.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "−i"
+            },
+            {
+              "label": "D",
+              "text": "i"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "−i",
+          "explanation": "Powers of i repeat every four: i, −1, −i, 1. The result is −i.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Division by i",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q036",
+          "question": "Simplify 2/i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "2i"
+            },
+            {
+              "label": "C",
+              "text": "−2"
+            },
+            {
+              "label": "D",
+              "text": "−2i"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "−2i",
+          "explanation": "Since 1/i=−i, the quotient is −2i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q037",
+          "question": "Simplify 3/i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−3i"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "−3"
+            },
+            {
+              "label": "D",
+              "text": "3i"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "−3i",
+          "explanation": "Since 1/i=−i, the quotient is −3i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q038",
+          "question": "Simplify 4/i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4i"
+            },
+            {
+              "label": "B",
+              "text": "−4i"
+            },
+            {
+              "label": "C",
+              "text": "−4"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "−4i",
+          "explanation": "Since 1/i=−i, the quotient is −4i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q039",
+          "question": "Simplify 5/i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5i"
+            },
+            {
+              "label": "B",
+              "text": "−5"
+            },
+            {
+              "label": "C",
+              "text": "−5i"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "−5i",
+          "explanation": "Since 1/i=−i, the quotient is −5i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q040",
+          "question": "Simplify 6/i.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6i"
+            },
+            {
+              "label": "B",
+              "text": "−6"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "−6i"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "−6i",
+          "explanation": "Since 1/i=−i, the quotient is −6i.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Squares of Complex Numbers",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q041",
+          "question": "Expand (2+(3)i)².",
+          "options": [
+            {
+              "label": "A",
+              "text": "-5+(12)i"
+            },
+            {
+              "label": "B",
+              "text": "-4+(12)i"
+            },
+            {
+              "label": "C",
+              "text": "13+(12)i"
+            },
+            {
+              "label": "D",
+              "text": "-5+(6)i"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-5+(12)i",
+          "explanation": "Using (a+bi)²=(a²−b²)+2abi, the answer is -5+(12)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q042",
+          "question": "Expand (3+(1)i)².",
+          "options": [
+            {
+              "label": "A",
+              "text": "9+(6)i"
+            },
+            {
+              "label": "B",
+              "text": "8+(6)i"
+            },
+            {
+              "label": "C",
+              "text": "10+(6)i"
+            },
+            {
+              "label": "D",
+              "text": "8+(3)i"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "8+(6)i",
+          "explanation": "Using (a+bi)²=(a²−b²)+2abi, the answer is 8+(6)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q043",
+          "question": "Expand (1+(4)i)².",
+          "options": [
+            {
+              "label": "A",
+              "text": "-14+(8)i"
+            },
+            {
+              "label": "B",
+              "text": "17+(8)i"
+            },
+            {
+              "label": "C",
+              "text": "-15+(8)i"
+            },
+            {
+              "label": "D",
+              "text": "-15+(4)i"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-15+(8)i",
+          "explanation": "Using (a+bi)²=(a²−b²)+2abi, the answer is -15+(8)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q044",
+          "question": "Expand (-2+(5)i)².",
+          "options": [
+            {
+              "label": "A",
+              "text": "-21+(-10)i"
+            },
+            {
+              "label": "B",
+              "text": "29+(-20)i"
+            },
+            {
+              "label": "C",
+              "text": "-20+(-20)i"
+            },
+            {
+              "label": "D",
+              "text": "-21+(-20)i"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-21+(-20)i",
+          "explanation": "Using (a+bi)²=(a²−b²)+2abi, the answer is -21+(-20)i.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q045",
+          "question": "Expand (4+(-1)i)².",
+          "options": [
+            {
+              "label": "A",
+              "text": "15+(-8)i"
+            },
+            {
+              "label": "B",
+              "text": "15+(-4)i"
+            },
+            {
+              "label": "C",
+              "text": "16+(-8)i"
+            },
+            {
+              "label": "D",
+              "text": "17+(-8)i"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "15+(-8)i",
+          "explanation": "Using (a+bi)²=(a²−b²)+2abi, the answer is 15+(-8)i.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Reciprocals of Complex Numbers",
+      "questions": [
+        {
+          "id": "HM-P2-C03-Q046",
+          "question": "Simplify 1/(2+1i) by rationalising the denominator.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(2−1i)/6"
+            },
+            {
+              "label": "B",
+              "text": "(2−1i)/5"
+            },
+            {
+              "label": "C",
+              "text": "(2−1i)/3"
+            },
+            {
+              "label": "D",
+              "text": "(2+1i)/5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(2−1i)/5",
+          "explanation": "Multiply top and bottom by the complex conjugate. The simplified result is (2−1i)/5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q047",
+          "question": "Simplify 1/(3+2i) by rationalising the denominator.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(3−2i)/14"
+            },
+            {
+              "label": "B",
+              "text": "(3+2i)/13"
+            },
+            {
+              "label": "C",
+              "text": "(3−2i)/13"
+            },
+            {
+              "label": "D",
+              "text": "(3−2i)/5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "(3−2i)/13",
+          "explanation": "Multiply top and bottom by the complex conjugate. The simplified result is (3−2i)/13.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q048",
+          "question": "Simplify 1/(4+3i) by rationalising the denominator.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(4−3i)/26"
+            },
+            {
+              "label": "B",
+              "text": "(4−3i)/7"
+            },
+            {
+              "label": "C",
+              "text": "(4+3i)/25"
+            },
+            {
+              "label": "D",
+              "text": "(4−3i)/25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(4−3i)/25",
+          "explanation": "Multiply top and bottom by the complex conjugate. The simplified result is (4−3i)/25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q049",
+          "question": "Simplify 1/(1+5i) by rationalising the denominator.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(1−5i)/26"
+            },
+            {
+              "label": "B",
+              "text": "(1+5i)/26"
+            },
+            {
+              "label": "C",
+              "text": "(1−5i)/6"
+            },
+            {
+              "label": "D",
+              "text": "(1−5i)/27"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(1−5i)/26",
+          "explanation": "Multiply top and bottom by the complex conjugate. The simplified result is (1−5i)/26.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C03-Q050",
+          "question": "Simplify 1/(5+4i) by rationalising the denominator.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(5−4i)/9"
+            },
+            {
+              "label": "B",
+              "text": "(5−4i)/41"
+            },
+            {
+              "label": "C",
+              "text": "(5−4i)/42"
+            },
+            {
+              "label": "D",
+              "text": "(5+4i)/41"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(5−4i)/41",
+          "explanation": "Multiply top and bottom by the complex conjugate. The simplified result is (5−4i)/41.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

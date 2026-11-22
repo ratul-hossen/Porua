@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 3,
+  "chapter_title": "Current Electricity",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Electric current",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ001",
+          "question": "Which statement best describes electric current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance per unit length"
+            },
+            {
+              "label": "B",
+              "text": "Electric current is the rate of flow of electric charge"
+            },
+            {
+              "label": "C",
+              "text": "charge multiplied by time"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit charge"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electric current is the rate of flow of electric charge",
+          "explanation": "I = ∆Q/∆t and its SI unit is ampere.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ002",
+          "question": "Which option is correctly associated with electric current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance per unit length"
+            },
+            {
+              "label": "B",
+              "text": "charge multiplied by time"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit charge"
+            },
+            {
+              "label": "D",
+              "text": "Electric current is the rate of flow of electric charge"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electric current is the rate of flow of electric charge",
+          "explanation": "I = ∆Q/∆t and its SI unit is ampere.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ003",
+          "question": "In a basic HSC Physics question about electric current, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy per unit charge"
+            },
+            {
+              "label": "B",
+              "text": "resistance per unit length"
+            },
+            {
+              "label": "C",
+              "text": "Electric current is the rate of flow of electric charge"
+            },
+            {
+              "label": "D",
+              "text": "charge multiplied by time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Electric current is the rate of flow of electric charge",
+          "explanation": "I = ∆Q/∆t and its SI unit is ampere.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ004",
+          "question": "Which fact should be remembered about electric current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electric current is the rate of flow of electric charge"
+            },
+            {
+              "label": "B",
+              "text": "resistance per unit length"
+            },
+            {
+              "label": "C",
+              "text": "charge multiplied by time"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Electric current is the rate of flow of electric charge",
+          "explanation": "I = ∆Q/∆t and its SI unit is ampere.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning electric current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electric current is the rate of flow of electric charge"
+            },
+            {
+              "label": "B",
+              "text": "charge multiplied by time"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit charge"
+            },
+            {
+              "label": "D",
+              "text": "resistance per unit length"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Electric current is the rate of flow of electric charge",
+          "explanation": "I = ∆Q/∆t and its SI unit is ampere.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Conventional current",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ006",
+          "question": "Which statement best describes conventional current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "random direction"
+            },
+            {
+              "label": "B",
+              "text": "the direction electrons always move"
+            },
+            {
+              "label": "C",
+              "text": "opposite to electric field in metals"
+            },
+            {
+              "label": "D",
+              "text": "Conventional current direction is the direction positive charge would move"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Conventional current direction is the direction positive charge would move",
+          "explanation": "In metallic conductors, electron drift is opposite to conventional current.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ007",
+          "question": "Which option is correctly associated with conventional current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "random direction"
+            },
+            {
+              "label": "B",
+              "text": "the direction electrons always move"
+            },
+            {
+              "label": "C",
+              "text": "opposite to electric field in metals"
+            },
+            {
+              "label": "D",
+              "text": "Conventional current direction is the direction positive charge would move"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Conventional current direction is the direction positive charge would move",
+          "explanation": "In metallic conductors, electron drift is opposite to conventional current.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ008",
+          "question": "In a basic HSC Physics question about conventional current, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the direction electrons always move"
+            },
+            {
+              "label": "B",
+              "text": "random direction"
+            },
+            {
+              "label": "C",
+              "text": "opposite to electric field in metals"
+            },
+            {
+              "label": "D",
+              "text": "Conventional current direction is the direction positive charge would move"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Conventional current direction is the direction positive charge would move",
+          "explanation": "In metallic conductors, electron drift is opposite to conventional current.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ009",
+          "question": "Which fact should be remembered about conventional current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "opposite to electric field in metals"
+            },
+            {
+              "label": "B",
+              "text": "the direction electrons always move"
+            },
+            {
+              "label": "C",
+              "text": "random direction"
+            },
+            {
+              "label": "D",
+              "text": "Conventional current direction is the direction positive charge would move"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Conventional current direction is the direction positive charge would move",
+          "explanation": "In metallic conductors, electron drift is opposite to conventional current.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning conventional current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Conventional current direction is the direction positive charge would move"
+            },
+            {
+              "label": "B",
+              "text": "the direction electrons always move"
+            },
+            {
+              "label": "C",
+              "text": "opposite to electric field in metals"
+            },
+            {
+              "label": "D",
+              "text": "random direction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Conventional current direction is the direction positive charge would move",
+          "explanation": "In metallic conductors, electron drift is opposite to conventional current.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Ohm's law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ011",
+          "question": "Which statement best describes ohm's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At constant physical conditions, current through an ohmic conductor is proportional to potential difference"
+            },
+            {
+              "label": "B",
+              "text": "current is proportional to resistance"
+            },
+            {
+              "label": "C",
+              "text": "resistance is always zero"
+            },
+            {
+              "label": "D",
+              "text": "voltage is independent of current"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "At constant physical conditions, current through an ohmic conductor is proportional to potential",
+          "explanation": "Ohm's law is V = IR for an ohmic conductor at constant temperature.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ012",
+          "question": "Which option is correctly associated with ohm's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance is always zero"
+            },
+            {
+              "label": "B",
+              "text": "voltage is independent of current"
+            },
+            {
+              "label": "C",
+              "text": "At constant physical conditions, current through an ohmic conductor is proportional to potential difference"
+            },
+            {
+              "label": "D",
+              "text": "current is proportional to resistance"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "At constant physical conditions, current through an ohmic conductor is proportional to potential",
+          "explanation": "Ohm's law is V = IR for an ohmic conductor at constant temperature.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ013",
+          "question": "In a basic HSC Physics question about ohm's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "voltage is independent of current"
+            },
+            {
+              "label": "B",
+              "text": "current is proportional to resistance"
+            },
+            {
+              "label": "C",
+              "text": "At constant physical conditions, current through an ohmic conductor is proportional to potential difference"
+            },
+            {
+              "label": "D",
+              "text": "resistance is always zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "At constant physical conditions, current through an ohmic conductor is proportional to potential",
+          "explanation": "Ohm's law is V = IR for an ohmic conductor at constant temperature.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ014",
+          "question": "Which fact should be remembered about ohm's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At constant physical conditions, current through an ohmic conductor is proportional to potential difference"
+            },
+            {
+              "label": "B",
+              "text": "voltage is independent of current"
+            },
+            {
+              "label": "C",
+              "text": "current is proportional to resistance"
+            },
+            {
+              "label": "D",
+              "text": "resistance is always zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "At constant physical conditions, current through an ohmic conductor is proportional to potential",
+          "explanation": "Ohm's law is V = IR for an ohmic conductor at constant temperature.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning ohm's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "current is proportional to resistance"
+            },
+            {
+              "label": "B",
+              "text": "resistance is always zero"
+            },
+            {
+              "label": "C",
+              "text": "At constant physical conditions, current through an ohmic conductor is proportional to potential difference"
+            },
+            {
+              "label": "D",
+              "text": "voltage is independent of current"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "At constant physical conditions, current through an ohmic conductor is proportional to potential",
+          "explanation": "Ohm's law is V = IR for an ohmic conductor at constant temperature.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Resistance",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ016",
+          "question": "Which statement best describes resistance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "charge multiplied by time"
+            },
+            {
+              "label": "B",
+              "text": "Resistance is defined as potential difference divided by current"
+            },
+            {
+              "label": "C",
+              "text": "power divided by charge"
+            },
+            {
+              "label": "D",
+              "text": "current divided by voltage"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Resistance is defined as potential difference divided by current",
+          "explanation": "R = V/I and the SI unit is ohm.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ017",
+          "question": "Which option is correctly associated with resistance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "current divided by voltage"
+            },
+            {
+              "label": "B",
+              "text": "power divided by charge"
+            },
+            {
+              "label": "C",
+              "text": "charge multiplied by time"
+            },
+            {
+              "label": "D",
+              "text": "Resistance is defined as potential difference divided by current"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Resistance is defined as potential difference divided by current",
+          "explanation": "R = V/I and the SI unit is ohm.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ018",
+          "question": "In a basic HSC Physics question about resistance, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "current divided by voltage"
+            },
+            {
+              "label": "B",
+              "text": "Resistance is defined as potential difference divided by current"
+            },
+            {
+              "label": "C",
+              "text": "power divided by charge"
+            },
+            {
+              "label": "D",
+              "text": "charge multiplied by time"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Resistance is defined as potential difference divided by current",
+          "explanation": "R = V/I and the SI unit is ohm.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ019",
+          "question": "Which fact should be remembered about resistance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "power divided by charge"
+            },
+            {
+              "label": "B",
+              "text": "current divided by voltage"
+            },
+            {
+              "label": "C",
+              "text": "charge multiplied by time"
+            },
+            {
+              "label": "D",
+              "text": "Resistance is defined as potential difference divided by current"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Resistance is defined as potential difference divided by current",
+          "explanation": "R = V/I and the SI unit is ohm.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning resistance?",
+          "options": [
+            {
+              "label": "A",
+              "text": "power divided by charge"
+            },
+            {
+              "label": "B",
+              "text": "current divided by voltage"
+            },
+            {
+              "label": "C",
+              "text": "Resistance is defined as potential difference divided by current"
+            },
+            {
+              "label": "D",
+              "text": "charge multiplied by time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Resistance is defined as potential difference divided by current",
+          "explanation": "R = V/I and the SI unit is ohm.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Resistivity",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ021",
+          "question": "Which statement best describes resistivity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "R = ρ/(LA)"
+            },
+            {
+              "label": "B",
+              "text": "R = LA/ρ"
+            },
+            {
+              "label": "C",
+              "text": "R = ρA/L"
+            },
+            {
+              "label": "D",
+              "text": "For a uniform wire, R = ρL/A"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a uniform wire, R = ρL/A",
+          "explanation": "Resistance increases with length and decreases with cross-sectional area.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ022",
+          "question": "Which option is correctly associated with resistivity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "R = ρ/(LA)"
+            },
+            {
+              "label": "B",
+              "text": "For a uniform wire, R = ρL/A"
+            },
+            {
+              "label": "C",
+              "text": "R = ρA/L"
+            },
+            {
+              "label": "D",
+              "text": "R = LA/ρ"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a uniform wire, R = ρL/A",
+          "explanation": "Resistance increases with length and decreases with cross-sectional area.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ023",
+          "question": "In a basic HSC Physics question about resistivity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a uniform wire, R = ρL/A"
+            },
+            {
+              "label": "B",
+              "text": "R = LA/ρ"
+            },
+            {
+              "label": "C",
+              "text": "R = ρA/L"
+            },
+            {
+              "label": "D",
+              "text": "R = ρ/(LA)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a uniform wire, R = ρL/A",
+          "explanation": "Resistance increases with length and decreases with cross-sectional area.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ024",
+          "question": "Which fact should be remembered about resistivity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "R = ρ/(LA)"
+            },
+            {
+              "label": "B",
+              "text": "For a uniform wire, R = ρL/A"
+            },
+            {
+              "label": "C",
+              "text": "R = LA/ρ"
+            },
+            {
+              "label": "D",
+              "text": "R = ρA/L"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a uniform wire, R = ρL/A",
+          "explanation": "Resistance increases with length and decreases with cross-sectional area.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning resistivity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a uniform wire, R = ρL/A"
+            },
+            {
+              "label": "B",
+              "text": "R = LA/ρ"
+            },
+            {
+              "label": "C",
+              "text": "R = ρA/L"
+            },
+            {
+              "label": "D",
+              "text": "R = ρ/(LA)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a uniform wire, R = ρL/A",
+          "explanation": "Resistance increases with length and decreases with cross-sectional area.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Series circuits",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ026",
+          "question": "Which statement best describes series circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total resistance is less than each resistor"
+            },
+            {
+              "label": "B",
+              "text": "current divides at each resistor"
+            },
+            {
+              "label": "C",
+              "text": "the same voltage appears across every component"
+            },
+            {
+              "label": "D",
+              "text": "In a series circuit, the same current flows through every component"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a series circuit, the same current flows through every component",
+          "explanation": "There is only one path for charge flow in a series circuit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ027",
+          "question": "Which option is correctly associated with series circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the same voltage appears across every component"
+            },
+            {
+              "label": "B",
+              "text": "total resistance is less than each resistor"
+            },
+            {
+              "label": "C",
+              "text": "In a series circuit, the same current flows through every component"
+            },
+            {
+              "label": "D",
+              "text": "current divides at each resistor"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In a series circuit, the same current flows through every component",
+          "explanation": "There is only one path for charge flow in a series circuit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ028",
+          "question": "In a basic HSC Physics question about series circuits, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the same voltage appears across every component"
+            },
+            {
+              "label": "B",
+              "text": "In a series circuit, the same current flows through every component"
+            },
+            {
+              "label": "C",
+              "text": "current divides at each resistor"
+            },
+            {
+              "label": "D",
+              "text": "total resistance is less than each resistor"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a series circuit, the same current flows through every component",
+          "explanation": "There is only one path for charge flow in a series circuit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ029",
+          "question": "Which fact should be remembered about series circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "current divides at each resistor"
+            },
+            {
+              "label": "B",
+              "text": "total resistance is less than each resistor"
+            },
+            {
+              "label": "C",
+              "text": "the same voltage appears across every component"
+            },
+            {
+              "label": "D",
+              "text": "In a series circuit, the same current flows through every component"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a series circuit, the same current flows through every component",
+          "explanation": "There is only one path for charge flow in a series circuit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning series circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the same voltage appears across every component"
+            },
+            {
+              "label": "B",
+              "text": "In a series circuit, the same current flows through every component"
+            },
+            {
+              "label": "C",
+              "text": "current divides at each resistor"
+            },
+            {
+              "label": "D",
+              "text": "total resistance is less than each resistor"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a series circuit, the same current flows through every component",
+          "explanation": "There is only one path for charge flow in a series circuit.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Parallel circuits",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ031",
+          "question": "Which statement best describes parallel circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total resistance exceeds every branch"
+            },
+            {
+              "label": "B",
+              "text": "there is only one path"
+            },
+            {
+              "label": "C",
+              "text": "In a parallel circuit, each branch has the same potential difference"
+            },
+            {
+              "label": "D",
+              "text": "the same current in every branch always"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In a parallel circuit, each branch has the same potential difference",
+          "explanation": "All branches connect across the same two nodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ032",
+          "question": "Which option is correctly associated with parallel circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "there is only one path"
+            },
+            {
+              "label": "B",
+              "text": "the same current in every branch always"
+            },
+            {
+              "label": "C",
+              "text": "In a parallel circuit, each branch has the same potential difference"
+            },
+            {
+              "label": "D",
+              "text": "total resistance exceeds every branch"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In a parallel circuit, each branch has the same potential difference",
+          "explanation": "All branches connect across the same two nodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ033",
+          "question": "In a basic HSC Physics question about parallel circuits, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "there is only one path"
+            },
+            {
+              "label": "B",
+              "text": "In a parallel circuit, each branch has the same potential difference"
+            },
+            {
+              "label": "C",
+              "text": "total resistance exceeds every branch"
+            },
+            {
+              "label": "D",
+              "text": "the same current in every branch always"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a parallel circuit, each branch has the same potential difference",
+          "explanation": "All branches connect across the same two nodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ034",
+          "question": "Which fact should be remembered about parallel circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a parallel circuit, each branch has the same potential difference"
+            },
+            {
+              "label": "B",
+              "text": "there is only one path"
+            },
+            {
+              "label": "C",
+              "text": "total resistance exceeds every branch"
+            },
+            {
+              "label": "D",
+              "text": "the same current in every branch always"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In a parallel circuit, each branch has the same potential difference",
+          "explanation": "All branches connect across the same two nodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning parallel circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "there is only one path"
+            },
+            {
+              "label": "B",
+              "text": "total resistance exceeds every branch"
+            },
+            {
+              "label": "C",
+              "text": "In a parallel circuit, each branch has the same potential difference"
+            },
+            {
+              "label": "D",
+              "text": "the same current in every branch always"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In a parallel circuit, each branch has the same potential difference",
+          "explanation": "All branches connect across the same two nodes.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Electrical power",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ036",
+          "question": "Which statement best describes electrical power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P = V/I"
+            },
+            {
+              "label": "B",
+              "text": "Electrical power can be calculated using P = VI"
+            },
+            {
+              "label": "C",
+              "text": "P = I/V"
+            },
+            {
+              "label": "D",
+              "text": "P = V + I"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electrical power can be calculated using P = VI",
+          "explanation": "Power is the rate of electrical energy transfer; P = VI = I²R = V²/R.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ037",
+          "question": "Which option is correctly associated with electrical power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P = V/I"
+            },
+            {
+              "label": "B",
+              "text": "Electrical power can be calculated using P = VI"
+            },
+            {
+              "label": "C",
+              "text": "P = I/V"
+            },
+            {
+              "label": "D",
+              "text": "P = V + I"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electrical power can be calculated using P = VI",
+          "explanation": "Power is the rate of electrical energy transfer; P = VI = I²R = V²/R.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ038",
+          "question": "In a basic HSC Physics question about electrical power, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P = I/V"
+            },
+            {
+              "label": "B",
+              "text": "P = V/I"
+            },
+            {
+              "label": "C",
+              "text": "P = V + I"
+            },
+            {
+              "label": "D",
+              "text": "Electrical power can be calculated using P = VI"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electrical power can be calculated using P = VI",
+          "explanation": "Power is the rate of electrical energy transfer; P = VI = I²R = V²/R.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ039",
+          "question": "Which fact should be remembered about electrical power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrical power can be calculated using P = VI"
+            },
+            {
+              "label": "B",
+              "text": "P = V + I"
+            },
+            {
+              "label": "C",
+              "text": "P = V/I"
+            },
+            {
+              "label": "D",
+              "text": "P = I/V"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Electrical power can be calculated using P = VI",
+          "explanation": "Power is the rate of electrical energy transfer; P = VI = I²R = V²/R.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning electrical power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P = I/V"
+            },
+            {
+              "label": "B",
+              "text": "P = V + I"
+            },
+            {
+              "label": "C",
+              "text": "P = V/I"
+            },
+            {
+              "label": "D",
+              "text": "Electrical power can be calculated using P = VI"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Electrical power can be calculated using P = VI",
+          "explanation": "Power is the rate of electrical energy transfer; P = VI = I²R = V²/R.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Kirchhoff's current law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ041",
+          "question": "Which statement best describes kirchhoff's current law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "voltage is always zero in each branch"
+            },
+            {
+              "label": "B",
+              "text": "resistance is conserved"
+            },
+            {
+              "label": "C",
+              "text": "The sum of currents entering a junction equals the sum leaving it"
+            },
+            {
+              "label": "D",
+              "text": "current is created at junctions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The sum of currents entering a junction equals the sum leaving it",
+          "explanation": "The law follows from conservation of electric charge.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ042",
+          "question": "Which option is correctly associated with kirchhoff's current law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "voltage is always zero in each branch"
+            },
+            {
+              "label": "B",
+              "text": "The sum of currents entering a junction equals the sum leaving it"
+            },
+            {
+              "label": "C",
+              "text": "resistance is conserved"
+            },
+            {
+              "label": "D",
+              "text": "current is created at junctions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The sum of currents entering a junction equals the sum leaving it",
+          "explanation": "The law follows from conservation of electric charge.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ043",
+          "question": "In a basic HSC Physics question about kirchhoff's current law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "current is created at junctions"
+            },
+            {
+              "label": "B",
+              "text": "voltage is always zero in each branch"
+            },
+            {
+              "label": "C",
+              "text": "resistance is conserved"
+            },
+            {
+              "label": "D",
+              "text": "The sum of currents entering a junction equals the sum leaving it"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The sum of currents entering a junction equals the sum leaving it",
+          "explanation": "The law follows from conservation of electric charge.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ044",
+          "question": "Which fact should be remembered about kirchhoff's current law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "resistance is conserved"
+            },
+            {
+              "label": "B",
+              "text": "The sum of currents entering a junction equals the sum leaving it"
+            },
+            {
+              "label": "C",
+              "text": "current is created at junctions"
+            },
+            {
+              "label": "D",
+              "text": "voltage is always zero in each branch"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The sum of currents entering a junction equals the sum leaving it",
+          "explanation": "The law follows from conservation of electric charge.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning kirchhoff's current law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "current is created at junctions"
+            },
+            {
+              "label": "B",
+              "text": "The sum of currents entering a junction equals the sum leaving it"
+            },
+            {
+              "label": "C",
+              "text": "voltage is always zero in each branch"
+            },
+            {
+              "label": "D",
+              "text": "resistance is conserved"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The sum of currents entering a junction equals the sum leaving it",
+          "explanation": "The law follows from conservation of electric charge.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "EMF and terminal voltage",
+      "questions": [
+        {
+          "id": "PHY_2P_CH03_MCQ046",
+          "question": "Which statement best describes emf and terminal voltage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal resistance"
+            },
+            {
+              "label": "B",
+              "text": "terminal voltage is always greater"
+            },
+            {
+              "label": "C",
+              "text": "internal resistance creates extra energy"
+            },
+            {
+              "label": "D",
+              "text": "emf depends on external resistance only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal",
+          "explanation": "For a discharging cell, V = ε − Ir.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ047",
+          "question": "Which option is correctly associated with emf and terminal voltage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "emf depends on external resistance only"
+            },
+            {
+              "label": "B",
+              "text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal resistance"
+            },
+            {
+              "label": "C",
+              "text": "terminal voltage is always greater"
+            },
+            {
+              "label": "D",
+              "text": "internal resistance creates extra energy"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal",
+          "explanation": "For a discharging cell, V = ε − Ir.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ048",
+          "question": "In a basic HSC Physics question about emf and terminal voltage, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "internal resistance creates extra energy"
+            },
+            {
+              "label": "B",
+              "text": "terminal voltage is always greater"
+            },
+            {
+              "label": "C",
+              "text": "emf depends on external resistance only"
+            },
+            {
+              "label": "D",
+              "text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal resistance"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal",
+          "explanation": "For a discharging cell, V = ε − Ir.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ049",
+          "question": "Which fact should be remembered about emf and terminal voltage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "terminal voltage is always greater"
+            },
+            {
+              "label": "B",
+              "text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal resistance"
+            },
+            {
+              "label": "C",
+              "text": "emf depends on external resistance only"
+            },
+            {
+              "label": "D",
+              "text": "internal resistance creates extra energy"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal",
+          "explanation": "For a discharging cell, V = ε − Ir.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH03_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning emf and terminal voltage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "emf depends on external resistance only"
+            },
+            {
+              "label": "B",
+              "text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal resistance"
+            },
+            {
+              "label": "C",
+              "text": "internal resistance creates extra energy"
+            },
+            {
+              "label": "D",
+              "text": "terminal voltage is always greater"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "When a cell supplies current, terminal voltage is generally less than its emf because of internal",
+          "explanation": "For a discharging cell, V = ε − Ir.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

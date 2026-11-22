@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 7,
+  "chapter_title": "Inverse Trigonometric Functions and Trigonometric Equations",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Inverse Sine",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q001",
+          "question": "Find the principal value of arcsin(0) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0°"
+            },
+            {
+              "label": "B",
+              "text": "30°"
+            },
+            {
+              "label": "C",
+              "text": "45°"
+            },
+            {
+              "label": "D",
+              "text": "60°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "0°",
+          "explanation": "The range of arcsin is [−90°,90°]; the principal value is 0°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q002",
+          "question": "Find the principal value of arcsin(1/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "60°"
+            },
+            {
+              "label": "B",
+              "text": "30°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "45°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "30°",
+          "explanation": "The range of arcsin is [−90°,90°]; the principal value is 30°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q003",
+          "question": "Find the principal value of arcsin(√2/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "30°"
+            },
+            {
+              "label": "B",
+              "text": "60°"
+            },
+            {
+              "label": "C",
+              "text": "45°"
+            },
+            {
+              "label": "D",
+              "text": "0°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "45°",
+          "explanation": "The range of arcsin is [−90°,90°]; the principal value is 45°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q004",
+          "question": "Find the principal value of arcsin(√3/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0°"
+            },
+            {
+              "label": "B",
+              "text": "30°"
+            },
+            {
+              "label": "C",
+              "text": "45°"
+            },
+            {
+              "label": "D",
+              "text": "60°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "60°",
+          "explanation": "The range of arcsin is [−90°,90°]; the principal value is 60°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q005",
+          "question": "Find the principal value of arcsin(1) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "90°"
+            },
+            {
+              "label": "B",
+              "text": "0°"
+            },
+            {
+              "label": "C",
+              "text": "45°"
+            },
+            {
+              "label": "D",
+              "text": "30°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "90°",
+          "explanation": "The range of arcsin is [−90°,90°]; the principal value is 90°.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Inverse Cosine",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q006",
+          "question": "Find the principal value of arccos(1) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "30°"
+            },
+            {
+              "label": "B",
+              "text": "0°"
+            },
+            {
+              "label": "C",
+              "text": "60°"
+            },
+            {
+              "label": "D",
+              "text": "45°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "0°",
+          "explanation": "The range of arccos is [0°,180°]; the principal value is 0°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q007",
+          "question": "Find the principal value of arccos(√3/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "60°"
+            },
+            {
+              "label": "B",
+              "text": "0°"
+            },
+            {
+              "label": "C",
+              "text": "30°"
+            },
+            {
+              "label": "D",
+              "text": "45°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "30°",
+          "explanation": "The range of arccos is [0°,180°]; the principal value is 30°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q008",
+          "question": "Find the principal value of arccos(√2/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "30°"
+            },
+            {
+              "label": "B",
+              "text": "60°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "45°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "45°",
+          "explanation": "The range of arccos is [0°,180°]; the principal value is 45°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q009",
+          "question": "Find the principal value of arccos(1/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "60°"
+            },
+            {
+              "label": "B",
+              "text": "45°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "30°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "60°",
+          "explanation": "The range of arccos is [0°,180°]; the principal value is 60°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q010",
+          "question": "Find the principal value of arccos(0) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45°"
+            },
+            {
+              "label": "B",
+              "text": "90°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "30°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "90°",
+          "explanation": "The range of arccos is [0°,180°]; the principal value is 90°.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Inverse Tangent",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q011",
+          "question": "Find the principal value of arctan(0) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "60°"
+            },
+            {
+              "label": "B",
+              "text": "30°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "45°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "0°",
+          "explanation": "The range of arctan is (−90°,90°), so its principal value is 0°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q012",
+          "question": "Find the principal value of arctan(1/√3) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0°"
+            },
+            {
+              "label": "B",
+              "text": "60°"
+            },
+            {
+              "label": "C",
+              "text": "45°"
+            },
+            {
+              "label": "D",
+              "text": "30°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "30°",
+          "explanation": "The range of arctan is (−90°,90°), so its principal value is 30°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q013",
+          "question": "Find the principal value of arctan(1) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45°"
+            },
+            {
+              "label": "B",
+              "text": "30°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "60°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "45°",
+          "explanation": "The range of arctan is (−90°,90°), so its principal value is 45°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q014",
+          "question": "Find the principal value of arctan(√3) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45°"
+            },
+            {
+              "label": "B",
+              "text": "60°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "30°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "60°",
+          "explanation": "The range of arctan is (−90°,90°), so its principal value is 60°.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P2-C07-Q015",
+          "question": "Find the principal value of arctan(−1) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0°"
+            },
+            {
+              "label": "B",
+              "text": "30°"
+            },
+            {
+              "label": "C",
+              "text": "−45°"
+            },
+            {
+              "label": "D",
+              "text": "45°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "−45°",
+          "explanation": "The range of arctan is (−90°,90°), so its principal value is −45°.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Principal Values",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q016",
+          "question": "Evaluate arcsin(sin 120°), using principal values.",
+          "options": [
+            {
+              "label": "A",
+              "text": "30°"
+            },
+            {
+              "label": "B",
+              "text": "0°"
+            },
+            {
+              "label": "C",
+              "text": "−30°"
+            },
+            {
+              "label": "D",
+              "text": "60°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "60°",
+          "explanation": "Use the equivalent sine angle inside the principal interval [−90°,90°]; the result is 60°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q017",
+          "question": "Evaluate arcsin(sin 150°), using principal values.",
+          "options": [
+            {
+              "label": "A",
+              "text": "30°"
+            },
+            {
+              "label": "B",
+              "text": "60°"
+            },
+            {
+              "label": "C",
+              "text": "−30°"
+            },
+            {
+              "label": "D",
+              "text": "0°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "30°",
+          "explanation": "Use the equivalent sine angle inside the principal interval [−90°,90°]; the result is 30°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q018",
+          "question": "Evaluate arcsin(sin 210°), using principal values.",
+          "options": [
+            {
+              "label": "A",
+              "text": "30°"
+            },
+            {
+              "label": "B",
+              "text": "−30°"
+            },
+            {
+              "label": "C",
+              "text": "60°"
+            },
+            {
+              "label": "D",
+              "text": "0°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "−30°",
+          "explanation": "Use the equivalent sine angle inside the principal interval [−90°,90°]; the result is −30°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q019",
+          "question": "Evaluate arcsin(sin 240°), using principal values.",
+          "options": [
+            {
+              "label": "A",
+              "text": "30°"
+            },
+            {
+              "label": "B",
+              "text": "−30°"
+            },
+            {
+              "label": "C",
+              "text": "−60°"
+            },
+            {
+              "label": "D",
+              "text": "0°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "−60°",
+          "explanation": "Use the equivalent sine angle inside the principal interval [−90°,90°]; the result is −60°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q020",
+          "question": "Evaluate arcsin(sin 300°), using principal values.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0°"
+            },
+            {
+              "label": "B",
+              "text": "−30°"
+            },
+            {
+              "label": "C",
+              "text": "30°"
+            },
+            {
+              "label": "D",
+              "text": "−60°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "−60°",
+          "explanation": "Use the equivalent sine angle inside the principal interval [−90°,90°]; the result is −60°.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Trigonometric Equations",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q021",
+          "question": "Solve sin θ=1/2 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{30°, 150°}"
+            },
+            {
+              "label": "B",
+              "text": "{90°, 270°}"
+            },
+            {
+              "label": "C",
+              "text": "{60°, 120°}"
+            },
+            {
+              "label": "D",
+              "text": "{30°, 330°}"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "{30°, 150°}",
+          "explanation": "Sine has the stated value at two angles within one full turn; the solution set is {30°, 150°}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q022",
+          "question": "Solve sin θ=−1/2 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{90°, 270°}"
+            },
+            {
+              "label": "B",
+              "text": "{210°, 330°}"
+            },
+            {
+              "label": "C",
+              "text": "{30°, 330°}"
+            },
+            {
+              "label": "D",
+              "text": "{60°, 120°}"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "{210°, 330°}",
+          "explanation": "Sine has the stated value at two angles within one full turn; the solution set is {210°, 330°}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q023",
+          "question": "Solve sin θ=0 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{90°, 270°}"
+            },
+            {
+              "label": "B",
+              "text": "{60°, 120°}"
+            },
+            {
+              "label": "C",
+              "text": "{0°, 180°}"
+            },
+            {
+              "label": "D",
+              "text": "{30°, 330°}"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "{0°, 180°}",
+          "explanation": "Sine has the stated value at two angles within one full turn; the solution set is {0°, 180°}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q024",
+          "question": "Solve sin θ=√2/2 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{90°, 270°}"
+            },
+            {
+              "label": "B",
+              "text": "{60°, 120°}"
+            },
+            {
+              "label": "C",
+              "text": "{30°, 330°}"
+            },
+            {
+              "label": "D",
+              "text": "{45°, 135°}"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "{45°, 135°}",
+          "explanation": "Sine has the stated value at two angles within one full turn; the solution set is {45°, 135°}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q025",
+          "question": "Solve sin θ=−√2/2 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{225°, 315°}"
+            },
+            {
+              "label": "B",
+              "text": "{30°, 330°}"
+            },
+            {
+              "label": "C",
+              "text": "{90°, 270°}"
+            },
+            {
+              "label": "D",
+              "text": "{60°, 120°}"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "{225°, 315°}",
+          "explanation": "Sine has the stated value at two angles within one full turn; the solution set is {225°, 315°}.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cosine Equations",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q026",
+          "question": "Solve cos θ=1/2 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{30°, 150°}"
+            },
+            {
+              "label": "B",
+              "text": "{60°, 300°}"
+            },
+            {
+              "label": "C",
+              "text": "{90°, 180°}"
+            },
+            {
+              "label": "D",
+              "text": "{60°, 120°}"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "{60°, 300°}",
+          "explanation": "Cosine has the stated value at two angles within one full turn; the solution set is {60°, 300°}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q027",
+          "question": "Solve cos θ=−1/2 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{60°, 120°}"
+            },
+            {
+              "label": "B",
+              "text": "{90°, 180°}"
+            },
+            {
+              "label": "C",
+              "text": "{120°, 240°}"
+            },
+            {
+              "label": "D",
+              "text": "{30°, 150°}"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "{120°, 240°}",
+          "explanation": "Cosine has the stated value at two angles within one full turn; the solution set is {120°, 240°}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q028",
+          "question": "Solve cos θ=0 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{60°, 120°}"
+            },
+            {
+              "label": "B",
+              "text": "{90°, 180°}"
+            },
+            {
+              "label": "C",
+              "text": "{30°, 150°}"
+            },
+            {
+              "label": "D",
+              "text": "{90°, 270°}"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "{90°, 270°}",
+          "explanation": "Cosine has the stated value at two angles within one full turn; the solution set is {90°, 270°}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q029",
+          "question": "Solve cos θ=√2/2 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{45°, 315°}"
+            },
+            {
+              "label": "B",
+              "text": "{30°, 150°}"
+            },
+            {
+              "label": "C",
+              "text": "{60°, 120°}"
+            },
+            {
+              "label": "D",
+              "text": "{90°, 180°}"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "{45°, 315°}",
+          "explanation": "Cosine has the stated value at two angles within one full turn; the solution set is {45°, 315°}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q030",
+          "question": "Solve cos θ=−√2/2 on 0°≤θ<360°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "{30°, 150°}"
+            },
+            {
+              "label": "B",
+              "text": "{135°, 225°}"
+            },
+            {
+              "label": "C",
+              "text": "{90°, 180°}"
+            },
+            {
+              "label": "D",
+              "text": "{60°, 120°}"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "{135°, 225°}",
+          "explanation": "Cosine has the stated value at two angles within one full turn; the solution set is {135°, 225°}.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Tangent Equations",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q031",
+          "question": "Solve tan θ=0 on 0°≤θ<180°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45°"
+            },
+            {
+              "label": "B",
+              "text": "60°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "30°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "0°",
+          "explanation": "Tangent has period 180°; the solution in the given interval is 0°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q032",
+          "question": "Solve tan θ=1/√3 on 0°≤θ<180°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45°"
+            },
+            {
+              "label": "B",
+              "text": "60°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "30°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "30°",
+          "explanation": "Tangent has period 180°; the solution in the given interval is 30°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q033",
+          "question": "Solve tan θ=1 on 0°≤θ<180°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45°"
+            },
+            {
+              "label": "B",
+              "text": "0°"
+            },
+            {
+              "label": "C",
+              "text": "30°"
+            },
+            {
+              "label": "D",
+              "text": "60°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "45°",
+          "explanation": "Tangent has period 180°; the solution in the given interval is 45°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q034",
+          "question": "Solve tan θ=√3 on 0°≤θ<180°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "45°"
+            },
+            {
+              "label": "B",
+              "text": "60°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "30°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "60°",
+          "explanation": "Tangent has period 180°; the solution in the given interval is 60°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q035",
+          "question": "Solve tan θ=−1 on 0°≤θ<180°.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0°"
+            },
+            {
+              "label": "B",
+              "text": "30°"
+            },
+            {
+              "label": "C",
+              "text": "135°"
+            },
+            {
+              "label": "D",
+              "text": "45°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "135°",
+          "explanation": "Tangent has period 180°; the solution in the given interval is 135°.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Inverse Trigonometric Identities",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q036",
+          "question": "Evaluate arcsin(0)+arccos(0) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "180°"
+            },
+            {
+              "label": "B",
+              "text": "0°"
+            },
+            {
+              "label": "C",
+              "text": "45°"
+            },
+            {
+              "label": "D",
+              "text": "90°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "90°",
+          "explanation": "For x∈[−1,1], arcsin x+arccos x=90°, so the result is 90°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q037",
+          "question": "Evaluate arcsin(1/2)+arccos(1/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "90°"
+            },
+            {
+              "label": "B",
+              "text": "45°"
+            },
+            {
+              "label": "C",
+              "text": "0°"
+            },
+            {
+              "label": "D",
+              "text": "180°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "90°",
+          "explanation": "For x∈[−1,1], arcsin x+arccos x=90°, so the result is 90°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q038",
+          "question": "Evaluate arcsin(−1/2)+arccos(−1/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "180°"
+            },
+            {
+              "label": "B",
+              "text": "90°"
+            },
+            {
+              "label": "C",
+              "text": "45°"
+            },
+            {
+              "label": "D",
+              "text": "0°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "90°",
+          "explanation": "For x∈[−1,1], arcsin x+arccos x=90°, so the result is 90°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q039",
+          "question": "Evaluate arcsin(√2/2)+arccos(√2/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "180°"
+            },
+            {
+              "label": "B",
+              "text": "45°"
+            },
+            {
+              "label": "C",
+              "text": "90°"
+            },
+            {
+              "label": "D",
+              "text": "0°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "90°",
+          "explanation": "For x∈[−1,1], arcsin x+arccos x=90°, so the result is 90°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q040",
+          "question": "Evaluate arcsin(−√3/2)+arccos(−√3/2) in degrees.",
+          "options": [
+            {
+              "label": "A",
+              "text": "180°"
+            },
+            {
+              "label": "B",
+              "text": "0°"
+            },
+            {
+              "label": "C",
+              "text": "45°"
+            },
+            {
+              "label": "D",
+              "text": "90°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "90°",
+          "explanation": "For x∈[−1,1], arcsin x+arccos x=90°, so the result is 90°.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Domains of Inverse Functions",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q041",
+          "question": "For which real values of x is f(x)=arcsin x defined?",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1≤x≤1"
+            },
+            {
+              "label": "B",
+              "text": "x≠0"
+            },
+            {
+              "label": "C",
+              "text": "x≤1"
+            },
+            {
+              "label": "D",
+              "text": "x≥0"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "−1≤x≤1",
+          "explanation": "arcsin and arccos require an argument in [−1,1], whereas arctan accepts every real number; thus −1≤x≤1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q042",
+          "question": "For which real values of x is f(x)=arccos x defined?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤1"
+            },
+            {
+              "label": "B",
+              "text": "−1≤x≤1"
+            },
+            {
+              "label": "C",
+              "text": "x≥0"
+            },
+            {
+              "label": "D",
+              "text": "x≠0"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "−1≤x≤1",
+          "explanation": "arcsin and arccos require an argument in [−1,1], whereas arctan accepts every real number; thus −1≤x≤1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q043",
+          "question": "For which real values of x is f(x)=arctan x defined?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≥0"
+            },
+            {
+              "label": "B",
+              "text": "x≠0"
+            },
+            {
+              "label": "C",
+              "text": "all real x"
+            },
+            {
+              "label": "D",
+              "text": "x≤1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "all real x",
+          "explanation": "arcsin and arccos require an argument in [−1,1], whereas arctan accepts every real number; thus all real x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q044",
+          "question": "For which real values of x is f(x)=arcsin(2x) defined?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤1"
+            },
+            {
+              "label": "B",
+              "text": "x≠0"
+            },
+            {
+              "label": "C",
+              "text": "x≥0"
+            },
+            {
+              "label": "D",
+              "text": "−1/2≤x≤1/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "−1/2≤x≤1/2",
+          "explanation": "arcsin and arccos require an argument in [−1,1], whereas arctan accepts every real number; thus −1/2≤x≤1/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q045",
+          "question": "For which real values of x is f(x)=arccos(x/2) defined?",
+          "options": [
+            {
+              "label": "A",
+              "text": "−2≤x≤2"
+            },
+            {
+              "label": "B",
+              "text": "x≤1"
+            },
+            {
+              "label": "C",
+              "text": "x≥0"
+            },
+            {
+              "label": "D",
+              "text": "x≠0"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "−2≤x≤2",
+          "explanation": "arcsin and arccos require an argument in [−1,1], whereas arctan accepts every real number; thus −2≤x≤2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Addition of Inverse Angles",
+      "questions": [
+        {
+          "id": "HM-P2-C07-Q046",
+          "question": "Evaluate tan(arctan(1)+arctan(1/2)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "3/2"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3",
+          "explanation": "Apply tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q047",
+          "question": "Evaluate tan(arctan(1/2)+arctan(1/3)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "5/6"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1",
+          "explanation": "Apply tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q048",
+          "question": "Evaluate tan(arctan(1/3)+arctan(1/2)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "5/6"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "Apply tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q049",
+          "question": "Evaluate tan(arctan(2)+arctan(1/4)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "9/2"
+            },
+            {
+              "label": "B",
+              "text": "-9/2"
+            },
+            {
+              "label": "C",
+              "text": "9/4"
+            },
+            {
+              "label": "D",
+              "text": "11/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "9/2",
+          "explanation": "Apply tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is 9/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C07-Q050",
+          "question": "Evaluate tan(arctan(1)+arctan(1/3)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "4/3"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2",
+          "explanation": "Apply tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is 2.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

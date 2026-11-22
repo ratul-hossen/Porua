@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 7,
+  "chapter_title": "Physical Optics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Wave nature of light",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ001",
+          "question": "Which statement best describes wave nature of light?",
+          "options": [
+            {
+              "label": "A",
+              "text": "radioactive decay"
+            },
+            {
+              "label": "B",
+              "text": "Interference and diffraction are evidence of the wave nature of light"
+            },
+            {
+              "label": "C",
+              "text": "thermal expansion"
+            },
+            {
+              "label": "D",
+              "text": "photoelectric emission only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Interference and diffraction are evidence of the wave nature of light",
+          "explanation": "These effects arise from superposition and spreading of waves.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ002",
+          "question": "Which option is correctly associated with wave nature of light?",
+          "options": [
+            {
+              "label": "A",
+              "text": "photoelectric emission only"
+            },
+            {
+              "label": "B",
+              "text": "thermal expansion"
+            },
+            {
+              "label": "C",
+              "text": "Interference and diffraction are evidence of the wave nature of light"
+            },
+            {
+              "label": "D",
+              "text": "radioactive decay"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Interference and diffraction are evidence of the wave nature of light",
+          "explanation": "These effects arise from superposition and spreading of waves.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ003",
+          "question": "In a basic HSC Physics question about wave nature of light, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "photoelectric emission only"
+            },
+            {
+              "label": "B",
+              "text": "radioactive decay"
+            },
+            {
+              "label": "C",
+              "text": "thermal expansion"
+            },
+            {
+              "label": "D",
+              "text": "Interference and diffraction are evidence of the wave nature of light"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Interference and diffraction are evidence of the wave nature of light",
+          "explanation": "These effects arise from superposition and spreading of waves.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ004",
+          "question": "Which fact should be remembered about wave nature of light?",
+          "options": [
+            {
+              "label": "A",
+              "text": "radioactive decay"
+            },
+            {
+              "label": "B",
+              "text": "photoelectric emission only"
+            },
+            {
+              "label": "C",
+              "text": "Interference and diffraction are evidence of the wave nature of light"
+            },
+            {
+              "label": "D",
+              "text": "thermal expansion"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Interference and diffraction are evidence of the wave nature of light",
+          "explanation": "These effects arise from superposition and spreading of waves.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning wave nature of light?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Interference and diffraction are evidence of the wave nature of light"
+            },
+            {
+              "label": "B",
+              "text": "radioactive decay"
+            },
+            {
+              "label": "C",
+              "text": "thermal expansion"
+            },
+            {
+              "label": "D",
+              "text": "photoelectric emission only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Interference and diffraction are evidence of the wave nature of light",
+          "explanation": "These effects arise from superposition and spreading of waves.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Coherent sources",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ006",
+          "question": "Which statement best describes coherent sources?",
+          "options": [
+            {
+              "label": "A",
+              "text": "different frequencies"
+            },
+            {
+              "label": "B",
+              "text": "Coherent sources have the same frequency and a constant phase difference"
+            },
+            {
+              "label": "C",
+              "text": "random phase difference"
+            },
+            {
+              "label": "D",
+              "text": "different speeds in vacuum"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Coherent sources have the same frequency and a constant phase difference",
+          "explanation": "Stable interference requires a fixed phase relationship.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ007",
+          "question": "Which option is correctly associated with coherent sources?",
+          "options": [
+            {
+              "label": "A",
+              "text": "different frequencies"
+            },
+            {
+              "label": "B",
+              "text": "different speeds in vacuum"
+            },
+            {
+              "label": "C",
+              "text": "random phase difference"
+            },
+            {
+              "label": "D",
+              "text": "Coherent sources have the same frequency and a constant phase difference"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Coherent sources have the same frequency and a constant phase difference",
+          "explanation": "Stable interference requires a fixed phase relationship.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ008",
+          "question": "In a basic HSC Physics question about coherent sources, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "random phase difference"
+            },
+            {
+              "label": "B",
+              "text": "different frequencies"
+            },
+            {
+              "label": "C",
+              "text": "Coherent sources have the same frequency and a constant phase difference"
+            },
+            {
+              "label": "D",
+              "text": "different speeds in vacuum"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Coherent sources have the same frequency and a constant phase difference",
+          "explanation": "Stable interference requires a fixed phase relationship.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ009",
+          "question": "Which fact should be remembered about coherent sources?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Coherent sources have the same frequency and a constant phase difference"
+            },
+            {
+              "label": "B",
+              "text": "different speeds in vacuum"
+            },
+            {
+              "label": "C",
+              "text": "random phase difference"
+            },
+            {
+              "label": "D",
+              "text": "different frequencies"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Coherent sources have the same frequency and a constant phase difference",
+          "explanation": "Stable interference requires a fixed phase relationship.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning coherent sources?",
+          "options": [
+            {
+              "label": "A",
+              "text": "different speeds in vacuum"
+            },
+            {
+              "label": "B",
+              "text": "different frequencies"
+            },
+            {
+              "label": "C",
+              "text": "Coherent sources have the same frequency and a constant phase difference"
+            },
+            {
+              "label": "D",
+              "text": "random phase difference"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Coherent sources have the same frequency and a constant phase difference",
+          "explanation": "Stable interference requires a fixed phase relationship.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Young's double slit",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ011",
+          "question": "Which statement best describes young's double slit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The fringe spacing in Young's double-slit experiment is β = λD/d"
+            },
+            {
+              "label": "B",
+              "text": "λd/D"
+            },
+            {
+              "label": "C",
+              "text": "dD/λ"
+            },
+            {
+              "label": "D",
+              "text": "λ/(Dd)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The fringe spacing in Young's double-slit experiment is β = λD/d",
+          "explanation": "Fringe width increases with wavelength and screen distance, and decreases with slit separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ012",
+          "question": "Which option is correctly associated with young's double slit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The fringe spacing in Young's double-slit experiment is β = λD/d"
+            },
+            {
+              "label": "B",
+              "text": "dD/λ"
+            },
+            {
+              "label": "C",
+              "text": "λ/(Dd)"
+            },
+            {
+              "label": "D",
+              "text": "λd/D"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The fringe spacing in Young's double-slit experiment is β = λD/d",
+          "explanation": "Fringe width increases with wavelength and screen distance, and decreases with slit separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ013",
+          "question": "In a basic HSC Physics question about young's double slit, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "λd/D"
+            },
+            {
+              "label": "B",
+              "text": "dD/λ"
+            },
+            {
+              "label": "C",
+              "text": "λ/(Dd)"
+            },
+            {
+              "label": "D",
+              "text": "The fringe spacing in Young's double-slit experiment is β = λD/d"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The fringe spacing in Young's double-slit experiment is β = λD/d",
+          "explanation": "Fringe width increases with wavelength and screen distance, and decreases with slit separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ014",
+          "question": "Which fact should be remembered about young's double slit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "λd/D"
+            },
+            {
+              "label": "B",
+              "text": "λ/(Dd)"
+            },
+            {
+              "label": "C",
+              "text": "The fringe spacing in Young's double-slit experiment is β = λD/d"
+            },
+            {
+              "label": "D",
+              "text": "dD/λ"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The fringe spacing in Young's double-slit experiment is β = λD/d",
+          "explanation": "Fringe width increases with wavelength and screen distance, and decreases with slit separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning young's double slit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "dD/λ"
+            },
+            {
+              "label": "B",
+              "text": "λd/D"
+            },
+            {
+              "label": "C",
+              "text": "λ/(Dd)"
+            },
+            {
+              "label": "D",
+              "text": "The fringe spacing in Young's double-slit experiment is β = λD/d"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The fringe spacing in Young's double-slit experiment is β = λD/d",
+          "explanation": "Fringe width increases with wavelength and screen distance, and decreases with slit separation.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Constructive interference",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ016",
+          "question": "Which statement best describes constructive interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Constructive interference occurs for path difference mλ"
+            },
+            {
+              "label": "B",
+              "text": "(m + ½)λ"
+            },
+            {
+              "label": "C",
+              "text": "λ/4 only"
+            },
+            {
+              "label": "D",
+              "text": "zero phase difference is impossible"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Constructive interference occurs for path difference mλ",
+          "explanation": "An integer multiple of wavelength gives waves arriving in phase.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ017",
+          "question": "Which option is correctly associated with constructive interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "zero phase difference is impossible"
+            },
+            {
+              "label": "B",
+              "text": "(m + ½)λ"
+            },
+            {
+              "label": "C",
+              "text": "Constructive interference occurs for path difference mλ"
+            },
+            {
+              "label": "D",
+              "text": "λ/4 only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Constructive interference occurs for path difference mλ",
+          "explanation": "An integer multiple of wavelength gives waves arriving in phase.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ018",
+          "question": "In a basic HSC Physics question about constructive interference, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Constructive interference occurs for path difference mλ"
+            },
+            {
+              "label": "B",
+              "text": "λ/4 only"
+            },
+            {
+              "label": "C",
+              "text": "(m + ½)λ"
+            },
+            {
+              "label": "D",
+              "text": "zero phase difference is impossible"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Constructive interference occurs for path difference mλ",
+          "explanation": "An integer multiple of wavelength gives waves arriving in phase.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ019",
+          "question": "Which fact should be remembered about constructive interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(m + ½)λ"
+            },
+            {
+              "label": "B",
+              "text": "zero phase difference is impossible"
+            },
+            {
+              "label": "C",
+              "text": "Constructive interference occurs for path difference mλ"
+            },
+            {
+              "label": "D",
+              "text": "λ/4 only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Constructive interference occurs for path difference mλ",
+          "explanation": "An integer multiple of wavelength gives waves arriving in phase.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning constructive interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(m + ½)λ"
+            },
+            {
+              "label": "B",
+              "text": "Constructive interference occurs for path difference mλ"
+            },
+            {
+              "label": "C",
+              "text": "zero phase difference is impossible"
+            },
+            {
+              "label": "D",
+              "text": "λ/4 only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Constructive interference occurs for path difference mλ",
+          "explanation": "An integer multiple of wavelength gives waves arriving in phase.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Destructive interference",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ021",
+          "question": "Which statement best describes destructive interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2mλ"
+            },
+            {
+              "label": "B",
+              "text": "Destructive interference occurs for path difference (m + ½)λ"
+            },
+            {
+              "label": "C",
+              "text": "mλ"
+            },
+            {
+              "label": "D",
+              "text": "mλ/2 for all integer m"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Destructive interference occurs for path difference (m + ½)λ",
+          "explanation": "A half-integer wavelength difference gives a phase difference of an odd multiple of π.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ022",
+          "question": "Which option is correctly associated with destructive interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2mλ"
+            },
+            {
+              "label": "B",
+              "text": "Destructive interference occurs for path difference (m + ½)λ"
+            },
+            {
+              "label": "C",
+              "text": "mλ/2 for all integer m"
+            },
+            {
+              "label": "D",
+              "text": "mλ"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Destructive interference occurs for path difference (m + ½)λ",
+          "explanation": "A half-integer wavelength difference gives a phase difference of an odd multiple of π.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ023",
+          "question": "In a basic HSC Physics question about destructive interference, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mλ"
+            },
+            {
+              "label": "B",
+              "text": "Destructive interference occurs for path difference (m + ½)λ"
+            },
+            {
+              "label": "C",
+              "text": "2mλ"
+            },
+            {
+              "label": "D",
+              "text": "mλ/2 for all integer m"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Destructive interference occurs for path difference (m + ½)λ",
+          "explanation": "A half-integer wavelength difference gives a phase difference of an odd multiple of π.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ024",
+          "question": "Which fact should be remembered about destructive interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mλ/2 for all integer m"
+            },
+            {
+              "label": "B",
+              "text": "Destructive interference occurs for path difference (m + ½)λ"
+            },
+            {
+              "label": "C",
+              "text": "mλ"
+            },
+            {
+              "label": "D",
+              "text": "2mλ"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Destructive interference occurs for path difference (m + ½)λ",
+          "explanation": "A half-integer wavelength difference gives a phase difference of an odd multiple of π.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning destructive interference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2mλ"
+            },
+            {
+              "label": "B",
+              "text": "mλ"
+            },
+            {
+              "label": "C",
+              "text": "Destructive interference occurs for path difference (m + ½)λ"
+            },
+            {
+              "label": "D",
+              "text": "mλ/2 for all integer m"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Destructive interference occurs for path difference (m + ½)λ",
+          "explanation": "A half-integer wavelength difference gives a phase difference of an odd multiple of π.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Diffraction",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ026",
+          "question": "Which statement best describes diffraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "absorption of all waves"
+            },
+            {
+              "label": "B",
+              "text": "conversion of frequency to mass"
+            },
+            {
+              "label": "C",
+              "text": "Diffraction is the spreading of waves around an obstacle or through an aperture"
+            },
+            {
+              "label": "D",
+              "text": "reflection only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Diffraction is the spreading of waves around an obstacle or through an aperture",
+          "explanation": "Diffraction is most noticeable when aperture dimensions are comparable to wavelength.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ027",
+          "question": "Which option is correctly associated with diffraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "absorption of all waves"
+            },
+            {
+              "label": "B",
+              "text": "Diffraction is the spreading of waves around an obstacle or through an aperture"
+            },
+            {
+              "label": "C",
+              "text": "reflection only"
+            },
+            {
+              "label": "D",
+              "text": "conversion of frequency to mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Diffraction is the spreading of waves around an obstacle or through an aperture",
+          "explanation": "Diffraction is most noticeable when aperture dimensions are comparable to wavelength.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ028",
+          "question": "In a basic HSC Physics question about diffraction, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflection only"
+            },
+            {
+              "label": "B",
+              "text": "absorption of all waves"
+            },
+            {
+              "label": "C",
+              "text": "Diffraction is the spreading of waves around an obstacle or through an aperture"
+            },
+            {
+              "label": "D",
+              "text": "conversion of frequency to mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Diffraction is the spreading of waves around an obstacle or through an aperture",
+          "explanation": "Diffraction is most noticeable when aperture dimensions are comparable to wavelength.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ029",
+          "question": "Which fact should be remembered about diffraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Diffraction is the spreading of waves around an obstacle or through an aperture"
+            },
+            {
+              "label": "B",
+              "text": "reflection only"
+            },
+            {
+              "label": "C",
+              "text": "absorption of all waves"
+            },
+            {
+              "label": "D",
+              "text": "conversion of frequency to mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Diffraction is the spreading of waves around an obstacle or through an aperture",
+          "explanation": "Diffraction is most noticeable when aperture dimensions are comparable to wavelength.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning diffraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "absorption of all waves"
+            },
+            {
+              "label": "B",
+              "text": "conversion of frequency to mass"
+            },
+            {
+              "label": "C",
+              "text": "Diffraction is the spreading of waves around an obstacle or through an aperture"
+            },
+            {
+              "label": "D",
+              "text": "reflection only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Diffraction is the spreading of waves around an obstacle or through an aperture",
+          "explanation": "Diffraction is most noticeable when aperture dimensions are comparable to wavelength.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Single-slit minima",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ031",
+          "question": "Which statement best describes single-slit minima?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a cos θ = mλ"
+            },
+            {
+              "label": "B",
+              "text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m"
+            },
+            {
+              "label": "C",
+              "text": "sin θ = aλ"
+            },
+            {
+              "label": "D",
+              "text": "a = mλ sin θ"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m",
+          "explanation": "Destructive interference across the slit produces minima at a sin θ = mλ.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ032",
+          "question": "Which option is correctly associated with single-slit minima?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin θ = aλ"
+            },
+            {
+              "label": "B",
+              "text": "a = mλ sin θ"
+            },
+            {
+              "label": "C",
+              "text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m"
+            },
+            {
+              "label": "D",
+              "text": "a cos θ = mλ"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m",
+          "explanation": "Destructive interference across the slit produces minima at a sin θ = mλ.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ033",
+          "question": "In a basic HSC Physics question about single-slit minima, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin θ = aλ"
+            },
+            {
+              "label": "B",
+              "text": "a cos θ = mλ"
+            },
+            {
+              "label": "C",
+              "text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m"
+            },
+            {
+              "label": "D",
+              "text": "a = mλ sin θ"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m",
+          "explanation": "Destructive interference across the slit produces minima at a sin θ = mλ.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ034",
+          "question": "Which fact should be remembered about single-slit minima?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a cos θ = mλ"
+            },
+            {
+              "label": "B",
+              "text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m"
+            },
+            {
+              "label": "C",
+              "text": "sin θ = aλ"
+            },
+            {
+              "label": "D",
+              "text": "a = mλ sin θ"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m",
+          "explanation": "Destructive interference across the slit produces minima at a sin θ = mλ.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning single-slit minima?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin θ = aλ"
+            },
+            {
+              "label": "B",
+              "text": "a cos θ = mλ"
+            },
+            {
+              "label": "C",
+              "text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m"
+            },
+            {
+              "label": "D",
+              "text": "a = mλ sin θ"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For single-slit diffraction minima, a sin θ = mλ for nonzero integer m",
+          "explanation": "Destructive interference across the slit produces minima at a sin θ = mλ.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Polarization",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ036",
+          "question": "Which statement best describes polarization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sound wave in air"
+            },
+            {
+              "label": "B",
+              "text": "stationary pressure wave"
+            },
+            {
+              "label": "C",
+              "text": "Polarization demonstrates that light is a transverse wave"
+            },
+            {
+              "label": "D",
+              "text": "longitudinal wave"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Polarization demonstrates that light is a transverse wave",
+          "explanation": "Only transverse waves can have their oscillations restricted to a plane.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ037",
+          "question": "Which option is correctly associated with polarization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "longitudinal wave"
+            },
+            {
+              "label": "B",
+              "text": "stationary pressure wave"
+            },
+            {
+              "label": "C",
+              "text": "Polarization demonstrates that light is a transverse wave"
+            },
+            {
+              "label": "D",
+              "text": "sound wave in air"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Polarization demonstrates that light is a transverse wave",
+          "explanation": "Only transverse waves can have their oscillations restricted to a plane.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ038",
+          "question": "In a basic HSC Physics question about polarization, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Polarization demonstrates that light is a transverse wave"
+            },
+            {
+              "label": "B",
+              "text": "longitudinal wave"
+            },
+            {
+              "label": "C",
+              "text": "sound wave in air"
+            },
+            {
+              "label": "D",
+              "text": "stationary pressure wave"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Polarization demonstrates that light is a transverse wave",
+          "explanation": "Only transverse waves can have their oscillations restricted to a plane.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ039",
+          "question": "Which fact should be remembered about polarization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stationary pressure wave"
+            },
+            {
+              "label": "B",
+              "text": "Polarization demonstrates that light is a transverse wave"
+            },
+            {
+              "label": "C",
+              "text": "longitudinal wave"
+            },
+            {
+              "label": "D",
+              "text": "sound wave in air"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Polarization demonstrates that light is a transverse wave",
+          "explanation": "Only transverse waves can have their oscillations restricted to a plane.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning polarization?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sound wave in air"
+            },
+            {
+              "label": "B",
+              "text": "Polarization demonstrates that light is a transverse wave"
+            },
+            {
+              "label": "C",
+              "text": "stationary pressure wave"
+            },
+            {
+              "label": "D",
+              "text": "longitudinal wave"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Polarization demonstrates that light is a transverse wave",
+          "explanation": "Only transverse waves can have their oscillations restricted to a plane.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Malus's law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ041",
+          "question": "Which statement best describes malus's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For plane-polarized light through an analyser, I = I■ cos² θ"
+            },
+            {
+              "label": "B",
+              "text": "I = I■ cos θ"
+            },
+            {
+              "label": "C",
+              "text": "I = I■ sin θ"
+            },
+            {
+              "label": "D",
+              "text": "I = I■ tan² θ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For plane-polarized light through an analyser, I = I■ cos² θ",
+          "explanation": "Malus's law gives transmitted intensity as the square of the cosine of the angle between transmission axes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ042",
+          "question": "Which option is correctly associated with malus's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For plane-polarized light through an analyser, I = I■ cos² θ"
+            },
+            {
+              "label": "B",
+              "text": "I = I■ cos θ"
+            },
+            {
+              "label": "C",
+              "text": "I = I■ tan² θ"
+            },
+            {
+              "label": "D",
+              "text": "I = I■ sin θ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For plane-polarized light through an analyser, I = I■ cos² θ",
+          "explanation": "Malus's law gives transmitted intensity as the square of the cosine of the angle between transmission axes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ043",
+          "question": "In a basic HSC Physics question about malus's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "I = I■ sin θ"
+            },
+            {
+              "label": "B",
+              "text": "I = I■ tan² θ"
+            },
+            {
+              "label": "C",
+              "text": "For plane-polarized light through an analyser, I = I■ cos² θ"
+            },
+            {
+              "label": "D",
+              "text": "I = I■ cos θ"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For plane-polarized light through an analyser, I = I■ cos² θ",
+          "explanation": "Malus's law gives transmitted intensity as the square of the cosine of the angle between transmission axes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ044",
+          "question": "Which fact should be remembered about malus's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For plane-polarized light through an analyser, I = I■ cos² θ"
+            },
+            {
+              "label": "B",
+              "text": "I = I■ sin θ"
+            },
+            {
+              "label": "C",
+              "text": "I = I■ cos θ"
+            },
+            {
+              "label": "D",
+              "text": "I = I■ tan² θ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For plane-polarized light through an analyser, I = I■ cos² θ",
+          "explanation": "Malus's law gives transmitted intensity as the square of the cosine of the angle between transmission axes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning malus's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For plane-polarized light through an analyser, I = I■ cos² θ"
+            },
+            {
+              "label": "B",
+              "text": "I = I■ cos θ"
+            },
+            {
+              "label": "C",
+              "text": "I = I■ sin θ"
+            },
+            {
+              "label": "D",
+              "text": "I = I■ tan² θ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For plane-polarized light through an analyser, I = I■ cos² θ",
+          "explanation": "Malus's law gives transmitted intensity as the square of the cosine of the angle between transmission axes.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Brewster's law",
+      "questions": [
+        {
+          "id": "PHY_2P_CH07_MCQ046",
+          "question": "Which statement best describes brewster's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin θB = n■/n■"
+            },
+            {
+              "label": "B",
+              "text": "At Brewster's angle, tan θB = n■/n■"
+            },
+            {
+              "label": "C",
+              "text": "tan θB = n■n■"
+            },
+            {
+              "label": "D",
+              "text": "cos θB = n■/n■"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "At Brewster's angle, tan θB = n■/n■",
+          "explanation": "The reflected light is completely plane-polarized at Brewster's angle for an ideal dielectric interface.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ047",
+          "question": "Which option is correctly associated with brewster's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tan θB = n■n■"
+            },
+            {
+              "label": "B",
+              "text": "At Brewster's angle, tan θB = n■/n■"
+            },
+            {
+              "label": "C",
+              "text": "sin θB = n■/n■"
+            },
+            {
+              "label": "D",
+              "text": "cos θB = n■/n■"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "At Brewster's angle, tan θB = n■/n■",
+          "explanation": "The reflected light is completely plane-polarized at Brewster's angle for an ideal dielectric interface.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ048",
+          "question": "In a basic HSC Physics question about brewster's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin θB = n■/n■"
+            },
+            {
+              "label": "B",
+              "text": "At Brewster's angle, tan θB = n■/n■"
+            },
+            {
+              "label": "C",
+              "text": "tan θB = n■n■"
+            },
+            {
+              "label": "D",
+              "text": "cos θB = n■/n■"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "At Brewster's angle, tan θB = n■/n■",
+          "explanation": "The reflected light is completely plane-polarized at Brewster's angle for an ideal dielectric interface.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ049",
+          "question": "Which fact should be remembered about brewster's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cos θB = n■/n■"
+            },
+            {
+              "label": "B",
+              "text": "tan θB = n■n■"
+            },
+            {
+              "label": "C",
+              "text": "At Brewster's angle, tan θB = n■/n■"
+            },
+            {
+              "label": "D",
+              "text": "sin θB = n■/n■"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "At Brewster's angle, tan θB = n■/n■",
+          "explanation": "The reflected light is completely plane-polarized at Brewster's angle for an ideal dielectric interface.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH07_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning brewster's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tan θB = n■n■"
+            },
+            {
+              "label": "B",
+              "text": "sin θB = n■/n■"
+            },
+            {
+              "label": "C",
+              "text": "cos θB = n■/n■"
+            },
+            {
+              "label": "D",
+              "text": "At Brewster's angle, tan θB = n■/n■"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "At Brewster's angle, tan θB = n■/n■",
+          "explanation": "The reflected light is completely plane-polarized at Brewster's angle for an ideal dielectric interface.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "People or Personalities Making History",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Nelson Mandela - Fight Against Apartheid",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-001",
+          "question": "What political system in South Africa did Nelson Mandela dedicate his life to dismantling?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Apartheid"
+            },
+            {
+              "label": "B",
+              "text": "Monarchy"
+            },
+            {
+              "label": "C",
+              "text": "Feudalism"
+            },
+            {
+              "label": "D",
+              "text": "Totalitarian Oligarchy"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Apartheid",
+          "explanation": "Apartheid was the institutionalized system of racial segregation and white minority rule in South Africa that Mandela fought against.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-002",
+          "question": "In what year was Nelson Mandela awarded the Nobel Peace Prize alongside F.W. de Klerk?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1993"
+            },
+            {
+              "label": "B",
+              "text": "1990"
+            },
+            {
+              "label": "C",
+              "text": "1994"
+            },
+            {
+              "label": "D",
+              "text": "1999"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1993",
+          "explanation": "Nelson Mandela and F.W. de Klerk jointly received the Nobel Peace Prize in 1993 for their peaceful termination of the apartheid regime.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-003",
+          "question": "What is the contextual synonym of the word 'emancipation' as used in Mandela's historic speeches?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Liberation"
+            },
+            {
+              "label": "B",
+              "text": "Subjugation"
+            },
+            {
+              "label": "C",
+              "text": "Confinement"
+            },
+            {
+              "label": "D",
+              "text": "Segregation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Liberation",
+          "explanation": "'Emancipation' means the process of being set free from legal, social, or political restrictions; liberation is its direct synonym.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-004",
+          "question": "For nearly how many years was Nelson Mandela imprisoned on Robben Island and other facilities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nearly 3 decades (27 years)"
+            },
+            {
+              "label": "B",
+              "text": "10 years"
+            },
+            {
+              "label": "C",
+              "text": "15 years"
+            },
+            {
+              "label": "D",
+              "text": "40 years"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Nearly 3 decades (27 years)",
+          "explanation": "Mandela was incarcerated for 27 years (1962 to 1990) before being released to lead South Africa to multiracial democracy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-005",
+          "question": "Mandela stated, 'I have cherished the ideal of a democratic and free society.' Here 'cherished' means:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Held dear and valued deeply"
+            },
+            {
+              "label": "B",
+              "text": "Abandoned completely"
+            },
+            {
+              "label": "C",
+              "text": "Criticized publicly"
+            },
+            {
+              "label": "D",
+              "text": "Feared intensely"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Held dear and valued deeply",
+          "explanation": "To 'cherish' an ideal means to protect, care for, and hold it dear in one's mind with deep affection and conviction.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Valentina Tereshkova - First Woman in Space",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-006",
+          "question": "Who was the first woman to travel into outer space aboard Vostok 6 in 1963?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Valentina Tereshkova"
+            },
+            {
+              "label": "B",
+              "text": "Kalpana Chawla"
+            },
+            {
+              "label": "C",
+              "text": "Sally Ride"
+            },
+            {
+              "label": "D",
+              "text": "Sunita Williams"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Valentina Tereshkova",
+          "explanation": "Soviet cosmonaut Valentina Tereshkova became the first woman in space when she piloted Vostok 6 on June 16, 1963.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-007",
+          "question": "What hobby and expertise helped Valentina Tereshkova get selected for the cosmonaut program?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Parachuting and skydiving"
+            },
+            {
+              "label": "B",
+              "text": "Deep sea diving"
+            },
+            {
+              "label": "C",
+              "text": "Mountain climbing"
+            },
+            {
+              "label": "D",
+              "text": "Long distance archery"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Parachuting and skydiving",
+          "explanation": "Her extensive experience in parachuting at a local aero club was a critical factor in her selection, as Vostok cosmonauts ejected before landing.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-008",
+          "question": "How many times did Valentina Tereshkova orbit the Earth during her solitary mission in Vostok 6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "48 times"
+            },
+            {
+              "label": "B",
+              "text": "12 times"
+            },
+            {
+              "label": "C",
+              "text": "24 times"
+            },
+            {
+              "label": "D",
+              "text": "100 times"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "48 times",
+          "explanation": "Tereshkova spent almost three days in space and completed 48 orbits around the Earth in her historic solo mission.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-009",
+          "question": "Before joining the space program, in which industry did Valentina Tereshkova work as a young woman?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Textile factory"
+            },
+            {
+              "label": "B",
+              "text": "Automobile assembly"
+            },
+            {
+              "label": "C",
+              "text": "Coal mining"
+            },
+            {
+              "label": "D",
+              "text": "Pharmaceutical laboratory"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Textile factory",
+          "explanation": "Tereshkova came from a working-class family and worked as a textile mill worker while continuing her education by correspondence.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-010",
+          "question": "What is the antonym of the word 'solitary' as applied to her solo spaceflight?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Accompanied"
+            },
+            {
+              "label": "B",
+              "text": "Isolated"
+            },
+            {
+              "label": "C",
+              "text": "Individual"
+            },
+            {
+              "label": "D",
+              "text": "Remote"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Accompanied",
+          "explanation": "'Solitary' means done alone or without companions. The antonym is 'accompanied' or 'shared'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Kalpana Chawla - Dedication to Aeronautical Dreams",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-011",
+          "question": "Where was astronaut Kalpana Chawla born before emigrating to the United States to study aeronautical engineering?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Karnal, India"
+            },
+            {
+              "label": "B",
+              "text": "Dhaka, Bangladesh"
+            },
+            {
+              "label": "C",
+              "text": "Colombo, Sri Lanka"
+            },
+            {
+              "label": "D",
+              "text": "Karachi, Pakistan"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Karnal, India",
+          "explanation": "Kalpana Chawla was born in Karnal, Haryana, India, where she graduated in aeronautical engineering before pursuing higher studies in the US.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-012",
+          "question": "Which tragic space shuttle disaster claimed the life of Kalpana Chawla and six fellow astronauts in 2003?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Space Shuttle Columbia (STS-107)"
+            },
+            {
+              "label": "B",
+              "text": "Space Shuttle Challenger"
+            },
+            {
+              "label": "C",
+              "text": "Apollo 1"
+            },
+            {
+              "label": "D",
+              "text": "Soyuz 11"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Space Shuttle Columbia (STS-107)",
+          "explanation": "Space Shuttle Columbia disintegrated during atmospheric re-entry over Texas on February 1, 2003, resulting in the loss of all seven crew members.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-013",
+          "question": "What academic degree in Aerospace Engineering did Kalpana Chawla earn from the University of Colorado?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ph.D. (Doctorate)"
+            },
+            {
+              "label": "B",
+              "text": "Bachelor of Arts"
+            },
+            {
+              "label": "C",
+              "text": "Associate Diploma"
+            },
+            {
+              "label": "D",
+              "text": "Honorary Certificate"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Ph.D. (Doctorate)",
+          "explanation": "Chawla obtained her Ph.D. in Aerospace Engineering from the University of Colorado in 1988, having previously completed her Master's in Texas.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-014",
+          "question": "What caused the structural failure of Space Shuttle Columbia during re-entry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Damage to the thermal protection tiles on the wing from falling foam insulation during launch"
+            },
+            {
+              "label": "B",
+              "text": "Engine running out of rocket fuel"
+            },
+            {
+              "label": "C",
+              "text": "Collision with an orbiting space satellite"
+            },
+            {
+              "label": "D",
+              "text": "Computer software virus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Damage to the thermal protection tiles on the wing from falling foam insulation during launch",
+          "explanation": "A piece of foam insulation broke off from the external tank during launch and struck the left wing, damaging heat-shield tiles.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-015",
+          "question": "The word 'perseverance' most accurately describes Kalpana Chawla's journey. What does it mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Persistent determination to achieve a goal despite difficulties"
+            },
+            {
+              "label": "B",
+              "text": "Surrendering at the first sign of trouble"
+            },
+            {
+              "label": "C",
+              "text": "A sudden burst of unexpected luck"
+            },
+            {
+              "label": "D",
+              "text": "Indifference towards higher education"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Persistent determination to achieve a goal despite difficulties",
+          "explanation": "'Perseverance' is steadfast persistence and dedication in doing something despite obstacles, hardship, or delay.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Historic 7th March Speech of Bangabandhu",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-016",
+          "question": "Where did Bangabandhu Sheikh Mujibur Rahman deliver his epoch-making 7th March speech in 1971?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Racecourse Maidan (now Suhrawardy Udyan), Dhaka"
+            },
+            {
+              "label": "B",
+              "text": "Paltan Maidan, Dhaka"
+            },
+            {
+              "label": "C",
+              "text": "Dhaka University Campus"
+            },
+            {
+              "label": "D",
+              "text": "Lalbagh Fort ground"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Racecourse Maidan (now Suhrawardy Udyan), Dhaka",
+          "explanation": "Bangabandhu addressed over a million people at the Racecourse Maidan (now Suhrawardy Udyan) on March 7, 1971.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-017",
+          "question": "Which international organization registered Bangabandhu's 7th March speech as part of the Memory of the World International Register?",
+          "options": [
+            {
+              "label": "A",
+              "text": "UNESCO"
+            },
+            {
+              "label": "B",
+              "text": "UNICEF"
+            },
+            {
+              "label": "C",
+              "text": "WHO"
+            },
+            {
+              "label": "D",
+              "text": "UNDP"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "UNESCO",
+          "explanation": "On October 30, 2017, UNESCO recognized the historic 7th March Speech as a Documentary Heritage under the Memory of the World Register.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-018",
+          "question": "What famous climactic declaration did Bangabandhu utter at the conclusion of his 7th March speech?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'The struggle this time is a struggle for our emancipation; the struggle this time is a struggle for our independence'"
+            },
+            {
+              "label": "B",
+              "text": "'Give me blood and I will give you freedom'"
+            },
+            {
+              "label": "C",
+              "text": "'I have a dream today'"
+            },
+            {
+              "label": "D",
+              "text": "'Peace in our time'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'The struggle this time is a struggle for our emancipation; the struggle this time is a struggle for our independence'",
+          "explanation": "Bangabandhu declared: 'Ebar-er shongram amader muktir shongram, ebar-er shongram shadhinotar shongram' ('The struggle this time is a struggle for our emancipation; the struggle this time is a struggle for our independence').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-019",
+          "question": "What is the tone of Bangabandhu's speech when he said 'You cannot keep seven crore people subjugated'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Defiant and resolute"
+            },
+            {
+              "label": "B",
+              "text": "Submissive and fearful"
+            },
+            {
+              "label": "C",
+              "text": "Pessimistic and sorrowful"
+            },
+            {
+              "label": "D",
+              "text": "Humorous and playful"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Defiant and resolute",
+          "explanation": "The tone expresses strong resolve, unwavering courage, and open defiance against military oppression and autocracy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-020",
+          "question": "What did Bangabandhu instruct the people to build in every house during his speech?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fortresses of resistance ('Build a fortress in every house')"
+            },
+            {
+              "label": "B",
+              "text": "Concrete barriers"
+            },
+            {
+              "label": "C",
+              "text": "Underground tunnels"
+            },
+            {
+              "label": "D",
+              "text": "Communication radio stations"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Fortresses of resistance ('Build a fortress in every house')",
+          "explanation": "Bangabandhu exhorted: 'Ghorey ghorey durgo gorey tolo' ('Build a fortress in every house; confront the enemy with whatever you have').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "The Unbeaten Girls - Women's Football Champions",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-021",
+          "question": "The lesson 'The Unbeaten Girls' highlights which remarkable sporting triumph of Bangladesh?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bangladesh Women's Football Team winning the SAFF Women's Championship"
+            },
+            {
+              "label": "B",
+              "text": "Bangladesh Under-19 Men's Cricket World Cup victory"
+            },
+            {
+              "label": "C",
+              "text": "Olympic gold medal in archery"
+            },
+            {
+              "label": "D",
+              "text": "Asian Games kabaddi tournament victory"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bangladesh Women's Football Team winning the SAFF Women's Championship",
+          "explanation": "The text celebrates the historic triumph of the Bangladesh national women's football team winning the SAFF championship undefeated.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-022",
+          "question": "Which rural village in Mymensingh became famous as the nursery of top women football players like Sanjida and Maria?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Kalsindur"
+            },
+            {
+              "label": "B",
+              "text": "Shibpur"
+            },
+            {
+              "label": "C",
+              "text": "Sonargaon"
+            },
+            {
+              "label": "D",
+              "text": "Tetulia"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Kalsindur",
+          "explanation": "Kalsindur, a remote village in Dhobaura upazila of Mymensingh, produced many of the key players who led Bangladesh to international soccer glory.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-023",
+          "question": "What major socio-economic obstacles did the female footballers overcome to achieve success?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Poverty, patriarchal taboos, and lack of modern training facilities"
+            },
+            {
+              "label": "B",
+              "text": "Excessive media commercialization"
+            },
+            {
+              "label": "C",
+              "text": "Extreme cold polar climate"
+            },
+            {
+              "label": "D",
+              "text": "Shortage of academic textbooks"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Poverty, patriarchal taboos, and lack of modern training facilities",
+          "explanation": "The girls triumphed over deep rural poverty, rigid conservative social prejudice against girls playing outdoor sports, and primitive facilities.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-024",
+          "question": "What does the title 'The Unbeaten Girls' signify in both literal and metaphorical senses?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Undefeated in the soccer tournament and undefeated by social adversity"
+            },
+            {
+              "label": "B",
+              "text": "They never took any physical exams"
+            },
+            {
+              "label": "C",
+              "text": "They refused to play against foreign teams"
+            },
+            {
+              "label": "D",
+              "text": "They never trained on grass pitches"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Undefeated in the soccer tournament and undefeated by social adversity",
+          "explanation": "The title carries dual significance: they were undefeated champions on the football pitch, and unconquerable in spirit against societal odds.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-025",
+          "question": "Which word is a synonym for 'resilience' as illustrated by the young female footballers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fortitude"
+            },
+            {
+              "label": "B",
+              "text": "Fragility"
+            },
+            {
+              "label": "C",
+              "text": "Hesitation"
+            },
+            {
+              "label": "D",
+              "text": "Surrender"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Fortitude",
+          "explanation": "'Resilience' means the capacity to recover quickly from difficulties; 'fortitude' (courage in adversity) is a direct synonym.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vocabulary in Context - Historical Personalities",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-026",
+          "question": "What is the synonym of the word 'icon' in the sentence 'Mandela is an icon of peace and reconciliation'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Symbol"
+            },
+            {
+              "label": "B",
+              "text": "Rival"
+            },
+            {
+              "label": "C",
+              "text": "Obstacle"
+            },
+            {
+              "label": "D",
+              "text": "Critic"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Symbol",
+          "explanation": "An 'icon' in this context refers to a person or thing regarded as a representative symbol worthy of veneration.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-027",
+          "question": "What is the antonym of 'reconciliation'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Estrangement"
+            },
+            {
+              "label": "B",
+              "text": "Harmony"
+            },
+            {
+              "label": "C",
+              "text": "Compromise"
+            },
+            {
+              "label": "D",
+              "text": "Peace"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Estrangement",
+          "explanation": "'Reconciliation' means restoring friendly relations. Its direct antonym is 'estrangement' or 'alienation'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-028",
+          "question": "In the text, 'cosmonaut' refers to an astronaut from which country/space program?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Soviet Union (Russia)"
+            },
+            {
+              "label": "B",
+              "text": "United States (NASA)"
+            },
+            {
+              "label": "C",
+              "text": "China (CNSA)"
+            },
+            {
+              "label": "D",
+              "text": "European Space Agency"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Soviet Union (Russia)",
+          "explanation": "The term 'cosmonaut' specifically designates a traveler of the Soviet/Russian space program, derived from Russian 'kosmonavt'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-029",
+          "question": "What does 'unwavering' mean in the phrase 'unwavering dedication to freedom'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Steadfast and constant"
+            },
+            {
+              "label": "B",
+              "text": "Fickle and fluctuating"
+            },
+            {
+              "label": "C",
+              "text": "Weak and timid"
+            },
+            {
+              "label": "D",
+              "text": "Temporary"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Steadfast and constant",
+          "explanation": "'Unwavering' means steady, resolute, firm, and not changing or faltering.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-030",
+          "question": "What is the noun form of the verb 'subjugate'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Subjugation"
+            },
+            {
+              "label": "B",
+              "text": "Subjugatorily"
+            },
+            {
+              "label": "C",
+              "text": "Subjugative"
+            },
+            {
+              "label": "D",
+              "text": "Subjugatedness"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Subjugation",
+          "explanation": "The nominal form derived from the verb 'subjugate' is 'subjugation' (the action of bringing under domination or control).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Grammatical Structure and Sentence Completion",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-031",
+          "question": "Complete the sentence grammatically: 'Not only Mandela but also his comrades ______ imprisoned for decades.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "were"
+            },
+            {
+              "label": "B",
+              "text": "was"
+            },
+            {
+              "label": "C",
+              "text": "is"
+            },
+            {
+              "label": "D",
+              "text": "has been"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "were",
+          "explanation": "In 'not only... but also...', the verb agrees with the closer subject ('his comrades', plural), hence 'were'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-032",
+          "question": "Choose the appropriate preposition: 'Kalpana Chawla set off ______ her final space mission in 2003.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "on"
+            },
+            {
+              "label": "B",
+              "text": "at"
+            },
+            {
+              "label": "C",
+              "text": "into"
+            },
+            {
+              "label": "D",
+              "text": "with"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "on",
+          "explanation": "The idiom is 'set off on a journey/mission', meaning to embark on an undertaking.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-033",
+          "question": "'Despite being born in a poor village, the girls refused to give up.' What part of speech is 'Despite'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Preposition"
+            },
+            {
+              "label": "B",
+              "text": "Conjunction"
+            },
+            {
+              "label": "C",
+              "text": "Adverb"
+            },
+            {
+              "label": "D",
+              "text": "Adjective"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Preposition",
+          "explanation": "'Despite' functions as a preposition followed by a noun phrase or gerund ('being born').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-034",
+          "question": "Identify the correct passive form of: 'Bangabandhu delivered the historic speech.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The historic speech was delivered by Bangabandhu."
+            },
+            {
+              "label": "B",
+              "text": "The historic speech is delivered by Bangabandhu."
+            },
+            {
+              "label": "C",
+              "text": "The historic speech had delivered by Bangabandhu."
+            },
+            {
+              "label": "D",
+              "text": "The historic speech was being delivered by Bangabandhu."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The historic speech was delivered by Bangabandhu.",
+          "explanation": "Simple past active 'delivered' converts into 'was delivered' in passive voice.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-035",
+          "question": "'No sooner had Tereshkova returned from space ______ she was awarded the Hero of the Soviet Union.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "than"
+            },
+            {
+              "label": "B",
+              "text": "when"
+            },
+            {
+              "label": "C",
+              "text": "then"
+            },
+            {
+              "label": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "than",
+          "explanation": "The correlative structure is 'No sooner had... than...'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Rhetorical Devices and Tone Analysis",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-036",
+          "question": "What figure of speech is present in Bangabandhu's metaphor 'Build a fortress in every house'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metaphor"
+            },
+            {
+              "label": "B",
+              "text": "Simile"
+            },
+            {
+              "label": "C",
+              "text": "Personification"
+            },
+            {
+              "label": "D",
+              "text": "Oxymoron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Metaphor",
+          "explanation": "Comparing every household directly to a military fortress without using 'like' or 'as' is a metaphor.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-037",
+          "question": "In Mandela's address, the phrase 'rainbow nation' is an example of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metaphor representing racial unity and diversity"
+            },
+            {
+              "label": "B",
+              "text": "Literal meteorological forecast"
+            },
+            {
+              "label": "C",
+              "text": "Scientific optical experiment"
+            },
+            {
+              "label": "D",
+              "text": "Ironical sarcasm"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Metaphor representing racial unity and diversity",
+          "explanation": "'Rainbow nation' metaphorically conveys the peaceful coexistence of people of different skin colors and ethnic heritages in South Africa.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-038",
+          "question": "What is the primary mood evoked by the narrative of Kalpana Chawla's final mission?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Inspirational yet poignant and somber"
+            },
+            {
+              "label": "B",
+              "text": "Humorous and lighthearted"
+            },
+            {
+              "label": "C",
+              "text": "Cynical and detached"
+            },
+            {
+              "label": "D",
+              "text": "Satirical"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Inspirational yet poignant and somber",
+          "explanation": "Her heroic pursuit of space exploration inspires readers, while her sudden untimely death evokes deep sorrow (poignancy).",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG101-MCQ-039",
+          "question": "The repetition of the word 'struggle' in Bangabandhu's speech serves what rhetorical purpose?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To emphasize urgency and rally collective national spirit"
+            },
+            {
+              "label": "B",
+              "text": "To confuse the audience"
+            },
+            {
+              "label": "C",
+              "text": "To lengthen the speech unnaturally"
+            },
+            {
+              "label": "D",
+              "text": "To show lack of vocabulary"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To emphasize urgency and rally collective national spirit",
+          "explanation": "Rhetorical repetition (anaphora/parallelism) reinforces central themes, creating a powerful emotional crescendo in political oratory.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-040",
+          "question": "Which quality best epitomizes all the personalities featured in this unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Uncommon courage and steadfast pursuit of freedom and excellence"
+            },
+            {
+              "label": "B",
+              "text": "Desire for immense personal monetary wealth"
+            },
+            {
+              "label": "C",
+              "text": "Passive acceptance of existing dogmas"
+            },
+            {
+              "label": "D",
+              "text": "Avoidance of public responsibility"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Uncommon courage and steadfast pursuit of freedom and excellence",
+          "explanation": "Every figure (Mandela, Tereshkova, Chawla, Bangabandhu, the Unbeaten Girls) demonstrates courage, resilience, and groundbreaking historic achievement.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Themes and Historical Impact",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-041",
+          "question": "What major historic proclamation did the 7th March speech effectively set in motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Liberation War of Bangladesh in 1971"
+            },
+            {
+              "label": "B",
+              "text": "The Language Movement of 1952"
+            },
+            {
+              "label": "C",
+              "text": "The Six-Point Movement of 1966"
+            },
+            {
+              "label": "D",
+              "text": "The Mass Uprising of 1969"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Liberation War of Bangladesh in 1971",
+          "explanation": "The 7th March address mentally and practically prepared the Bengali nation for the armed Liberation War leading to independence in 1971.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-042",
+          "question": "What is the global legacy of Nelson Mandela's transition of power in South Africa?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A triumph of peace, democratic reconciliation, and forgiveness over civil bloodshed"
+            },
+            {
+              "label": "B",
+              "text": "The division of the nation into several warring states"
+            },
+            {
+              "label": "C",
+              "text": "The total expulsion of minority communities"
+            },
+            {
+              "label": "D",
+              "text": "The establishment of a military dictatorship"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A triumph of peace, democratic reconciliation, and forgiveness over civil bloodshed",
+          "explanation": "Mandela's Truth and Reconciliation Commission averted civil war and proved that hatred can be overcome by forgiveness and justice.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-043",
+          "question": "How did Valentina Tereshkova and Kalpana Chawla shatter gender stereotypes worldwide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By demonstrating that women can excel at the highest frontiers of science, aviation, and space exploration"
+            },
+            {
+              "label": "B",
+              "text": "By advocating against technological advancements"
+            },
+            {
+              "label": "C",
+              "text": "By abandoning their academic careers"
+            },
+            {
+              "label": "D",
+              "text": "By restricting their studies to domestic arts"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By demonstrating that women can excel at the highest frontiers of science, aviation, and space exploration",
+          "explanation": "Their historic flights proved women's capability in previously male-dominated aerospace engineering, inspiring millions of young girls.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG101-MCQ-044",
+          "question": "What message does the victory of the Kalsindur football girls send to society?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Given equal opportunity and support, girls from marginalized backgrounds can conquer the world"
+            },
+            {
+              "label": "B",
+              "text": "Sports should only be played in metropolitan schools"
+            },
+            {
+              "label": "C",
+              "text": "Rural communities lack athletic potential"
+            },
+            {
+              "label": "D",
+              "text": "Tradition should always restrict women's freedom"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Given equal opportunity and support, girls from marginalized backgrounds can conquer the world",
+          "explanation": "The success of the Kalsindur players is a living testament to female empowerment, hard work, and rural potential.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-045",
+          "question": "Which personality declared in the dock, 'I have fought against white domination, and I have fought against black domination'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nelson Mandela"
+            },
+            {
+              "label": "B",
+              "text": "Martin Luther King Jr."
+            },
+            {
+              "label": "C",
+              "text": "Mahatma Gandhi"
+            },
+            {
+              "label": "D",
+              "text": "Abraham Lincoln"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Nelson Mandela",
+          "explanation": "Mandela delivered this famous defense statement during the Rivonia Trial in 1964 before being sentenced to life imprisonment.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Passage Comprehension and Analytical Inference",
+      "questions": [
+        {
+          "id": "ENG101-MCQ-046",
+          "question": "Why did Bangabandhu call for a non-cooperation movement and shutdown of offices in March 1971?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To protest the Pakistani military regime's refusal to hand over power to the elected majority"
+            },
+            {
+              "label": "B",
+              "text": "To celebrate a national festival"
+            },
+            {
+              "label": "C",
+              "text": "Due to a severe economic recession"
+            },
+            {
+              "label": "D",
+              "text": "To prepare for routine general elections"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To protest the Pakistani military regime's refusal to hand over power to the elected majority",
+          "explanation": "General Yahya Khan postponed the National Assembly session to deny the Awami League its democratic right following the 1970 landslide election win.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-047",
+          "question": "What was the call sign of Valentina Tereshkova during her space flight?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chaika (Seagull)"
+            },
+            {
+              "label": "B",
+              "text": "Swallow"
+            },
+            {
+              "label": "C",
+              "text": "Eagle"
+            },
+            {
+              "label": "D",
+              "text": "Falcon"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chaika (Seagull)",
+          "explanation": "Tereshkova's radio call sign during her Vostok 6 mission was 'Chaika' (Russian for 'Seagull').",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG101-MCQ-048",
+          "question": "What was Kalpana Chawla's advice to young dreamers aiming for ambitious horizons?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it.'"
+            },
+            {
+              "label": "B",
+              "text": "'Do not dream big dreams because failure is inevitable.'"
+            },
+            {
+              "label": "C",
+              "text": "'Always take the easiest path available.'"
+            },
+            {
+              "label": "D",
+              "text": "'Money is the only metric of achievement.'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'The path from dreams to success does exist. May you have the vision to find it, the courage to get on to it, and the perseverance to follow it.'",
+          "explanation": "Chawla sent this uplifting message from Columbia to students of her alma mater, Punjab Engineering College.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG101-MCQ-049",
+          "question": "What is the primary stylistic attribute of Bangabandhu's delivery on 7th March?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Spontaneous, extempore speech delivered without any written script"
+            },
+            {
+              "label": "B",
+              "text": "Read mechanically from a prepared manuscript"
+            },
+            {
+              "label": "C",
+              "text": "Recited from an English translation"
+            },
+            {
+              "label": "D",
+              "text": "Dictated via telegram"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Spontaneous, extempore speech delivered without any written script",
+          "explanation": "Bangabandhu delivered the 19-minute speech completely extempore without reading from notes, speaking straight from his heart to the people.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG101-MCQ-050",
+          "question": "In the sentence 'Their victory ignited a newfound pride across the nation', what does 'ignited' mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sparked or aroused intensely"
+            },
+            {
+              "label": "B",
+              "text": "Extinguished"
+            },
+            {
+              "label": "C",
+              "text": "Suppressed"
+            },
+            {
+              "label": "D",
+              "text": "Delayed"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Sparked or aroused intensely",
+          "explanation": "'Ignited' is used figuratively to mean stimulated, aroused, or set into vibrant motion.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

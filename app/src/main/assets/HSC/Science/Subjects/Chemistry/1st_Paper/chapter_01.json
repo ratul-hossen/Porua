@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "Safe Use of Laboratory",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Laboratory PPE",
+      "questions": [
+        {
+          "id": "CH01-MCQ-001",
+          "question": "Which statement correctly describes laboratory ppe?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sandals"
+            },
+            {
+              "label": "B",
+              "text": "Safety goggles"
+            },
+            {
+              "label": "C",
+              "text": "Cotton cap"
+            },
+            {
+              "label": "D",
+              "text": "Paper towel"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Safety goggles",
+          "explanation": "Protect the eyes from chemical splashes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning laboratory ppe?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cotton cap"
+            },
+            {
+              "label": "B",
+              "text": "Paper towel"
+            },
+            {
+              "label": "C",
+              "text": "Sandals"
+            },
+            {
+              "label": "D",
+              "text": "Safety goggles"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Safety goggles",
+          "explanation": "Protect the eyes from chemical splashes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-003",
+          "question": "A student is reviewing laboratory ppe. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Paper towel"
+            },
+            {
+              "label": "B",
+              "text": "Sandals"
+            },
+            {
+              "label": "C",
+              "text": "Safety goggles"
+            },
+            {
+              "label": "D",
+              "text": "Cotton cap"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Safety goggles",
+          "explanation": "Protect the eyes from chemical splashes.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-004",
+          "question": "Which option gives the most accurate explanation of laboratory ppe?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Safety goggles"
+            },
+            {
+              "label": "B",
+              "text": "Sandals"
+            },
+            {
+              "label": "C",
+              "text": "Cotton cap"
+            },
+            {
+              "label": "D",
+              "text": "Paper towel"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Safety goggles",
+          "explanation": "Protect the eyes from chemical splashes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-005",
+          "question": "Choose the correct principle or fact associated with laboratory ppe.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cotton cap"
+            },
+            {
+              "label": "B",
+              "text": "Paper towel"
+            },
+            {
+              "label": "C",
+              "text": "Safety goggles"
+            },
+            {
+              "label": "D",
+              "text": "Sandals"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Safety goggles",
+          "explanation": "Protect the eyes from chemical splashes.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Acid dilution",
+      "questions": [
+        {
+          "id": "CH01-MCQ-006",
+          "question": "Which statement correctly describes acid dilution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Add water rapidly to concentrated acid"
+            },
+            {
+              "label": "B",
+              "text": "Add acid slowly to water"
+            },
+            {
+              "label": "C",
+              "text": "Pour acid into a sealed bottle"
+            },
+            {
+              "label": "D",
+              "text": "Heat the acid first"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Add acid slowly to water",
+          "explanation": "Dilution is exothermic and adding acid to water helps control heat and splashing.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning acid dilution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heat the acid first"
+            },
+            {
+              "label": "B",
+              "text": "Add acid slowly to water"
+            },
+            {
+              "label": "C",
+              "text": "Pour acid into a sealed bottle"
+            },
+            {
+              "label": "D",
+              "text": "Add water rapidly to concentrated acid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Add acid slowly to water",
+          "explanation": "Dilution is exothermic and adding acid to water helps control heat and splashing.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-008",
+          "question": "A student is reviewing acid dilution. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Add water rapidly to concentrated acid"
+            },
+            {
+              "label": "B",
+              "text": "Pour acid into a sealed bottle"
+            },
+            {
+              "label": "C",
+              "text": "Add acid slowly to water"
+            },
+            {
+              "label": "D",
+              "text": "Heat the acid first"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Add acid slowly to water",
+          "explanation": "Dilution is exothermic and adding acid to water helps control heat and splashing.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-009",
+          "question": "Which option gives the most accurate explanation of acid dilution?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pour acid into a sealed bottle"
+            },
+            {
+              "label": "B",
+              "text": "Add acid slowly to water"
+            },
+            {
+              "label": "C",
+              "text": "Heat the acid first"
+            },
+            {
+              "label": "D",
+              "text": "Add water rapidly to concentrated acid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Add acid slowly to water",
+          "explanation": "Dilution is exothermic and adding acid to water helps control heat and splashing.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-010",
+          "question": "Choose the correct principle or fact associated with acid dilution.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Add water rapidly to concentrated acid"
+            },
+            {
+              "label": "B",
+              "text": "Pour acid into a sealed bottle"
+            },
+            {
+              "label": "C",
+              "text": "Heat the acid first"
+            },
+            {
+              "label": "D",
+              "text": "Add acid slowly to water"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Add acid slowly to water",
+          "explanation": "Dilution is exothermic and adding acid to water helps control heat and splashing.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Pipetting",
+      "questions": [
+        {
+          "id": "CH01-MCQ-011",
+          "question": "Which statement correctly describes pipetting?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mouth suction"
+            },
+            {
+              "label": "B",
+              "text": "An open flame"
+            },
+            {
+              "label": "C",
+              "text": "A drinking straw"
+            },
+            {
+              "label": "D",
+              "text": "A pipette filler"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A pipette filler",
+          "explanation": "Prevents chemicals from being drawn into the mouth.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning pipetting?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An open flame"
+            },
+            {
+              "label": "B",
+              "text": "A pipette filler"
+            },
+            {
+              "label": "C",
+              "text": "A drinking straw"
+            },
+            {
+              "label": "D",
+              "text": "Mouth suction"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A pipette filler",
+          "explanation": "Prevents chemicals from being drawn into the mouth.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-013",
+          "question": "A student is reviewing pipetting. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A pipette filler"
+            },
+            {
+              "label": "B",
+              "text": "An open flame"
+            },
+            {
+              "label": "C",
+              "text": "Mouth suction"
+            },
+            {
+              "label": "D",
+              "text": "A drinking straw"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A pipette filler",
+          "explanation": "Prevents chemicals from being drawn into the mouth.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-014",
+          "question": "Which option gives the most accurate explanation of pipetting?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A pipette filler"
+            },
+            {
+              "label": "B",
+              "text": "An open flame"
+            },
+            {
+              "label": "C",
+              "text": "Mouth suction"
+            },
+            {
+              "label": "D",
+              "text": "A drinking straw"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A pipette filler",
+          "explanation": "Prevents chemicals from being drawn into the mouth.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-015",
+          "question": "Choose the correct principle or fact associated with pipetting.",
+          "options": [
+            {
+              "label": "A",
+              "text": "An open flame"
+            },
+            {
+              "label": "B",
+              "text": "A drinking straw"
+            },
+            {
+              "label": "C",
+              "text": "Mouth suction"
+            },
+            {
+              "label": "D",
+              "text": "A pipette filler"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A pipette filler",
+          "explanation": "Prevents chemicals from being drawn into the mouth.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Hazard and risk",
+      "questions": [
+        {
+          "id": "CH01-MCQ-016",
+          "question": "Which statement correctly describes hazard and risk?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The mass of a reagent only"
+            },
+            {
+              "label": "B",
+              "text": "The name of an apparatus"
+            },
+            {
+              "label": "C",
+              "text": "The colour of a chemical"
+            },
+            {
+              "label": "D",
+              "text": "Risk"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Risk",
+          "explanation": "Combines the likelihood of harm with its potential severity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning hazard and risk?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The name of an apparatus"
+            },
+            {
+              "label": "B",
+              "text": "The mass of a reagent only"
+            },
+            {
+              "label": "C",
+              "text": "The colour of a chemical"
+            },
+            {
+              "label": "D",
+              "text": "Risk"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Risk",
+          "explanation": "Combines the likelihood of harm with its potential severity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-018",
+          "question": "A student is reviewing hazard and risk. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Risk"
+            },
+            {
+              "label": "B",
+              "text": "The name of an apparatus"
+            },
+            {
+              "label": "C",
+              "text": "The colour of a chemical"
+            },
+            {
+              "label": "D",
+              "text": "The mass of a reagent only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Risk",
+          "explanation": "Combines the likelihood of harm with its potential severity.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-019",
+          "question": "Which option gives the most accurate explanation of hazard and risk?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Risk"
+            },
+            {
+              "label": "B",
+              "text": "The name of an apparatus"
+            },
+            {
+              "label": "C",
+              "text": "The mass of a reagent only"
+            },
+            {
+              "label": "D",
+              "text": "The colour of a chemical"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Risk",
+          "explanation": "Combines the likelihood of harm with its potential severity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-020",
+          "question": "Choose the correct principle or fact associated with hazard and risk.",
+          "options": [
+            {
+              "label": "A",
+              "text": "The mass of a reagent only"
+            },
+            {
+              "label": "B",
+              "text": "The colour of a chemical"
+            },
+            {
+              "label": "C",
+              "text": "The name of an apparatus"
+            },
+            {
+              "label": "D",
+              "text": "Risk"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Risk",
+          "explanation": "Combines the likelihood of harm with its potential severity.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Fume hood",
+      "questions": [
+        {
+          "id": "CH01-MCQ-021",
+          "question": "Which statement correctly describes fume hood?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sterilises glassware"
+            },
+            {
+              "label": "B",
+              "text": "Measures solution volume"
+            },
+            {
+              "label": "C",
+              "text": "A fume hood"
+            },
+            {
+              "label": "D",
+              "text": "Stores all solid chemicals"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A fume hood",
+          "explanation": "Controls exposure to hazardous, volatile or irritating vapours.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning fume hood?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Measures solution volume"
+            },
+            {
+              "label": "B",
+              "text": "Stores all solid chemicals"
+            },
+            {
+              "label": "C",
+              "text": "A fume hood"
+            },
+            {
+              "label": "D",
+              "text": "Sterilises glassware"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A fume hood",
+          "explanation": "Controls exposure to hazardous, volatile or irritating vapours.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-023",
+          "question": "A student is reviewing fume hood. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sterilises glassware"
+            },
+            {
+              "label": "B",
+              "text": "Stores all solid chemicals"
+            },
+            {
+              "label": "C",
+              "text": "A fume hood"
+            },
+            {
+              "label": "D",
+              "text": "Measures solution volume"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A fume hood",
+          "explanation": "Controls exposure to hazardous, volatile or irritating vapours.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-024",
+          "question": "Which option gives the most accurate explanation of fume hood?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A fume hood"
+            },
+            {
+              "label": "B",
+              "text": "Measures solution volume"
+            },
+            {
+              "label": "C",
+              "text": "Sterilises glassware"
+            },
+            {
+              "label": "D",
+              "text": "Stores all solid chemicals"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A fume hood",
+          "explanation": "Controls exposure to hazardous, volatile or irritating vapours.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-025",
+          "question": "Choose the correct principle or fact associated with fume hood.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A fume hood"
+            },
+            {
+              "label": "B",
+              "text": "Measures solution volume"
+            },
+            {
+              "label": "C",
+              "text": "Sterilises glassware"
+            },
+            {
+              "label": "D",
+              "text": "Stores all solid chemicals"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A fume hood",
+          "explanation": "Controls exposure to hazardous, volatile or irritating vapours.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Chemical label",
+      "questions": [
+        {
+          "id": "CH01-MCQ-026",
+          "question": "Which statement correctly describes chemical label?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical name and concentration"
+            },
+            {
+              "label": "B",
+              "text": "Only the room number"
+            },
+            {
+              "label": "C",
+              "text": "Only the bottle colour"
+            },
+            {
+              "label": "D",
+              "text": "Only the student's name"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chemical name and concentration",
+          "explanation": "A prepared solution should be clearly identified, including relevant hazard and preparation information.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning chemical label?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the student's name"
+            },
+            {
+              "label": "B",
+              "text": "Only the room number"
+            },
+            {
+              "label": "C",
+              "text": "Only the bottle colour"
+            },
+            {
+              "label": "D",
+              "text": "Chemical name and concentration"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Chemical name and concentration",
+          "explanation": "A prepared solution should be clearly identified, including relevant hazard and preparation information.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-028",
+          "question": "A student is reviewing chemical label. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the student's name"
+            },
+            {
+              "label": "B",
+              "text": "Chemical name and concentration"
+            },
+            {
+              "label": "C",
+              "text": "Only the room number"
+            },
+            {
+              "label": "D",
+              "text": "Only the bottle colour"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Chemical name and concentration",
+          "explanation": "A prepared solution should be clearly identified, including relevant hazard and preparation information.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-029",
+          "question": "Which option gives the most accurate explanation of chemical label?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical name and concentration"
+            },
+            {
+              "label": "B",
+              "text": "Only the bottle colour"
+            },
+            {
+              "label": "C",
+              "text": "Only the room number"
+            },
+            {
+              "label": "D",
+              "text": "Only the student's name"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chemical name and concentration",
+          "explanation": "A prepared solution should be clearly identified, including relevant hazard and preparation information.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-030",
+          "question": "Choose the correct principle or fact associated with chemical label.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the student's name"
+            },
+            {
+              "label": "B",
+              "text": "Only the room number"
+            },
+            {
+              "label": "C",
+              "text": "Only the bottle colour"
+            },
+            {
+              "label": "D",
+              "text": "Chemical name and concentration"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Chemical name and concentration",
+          "explanation": "A prepared solution should be clearly identified, including relevant hazard and preparation information.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Waste disposal",
+      "questions": [
+        {
+          "id": "CH01-MCQ-031",
+          "question": "Which statement correctly describes waste disposal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The general sink in every case"
+            },
+            {
+              "label": "B",
+              "text": "An ordinary drinking-water bottle"
+            },
+            {
+              "label": "C",
+              "text": "Designated labelled waste containers"
+            },
+            {
+              "label": "D",
+              "text": "The classroom floor"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Designated labelled waste containers",
+          "explanation": "Chemical waste such as solvents and heavy-metal residues must not be poured into ordinary sinks.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning waste disposal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The classroom floor"
+            },
+            {
+              "label": "B",
+              "text": "Designated labelled waste containers"
+            },
+            {
+              "label": "C",
+              "text": "An ordinary drinking-water bottle"
+            },
+            {
+              "label": "D",
+              "text": "The general sink in every case"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Designated labelled waste containers",
+          "explanation": "Chemical waste such as solvents and heavy-metal residues must not be poured into ordinary sinks.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-033",
+          "question": "A student is reviewing waste disposal. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The classroom floor"
+            },
+            {
+              "label": "B",
+              "text": "The general sink in every case"
+            },
+            {
+              "label": "C",
+              "text": "An ordinary drinking-water bottle"
+            },
+            {
+              "label": "D",
+              "text": "Designated labelled waste containers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Designated labelled waste containers",
+          "explanation": "Chemical waste such as solvents and heavy-metal residues must not be poured into ordinary sinks.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-034",
+          "question": "Which option gives the most accurate explanation of waste disposal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An ordinary drinking-water bottle"
+            },
+            {
+              "label": "B",
+              "text": "The general sink in every case"
+            },
+            {
+              "label": "C",
+              "text": "Designated labelled waste containers"
+            },
+            {
+              "label": "D",
+              "text": "The classroom floor"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Designated labelled waste containers",
+          "explanation": "Chemical waste such as solvents and heavy-metal residues must not be poured into ordinary sinks.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-035",
+          "question": "Choose the correct principle or fact associated with waste disposal.",
+          "options": [
+            {
+              "label": "A",
+              "text": "The classroom floor"
+            },
+            {
+              "label": "B",
+              "text": "Designated labelled waste containers"
+            },
+            {
+              "label": "C",
+              "text": "The general sink in every case"
+            },
+            {
+              "label": "D",
+              "text": "An ordinary drinking-water bottle"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Designated labelled waste containers",
+          "explanation": "Chemical waste such as solvents and heavy-metal residues must not be poured into ordinary sinks.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Eye splash response",
+      "questions": [
+        {
+          "id": "CH01-MCQ-036",
+          "question": "Which statement correctly describes eye splash response?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wait until the lesson ends"
+            },
+            {
+              "label": "B",
+              "text": "Flush at the eyewash station immediately"
+            },
+            {
+              "label": "C",
+              "text": "Rub the eye firmly"
+            },
+            {
+              "label": "D",
+              "text": "Neutralise the eye with another chemical"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Flush at the eyewash station immediately",
+          "explanation": "Continuous rinsing for at least 15 minutes is the immediate response to a chemical eye splash.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning eye splash response?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wait until the lesson ends"
+            },
+            {
+              "label": "B",
+              "text": "Rub the eye firmly"
+            },
+            {
+              "label": "C",
+              "text": "Neutralise the eye with another chemical"
+            },
+            {
+              "label": "D",
+              "text": "Flush at the eyewash station immediately"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Flush at the eyewash station immediately",
+          "explanation": "Continuous rinsing for at least 15 minutes is the immediate response to a chemical eye splash.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-038",
+          "question": "A student is reviewing eye splash response. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wait until the lesson ends"
+            },
+            {
+              "label": "B",
+              "text": "Flush at the eyewash station immediately"
+            },
+            {
+              "label": "C",
+              "text": "Rub the eye firmly"
+            },
+            {
+              "label": "D",
+              "text": "Neutralise the eye with another chemical"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Flush at the eyewash station immediately",
+          "explanation": "Continuous rinsing for at least 15 minutes is the immediate response to a chemical eye splash.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-039",
+          "question": "Which option gives the most accurate explanation of eye splash response?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wait until the lesson ends"
+            },
+            {
+              "label": "B",
+              "text": "Flush at the eyewash station immediately"
+            },
+            {
+              "label": "C",
+              "text": "Rub the eye firmly"
+            },
+            {
+              "label": "D",
+              "text": "Neutralise the eye with another chemical"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Flush at the eyewash station immediately",
+          "explanation": "Continuous rinsing for at least 15 minutes is the immediate response to a chemical eye splash.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-040",
+          "question": "Choose the correct principle or fact associated with eye splash response.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rub the eye firmly"
+            },
+            {
+              "label": "B",
+              "text": "Flush at the eyewash station immediately"
+            },
+            {
+              "label": "C",
+              "text": "Neutralise the eye with another chemical"
+            },
+            {
+              "label": "D",
+              "text": "Wait until the lesson ends"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Flush at the eyewash station immediately",
+          "explanation": "Continuous rinsing for at least 15 minutes is the immediate response to a chemical eye splash.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Chemical smelling",
+      "questions": [
+        {
+          "id": "CH01-MCQ-041",
+          "question": "Which statement correctly describes chemical smelling?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Waft vapour only when permitted"
+            },
+            {
+              "label": "B",
+              "text": "Heat it close to the face"
+            },
+            {
+              "label": "C",
+              "text": "Smell directly from the bottle"
+            },
+            {
+              "label": "D",
+              "text": "Taste a tiny amount"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Waft vapour only when permitted",
+          "explanation": "Directly inhaling a chemical can expose the student to harmful vapours.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning chemical smelling?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Taste a tiny amount"
+            },
+            {
+              "label": "B",
+              "text": "Waft vapour only when permitted"
+            },
+            {
+              "label": "C",
+              "text": "Smell directly from the bottle"
+            },
+            {
+              "label": "D",
+              "text": "Heat it close to the face"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Waft vapour only when permitted",
+          "explanation": "Directly inhaling a chemical can expose the student to harmful vapours.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-043",
+          "question": "A student is reviewing chemical smelling. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Smell directly from the bottle"
+            },
+            {
+              "label": "B",
+              "text": "Waft vapour only when permitted"
+            },
+            {
+              "label": "C",
+              "text": "Heat it close to the face"
+            },
+            {
+              "label": "D",
+              "text": "Taste a tiny amount"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Waft vapour only when permitted",
+          "explanation": "Directly inhaling a chemical can expose the student to harmful vapours.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-044",
+          "question": "Which option gives the most accurate explanation of chemical smelling?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Waft vapour only when permitted"
+            },
+            {
+              "label": "B",
+              "text": "Smell directly from the bottle"
+            },
+            {
+              "label": "C",
+              "text": "Taste a tiny amount"
+            },
+            {
+              "label": "D",
+              "text": "Heat it close to the face"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Waft vapour only when permitted",
+          "explanation": "Directly inhaling a chemical can expose the student to harmful vapours.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-045",
+          "question": "Choose the correct principle or fact associated with chemical smelling.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Heat it close to the face"
+            },
+            {
+              "label": "B",
+              "text": "Smell directly from the bottle"
+            },
+            {
+              "label": "C",
+              "text": "Taste a tiny amount"
+            },
+            {
+              "label": "D",
+              "text": "Waft vapour only when permitted"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Waft vapour only when permitted",
+          "explanation": "Directly inhaling a chemical can expose the student to harmful vapours.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Safety data",
+      "questions": [
+        {
+          "id": "CH01-MCQ-046",
+          "question": "Which statement correctly describes safety data?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A glassware catalogue"
+            },
+            {
+              "label": "B",
+              "text": "A timetable"
+            },
+            {
+              "label": "C",
+              "text": "Safety Data Sheet (SDS)"
+            },
+            {
+              "label": "D",
+              "text": "A list of student marks"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Safety Data Sheet (SDS)",
+          "explanation": "Provides hazard, handling, storage and emergency information for a chemical.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning safety data?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A timetable"
+            },
+            {
+              "label": "B",
+              "text": "A glassware catalogue"
+            },
+            {
+              "label": "C",
+              "text": "Safety Data Sheet (SDS)"
+            },
+            {
+              "label": "D",
+              "text": "A list of student marks"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Safety Data Sheet (SDS)",
+          "explanation": "Provides hazard, handling, storage and emergency information for a chemical.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-048",
+          "question": "A student is reviewing safety data. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A timetable"
+            },
+            {
+              "label": "B",
+              "text": "Safety Data Sheet (SDS)"
+            },
+            {
+              "label": "C",
+              "text": "A list of student marks"
+            },
+            {
+              "label": "D",
+              "text": "A glassware catalogue"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Safety Data Sheet (SDS)",
+          "explanation": "Provides hazard, handling, storage and emergency information for a chemical.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-049",
+          "question": "Which option gives the most accurate explanation of safety data?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Safety Data Sheet (SDS)"
+            },
+            {
+              "label": "B",
+              "text": "A timetable"
+            },
+            {
+              "label": "C",
+              "text": "A list of student marks"
+            },
+            {
+              "label": "D",
+              "text": "A glassware catalogue"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Safety Data Sheet (SDS)",
+          "explanation": "Provides hazard, handling, storage and emergency information for a chemical.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-050",
+          "question": "Choose the correct principle or fact associated with safety data.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Safety Data Sheet (SDS)"
+            },
+            {
+              "label": "B",
+              "text": "A glassware catalogue"
+            },
+            {
+              "label": "C",
+              "text": "A timetable"
+            },
+            {
+              "label": "D",
+              "text": "A list of student marks"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Safety Data Sheet (SDS)",
+          "explanation": "Provides hazard, handling, storage and emergency information for a chemical.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

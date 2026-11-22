@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 10,
+  "chapter_title": "Semiconductor and Electronics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Conductors and semiconductors",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ001",
+          "question": "Which statement best describes conductors and semiconductors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conductivity greater than all metals"
+            },
+            {
+              "label": "B",
+              "text": "always zero conductivity"
+            },
+            {
+              "label": "C",
+              "text": "A semiconductor has electrical conductivity between that of a conductor and an insulator"
+            },
+            {
+              "label": "D",
+              "text": "infinite resistivity"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A semiconductor has electrical conductivity between that of a conductor and an insulator",
+          "explanation": "Semiconductor conductivity can be controlled by temperature, light and doping.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ002",
+          "question": "Which option is correctly associated with conductors and semiconductors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "infinite resistivity"
+            },
+            {
+              "label": "B",
+              "text": "A semiconductor has electrical conductivity between that of a conductor and an insulator"
+            },
+            {
+              "label": "C",
+              "text": "always zero conductivity"
+            },
+            {
+              "label": "D",
+              "text": "conductivity greater than all metals"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A semiconductor has electrical conductivity between that of a conductor and an insulator",
+          "explanation": "Semiconductor conductivity can be controlled by temperature, light and doping.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ003",
+          "question": "In a basic HSC Physics question about conductors and semiconductors, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always zero conductivity"
+            },
+            {
+              "label": "B",
+              "text": "A semiconductor has electrical conductivity between that of a conductor and an insulator"
+            },
+            {
+              "label": "C",
+              "text": "conductivity greater than all metals"
+            },
+            {
+              "label": "D",
+              "text": "infinite resistivity"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A semiconductor has electrical conductivity between that of a conductor and an insulator",
+          "explanation": "Semiconductor conductivity can be controlled by temperature, light and doping.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ004",
+          "question": "Which fact should be remembered about conductors and semiconductors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "infinite resistivity"
+            },
+            {
+              "label": "B",
+              "text": "conductivity greater than all metals"
+            },
+            {
+              "label": "C",
+              "text": "always zero conductivity"
+            },
+            {
+              "label": "D",
+              "text": "A semiconductor has electrical conductivity between that of a conductor and an insulator"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A semiconductor has electrical conductivity between that of a conductor and an insulator",
+          "explanation": "Semiconductor conductivity can be controlled by temperature, light and doping.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning conductors and semiconductors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conductivity greater than all metals"
+            },
+            {
+              "label": "B",
+              "text": "A semiconductor has electrical conductivity between that of a conductor and an insulator"
+            },
+            {
+              "label": "C",
+              "text": "always zero conductivity"
+            },
+            {
+              "label": "D",
+              "text": "infinite resistivity"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A semiconductor has electrical conductivity between that of a conductor and an insulator",
+          "explanation": "Semiconductor conductivity can be controlled by temperature, light and doping.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Intrinsic semiconductor",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ006",
+          "question": "Which statement best describes intrinsic semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a metal alloy"
+            },
+            {
+              "label": "B",
+              "text": "an insulating ceramic only"
+            },
+            {
+              "label": "C",
+              "text": "a heavily doped semiconductor"
+            },
+            {
+              "label": "D",
+              "text": "An intrinsic semiconductor is a pure semiconductor without intentional doping"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "An intrinsic semiconductor is a pure semiconductor without intentional doping",
+          "explanation": "In an intrinsic material, electron and hole concentrations are equal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ007",
+          "question": "Which option is correctly associated with intrinsic semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "an insulating ceramic only"
+            },
+            {
+              "label": "B",
+              "text": "a heavily doped semiconductor"
+            },
+            {
+              "label": "C",
+              "text": "a metal alloy"
+            },
+            {
+              "label": "D",
+              "text": "An intrinsic semiconductor is a pure semiconductor without intentional doping"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "An intrinsic semiconductor is a pure semiconductor without intentional doping",
+          "explanation": "In an intrinsic material, electron and hole concentrations are equal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ008",
+          "question": "In a basic HSC Physics question about intrinsic semiconductor, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "an insulating ceramic only"
+            },
+            {
+              "label": "B",
+              "text": "An intrinsic semiconductor is a pure semiconductor without intentional doping"
+            },
+            {
+              "label": "C",
+              "text": "a metal alloy"
+            },
+            {
+              "label": "D",
+              "text": "a heavily doped semiconductor"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "An intrinsic semiconductor is a pure semiconductor without intentional doping",
+          "explanation": "In an intrinsic material, electron and hole concentrations are equal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ009",
+          "question": "Which fact should be remembered about intrinsic semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a metal alloy"
+            },
+            {
+              "label": "B",
+              "text": "an insulating ceramic only"
+            },
+            {
+              "label": "C",
+              "text": "An intrinsic semiconductor is a pure semiconductor without intentional doping"
+            },
+            {
+              "label": "D",
+              "text": "a heavily doped semiconductor"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An intrinsic semiconductor is a pure semiconductor without intentional doping",
+          "explanation": "In an intrinsic material, electron and hole concentrations are equal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning intrinsic semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a heavily doped semiconductor"
+            },
+            {
+              "label": "B",
+              "text": "An intrinsic semiconductor is a pure semiconductor without intentional doping"
+            },
+            {
+              "label": "C",
+              "text": "a metal alloy"
+            },
+            {
+              "label": "D",
+              "text": "an insulating ceramic only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "An intrinsic semiconductor is a pure semiconductor without intentional doping",
+          "explanation": "In an intrinsic material, electron and hole concentrations are equal.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Doping",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ011",
+          "question": "Which statement best describes doping?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prevents current under all conditions"
+            },
+            {
+              "label": "B",
+              "text": "removes all charge carriers"
+            },
+            {
+              "label": "C",
+              "text": "Doping adds controlled impurities to change semiconductor conductivity"
+            },
+            {
+              "label": "D",
+              "text": "converts all atoms to ions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Doping adds controlled impurities to change semiconductor conductivity",
+          "explanation": "Donor or acceptor impurities increase free electron or hole concentration.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ012",
+          "question": "Which option is correctly associated with doping?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes all charge carriers"
+            },
+            {
+              "label": "B",
+              "text": "prevents current under all conditions"
+            },
+            {
+              "label": "C",
+              "text": "converts all atoms to ions"
+            },
+            {
+              "label": "D",
+              "text": "Doping adds controlled impurities to change semiconductor conductivity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Doping adds controlled impurities to change semiconductor conductivity",
+          "explanation": "Donor or acceptor impurities increase free electron or hole concentration.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ013",
+          "question": "In a basic HSC Physics question about doping, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "converts all atoms to ions"
+            },
+            {
+              "label": "B",
+              "text": "Doping adds controlled impurities to change semiconductor conductivity"
+            },
+            {
+              "label": "C",
+              "text": "prevents current under all conditions"
+            },
+            {
+              "label": "D",
+              "text": "removes all charge carriers"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Doping adds controlled impurities to change semiconductor conductivity",
+          "explanation": "Donor or acceptor impurities increase free electron or hole concentration.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ014",
+          "question": "Which fact should be remembered about doping?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Doping adds controlled impurities to change semiconductor conductivity"
+            },
+            {
+              "label": "B",
+              "text": "converts all atoms to ions"
+            },
+            {
+              "label": "C",
+              "text": "prevents current under all conditions"
+            },
+            {
+              "label": "D",
+              "text": "removes all charge carriers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Doping adds controlled impurities to change semiconductor conductivity",
+          "explanation": "Donor or acceptor impurities increase free electron or hole concentration.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning doping?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes all charge carriers"
+            },
+            {
+              "label": "B",
+              "text": "Doping adds controlled impurities to change semiconductor conductivity"
+            },
+            {
+              "label": "C",
+              "text": "converts all atoms to ions"
+            },
+            {
+              "label": "D",
+              "text": "prevents current under all conditions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Doping adds controlled impurities to change semiconductor conductivity",
+          "explanation": "Donor or acceptor impurities increase free electron or hole concentration.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "N-type semiconductor",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ016",
+          "question": "Which statement best describes n-type semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ions as the only carriers"
+            },
+            {
+              "label": "B",
+              "text": "holes as majority carriers"
+            },
+            {
+              "label": "C",
+              "text": "An n-type semiconductor has electrons as majority charge carriers"
+            },
+            {
+              "label": "D",
+              "text": "protons as majority carriers"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An n-type semiconductor has electrons as majority charge carriers",
+          "explanation": "Donor impurities contribute extra electrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ017",
+          "question": "Which option is correctly associated with n-type semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ions as the only carriers"
+            },
+            {
+              "label": "B",
+              "text": "protons as majority carriers"
+            },
+            {
+              "label": "C",
+              "text": "An n-type semiconductor has electrons as majority charge carriers"
+            },
+            {
+              "label": "D",
+              "text": "holes as majority carriers"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An n-type semiconductor has electrons as majority charge carriers",
+          "explanation": "Donor impurities contribute extra electrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ018",
+          "question": "In a basic HSC Physics question about n-type semiconductor, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An n-type semiconductor has electrons as majority charge carriers"
+            },
+            {
+              "label": "B",
+              "text": "protons as majority carriers"
+            },
+            {
+              "label": "C",
+              "text": "ions as the only carriers"
+            },
+            {
+              "label": "D",
+              "text": "holes as majority carriers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An n-type semiconductor has electrons as majority charge carriers",
+          "explanation": "Donor impurities contribute extra electrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ019",
+          "question": "Which fact should be remembered about n-type semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ions as the only carriers"
+            },
+            {
+              "label": "B",
+              "text": "holes as majority carriers"
+            },
+            {
+              "label": "C",
+              "text": "protons as majority carriers"
+            },
+            {
+              "label": "D",
+              "text": "An n-type semiconductor has electrons as majority charge carriers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "An n-type semiconductor has electrons as majority charge carriers",
+          "explanation": "Donor impurities contribute extra electrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning n-type semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ions as the only carriers"
+            },
+            {
+              "label": "B",
+              "text": "holes as majority carriers"
+            },
+            {
+              "label": "C",
+              "text": "protons as majority carriers"
+            },
+            {
+              "label": "D",
+              "text": "An n-type semiconductor has electrons as majority charge carriers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "An n-type semiconductor has electrons as majority charge carriers",
+          "explanation": "Donor impurities contribute extra electrons.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "P-type semiconductor",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ021",
+          "question": "Which statement best describes p-type semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neutrons as carriers"
+            },
+            {
+              "label": "B",
+              "text": "photons as carriers"
+            },
+            {
+              "label": "C",
+              "text": "electrons as majority carriers"
+            },
+            {
+              "label": "D",
+              "text": "A p-type semiconductor has holes as majority charge carriers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A p-type semiconductor has holes as majority charge carriers",
+          "explanation": "Acceptor impurities create holes in the valence band.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ022",
+          "question": "Which option is correctly associated with p-type semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A p-type semiconductor has holes as majority charge carriers"
+            },
+            {
+              "label": "B",
+              "text": "electrons as majority carriers"
+            },
+            {
+              "label": "C",
+              "text": "neutrons as carriers"
+            },
+            {
+              "label": "D",
+              "text": "photons as carriers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A p-type semiconductor has holes as majority charge carriers",
+          "explanation": "Acceptor impurities create holes in the valence band.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ023",
+          "question": "In a basic HSC Physics question about p-type semiconductor, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neutrons as carriers"
+            },
+            {
+              "label": "B",
+              "text": "electrons as majority carriers"
+            },
+            {
+              "label": "C",
+              "text": "photons as carriers"
+            },
+            {
+              "label": "D",
+              "text": "A p-type semiconductor has holes as majority charge carriers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A p-type semiconductor has holes as majority charge carriers",
+          "explanation": "Acceptor impurities create holes in the valence band.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ024",
+          "question": "Which fact should be remembered about p-type semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neutrons as carriers"
+            },
+            {
+              "label": "B",
+              "text": "photons as carriers"
+            },
+            {
+              "label": "C",
+              "text": "electrons as majority carriers"
+            },
+            {
+              "label": "D",
+              "text": "A p-type semiconductor has holes as majority charge carriers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A p-type semiconductor has holes as majority charge carriers",
+          "explanation": "Acceptor impurities create holes in the valence band.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning p-type semiconductor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A p-type semiconductor has holes as majority charge carriers"
+            },
+            {
+              "label": "B",
+              "text": "electrons as majority carriers"
+            },
+            {
+              "label": "C",
+              "text": "photons as carriers"
+            },
+            {
+              "label": "D",
+              "text": "neutrons as carriers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A p-type semiconductor has holes as majority charge carriers",
+          "explanation": "Acceptor impurities create holes in the valence band.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "PN junction",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ026",
+          "question": "Which statement best describes pn junction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers"
+            },
+            {
+              "label": "B",
+              "text": "a vacuum gap"
+            },
+            {
+              "label": "C",
+              "text": "a region with extra free carriers only"
+            },
+            {
+              "label": "D",
+              "text": "a metallic bridge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers",
+          "explanation": "Diffusion leaves fixed ionized donors and acceptors, creating an internal electric field.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ027",
+          "question": "Which option is correctly associated with pn junction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a metallic bridge"
+            },
+            {
+              "label": "B",
+              "text": "a region with extra free carriers only"
+            },
+            {
+              "label": "C",
+              "text": "a vacuum gap"
+            },
+            {
+              "label": "D",
+              "text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers",
+          "explanation": "Diffusion leaves fixed ionized donors and acceptors, creating an internal electric field.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ028",
+          "question": "In a basic HSC Physics question about pn junction, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers"
+            },
+            {
+              "label": "B",
+              "text": "a region with extra free carriers only"
+            },
+            {
+              "label": "C",
+              "text": "a metallic bridge"
+            },
+            {
+              "label": "D",
+              "text": "a vacuum gap"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers",
+          "explanation": "Diffusion leaves fixed ionized donors and acceptors, creating an internal electric field.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ029",
+          "question": "Which fact should be remembered about pn junction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers"
+            },
+            {
+              "label": "B",
+              "text": "a vacuum gap"
+            },
+            {
+              "label": "C",
+              "text": "a metallic bridge"
+            },
+            {
+              "label": "D",
+              "text": "a region with extra free carriers only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers",
+          "explanation": "Diffusion leaves fixed ionized donors and acceptors, creating an internal electric field.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning pn junction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers"
+            },
+            {
+              "label": "B",
+              "text": "a metallic bridge"
+            },
+            {
+              "label": "C",
+              "text": "a vacuum gap"
+            },
+            {
+              "label": "D",
+              "text": "a region with extra free carriers only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A depletion region forms near a PN junction due to diffusion and recombination of carriers",
+          "explanation": "Diffusion leaves fixed ionized donors and acceptors, creating an internal electric field.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Forward bias",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ031",
+          "question": "Which statement best describes forward bias?",
+          "options": [
+            {
+              "label": "A",
+              "text": "increases the barrier greatly"
+            },
+            {
+              "label": "B",
+              "text": "Forward bias reduces the potential barrier of a PN junction"
+            },
+            {
+              "label": "C",
+              "text": "makes current impossible"
+            },
+            {
+              "label": "D",
+              "text": "removes the semiconductor"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Forward bias reduces the potential barrier of a PN junction",
+          "explanation": "Forward bias allows majority carriers to cross the junction more easily.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ032",
+          "question": "Which option is correctly associated with forward bias?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes the semiconductor"
+            },
+            {
+              "label": "B",
+              "text": "Forward bias reduces the potential barrier of a PN junction"
+            },
+            {
+              "label": "C",
+              "text": "makes current impossible"
+            },
+            {
+              "label": "D",
+              "text": "increases the barrier greatly"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Forward bias reduces the potential barrier of a PN junction",
+          "explanation": "Forward bias allows majority carriers to cross the junction more easily.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ033",
+          "question": "In a basic HSC Physics question about forward bias, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes the semiconductor"
+            },
+            {
+              "label": "B",
+              "text": "makes current impossible"
+            },
+            {
+              "label": "C",
+              "text": "increases the barrier greatly"
+            },
+            {
+              "label": "D",
+              "text": "Forward bias reduces the potential barrier of a PN junction"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Forward bias reduces the potential barrier of a PN junction",
+          "explanation": "Forward bias allows majority carriers to cross the junction more easily.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ034",
+          "question": "Which fact should be remembered about forward bias?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes the semiconductor"
+            },
+            {
+              "label": "B",
+              "text": "Forward bias reduces the potential barrier of a PN junction"
+            },
+            {
+              "label": "C",
+              "text": "increases the barrier greatly"
+            },
+            {
+              "label": "D",
+              "text": "makes current impossible"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Forward bias reduces the potential barrier of a PN junction",
+          "explanation": "Forward bias allows majority carriers to cross the junction more easily.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning forward bias?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes the semiconductor"
+            },
+            {
+              "label": "B",
+              "text": "Forward bias reduces the potential barrier of a PN junction"
+            },
+            {
+              "label": "C",
+              "text": "increases the barrier greatly"
+            },
+            {
+              "label": "D",
+              "text": "makes current impossible"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Forward bias reduces the potential barrier of a PN junction",
+          "explanation": "Forward bias allows majority carriers to cross the junction more easily.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Reverse bias",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ036",
+          "question": "Which statement best describes reverse bias?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reverse bias widens the depletion region and greatly reduces ordinary current"
+            },
+            {
+              "label": "B",
+              "text": "eliminates the depletion region"
+            },
+            {
+              "label": "C",
+              "text": "makes both sides metallic"
+            },
+            {
+              "label": "D",
+              "text": "causes unlimited current at any voltage"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Reverse bias widens the depletion region and greatly reduces ordinary current",
+          "explanation": "The applied field reinforces the junction's built-in barrier.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ037",
+          "question": "Which option is correctly associated with reverse bias?",
+          "options": [
+            {
+              "label": "A",
+              "text": "makes both sides metallic"
+            },
+            {
+              "label": "B",
+              "text": "eliminates the depletion region"
+            },
+            {
+              "label": "C",
+              "text": "Reverse bias widens the depletion region and greatly reduces ordinary current"
+            },
+            {
+              "label": "D",
+              "text": "causes unlimited current at any voltage"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Reverse bias widens the depletion region and greatly reduces ordinary current",
+          "explanation": "The applied field reinforces the junction's built-in barrier.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ038",
+          "question": "In a basic HSC Physics question about reverse bias, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "eliminates the depletion region"
+            },
+            {
+              "label": "B",
+              "text": "Reverse bias widens the depletion region and greatly reduces ordinary current"
+            },
+            {
+              "label": "C",
+              "text": "makes both sides metallic"
+            },
+            {
+              "label": "D",
+              "text": "causes unlimited current at any voltage"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Reverse bias widens the depletion region and greatly reduces ordinary current",
+          "explanation": "The applied field reinforces the junction's built-in barrier.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ039",
+          "question": "Which fact should be remembered about reverse bias?",
+          "options": [
+            {
+              "label": "A",
+              "text": "eliminates the depletion region"
+            },
+            {
+              "label": "B",
+              "text": "causes unlimited current at any voltage"
+            },
+            {
+              "label": "C",
+              "text": "Reverse bias widens the depletion region and greatly reduces ordinary current"
+            },
+            {
+              "label": "D",
+              "text": "makes both sides metallic"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Reverse bias widens the depletion region and greatly reduces ordinary current",
+          "explanation": "The applied field reinforces the junction's built-in barrier.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning reverse bias?",
+          "options": [
+            {
+              "label": "A",
+              "text": "causes unlimited current at any voltage"
+            },
+            {
+              "label": "B",
+              "text": "makes both sides metallic"
+            },
+            {
+              "label": "C",
+              "text": "Reverse bias widens the depletion region and greatly reduces ordinary current"
+            },
+            {
+              "label": "D",
+              "text": "eliminates the depletion region"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Reverse bias widens the depletion region and greatly reduces ordinary current",
+          "explanation": "The applied field reinforces the junction's built-in barrier.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Diode",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ041",
+          "question": "Which statement best describes diode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "never conducts"
+            },
+            {
+              "label": "B",
+              "text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other under normal operation"
+            },
+            {
+              "label": "C",
+              "text": "amplifies power without supply"
+            },
+            {
+              "label": "D",
+              "text": "conducts equally in both directions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other",
+          "explanation": "The PN junction gives a diode its rectifying behaviour.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ042",
+          "question": "Which option is correctly associated with diode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conducts equally in both directions"
+            },
+            {
+              "label": "B",
+              "text": "never conducts"
+            },
+            {
+              "label": "C",
+              "text": "amplifies power without supply"
+            },
+            {
+              "label": "D",
+              "text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other under normal operation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other",
+          "explanation": "The PN junction gives a diode its rectifying behaviour.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ043",
+          "question": "In a basic HSC Physics question about diode, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other under normal operation"
+            },
+            {
+              "label": "B",
+              "text": "conducts equally in both directions"
+            },
+            {
+              "label": "C",
+              "text": "never conducts"
+            },
+            {
+              "label": "D",
+              "text": "amplifies power without supply"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other",
+          "explanation": "The PN junction gives a diode its rectifying behaviour.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ044",
+          "question": "Which fact should be remembered about diode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "never conducts"
+            },
+            {
+              "label": "B",
+              "text": "amplifies power without supply"
+            },
+            {
+              "label": "C",
+              "text": "conducts equally in both directions"
+            },
+            {
+              "label": "D",
+              "text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other under normal operation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other",
+          "explanation": "The PN junction gives a diode its rectifying behaviour.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning diode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "amplifies power without supply"
+            },
+            {
+              "label": "B",
+              "text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other under normal operation"
+            },
+            {
+              "label": "C",
+              "text": "conducts equally in both directions"
+            },
+            {
+              "label": "D",
+              "text": "never conducts"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A semiconductor diode conducts readily in one direction and offers high resistance in the other",
+          "explanation": "The PN junction gives a diode its rectifying behaviour.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Transistor",
+      "questions": [
+        {
+          "id": "PHY_2P_CH10_MCQ046",
+          "question": "Which statement best describes transistor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anode, cathode and gate only"
+            },
+            {
+              "label": "B",
+              "text": "four identical terminals"
+            },
+            {
+              "label": "C",
+              "text": "A bipolar junction transistor has emitter, base and collector regions"
+            },
+            {
+              "label": "D",
+              "text": "two terminals only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A bipolar junction transistor has emitter, base and collector regions",
+          "explanation": "A BJT uses a small base current to control a larger collector current.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ047",
+          "question": "Which option is correctly associated with transistor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "two terminals only"
+            },
+            {
+              "label": "B",
+              "text": "anode, cathode and gate only"
+            },
+            {
+              "label": "C",
+              "text": "A bipolar junction transistor has emitter, base and collector regions"
+            },
+            {
+              "label": "D",
+              "text": "four identical terminals"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A bipolar junction transistor has emitter, base and collector regions",
+          "explanation": "A BJT uses a small base current to control a larger collector current.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ048",
+          "question": "In a basic HSC Physics question about transistor, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anode, cathode and gate only"
+            },
+            {
+              "label": "B",
+              "text": "A bipolar junction transistor has emitter, base and collector regions"
+            },
+            {
+              "label": "C",
+              "text": "two terminals only"
+            },
+            {
+              "label": "D",
+              "text": "four identical terminals"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A bipolar junction transistor has emitter, base and collector regions",
+          "explanation": "A BJT uses a small base current to control a larger collector current.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ049",
+          "question": "Which fact should be remembered about transistor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anode, cathode and gate only"
+            },
+            {
+              "label": "B",
+              "text": "A bipolar junction transistor has emitter, base and collector regions"
+            },
+            {
+              "label": "C",
+              "text": "two terminals only"
+            },
+            {
+              "label": "D",
+              "text": "four identical terminals"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A bipolar junction transistor has emitter, base and collector regions",
+          "explanation": "A BJT uses a small base current to control a larger collector current.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH10_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning transistor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "four identical terminals"
+            },
+            {
+              "label": "B",
+              "text": "two terminals only"
+            },
+            {
+              "label": "C",
+              "text": "anode, cathode and gate only"
+            },
+            {
+              "label": "D",
+              "text": "A bipolar junction transistor has emitter, base and collector regions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A bipolar junction transistor has emitter, base and collector regions",
+          "explanation": "A BJT uses a small base current to control a larger collector current.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

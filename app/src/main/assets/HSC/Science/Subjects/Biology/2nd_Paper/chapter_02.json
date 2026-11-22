@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 2,
+  "chapter_title": "Introduction to Animals",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH02_T01",
+      "topic_name": "Hydra",
+      "mcqs": [
+        {
+          "id": "BIO2_CH02_Q01",
+          "question": "Which term is correctly described as: cnidarian with radial symmetry and tentacles?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tracheal system"
+            },
+            {
+              "label": "B",
+              "text": "Hydra"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "cnidocyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Hydra",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q02",
+          "question": "The biological role or defining feature of Hydra is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "B",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "C",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "D",
+              "text": "specialised stinging cell in cnidarians"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "cnidarian with radial symmetry and tentacles",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q03",
+          "question": "A student records the following clue: “cnidarian with radial symmetry and tentacles.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tracheal system"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "Hydra"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Hydra",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q04",
+          "question": "Which option completes this statement correctly? Hydra is the term for cnidarian with radial symmetry and tentacles.",
+          "options": [
+            {
+              "label": "A",
+              "text": "tracheal system"
+            },
+            {
+              "label": "B",
+              "text": "grasshopper"
+            },
+            {
+              "label": "C",
+              "text": "Hydra"
+            },
+            {
+              "label": "D",
+              "text": "cnidocyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Hydra",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q05",
+          "question": "If an examination asks for the term associated with “cnidarian with radial symmetry and tentacles”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "B",
+              "text": "tracheal system"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "Hydra"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Hydra",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q06",
+          "question": "Which structure, process or concept matches the description “cnidarian with radial symmetry and tentacles”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "grasshopper"
+            },
+            {
+              "label": "B",
+              "text": "tracheal system"
+            },
+            {
+              "label": "C",
+              "text": "Hydra"
+            },
+            {
+              "label": "D",
+              "text": "rohu"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Hydra",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q07",
+          "question": "Choose the accurate statement about Hydra.",
+          "options": [
+            {
+              "label": "A",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "B",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "C",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "D",
+              "text": "respiratory system of grasshoppers"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "cnidarian with radial symmetry and tentacles",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q08",
+          "question": "A diagram or observation identifies Hydra. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "B",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "C",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "D",
+              "text": "bony fish that respires using gills"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "cnidarian with radial symmetry and tentacles",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q09",
+          "question": "Which pairing is correct for Hydra?",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "B",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "C",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "D",
+              "text": "cnidarian with radial symmetry and tentacles"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "cnidarian with radial symmetry and tentacles",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        },
+        {
+          "id": "BIO2_CH02_Q10",
+          "question": "In a topic review, which answer best explains the clue “cnidarian with radial symmetry and tentacles”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "grasshopper"
+            },
+            {
+              "label": "B",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "C",
+              "text": "Hydra"
+            },
+            {
+              "label": "D",
+              "text": "rohu"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Hydra",
+          "explanation": "Its tentacles bear cnidocytes used in prey capture."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH02_T02",
+      "topic_name": "Cnidocyte",
+      "mcqs": [
+        {
+          "id": "BIO2_CH02_Q11",
+          "question": "Which term is correctly described as: specialised stinging cell in cnidarians?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydra"
+            },
+            {
+              "label": "B",
+              "text": "tracheal system"
+            },
+            {
+              "label": "C",
+              "text": "rohu"
+            },
+            {
+              "label": "D",
+              "text": "cnidocyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "cnidocyte",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q12",
+          "question": "The biological role or defining feature of cnidocyte is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "B",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "C",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "D",
+              "text": "specialised stinging cell in cnidarians"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "specialised stinging cell in cnidarians",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q13",
+          "question": "A student records the following clue: “specialised stinging cell in cnidarians.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "B",
+              "text": "tracheal system"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "rohu"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cnidocyte",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q14",
+          "question": "Which option completes this statement correctly? cnidocyte is the term for specialised stinging cell in cnidarians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydra"
+            },
+            {
+              "label": "B",
+              "text": "tracheal system"
+            },
+            {
+              "label": "C",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "D",
+              "text": "rohu"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "cnidocyte",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q15",
+          "question": "If an examination asks for the term associated with “specialised stinging cell in cnidarians”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "B",
+              "text": "Hydra"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "rohu"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cnidocyte",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q16",
+          "question": "Which structure, process or concept matches the description “specialised stinging cell in cnidarians”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "B",
+              "text": "grasshopper"
+            },
+            {
+              "label": "C",
+              "text": "rohu"
+            },
+            {
+              "label": "D",
+              "text": "Hydra"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cnidocyte",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q17",
+          "question": "Choose the accurate statement about cnidocyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "B",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "C",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "D",
+              "text": "cnidarian with radial symmetry and tentacles"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "specialised stinging cell in cnidarians",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q18",
+          "question": "A diagram or observation identifies cnidocyte. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "B",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "C",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "D",
+              "text": "respiratory system of grasshoppers"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "specialised stinging cell in cnidarians",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q19",
+          "question": "Which pairing is correct for cnidocyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "B",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "C",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "D",
+              "text": "respiratory system of grasshoppers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "specialised stinging cell in cnidarians",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        },
+        {
+          "id": "BIO2_CH02_Q20",
+          "question": "In a topic review, which answer best explains the clue “specialised stinging cell in cnidarians”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "grasshopper"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "D",
+              "text": "Hydra"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "cnidocyte",
+          "explanation": "It contains a nematocyst used in prey capture or defence."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH02_T03",
+      "topic_name": "Grasshopper",
+      "mcqs": [
+        {
+          "id": "BIO2_CH02_Q21",
+          "question": "Which term is correctly described as: insect with a chitinous exoskeleton and jointed legs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "grasshopper"
+            },
+            {
+              "label": "B",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "C",
+              "text": "rohu"
+            },
+            {
+              "label": "D",
+              "text": "Hydra"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "grasshopper",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q22",
+          "question": "The biological role or defining feature of grasshopper is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "B",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "C",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "D",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "insect with a chitinous exoskeleton and jointed legs",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q23",
+          "question": "A student records the following clue: “insect with a chitinous exoskeleton and jointed legs.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydra"
+            },
+            {
+              "label": "B",
+              "text": "tracheal system"
+            },
+            {
+              "label": "C",
+              "text": "rohu"
+            },
+            {
+              "label": "D",
+              "text": "grasshopper"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "grasshopper",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q24",
+          "question": "Which option completes this statement correctly? grasshopper is the term for insect with a chitinous exoskeleton and jointed legs.",
+          "options": [
+            {
+              "label": "A",
+              "text": "grasshopper"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "Hydra"
+            },
+            {
+              "label": "D",
+              "text": "cnidocyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "grasshopper",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q25",
+          "question": "If an examination asks for the term associated with “insect with a chitinous exoskeleton and jointed legs”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "Hydra"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "grasshopper",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q26",
+          "question": "Which structure, process or concept matches the description “insect with a chitinous exoskeleton and jointed legs”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "tracheal system"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "grasshopper",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q27",
+          "question": "Choose the accurate statement about grasshopper.",
+          "options": [
+            {
+              "label": "A",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "B",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "C",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "D",
+              "text": "bony fish that respires using gills"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "insect with a chitinous exoskeleton and jointed legs",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q28",
+          "question": "A diagram or observation identifies grasshopper. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "B",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "C",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "D",
+              "text": "cnidarian with radial symmetry and tentacles"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "insect with a chitinous exoskeleton and jointed legs",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q29",
+          "question": "Which pairing is correct for grasshopper?",
+          "options": [
+            {
+              "label": "A",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "B",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "C",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "D",
+              "text": "cnidarian with radial symmetry and tentacles"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "insect with a chitinous exoskeleton and jointed legs",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        },
+        {
+          "id": "BIO2_CH02_Q30",
+          "question": "In a topic review, which answer best explains the clue “insect with a chitinous exoskeleton and jointed legs”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "grasshopper"
+            },
+            {
+              "label": "B",
+              "text": "Hydra"
+            },
+            {
+              "label": "C",
+              "text": "rohu"
+            },
+            {
+              "label": "D",
+              "text": "tracheal system"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "grasshopper",
+          "explanation": "Its body is supported and protected by the exoskeleton."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH02_T04",
+      "topic_name": "Tracheal System",
+      "mcqs": [
+        {
+          "id": "BIO2_CH02_Q31",
+          "question": "Which term is correctly described as: respiratory system of grasshoppers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rohu"
+            },
+            {
+              "label": "B",
+              "text": "tracheal system"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "cnidocyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "tracheal system",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q32",
+          "question": "The biological role or defining feature of tracheal system is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "B",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "C",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "D",
+              "text": "respiratory system of grasshoppers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "respiratory system of grasshoppers",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q33",
+          "question": "A student records the following clue: “respiratory system of grasshoppers.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydra"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "D",
+              "text": "tracheal system"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "tracheal system",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q34",
+          "question": "Which option completes this statement correctly? tracheal system is the term for respiratory system of grasshoppers.",
+          "options": [
+            {
+              "label": "A",
+              "text": "rohu"
+            },
+            {
+              "label": "B",
+              "text": "Hydra"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "tracheal system"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "tracheal system",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q35",
+          "question": "If an examination asks for the term associated with “respiratory system of grasshoppers”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "B",
+              "text": "grasshopper"
+            },
+            {
+              "label": "C",
+              "text": "tracheal system"
+            },
+            {
+              "label": "D",
+              "text": "rohu"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "tracheal system",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q36",
+          "question": "Which structure, process or concept matches the description “respiratory system of grasshoppers”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tracheal system"
+            },
+            {
+              "label": "B",
+              "text": "grasshopper"
+            },
+            {
+              "label": "C",
+              "text": "Hydra"
+            },
+            {
+              "label": "D",
+              "text": "rohu"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "tracheal system",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q37",
+          "question": "Choose the accurate statement about tracheal system.",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "B",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "C",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "D",
+              "text": "respiratory system of grasshoppers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "respiratory system of grasshoppers",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q38",
+          "question": "A diagram or observation identifies tracheal system. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "B",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "C",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "D",
+              "text": "specialised stinging cell in cnidarians"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "respiratory system of grasshoppers",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q39",
+          "question": "Which pairing is correct for tracheal system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "B",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "C",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "D",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "respiratory system of grasshoppers",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        },
+        {
+          "id": "BIO2_CH02_Q40",
+          "question": "In a topic review, which answer best explains the clue “respiratory system of grasshoppers”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tracheal system"
+            },
+            {
+              "label": "B",
+              "text": "Hydra"
+            },
+            {
+              "label": "C",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "D",
+              "text": "grasshopper"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "tracheal system",
+          "explanation": "Air passes through spiracles into branching tracheae and tracheoles."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH02_T05",
+      "topic_name": "Rohu",
+      "mcqs": [
+        {
+          "id": "BIO2_CH02_Q41",
+          "question": "Which term is correctly described as: bony fish that respires using gills?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tracheal system"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "Hydra"
+            },
+            {
+              "label": "D",
+              "text": "grasshopper"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "rohu",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q42",
+          "question": "The biological role or defining feature of rohu is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "B",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "C",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "D",
+              "text": "specialised stinging cell in cnidarians"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "bony fish that respires using gills",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q43",
+          "question": "A student records the following clue: “bony fish that respires using gills.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "Hydra"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "rohu",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q44",
+          "question": "Which option completes this statement correctly? rohu is the term for bony fish that respires using gills.",
+          "options": [
+            {
+              "label": "A",
+              "text": "tracheal system"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "cnidocyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "rohu",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q45",
+          "question": "If an examination asks for the term associated with “bony fish that respires using gills”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rohu"
+            },
+            {
+              "label": "B",
+              "text": "grasshopper"
+            },
+            {
+              "label": "C",
+              "text": "Hydra"
+            },
+            {
+              "label": "D",
+              "text": "tracheal system"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "rohu",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q46",
+          "question": "Which structure, process or concept matches the description “bony fish that respires using gills”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydra"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "cnidocyte"
+            },
+            {
+              "label": "D",
+              "text": "grasshopper"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "rohu",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q47",
+          "question": "Choose the accurate statement about rohu.",
+          "options": [
+            {
+              "label": "A",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            },
+            {
+              "label": "B",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "C",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "D",
+              "text": "bony fish that respires using gills"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bony fish that respires using gills",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q48",
+          "question": "A diagram or observation identifies rohu. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "B",
+              "text": "respiratory system of grasshoppers"
+            },
+            {
+              "label": "C",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "D",
+              "text": "insect with a chitinous exoskeleton and jointed legs"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bony fish that respires using gills",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q49",
+          "question": "Which pairing is correct for rohu?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cnidarian with radial symmetry and tentacles"
+            },
+            {
+              "label": "B",
+              "text": "bony fish that respires using gills"
+            },
+            {
+              "label": "C",
+              "text": "specialised stinging cell in cnidarians"
+            },
+            {
+              "label": "D",
+              "text": "respiratory system of grasshoppers"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "bony fish that respires using gills",
+          "explanation": "Gills extract dissolved oxygen from water."
+        },
+        {
+          "id": "BIO2_CH02_Q50",
+          "question": "In a topic review, which answer best explains the clue “bony fish that respires using gills”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydra"
+            },
+            {
+              "label": "B",
+              "text": "rohu"
+            },
+            {
+              "label": "C",
+              "text": "grasshopper"
+            },
+            {
+              "label": "D",
+              "text": "cnidocyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "rohu",
+          "explanation": "Gills extract dissolved oxygen from water."
+        }
+      ]
+    }
+  ]
+}

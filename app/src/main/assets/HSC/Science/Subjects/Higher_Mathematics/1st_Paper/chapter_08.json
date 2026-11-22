@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 8,
+  "chapter_title": "Functions and Graphs of Functions",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Function Evaluation",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q001",
+          "question": "If f(x)=2x+(3), what is f(4)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "11",
+          "explanation": "Substitute x=4 into f(x); the value is 11.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q002",
+          "question": "If f(x)=3x+(1), what is f(5)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "15"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "17"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "16",
+          "explanation": "Substitute x=5 into f(x); the value is 16.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q003",
+          "question": "If f(x)=-2x+(5), what is f(3)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "-2"
+            },
+            {
+              "label": "C",
+              "text": "-1"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-1",
+          "explanation": "Substitute x=3 into f(x); the value is -1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q004",
+          "question": "If f(x)=4x+(-1), what is f(2)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "8"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "7",
+          "explanation": "Substitute x=2 into f(x); the value is 7.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q005",
+          "question": "If f(x)=5x+(2), what is f(-2)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-8"
+            },
+            {
+              "label": "B",
+              "text": "-9"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "-7"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-8",
+          "explanation": "Substitute x=-2 into f(x); the value is -8.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Domain",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q006",
+          "question": "What is the domain of f(x)=1/(x−(-4))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>-4"
+            },
+            {
+              "label": "B",
+              "text": "ℝ\\{-4}"
+            },
+            {
+              "label": "C",
+              "text": "x<-4"
+            },
+            {
+              "label": "D",
+              "text": "ℝ\\{4}"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ℝ\\{-4}",
+          "explanation": "A denominator cannot be zero, so exclude x=-4; the domain is ℝ\\{-4}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q007",
+          "question": "What is the domain of f(x)=1/(x−(-2))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ℝ\\{2}"
+            },
+            {
+              "label": "B",
+              "text": "x<-2"
+            },
+            {
+              "label": "C",
+              "text": "ℝ\\{-2}"
+            },
+            {
+              "label": "D",
+              "text": "x>-2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ℝ\\{-2}",
+          "explanation": "A denominator cannot be zero, so exclude x=-2; the domain is ℝ\\{-2}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q008",
+          "question": "What is the domain of f(x)=1/(x−(1))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ℝ\\{-1}"
+            },
+            {
+              "label": "B",
+              "text": "x<1"
+            },
+            {
+              "label": "C",
+              "text": "x>1"
+            },
+            {
+              "label": "D",
+              "text": "ℝ\\{1}"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ℝ\\{1}",
+          "explanation": "A denominator cannot be zero, so exclude x=1; the domain is ℝ\\{1}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q009",
+          "question": "What is the domain of f(x)=1/(x−(3))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ℝ\\{3}"
+            },
+            {
+              "label": "B",
+              "text": "ℝ\\{-3}"
+            },
+            {
+              "label": "C",
+              "text": "x>3"
+            },
+            {
+              "label": "D",
+              "text": "x<3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ℝ\\{3}",
+          "explanation": "A denominator cannot be zero, so exclude x=3; the domain is ℝ\\{3}.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q010",
+          "question": "What is the domain of f(x)=1/(x−(5))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>5"
+            },
+            {
+              "label": "B",
+              "text": "ℝ\\{5}"
+            },
+            {
+              "label": "C",
+              "text": "x<5"
+            },
+            {
+              "label": "D",
+              "text": "ℝ\\{-5}"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ℝ\\{5}",
+          "explanation": "A denominator cannot be zero, so exclude x=5; the domain is ℝ\\{5}.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Square-root Functions",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q011",
+          "question": "What is the real domain of f(x)=√(x−(-3))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤-3"
+            },
+            {
+              "label": "B",
+              "text": "x≠-3"
+            },
+            {
+              "label": "C",
+              "text": "x≥-3"
+            },
+            {
+              "label": "D",
+              "text": "x>-2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x≥-3",
+          "explanation": "The radicand must be nonnegative: x−(-3)≥0; therefore x≥-3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q012",
+          "question": "What is the real domain of f(x)=√(x−(-1))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>0"
+            },
+            {
+              "label": "B",
+              "text": "x≠-1"
+            },
+            {
+              "label": "C",
+              "text": "x≤-1"
+            },
+            {
+              "label": "D",
+              "text": "x≥-1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x≥-1",
+          "explanation": "The radicand must be nonnegative: x−(-1)≥0; therefore x≥-1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q013",
+          "question": "What is the real domain of f(x)=√(x−(2))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≥2"
+            },
+            {
+              "label": "B",
+              "text": "x>3"
+            },
+            {
+              "label": "C",
+              "text": "x≤2"
+            },
+            {
+              "label": "D",
+              "text": "x≠2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x≥2",
+          "explanation": "The radicand must be nonnegative: x−(2)≥0; therefore x≥2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q014",
+          "question": "What is the real domain of f(x)=√(x−(4))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤4"
+            },
+            {
+              "label": "B",
+              "text": "x≥4"
+            },
+            {
+              "label": "C",
+              "text": "x≠4"
+            },
+            {
+              "label": "D",
+              "text": "x>5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x≥4",
+          "explanation": "The radicand must be nonnegative: x−(4)≥0; therefore x≥4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q015",
+          "question": "What is the real domain of f(x)=√(x−(6))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≠6"
+            },
+            {
+              "label": "B",
+              "text": "x≤6"
+            },
+            {
+              "label": "C",
+              "text": "x≥6"
+            },
+            {
+              "label": "D",
+              "text": "x>7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x≥6",
+          "explanation": "The radicand must be nonnegative: x−(6)≥0; therefore x≥6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Inverse Functions",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q016",
+          "question": "If f(x)=2x+(3), which expression gives f⁻¹(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x−(2))/3"
+            },
+            {
+              "label": "B",
+              "text": "(x+(3))/2"
+            },
+            {
+              "label": "C",
+              "text": "2x−(3)"
+            },
+            {
+              "label": "D",
+              "text": "(x−(3))/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(x−(3))/2",
+          "explanation": "Solve y=2x+(3) for x, then replace y with x; the inverse is (x−(3))/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q017",
+          "question": "If f(x)=3x+(-1), which expression gives f⁻¹(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x−(-1))/3"
+            },
+            {
+              "label": "B",
+              "text": "(x−(3))/-1"
+            },
+            {
+              "label": "C",
+              "text": "3x−(-1)"
+            },
+            {
+              "label": "D",
+              "text": "(x+(-1))/3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(x−(-1))/3",
+          "explanation": "Solve y=3x+(-1) for x, then replace y with x; the inverse is (x−(-1))/3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q018",
+          "question": "If f(x)=-2x+(5), which expression gives f⁻¹(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x+(5))/-2"
+            },
+            {
+              "label": "B",
+              "text": "(x−(5))/-2"
+            },
+            {
+              "label": "C",
+              "text": "-2x−(5)"
+            },
+            {
+              "label": "D",
+              "text": "(x−(-2))/5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(x−(5))/-2",
+          "explanation": "Solve y=-2x+(5) for x, then replace y with x; the inverse is (x−(5))/-2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q019",
+          "question": "If f(x)=4x+(1), which expression gives f⁻¹(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x−(4))/1"
+            },
+            {
+              "label": "B",
+              "text": "(x+(1))/4"
+            },
+            {
+              "label": "C",
+              "text": "(x−(1))/4"
+            },
+            {
+              "label": "D",
+              "text": "4x−(1)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "(x−(1))/4",
+          "explanation": "Solve y=4x+(1) for x, then replace y with x; the inverse is (x−(1))/4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q020",
+          "question": "If f(x)=5x+(-2), which expression gives f⁻¹(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5x−(-2)"
+            },
+            {
+              "label": "B",
+              "text": "(x+(-2))/5"
+            },
+            {
+              "label": "C",
+              "text": "(x−(5))/-2"
+            },
+            {
+              "label": "D",
+              "text": "(x−(-2))/5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(x−(-2))/5",
+          "explanation": "Solve y=5x+(-2) for x, then replace y with x; the inverse is (x−(-2))/5.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Composite Functions",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q021",
+          "question": "If f(x)=2x+(1) and g(x)=x², find (f∘g)(3).",
+          "options": [
+            {
+              "label": "A",
+              "text": "19"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "18"
+            },
+            {
+              "label": "D",
+              "text": "20"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "19",
+          "explanation": "Calculate g(3) first and then apply f; the value is 19.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q022",
+          "question": "If f(x)=3x+(2) and g(x)=x², find (f∘g)(4).",
+          "options": [
+            {
+              "label": "A",
+              "text": "14"
+            },
+            {
+              "label": "B",
+              "text": "50"
+            },
+            {
+              "label": "C",
+              "text": "49"
+            },
+            {
+              "label": "D",
+              "text": "51"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "50",
+          "explanation": "Calculate g(4) first and then apply f; the value is 50.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q023",
+          "question": "If f(x)=-2x+(3) and g(x)=x², find (f∘g)(5).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-48"
+            },
+            {
+              "label": "B",
+              "text": "-46"
+            },
+            {
+              "label": "C",
+              "text": "-47"
+            },
+            {
+              "label": "D",
+              "text": "-7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-47",
+          "explanation": "Calculate g(5) first and then apply f; the value is -47.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q024",
+          "question": "If f(x)=4x+(-1) and g(x)=x², find (f∘g)(2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "14"
+            },
+            {
+              "label": "D",
+              "text": "15"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "15",
+          "explanation": "Calculate g(2) first and then apply f; the value is 15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q025",
+          "question": "If f(x)=5x+(4) and g(x)=x², find (f∘g)(-2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "24"
+            },
+            {
+              "label": "B",
+              "text": "25"
+            },
+            {
+              "label": "C",
+              "text": "-6"
+            },
+            {
+              "label": "D",
+              "text": "23"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "24",
+          "explanation": "Calculate g(-2) first and then apply f; the value is 24.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Zeros of Functions",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q026",
+          "question": "Where does the function f(x)=2x+(6) have a zero?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "-3"
+            },
+            {
+              "label": "C",
+              "text": "-4"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-3",
+          "explanation": "Set f(x)=0 and solve the linear equation; x=-3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q027",
+          "question": "Where does the function f(x)=3x+(-9) have a zero?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "-3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3",
+          "explanation": "Set f(x)=0 and solve the linear equation; x=3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q028",
+          "question": "Where does the function f(x)=-2x+(8) have a zero?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4",
+          "explanation": "Set f(x)=0 and solve the linear equation; x=4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q029",
+          "question": "Where does the function f(x)=4x+(12) have a zero?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "-4"
+            },
+            {
+              "label": "C",
+              "text": "-2"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-3",
+          "explanation": "Set f(x)=0 and solve the linear equation; x=-3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q030",
+          "question": "Where does the function f(x)=5x+(-15) have a zero?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "-3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3",
+          "explanation": "Set f(x)=0 and solve the linear equation; x=3.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Parabola Graphs",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q031",
+          "question": "Find the x-coordinate of the vertex of y=(x−(2))²+(3).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2",
+          "explanation": "A parabola y=(x−h)²+k has vertex (h,k), so its x-coordinate is 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q032",
+          "question": "Find the x-coordinate of the vertex of y=(x−(-1))²+(4).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "-2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-1",
+          "explanation": "A parabola y=(x−h)²+k has vertex (h,k), so its x-coordinate is -1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q033",
+          "question": "Find the x-coordinate of the vertex of y=(x−(3))²+(-2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "-3"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3",
+          "explanation": "A parabola y=(x−h)²+k has vertex (h,k), so its x-coordinate is 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q034",
+          "question": "Find the x-coordinate of the vertex of y=(x−(0))²+(5).",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "0",
+          "explanation": "A parabola y=(x−h)²+k has vertex (h,k), so its x-coordinate is 0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q035",
+          "question": "Find the x-coordinate of the vertex of y=(x−(-4))²+(1).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "-4"
+            },
+            {
+              "label": "D",
+              "text": "-5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-4",
+          "explanation": "A parabola y=(x−h)²+k has vertex (h,k), so its x-coordinate is -4.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Even and Odd Functions",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q036",
+          "question": "Classify the function f(x)=x^2 as even, odd or neither.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Odd function"
+            },
+            {
+              "label": "B",
+              "text": "Periodic function"
+            },
+            {
+              "label": "C",
+              "text": "None of these"
+            },
+            {
+              "label": "D",
+              "text": "Even function"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Even function",
+          "explanation": "Compare f(−x) with f(x) and −f(x); the correct classification is Even function.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C08-Q037",
+          "question": "Classify the function f(x)=x^4 as even, odd or neither.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Even function"
+            },
+            {
+              "label": "B",
+              "text": "Odd function"
+            },
+            {
+              "label": "C",
+              "text": "None of these"
+            },
+            {
+              "label": "D",
+              "text": "Periodic function"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Even function",
+          "explanation": "Compare f(−x) with f(x) and −f(x); the correct classification is Even function.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C08-Q038",
+          "question": "Classify the function f(x)=x^6 as even, odd or neither.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Periodic function"
+            },
+            {
+              "label": "B",
+              "text": "Even function"
+            },
+            {
+              "label": "C",
+              "text": "None of these"
+            },
+            {
+              "label": "D",
+              "text": "Odd function"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Even function",
+          "explanation": "Compare f(−x) with f(x) and −f(x); the correct classification is Even function.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C08-Q039",
+          "question": "Classify the function f(x)=x^8 as even, odd or neither.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Odd function"
+            },
+            {
+              "label": "B",
+              "text": "Periodic function"
+            },
+            {
+              "label": "C",
+              "text": "Even function"
+            },
+            {
+              "label": "D",
+              "text": "None of these"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Even function",
+          "explanation": "Compare f(−x) with f(x) and −f(x); the correct classification is Even function.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C08-Q040",
+          "question": "Classify the function f(x)=x^10 as even, odd or neither.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Odd function"
+            },
+            {
+              "label": "B",
+              "text": "Periodic function"
+            },
+            {
+              "label": "C",
+              "text": "None of these"
+            },
+            {
+              "label": "D",
+              "text": "Even function"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Even function",
+          "explanation": "Compare f(−x) with f(x) and −f(x); the correct classification is Even function.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Graph Translations",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q041",
+          "question": "For f(x)=x², describe the horizontal translation in y=f(x−(-3)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "3 units left"
+            },
+            {
+              "label": "B",
+              "text": "3 units right"
+            },
+            {
+              "label": "C",
+              "text": "3 units downward"
+            },
+            {
+              "label": "D",
+              "text": "3 units upward"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3 units left",
+          "explanation": "For y=f(x−h), h>0 shifts right and h<0 shifts left. The shift is 3 units left.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q042",
+          "question": "For f(x)=x², describe the horizontal translation in y=f(x−(-1)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 units right"
+            },
+            {
+              "label": "B",
+              "text": "1 units left"
+            },
+            {
+              "label": "C",
+              "text": "1 units downward"
+            },
+            {
+              "label": "D",
+              "text": "1 units upward"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1 units left",
+          "explanation": "For y=f(x−h), h>0 shifts right and h<0 shifts left. The shift is 1 units left.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q043",
+          "question": "For f(x)=x², describe the horizontal translation in y=f(x−(2)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "2 units left"
+            },
+            {
+              "label": "B",
+              "text": "2 units upward"
+            },
+            {
+              "label": "C",
+              "text": "2 units right"
+            },
+            {
+              "label": "D",
+              "text": "2 units downward"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2 units right",
+          "explanation": "For y=f(x−h), h>0 shifts right and h<0 shifts left. The shift is 2 units right.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q044",
+          "question": "For f(x)=x², describe the horizontal translation in y=f(x−(4)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "4 units downward"
+            },
+            {
+              "label": "B",
+              "text": "4 units left"
+            },
+            {
+              "label": "C",
+              "text": "4 units upward"
+            },
+            {
+              "label": "D",
+              "text": "4 units right"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4 units right",
+          "explanation": "For y=f(x−h), h>0 shifts right and h<0 shifts left. The shift is 4 units right.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q045",
+          "question": "For f(x)=x², describe the horizontal translation in y=f(x−(6)).",
+          "options": [
+            {
+              "label": "A",
+              "text": "6 units right"
+            },
+            {
+              "label": "B",
+              "text": "6 units left"
+            },
+            {
+              "label": "C",
+              "text": "6 units downward"
+            },
+            {
+              "label": "D",
+              "text": "6 units upward"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6 units right",
+          "explanation": "For y=f(x−h), h>0 shifts right and h<0 shifts left. The shift is 6 units right.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Range",
+      "questions": [
+        {
+          "id": "HM-P1-C08-Q046",
+          "question": "What is the range of f(x)=(x−(1))²+(2)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "All real numbers"
+            },
+            {
+              "label": "B",
+              "text": "y≥2"
+            },
+            {
+              "label": "C",
+              "text": "y>3"
+            },
+            {
+              "label": "D",
+              "text": "y≤2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "y≥2",
+          "explanation": "A square is nonnegative, so the minimum output is 2; the range is y≥2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q047",
+          "question": "What is the range of f(x)=(x−(-2))²+(-1)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "y>0"
+            },
+            {
+              "label": "B",
+              "text": "y≤-1"
+            },
+            {
+              "label": "C",
+              "text": "y≥-1"
+            },
+            {
+              "label": "D",
+              "text": "All real numbers"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "y≥-1",
+          "explanation": "A square is nonnegative, so the minimum output is -1; the range is y≥-1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q048",
+          "question": "What is the range of f(x)=(x−(3))²+(5)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "y≤5"
+            },
+            {
+              "label": "B",
+              "text": "All real numbers"
+            },
+            {
+              "label": "C",
+              "text": "y>6"
+            },
+            {
+              "label": "D",
+              "text": "y≥5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "y≥5",
+          "explanation": "A square is nonnegative, so the minimum output is 5; the range is y≥5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q049",
+          "question": "What is the range of f(x)=(x−(0))²+(4)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "y≥4"
+            },
+            {
+              "label": "B",
+              "text": "y>5"
+            },
+            {
+              "label": "C",
+              "text": "y≤4"
+            },
+            {
+              "label": "D",
+              "text": "All real numbers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "y≥4",
+          "explanation": "A square is nonnegative, so the minimum output is 4; the range is y≥4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C08-Q050",
+          "question": "What is the range of f(x)=(x−(4))²+(-3)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "y>-2"
+            },
+            {
+              "label": "B",
+              "text": "y≥-3"
+            },
+            {
+              "label": "C",
+              "text": "y≤-3"
+            },
+            {
+              "label": "D",
+              "text": "All real numbers"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "y≥-3",
+          "explanation": "A square is nonnegative, so the minimum output is -3; the range is y≥-3.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 9,
+  "chapter_title": "Differentiation",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Power Rule",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q001",
+          "question": "Differentiate x^2 with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2x^1"
+            },
+            {
+              "label": "B",
+              "text": "2x^2"
+            },
+            {
+              "label": "C",
+              "text": "3x^2"
+            },
+            {
+              "label": "D",
+              "text": "x^1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2x^1",
+          "explanation": "By the power rule d(xⁿ)/dx=nxⁿ⁻¹, the derivative is 2x^1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C09-Q002",
+          "question": "Differentiate x^3 with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4x^3"
+            },
+            {
+              "label": "B",
+              "text": "3x^2"
+            },
+            {
+              "label": "C",
+              "text": "3x^3"
+            },
+            {
+              "label": "D",
+              "text": "x^2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3x^2",
+          "explanation": "By the power rule d(xⁿ)/dx=nxⁿ⁻¹, the derivative is 3x^2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C09-Q003",
+          "question": "Differentiate x^4 with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x^3"
+            },
+            {
+              "label": "B",
+              "text": "5x^4"
+            },
+            {
+              "label": "C",
+              "text": "4x^3"
+            },
+            {
+              "label": "D",
+              "text": "4x^4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4x^3",
+          "explanation": "By the power rule d(xⁿ)/dx=nxⁿ⁻¹, the derivative is 4x^3.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C09-Q004",
+          "question": "Differentiate x^5 with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5x^5"
+            },
+            {
+              "label": "B",
+              "text": "x^4"
+            },
+            {
+              "label": "C",
+              "text": "6x^5"
+            },
+            {
+              "label": "D",
+              "text": "5x^4"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5x^4",
+          "explanation": "By the power rule d(xⁿ)/dx=nxⁿ⁻¹, the derivative is 5x^4.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C09-Q005",
+          "question": "Differentiate x^6 with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6x^5"
+            },
+            {
+              "label": "B",
+              "text": "x^5"
+            },
+            {
+              "label": "C",
+              "text": "7x^6"
+            },
+            {
+              "label": "D",
+              "text": "6x^6"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6x^5",
+          "explanation": "By the power rule d(xⁿ)/dx=nxⁿ⁻¹, the derivative is 6x^5.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Constant Multiples",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q006",
+          "question": "Find d/dx(2x^3).",
+          "options": [
+            {
+              "label": "A",
+              "text": "5x^2"
+            },
+            {
+              "label": "B",
+              "text": "6x^2"
+            },
+            {
+              "label": "C",
+              "text": "2x^2"
+            },
+            {
+              "label": "D",
+              "text": "6x^3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "6x^2",
+          "explanation": "The constant multiple and power rules give 6x^2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q007",
+          "question": "Find d/dx(-3x^2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1x^1"
+            },
+            {
+              "label": "B",
+              "text": "-3x^1"
+            },
+            {
+              "label": "C",
+              "text": "-6x^1"
+            },
+            {
+              "label": "D",
+              "text": "-6x^2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-6x^1",
+          "explanation": "The constant multiple and power rules give -6x^1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q008",
+          "question": "Find d/dx(4x^4).",
+          "options": [
+            {
+              "label": "A",
+              "text": "8x^3"
+            },
+            {
+              "label": "B",
+              "text": "16x^4"
+            },
+            {
+              "label": "C",
+              "text": "4x^3"
+            },
+            {
+              "label": "D",
+              "text": "16x^3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "16x^3",
+          "explanation": "The constant multiple and power rules give 16x^3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q009",
+          "question": "Find d/dx(5x^2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "10x^1"
+            },
+            {
+              "label": "B",
+              "text": "10x^2"
+            },
+            {
+              "label": "C",
+              "text": "7x^1"
+            },
+            {
+              "label": "D",
+              "text": "5x^1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10x^1",
+          "explanation": "The constant multiple and power rules give 10x^1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q010",
+          "question": "Find d/dx(-2x^5).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2x^4"
+            },
+            {
+              "label": "B",
+              "text": "-10x^4"
+            },
+            {
+              "label": "C",
+              "text": "-10x^5"
+            },
+            {
+              "label": "D",
+              "text": "3x^4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-10x^4",
+          "explanation": "The constant multiple and power rules give -10x^4.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Exponential Functions",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q011",
+          "question": "Find d/dx[e^(2x)].",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(2x)"
+            },
+            {
+              "label": "B",
+              "text": "2e^x"
+            },
+            {
+              "label": "C",
+              "text": "2e^(2x)"
+            },
+            {
+              "label": "D",
+              "text": "3e^(2x)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2e^(2x)",
+          "explanation": "By the chain rule, d(eᵘ)/dx=eᵘu′, so the derivative is 2e^(2x).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q012",
+          "question": "Find d/dx[e^(3x)].",
+          "options": [
+            {
+              "label": "A",
+              "text": "4e^(3x)"
+            },
+            {
+              "label": "B",
+              "text": "3e^x"
+            },
+            {
+              "label": "C",
+              "text": "e^(3x)"
+            },
+            {
+              "label": "D",
+              "text": "3e^(3x)"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "3e^(3x)",
+          "explanation": "By the chain rule, d(eᵘ)/dx=eᵘu′, so the derivative is 3e^(3x).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q013",
+          "question": "Find d/dx[e^(4x)].",
+          "options": [
+            {
+              "label": "A",
+              "text": "4e^(4x)"
+            },
+            {
+              "label": "B",
+              "text": "e^(4x)"
+            },
+            {
+              "label": "C",
+              "text": "4e^x"
+            },
+            {
+              "label": "D",
+              "text": "5e^(4x)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4e^(4x)",
+          "explanation": "By the chain rule, d(eᵘ)/dx=eᵘu′, so the derivative is 4e^(4x).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q014",
+          "question": "Find d/dx[e^(5x)].",
+          "options": [
+            {
+              "label": "A",
+              "text": "5e^x"
+            },
+            {
+              "label": "B",
+              "text": "5e^(5x)"
+            },
+            {
+              "label": "C",
+              "text": "e^(5x)"
+            },
+            {
+              "label": "D",
+              "text": "6e^(5x)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5e^(5x)",
+          "explanation": "By the chain rule, d(eᵘ)/dx=eᵘu′, so the derivative is 5e^(5x).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q015",
+          "question": "Find d/dx[e^(6x)].",
+          "options": [
+            {
+              "label": "A",
+              "text": "6e^x"
+            },
+            {
+              "label": "B",
+              "text": "7e^(6x)"
+            },
+            {
+              "label": "C",
+              "text": "6e^(6x)"
+            },
+            {
+              "label": "D",
+              "text": "e^(6x)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "6e^(6x)",
+          "explanation": "By the chain rule, d(eᵘ)/dx=eᵘu′, so the derivative is 6e^(6x).",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Trigonometric Derivatives",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q016",
+          "question": "Find d/dx(sin x), with x measured in radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−cos x"
+            },
+            {
+              "label": "B",
+              "text": "−sin x"
+            },
+            {
+              "label": "C",
+              "text": "sin x"
+            },
+            {
+              "label": "D",
+              "text": "cos x"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "cos x",
+          "explanation": "Use the standard derivative of the stated trigonometric function (in radians): cos x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q017",
+          "question": "Find d/dx(cos x), with x measured in radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−sin x"
+            },
+            {
+              "label": "B",
+              "text": "cos x"
+            },
+            {
+              "label": "C",
+              "text": "−cos x"
+            },
+            {
+              "label": "D",
+              "text": "sin x"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "−sin x",
+          "explanation": "Use the standard derivative of the stated trigonometric function (in radians): −sin x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q018",
+          "question": "Find d/dx(tan x), with x measured in radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "sec x"
+            },
+            {
+              "label": "B",
+              "text": "sec² x"
+            },
+            {
+              "label": "C",
+              "text": "cosec² x"
+            },
+            {
+              "label": "D",
+              "text": "−sec² x"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "sec² x",
+          "explanation": "Use the standard derivative of the stated trigonometric function (in radians): sec² x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q019",
+          "question": "Find d/dx(sec x), with x measured in radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "tan x"
+            },
+            {
+              "label": "B",
+              "text": "sec² x"
+            },
+            {
+              "label": "C",
+              "text": "sec x tan x"
+            },
+            {
+              "label": "D",
+              "text": "−sec x tan x"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "sec x tan x",
+          "explanation": "Use the standard derivative of the stated trigonometric function (in radians): sec x tan x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q020",
+          "question": "Find d/dx(cot x), with x measured in radians.",
+          "options": [
+            {
+              "label": "A",
+              "text": "cosec² x"
+            },
+            {
+              "label": "B",
+              "text": "−sec² x"
+            },
+            {
+              "label": "C",
+              "text": "sec² x"
+            },
+            {
+              "label": "D",
+              "text": "−cosec² x"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "−cosec² x",
+          "explanation": "Use the standard derivative of the stated trigonometric function (in radians): −cosec² x.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Chain Rule",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q021",
+          "question": "Find d/dx[(2x+1)^3].",
+          "options": [
+            {
+              "label": "A",
+              "text": "6(2x+1)^2"
+            },
+            {
+              "label": "B",
+              "text": "6(2x+1)^3"
+            },
+            {
+              "label": "C",
+              "text": "2(2x+1)^2"
+            },
+            {
+              "label": "D",
+              "text": "3(2x+1)^2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6(2x+1)^2",
+          "explanation": "Use the chain rule: differentiate the outer power and multiply by the inner derivative, obtaining 6(2x+1)^2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q022",
+          "question": "Find d/dx[(3x+1)^2].",
+          "options": [
+            {
+              "label": "A",
+              "text": "3(3x+1)^1"
+            },
+            {
+              "label": "B",
+              "text": "6(3x+1)^1"
+            },
+            {
+              "label": "C",
+              "text": "2(3x+1)^1"
+            },
+            {
+              "label": "D",
+              "text": "6(3x+1)^2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "6(3x+1)^1",
+          "explanation": "Use the chain rule: differentiate the outer power and multiply by the inner derivative, obtaining 6(3x+1)^1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q023",
+          "question": "Find d/dx[(4x+1)^3].",
+          "options": [
+            {
+              "label": "A",
+              "text": "12(4x+1)^3"
+            },
+            {
+              "label": "B",
+              "text": "3(4x+1)^2"
+            },
+            {
+              "label": "C",
+              "text": "12(4x+1)^2"
+            },
+            {
+              "label": "D",
+              "text": "4(4x+1)^2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "12(4x+1)^2",
+          "explanation": "Use the chain rule: differentiate the outer power and multiply by the inner derivative, obtaining 12(4x+1)^2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q024",
+          "question": "Find d/dx[(5x+1)^2].",
+          "options": [
+            {
+              "label": "A",
+              "text": "5(5x+1)^1"
+            },
+            {
+              "label": "B",
+              "text": "10(5x+1)^2"
+            },
+            {
+              "label": "C",
+              "text": "2(5x+1)^1"
+            },
+            {
+              "label": "D",
+              "text": "10(5x+1)^1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "10(5x+1)^1",
+          "explanation": "Use the chain rule: differentiate the outer power and multiply by the inner derivative, obtaining 10(5x+1)^1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q025",
+          "question": "Find d/dx[(2x+1)^5].",
+          "options": [
+            {
+              "label": "A",
+              "text": "10(2x+1)^4"
+            },
+            {
+              "label": "B",
+              "text": "5(2x+1)^4"
+            },
+            {
+              "label": "C",
+              "text": "2(2x+1)^4"
+            },
+            {
+              "label": "D",
+              "text": "10(2x+1)^5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10(2x+1)^4",
+          "explanation": "Use the chain rule: differentiate the outer power and multiply by the inner derivative, obtaining 10(2x+1)^4.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Logarithmic Derivatives",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q026",
+          "question": "Find d/dx[ln(2x)] for x>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/(2x²)"
+            },
+            {
+              "label": "B",
+              "text": "1/x"
+            },
+            {
+              "label": "C",
+              "text": "2/(2x+1)"
+            },
+            {
+              "label": "D",
+              "text": "2/x"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1/x",
+          "explanation": "The logarithmic chain rule gives u′/u; hence the derivative is 1/x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q027",
+          "question": "Find d/dx[ln(3x)] for x>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3/x"
+            },
+            {
+              "label": "B",
+              "text": "1/(3x²)"
+            },
+            {
+              "label": "C",
+              "text": "1/x"
+            },
+            {
+              "label": "D",
+              "text": "3/(3x+1)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1/x",
+          "explanation": "The logarithmic chain rule gives u′/u; hence the derivative is 1/x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q028",
+          "question": "Find d/dx[ln(4x)] for x>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4/x"
+            },
+            {
+              "label": "B",
+              "text": "1/(4x²)"
+            },
+            {
+              "label": "C",
+              "text": "4/(4x+1)"
+            },
+            {
+              "label": "D",
+              "text": "1/x"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1/x",
+          "explanation": "The logarithmic chain rule gives u′/u; hence the derivative is 1/x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q029",
+          "question": "Find d/dx[ln(5x)] for x>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/x"
+            },
+            {
+              "label": "B",
+              "text": "5/(5x+1)"
+            },
+            {
+              "label": "C",
+              "text": "5/x"
+            },
+            {
+              "label": "D",
+              "text": "1/(5x²)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1/x",
+          "explanation": "The logarithmic chain rule gives u′/u; hence the derivative is 1/x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q030",
+          "question": "Find d/dx[ln(6x)] for x>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/(6x²)"
+            },
+            {
+              "label": "B",
+              "text": "1/x"
+            },
+            {
+              "label": "C",
+              "text": "6/x"
+            },
+            {
+              "label": "D",
+              "text": "6/(6x+1)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1/x",
+          "explanation": "The logarithmic chain rule gives u′/u; hence the derivative is 1/x.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Product Rule",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q031",
+          "question": "Differentiate x(x+2) with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2x+3"
+            },
+            {
+              "label": "B",
+              "text": "x+2"
+            },
+            {
+              "label": "C",
+              "text": "2x+2"
+            },
+            {
+              "label": "D",
+              "text": "x²+2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2x+2",
+          "explanation": "Expanding gives x²+2x; differentiate term by term to get 2x+2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q032",
+          "question": "Differentiate x(x+3) with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x+3"
+            },
+            {
+              "label": "B",
+              "text": "2x+4"
+            },
+            {
+              "label": "C",
+              "text": "x²+3"
+            },
+            {
+              "label": "D",
+              "text": "2x+3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "2x+3",
+          "explanation": "Expanding gives x²+3x; differentiate term by term to get 2x+3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q033",
+          "question": "Differentiate x(x+4) with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2x+4"
+            },
+            {
+              "label": "B",
+              "text": "2x+5"
+            },
+            {
+              "label": "C",
+              "text": "x²+4"
+            },
+            {
+              "label": "D",
+              "text": "x+4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2x+4",
+          "explanation": "Expanding gives x²+4x; differentiate term by term to get 2x+4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q034",
+          "question": "Differentiate x(x+5) with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x+5"
+            },
+            {
+              "label": "B",
+              "text": "2x+5"
+            },
+            {
+              "label": "C",
+              "text": "x²+5"
+            },
+            {
+              "label": "D",
+              "text": "2x+6"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2x+5",
+          "explanation": "Expanding gives x²+5x; differentiate term by term to get 2x+5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q035",
+          "question": "Differentiate x(x+6) with respect to x.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2x+7"
+            },
+            {
+              "label": "B",
+              "text": "x²+6"
+            },
+            {
+              "label": "C",
+              "text": "2x+6"
+            },
+            {
+              "label": "D",
+              "text": "x+6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2x+6",
+          "explanation": "Expanding gives x²+6x; differentiate term by term to get 2x+6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Derivative at a Point",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q036",
+          "question": "If f(x)=2x^2, find f′(1).",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4",
+          "explanation": "Differentiate f(x) with the power rule, then substitute x=1; the answer is 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q037",
+          "question": "If f(x)=3x^3, find f′(2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "36"
+            },
+            {
+              "label": "B",
+              "text": "37"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "35"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "36",
+          "explanation": "Differentiate f(x) with the power rule, then substitute x=2; the answer is 36.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q038",
+          "question": "If f(x)=4x^2, find f′(3).",
+          "options": [
+            {
+              "label": "A",
+              "text": "36"
+            },
+            {
+              "label": "B",
+              "text": "24"
+            },
+            {
+              "label": "C",
+              "text": "23"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "24",
+          "explanation": "Differentiate f(x) with the power rule, then substitute x=3; the answer is 24.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q039",
+          "question": "If f(x)=5x^2, find f′(-1).",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "-9"
+            },
+            {
+              "label": "C",
+              "text": "-10"
+            },
+            {
+              "label": "D",
+              "text": "-11"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-10",
+          "explanation": "Differentiate f(x) with the power rule, then substitute x=-1; the answer is -10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q040",
+          "question": "If f(x)=2x^4, find f′(2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "63"
+            },
+            {
+              "label": "B",
+              "text": "32"
+            },
+            {
+              "label": "C",
+              "text": "65"
+            },
+            {
+              "label": "D",
+              "text": "64"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "64",
+          "explanation": "Differentiate f(x) with the power rule, then substitute x=2; the answer is 64.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Slope of Tangent",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q041",
+          "question": "What is the slope of the tangent to y=2x²+3 at x=1?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4",
+          "explanation": "The tangent's slope is dy/dx evaluated at the stated x-value, giving 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q042",
+          "question": "What is the slope of the tangent to y=3x²+3 at x=2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "12"
+            },
+            {
+              "label": "C",
+              "text": "15"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "12",
+          "explanation": "The tangent's slope is dy/dx evaluated at the stated x-value, giving 12.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q043",
+          "question": "What is the slope of the tangent to y=-2x²+3 at x=3?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-11"
+            },
+            {
+              "label": "B",
+              "text": "-13"
+            },
+            {
+              "label": "C",
+              "text": "-12"
+            },
+            {
+              "label": "D",
+              "text": "-15"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-12",
+          "explanation": "The tangent's slope is dy/dx evaluated at the stated x-value, giving -12.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q044",
+          "question": "What is the slope of the tangent to y=4x²+3 at x=-1?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7"
+            },
+            {
+              "label": "B",
+              "text": "-9"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "-8"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-8",
+          "explanation": "The tangent's slope is dy/dx evaluated at the stated x-value, giving -8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q045",
+          "question": "What is the slope of the tangent to y=5x²+3 at x=2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "20"
+            },
+            {
+              "label": "B",
+              "text": "23"
+            },
+            {
+              "label": "C",
+              "text": "19"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "20",
+          "explanation": "The tangent's slope is dy/dx evaluated at the stated x-value, giving 20.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Stationary Points",
+      "questions": [
+        {
+          "id": "HM-P1-C09-Q046",
+          "question": "Find the x-coordinate of the stationary point of f(x)=2x²+(4)x+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-1",
+          "explanation": "A stationary point satisfies f′(x)=0. Solving the derivative equation gives x=-1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q047",
+          "question": "Find the x-coordinate of the stationary point of f(x)=3x²+(-6)x+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1",
+          "explanation": "A stationary point satisfies f′(x)=0. Solving the derivative equation gives x=1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q048",
+          "question": "Find the x-coordinate of the stationary point of f(x)=4x²+(8)x+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "-2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-1",
+          "explanation": "A stationary point satisfies f′(x)=0. Solving the derivative equation gives x=-1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q049",
+          "question": "Find the x-coordinate of the stationary point of f(x)=5x²+(10)x+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-1",
+          "explanation": "A stationary point satisfies f′(x)=0. Solving the derivative equation gives x=-1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C09-Q050",
+          "question": "Find the x-coordinate of the stationary point of f(x)=-2x²+(6)x+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3/2"
+            },
+            {
+              "label": "B",
+              "text": "3/2"
+            },
+            {
+              "label": "C",
+              "text": "5/2"
+            },
+            {
+              "label": "D",
+              "text": "1/2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3/2",
+          "explanation": "A stationary point satisfies f′(x)=0. Solving the derivative equation gives x=3/2.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

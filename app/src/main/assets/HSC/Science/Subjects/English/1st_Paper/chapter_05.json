@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 5,
+  "chapter_title": "Art, Craft, Music and Nature",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "What is Beauty? - Philosophical and Aesthetic Views",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-001",
+          "question": "Which English Romantic poet wrote the immortal aesthetic lines: 'Beauty is truth, truth beauty,—that is all / Ye know on earth, and all ye need to know'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "John Keats ('Ode on a Grecian Urn')"
+            },
+            {
+              "label": "B",
+              "text": "William Wordsworth"
+            },
+            {
+              "label": "C",
+              "text": "Percy Bysshe Shelley"
+            },
+            {
+              "label": "D",
+              "text": "Lord Byron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "John Keats ('Ode on a Grecian Urn')",
+          "explanation": "John Keats concluded his masterpiece 'Ode on a Grecian Urn' with this celebrated philosophical equation of beauty and truth.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-002",
+          "question": "What is the common proverb that captures the subjective nature of human aesthetic perception?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'Beauty lies in the eyes of the beholder'"
+            },
+            {
+              "label": "B",
+              "text": "'A stitch in time saves nine'"
+            },
+            {
+              "label": "C",
+              "text": "'All that glitters is not gold'"
+            },
+            {
+              "label": "D",
+              "text": "'Action speaks louder than words'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'Beauty lies in the eyes of the beholder'",
+          "explanation": "The idiom means that perception of beauty is subjective: different individuals appreciate different qualities as beautiful.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-003",
+          "question": "In art criticism, what is the branch of philosophy dealing with the nature of beauty, art, and taste called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Aesthetics"
+            },
+            {
+              "label": "B",
+              "text": "Epistemology"
+            },
+            {
+              "label": "C",
+              "text": "Metaphysics"
+            },
+            {
+              "label": "D",
+              "text": "Ethics"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Aesthetics",
+          "explanation": "Aesthetics is the philosophical study of beauty, sensory perception, and artistic taste and creation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-004",
+          "question": "How did philosophers like Plato view the relationship between outer physical beauty and inner moral goodness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "True beauty is an outward manifestation of inner moral harmony, virtue, and truth"
+            },
+            {
+              "label": "B",
+              "text": "Beauty is inherently evil and deceptive"
+            },
+            {
+              "label": "C",
+              "text": "Physical attractiveness completely excuses immoral behavior"
+            },
+            {
+              "label": "D",
+              "text": "There is no connection whatsoever between beauty and goodness"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "True beauty is an outward manifestation of inner moral harmony, virtue, and truth",
+          "explanation": "Classical philosophy held that physical symmetry and grace reflect inner moral harmony and divine truth (kalokagathia).",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG105-MCQ-005",
+          "question": "What is the synonym of the aesthetic term 'sublime'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Awe-inspiring, transcendent, and grand"
+            },
+            {
+              "label": "B",
+              "text": "Petty and trivial"
+            },
+            {
+              "label": "C",
+              "text": "Ugly and grotesque"
+            },
+            {
+              "label": "D",
+              "text": "Repetitive and dull"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Awe-inspiring, transcendent, and grand",
+          "explanation": "'Sublime' describes something of such noble, elevated beauty or vastness that it inspires profound wonder and awe.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Folk Music of Bengal - Mysticism and Heritage",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-006",
+          "question": "Who is the revered 18th-century mystic philosopher and baul saint from Kushtia whose songs celebrate humanity and the divine soul?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lalon Shah (Fakir Lalon)"
+            },
+            {
+              "label": "B",
+              "text": "Kazi Nazrul Islam"
+            },
+            {
+              "label": "C",
+              "text": "Rabindranath Tagore"
+            },
+            {
+              "label": "D",
+              "text": "Shah Abdul Karim"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Lalon Shah (Fakir Lalon)",
+          "explanation": "Fakir Lalon Shah composed hundreds of mystical Baul songs rejecting caste, creed, and religious dogma, celebrating universal humanity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-007",
+          "question": "Which single-stringed plucked acoustic musical instrument is the iconic musical emblem of the Baul minstrels of Bengal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ektara"
+            },
+            {
+              "label": "B",
+              "text": "Harmonium"
+            },
+            {
+              "label": "C",
+              "text": "Tabla"
+            },
+            {
+              "label": "D",
+              "text": "Sitar"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Ektara",
+          "explanation": "The 'Ektara' (literally 'one-string') is the traditional plucked instrument held and played by wandering Baul singers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-008",
+          "question": "Which traditional genre of Bengali folk songs is sung by boatmen drifting down the river with the river's current?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bhatiyali"
+            },
+            {
+              "label": "B",
+              "text": "Bhawaiya"
+            },
+            {
+              "label": "C",
+              "text": "Gombhira"
+            },
+            {
+              "label": "D",
+              "text": "Jari Gaan"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bhatiyali",
+          "explanation": "'Bhatiyali' (derived from 'bhata' meaning ebb or downstream) is sung by boatmen across the rivers of lower Bengal, reflecting longing and nature.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-009",
+          "question": "Which northern folk song genre, associated with cart-drivers (mahouts) of Rangpur and Cooch Behar, features drawn-out emotional vocal breaks?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bhawaiya"
+            },
+            {
+              "label": "B",
+              "text": "Bhatiyali"
+            },
+            {
+              "label": "C",
+              "text": "Kavigaan"
+            },
+            {
+              "label": "D",
+              "text": "Alkap"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bhawaiya",
+          "explanation": "'Bhawaiya' is the famous folk song genre of North Bengal (Rangpur), traditionally sung by buffalo-cart drivers expressing sorrow and separation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-010",
+          "question": "Which mystic poet from Sunamganj wrote soulful spiritual songs like 'Gari Cholena Cholena'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Baul Shah Abdul Karim"
+            },
+            {
+              "label": "B",
+              "text": "Lalon Shah"
+            },
+            {
+              "label": "C",
+              "text": "Ramesh Shil"
+            },
+            {
+              "label": "D",
+              "text": "Gazi Kalu"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Baul Shah Abdul Karim",
+          "explanation": "Baul emperor Shah Abdul Karim from Sylhet/Sunamganj composed beloved folk masterpieces reflecting deep spiritual philosophy in simple rural metaphors.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Crafts in Our Time - Heritage vs Industrialization",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-011",
+          "question": "What traditional embroidered quilt made by rural women of Bengal using repurposed sarees is recognized as a masterwork of folk craft?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nakshi Kantha"
+            },
+            {
+              "label": "B",
+              "text": "Jamdani"
+            },
+            {
+              "label": "C",
+              "text": "Shital Pati"
+            },
+            {
+              "label": "D",
+              "text": "Monipuri Shawl"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Nakshi Kantha",
+          "explanation": "Nakshi Kantha is the traditional decorative embroidered quilt of Bengal, where women stitch intricate folkloric motifs, birds, and memories onto old sarees.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-012",
+          "question": "Which historic, fine handwoven cotton muslin fabric with geometric motifs from Dhaka is designated as a UNESCO Intangible Cultural Heritage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Jamdani"
+            },
+            {
+              "label": "B",
+              "text": "Khadi"
+            },
+            {
+              "label": "C",
+              "text": "Batik"
+            },
+            {
+              "label": "D",
+              "text": "Tussar silk"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Jamdani",
+          "explanation": "Jamdani weaving from Sonargaon, near Dhaka, was recognized by UNESCO in 2013 as an Intangible Cultural Heritage of Humanity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-013",
+          "question": "How does an authentic handcrafted artifact differ fundamentally from a mass-produced plastic factory item?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It carries the unique personal touch, cultural memory, and aesthetic soul of the individual artisan"
+            },
+            {
+              "label": "B",
+              "text": "It is produced in millions of identical copies per hour"
+            },
+            {
+              "label": "C",
+              "text": "It requires zero human labor"
+            },
+            {
+              "label": "D",
+              "text": "It is made exclusively from synthetic chemicals"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It carries the unique personal touch, cultural memory, and aesthetic soul of the individual artisan",
+          "explanation": "Craft combines utility with personal artistic expression, bearing the living touch and cultural identity of the artisan's hands.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-014",
+          "question": "Which traditional cooling mat made from the green murta cane in Sylhet is known for its natural smooth texture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shital Pati"
+            },
+            {
+              "label": "B",
+              "text": "Nakshi Kantha"
+            },
+            {
+              "label": "C",
+              "text": "Terracotta plaque"
+            },
+            {
+              "label": "D",
+              "text": "Jute tapestry"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Shital Pati",
+          "explanation": "'Shital Pati' (cool mat) is woven from murta cane strips in Greater Sylhet, providing a naturally cool sleeping surface during hot summer months.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-015",
+          "question": "What major threat do traditional village craftsmen face in modern consumer economies?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cheap, mass-manufactured synthetic alternatives, lack of fair market pricing, and loss of raw materials"
+            },
+            {
+              "label": "B",
+              "text": "Excessive export demands"
+            },
+            {
+              "label": "C",
+              "text": "Overabundance of apprentice youth"
+            },
+            {
+              "label": "D",
+              "text": "Too many museums purchasing their wares"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cheap, mass-manufactured synthetic alternatives, lack of fair market pricing, and loss of raw materials",
+          "explanation": "Artisans struggle to compete with machine-made plastic products and lack direct fair-trade access to lucrative urban and global markets.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Kuakata - Daughter of the Sea (Sagar Kanya)",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-016",
+          "question": "Why is the Kuakata beach in Patuakhali uniquely celebrated as 'Sagar Kanya' (Daughter of the Sea)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is one of the rare beaches in the world where both sunrise and sunset can be viewed over the waters of the Bay of Bengal"
+            },
+            {
+              "label": "B",
+              "text": "It is covered entirely with pink coral reefs"
+            },
+            {
+              "label": "C",
+              "text": "It has an active volcanic crater on the shore"
+            },
+            {
+              "label": "D",
+              "text": "It is the longest sandy sea beach in the world"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It is one of the rare beaches in the world where both sunrise and sunset can be viewed over the waters of the Bay of Bengal",
+          "explanation": "Kuakata's geographic curve at the southern tip of Bangladesh offers a panoramic vantage point to watch both sunrise and sunset emerge and sink in the same sea.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-017",
+          "question": "What is the historical origin of the name 'Kuakata'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The early Rakhine settlers dug 'kua' (wells) into the sandy beach for fresh drinking water"
+            },
+            {
+              "label": "B",
+              "text": "It was named after a legendary Mughal emperor"
+            },
+            {
+              "label": "C",
+              "text": "It means 'city of fishermen' in Arabic"
+            },
+            {
+              "label": "D",
+              "text": "It refers to the cutting of coconut palm trees"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The early Rakhine settlers dug 'kua' (wells) into the sandy beach for fresh drinking water",
+          "explanation": "Rakhine refugees settling along the coast dug wells ('kua') in search of sweet drinking water, giving the area the name 'Kua-kata'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-018",
+          "question": "Which indigenous community with distinctive Buddhist pagoda temples and colorful handloom heritage lives in Kuakata?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rakhine community"
+            },
+            {
+              "label": "B",
+              "text": "Santal community"
+            },
+            {
+              "label": "C",
+              "text": "Garo community"
+            },
+            {
+              "label": "D",
+              "text": "Khasi community"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Rakhine community",
+          "explanation": "The Rakhine community settled in Kuakata in the late 18th century, maintaining ancient Buddhist temples and traditional weaving crafts.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-019",
+          "question": "Which annual religious festival brings thousands of Hindu and Buddhist pilgrims to take holy purification dips in the sea at Kuakata?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rush Mela and Maghi Purnima"
+            },
+            {
+              "label": "B",
+              "text": "Kumbh Mela"
+            },
+            {
+              "label": "C",
+              "text": "Eid-ul-Fitr"
+            },
+            {
+              "label": "D",
+              "text": "Christmas festival"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Rush Mela and Maghi Purnima",
+          "explanation": "Devotees flock to Kuakata during the full moon of Rush Mela (autumn) and Maghi Purnima to bathe in the holy waters and attend beach fairs.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-020",
+          "question": "What environmental threat endangers the sandy beach and mangrove borders of Kuakata?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Coastal sea erosion, rising sea levels due to climate change, and unplanned commercial tourism"
+            },
+            {
+              "label": "B",
+              "text": "Severe desert sandstorms"
+            },
+            {
+              "label": "C",
+              "text": "Glacial ice melt directly onto the beach"
+            },
+            {
+              "label": "D",
+              "text": "Excessive forestation along the shoreline"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Coastal sea erosion, rising sea levels due to climate change, and unplanned commercial tourism",
+          "explanation": "Rising sea tides and aggressive wave surges continue to wash away coconut groves and erode the sandy expanse of Kuakata.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Hakaluki Haor - An Ecological Wonder",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-021",
+          "question": "What is Hakaluki Haor in Bangladesh geographically celebrated as?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One of the largest freshwater wetland and biodiversity haors in South Asia"
+            },
+            {
+              "label": "B",
+              "text": "The highest mountain peak in Bangladesh"
+            },
+            {
+              "label": "C",
+              "text": "A dry desert valley in Rajshahi"
+            },
+            {
+              "label": "D",
+              "text": "An artificial canal built in Chittagong"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "One of the largest freshwater wetland and biodiversity haors in South Asia",
+          "explanation": "Hakaluki Haor spans over 18,000 hectares across Moulvibazar and Sylhet, serving as an irreplaceable wetland ecosystem.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-022",
+          "question": "What seasonal wildlife spectacle attracts ornithologists and tourists to Hakaluki Haor every winter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Arrival of hundreds of thousands of migratory waterfowl from Siberia and Central Asia"
+            },
+            {
+              "label": "B",
+              "text": "Migration of wild African zebras"
+            },
+            {
+              "label": "C",
+              "text": "Mass nesting of sea turtles on sand dunes"
+            },
+            {
+              "label": "D",
+              "text": "Migration of snow leopards"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Arrival of hundreds of thousands of migratory waterfowl from Siberia and Central Asia",
+          "explanation": "In winter, Hakaluki transforms into a safe haven for over 150 species of rare migratory birds fleeing freezing northern winters.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-023",
+          "question": "In the haor ecosystem, what are the interconnected shallow lakes that retain water throughout the dry winter months called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Beels"
+            },
+            {
+              "label": "B",
+              "text": "Chars"
+            },
+            {
+              "label": "C",
+              "text": "Ghats"
+            },
+            {
+              "label": "D",
+              "text": "Dihis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Beels",
+          "explanation": "Hakaluki consists of more than 238 interconnected beels (perennial water bodies) that shelter vast fish populations during winter.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-024",
+          "question": "How do local communities depend on Hakaluki Haor for their economic livelihoods?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Inland fishing, duck farming, boro rice cultivation, and livestock grazing"
+            },
+            {
+              "label": "B",
+              "text": "Underground gold mining"
+            },
+            {
+              "label": "C",
+              "text": "Automobile assembly manufacturing"
+            },
+            {
+              "label": "D",
+              "text": "Heavy industrial steel smelting"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Inland fishing, duck farming, boro rice cultivation, and livestock grazing",
+          "explanation": "The wetland provides freshwater fisheries, dry-season boro paddy farming, duck rearing, and winter grazing for cattle.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-025",
+          "question": "Which destructive human practice poses the gravest threat to the fish and bird sanctuaries of Hakaluki Haor?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dewatering entire beels for commercial fishing, pesticide pollution, and illegal bird poaching"
+            },
+            {
+              "label": "B",
+              "text": "Planting too many native swamp trees"
+            },
+            {
+              "label": "C",
+              "text": "Conducting scientific bird counts with binoculars"
+            },
+            {
+              "label": "D",
+              "text": "Using rowboats instead of motorized launches"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Dewatering entire beels for commercial fishing, pesticide pollution, and illegal bird poaching",
+          "explanation": "Pumping out all water to catch every fish destroys aquatic breeding stock, while poison-baiting of migratory ducks devastates biodiversity.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Wildlife Conservation - The Giant Panda",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-026",
+          "question": "What is the primary dietary staple of the Giant Panda in its native mountain forests of China?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bamboo shoots and leaves (making up 99% of its diet)"
+            },
+            {
+              "label": "B",
+              "text": "Freshwater fish"
+            },
+            {
+              "label": "C",
+              "text": "Insects and wild honey"
+            },
+            {
+              "label": "D",
+              "text": "Acorns and forest pine cones"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bamboo shoots and leaves (making up 99% of its diet)",
+          "explanation": "Giant pandas are specialized bamboo feeders, consuming up to 38 kilograms of bamboo daily to extract sufficient nutrition.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-027",
+          "question": "Which international wildlife conservation organization features the Giant Panda as its worldwide symbol and official logo?",
+          "options": [
+            {
+              "label": "A",
+              "text": "World Wildlife Fund (WWF)"
+            },
+            {
+              "label": "B",
+              "text": "Greenpeace"
+            },
+            {
+              "label": "C",
+              "text": "Amnesty International"
+            },
+            {
+              "label": "D",
+              "text": "Red Cross"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "World Wildlife Fund (WWF)",
+          "explanation": "Since its founding in 1961, WWF has featured the iconic black-and-white giant panda as its global conservation emblem.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-028",
+          "question": "What historical threat brought the Giant Panda to the brink of extinction in the late 20th century?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Extensive habitat fragmentation, deforestation of bamboo corridors, and poaching"
+            },
+            {
+              "label": "B",
+              "text": "Predation by wild polar bears"
+            },
+            {
+              "label": "C",
+              "text": "Volcanic eruptions in Sichuan"
+            },
+            {
+              "label": "D",
+              "text": "Inability to drink freshwater"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Extensive habitat fragmentation, deforestation of bamboo corridors, and poaching",
+          "explanation": "Road construction, farming, and logging chopped bamboo forests into isolated patches, preventing pandas from migrating and mating.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-029",
+          "question": "Thanks to rigorous reforestation, nature reserves, and breeding programs, what is the current conservation status of the Giant Panda?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Downgraded from 'Endangered' to 'Vulnerable' by IUCN"
+            },
+            {
+              "label": "B",
+              "text": "Completely Extinct in the wild"
+            },
+            {
+              "label": "C",
+              "text": "Classified as an agricultural pest"
+            },
+            {
+              "label": "D",
+              "text": "Domesticated as house pets"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Downgraded from 'Endangered' to 'Vulnerable' by IUCN",
+          "explanation": "In 2016, IUCN reclassified the panda from 'Endangered' to 'Vulnerable' due to recovering wild populations in Chinese reserves.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG105-MCQ-030",
+          "question": "What does the success of panda conservation prove about global environmental protection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Committed political will, habitat restoration, and scientific action can reverse species decline"
+            },
+            {
+              "label": "B",
+              "text": "Wild animals no longer require natural forests to survive"
+            },
+            {
+              "label": "C",
+              "text": "Extinction is completely unavoidable for all mammals"
+            },
+            {
+              "label": "D",
+              "text": "Zoos should replace all wild habitats"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Committed political will, habitat restoration, and scientific action can reverse species decline",
+          "explanation": "The recovery of the giant panda stands as an inspiring beacon proving that species can be saved when humanity protects natural ecosystems.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vocabulary of Ecology, Art and Nature",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-031",
+          "question": "What is the scientific term for the total variety of plant and animal species living in an environment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "Atmosphere"
+            },
+            {
+              "label": "C",
+              "text": "Monoculture"
+            },
+            {
+              "label": "D",
+              "text": "Lithosphere"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Biodiversity",
+          "explanation": "Biodiversity encompasses the variety of all living organisms, ecosystems, and genetic variations within an environment.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-032",
+          "question": "What does the adjective 'ephemeral' mean when describing the fragile beauty of a morning blossom?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Lasting for only a very brief, fleeting time"
+            },
+            {
+              "label": "B",
+              "text": "Everlasting and eternal"
+            },
+            {
+              "label": "C",
+              "text": "Extremely heavy in weight"
+            },
+            {
+              "label": "D",
+              "text": "Poisonous to the touch"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Lasting for only a very brief, fleeting time",
+          "explanation": "'Ephemeral' means transitory, fleeting, and lasting for a very short time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-033",
+          "question": "What is the synonym of the word 'indigenous' in 'indigenous fish species of Bengal'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Native"
+            },
+            {
+              "label": "B",
+              "text": "Foreign"
+            },
+            {
+              "label": "C",
+              "text": "Artificial"
+            },
+            {
+              "label": "D",
+              "text": "Imported"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Native",
+          "explanation": "'Indigenous' means originating or occurring naturally in a particular region; 'native' is its direct synonym.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-034",
+          "question": "What is the antonym of the ecological adjective 'degraded' in 'degraded wetland forest'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pristine"
+            },
+            {
+              "label": "B",
+              "text": "Polluted"
+            },
+            {
+              "label": "C",
+              "text": "Damaged"
+            },
+            {
+              "label": "D",
+              "text": "Deteriorated"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Pristine",
+          "explanation": "'Degraded' means corrupted, ruined, or deteriorated. Its direct antonym is 'pristine' (unspoiled and in original pure condition).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-035",
+          "question": "What does the term 'aesthetic' relate to?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Appreciation of beauty, art, and good taste"
+            },
+            {
+              "label": "B",
+              "text": "Physical athletic fitness"
+            },
+            {
+              "label": "C",
+              "text": "Mathematical taxation rates"
+            },
+            {
+              "label": "D",
+              "text": "Medical surgery instruments"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Appreciation of beauty, art, and good taste",
+          "explanation": "'Aesthetic' pertains to beauty or the appreciation of beauty and artistic elegance.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Grammar and Syntax in Descriptive Texts",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-036",
+          "question": "Choose the correct order of adjectives: 'She wrapped herself in a ______ Nakshi Kantha.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "beautiful antique red embroidered"
+            },
+            {
+              "label": "B",
+              "text": "red antique beautiful embroidered"
+            },
+            {
+              "label": "C",
+              "text": "embroidered antique beautiful red"
+            },
+            {
+              "label": "D",
+              "text": "antique red beautiful embroidered"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "beautiful antique red embroidered",
+          "explanation": "Standard royal order of adjectives: Opinion (beautiful) -> Age (antique) -> Color (red) -> Purpose/Type (embroidered).",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG105-MCQ-037",
+          "question": "Fill in the blank with the appropriate preposition: 'Kuakata is endowed ______ extraordinary scenic beauty.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "with"
+            },
+            {
+              "label": "B",
+              "text": "in"
+            },
+            {
+              "label": "C",
+              "text": "by"
+            },
+            {
+              "label": "D",
+              "text": "at"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "with",
+          "explanation": "The appropriate preposition after 'endowed' is 'with' (endowed with natural gifts/beauty).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-038",
+          "question": "'Every winter thousands of migratory birds [arrive at Hakaluki Haor to escape northern blizzards].' What is the bracketed part?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Infinitive phrase expressing purpose"
+            },
+            {
+              "label": "B",
+              "text": "Noun clause object"
+            },
+            {
+              "label": "C",
+              "text": "Relative adjectival clause"
+            },
+            {
+              "label": "D",
+              "text": "Participial clause of manner"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Infinitive phrase expressing purpose",
+          "explanation": "'To escape northern blizzards' is an adverbial infinitive phrase of purpose answering why the birds arrive.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-039",
+          "question": "Select the correct sentence with proper subject-verb agreement:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The biodiversity of Hakaluki Haor attracts nature lovers from around the world."
+            },
+            {
+              "label": "B",
+              "text": "The biodiversity of Hakaluki Haor attract nature lovers from around the world."
+            },
+            {
+              "label": "C",
+              "text": "The biodiversity of Hakaluki Haor are attracting nature lovers."
+            },
+            {
+              "label": "D",
+              "text": "The biodiversity of Hakaluki Haor were attracting nature lovers."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The biodiversity of Hakaluki Haor attracts nature lovers from around the world.",
+          "explanation": "The head noun subject is 'The biodiversity' (singular, uncountable), which requires the singular verb 'attracts'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-040",
+          "question": "'Scarcely had the sun risen over Kuakata's horizon ______ the sea turned into a shimmering expanse of liquid gold.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "when"
+            },
+            {
+              "label": "B",
+              "text": "than"
+            },
+            {
+              "label": "C",
+              "text": "then"
+            },
+            {
+              "label": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "when",
+          "explanation": "The correlative conjunction for 'Scarcely had...' is 'when' (Scarcely had... when...).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Ecological Balance and Romantic Perception of Nature",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-041",
+          "question": "How did Romantic poets like William Wordsworth view Nature?",
+          "options": [
+            {
+              "label": "A",
+              "text": "As a living, breathing spiritual teacher, moral guide, and healer of the human soul"
+            },
+            {
+              "label": "B",
+              "text": "As a mere collection of mechanical resources to be exploited commercially"
+            },
+            {
+              "label": "C",
+              "text": "As an enemy that must be conquered and paved over"
+            },
+            {
+              "label": "D",
+              "text": "With total scientific detachment and boredom"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "As a living, breathing spiritual teacher, moral guide, and healer of the human soul",
+          "explanation": "Wordsworth praised Nature as 'the anchor of my purest thoughts, the nurse, the guide, the guardian of my heart, and soul of all my moral being.'",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-042",
+          "question": "What is the environmental concept of 'Ecological Balance'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A state of dynamic equilibrium within a community of organisms where genetic, species, and ecosystem diversity remain stable"
+            },
+            {
+              "label": "B",
+              "text": "Eliminating all predators so only herbivorous deer survive"
+            },
+            {
+              "label": "C",
+              "text": "Clearing all natural wetlands for urban apartment complexes"
+            },
+            {
+              "label": "D",
+              "text": "Paving forests with asphalt to prevent mud"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A state of dynamic equilibrium within a community of organisms where genetic, species, and ecosystem diversity remain stable",
+          "explanation": "Ecological balance describes the natural harmony and equilibrium among living organisms and their physical environment.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-043",
+          "question": "How do mangrove forests in coastal areas (such as the Sundarbans and Kuakata) protect inland communities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By serving as a natural bio-shield absorbing cyclonic wind speeds and tidal surges"
+            },
+            {
+              "label": "B",
+              "text": "By stopping all seasonal rainfall"
+            },
+            {
+              "label": "C",
+              "text": "By turning seawater completely sweet"
+            },
+            {
+              "label": "D",
+              "text": "By cooling the sun's surface temperature"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By serving as a natural bio-shield absorbing cyclonic wind speeds and tidal surges",
+          "explanation": "Dense mangrove root networks dissipate wave energy, stabilize shorelines against erosion, and act as natural shock absorbers during cyclones.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-044",
+          "question": "What makes Lalon Shah's songs timeless reflections of nature and human consciousness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "They use simple metaphors from rural life (rivers, boats, mirrors) to explore deep spiritual mysteries"
+            },
+            {
+              "label": "B",
+              "text": "They were written in ancient Greek"
+            },
+            {
+              "label": "C",
+              "text": "They exclusively deal with urban business transactions"
+            },
+            {
+              "label": "D",
+              "text": "They promote royal conquest of foreign lands"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "They use simple metaphors from rural life (rivers, boats, mirrors) to explore deep spiritual mysteries",
+          "explanation": "Lalon utilized common village and natural imagery—the boat of the body, the uncatchable bird of the soul—to express sublime metaphysical truths.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG105-MCQ-045",
+          "question": "Why is preserving wetlands like Hakaluki Haor essential for mitigating climate change in Bangladesh?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Wetlands act as giant natural carbon sinks, regulate monsoonal floodwaters, and recharge underground aquifers"
+            },
+            {
+              "label": "B",
+              "text": "Wetlands stop the earth from rotating too fast"
+            },
+            {
+              "label": "C",
+              "text": "Wetlands eliminate winter entirely"
+            },
+            {
+              "label": "D",
+              "text": "Wetlands replace the need for solar panels"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Wetlands act as giant natural carbon sinks, regulate monsoonal floodwaters, and recharge underground aquifers",
+          "explanation": "Wetlands trap carbon, sponge away excess flood surges during monsoons, and replenish freshwater water tables.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Passage Comprehension and Aesthetic Synthesis",
+      "questions": [
+        {
+          "id": "ENG105-MCQ-046",
+          "question": "What does a traveler experience while watching the sunrise at Kuakata beach?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The crimson sun slowly emerging directly out of the vast shimmering waters of the Bay of Bengal"
+            },
+            {
+              "label": "B",
+              "text": "The sun rising behind high snow-capped mountains"
+            },
+            {
+              "label": "C",
+              "text": "Complete darkness that lasts all day"
+            },
+            {
+              "label": "D",
+              "text": "A total solar eclipse every morning"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The crimson sun slowly emerging directly out of the vast shimmering waters of the Bay of Bengal",
+          "explanation": "At Kuakata, the sun appears to rise straight out of the horizon of the Bay of Bengal in a breathtaking golden-crimson spectacle.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG105-MCQ-047",
+          "question": "What is the primary spiritual message encoded in Baul philosophy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The divine 'Moner Manush' (the person of the heart) resides within every human being, transcending institutional religion"
+            },
+            {
+              "label": "B",
+              "text": "True holiness is found only in building giant stone monuments"
+            },
+            {
+              "label": "C",
+              "text": "Human beings are fundamentally divided by bloodlines and caste"
+            },
+            {
+              "label": "D",
+              "text": "Music should be forbidden in spiritual life"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The divine 'Moner Manush' (the person of the heart) resides within every human being, transcending institutional religion",
+          "explanation": "Baul songs focus on the inner divine soul ('Moner Manush'), preaching universal love, human dignity, and spiritual self-realization.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-048",
+          "question": "In 'Ode on a Grecian Urn', what makes the young lovers carved on the marble urn eternally fortunate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Their love and beauty will remain frozen in perfection forever, untouched by human aging or grief"
+            },
+            {
+              "label": "B",
+              "text": "They inherited great imperial riches"
+            },
+            {
+              "label": "C",
+              "text": "They can run away from the museum"
+            },
+            {
+              "label": "D",
+              "text": "They can speak to visitors"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Their love and beauty will remain frozen in perfection forever, untouched by human aging or grief",
+          "explanation": "Keats celebrates art's immortality: 'She cannot fade, though thou hast not thy bliss, / For ever wilt thou love, and she be fair!'",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG105-MCQ-049",
+          "question": "How does Nakshi Kantha serve as an intimate social document of rural women's lives in Bengal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Its colorful stitches record rural women's secret dreams, sorrows, legends, and domestic joys across generations"
+            },
+            {
+              "label": "B",
+              "text": "It was used as legal paper currency in village markets"
+            },
+            {
+              "label": "C",
+              "text": "It contains printed government tax tables"
+            },
+            {
+              "label": "D",
+              "text": "It was only made by urban fashion designers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Its colorful stitches record rural women's secret dreams, sorrows, legends, and domestic joys across generations",
+          "explanation": "Jasminuddin and folk historians describe Nakshi Kantha as a woven diary where rural women poured their heartfelt emotions into needle and thread.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG105-MCQ-050",
+          "question": "What is the ultimate lesson of the aesthetic and ecological readings in this unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Human culture, artistic heritage, and ecological survival are deeply intertwined and must be cherished and safeguarded together"
+            },
+            {
+              "label": "B",
+              "text": "Economic industrial profit is the sole measurement of human civilization"
+            },
+            {
+              "label": "C",
+              "text": "Folk traditions should be destroyed to make way for factories"
+            },
+            {
+              "label": "D",
+              "text": "Art and nature have no practical purpose in human life"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Human culture, artistic heritage, and ecological survival are deeply intertwined and must be cherished and safeguarded together",
+          "explanation": "True human prosperity flourishes only when we cultivate artistic soul, honor heritage crafts, and maintain harmonious ecological stewardship of the Earth.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

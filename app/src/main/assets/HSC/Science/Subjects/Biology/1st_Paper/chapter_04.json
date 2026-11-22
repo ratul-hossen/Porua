@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 4,
+  "chapter_title": "Microorganisms",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH04_T01",
+      "topic_name": "Virus",
+      "mcqs": [
+        {
+          "id": "BIO1_CH04_Q01",
+          "question": "Which term is correctly described as: acellular infectious particle that replicates inside host cells?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "B",
+              "text": "conjugation"
+            },
+            {
+              "label": "C",
+              "text": "virus"
+            },
+            {
+              "label": "D",
+              "text": "binary fission"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "virus",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q02",
+          "question": "The biological role or defining feature of virus is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "B",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "C",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "D",
+              "text": "protozoan parasite that causes malaria"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "acellular infectious particle that replicates inside host cells",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q03",
+          "question": "A student records the following clue: “acellular infectious particle that replicates inside host cells.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bacterium"
+            },
+            {
+              "label": "B",
+              "text": "conjugation"
+            },
+            {
+              "label": "C",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "D",
+              "text": "virus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "virus",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q04",
+          "question": "Which option completes this statement correctly? virus is the term for acellular infectious particle that replicates inside host cells.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "virus"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "virus",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q05",
+          "question": "If an examination asks for the term associated with “acellular infectious particle that replicates inside host cells”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "virus"
+            },
+            {
+              "label": "B",
+              "text": "conjugation"
+            },
+            {
+              "label": "C",
+              "text": "bacterium"
+            },
+            {
+              "label": "D",
+              "text": "Plasmodium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "virus",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q06",
+          "question": "Which structure, process or concept matches the description “acellular infectious particle that replicates inside host cells”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "bacterium"
+            },
+            {
+              "label": "C",
+              "text": "virus"
+            },
+            {
+              "label": "D",
+              "text": "binary fission"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "virus",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q07",
+          "question": "Choose the accurate statement about virus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "B",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "C",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "D",
+              "text": "process of genetic material transfer between bacterial cells"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "acellular infectious particle that replicates inside host cells",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q08",
+          "question": "A diagram or observation identifies virus. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "B",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "C",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "D",
+              "text": "common method of bacterial cell division"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "acellular infectious particle that replicates inside host cells",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q09",
+          "question": "Which pairing is correct for virus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "B",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "C",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "D",
+              "text": "common method of bacterial cell division"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "acellular infectious particle that replicates inside host cells",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        },
+        {
+          "id": "BIO1_CH04_Q10",
+          "question": "In a topic review, which answer best explains the clue “acellular infectious particle that replicates inside host cells”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "binary fission"
+            },
+            {
+              "label": "B",
+              "text": "virus"
+            },
+            {
+              "label": "C",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "virus",
+          "explanation": "Viruses rely on host-cell machinery for replication."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH04_T02",
+      "topic_name": "Bacterium",
+      "mcqs": [
+        {
+          "id": "BIO1_CH04_Q11",
+          "question": "Which term is correctly described as: prokaryotic microorganism lacking a membrane-bound nucleus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "bacterium"
+            },
+            {
+              "label": "D",
+              "text": "conjugation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bacterium",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q12",
+          "question": "The biological role or defining feature of bacterium is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "B",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "C",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "D",
+              "text": "acellular infectious particle that replicates inside host cells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "prokaryotic microorganism lacking a membrane-bound nucleus",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q13",
+          "question": "A student records the following clue: “prokaryotic microorganism lacking a membrane-bound nucleus.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "B",
+              "text": "bacterium"
+            },
+            {
+              "label": "C",
+              "text": "binary fission"
+            },
+            {
+              "label": "D",
+              "text": "conjugation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "bacterium",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q14",
+          "question": "Which option completes this statement correctly? bacterium is the term for prokaryotic microorganism lacking a membrane-bound nucleus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "conjugation"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bacterium",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q15",
+          "question": "If an examination asks for the term associated with “prokaryotic microorganism lacking a membrane-bound nucleus”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "C",
+              "text": "binary fission"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bacterium",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q16",
+          "question": "Which structure, process or concept matches the description “prokaryotic microorganism lacking a membrane-bound nucleus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "virus"
+            },
+            {
+              "label": "B",
+              "text": "conjugation"
+            },
+            {
+              "label": "C",
+              "text": "bacterium"
+            },
+            {
+              "label": "D",
+              "text": "Plasmodium"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bacterium",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q17",
+          "question": "Choose the accurate statement about bacterium.",
+          "options": [
+            {
+              "label": "A",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "B",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "C",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "D",
+              "text": "protozoan parasite that causes malaria"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "prokaryotic microorganism lacking a membrane-bound nucleus",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q18",
+          "question": "A diagram or observation identifies bacterium. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "B",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "C",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "D",
+              "text": "process of genetic material transfer between bacterial cells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "prokaryotic microorganism lacking a membrane-bound nucleus",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q19",
+          "question": "Which pairing is correct for bacterium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "B",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "C",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "D",
+              "text": "acellular infectious particle that replicates inside host cells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "prokaryotic microorganism lacking a membrane-bound nucleus",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        },
+        {
+          "id": "BIO1_CH04_Q20",
+          "question": "In a topic review, which answer best explains the clue “prokaryotic microorganism lacking a membrane-bound nucleus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "virus"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "conjugation"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bacterium",
+          "explanation": "Its genetic material is not enclosed in a nuclear membrane."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH04_T03",
+      "topic_name": "Binary Fission",
+      "mcqs": [
+        {
+          "id": "BIO1_CH04_Q21",
+          "question": "Which term is correctly described as: common method of bacterial cell division?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "B",
+              "text": "virus"
+            },
+            {
+              "label": "C",
+              "text": "conjugation"
+            },
+            {
+              "label": "D",
+              "text": "binary fission"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "binary fission",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q22",
+          "question": "The biological role or defining feature of binary fission is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "B",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "C",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "D",
+              "text": "common method of bacterial cell division"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "common method of bacterial cell division",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q23",
+          "question": "A student records the following clue: “common method of bacterial cell division.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "binary fission"
+            },
+            {
+              "label": "B",
+              "text": "bacterium"
+            },
+            {
+              "label": "C",
+              "text": "virus"
+            },
+            {
+              "label": "D",
+              "text": "Plasmodium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "binary fission",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q24",
+          "question": "Which option completes this statement correctly? binary fission is the term for common method of bacterial cell division.",
+          "options": [
+            {
+              "label": "A",
+              "text": "bacterium"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "D",
+              "text": "virus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "binary fission",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q25",
+          "question": "If an examination asks for the term associated with “common method of bacterial cell division”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "bacterium"
+            },
+            {
+              "label": "D",
+              "text": "Plasmodium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "binary fission",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q26",
+          "question": "Which structure, process or concept matches the description “common method of bacterial cell division”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "binary fission"
+            },
+            {
+              "label": "B",
+              "text": "conjugation"
+            },
+            {
+              "label": "C",
+              "text": "bacterium"
+            },
+            {
+              "label": "D",
+              "text": "Plasmodium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "binary fission",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q27",
+          "question": "Choose the accurate statement about binary fission.",
+          "options": [
+            {
+              "label": "A",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "B",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "C",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "D",
+              "text": "process of genetic material transfer between bacterial cells"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "common method of bacterial cell division",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q28",
+          "question": "A diagram or observation identifies binary fission. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "B",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "C",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "D",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "common method of bacterial cell division",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q29",
+          "question": "Which pairing is correct for binary fission?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "B",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "C",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "D",
+              "text": "acellular infectious particle that replicates inside host cells"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "common method of bacterial cell division",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        },
+        {
+          "id": "BIO1_CH04_Q30",
+          "question": "In a topic review, which answer best explains the clue “common method of bacterial cell division”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "virus"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "conjugation"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "binary fission",
+          "explanation": "One bacterial cell divides to form two daughter cells."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH04_T04",
+      "topic_name": "Conjugation",
+      "mcqs": [
+        {
+          "id": "BIO1_CH04_Q31",
+          "question": "Which term is correctly described as: process of genetic material transfer between bacterial cells?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "virus"
+            },
+            {
+              "label": "C",
+              "text": "binary fission"
+            },
+            {
+              "label": "D",
+              "text": "Plasmodium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "conjugation",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q32",
+          "question": "The biological role or defining feature of conjugation is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "B",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "C",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "D",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "process of genetic material transfer between bacterial cells",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q33",
+          "question": "A student records the following clue: “process of genetic material transfer between bacterial cells.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "virus"
+            },
+            {
+              "label": "C",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "conjugation",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q34",
+          "question": "Which option completes this statement correctly? conjugation is the term for process of genetic material transfer between bacterial cells.",
+          "options": [
+            {
+              "label": "A",
+              "text": "binary fission"
+            },
+            {
+              "label": "B",
+              "text": "virus"
+            },
+            {
+              "label": "C",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "D",
+              "text": "conjugation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "conjugation",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q35",
+          "question": "If an examination asks for the term associated with “process of genetic material transfer between bacterial cells”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "virus"
+            },
+            {
+              "label": "C",
+              "text": "binary fission"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "conjugation",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q36",
+          "question": "Which structure, process or concept matches the description “process of genetic material transfer between bacterial cells”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "virus"
+            },
+            {
+              "label": "C",
+              "text": "bacterium"
+            },
+            {
+              "label": "D",
+              "text": "Plasmodium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "conjugation",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q37",
+          "question": "Choose the accurate statement about conjugation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "B",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "C",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "D",
+              "text": "common method of bacterial cell division"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "process of genetic material transfer between bacterial cells",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q38",
+          "question": "A diagram or observation identifies conjugation. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "B",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "C",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "D",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "process of genetic material transfer between bacterial cells",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q39",
+          "question": "Which pairing is correct for conjugation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "B",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "C",
+              "text": "common method of bacterial cell division"
+            },
+            {
+              "label": "D",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "process of genetic material transfer between bacterial cells",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        },
+        {
+          "id": "BIO1_CH04_Q40",
+          "question": "In a topic review, which answer best explains the clue “process of genetic material transfer between bacterial cells”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "binary fission"
+            },
+            {
+              "label": "B",
+              "text": "conjugation"
+            },
+            {
+              "label": "C",
+              "text": "bacterium"
+            },
+            {
+              "label": "D",
+              "text": "virus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "conjugation",
+          "explanation": "It can increase genetic variation without being ordinary cell division."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH04_T05",
+      "topic_name": "Plasmodium",
+      "mcqs": [
+        {
+          "id": "BIO1_CH04_Q41",
+          "question": "Which term is correctly described as: protozoan parasite that causes malaria?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bacterium"
+            },
+            {
+              "label": "B",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "C",
+              "text": "binary fission"
+            },
+            {
+              "label": "D",
+              "text": "conjugation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Plasmodium",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q42",
+          "question": "The biological role or defining feature of Plasmodium is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "B",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "C",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "D",
+              "text": "protozoan parasite that causes malaria"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "protozoan parasite that causes malaria",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q43",
+          "question": "A student records the following clue: “protozoan parasite that causes malaria.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "B",
+              "text": "bacterium"
+            },
+            {
+              "label": "C",
+              "text": "virus"
+            },
+            {
+              "label": "D",
+              "text": "conjugation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Plasmodium",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q44",
+          "question": "Which option completes this statement correctly? Plasmodium is the term for protozoan parasite that causes malaria.",
+          "options": [
+            {
+              "label": "A",
+              "text": "bacterium"
+            },
+            {
+              "label": "B",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "C",
+              "text": "binary fission"
+            },
+            {
+              "label": "D",
+              "text": "virus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Plasmodium",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q45",
+          "question": "If an examination asks for the term associated with “protozoan parasite that causes malaria”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "B",
+              "text": "bacterium"
+            },
+            {
+              "label": "C",
+              "text": "virus"
+            },
+            {
+              "label": "D",
+              "text": "conjugation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Plasmodium",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q46",
+          "question": "Which structure, process or concept matches the description “protozoan parasite that causes malaria”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "virus"
+            },
+            {
+              "label": "D",
+              "text": "Plasmodium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Plasmodium",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q47",
+          "question": "Choose the accurate statement about Plasmodium.",
+          "options": [
+            {
+              "label": "A",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "B",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "C",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "D",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "protozoan parasite that causes malaria",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q48",
+          "question": "A diagram or observation identifies Plasmodium. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prokaryotic microorganism lacking a membrane-bound nucleus"
+            },
+            {
+              "label": "B",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "C",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "D",
+              "text": "process of genetic material transfer between bacterial cells"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "protozoan parasite that causes malaria",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q49",
+          "question": "Which pairing is correct for Plasmodium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "acellular infectious particle that replicates inside host cells"
+            },
+            {
+              "label": "B",
+              "text": "process of genetic material transfer between bacterial cells"
+            },
+            {
+              "label": "C",
+              "text": "protozoan parasite that causes malaria"
+            },
+            {
+              "label": "D",
+              "text": "common method of bacterial cell division"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "protozoan parasite that causes malaria",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        },
+        {
+          "id": "BIO1_CH04_Q50",
+          "question": "In a topic review, which answer best explains the clue “protozoan parasite that causes malaria”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conjugation"
+            },
+            {
+              "label": "B",
+              "text": "binary fission"
+            },
+            {
+              "label": "C",
+              "text": "Plasmodium"
+            },
+            {
+              "label": "D",
+              "text": "bacterium"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Plasmodium",
+          "explanation": "Human malaria is transmitted by infected female Anopheles mosquitoes."
+        }
+      ]
+    }
+  ]
+}

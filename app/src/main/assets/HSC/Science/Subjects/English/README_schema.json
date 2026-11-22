@@ -1,0 +1,31 @@
+{
+  "description": "Each chapter file contains topic-grouped multiple-choice questions for HSC English (1st Paper & 2nd Paper).",
+  "chapter_structure": {
+    "paper": "string",
+    "chapter_number": "integer",
+    "chapter_title": "string",
+    "total_questions": "integer",
+    "topics": [
+      {
+        "topic_name": "string",
+        "questions": [
+          "question object"
+        ]
+      }
+    ]
+  },
+  "question_object": {
+    "id": "string",
+    "question": "string",
+    "options": [
+      {
+        "label": "A-D",
+        "text": "string"
+      }
+    ],
+    "correct_answer": "A-D",
+    "correct_answer_text": "string",
+    "explanation": "string",
+    "difficulty": "Easy | Medium | Hard"
+  }
+}

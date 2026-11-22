@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 10,
+  "chapter_title": "Defence of the Human Body",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH10_T01",
+      "topic_name": "Skin",
+      "mcqs": [
+        {
+          "id": "BIO2_CH10_Q01",
+          "question": "Which term is correctly described as: physical barrier forming the body's outer defence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "memory cell"
+            },
+            {
+              "label": "B",
+              "text": "phagocyte"
+            },
+            {
+              "label": "C",
+              "text": "vaccination"
+            },
+            {
+              "label": "D",
+              "text": "skin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "skin",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q02",
+          "question": "The biological role or defining feature of skin is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "B",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "C",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "D",
+              "text": "method of safely exposing the immune system to an antigen"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "physical barrier forming the body's outer defence",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q03",
+          "question": "A student records the following clue: “physical barrier forming the body's outer defence.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "memory cell"
+            },
+            {
+              "label": "B",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "C",
+              "text": "phagocyte"
+            },
+            {
+              "label": "D",
+              "text": "skin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "skin",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q04",
+          "question": "Which option completes this statement correctly? skin is the term for physical barrier forming the body's outer defence.",
+          "options": [
+            {
+              "label": "A",
+              "text": "phagocyte"
+            },
+            {
+              "label": "B",
+              "text": "vaccination"
+            },
+            {
+              "label": "C",
+              "text": "memory cell"
+            },
+            {
+              "label": "D",
+              "text": "skin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "skin",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q05",
+          "question": "If an examination asks for the term associated with “physical barrier forming the body's outer defence”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "skin"
+            },
+            {
+              "label": "C",
+              "text": "phagocyte"
+            },
+            {
+              "label": "D",
+              "text": "memory cell"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "skin",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q06",
+          "question": "Which structure, process or concept matches the description “physical barrier forming the body's outer defence”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin"
+            },
+            {
+              "label": "B",
+              "text": "memory cell"
+            },
+            {
+              "label": "C",
+              "text": "vaccination"
+            },
+            {
+              "label": "D",
+              "text": "phagocyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "skin",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q07",
+          "question": "Choose the accurate statement about skin.",
+          "options": [
+            {
+              "label": "A",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "B",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "C",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "D",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "physical barrier forming the body's outer defence",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q08",
+          "question": "A diagram or observation identifies skin. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "B",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "C",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "D",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "physical barrier forming the body's outer defence",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q09",
+          "question": "Which pairing is correct for skin?",
+          "options": [
+            {
+              "label": "A",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "B",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "C",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "D",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "physical barrier forming the body's outer defence",
+          "explanation": "Intact skin limits entry of many pathogens."
+        },
+        {
+          "id": "BIO2_CH10_Q10",
+          "question": "In a topic review, which answer best explains the clue “physical barrier forming the body's outer defence”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin"
+            },
+            {
+              "label": "B",
+              "text": "vaccination"
+            },
+            {
+              "label": "C",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "D",
+              "text": "memory cell"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "skin",
+          "explanation": "Intact skin limits entry of many pathogens."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH10_T02",
+      "topic_name": "Phagocyte",
+      "mcqs": [
+        {
+          "id": "BIO2_CH10_Q11",
+          "question": "Which term is correctly described as: immune cell that engulfs and digests particles or microbes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "phagocyte"
+            },
+            {
+              "label": "C",
+              "text": "skin"
+            },
+            {
+              "label": "D",
+              "text": "vaccination"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "phagocyte",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q12",
+          "question": "The biological role or defining feature of phagocyte is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "B",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "C",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "D",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "immune cell that engulfs and digests particles or microbes",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q13",
+          "question": "A student records the following clue: “immune cell that engulfs and digests particles or microbes.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "memory cell"
+            },
+            {
+              "label": "C",
+              "text": "skin"
+            },
+            {
+              "label": "D",
+              "text": "phagocyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "phagocyte",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q14",
+          "question": "Which option completes this statement correctly? phagocyte is the term for immune cell that engulfs and digests particles or microbes.",
+          "options": [
+            {
+              "label": "A",
+              "text": "phagocyte"
+            },
+            {
+              "label": "B",
+              "text": "vaccination"
+            },
+            {
+              "label": "C",
+              "text": "skin"
+            },
+            {
+              "label": "D",
+              "text": "B lymphocyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "phagocyte",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q15",
+          "question": "If an examination asks for the term associated with “immune cell that engulfs and digests particles or microbes”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin"
+            },
+            {
+              "label": "B",
+              "text": "memory cell"
+            },
+            {
+              "label": "C",
+              "text": "vaccination"
+            },
+            {
+              "label": "D",
+              "text": "phagocyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "phagocyte",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q16",
+          "question": "Which structure, process or concept matches the description “immune cell that engulfs and digests particles or microbes”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vaccination"
+            },
+            {
+              "label": "B",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "C",
+              "text": "phagocyte"
+            },
+            {
+              "label": "D",
+              "text": "memory cell"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "phagocyte",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q17",
+          "question": "Choose the accurate statement about phagocyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "B",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "C",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "D",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "immune cell that engulfs and digests particles or microbes",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q18",
+          "question": "A diagram or observation identifies phagocyte. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "B",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "C",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "D",
+              "text": "physical barrier forming the body's outer defence"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "immune cell that engulfs and digests particles or microbes",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q19",
+          "question": "Which pairing is correct for phagocyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "B",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "C",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "D",
+              "text": "method of safely exposing the immune system to an antigen"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "immune cell that engulfs and digests particles or microbes",
+          "explanation": "Phagocytosis is part of innate defence."
+        },
+        {
+          "id": "BIO2_CH10_Q20",
+          "question": "In a topic review, which answer best explains the clue “immune cell that engulfs and digests particles or microbes”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phagocyte"
+            },
+            {
+              "label": "B",
+              "text": "vaccination"
+            },
+            {
+              "label": "C",
+              "text": "memory cell"
+            },
+            {
+              "label": "D",
+              "text": "B lymphocyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "phagocyte",
+          "explanation": "Phagocytosis is part of innate defence."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH10_T03",
+      "topic_name": "B Lymphocyte",
+      "mcqs": [
+        {
+          "id": "BIO2_CH10_Q21",
+          "question": "Which term is correctly described as: adaptive immune cell that can differentiate into plasma cells?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vaccination"
+            },
+            {
+              "label": "B",
+              "text": "skin"
+            },
+            {
+              "label": "C",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "D",
+              "text": "phagocyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "B lymphocyte",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q22",
+          "question": "The biological role or defining feature of B lymphocyte is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "B",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "C",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "D",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "adaptive immune cell that can differentiate into plasma cells",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q23",
+          "question": "A student records the following clue: “adaptive immune cell that can differentiate into plasma cells.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "skin"
+            },
+            {
+              "label": "C",
+              "text": "memory cell"
+            },
+            {
+              "label": "D",
+              "text": "phagocyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "B lymphocyte",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q24",
+          "question": "Which option completes this statement correctly? B lymphocyte is the term for adaptive immune cell that can differentiate into plasma cells.",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "vaccination"
+            },
+            {
+              "label": "C",
+              "text": "skin"
+            },
+            {
+              "label": "D",
+              "text": "phagocyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "B lymphocyte",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q25",
+          "question": "If an examination asks for the term associated with “adaptive immune cell that can differentiate into plasma cells”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin"
+            },
+            {
+              "label": "B",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "C",
+              "text": "phagocyte"
+            },
+            {
+              "label": "D",
+              "text": "memory cell"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "B lymphocyte",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q26",
+          "question": "Which structure, process or concept matches the description “adaptive immune cell that can differentiate into plasma cells”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phagocyte"
+            },
+            {
+              "label": "B",
+              "text": "vaccination"
+            },
+            {
+              "label": "C",
+              "text": "memory cell"
+            },
+            {
+              "label": "D",
+              "text": "B lymphocyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "B lymphocyte",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q27",
+          "question": "Choose the accurate statement about B lymphocyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "B",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "C",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "D",
+              "text": "method of safely exposing the immune system to an antigen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "adaptive immune cell that can differentiate into plasma cells",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q28",
+          "question": "A diagram or observation identifies B lymphocyte. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "B",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "C",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "D",
+              "text": "method of safely exposing the immune system to an antigen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "adaptive immune cell that can differentiate into plasma cells",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q29",
+          "question": "Which pairing is correct for B lymphocyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "B",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "C",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "D",
+              "text": "method of safely exposing the immune system to an antigen"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "adaptive immune cell that can differentiate into plasma cells",
+          "explanation": "Plasma cells secrete antibodies."
+        },
+        {
+          "id": "BIO2_CH10_Q30",
+          "question": "In a topic review, which answer best explains the clue “adaptive immune cell that can differentiate into plasma cells”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "phagocyte"
+            },
+            {
+              "label": "C",
+              "text": "skin"
+            },
+            {
+              "label": "D",
+              "text": "vaccination"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "B lymphocyte",
+          "explanation": "Plasma cells secrete antibodies."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH10_T04",
+      "topic_name": "Memory Cell",
+      "mcqs": [
+        {
+          "id": "BIO2_CH10_Q31",
+          "question": "Which term is correctly described as: long-lived adaptive immune cell supporting a faster later response?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phagocyte"
+            },
+            {
+              "label": "B",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "C",
+              "text": "memory cell"
+            },
+            {
+              "label": "D",
+              "text": "vaccination"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "memory cell",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q32",
+          "question": "The biological role or defining feature of memory cell is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "B",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "C",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "D",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "long-lived adaptive immune cell supporting a faster later response",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q33",
+          "question": "A student records the following clue: “long-lived adaptive immune cell supporting a faster later response.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin"
+            },
+            {
+              "label": "B",
+              "text": "phagocyte"
+            },
+            {
+              "label": "C",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "D",
+              "text": "memory cell"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "memory cell",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q34",
+          "question": "Which option completes this statement correctly? memory cell is the term for long-lived adaptive immune cell supporting a faster later response.",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin"
+            },
+            {
+              "label": "B",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "C",
+              "text": "phagocyte"
+            },
+            {
+              "label": "D",
+              "text": "memory cell"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "memory cell",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q35",
+          "question": "If an examination asks for the term associated with “long-lived adaptive immune cell supporting a faster later response”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "memory cell"
+            },
+            {
+              "label": "B",
+              "text": "skin"
+            },
+            {
+              "label": "C",
+              "text": "vaccination"
+            },
+            {
+              "label": "D",
+              "text": "B lymphocyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "memory cell",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q36",
+          "question": "Which structure, process or concept matches the description “long-lived adaptive immune cell supporting a faster later response”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "memory cell"
+            },
+            {
+              "label": "B",
+              "text": "skin"
+            },
+            {
+              "label": "C",
+              "text": "phagocyte"
+            },
+            {
+              "label": "D",
+              "text": "B lymphocyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "memory cell",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q37",
+          "question": "Choose the accurate statement about memory cell.",
+          "options": [
+            {
+              "label": "A",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "B",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "C",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "D",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "long-lived adaptive immune cell supporting a faster later response",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q38",
+          "question": "A diagram or observation identifies memory cell. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "B",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "C",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "D",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "long-lived adaptive immune cell supporting a faster later response",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q39",
+          "question": "Which pairing is correct for memory cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "B",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "C",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "D",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "long-lived adaptive immune cell supporting a faster later response",
+          "explanation": "It contributes to immunological memory."
+        },
+        {
+          "id": "BIO2_CH10_Q40",
+          "question": "In a topic review, which answer best explains the clue “long-lived adaptive immune cell supporting a faster later response”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vaccination"
+            },
+            {
+              "label": "B",
+              "text": "memory cell"
+            },
+            {
+              "label": "C",
+              "text": "skin"
+            },
+            {
+              "label": "D",
+              "text": "B lymphocyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "memory cell",
+          "explanation": "It contributes to immunological memory."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH10_T05",
+      "topic_name": "Vaccination",
+      "mcqs": [
+        {
+          "id": "BIO2_CH10_Q41",
+          "question": "Which term is correctly described as: method of safely exposing the immune system to an antigen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin"
+            },
+            {
+              "label": "B",
+              "text": "memory cell"
+            },
+            {
+              "label": "C",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "D",
+              "text": "vaccination"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "vaccination",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q42",
+          "question": "The biological role or defining feature of vaccination is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "B",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "C",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "D",
+              "text": "method of safely exposing the immune system to an antigen"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "method of safely exposing the immune system to an antigen",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q43",
+          "question": "A student records the following clue: “method of safely exposing the immune system to an antigen.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "skin"
+            },
+            {
+              "label": "B",
+              "text": "memory cell"
+            },
+            {
+              "label": "C",
+              "text": "vaccination"
+            },
+            {
+              "label": "D",
+              "text": "B lymphocyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "vaccination",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q44",
+          "question": "Which option completes this statement correctly? vaccination is the term for method of safely exposing the immune system to an antigen.",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "memory cell"
+            },
+            {
+              "label": "C",
+              "text": "skin"
+            },
+            {
+              "label": "D",
+              "text": "vaccination"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "vaccination",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q45",
+          "question": "If an examination asks for the term associated with “method of safely exposing the immune system to an antigen”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "memory cell"
+            },
+            {
+              "label": "B",
+              "text": "phagocyte"
+            },
+            {
+              "label": "C",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "D",
+              "text": "vaccination"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "vaccination",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q46",
+          "question": "Which structure, process or concept matches the description “method of safely exposing the immune system to an antigen”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "phagocyte"
+            },
+            {
+              "label": "C",
+              "text": "memory cell"
+            },
+            {
+              "label": "D",
+              "text": "vaccination"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "vaccination",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q47",
+          "question": "Choose the accurate statement about vaccination.",
+          "options": [
+            {
+              "label": "A",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "B",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "C",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "D",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "method of safely exposing the immune system to an antigen",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q48",
+          "question": "A diagram or observation identifies vaccination. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "immune cell that engulfs and digests particles or microbes"
+            },
+            {
+              "label": "B",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "C",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            },
+            {
+              "label": "D",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "method of safely exposing the immune system to an antigen",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q49",
+          "question": "Which pairing is correct for vaccination?",
+          "options": [
+            {
+              "label": "A",
+              "text": "method of safely exposing the immune system to an antigen"
+            },
+            {
+              "label": "B",
+              "text": "long-lived adaptive immune cell supporting a faster later response"
+            },
+            {
+              "label": "C",
+              "text": "physical barrier forming the body's outer defence"
+            },
+            {
+              "label": "D",
+              "text": "adaptive immune cell that can differentiate into plasma cells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "method of safely exposing the immune system to an antigen",
+          "explanation": "It aims to establish protective immune memory."
+        },
+        {
+          "id": "BIO2_CH10_Q50",
+          "question": "In a topic review, which answer best explains the clue “method of safely exposing the immune system to an antigen”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B lymphocyte"
+            },
+            {
+              "label": "B",
+              "text": "vaccination"
+            },
+            {
+              "label": "C",
+              "text": "phagocyte"
+            },
+            {
+              "label": "D",
+              "text": "memory cell"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "vaccination",
+          "explanation": "It aims to establish protective immune memory."
+        }
+      ]
+    }
+  ]
+}

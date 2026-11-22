@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 2,
+  "chapter_title": "Qualitative Chemistry",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Atomic number",
+      "questions": [
+        {
+          "id": "CH02-MCQ-001",
+          "question": "Which statement correctly describes atomic number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Number of electron shells"
+            },
+            {
+              "label": "B",
+              "text": "Number of neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Number of protons"
+            },
+            {
+              "label": "D",
+              "text": "Number of nucleons"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Number of protons",
+          "explanation": "The proton number uniquely identifies an element.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning atomic number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Number of nucleons"
+            },
+            {
+              "label": "B",
+              "text": "Number of neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Number of electron shells"
+            },
+            {
+              "label": "D",
+              "text": "Number of protons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Number of protons",
+          "explanation": "The proton number uniquely identifies an element.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-003",
+          "question": "A student is reviewing atomic number. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Number of electron shells"
+            },
+            {
+              "label": "B",
+              "text": "Number of nucleons"
+            },
+            {
+              "label": "C",
+              "text": "Number of neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Number of protons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Number of protons",
+          "explanation": "The proton number uniquely identifies an element.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-004",
+          "question": "Which option gives the most accurate explanation of atomic number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Number of neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Number of nucleons"
+            },
+            {
+              "label": "C",
+              "text": "Number of electron shells"
+            },
+            {
+              "label": "D",
+              "text": "Number of protons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Number of protons",
+          "explanation": "The proton number uniquely identifies an element.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-005",
+          "question": "Choose the correct principle or fact associated with atomic number.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Number of electron shells"
+            },
+            {
+              "label": "B",
+              "text": "Number of neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Number of nucleons"
+            },
+            {
+              "label": "D",
+              "text": "Number of protons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Number of protons",
+          "explanation": "The proton number uniquely identifies an element.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Mass number",
+      "questions": [
+        {
+          "id": "CH02-MCQ-006",
+          "question": "Which statement correctly describes mass number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Protons plus neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Electrons only"
+            },
+            {
+              "label": "C",
+              "text": "Protons plus electrons"
+            },
+            {
+              "label": "D",
+              "text": "Neutrons plus electrons"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Protons plus neutrons",
+          "explanation": "Mass number counts the nucleons in the nucleus.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning mass number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Protons plus electrons"
+            },
+            {
+              "label": "B",
+              "text": "Protons plus neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Neutrons plus electrons"
+            },
+            {
+              "label": "D",
+              "text": "Electrons only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Protons plus neutrons",
+          "explanation": "Mass number counts the nucleons in the nucleus.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-008",
+          "question": "A student is reviewing mass number. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrons only"
+            },
+            {
+              "label": "B",
+              "text": "Neutrons plus electrons"
+            },
+            {
+              "label": "C",
+              "text": "Protons plus electrons"
+            },
+            {
+              "label": "D",
+              "text": "Protons plus neutrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Protons plus neutrons",
+          "explanation": "Mass number counts the nucleons in the nucleus.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-009",
+          "question": "Which option gives the most accurate explanation of mass number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrons only"
+            },
+            {
+              "label": "B",
+              "text": "Neutrons plus electrons"
+            },
+            {
+              "label": "C",
+              "text": "Protons plus neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Protons plus electrons"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Protons plus neutrons",
+          "explanation": "Mass number counts the nucleons in the nucleus.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-010",
+          "question": "Choose the correct principle or fact associated with mass number.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Protons plus neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Electrons only"
+            },
+            {
+              "label": "C",
+              "text": "Neutrons plus electrons"
+            },
+            {
+              "label": "D",
+              "text": "Protons plus electrons"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Protons plus neutrons",
+          "explanation": "Mass number counts the nucleons in the nucleus.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Isotopes",
+      "questions": [
+        {
+          "id": "CH02-MCQ-011",
+          "question": "Which statement correctly describes isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same proton number but different neutron numbers"
+            },
+            {
+              "label": "B",
+              "text": "Same mass number but different elements"
+            },
+            {
+              "label": "C",
+              "text": "Different proton numbers and same neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Different chemical symbols only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Same proton number but different neutron numbers",
+          "explanation": "Isotopes are atoms of the same element with different mass numbers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same proton number but different neutron numbers"
+            },
+            {
+              "label": "B",
+              "text": "Different proton numbers and same neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Same mass number but different elements"
+            },
+            {
+              "label": "D",
+              "text": "Different chemical symbols only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Same proton number but different neutron numbers",
+          "explanation": "Isotopes are atoms of the same element with different mass numbers.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-013",
+          "question": "A student is reviewing isotopes. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same proton number but different neutron numbers"
+            },
+            {
+              "label": "B",
+              "text": "Different proton numbers and same neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Same mass number but different elements"
+            },
+            {
+              "label": "D",
+              "text": "Different chemical symbols only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Same proton number but different neutron numbers",
+          "explanation": "Isotopes are atoms of the same element with different mass numbers.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-014",
+          "question": "Which option gives the most accurate explanation of isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same proton number but different neutron numbers"
+            },
+            {
+              "label": "B",
+              "text": "Different chemical symbols only"
+            },
+            {
+              "label": "C",
+              "text": "Different proton numbers and same neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Same mass number but different elements"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Same proton number but different neutron numbers",
+          "explanation": "Isotopes are atoms of the same element with different mass numbers.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-015",
+          "question": "Choose the correct principle or fact associated with isotopes.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same mass number but different elements"
+            },
+            {
+              "label": "B",
+              "text": "Different proton numbers and same neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Same proton number but different neutron numbers"
+            },
+            {
+              "label": "D",
+              "text": "Different chemical symbols only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Same proton number but different neutron numbers",
+          "explanation": "Isotopes are atoms of the same element with different mass numbers.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Pauli exclusion principle",
+      "questions": [
+        {
+          "id": "CH02-MCQ-016",
+          "question": "Which statement correctly describes pauli exclusion principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No two electrons have the same four quantum numbers"
+            },
+            {
+              "label": "B",
+              "text": "Electrons cannot occupy p orbitals"
+            },
+            {
+              "label": "C",
+              "text": "All electrons have identical spins"
+            },
+            {
+              "label": "D",
+              "text": "An orbital holds unlimited electrons"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "No two electrons have the same four quantum numbers",
+          "explanation": "An orbital can contain at most two electrons with opposite spins.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning pauli exclusion principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "No two electrons have the same four quantum numbers"
+            },
+            {
+              "label": "B",
+              "text": "Electrons cannot occupy p orbitals"
+            },
+            {
+              "label": "C",
+              "text": "All electrons have identical spins"
+            },
+            {
+              "label": "D",
+              "text": "An orbital holds unlimited electrons"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "No two electrons have the same four quantum numbers",
+          "explanation": "An orbital can contain at most two electrons with opposite spins.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-018",
+          "question": "A student is reviewing pauli exclusion principle. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An orbital holds unlimited electrons"
+            },
+            {
+              "label": "B",
+              "text": "Electrons cannot occupy p orbitals"
+            },
+            {
+              "label": "C",
+              "text": "All electrons have identical spins"
+            },
+            {
+              "label": "D",
+              "text": "No two electrons have the same four quantum numbers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "No two electrons have the same four quantum numbers",
+          "explanation": "An orbital can contain at most two electrons with opposite spins.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-019",
+          "question": "Which option gives the most accurate explanation of pauli exclusion principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "All electrons have identical spins"
+            },
+            {
+              "label": "B",
+              "text": "An orbital holds unlimited electrons"
+            },
+            {
+              "label": "C",
+              "text": "No two electrons have the same four quantum numbers"
+            },
+            {
+              "label": "D",
+              "text": "Electrons cannot occupy p orbitals"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "No two electrons have the same four quantum numbers",
+          "explanation": "An orbital can contain at most two electrons with opposite spins.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-020",
+          "question": "Choose the correct principle or fact associated with pauli exclusion principle.",
+          "options": [
+            {
+              "label": "A",
+              "text": "All electrons have identical spins"
+            },
+            {
+              "label": "B",
+              "text": "Electrons cannot occupy p orbitals"
+            },
+            {
+              "label": "C",
+              "text": "An orbital holds unlimited electrons"
+            },
+            {
+              "label": "D",
+              "text": "No two electrons have the same four quantum numbers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "No two electrons have the same four quantum numbers",
+          "explanation": "An orbital can contain at most two electrons with opposite spins.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Hund's rule",
+      "questions": [
+        {
+          "id": "CH02-MCQ-021",
+          "question": "Which statement correctly describes hund's rule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Singly occupy degenerate orbitals before pairing"
+            },
+            {
+              "label": "B",
+              "text": "Fill only the highest shell"
+            },
+            {
+              "label": "C",
+              "text": "Remove all unpaired electrons"
+            },
+            {
+              "label": "D",
+              "text": "Pair electrons before filling orbitals singly"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Singly occupy degenerate orbitals before pairing",
+          "explanation": "This arrangement maximises parallel spins in orbitals of equal energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning hund's rule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fill only the highest shell"
+            },
+            {
+              "label": "B",
+              "text": "Pair electrons before filling orbitals singly"
+            },
+            {
+              "label": "C",
+              "text": "Remove all unpaired electrons"
+            },
+            {
+              "label": "D",
+              "text": "Singly occupy degenerate orbitals before pairing"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Singly occupy degenerate orbitals before pairing",
+          "explanation": "This arrangement maximises parallel spins in orbitals of equal energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-023",
+          "question": "A student is reviewing hund's rule. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pair electrons before filling orbitals singly"
+            },
+            {
+              "label": "B",
+              "text": "Singly occupy degenerate orbitals before pairing"
+            },
+            {
+              "label": "C",
+              "text": "Remove all unpaired electrons"
+            },
+            {
+              "label": "D",
+              "text": "Fill only the highest shell"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Singly occupy degenerate orbitals before pairing",
+          "explanation": "This arrangement maximises parallel spins in orbitals of equal energy.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-024",
+          "question": "Which option gives the most accurate explanation of hund's rule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fill only the highest shell"
+            },
+            {
+              "label": "B",
+              "text": "Singly occupy degenerate orbitals before pairing"
+            },
+            {
+              "label": "C",
+              "text": "Remove all unpaired electrons"
+            },
+            {
+              "label": "D",
+              "text": "Pair electrons before filling orbitals singly"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Singly occupy degenerate orbitals before pairing",
+          "explanation": "This arrangement maximises parallel spins in orbitals of equal energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-025",
+          "question": "Choose the correct principle or fact associated with hund's rule.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fill only the highest shell"
+            },
+            {
+              "label": "B",
+              "text": "Remove all unpaired electrons"
+            },
+            {
+              "label": "C",
+              "text": "Pair electrons before filling orbitals singly"
+            },
+            {
+              "label": "D",
+              "text": "Singly occupy degenerate orbitals before pairing"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Singly occupy degenerate orbitals before pairing",
+          "explanation": "This arrangement maximises parallel spins in orbitals of equal energy.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Aufbau principle",
+      "questions": [
+        {
+          "id": "CH02-MCQ-026",
+          "question": "Which statement correctly describes aufbau principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Random orbital filling"
+            },
+            {
+              "label": "B",
+              "text": "Filling d orbitals before 1s"
+            },
+            {
+              "label": "C",
+              "text": "Increasing orbital energy"
+            },
+            {
+              "label": "D",
+              "text": "Decreasing nuclear charge"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Increasing orbital energy",
+          "explanation": "Electrons generally fill lower-energy orbitals before higher-energy orbitals.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning aufbau principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increasing orbital energy"
+            },
+            {
+              "label": "B",
+              "text": "Random orbital filling"
+            },
+            {
+              "label": "C",
+              "text": "Filling d orbitals before 1s"
+            },
+            {
+              "label": "D",
+              "text": "Decreasing nuclear charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Increasing orbital energy",
+          "explanation": "Electrons generally fill lower-energy orbitals before higher-energy orbitals.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-028",
+          "question": "A student is reviewing aufbau principle. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increasing orbital energy"
+            },
+            {
+              "label": "B",
+              "text": "Random orbital filling"
+            },
+            {
+              "label": "C",
+              "text": "Decreasing nuclear charge"
+            },
+            {
+              "label": "D",
+              "text": "Filling d orbitals before 1s"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Increasing orbital energy",
+          "explanation": "Electrons generally fill lower-energy orbitals before higher-energy orbitals.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-029",
+          "question": "Which option gives the most accurate explanation of aufbau principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increasing orbital energy"
+            },
+            {
+              "label": "B",
+              "text": "Filling d orbitals before 1s"
+            },
+            {
+              "label": "C",
+              "text": "Random orbital filling"
+            },
+            {
+              "label": "D",
+              "text": "Decreasing nuclear charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Increasing orbital energy",
+          "explanation": "Electrons generally fill lower-energy orbitals before higher-energy orbitals.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-030",
+          "question": "Choose the correct principle or fact associated with aufbau principle.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Filling d orbitals before 1s"
+            },
+            {
+              "label": "B",
+              "text": "Increasing orbital energy"
+            },
+            {
+              "label": "C",
+              "text": "Random orbital filling"
+            },
+            {
+              "label": "D",
+              "text": "Decreasing nuclear charge"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Increasing orbital energy",
+          "explanation": "Electrons generally fill lower-energy orbitals before higher-energy orbitals.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Emission spectrum",
+      "questions": [
+        {
+          "id": "CH02-MCQ-031",
+          "question": "Which statement correctly describes emission spectrum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A change in sample mass"
+            },
+            {
+              "label": "B",
+              "text": "Transitions from higher to lower energy levels"
+            },
+            {
+              "label": "C",
+              "text": "Nuclear fission"
+            },
+            {
+              "label": "D",
+              "text": "Molecular filtration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Transitions from higher to lower energy levels",
+          "explanation": "An emitted photon carries the energy difference between the two levels.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning emission spectrum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Transitions from higher to lower energy levels"
+            },
+            {
+              "label": "B",
+              "text": "Molecular filtration"
+            },
+            {
+              "label": "C",
+              "text": "Nuclear fission"
+            },
+            {
+              "label": "D",
+              "text": "A change in sample mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Transitions from higher to lower energy levels",
+          "explanation": "An emitted photon carries the energy difference between the two levels.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-033",
+          "question": "A student is reviewing emission spectrum. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Transitions from higher to lower energy levels"
+            },
+            {
+              "label": "B",
+              "text": "A change in sample mass"
+            },
+            {
+              "label": "C",
+              "text": "Molecular filtration"
+            },
+            {
+              "label": "D",
+              "text": "Nuclear fission"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Transitions from higher to lower energy levels",
+          "explanation": "An emitted photon carries the energy difference between the two levels.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-034",
+          "question": "Which option gives the most accurate explanation of emission spectrum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Molecular filtration"
+            },
+            {
+              "label": "B",
+              "text": "A change in sample mass"
+            },
+            {
+              "label": "C",
+              "text": "Transitions from higher to lower energy levels"
+            },
+            {
+              "label": "D",
+              "text": "Nuclear fission"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Transitions from higher to lower energy levels",
+          "explanation": "An emitted photon carries the energy difference between the two levels.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-035",
+          "question": "Choose the correct principle or fact associated with emission spectrum.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Molecular filtration"
+            },
+            {
+              "label": "B",
+              "text": "Transitions from higher to lower energy levels"
+            },
+            {
+              "label": "C",
+              "text": "Nuclear fission"
+            },
+            {
+              "label": "D",
+              "text": "A change in sample mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Transitions from higher to lower energy levels",
+          "explanation": "An emitted photon carries the energy difference between the two levels.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Photon energy",
+      "questions": [
+        {
+          "id": "CH02-MCQ-036",
+          "question": "Which statement correctly describes photon energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = h/ν"
+            },
+            {
+              "label": "B",
+              "text": "E = ν/h"
+            },
+            {
+              "label": "C",
+              "text": "E = hν"
+            },
+            {
+              "label": "D",
+              "text": "E = mc"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "E = hν",
+          "explanation": "Photon energy is proportional to frequency and inversely proportional to wavelength.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning photon energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = ν/h"
+            },
+            {
+              "label": "B",
+              "text": "E = mc"
+            },
+            {
+              "label": "C",
+              "text": "E = h/ν"
+            },
+            {
+              "label": "D",
+              "text": "E = hν"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "E = hν",
+          "explanation": "Photon energy is proportional to frequency and inversely proportional to wavelength.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-038",
+          "question": "A student is reviewing photon energy. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = ν/h"
+            },
+            {
+              "label": "B",
+              "text": "E = mc"
+            },
+            {
+              "label": "C",
+              "text": "E = hν"
+            },
+            {
+              "label": "D",
+              "text": "E = h/ν"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "E = hν",
+          "explanation": "Photon energy is proportional to frequency and inversely proportional to wavelength.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-039",
+          "question": "Which option gives the most accurate explanation of photon energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = mc"
+            },
+            {
+              "label": "B",
+              "text": "E = hν"
+            },
+            {
+              "label": "C",
+              "text": "E = ν/h"
+            },
+            {
+              "label": "D",
+              "text": "E = h/ν"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "E = hν",
+          "explanation": "Photon energy is proportional to frequency and inversely proportional to wavelength.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-040",
+          "question": "Choose the correct principle or fact associated with photon energy.",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = ν/h"
+            },
+            {
+              "label": "B",
+              "text": "E = h/ν"
+            },
+            {
+              "label": "C",
+              "text": "E = hν"
+            },
+            {
+              "label": "D",
+              "text": "E = mc"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "E = hν",
+          "explanation": "Photon energy is proportional to frequency and inversely proportional to wavelength.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Solubility product",
+      "questions": [
+        {
+          "id": "CH02-MCQ-041",
+          "question": "Which statement correctly describes solubility product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Measures electrical resistance"
+            },
+            {
+              "label": "B",
+              "text": "Measures reaction speed"
+            },
+            {
+              "label": "C",
+              "text": "Gives atomic mass"
+            },
+            {
+              "label": "D",
+              "text": "Ksp"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Ksp",
+          "explanation": "Is the equilibrium constant for dissolution of a sparingly soluble ionic solid.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning solubility product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Measures reaction speed"
+            },
+            {
+              "label": "B",
+              "text": "Measures electrical resistance"
+            },
+            {
+              "label": "C",
+              "text": "Ksp"
+            },
+            {
+              "label": "D",
+              "text": "Gives atomic mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Ksp",
+          "explanation": "Is the equilibrium constant for dissolution of a sparingly soluble ionic solid.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-043",
+          "question": "A student is reviewing solubility product. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gives atomic mass"
+            },
+            {
+              "label": "B",
+              "text": "Measures electrical resistance"
+            },
+            {
+              "label": "C",
+              "text": "Measures reaction speed"
+            },
+            {
+              "label": "D",
+              "text": "Ksp"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Ksp",
+          "explanation": "Is the equilibrium constant for dissolution of a sparingly soluble ionic solid.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-044",
+          "question": "Which option gives the most accurate explanation of solubility product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gives atomic mass"
+            },
+            {
+              "label": "B",
+              "text": "Measures electrical resistance"
+            },
+            {
+              "label": "C",
+              "text": "Measures reaction speed"
+            },
+            {
+              "label": "D",
+              "text": "Ksp"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Ksp",
+          "explanation": "Is the equilibrium constant for dissolution of a sparingly soluble ionic solid.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-045",
+          "question": "Choose the correct principle or fact associated with solubility product.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ksp"
+            },
+            {
+              "label": "B",
+              "text": "Measures electrical resistance"
+            },
+            {
+              "label": "C",
+              "text": "Measures reaction speed"
+            },
+            {
+              "label": "D",
+              "text": "Gives atomic mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Ksp",
+          "explanation": "Is the equilibrium constant for dissolution of a sparingly soluble ionic solid.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Precipitation condition",
+      "questions": [
+        {
+          "id": "CH02-MCQ-046",
+          "question": "Which statement correctly describes precipitation condition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ionic product exceeds Ksp"
+            },
+            {
+              "label": "B",
+              "text": "The solvent evaporates completely"
+            },
+            {
+              "label": "C",
+              "text": "Ionic product is less than Ksp"
+            },
+            {
+              "label": "D",
+              "text": "Ionic product is always zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Ionic product exceeds Ksp",
+          "explanation": "A precipitate forms when the solution is supersaturated with respect to the solid.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning precipitation condition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ionic product is always zero"
+            },
+            {
+              "label": "B",
+              "text": "Ionic product exceeds Ksp"
+            },
+            {
+              "label": "C",
+              "text": "Ionic product is less than Ksp"
+            },
+            {
+              "label": "D",
+              "text": "The solvent evaporates completely"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Ionic product exceeds Ksp",
+          "explanation": "A precipitate forms when the solution is supersaturated with respect to the solid.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-048",
+          "question": "A student is reviewing precipitation condition. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ionic product is always zero"
+            },
+            {
+              "label": "B",
+              "text": "Ionic product exceeds Ksp"
+            },
+            {
+              "label": "C",
+              "text": "The solvent evaporates completely"
+            },
+            {
+              "label": "D",
+              "text": "Ionic product is less than Ksp"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Ionic product exceeds Ksp",
+          "explanation": "A precipitate forms when the solution is supersaturated with respect to the solid.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-049",
+          "question": "Which option gives the most accurate explanation of precipitation condition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ionic product exceeds Ksp"
+            },
+            {
+              "label": "B",
+              "text": "Ionic product is always zero"
+            },
+            {
+              "label": "C",
+              "text": "Ionic product is less than Ksp"
+            },
+            {
+              "label": "D",
+              "text": "The solvent evaporates completely"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Ionic product exceeds Ksp",
+          "explanation": "A precipitate forms when the solution is supersaturated with respect to the solid.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-050",
+          "question": "Choose the correct principle or fact associated with precipitation condition.",
+          "options": [
+            {
+              "label": "A",
+              "text": "The solvent evaporates completely"
+            },
+            {
+              "label": "B",
+              "text": "Ionic product is always zero"
+            },
+            {
+              "label": "C",
+              "text": "Ionic product is less than Ksp"
+            },
+            {
+              "label": "D",
+              "text": "Ionic product exceeds Ksp"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Ionic product exceeds Ksp",
+          "explanation": "A precipitate forms when the solution is supersaturated with respect to the solid.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

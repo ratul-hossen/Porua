@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 9,
+  "chapter_title": "Continuity of Human Life",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH09_T01",
+      "topic_name": "Seminiferous Tubule",
+      "mcqs": [
+        {
+          "id": "BIO2_CH09_Q01",
+          "question": "Which term is correctly described as: site of sperm production in the testes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "B",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "C",
+              "text": "oviduct"
+            },
+            {
+              "label": "D",
+              "text": "endometrium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "seminiferous tubule",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q02",
+          "question": "The biological role or defining feature of seminiferous tubule is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "B",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "C",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "D",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "site of sperm production in the testes",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q03",
+          "question": "A student records the following clue: “site of sperm production in the testes.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "oviduct"
+            },
+            {
+              "label": "C",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "D",
+              "text": "ovarian follicle"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "seminiferous tubule",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q04",
+          "question": "Which option completes this statement correctly? seminiferous tubule is the term for site of sperm production in the testes.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "B",
+              "text": "endometrium"
+            },
+            {
+              "label": "C",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "D",
+              "text": "placenta"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "seminiferous tubule",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q05",
+          "question": "If an examination asks for the term associated with “site of sperm production in the testes”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "C",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "D",
+              "text": "endometrium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "seminiferous tubule",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q06",
+          "question": "Which structure, process or concept matches the description “site of sperm production in the testes”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "oviduct"
+            },
+            {
+              "label": "C",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "D",
+              "text": "seminiferous tubule"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "seminiferous tubule",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q07",
+          "question": "Choose the accurate statement about seminiferous tubule.",
+          "options": [
+            {
+              "label": "A",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "B",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "C",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "D",
+              "text": "structure in the ovary containing a developing oocyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "site of sperm production in the testes",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q08",
+          "question": "A diagram or observation identifies seminiferous tubule. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "B",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "C",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "D",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "site of sperm production in the testes",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q09",
+          "question": "Which pairing is correct for seminiferous tubule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "B",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "C",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "D",
+              "text": "usual site of fertilisation in humans"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "site of sperm production in the testes",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        },
+        {
+          "id": "BIO2_CH09_Q10",
+          "question": "In a topic review, which answer best explains the clue “site of sperm production in the testes”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "B",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "C",
+              "text": "endometrium"
+            },
+            {
+              "label": "D",
+              "text": "oviduct"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "seminiferous tubule",
+          "explanation": "Spermatogenesis occurs within its germinal epithelium."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH09_T02",
+      "topic_name": "Ovarian Follicle",
+      "mcqs": [
+        {
+          "id": "BIO2_CH09_Q11",
+          "question": "Which term is correctly described as: structure in the ovary containing a developing oocyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "B",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "C",
+              "text": "oviduct"
+            },
+            {
+              "label": "D",
+              "text": "endometrium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ovarian follicle",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q12",
+          "question": "The biological role or defining feature of ovarian follicle is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "B",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "C",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "D",
+              "text": "usual site of fertilisation in humans"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "structure in the ovary containing a developing oocyte",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q13",
+          "question": "A student records the following clue: “structure in the ovary containing a developing oocyte.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endometrium"
+            },
+            {
+              "label": "B",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "C",
+              "text": "oviduct"
+            },
+            {
+              "label": "D",
+              "text": "ovarian follicle"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ovarian follicle",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q14",
+          "question": "Which option completes this statement correctly? ovarian follicle is the term for structure in the ovary containing a developing oocyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "endometrium"
+            },
+            {
+              "label": "B",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "C",
+              "text": "oviduct"
+            },
+            {
+              "label": "D",
+              "text": "seminiferous tubule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ovarian follicle",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q15",
+          "question": "If an examination asks for the term associated with “structure in the ovary containing a developing oocyte”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endometrium"
+            },
+            {
+              "label": "B",
+              "text": "placenta"
+            },
+            {
+              "label": "C",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "D",
+              "text": "ovarian follicle"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ovarian follicle",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q16",
+          "question": "Which structure, process or concept matches the description “structure in the ovary containing a developing oocyte”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "oviduct"
+            },
+            {
+              "label": "B",
+              "text": "endometrium"
+            },
+            {
+              "label": "C",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "D",
+              "text": "placenta"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ovarian follicle",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q17",
+          "question": "Choose the accurate statement about ovarian follicle.",
+          "options": [
+            {
+              "label": "A",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "B",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "C",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "D",
+              "text": "site of sperm production in the testes"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "structure in the ovary containing a developing oocyte",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q18",
+          "question": "A diagram or observation identifies ovarian follicle. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "B",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "C",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "D",
+              "text": "site of sperm production in the testes"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "structure in the ovary containing a developing oocyte",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q19",
+          "question": "Which pairing is correct for ovarian follicle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "B",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "C",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "D",
+              "text": "structure in the ovary containing a developing oocyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "structure in the ovary containing a developing oocyte",
+          "explanation": "Follicles support oocyte development."
+        },
+        {
+          "id": "BIO2_CH09_Q20",
+          "question": "In a topic review, which answer best explains the clue “structure in the ovary containing a developing oocyte”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "endometrium"
+            },
+            {
+              "label": "C",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "D",
+              "text": "oviduct"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ovarian follicle",
+          "explanation": "Follicles support oocyte development."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH09_T03",
+      "topic_name": "Oviduct",
+      "mcqs": [
+        {
+          "id": "BIO2_CH09_Q21",
+          "question": "Which term is correctly described as: usual site of fertilisation in humans?",
+          "options": [
+            {
+              "label": "A",
+              "text": "oviduct"
+            },
+            {
+              "label": "B",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "C",
+              "text": "placenta"
+            },
+            {
+              "label": "D",
+              "text": "endometrium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "oviduct",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q22",
+          "question": "The biological role or defining feature of oviduct is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "B",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "C",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "D",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "usual site of fertilisation in humans",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q23",
+          "question": "A student records the following clue: “usual site of fertilisation in humans.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "oviduct"
+            },
+            {
+              "label": "B",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "C",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "D",
+              "text": "placenta"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "oviduct",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q24",
+          "question": "Which option completes this statement correctly? oviduct is the term for usual site of fertilisation in humans.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "B",
+              "text": "endometrium"
+            },
+            {
+              "label": "C",
+              "text": "placenta"
+            },
+            {
+              "label": "D",
+              "text": "oviduct"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "oviduct",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q25",
+          "question": "If an examination asks for the term associated with “usual site of fertilisation in humans”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "C",
+              "text": "oviduct"
+            },
+            {
+              "label": "D",
+              "text": "endometrium"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "oviduct",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q26",
+          "question": "Which structure, process or concept matches the description “usual site of fertilisation in humans”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "B",
+              "text": "oviduct"
+            },
+            {
+              "label": "C",
+              "text": "placenta"
+            },
+            {
+              "label": "D",
+              "text": "seminiferous tubule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "oviduct",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q27",
+          "question": "Choose the accurate statement about oviduct.",
+          "options": [
+            {
+              "label": "A",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "B",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "C",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "D",
+              "text": "structure in the ovary containing a developing oocyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "usual site of fertilisation in humans",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q28",
+          "question": "A diagram or observation identifies oviduct. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "B",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "C",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "D",
+              "text": "usual site of fertilisation in humans"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "usual site of fertilisation in humans",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q29",
+          "question": "Which pairing is correct for oviduct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "B",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "C",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "D",
+              "text": "usual site of fertilisation in humans"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "usual site of fertilisation in humans",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        },
+        {
+          "id": "BIO2_CH09_Q30",
+          "question": "In a topic review, which answer best explains the clue “usual site of fertilisation in humans”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "B",
+              "text": "oviduct"
+            },
+            {
+              "label": "C",
+              "text": "placenta"
+            },
+            {
+              "label": "D",
+              "text": "seminiferous tubule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "oviduct",
+          "explanation": "Sperm and secondary oocyte commonly meet in the oviduct."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH09_T04",
+      "topic_name": "Endometrium",
+      "mcqs": [
+        {
+          "id": "BIO2_CH09_Q31",
+          "question": "Which term is correctly described as: inner lining of the uterus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "B",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "C",
+              "text": "placenta"
+            },
+            {
+              "label": "D",
+              "text": "endometrium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "endometrium",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q32",
+          "question": "The biological role or defining feature of endometrium is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "B",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "C",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "D",
+              "text": "inner lining of the uterus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "inner lining of the uterus",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q33",
+          "question": "A student records the following clue: “inner lining of the uterus.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "endometrium"
+            },
+            {
+              "label": "C",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "D",
+              "text": "oviduct"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "endometrium",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q34",
+          "question": "Which option completes this statement correctly? endometrium is the term for inner lining of the uterus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "C",
+              "text": "endometrium"
+            },
+            {
+              "label": "D",
+              "text": "oviduct"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "endometrium",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q35",
+          "question": "If an examination asks for the term associated with “inner lining of the uterus”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "B",
+              "text": "endometrium"
+            },
+            {
+              "label": "C",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "D",
+              "text": "placenta"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "endometrium",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q36",
+          "question": "Which structure, process or concept matches the description “inner lining of the uterus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "endometrium"
+            },
+            {
+              "label": "C",
+              "text": "oviduct"
+            },
+            {
+              "label": "D",
+              "text": "seminiferous tubule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "endometrium",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q37",
+          "question": "Choose the accurate statement about endometrium.",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "B",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "C",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "D",
+              "text": "inner lining of the uterus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "inner lining of the uterus",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q38",
+          "question": "A diagram or observation identifies endometrium. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "B",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "C",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "D",
+              "text": "site of sperm production in the testes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "inner lining of the uterus",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q39",
+          "question": "Which pairing is correct for endometrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "B",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "C",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "D",
+              "text": "inner lining of the uterus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "inner lining of the uterus",
+          "explanation": "The blastocyst implants into this lining."
+        },
+        {
+          "id": "BIO2_CH09_Q40",
+          "question": "In a topic review, which answer best explains the clue “inner lining of the uterus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "B",
+              "text": "placenta"
+            },
+            {
+              "label": "C",
+              "text": "oviduct"
+            },
+            {
+              "label": "D",
+              "text": "endometrium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "endometrium",
+          "explanation": "The blastocyst implants into this lining."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH09_T05",
+      "topic_name": "Placenta",
+      "mcqs": [
+        {
+          "id": "BIO2_CH09_Q41",
+          "question": "Which term is correctly described as: organ enabling exchange between maternal and fetal circulations?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endometrium"
+            },
+            {
+              "label": "B",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "C",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "D",
+              "text": "placenta"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "placenta",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q42",
+          "question": "The biological role or defining feature of placenta is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "B",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "C",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "D",
+              "text": "usual site of fertilisation in humans"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "organ enabling exchange between maternal and fetal circulations",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q43",
+          "question": "A student records the following clue: “organ enabling exchange between maternal and fetal circulations.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endometrium"
+            },
+            {
+              "label": "B",
+              "text": "placenta"
+            },
+            {
+              "label": "C",
+              "text": "oviduct"
+            },
+            {
+              "label": "D",
+              "text": "seminiferous tubule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "placenta",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q44",
+          "question": "Which option completes this statement correctly? placenta is the term for organ enabling exchange between maternal and fetal circulations.",
+          "options": [
+            {
+              "label": "A",
+              "text": "placenta"
+            },
+            {
+              "label": "B",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "C",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "D",
+              "text": "oviduct"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "placenta",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q45",
+          "question": "If an examination asks for the term associated with “organ enabling exchange between maternal and fetal circulations”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "B",
+              "text": "placenta"
+            },
+            {
+              "label": "C",
+              "text": "endometrium"
+            },
+            {
+              "label": "D",
+              "text": "ovarian follicle"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "placenta",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q46",
+          "question": "Which structure, process or concept matches the description “organ enabling exchange between maternal and fetal circulations”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "B",
+              "text": "placenta"
+            },
+            {
+              "label": "C",
+              "text": "seminiferous tubule"
+            },
+            {
+              "label": "D",
+              "text": "endometrium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "placenta",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q47",
+          "question": "Choose the accurate statement about placenta.",
+          "options": [
+            {
+              "label": "A",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "B",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "C",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "D",
+              "text": "usual site of fertilisation in humans"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "organ enabling exchange between maternal and fetal circulations",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q48",
+          "question": "A diagram or observation identifies placenta. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "B",
+              "text": "structure in the ovary containing a developing oocyte"
+            },
+            {
+              "label": "C",
+              "text": "site of sperm production in the testes"
+            },
+            {
+              "label": "D",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "organ enabling exchange between maternal and fetal circulations",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q49",
+          "question": "Which pairing is correct for placenta?",
+          "options": [
+            {
+              "label": "A",
+              "text": "organ enabling exchange between maternal and fetal circulations"
+            },
+            {
+              "label": "B",
+              "text": "inner lining of the uterus"
+            },
+            {
+              "label": "C",
+              "text": "usual site of fertilisation in humans"
+            },
+            {
+              "label": "D",
+              "text": "site of sperm production in the testes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "organ enabling exchange between maternal and fetal circulations",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        },
+        {
+          "id": "BIO2_CH09_Q50",
+          "question": "In a topic review, which answer best explains the clue “organ enabling exchange between maternal and fetal circulations”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "oviduct"
+            },
+            {
+              "label": "B",
+              "text": "endometrium"
+            },
+            {
+              "label": "C",
+              "text": "ovarian follicle"
+            },
+            {
+              "label": "D",
+              "text": "placenta"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "placenta",
+          "explanation": "It transfers materials while keeping the two blood supplies normally separate."
+        }
+      ]
+    }
+  ]
+}

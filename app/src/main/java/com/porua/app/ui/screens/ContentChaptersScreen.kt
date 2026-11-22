@@ -141,16 +141,18 @@ private fun ContentChapterCard(
                     color = colors.primary
                 )
             }
-            Spacer(modifier = Modifier.width(8.dp))
-            Text(
-                text = chapter.paper,
-                fontSize = 11.sp,
-                color = colors.textMuted,
-                modifier = Modifier
-                    .clip(ShapeSm)
-                    .background(colors.surface2)
-                    .padding(horizontal = 8.dp, vertical = 4.dp)
-            )
+            if (chapter.paper.isNotBlank()) {
+                Spacer(modifier = Modifier.width(8.dp))
+                Text(
+                    text = chapter.paper,
+                    fontSize = 11.sp,
+                    color = colors.textMuted,
+                    modifier = Modifier
+                        .clip(ShapeSm)
+                        .background(colors.surface2)
+                        .padding(horizontal = 8.dp, vertical = 4.dp)
+                )
+            }
         }
 
         Spacer(modifier = Modifier.height(8.dp))

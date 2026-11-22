@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 11,
+  "chapter_title": "Astronomy",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Solar system",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ001",
+          "question": "Which statement best describes solar system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Sun is a star at the centre of the Solar System"
+            },
+            {
+              "label": "B",
+              "text": "a comet"
+            },
+            {
+              "label": "C",
+              "text": "a planet"
+            },
+            {
+              "label": "D",
+              "text": "a moon"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Sun is a star at the centre of the Solar System",
+          "explanation": "The planets orbit the Sun under gravity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ002",
+          "question": "Which option is correctly associated with solar system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a comet"
+            },
+            {
+              "label": "B",
+              "text": "a moon"
+            },
+            {
+              "label": "C",
+              "text": "The Sun is a star at the centre of the Solar System"
+            },
+            {
+              "label": "D",
+              "text": "a planet"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The Sun is a star at the centre of the Solar System",
+          "explanation": "The planets orbit the Sun under gravity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ003",
+          "question": "In a basic HSC Physics question about solar system, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a moon"
+            },
+            {
+              "label": "B",
+              "text": "The Sun is a star at the centre of the Solar System"
+            },
+            {
+              "label": "C",
+              "text": "a comet"
+            },
+            {
+              "label": "D",
+              "text": "a planet"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The Sun is a star at the centre of the Solar System",
+          "explanation": "The planets orbit the Sun under gravity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ004",
+          "question": "Which fact should be remembered about solar system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a planet"
+            },
+            {
+              "label": "B",
+              "text": "The Sun is a star at the centre of the Solar System"
+            },
+            {
+              "label": "C",
+              "text": "a comet"
+            },
+            {
+              "label": "D",
+              "text": "a moon"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The Sun is a star at the centre of the Solar System",
+          "explanation": "The planets orbit the Sun under gravity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning solar system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Sun is a star at the centre of the Solar System"
+            },
+            {
+              "label": "B",
+              "text": "a moon"
+            },
+            {
+              "label": "C",
+              "text": "a comet"
+            },
+            {
+              "label": "D",
+              "text": "a planet"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Sun is a star at the centre of the Solar System",
+          "explanation": "The planets orbit the Sun under gravity.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Planetary orbits",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ006",
+          "question": "Which statement best describes planetary orbits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "circles with Earth at the centre"
+            },
+            {
+              "label": "B",
+              "text": "perfect squares"
+            },
+            {
+              "label": "C",
+              "text": "Planets move in elliptical orbits with the Sun at one focus"
+            },
+            {
+              "label": "D",
+              "text": "straight lines"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Planets move in elliptical orbits with the Sun at one focus",
+          "explanation": "This is Kepler's first law.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ007",
+          "question": "Which option is correctly associated with planetary orbits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Planets move in elliptical orbits with the Sun at one focus"
+            },
+            {
+              "label": "B",
+              "text": "straight lines"
+            },
+            {
+              "label": "C",
+              "text": "circles with Earth at the centre"
+            },
+            {
+              "label": "D",
+              "text": "perfect squares"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Planets move in elliptical orbits with the Sun at one focus",
+          "explanation": "This is Kepler's first law.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ008",
+          "question": "In a basic HSC Physics question about planetary orbits, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Planets move in elliptical orbits with the Sun at one focus"
+            },
+            {
+              "label": "B",
+              "text": "straight lines"
+            },
+            {
+              "label": "C",
+              "text": "circles with Earth at the centre"
+            },
+            {
+              "label": "D",
+              "text": "perfect squares"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Planets move in elliptical orbits with the Sun at one focus",
+          "explanation": "This is Kepler's first law.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ009",
+          "question": "Which fact should be remembered about planetary orbits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "circles with Earth at the centre"
+            },
+            {
+              "label": "B",
+              "text": "straight lines"
+            },
+            {
+              "label": "C",
+              "text": "perfect squares"
+            },
+            {
+              "label": "D",
+              "text": "Planets move in elliptical orbits with the Sun at one focus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Planets move in elliptical orbits with the Sun at one focus",
+          "explanation": "This is Kepler's first law.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning planetary orbits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Planets move in elliptical orbits with the Sun at one focus"
+            },
+            {
+              "label": "B",
+              "text": "straight lines"
+            },
+            {
+              "label": "C",
+              "text": "perfect squares"
+            },
+            {
+              "label": "D",
+              "text": "circles with Earth at the centre"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Planets move in elliptical orbits with the Sun at one focus",
+          "explanation": "This is Kepler's first law.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Astronomical unit",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ011",
+          "question": "Which statement best describes astronomical unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance to the nearest star"
+            },
+            {
+              "label": "B",
+              "text": "Sun's radius"
+            },
+            {
+              "label": "C",
+              "text": "One astronomical unit is approximately the mean Earth-Sun distance"
+            },
+            {
+              "label": "D",
+              "text": "Earth-Moon distance"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "One astronomical unit is approximately the mean Earth-Sun distance",
+          "explanation": "The AU is about 1.496 × 10¹¹ m.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ012",
+          "question": "Which option is correctly associated with astronomical unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sun's radius"
+            },
+            {
+              "label": "B",
+              "text": "One astronomical unit is approximately the mean Earth-Sun distance"
+            },
+            {
+              "label": "C",
+              "text": "distance to the nearest star"
+            },
+            {
+              "label": "D",
+              "text": "Earth-Moon distance"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "One astronomical unit is approximately the mean Earth-Sun distance",
+          "explanation": "The AU is about 1.496 × 10¹¹ m.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ013",
+          "question": "In a basic HSC Physics question about astronomical unit, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sun's radius"
+            },
+            {
+              "label": "B",
+              "text": "One astronomical unit is approximately the mean Earth-Sun distance"
+            },
+            {
+              "label": "C",
+              "text": "distance to the nearest star"
+            },
+            {
+              "label": "D",
+              "text": "Earth-Moon distance"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "One astronomical unit is approximately the mean Earth-Sun distance",
+          "explanation": "The AU is about 1.496 × 10¹¹ m.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ014",
+          "question": "Which fact should be remembered about astronomical unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sun's radius"
+            },
+            {
+              "label": "B",
+              "text": "Earth-Moon distance"
+            },
+            {
+              "label": "C",
+              "text": "One astronomical unit is approximately the mean Earth-Sun distance"
+            },
+            {
+              "label": "D",
+              "text": "distance to the nearest star"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "One astronomical unit is approximately the mean Earth-Sun distance",
+          "explanation": "The AU is about 1.496 × 10¹¹ m.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning astronomical unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sun's radius"
+            },
+            {
+              "label": "B",
+              "text": "One astronomical unit is approximately the mean Earth-Sun distance"
+            },
+            {
+              "label": "C",
+              "text": "Earth-Moon distance"
+            },
+            {
+              "label": "D",
+              "text": "distance to the nearest star"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "One astronomical unit is approximately the mean Earth-Sun distance",
+          "explanation": "The AU is about 1.496 × 10¹¹ m.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Light-year",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ016",
+          "question": "Which statement best describes light-year?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a unit of brightness"
+            },
+            {
+              "label": "B",
+              "text": "a unit of time"
+            },
+            {
+              "label": "C",
+              "text": "a unit of mass"
+            },
+            {
+              "label": "D",
+              "text": "A light-year is a unit of distance"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A light-year is a unit of distance",
+          "explanation": "It is the distance light travels in vacuum in one year.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ017",
+          "question": "Which option is correctly associated with light-year?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a unit of mass"
+            },
+            {
+              "label": "B",
+              "text": "A light-year is a unit of distance"
+            },
+            {
+              "label": "C",
+              "text": "a unit of brightness"
+            },
+            {
+              "label": "D",
+              "text": "a unit of time"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A light-year is a unit of distance",
+          "explanation": "It is the distance light travels in vacuum in one year.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ018",
+          "question": "In a basic HSC Physics question about light-year, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A light-year is a unit of distance"
+            },
+            {
+              "label": "B",
+              "text": "a unit of brightness"
+            },
+            {
+              "label": "C",
+              "text": "a unit of time"
+            },
+            {
+              "label": "D",
+              "text": "a unit of mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A light-year is a unit of distance",
+          "explanation": "It is the distance light travels in vacuum in one year.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ019",
+          "question": "Which fact should be remembered about light-year?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a unit of time"
+            },
+            {
+              "label": "B",
+              "text": "A light-year is a unit of distance"
+            },
+            {
+              "label": "C",
+              "text": "a unit of brightness"
+            },
+            {
+              "label": "D",
+              "text": "a unit of mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A light-year is a unit of distance",
+          "explanation": "It is the distance light travels in vacuum in one year.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning light-year?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a unit of brightness"
+            },
+            {
+              "label": "B",
+              "text": "a unit of time"
+            },
+            {
+              "label": "C",
+              "text": "A light-year is a unit of distance"
+            },
+            {
+              "label": "D",
+              "text": "a unit of mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A light-year is a unit of distance",
+          "explanation": "It is the distance light travels in vacuum in one year.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Parallax",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ021",
+          "question": "Which statement best describes parallax?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a star's explosion"
+            },
+            {
+              "label": "B",
+              "text": "a change in star colour"
+            },
+            {
+              "label": "C",
+              "text": "the bending of sound"
+            },
+            {
+              "label": "D",
+              "text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as",
+          "explanation": "Parallax provides a geometric method for measuring nearby stellar distances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ022",
+          "question": "Which option is correctly associated with parallax?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a star's explosion"
+            },
+            {
+              "label": "B",
+              "text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun"
+            },
+            {
+              "label": "C",
+              "text": "the bending of sound"
+            },
+            {
+              "label": "D",
+              "text": "a change in star colour"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as",
+          "explanation": "Parallax provides a geometric method for measuring nearby stellar distances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ023",
+          "question": "In a basic HSC Physics question about parallax, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun"
+            },
+            {
+              "label": "B",
+              "text": "a star's explosion"
+            },
+            {
+              "label": "C",
+              "text": "the bending of sound"
+            },
+            {
+              "label": "D",
+              "text": "a change in star colour"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as",
+          "explanation": "Parallax provides a geometric method for measuring nearby stellar distances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ024",
+          "question": "Which fact should be remembered about parallax?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun"
+            },
+            {
+              "label": "B",
+              "text": "a star's explosion"
+            },
+            {
+              "label": "C",
+              "text": "a change in star colour"
+            },
+            {
+              "label": "D",
+              "text": "the bending of sound"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as",
+          "explanation": "Parallax provides a geometric method for measuring nearby stellar distances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning parallax?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the bending of sound"
+            },
+            {
+              "label": "B",
+              "text": "a change in star colour"
+            },
+            {
+              "label": "C",
+              "text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun"
+            },
+            {
+              "label": "D",
+              "text": "a star's explosion"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Stellar parallax is the apparent shift in a nearby star's position against distant background stars as",
+          "explanation": "Parallax provides a geometric method for measuring nearby stellar distances.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Star luminosity",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ026",
+          "question": "Which statement best describes star luminosity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "surface temperature only"
+            },
+            {
+              "label": "B",
+              "text": "Luminosity is the total energy emitted by a star per unit time"
+            },
+            {
+              "label": "C",
+              "text": "apparent brightness at Earth only"
+            },
+            {
+              "label": "D",
+              "text": "distance from Earth"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Luminosity is the total energy emitted by a star per unit time",
+          "explanation": "Luminosity is intrinsic power output, measured in watts.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ027",
+          "question": "Which option is correctly associated with star luminosity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "apparent brightness at Earth only"
+            },
+            {
+              "label": "B",
+              "text": "surface temperature only"
+            },
+            {
+              "label": "C",
+              "text": "distance from Earth"
+            },
+            {
+              "label": "D",
+              "text": "Luminosity is the total energy emitted by a star per unit time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Luminosity is the total energy emitted by a star per unit time",
+          "explanation": "Luminosity is intrinsic power output, measured in watts.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ028",
+          "question": "In a basic HSC Physics question about star luminosity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "surface temperature only"
+            },
+            {
+              "label": "B",
+              "text": "distance from Earth"
+            },
+            {
+              "label": "C",
+              "text": "apparent brightness at Earth only"
+            },
+            {
+              "label": "D",
+              "text": "Luminosity is the total energy emitted by a star per unit time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Luminosity is the total energy emitted by a star per unit time",
+          "explanation": "Luminosity is intrinsic power output, measured in watts.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ029",
+          "question": "Which fact should be remembered about star luminosity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance from Earth"
+            },
+            {
+              "label": "B",
+              "text": "Luminosity is the total energy emitted by a star per unit time"
+            },
+            {
+              "label": "C",
+              "text": "surface temperature only"
+            },
+            {
+              "label": "D",
+              "text": "apparent brightness at Earth only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Luminosity is the total energy emitted by a star per unit time",
+          "explanation": "Luminosity is intrinsic power output, measured in watts.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning star luminosity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "apparent brightness at Earth only"
+            },
+            {
+              "label": "B",
+              "text": "distance from Earth"
+            },
+            {
+              "label": "C",
+              "text": "Luminosity is the total energy emitted by a star per unit time"
+            },
+            {
+              "label": "D",
+              "text": "surface temperature only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Luminosity is the total energy emitted by a star per unit time",
+          "explanation": "Luminosity is intrinsic power output, measured in watts.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Hertzsprung-Russell diagram",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ031",
+          "question": "Which statement best describes hertzsprung-russell diagram?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass against age only"
+            },
+            {
+              "label": "B",
+              "text": "distance against radius"
+            },
+            {
+              "label": "C",
+              "text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral class"
+            },
+            {
+              "label": "D",
+              "text": "orbital speed against time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral",
+          "explanation": "It is used to classify stars and understand stellar evolution.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ032",
+          "question": "Which option is correctly associated with hertzsprung-russell diagram?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass against age only"
+            },
+            {
+              "label": "B",
+              "text": "distance against radius"
+            },
+            {
+              "label": "C",
+              "text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral class"
+            },
+            {
+              "label": "D",
+              "text": "orbital speed against time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral",
+          "explanation": "It is used to classify stars and understand stellar evolution.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ033",
+          "question": "In a basic HSC Physics question about hertzsprung-russell diagram, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "orbital speed against time"
+            },
+            {
+              "label": "B",
+              "text": "distance against radius"
+            },
+            {
+              "label": "C",
+              "text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral class"
+            },
+            {
+              "label": "D",
+              "text": "mass against age only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral",
+          "explanation": "It is used to classify stars and understand stellar evolution.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ034",
+          "question": "Which fact should be remembered about hertzsprung-russell diagram?",
+          "options": [
+            {
+              "label": "A",
+              "text": "orbital speed against time"
+            },
+            {
+              "label": "B",
+              "text": "mass against age only"
+            },
+            {
+              "label": "C",
+              "text": "distance against radius"
+            },
+            {
+              "label": "D",
+              "text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral class"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral",
+          "explanation": "It is used to classify stars and understand stellar evolution.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning hertzsprung-russell diagram?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass against age only"
+            },
+            {
+              "label": "B",
+              "text": "distance against radius"
+            },
+            {
+              "label": "C",
+              "text": "orbital speed against time"
+            },
+            {
+              "label": "D",
+              "text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral class"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The Hertzsprung-Russell diagram plots stellar luminosity against surface temperature or spectral",
+          "explanation": "It is used to classify stars and understand stellar evolution.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Redshift",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ036",
+          "question": "Which statement best describes redshift?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the universe"
+            },
+            {
+              "label": "B",
+              "text": "increase in sound frequency"
+            },
+            {
+              "label": "C",
+              "text": "decrease in wavelength"
+            },
+            {
+              "label": "D",
+              "text": "a star becoming red by cooling only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the",
+          "explanation": "For distant galaxies, redshift is evidence of cosmic expansion.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ037",
+          "question": "Which option is correctly associated with redshift?",
+          "options": [
+            {
+              "label": "A",
+              "text": "increase in sound frequency"
+            },
+            {
+              "label": "B",
+              "text": "decrease in wavelength"
+            },
+            {
+              "label": "C",
+              "text": "a star becoming red by cooling only"
+            },
+            {
+              "label": "D",
+              "text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the universe"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the",
+          "explanation": "For distant galaxies, redshift is evidence of cosmic expansion.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ038",
+          "question": "In a basic HSC Physics question about redshift, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the universe"
+            },
+            {
+              "label": "B",
+              "text": "a star becoming red by cooling only"
+            },
+            {
+              "label": "C",
+              "text": "decrease in wavelength"
+            },
+            {
+              "label": "D",
+              "text": "increase in sound frequency"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the",
+          "explanation": "For distant galaxies, redshift is evidence of cosmic expansion.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ039",
+          "question": "Which fact should be remembered about redshift?",
+          "options": [
+            {
+              "label": "A",
+              "text": "decrease in wavelength"
+            },
+            {
+              "label": "B",
+              "text": "increase in sound frequency"
+            },
+            {
+              "label": "C",
+              "text": "a star becoming red by cooling only"
+            },
+            {
+              "label": "D",
+              "text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the universe"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the",
+          "explanation": "For distant galaxies, redshift is evidence of cosmic expansion.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning redshift?",
+          "options": [
+            {
+              "label": "A",
+              "text": "increase in sound frequency"
+            },
+            {
+              "label": "B",
+              "text": "decrease in wavelength"
+            },
+            {
+              "label": "C",
+              "text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the universe"
+            },
+            {
+              "label": "D",
+              "text": "a star becoming red by cooling only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Cosmological redshift is the increase in observed wavelength of light due to expansion of the",
+          "explanation": "For distant galaxies, redshift is evidence of cosmic expansion.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Galaxy",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ041",
+          "question": "Which statement best describes galaxy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a small rock in space"
+            },
+            {
+              "label": "B",
+              "text": "a single star"
+            },
+            {
+              "label": "C",
+              "text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter"
+            },
+            {
+              "label": "D",
+              "text": "a planet's atmosphere"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter",
+          "explanation": "Galaxies contain many stars and interstellar material.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ042",
+          "question": "Which option is correctly associated with galaxy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a single star"
+            },
+            {
+              "label": "B",
+              "text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter"
+            },
+            {
+              "label": "C",
+              "text": "a small rock in space"
+            },
+            {
+              "label": "D",
+              "text": "a planet's atmosphere"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter",
+          "explanation": "Galaxies contain many stars and interstellar material.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ043",
+          "question": "In a basic HSC Physics question about galaxy, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a single star"
+            },
+            {
+              "label": "B",
+              "text": "a planet's atmosphere"
+            },
+            {
+              "label": "C",
+              "text": "a small rock in space"
+            },
+            {
+              "label": "D",
+              "text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter",
+          "explanation": "Galaxies contain many stars and interstellar material.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ044",
+          "question": "Which fact should be remembered about galaxy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a small rock in space"
+            },
+            {
+              "label": "B",
+              "text": "a single star"
+            },
+            {
+              "label": "C",
+              "text": "a planet's atmosphere"
+            },
+            {
+              "label": "D",
+              "text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter",
+          "explanation": "Galaxies contain many stars and interstellar material.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning galaxy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter"
+            },
+            {
+              "label": "B",
+              "text": "a small rock in space"
+            },
+            {
+              "label": "C",
+              "text": "a planet's atmosphere"
+            },
+            {
+              "label": "D",
+              "text": "a single star"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A galaxy is a gravitationally bound system of stars, gas, dust and dark matter",
+          "explanation": "Galaxies contain many stars and interstellar material.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Big Bang model",
+      "questions": [
+        {
+          "id": "PHY_2P_CH11_MCQ046",
+          "question": "Which statement best describes big bang model?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Big Bang model describes the universe evolving from an early hot, dense state"
+            },
+            {
+              "label": "B",
+              "text": "a steady unchanging universe"
+            },
+            {
+              "label": "C",
+              "text": "the explosion of a star within a galaxy"
+            },
+            {
+              "label": "D",
+              "text": "the formation of Earth only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Big Bang model describes the universe evolving from an early hot, dense state",
+          "explanation": "The model is supported by cosmic expansion, the cosmic microwave background and primordial abundances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ047",
+          "question": "Which option is correctly associated with big bang model?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the explosion of a star within a galaxy"
+            },
+            {
+              "label": "B",
+              "text": "The Big Bang model describes the universe evolving from an early hot, dense state"
+            },
+            {
+              "label": "C",
+              "text": "the formation of Earth only"
+            },
+            {
+              "label": "D",
+              "text": "a steady unchanging universe"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The Big Bang model describes the universe evolving from an early hot, dense state",
+          "explanation": "The model is supported by cosmic expansion, the cosmic microwave background and primordial abundances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ048",
+          "question": "In a basic HSC Physics question about big bang model, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a steady unchanging universe"
+            },
+            {
+              "label": "B",
+              "text": "The Big Bang model describes the universe evolving from an early hot, dense state"
+            },
+            {
+              "label": "C",
+              "text": "the explosion of a star within a galaxy"
+            },
+            {
+              "label": "D",
+              "text": "the formation of Earth only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The Big Bang model describes the universe evolving from an early hot, dense state",
+          "explanation": "The model is supported by cosmic expansion, the cosmic microwave background and primordial abundances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ049",
+          "question": "Which fact should be remembered about big bang model?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a steady unchanging universe"
+            },
+            {
+              "label": "B",
+              "text": "the formation of Earth only"
+            },
+            {
+              "label": "C",
+              "text": "the explosion of a star within a galaxy"
+            },
+            {
+              "label": "D",
+              "text": "The Big Bang model describes the universe evolving from an early hot, dense state"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The Big Bang model describes the universe evolving from an early hot, dense state",
+          "explanation": "The model is supported by cosmic expansion, the cosmic microwave background and primordial abundances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH11_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning big bang model?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the formation of Earth only"
+            },
+            {
+              "label": "B",
+              "text": "a steady unchanging universe"
+            },
+            {
+              "label": "C",
+              "text": "the explosion of a star within a galaxy"
+            },
+            {
+              "label": "D",
+              "text": "The Big Bang model describes the universe evolving from an early hot, dense state"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The Big Bang model describes the universe evolving from an early hot, dense state",
+          "explanation": "The model is supported by cosmic expansion, the cosmic microwave background and primordial abundances.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

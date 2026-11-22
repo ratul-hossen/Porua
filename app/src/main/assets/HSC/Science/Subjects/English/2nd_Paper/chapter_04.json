@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 4,
+  "chapter_title": "Transformation of Sentences",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Simple to Complex Sentences",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-001",
+          "question": "Transform the simple sentence into a complex sentence: 'Hearing the alarming noise, the villagers woke up.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "When the villagers heard the alarming noise, they woke up."
+            },
+            {
+              "label": "B",
+              "text": "The villagers heard the alarming noise and they woke up."
+            },
+            {
+              "label": "C",
+              "text": "The villagers woke up because of hearing the alarming noise."
+            },
+            {
+              "label": "D",
+              "text": "Having heard the noise, the villagers woke up."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "When the villagers heard the alarming noise, they woke up.",
+          "explanation": "A complex sentence contains one independent clause and at least one subordinate clause, introduced here by the conjunction 'When'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-002",
+          "question": "Transform into complex: 'In spite of working diligently, he failed to achieve his sales quota.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Though he worked diligently, he failed to achieve his sales quota."
+            },
+            {
+              "label": "B",
+              "text": "He worked diligently but he failed to achieve his sales quota."
+            },
+            {
+              "label": "C",
+              "text": "He failed to achieve his sales quota despite his hard diligence."
+            },
+            {
+              "label": "D",
+              "text": "Because he worked diligently, he failed to achieve his sales quota."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Though he worked diligently, he failed to achieve his sales quota.",
+          "explanation": "The prepositional phrase 'In spite of' in a simple sentence transforms into a concessive adverbial clause introduced by 'Though / Although' in a complex sentence.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-003",
+          "question": "Transform into complex: 'I saw a wounded bird lying on the grass.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "I saw a bird that was wounded and lying on the grass."
+            },
+            {
+              "label": "B",
+              "text": "I saw a bird and it was wounded."
+            },
+            {
+              "label": "C",
+              "text": "A wounded bird was seen by me on the grass."
+            },
+            {
+              "label": "D",
+              "text": "Seeing a wounded bird, I lay on the grass."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "I saw a bird that was wounded and lying on the grass.",
+          "explanation": "An adjectival participle ('wounded bird') in a simple sentence transforms into an adjectival relative clause ('a bird that was wounded').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-004",
+          "question": "Transform into complex: 'Tell me your date of birth.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Tell me when you were born."
+            },
+            {
+              "label": "B",
+              "text": "Tell me about your birth date."
+            },
+            {
+              "label": "C",
+              "text": "You were born on a date, tell me that."
+            },
+            {
+              "label": "D",
+              "text": "When your birth occurred, tell it."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Tell me when you were born.",
+          "explanation": "The noun phrase 'your date of birth' transforms into a subordinate noun clause 'when you were born' functioning as the direct object.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-005",
+          "question": "Transform into complex: 'He is too feeble to walk without crutches.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "He is so feeble that he cannot walk without crutches."
+            },
+            {
+              "label": "B",
+              "text": "He is very feeble and he cannot walk without crutches."
+            },
+            {
+              "label": "C",
+              "text": "Being very feeble, he cannot walk without crutches."
+            },
+            {
+              "label": "D",
+              "text": "He cannot walk without crutches because of feebleness."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He is so feeble that he cannot walk without crutches.",
+          "explanation": "'Too... to...' in a simple sentence converts into 'so... that + subject + cannot...' in a complex sentence.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Complex to Simple Sentences",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-006",
+          "question": "Transform into a simple sentence: 'Since the weather was stormy, the fishermen did not sail out.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The weather being stormy, the fishermen did not sail out."
+            },
+            {
+              "label": "B",
+              "text": "The weather was stormy and so the fishermen did not sail out."
+            },
+            {
+              "label": "C",
+              "text": "The fishermen did not sail out as it was stormy."
+            },
+            {
+              "label": "D",
+              "text": "Because the weather was stormy, they stayed ashore."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The weather being stormy, the fishermen did not sail out.",
+          "explanation": "A simple sentence contains exactly one finite verb; the causal subordinate clause with a different subject becomes a nominative absolute phrase ('The weather being stormy').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-007",
+          "question": "Transform into simple: 'A man who is industrious is bound to prosper in life.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "An industrious man is bound to prosper in life."
+            },
+            {
+              "label": "B",
+              "text": "A man is industrious and he will prosper in life."
+            },
+            {
+              "label": "C",
+              "text": "If a man is industrious, he will prosper in life."
+            },
+            {
+              "label": "D",
+              "text": "A man will prosper when he works industriously."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An industrious man is bound to prosper in life.",
+          "explanation": "The relative clause 'who is industrious' is condensed into a single pre-modifying attributive adjective ('An industrious man').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-008",
+          "question": "Transform into simple: 'We read newspapers so that we can keep abreast of current global affairs.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "We read newspapers to keep abreast of current global affairs."
+            },
+            {
+              "label": "B",
+              "text": "We read newspapers and we keep abreast of current global affairs."
+            },
+            {
+              "label": "C",
+              "text": "Reading newspapers, we can keep abreast of global affairs."
+            },
+            {
+              "label": "D",
+              "text": "As we read newspapers, we keep abreast of global affairs."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "We read newspapers to keep abreast of current global affairs.",
+          "explanation": "The subordinate clause of purpose 'so that we can keep' simplifies into an infinitive of purpose ('to keep').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-009",
+          "question": "Transform into simple: 'Although she was fatigued, she continued her night shift.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "In spite of her fatigue, she continued her night shift."
+            },
+            {
+              "label": "B",
+              "text": "She was fatigued but she continued her night shift."
+            },
+            {
+              "label": "C",
+              "text": "She was fatigued and so she continued her night shift."
+            },
+            {
+              "label": "D",
+              "text": "Fatigued though she was, she continued her shift."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In spite of her fatigue, she continued her night shift.",
+          "explanation": "'Although + clause' transforms into the prepositional phrase 'In spite of / Despite + noun phrase' in a simple sentence.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-010",
+          "question": "Transform into simple: 'He admitted that he had made a grave administrative blunder.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "He admitted making a grave administrative blunder."
+            },
+            {
+              "label": "B",
+              "text": "He had made a grave administrative blunder and he admitted it."
+            },
+            {
+              "label": "C",
+              "text": "He made a blunder which he admitted."
+            },
+            {
+              "label": "D",
+              "text": "His admission was that he made a blunder."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He admitted making a grave administrative blunder.",
+          "explanation": "The noun clause 'that he had made...' simplifies into a gerund phrase ('making a grave blunder') as the direct object.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Compound Sentence Transformations",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-011",
+          "question": "Transform into a compound sentence: 'Despite his immense wealth, the miser is unhappy.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The miser is immensely wealthy, but he is unhappy."
+            },
+            {
+              "label": "B",
+              "text": "Though the miser is immensely wealthy, he is unhappy."
+            },
+            {
+              "label": "C",
+              "text": "The miser being wealthy is unhappy."
+            },
+            {
+              "label": "D",
+              "text": "Because the miser is wealthy, he is unhappy."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The miser is immensely wealthy, but he is unhappy.",
+          "explanation": "A compound sentence connects two independent coordinate clauses using a coordinating conjunction (here, adversative 'but').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-012",
+          "question": "Transform into compound: 'Unless you work diligently, you will not succeed.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Work diligently, or you will not succeed."
+            },
+            {
+              "label": "B",
+              "text": "If you do not work diligently, you will fail."
+            },
+            {
+              "label": "C",
+              "text": "By working diligently, you will succeed."
+            },
+            {
+              "label": "D",
+              "text": "Without working diligently, you cannot succeed."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Work diligently, or you will not succeed.",
+          "explanation": "A negative condition ('Unless...') transforms into an imperative coordinate sentence joined by 'or / otherwise' ('Work diligently, or...').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-013",
+          "question": "Transform into compound: 'Closing the iron gate, the security guard walked away.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The security guard closed the iron gate and walked away."
+            },
+            {
+              "label": "B",
+              "text": "When the security guard closed the iron gate, he walked away."
+            },
+            {
+              "label": "C",
+              "text": "After closing the iron gate, the security guard walked away."
+            },
+            {
+              "label": "D",
+              "text": "Having closed the gate, the guard departed."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The security guard closed the iron gate and walked away.",
+          "explanation": "Participial simple sentence converts into two finite clauses linked by coordinating conjunction 'and'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-014",
+          "question": "Transform into compound: 'Besides being a renowned surgeon, Dr. Hasan is a gifted poet.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dr. Hasan is not only a renowned surgeon but also a gifted poet."
+            },
+            {
+              "label": "B",
+              "text": "As Dr. Hasan is a surgeon, he is also a poet."
+            },
+            {
+              "label": "C",
+              "text": "Dr. Hasan who is a surgeon writes poetry."
+            },
+            {
+              "label": "D",
+              "text": "Being a surgeon, Dr. Hasan is a poet."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Dr. Hasan is not only a renowned surgeon but also a gifted poet.",
+          "explanation": "'Besides being...' in a simple sentence transforms into the compound correlative conjunction 'not only... but also...'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-015",
+          "question": "Transform into compound: 'Because of his chronic illness, he could not sit for the final exam.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "He was chronically ill, and so he could not sit for the final exam."
+            },
+            {
+              "label": "B",
+              "text": "Since he was chronically ill, he could not sit for the exam."
+            },
+            {
+              "label": "C",
+              "text": "His chronic illness prevented him from sitting for the exam."
+            },
+            {
+              "label": "D",
+              "text": "If he was ill, he could not take the exam."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He was chronically ill, and so he could not sit for the final exam.",
+          "explanation": "Causal simple sentence simplifies into two independent clauses joined by coordinating illative conjunction 'and so' / 'therefore'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Active to Passive Voice Transformation",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-016",
+          "question": "Change into passive: 'The committee has approved the revised municipal budget.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The revised municipal budget has been approved by the committee."
+            },
+            {
+              "label": "B",
+              "text": "The revised municipal budget was approved by the committee."
+            },
+            {
+              "label": "C",
+              "text": "The revised municipal budget is approved by the committee."
+            },
+            {
+              "label": "D",
+              "text": "The revised municipal budget had been approved by the committee."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The revised municipal budget has been approved by the committee.",
+          "explanation": "Present perfect active 'has approved' transforms into 'has been approved' in the passive voice.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-017",
+          "question": "Change into passive: 'Who broke this priceless antique crystal vase?'",
+          "options": [
+            {
+              "label": "A",
+              "text": "By whom was this priceless antique crystal vase broken?"
+            },
+            {
+              "label": "B",
+              "text": "Who was this priceless vase broken by?"
+            },
+            {
+              "label": "C",
+              "text": "By whom this priceless vase had been broken?"
+            },
+            {
+              "label": "D",
+              "text": "Whom broke this priceless vase?"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By whom was this priceless antique crystal vase broken?",
+          "explanation": "Interrogative 'Who' converts to 'By whom + auxiliary was + subject + past participle broken?'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-018",
+          "question": "Change into passive: 'Never deceive your closest companions.' (Imperative sentence)",
+          "options": [
+            {
+              "label": "A",
+              "text": "Let your closest companions never be deceived."
+            },
+            {
+              "label": "B",
+              "text": "Let not your closest companions be ever deceived."
+            },
+            {
+              "label": "C",
+              "text": "You are told to never deceive companions."
+            },
+            {
+              "label": "D",
+              "text": "Your companions must not be deceived by you."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Let your closest companions never be deceived.",
+          "explanation": "Negative imperative with 'Never' transforms into 'Let + object + never + be + past participle'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-019",
+          "question": "Change into passive: 'People believe that honesty is the best policy.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "It is believed that honesty is the best policy."
+            },
+            {
+              "label": "B",
+              "text": "Honesty was believed to be the best policy by people."
+            },
+            {
+              "label": "C",
+              "text": "That honesty is the best policy has believed."
+            },
+            {
+              "label": "D",
+              "text": "Honesty is believed by people to policy."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It is believed that honesty is the best policy.",
+          "explanation": "Sentences starting with 'People believe / say that...' convert into impersonal passive 'It is believed that...'.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG204-MCQ-020",
+          "question": "Change into passive: 'The sudden loud thunder startled the sleeping infant.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The sleeping infant was startled at the sudden loud thunder."
+            },
+            {
+              "label": "B",
+              "text": "The sleeping infant was startled by the sudden loud thunder."
+            },
+            {
+              "label": "C",
+              "text": "The sleeping infant is startled at the loud thunder."
+            },
+            {
+              "label": "D",
+              "text": "The sleeping infant was being startled by thunder."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The sleeping infant was startled at the sudden loud thunder.",
+          "explanation": "The verb 'startle' typically takes the preposition 'at' rather than 'by' when referring to events or phenomena ('startled at the sound').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Passive to Active Voice Transformation",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-021",
+          "question": "Change into active voice: 'The burglar was apprehended late last night.' (Omitted agent)",
+          "options": [
+            {
+              "label": "A",
+              "text": "The police apprehended the burglar late last night."
+            },
+            {
+              "label": "B",
+              "text": "Someone had apprehended the burglar last night."
+            },
+            {
+              "label": "C",
+              "text": "The burglar apprehended the police last night."
+            },
+            {
+              "label": "D",
+              "text": "They were apprehending the burglar last night."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The police apprehended the burglar late last night.",
+          "explanation": "When the agent is omitted in a law-enforcement context, the appropriate natural subject supplied in active voice is 'The police'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-022",
+          "question": "Change into active: 'Rome was not built in a single day.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Romans did not build Rome in a single day."
+            },
+            {
+              "label": "B",
+              "text": "No one built Rome in a day."
+            },
+            {
+              "label": "C",
+              "text": "Rome did not build anyone in a day."
+            },
+            {
+              "label": "D",
+              "text": "People were not building Rome in a day."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Romans did not build Rome in a single day.",
+          "explanation": "The implied historic builder of Rome is 'The Romans' (or 'People'), converted into the past simple active 'did not build'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-023",
+          "question": "Change into active: 'My pocket has been picked on the crowded bus.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Someone has picked my pocket on the crowded bus."
+            },
+            {
+              "label": "B",
+              "text": "The bus picked my pocket."
+            },
+            {
+              "label": "C",
+              "text": "A thief was picking my pocket."
+            },
+            {
+              "label": "D",
+              "text": "I have picked someone's pocket."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Someone has picked my pocket on the crowded bus.",
+          "explanation": "Indefinite agent 'Someone' is supplied as the active subject: 'has picked my pocket'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-024",
+          "question": "Change into active: 'He is known to me as an upright scholar.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "I know him as an upright scholar."
+            },
+            {
+              "label": "B",
+              "text": "I knew him as an upright scholar."
+            },
+            {
+              "label": "C",
+              "text": "He knows me as an upright scholar."
+            },
+            {
+              "label": "D",
+              "text": "People know him as an upright scholar."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "I know him as an upright scholar.",
+          "explanation": "'Is known to me' converts into present simple active 'I know him'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-025",
+          "question": "Change into active: 'Let the decree be executed without hesitation.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Execute the decree without hesitation."
+            },
+            {
+              "label": "B",
+              "text": "You must execute decree."
+            },
+            {
+              "label": "C",
+              "text": "Let us execute the decree."
+            },
+            {
+              "label": "D",
+              "text": "They should execute the decree."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Execute the decree without hesitation.",
+          "explanation": "Passive imperative 'Let + object + be + past participle' converts to direct active imperative: 'Execute the decree...'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Degrees of Comparison (Positive, Comparative, Superlative)",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-026",
+          "question": "Transform into comparative: 'Akbar was one of the greatest emperors of India.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Akbar was greater than most other emperors of India."
+            },
+            {
+              "label": "B",
+              "text": "Akbar was greater than any other emperor of India."
+            },
+            {
+              "label": "C",
+              "text": "No other emperor of India was as great as Akbar."
+            },
+            {
+              "label": "D",
+              "text": "Akbar was the greatest emperor of India."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Akbar was greater than most other emperors of India.",
+          "explanation": "'One of the greatest' converts into comparative with 'greater than most other / many other + plural noun'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-027",
+          "question": "Transform into positive degree: 'Iron is more useful than any other metal.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "No other metal is as useful as iron."
+            },
+            {
+              "label": "B",
+              "text": "Very few metals are as useful as iron."
+            },
+            {
+              "label": "C",
+              "text": "Iron is as useful as any metal."
+            },
+            {
+              "label": "D",
+              "text": "No other metal is more useful as iron."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "No other metal is as useful as iron.",
+          "explanation": "'More useful than any other metal' transforms into positive degree with 'No other metal is as useful as iron.'",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-028",
+          "question": "Transform into positive: 'Cox's Bazar is the longest sea beach in the world.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "No other sea beach in the world is as long as Cox's Bazar."
+            },
+            {
+              "label": "B",
+              "text": "Very few sea beaches in the world are as long as Cox's Bazar."
+            },
+            {
+              "label": "C",
+              "text": "Cox's Bazar is longer than most other sea beaches."
+            },
+            {
+              "label": "D",
+              "text": "No sea beach is so long than Cox's Bazar."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "No other sea beach in the world is as long as Cox's Bazar.",
+          "explanation": "Absolute superlative 'the longest' converts into positive using 'No other + singular noun + is as long as...'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-029",
+          "question": "Transform into superlative: 'Very few rivers in Bangladesh are as turbulent as the Padma.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Padma is one of the most turbulent rivers in Bangladesh."
+            },
+            {
+              "label": "B",
+              "text": "The Padma is the most turbulent river in Bangladesh."
+            },
+            {
+              "label": "C",
+              "text": "The Padma is more turbulent than all rivers in Bangladesh."
+            },
+            {
+              "label": "D",
+              "text": "No other river is as turbulent as the Padma."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Padma is one of the most turbulent rivers in Bangladesh.",
+          "explanation": "'Very few... as... as' in positive degree converts into 'one of the + superlative' in superlative degree.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-030",
+          "question": "Transform into positive degree: 'He is taller than his brother.' (Comparing only two entities)",
+          "options": [
+            {
+              "label": "A",
+              "text": "His brother is not as tall as he."
+            },
+            {
+              "label": "B",
+              "text": "No other brother is as tall as he."
+            },
+            {
+              "label": "C",
+              "text": "His brother is the tallest."
+            },
+            {
+              "label": "D",
+              "text": "Very few brothers are as tall as he."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "His brother is not as tall as he.",
+          "explanation": "When comparing two individual entities, comparative converts to negative positive: 'His brother is not as tall as he.'",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Affirmative to Negative Transformations",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-031",
+          "question": "Transform into negative: 'Only Almighty Allah can protect us in perils.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "None but Almighty Allah can protect us in perils."
+            },
+            {
+              "label": "B",
+              "text": "Nothing but Almighty Allah can protect us in perils."
+            },
+            {
+              "label": "C",
+              "text": "Almighty Allah cannot protect us in perils."
+            },
+            {
+              "label": "D",
+              "text": "Not only Almighty Allah can protect us in perils."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "None but Almighty Allah can protect us in perils.",
+          "explanation": "When 'Only' modifies a person or God, it transforms into 'None but' at the beginning of a negative sentence.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-032",
+          "question": "Transform into negative: 'Every mother loves her child.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "There is no mother but loves her child."
+            },
+            {
+              "label": "B",
+              "text": "No mother loves her child."
+            },
+            {
+              "label": "C",
+              "text": "Every mother does not hate her child."
+            },
+            {
+              "label": "D",
+              "text": "Mother does not love her child."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "There is no mother but loves her child.",
+          "explanation": "'Every + noun' transforms into 'There is no + noun + but + verb' (or 'who does not love').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-033",
+          "question": "Transform into negative: 'Man must yield to destiny.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Man cannot but yield to destiny."
+            },
+            {
+              "label": "B",
+              "text": "Man must not yield to destiny."
+            },
+            {
+              "label": "C",
+              "text": "Man cannot yield to destiny."
+            },
+            {
+              "label": "D",
+              "text": "No man yields to destiny."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Man cannot but yield to destiny.",
+          "explanation": "'Must' transforms into 'cannot but + base verb' (or 'cannot help + gerund').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-034",
+          "question": "Transform into negative: 'He left nothing untried to achieve success.' (Negative to Affirmative)",
+          "options": [
+            {
+              "label": "A",
+              "text": "He tried every possible means to achieve success."
+            },
+            {
+              "label": "B",
+              "text": "He tried nothing to achieve success."
+            },
+            {
+              "label": "C",
+              "text": "He did not try to achieve success."
+            },
+            {
+              "label": "D",
+              "text": "Everything was left untried by him."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He tried every possible means to achieve success.",
+          "explanation": "'Left nothing untried' is a double negative meaning 'tried everything / every possible means'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-035",
+          "question": "Transform into negative: 'As soon as the teacher arrived, the noise ceased.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "No sooner had the teacher arrived than the noise ceased."
+            },
+            {
+              "label": "B",
+              "text": "Hardly had the teacher arrived than the noise ceased."
+            },
+            {
+              "label": "C",
+              "text": "The teacher arrived and the noise did not cease."
+            },
+            {
+              "label": "D",
+              "text": "When the teacher arrived, noise stopped."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "No sooner had the teacher arrived than the noise ceased.",
+          "explanation": "'As soon as' transforms into 'No sooner had... than...' in negative structure.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Assertive, Interrogative and Exclamatory Transformations",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-036",
+          "question": "Transform into interrogative: 'Nobody trusts a notorious liar.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Who trusts a notorious liar?"
+            },
+            {
+              "label": "B",
+              "text": "Does nobody trust a liar?"
+            },
+            {
+              "label": "C",
+              "text": "Who does not trust a notorious liar?"
+            },
+            {
+              "label": "D",
+              "text": "Why trust a notorious liar?"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Who trusts a notorious liar?",
+          "explanation": "'Nobody / None' transforms into rhetorical question 'Who + affirmative verb?' ('Who trusts a notorious liar?').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-037",
+          "question": "Transform into assertive: 'Who does not desire happiness in life?'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Everyone desires happiness in life."
+            },
+            {
+              "label": "B",
+              "text": "Nobody desires happiness in life."
+            },
+            {
+              "label": "C",
+              "text": "Some people desire happiness."
+            },
+            {
+              "label": "D",
+              "text": "Happiness is desired by who."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Everyone desires happiness in life.",
+          "explanation": "Rhetorical question 'Who does not + verb?' converts into affirmative assertive 'Everyone / Everybody + verb'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-038",
+          "question": "Transform into exclamatory: 'It is a very thrilling cricket match.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "What a thrilling cricket match it is!"
+            },
+            {
+              "label": "B",
+              "text": "How thrilling match it is!"
+            },
+            {
+              "label": "C",
+              "text": "What thrilling cricket match!"
+            },
+            {
+              "label": "D",
+              "text": "How very thrilling the cricket match is!"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "What a thrilling cricket match it is!",
+          "explanation": "When an assertive sentence contains 'a + adjective + noun', the exclamatory structure begins with 'What a + adjective + noun + subject + verb!'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-039",
+          "question": "Transform into assertive: 'How sweetly the nightingale sings in the grove!'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The nightingale sings very sweetly in the grove."
+            },
+            {
+              "label": "B",
+              "text": "The nightingale sings sweetly."
+            },
+            {
+              "label": "C",
+              "text": "The nightingale does not sing harshly."
+            },
+            {
+              "label": "D",
+              "text": "It is sweet how the nightingale sings."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The nightingale sings very sweetly in the grove.",
+          "explanation": "'How + adverb!' converts into 'subject + verb + very + adverb' in an assertive sentence.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-040",
+          "question": "Transform into assertive: 'If I were a king!' (Exclamation of wish)",
+          "options": [
+            {
+              "label": "A",
+              "text": "I wish I were a king."
+            },
+            {
+              "label": "B",
+              "text": "I was a king."
+            },
+            {
+              "label": "C",
+              "text": "I should be a king."
+            },
+            {
+              "label": "D",
+              "text": "Were I a king once."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "I wish I were a king.",
+          "explanation": "An exclamatory wish introduced by 'If I were...' converts into the assertive structure 'I wish I were...'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Grammatical Coherence and Contextual Rephrase",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-041",
+          "question": "Which sentence correctly transforms 'He is both wise and humble' into a compound sentence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "He is not only wise but also humble."
+            },
+            {
+              "label": "B",
+              "text": "He is wise though he is humble."
+            },
+            {
+              "label": "C",
+              "text": "Because he is wise, he is humble."
+            },
+            {
+              "label": "D",
+              "text": "Being wise, he is humble."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He is not only wise but also humble.",
+          "explanation": "Correlative conjunction 'not only... but also' coordinates two qualities into an emphatic compound structure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-042",
+          "question": "Transform: 'Only the brave deserve the fair.' (Make it Negative)",
+          "options": [
+            {
+              "label": "A",
+              "text": "None but the brave deserve the fair."
+            },
+            {
+              "label": "B",
+              "text": "Nothing but the brave deserve the fair."
+            },
+            {
+              "label": "C",
+              "text": "The brave does not deserve the fair."
+            },
+            {
+              "label": "D",
+              "text": "Nobody other than fair deserve the brave."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "None but the brave deserve the fair.",
+          "explanation": "'Only' referring to people ('the brave') transforms into 'None but'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-043",
+          "question": "Transform into simple: 'He finished his work and then he went to sleep.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Having finished his work, he went to sleep."
+            },
+            {
+              "label": "B",
+              "text": "When he finished his work, he went to sleep."
+            },
+            {
+              "label": "C",
+              "text": "He went to sleep after he finished work."
+            },
+            {
+              "label": "D",
+              "text": "Finishing his work he had slept."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Having finished his work, he went to sleep.",
+          "explanation": "Perfect participial phrase 'Having finished his work' successfully condenses the first clause into a simple sentence.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-044",
+          "question": "Transform into negative: 'As soon as the bell rang, the students departed.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "No sooner had the bell rung than the students departed."
+            },
+            {
+              "label": "B",
+              "text": "Hardly the bell rang when students departed."
+            },
+            {
+              "label": "C",
+              "text": "The bell did not ring before students departed."
+            },
+            {
+              "label": "D",
+              "text": "Scarcely had the bell rung then students departed."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "No sooner had the bell rung than the students departed.",
+          "explanation": "'As soon as' converts into negative comparative 'No sooner had... than...'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-045",
+          "question": "Transform into active voice: 'The wounded soldier was being operated upon by the surgeon.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The surgeon was operating upon the wounded soldier."
+            },
+            {
+              "label": "B",
+              "text": "The surgeon operated upon the wounded soldier."
+            },
+            {
+              "label": "C",
+              "text": "The surgeon has been operating the soldier."
+            },
+            {
+              "label": "D",
+              "text": "The surgeon was operated by the soldier."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The surgeon was operating upon the wounded soldier.",
+          "explanation": "Past continuous passive 'was being operated upon' converts to active past continuous 'was operating upon'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Integrated Board Exam Transformation Questions",
+      "questions": [
+        {
+          "id": "ENG204-MCQ-046",
+          "question": "'Truthfulness is the greatest of all virtues.' (Transform into positive degree)",
+          "options": [
+            {
+              "label": "A",
+              "text": "No other virtue is as great as truthfulness."
+            },
+            {
+              "label": "B",
+              "text": "Very few virtues are as great as truthfulness."
+            },
+            {
+              "label": "C",
+              "text": "Truthfulness is greater than most other virtues."
+            },
+            {
+              "label": "D",
+              "text": "Truthfulness is greater than all virtues."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "No other virtue is as great as truthfulness.",
+          "explanation": "'The greatest of all virtues' converts into 'No other virtue is as great as truthfulness.'",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-047",
+          "question": "'A truthful man is honored everywhere.' (Transform into complex sentence)",
+          "options": [
+            {
+              "label": "A",
+              "text": "A man who is truthful is honored everywhere."
+            },
+            {
+              "label": "B",
+              "text": "A man is truthful and he is honored everywhere."
+            },
+            {
+              "label": "C",
+              "text": "Truthful men are honored everywhere."
+            },
+            {
+              "label": "D",
+              "text": "Being truthful, a man is honored."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A man who is truthful is honored everywhere.",
+          "explanation": "The simple noun phrase 'A truthful man' expands into a complex relative clause 'A man who is truthful'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG204-MCQ-048",
+          "question": "'Nobody respects a corrupt politician.' (Transform into passive voice)",
+          "options": [
+            {
+              "label": "A",
+              "text": "A corrupt politician is respected by nobody (is not respected by anybody)."
+            },
+            {
+              "label": "B",
+              "text": "A corrupt politician was not respected by nobody."
+            },
+            {
+              "label": "C",
+              "text": "Nobody is respected by a corrupt politician."
+            },
+            {
+              "label": "D",
+              "text": "A corrupt politician is being respected by none."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A corrupt politician is respected by nobody (is not respected by anybody).",
+          "explanation": "Present simple active 'respects' transforms into present simple passive 'is not respected by anybody' (or 'is respected by nobody').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-049",
+          "question": "'Though he lived in penury, he was strictly honest.' (Transform into simple sentence)",
+          "options": [
+            {
+              "label": "A",
+              "text": "In spite of living in penury, he was strictly honest."
+            },
+            {
+              "label": "B",
+              "text": "He lived in penury and he was honest."
+            },
+            {
+              "label": "C",
+              "text": "He lived in penury but he was honest."
+            },
+            {
+              "label": "D",
+              "text": "Because he lived in penury, he was honest."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In spite of living in penury, he was strictly honest.",
+          "explanation": "'Though + clause' simplifies into the prepositional phrase 'In spite of + gerund/noun'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG204-MCQ-050",
+          "question": "'What a ferocious storm it was!' (Transform into assertive sentence)",
+          "options": [
+            {
+              "label": "A",
+              "text": "It was a very ferocious storm."
+            },
+            {
+              "label": "B",
+              "text": "It was a ferocious storm."
+            },
+            {
+              "label": "C",
+              "text": "The storm was not ferocious."
+            },
+            {
+              "label": "D",
+              "text": "Was it a ferocious storm?"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It was a very ferocious storm.",
+          "explanation": "Exclamatory 'What a + adjective + noun + subject + verb!' converts to assertive 'subject + verb + a very + adjective + noun'.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

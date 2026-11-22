@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 2,
+  "chapter_title": "Vectors",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Vector Magnitude",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q001",
+          "question": "What is the magnitude of the vector a = 3i + 4j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5",
+          "explanation": "The magnitude of ai + bj is √(a²+b²); here it equals 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q002",
+          "question": "What is the magnitude of the vector a = 5i + 12j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "14"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "17"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "13",
+          "explanation": "The magnitude of ai + bj is √(a²+b²); here it equals 13.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q003",
+          "question": "What is the magnitude of the vector a = 8i + 15j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "18"
+            },
+            {
+              "label": "B",
+              "text": "23"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "16"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "17",
+          "explanation": "The magnitude of ai + bj is √(a²+b²); here it equals 17.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q004",
+          "question": "What is the magnitude of the vector a = 7i + 24j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "31"
+            },
+            {
+              "label": "B",
+              "text": "26"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "25",
+          "explanation": "The magnitude of ai + bj is √(a²+b²); here it equals 25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q005",
+          "question": "What is the magnitude of the vector a = 6i + 8j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10",
+          "explanation": "The magnitude of ai + bj is √(a²+b²); here it equals 10.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Dot Product",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q006",
+          "question": "If a = 2i + (3)j and b = 4i + (1)j, what is a·b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "14"
+            },
+            {
+              "label": "D",
+              "text": "13"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "11",
+          "explanation": "The dot product is the sum of products of corresponding components, giving 11.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q007",
+          "question": "If a = 1i + (5)j and b = 2i + (3)j, what is a·b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "15"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "19"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "17",
+          "explanation": "The dot product is the sum of products of corresponding components, giving 17.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q008",
+          "question": "If a = 3i + (-1)j and b = 2i + (4)j, what is a·b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "2",
+          "explanation": "The dot product is the sum of products of corresponding components, giving 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q009",
+          "question": "If a = 4i + (2)j and b = -1i + (3)j, what is a·b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2",
+          "explanation": "The dot product is the sum of products of corresponding components, giving 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q010",
+          "question": "If a = 5i + (1)j and b = 2i + (-2)j, what is a·b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-8"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "8",
+          "explanation": "The dot product is the sum of products of corresponding components, giving 8.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Perpendicular Vectors",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q011",
+          "question": "Vectors a = 2i + 3j and b = ki + (−2)j are perpendicular. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3",
+          "explanation": "Perpendicular vectors have zero dot product. Solving a·b = 0 gives k = 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q012",
+          "question": "Vectors a = 3i + 5j and b = ki + (−3)j are perpendicular. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "-5"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5",
+          "explanation": "Perpendicular vectors have zero dot product. Solving a·b = 0 gives k = 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q013",
+          "question": "Vectors a = 4i + 1j and b = ki + (−4)j are perpendicular. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "Perpendicular vectors have zero dot product. Solving a·b = 0 gives k = 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q014",
+          "question": "Vectors a = 5i + 2j and b = ki + (−5)j are perpendicular. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2",
+          "explanation": "Perpendicular vectors have zero dot product. Solving a·b = 0 gives k = 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q015",
+          "question": "Vectors a = 1i + 4j and b = ki + (−1)j are perpendicular. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "-4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4",
+          "explanation": "Perpendicular vectors have zero dot product. Solving a·b = 0 gives k = 4.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Parallel Vectors",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q016",
+          "question": "Vectors a = 1i + 2j and b = 3i + kj are parallel. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "Parallel vectors are scalar multiples of one another; matching component ratios gives k = 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q017",
+          "question": "Vectors a = 2i + 3j and b = 8i + kj are parallel. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "12"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "13"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "12",
+          "explanation": "Parallel vectors are scalar multiples of one another; matching component ratios gives k = 12.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q018",
+          "question": "Vectors a = 3i + 1j and b = 6i + kj are parallel. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2",
+          "explanation": "Parallel vectors are scalar multiples of one another; matching component ratios gives k = 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q019",
+          "question": "Vectors a = 2i + -1j and b = 10i + kj are parallel. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-6"
+            },
+            {
+              "label": "B",
+              "text": "-4"
+            },
+            {
+              "label": "C",
+              "text": "-5"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-5",
+          "explanation": "Parallel vectors are scalar multiples of one another; matching component ratios gives k = -5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q020",
+          "question": "Vectors a = 4i + 3j and b = -8i + kj are parallel. Find k.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "-5"
+            },
+            {
+              "label": "C",
+              "text": "-7"
+            },
+            {
+              "label": "D",
+              "text": "-6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-6",
+          "explanation": "Parallel vectors are scalar multiples of one another; matching component ratios gives k = -6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Unit Vectors",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q021",
+          "question": "What is the coefficient of i in the unit vector along a = 3i + 4j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3/5"
+            },
+            {
+              "label": "B",
+              "text": "1/2"
+            },
+            {
+              "label": "C",
+              "text": "-3/5"
+            },
+            {
+              "label": "D",
+              "text": "4/5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3/5",
+          "explanation": "Divide the vector by its magnitude. The i-component of a/|a| is 3/5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q022",
+          "question": "What is the coefficient of i in the unit vector along a = 5i + 12j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5/14"
+            },
+            {
+              "label": "B",
+              "text": "5/13"
+            },
+            {
+              "label": "C",
+              "text": "-5/13"
+            },
+            {
+              "label": "D",
+              "text": "12/13"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5/13",
+          "explanation": "Divide the vector by its magnitude. The i-component of a/|a| is 5/13.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q023",
+          "question": "What is the coefficient of i in the unit vector along a = 8i + 15j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "15/17"
+            },
+            {
+              "label": "B",
+              "text": "-8/17"
+            },
+            {
+              "label": "C",
+              "text": "8/17"
+            },
+            {
+              "label": "D",
+              "text": "4/9"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "8/17",
+          "explanation": "Divide the vector by its magnitude. The i-component of a/|a| is 8/17.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q024",
+          "question": "What is the coefficient of i in the unit vector along a = 7i + 24j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7/25"
+            },
+            {
+              "label": "B",
+              "text": "7/26"
+            },
+            {
+              "label": "C",
+              "text": "24/25"
+            },
+            {
+              "label": "D",
+              "text": "7/25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "7/25",
+          "explanation": "Divide the vector by its magnitude. The i-component of a/|a| is 7/25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q025",
+          "question": "What is the coefficient of i in the unit vector along a = 6i + 8j?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3/5"
+            },
+            {
+              "label": "B",
+              "text": "-3/5"
+            },
+            {
+              "label": "C",
+              "text": "4/5"
+            },
+            {
+              "label": "D",
+              "text": "6/11"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3/5",
+          "explanation": "Divide the vector by its magnitude. The i-component of a/|a| is 3/5.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Position Vectors",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q026",
+          "question": "For A(1,2) and B(4,5), what is the i-component of vector AB?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3",
+          "explanation": "Subtract the x-coordinate of A from that of B; the i-component is 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q027",
+          "question": "For A(2,-1) and B(7,3), what is the i-component of vector AB?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "Subtract the x-coordinate of A from that of B; the i-component is 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q028",
+          "question": "For A(-2,3) and B(1,8), what is the i-component of vector AB?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "-1"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "3",
+          "explanation": "Subtract the x-coordinate of A from that of B; the i-component is 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q029",
+          "question": "For A(3,4) and B(9,1), what is the i-component of vector AB?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6",
+          "explanation": "Subtract the x-coordinate of A from that of B; the i-component is 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q030",
+          "question": "For A(5,2) and B(-1,6), what is the i-component of vector AB?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7"
+            },
+            {
+              "label": "B",
+              "text": "-6"
+            },
+            {
+              "label": "C",
+              "text": "-5"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-6",
+          "explanation": "Subtract the x-coordinate of A from that of B; the i-component is -6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Midpoint",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q031",
+          "question": "What is the y-coordinate of the midpoint of A(1,1) and B(3,5)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3",
+          "explanation": "The midpoint has y-coordinate (y₁+y₂)/2 = 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q032",
+          "question": "What is the y-coordinate of the midpoint of A(2,3) and B(8,7)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5",
+          "explanation": "The midpoint has y-coordinate (y₁+y₂)/2 = 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q033",
+          "question": "What is the y-coordinate of the midpoint of A(-2,4) and B(4,6)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5",
+          "explanation": "The midpoint has y-coordinate (y₁+y₂)/2 = 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q034",
+          "question": "What is the y-coordinate of the midpoint of A(3,-1) and B(7,5)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2",
+          "explanation": "The midpoint has y-coordinate (y₁+y₂)/2 = 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q035",
+          "question": "What is the y-coordinate of the midpoint of A(5,2) and B(9,8)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "The midpoint has y-coordinate (y₁+y₂)/2 = 5.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cross Product",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q036",
+          "question": "For a = (1,2) and b = (3,4), what is the k-component of a×b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-2",
+          "explanation": "For two planar vectors the k-component of their cross product is a₁b₂−a₂b₁ = -2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q037",
+          "question": "For a = (2,1) and b = (5,3), what is the k-component of a×b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "For two planar vectors the k-component of their cross product is a₁b₂−a₂b₁ = 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q038",
+          "question": "For a = (3,4) and b = (2,6), what is the k-component of a×b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "-10"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "10",
+          "explanation": "For two planar vectors the k-component of their cross product is a₁b₂−a₂b₁ = 10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q039",
+          "question": "For a = (4,1) and b = (3,5), what is the k-component of a×b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "-17"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "18"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "17",
+          "explanation": "For two planar vectors the k-component of their cross product is a₁b₂−a₂b₁ = 17.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q040",
+          "question": "For a = (5,2) and b = (1,7), what is the k-component of a×b?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-33"
+            },
+            {
+              "label": "B",
+              "text": "32"
+            },
+            {
+              "label": "C",
+              "text": "34"
+            },
+            {
+              "label": "D",
+              "text": "33"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "33",
+          "explanation": "For two planar vectors the k-component of their cross product is a₁b₂−a₂b₁ = 33.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Scalar Projection",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q041",
+          "question": "If a = 3i + 4j and b = 2a, find the scalar projection of b along a.",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "8"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10",
+          "explanation": "Since b is a positive scalar multiple of a, the scalar projection equals |b| = 10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q042",
+          "question": "If a = 3i + 4j and b = 3a, find the scalar projection of b along a.",
+          "options": [
+            {
+              "label": "A",
+              "text": "12"
+            },
+            {
+              "label": "B",
+              "text": "15"
+            },
+            {
+              "label": "C",
+              "text": "16"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "15",
+          "explanation": "Since b is a positive scalar multiple of a, the scalar projection equals |b| = 15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q043",
+          "question": "If a = 3i + 4j and b = 4a, find the scalar projection of b along a.",
+          "options": [
+            {
+              "label": "A",
+              "text": "12"
+            },
+            {
+              "label": "B",
+              "text": "21"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "16"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "20",
+          "explanation": "Since b is a positive scalar multiple of a, the scalar projection equals |b| = 20.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q044",
+          "question": "If a = 3i + 4j and b = 5a, find the scalar projection of b along a.",
+          "options": [
+            {
+              "label": "A",
+              "text": "20"
+            },
+            {
+              "label": "B",
+              "text": "26"
+            },
+            {
+              "label": "C",
+              "text": "15"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "25",
+          "explanation": "Since b is a positive scalar multiple of a, the scalar projection equals |b| = 25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q045",
+          "question": "If a = 3i + 4j and b = 6a, find the scalar projection of b along a.",
+          "options": [
+            {
+              "label": "A",
+              "text": "30"
+            },
+            {
+              "label": "B",
+              "text": "18"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "31"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "30",
+          "explanation": "Since b is a positive scalar multiple of a, the scalar projection equals |b| = 30.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Dot Product and Angles",
+      "questions": [
+        {
+          "id": "HM-P1-C02-Q046",
+          "question": "If a = 1i and b = 1i + 1j, find a·b.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1",
+          "explanation": "The j-component of a is zero; multiplying corresponding components gives 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q047",
+          "question": "If a = 2i and b = 2i + 2j, find a·b.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4",
+          "explanation": "The j-component of a is zero; multiplying corresponding components gives 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q048",
+          "question": "If a = 3i and b = 3i + 3j, find a·b.",
+          "options": [
+            {
+              "label": "A",
+              "text": "18"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "9",
+          "explanation": "The j-component of a is zero; multiplying corresponding components gives 9.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q049",
+          "question": "If a = 4i and b = 4i + 4j, find a·b.",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "32"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "20"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "16",
+          "explanation": "The j-component of a is zero; multiplying corresponding components gives 16.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C02-Q050",
+          "question": "If a = 5i and b = 5i + 5j, find a·b.",
+          "options": [
+            {
+              "label": "A",
+              "text": "50"
+            },
+            {
+              "label": "B",
+              "text": "25"
+            },
+            {
+              "label": "C",
+              "text": "30"
+            },
+            {
+              "label": "D",
+              "text": "20"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "25",
+          "explanation": "The j-component of a is zero; multiplying corresponding components gives 25.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

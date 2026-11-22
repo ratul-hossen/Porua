@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 1,
+  "chapter_title": "Articles, Determiners and Prepositions",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Indefinite Articles (A and An)",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-001",
+          "question": "Choose the correct indefinite article: 'He is ______ honorable judge admired by the entire community.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "an"
+            },
+            {
+              "label": "B",
+              "text": "a"
+            },
+            {
+              "label": "C",
+              "text": "the"
+            },
+            {
+              "label": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "an",
+          "explanation": "Although 'honorable' begins with the consonant letter 'h', the 'h' is silent and the word starts with a vowel sound (/ˈɒn.ər.ə.bəl/), requiring 'an'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-002",
+          "question": "Fill in the blank: 'Her elder sister studies at ______ university in Dhaka.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "a"
+            },
+            {
+              "label": "B",
+              "text": "an"
+            },
+            {
+              "label": "C",
+              "text": "the"
+            },
+            {
+              "label": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "a",
+          "explanation": "'University' begins with a vowel letter 'u' that produces a consonant glide sound /juː/ (like 'you'), taking 'a' rather than 'an'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-003",
+          "question": "Which sentence correctly uses the indefinite article with the word 'one'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "I saw a one-eyed sailor standing at the harbor."
+            },
+            {
+              "label": "B",
+              "text": "I saw an one-eyed sailor standing at the harbor."
+            },
+            {
+              "label": "C",
+              "text": "I saw the one-eyed sailor standing at an harbor."
+            },
+            {
+              "label": "D",
+              "text": "I saw one-eyed sailor standing at harbor."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "I saw a one-eyed sailor standing at the harbor.",
+          "explanation": "'One' begins with the consonant semivowel sound /w/ ('won'), so it takes the indefinite article 'a'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-004",
+          "question": "Fill in the blank: 'He arrived ______ hour earlier than expected.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "an"
+            },
+            {
+              "label": "B",
+              "text": "a"
+            },
+            {
+              "label": "C",
+              "text": "the"
+            },
+            {
+              "label": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "an",
+          "explanation": "In 'hour', the initial 'h' is silent and the phonetic sound begins with vowel /aʊər/, requiring 'an'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-005",
+          "question": "Choose the correct article: 'The prince was declared ______ heir to the imperial throne.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "an"
+            },
+            {
+              "label": "B",
+              "text": "a"
+            },
+            {
+              "label": "C",
+              "text": "the only"
+            },
+            {
+              "label": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "an",
+          "explanation": "'Heir' has a silent 'h' and sounds like 'air' (/eər/), taking 'an'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "The Definite Article 'The'",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-006",
+          "question": "Which of the following geographical names MUST take the definite article 'the'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Himalayas (mountain range)"
+            },
+            {
+              "label": "B",
+              "text": "Mount Everest (single mountain peak)"
+            },
+            {
+              "label": "C",
+              "text": "Lake Victoria (single lake)"
+            },
+            {
+              "label": "D",
+              "text": "Asia (continent)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Himalayas (mountain range)",
+          "explanation": "Mountain ranges (chains) take 'the' (The Himalayas, The Alps), whereas individual isolated peaks (Mount Everest) do not.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-007",
+          "question": "Fill in the blank: '______ Padma is one of the most majestic rivers in Bangladesh.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The"
+            },
+            {
+              "label": "B",
+              "text": "A"
+            },
+            {
+              "label": "C",
+              "text": "An"
+            },
+            {
+              "label": "D",
+              "text": "No article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The",
+          "explanation": "Names of rivers, seas, and oceans (The Padma, The Meghna, The Bay of Bengal) always require the definite article 'The'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-008",
+          "question": "Choose the correct option: 'She plays ______ piano with extraordinary elegance.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "the"
+            },
+            {
+              "label": "B",
+              "text": "a"
+            },
+            {
+              "label": "C",
+              "text": "an"
+            },
+            {
+              "label": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "the",
+          "explanation": "When referring to playing musical instruments as an art or skill, the definite article 'the' is used before the instrument (play the piano/violin/flute).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-009",
+          "question": "Fill in the blank: 'The more you practice, ______ better you perform.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "the"
+            },
+            {
+              "label": "B",
+              "text": "a"
+            },
+            {
+              "label": "C",
+              "text": "an"
+            },
+            {
+              "label": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "the",
+          "explanation": "In parallel proportional comparative structures ('The more... the more...'), 'the' is placed before both comparative adjectives/adverbs.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-010",
+          "question": "Why is 'the' used in: 'The brave deserve our highest admiration'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because 'the + adjective' functions as a plural collective noun representing a whole class of people"
+            },
+            {
+              "label": "B",
+              "text": "Because 'brave' is a proper noun"
+            },
+            {
+              "label": "C",
+              "text": "Because it is followed by a verb"
+            },
+            {
+              "label": "D",
+              "text": "Because 'brave' ends with 'e'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because 'the + adjective' functions as a plural collective noun representing a whole class of people",
+          "explanation": "'The + adjective' (the brave, the poor, the rich) designates an entire group of people as a plural collective noun.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Omission of Articles (Zero Article)",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-011",
+          "question": "Choose the correct option: '______ gold is a precious metal.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "No article (Zero Article)"
+            },
+            {
+              "label": "B",
+              "text": "A"
+            },
+            {
+              "label": "C",
+              "text": "An"
+            },
+            {
+              "label": "D",
+              "text": "The"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "No article (Zero Article)",
+          "explanation": "Material and abstract nouns used in a general, unconditional sense take no article (e.g., 'Gold is precious', 'Honesty is the best policy').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-012",
+          "question": "When does a material noun take the definite article 'the'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "When it refers to a specific, localized quantity (e.g., 'The gold of this ring is pure')"
+            },
+            {
+              "label": "B",
+              "text": "Whenever it is spoken aloud"
+            },
+            {
+              "label": "C",
+              "text": "Only when the price of gold rises"
+            },
+            {
+              "label": "D",
+              "text": "Never under any grammatical circumstances"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "When it refers to a specific, localized quantity (e.g., 'The gold of this ring is pure')",
+          "explanation": "When an uncountable or material noun is particularized or qualified by an adjectival phrase/clause, it requires 'the'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-013",
+          "question": "Fill in the blank: 'They play ______ cricket every Friday afternoon.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "no article"
+            },
+            {
+              "label": "B",
+              "text": "a"
+            },
+            {
+              "label": "C",
+              "text": "an"
+            },
+            {
+              "label": "D",
+              "text": "the"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "no article",
+          "explanation": "Names of sports, games, and athletic activities (cricket, football, chess) take no article.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-014",
+          "question": "Choose the correct option: 'We had ______ delicious dinner at their home last night.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "a"
+            },
+            {
+              "label": "B",
+              "text": "an"
+            },
+            {
+              "label": "C",
+              "text": "the"
+            },
+            {
+              "label": "D",
+              "text": "no article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "a",
+          "explanation": "While names of meals generally take no article ('We had dinner'), when preceded by an adjective ('delicious dinner'), they take 'a/an'.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG201-MCQ-015",
+          "question": "Fill in the blank: 'He can speak ______ French fluently, but he does not know ______ French language history.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "no article; the"
+            },
+            {
+              "label": "B",
+              "text": "the; no article"
+            },
+            {
+              "label": "C",
+              "text": "a; the"
+            },
+            {
+              "label": "D",
+              "text": "the; the"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "no article; the",
+          "explanation": "Names of languages alone take no article ('French'), but when accompanied by the word 'language' ('the French language'), 'the' is required.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Determiners and Quantifiers",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-016",
+          "question": "What is the distinction between 'few' and 'a few'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'Few' has a negative meaning (almost none), while 'a few' has a positive meaning (some / a small number)"
+            },
+            {
+              "label": "B",
+              "text": "'Few' is used for liquids, 'a few' is used for solids"
+            },
+            {
+              "label": "C",
+              "text": "'Few' means more than one hundred"
+            },
+            {
+              "label": "D",
+              "text": "There is no difference in meaning"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'Few' has a negative meaning (almost none), while 'a few' has a positive meaning (some / a small number)",
+          "explanation": "'Few' implies scarcity or insufficiency ('almost none'), while 'a few' denotes a positive, modest quantity ('some').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-017",
+          "question": "Fill in the blank: 'There is ______ milk left in the bottle, hardly enough to make one cup of tea.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "little"
+            },
+            {
+              "label": "B",
+              "text": "a little"
+            },
+            {
+              "label": "C",
+              "text": "few"
+            },
+            {
+              "label": "D",
+              "text": "a few"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "little",
+          "explanation": "For uncountable nouns (milk), 'little' has a negative sense (almost none), matching the context 'hardly enough'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-018",
+          "question": "Which quantifier is used exclusively with plural countable nouns?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Many"
+            },
+            {
+              "label": "B",
+              "text": "Much"
+            },
+            {
+              "label": "C",
+              "text": "Little"
+            },
+            {
+              "label": "D",
+              "text": "Less"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Many",
+          "explanation": "'Many' modifies plural countable nouns (books, students), whereas 'much' modifies singular uncountable nouns (water, time).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-019",
+          "question": "'______ of the two brothers was willing to concede the argument.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neither"
+            },
+            {
+              "label": "B",
+              "text": "None"
+            },
+            {
+              "label": "C",
+              "text": "Every"
+            },
+            {
+              "label": "D",
+              "text": "Both not"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Neither",
+          "explanation": "'Neither' is used when choosing between exactly two persons or things, taking a singular verb ('was').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-020",
+          "question": "Choose the correct sentence regarding 'each' and 'every':",
+          "options": [
+            {
+              "label": "A",
+              "text": "Each student in the seminar was given an individual research project."
+            },
+            {
+              "label": "B",
+              "text": "Each student in the seminar were given an individual research project."
+            },
+            {
+              "label": "C",
+              "text": "Every of the students received an award."
+            },
+            {
+              "label": "D",
+              "text": "Each of students have finished their tasks."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Each student in the seminar was given an individual research project.",
+          "explanation": "'Each' is distributive, modifying singular nouns and taking singular verbs ('was given'). 'Every of' is ungrammatical.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Prepositions of Time and Place",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-021",
+          "question": "Choose the correct prepositions: 'The seminar begins ______ 9:00 AM ______ Monday morning.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "at; on"
+            },
+            {
+              "label": "B",
+              "text": "on; in"
+            },
+            {
+              "label": "C",
+              "text": "in; at"
+            },
+            {
+              "label": "D",
+              "text": "by; in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "at; on",
+          "explanation": "Precise clock times take 'at' ('at 9:00 AM'), while days of the week take 'on' ('on Monday morning').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-022",
+          "question": "Fill in the blank: 'Bangladesh became independent ______ 1971 ______ December.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "in; in"
+            },
+            {
+              "label": "B",
+              "text": "on; on"
+            },
+            {
+              "label": "C",
+              "text": "at; on"
+            },
+            {
+              "label": "D",
+              "text": "on; in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "in; in",
+          "explanation": "Years (1971) and months (December) both take the preposition 'in'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-023",
+          "question": "What is the distinction between 'between' and 'among'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'Between' is typically used for two distinct entities, while 'among' is used for three or more entities"
+            },
+            {
+              "label": "B",
+              "text": "'Between' is for liquids, 'among' is for solids"
+            },
+            {
+              "label": "C",
+              "text": "'Among' is only used for inanimate objects"
+            },
+            {
+              "label": "D",
+              "text": "They are completely interchangeable in all contexts"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'Between' is typically used for two distinct entities, while 'among' is used for three or more entities",
+          "explanation": "'Between' divides things between two persons/objects, while 'among' distributes among three or more members of a group.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-024",
+          "question": "'He has been suffering from fever ______ last Wednesday.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "since"
+            },
+            {
+              "label": "B",
+              "text": "for"
+            },
+            {
+              "label": "C",
+              "text": "from"
+            },
+            {
+              "label": "D",
+              "text": "in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "since",
+          "explanation": "In perfect tenses, 'since' marks a specific point in past time ('since last Wednesday'), whereas 'for' marks a duration of time.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-025",
+          "question": "Choose the correct prepositions: 'He lives ______ Mirpur ______ Dhaka.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "at; in"
+            },
+            {
+              "label": "B",
+              "text": "in; at"
+            },
+            {
+              "label": "C",
+              "text": "on; in"
+            },
+            {
+              "label": "D",
+              "text": "at; on"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "at; in",
+          "explanation": "For smaller localities within a larger city, 'at' is used for the smaller area (Mirpur) and 'in' for the larger city (Dhaka).",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Appropriate Prepositions",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-026",
+          "question": "Fill in the blank: 'Every conscientious citizen must abide ______ the laws of the land.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "by"
+            },
+            {
+              "label": "B",
+              "text": "with"
+            },
+            {
+              "label": "C",
+              "text": "to"
+            },
+            {
+              "label": "D",
+              "text": "in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "by",
+          "explanation": "The idiom 'abide by' means to accept and follow a rule, decision, or law faithfully.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-027",
+          "question": "Choose the correct preposition: 'The patient finally succumbed ______ his prolonged injuries.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "to"
+            },
+            {
+              "label": "B",
+              "text": "with"
+            },
+            {
+              "label": "C",
+              "text": "from"
+            },
+            {
+              "label": "D",
+              "text": "by"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "to",
+          "explanation": "'Succumb to' is an appropriate preposition meaning to fail to resist or to die from an illness/injury.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-028",
+          "question": "Fill in the blank: 'A genuine scholar is never boastful ______ his intellectual accomplishments.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "of"
+            },
+            {
+              "label": "B",
+              "text": "for"
+            },
+            {
+              "label": "C",
+              "text": "with"
+            },
+            {
+              "label": "D",
+              "text": "in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "of",
+          "explanation": "The appropriate adjective preposition pair is 'boastful of' (or 'boast of').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-029",
+          "question": "Fill in the blank: 'He agreed ______ my proposal after reviewing the budget.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "to"
+            },
+            {
+              "label": "B",
+              "text": "with"
+            },
+            {
+              "label": "C",
+              "text": "on"
+            },
+            {
+              "label": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "to",
+          "explanation": "One 'agrees with' a person, but 'agrees to' a proposal, suggestion, or terms.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG201-MCQ-030",
+          "question": "Choose the correct preposition: 'The detective was suspicious ______ the suspect's inconsistent alibi.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "of"
+            },
+            {
+              "label": "B",
+              "text": "about"
+            },
+            {
+              "label": "C",
+              "text": "for"
+            },
+            {
+              "label": "D",
+              "text": "with"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "of",
+          "explanation": "The standard appropriate preposition is 'suspicious of' (having doubts or mistrust).",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Prepositions of Motion, Direction and Position",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-031",
+          "question": "Choose the correct preposition: 'The frightened boy jumped ______ the river to escape the fire.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "into"
+            },
+            {
+              "label": "B",
+              "text": "in"
+            },
+            {
+              "label": "C",
+              "text": "onto"
+            },
+            {
+              "label": "D",
+              "text": "inside"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "into",
+          "explanation": "'Into' expresses motion from the outside to the inside of an enclosure or body of water, while 'in' expresses static position.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-032",
+          "question": "Fill in the blank: 'The hikers walked ______ the dense forest along a narrow winding trail.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "through"
+            },
+            {
+              "label": "B",
+              "text": "across"
+            },
+            {
+              "label": "C",
+              "text": "over"
+            },
+            {
+              "label": "D",
+              "text": "in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "through",
+          "explanation": "'Through' describes movement within a three-dimensional space with boundaries, like a forest, tunnel, or crowd.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-033",
+          "question": "Choose the correct preposition: 'The athlete easily jumped ______ the high wooden hurdle.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "over"
+            },
+            {
+              "label": "B",
+              "text": "under"
+            },
+            {
+              "label": "C",
+              "text": "through"
+            },
+            {
+              "label": "D",
+              "text": "into"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "over",
+          "explanation": "'Over' describes motion passing above something from one side to the other without physical contact.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-034",
+          "question": "Fill in the blank: 'They strolled peacefully ______ the sandy shore of the Bay of Bengal.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "along"
+            },
+            {
+              "label": "B",
+              "text": "across"
+            },
+            {
+              "label": "C",
+              "text": "through"
+            },
+            {
+              "label": "D",
+              "text": "into"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "along",
+          "explanation": "'Along' indicates movement in a line parallel to or following the course of a border, river, road, or shore.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-035",
+          "question": "'The cat sprang ______ the table and knocked over the glass vase.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "onto"
+            },
+            {
+              "label": "B",
+              "text": "into"
+            },
+            {
+              "label": "C",
+              "text": "under"
+            },
+            {
+              "label": "D",
+              "text": "in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "onto",
+          "explanation": "'Onto' signifies movement directed to a position on a surface.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Prepositional Phrases and Idioms",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-036",
+          "question": "What is the meaning of the prepositional idiom 'in spite of'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Regardless of or despite the mentioned circumstance"
+            },
+            {
+              "label": "B",
+              "text": "Because of bad intention"
+            },
+            {
+              "label": "C",
+              "text": "In search of fortune"
+            },
+            {
+              "label": "D",
+              "text": "With the intention of helping"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Regardless of or despite the mentioned circumstance",
+          "explanation": "'In spite of' is synonymous with 'despite', introducing a contrasting obstacle that did not prevent an outcome.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-037",
+          "question": "Fill in the blank: 'He succeeded in life ______ hard labor and perseverance.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "by dint of"
+            },
+            {
+              "label": "B",
+              "text": "in lieu of"
+            },
+            {
+              "label": "C",
+              "text": "on account of"
+            },
+            {
+              "label": "D",
+              "text": "in view of"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "by dint of",
+          "explanation": "The idiom 'by dint of' means by means of or as a result of (e.g. by dint of hard work).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-038",
+          "question": "'We are looking forward to ______ you at the annual convocation.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "meeting"
+            },
+            {
+              "label": "B",
+              "text": "meet"
+            },
+            {
+              "label": "C",
+              "text": "met"
+            },
+            {
+              "label": "D",
+              "text": "be met"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "meeting",
+          "explanation": "In 'look forward to', 'to' is a preposition (not part of an infinitive), so it must be followed by a gerund (-ing form).",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG201-MCQ-039",
+          "question": "What does the prepositional phrase 'in lieu of' mean?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Instead of or in place of"
+            },
+            {
+              "label": "B",
+              "text": "In front of"
+            },
+            {
+              "label": "C",
+              "text": "In support of"
+            },
+            {
+              "label": "D",
+              "text": "Without delay"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Instead of or in place of",
+          "explanation": "'In lieu of' is an idiom derived from French meaning 'in place of' or 'as an alternative to'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-040",
+          "question": "Fill in the blank: 'He went to London with an eye to ______ his doctoral research.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "completing"
+            },
+            {
+              "label": "B",
+              "text": "complete"
+            },
+            {
+              "label": "C",
+              "text": "completed"
+            },
+            {
+              "label": "D",
+              "text": "completion of"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "completing",
+          "explanation": "Phrases ending in prepositions like 'with an eye to' and 'with a view to' take a gerund (verb+ing).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Error Detection in Articles and Prepositions",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-041",
+          "question": "Identify the incorrect part: 'He is [A] an European [B] who works as [C] a professor at [D] a university.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "an European"
+            },
+            {
+              "label": "B",
+              "text": "who works"
+            },
+            {
+              "label": "C",
+              "text": "a professor"
+            },
+            {
+              "label": "D",
+              "text": "a university"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "an European",
+          "explanation": "'European' begins with the consonant semivowel sound /j/ (yoo-ro-pee-an); the correct article is 'a European', not 'an European'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-042",
+          "question": "Spot the error: 'The train arrived [A] at the platform [B] in time [C] on yesterday [D].'",
+          "options": [
+            {
+              "label": "A",
+              "text": "arrived at"
+            },
+            {
+              "label": "B",
+              "text": "the platform"
+            },
+            {
+              "label": "C",
+              "text": "in time"
+            },
+            {
+              "label": "D",
+              "text": "on yesterday"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "on yesterday",
+          "explanation": "Temporal adverbs like 'yesterday', 'today', 'tomorrow', 'last week', and 'next year' never take prepositions like 'on' or 'in'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-043",
+          "question": "Identify the incorrect usage: 'She died [A] from cancer [B] after battling [C] the illness for [D] months.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "died from cancer"
+            },
+            {
+              "label": "B",
+              "text": "after battling"
+            },
+            {
+              "label": "C",
+              "text": "the illness"
+            },
+            {
+              "label": "D",
+              "text": "for months"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "died from cancer",
+          "explanation": "When someone dies of a specific disease, the correct preposition is 'of' ('died of cancer', not 'died from cancer'). 'Died from' is used for wounds, overwork, etc.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG201-MCQ-044",
+          "question": "Identify the error: 'The man was accused [A] with theft [B] and produced [C] before the magistrate [D].'",
+          "options": [
+            {
+              "label": "A",
+              "text": "accused with theft"
+            },
+            {
+              "label": "B",
+              "text": "and produced"
+            },
+            {
+              "label": "C",
+              "text": "before"
+            },
+            {
+              "label": "D",
+              "text": "the magistrate"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "accused with theft",
+          "explanation": "The appropriate preposition after 'accuse' is 'of' ('accused of theft'). One is 'charged with', but 'accused of'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-045",
+          "question": "Spot the grammatical flaw: 'He resembles [A] to his father [B] in both appearance [C] and temperament [D].'",
+          "options": [
+            {
+              "label": "A",
+              "text": "to his father"
+            },
+            {
+              "label": "B",
+              "text": "in both"
+            },
+            {
+              "label": "C",
+              "text": "appearance"
+            },
+            {
+              "label": "D",
+              "text": "temperament"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "to his father",
+          "explanation": "'Resemble' is a transitive verb that takes a direct object without any preposition (i.e., 'He resembles his father', not 'resembles to').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Contextual Passage Application (Board Style)",
+      "questions": [
+        {
+          "id": "ENG201-MCQ-046",
+          "question": "Fill the gaps: 'Education is (a)______ process of acquiring knowledge and developing (b)______ character.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "the; no article"
+            },
+            {
+              "label": "B",
+              "text": "a; a"
+            },
+            {
+              "label": "C",
+              "text": "the; the"
+            },
+            {
+              "label": "D",
+              "text": "an; a"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "the; no article",
+          "explanation": "'The process' specifies the defined action, while 'character' is used as an abstract uncountable noun taking no article.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-047",
+          "question": "Fill the gap: 'Honesty is indispensable (a)______ genuine peace of mind.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "to"
+            },
+            {
+              "label": "B",
+              "text": "for"
+            },
+            {
+              "label": "C",
+              "text": "with"
+            },
+            {
+              "label": "D",
+              "text": "in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "to",
+          "explanation": "The appropriate preposition following 'indispensable' is 'to' (or 'for', but 'indispensable to' is preferred in formal board exams).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-048",
+          "question": "Fill the gap: 'We must abstain (a)______ committing acts that harm (b)______ environment.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "from; the"
+            },
+            {
+              "label": "B",
+              "text": "to; an"
+            },
+            {
+              "label": "C",
+              "text": "with; a"
+            },
+            {
+              "label": "D",
+              "text": "in; no article"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "from; the",
+          "explanation": "'Abstain' takes the preposition 'from' ('abstain from doing something'), and 'the environment' takes the definite article.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG201-MCQ-049",
+          "question": "'The teacher congratulated the boy (a)______ his brilliant success in (b)______ examination.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "on; the"
+            },
+            {
+              "label": "B",
+              "text": "for; an"
+            },
+            {
+              "label": "C",
+              "text": "at; a"
+            },
+            {
+              "label": "D",
+              "text": "with; the"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "on; the",
+          "explanation": "One 'congratulates someone on' an achievement, and 'the examination' refers to the specific test.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG201-MCQ-050",
+          "question": "'Blind (a)______ one's own faults makes one incapable (b)______ moral self-correction.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "to; of"
+            },
+            {
+              "label": "B",
+              "text": "of; to"
+            },
+            {
+              "label": "C",
+              "text": "with; for"
+            },
+            {
+              "label": "D",
+              "text": "at; in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "to; of",
+          "explanation": "'Blind to' means unwilling to perceive faults, and 'incapable of' is the standard appropriate preposition combination.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

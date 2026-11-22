@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 7,
+  "chapter_title": "Trigonometric Ratios of Associated and Compound Angles",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Sine of a Sum",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q001",
+          "question": "Evaluate sin(30°+30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "√3/2"
+            },
+            {
+              "label": "B",
+              "text": "√2/2"
+            },
+            {
+              "label": "C",
+              "text": "1/2"
+            },
+            {
+              "label": "D",
+              "text": "−1/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "√3/2",
+          "explanation": "Use sin(A+B)=sin A cos B+cos A sin B; the result is √3/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q002",
+          "question": "Evaluate sin(30°+60°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "√2/2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "−1/2"
+            },
+            {
+              "label": "D",
+              "text": "1/2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1",
+          "explanation": "Use sin(A+B)=sin A cos B+cos A sin B; the result is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q003",
+          "question": "Evaluate sin(45°+45°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1/2"
+            },
+            {
+              "label": "B",
+              "text": "1/2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "√2/2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1",
+          "explanation": "Use sin(A+B)=sin A cos B+cos A sin B; the result is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q004",
+          "question": "Evaluate sin(60°+60°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1/2"
+            },
+            {
+              "label": "B",
+              "text": "1/2"
+            },
+            {
+              "label": "C",
+              "text": "√2/2"
+            },
+            {
+              "label": "D",
+              "text": "√3/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "√3/2",
+          "explanation": "Use sin(A+B)=sin A cos B+cos A sin B; the result is √3/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q005",
+          "question": "Evaluate sin(45°+135°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "−1/2"
+            },
+            {
+              "label": "C",
+              "text": "1/2"
+            },
+            {
+              "label": "D",
+              "text": "√2/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "0",
+          "explanation": "Use sin(A+B)=sin A cos B+cos A sin B; the result is 0.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cosine of a Sum",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q006",
+          "question": "Evaluate cos(30°+30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "√3/2"
+            },
+            {
+              "label": "B",
+              "text": "1/2"
+            },
+            {
+              "label": "C",
+              "text": "−1"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1/2",
+          "explanation": "Use cos(A+B)=cos A cos B−sin A sin B; the result is 1/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q007",
+          "question": "Evaluate cos(30°+60°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1"
+            },
+            {
+              "label": "B",
+              "text": "√3/2"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "0",
+          "explanation": "Use cos(A+B)=cos A cos B−sin A sin B; the result is 0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q008",
+          "question": "Evaluate cos(45°+45°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1"
+            },
+            {
+              "label": "B",
+              "text": "√3/2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "0",
+          "explanation": "Use cos(A+B)=cos A cos B−sin A sin B; the result is 0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q009",
+          "question": "Evaluate cos(60°+60°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1/2"
+            },
+            {
+              "label": "B",
+              "text": "−1"
+            },
+            {
+              "label": "C",
+              "text": "√3/2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "−1/2",
+          "explanation": "Use cos(A+B)=cos A cos B−sin A sin B; the result is −1/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q010",
+          "question": "Evaluate cos(30°+90°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "−1/2"
+            },
+            {
+              "label": "C",
+              "text": "−1"
+            },
+            {
+              "label": "D",
+              "text": "√3/2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "−1/2",
+          "explanation": "Use cos(A+B)=cos A cos B−sin A sin B; the result is −1/2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Tangent of a Sum",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q011",
+          "question": "Evaluate tan(45°+30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/√3"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "2+√3"
+            },
+            {
+              "label": "D",
+              "text": "√3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2+√3",
+          "explanation": "Use tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is 2+√3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q012",
+          "question": "Evaluate tan(45°+0°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "√3"
+            },
+            {
+              "label": "C",
+              "text": "1/√3"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "Use tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q013",
+          "question": "Evaluate tan(60°+30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "Undefined"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "1/√3"
+            },
+            {
+              "label": "D",
+              "text": "√3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Undefined",
+          "explanation": "Use tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is Undefined.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q014",
+          "question": "Evaluate tan(45°+45°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "Undefined"
+            },
+            {
+              "label": "C",
+              "text": "1/√3"
+            },
+            {
+              "label": "D",
+              "text": "√3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Undefined",
+          "explanation": "Use tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is Undefined.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q015",
+          "question": "Evaluate tan(30°+30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/√3"
+            },
+            {
+              "label": "B",
+              "text": "−1"
+            },
+            {
+              "label": "C",
+              "text": "√3"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "√3",
+          "explanation": "Use tan(A+B)=(tan A+tan B)/(1−tan A tan B); the result is √3.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sine of a Difference",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q016",
+          "question": "Evaluate sin(60°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "−1/2"
+            },
+            {
+              "label": "C",
+              "text": "√2/2"
+            },
+            {
+              "label": "D",
+              "text": "1/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1/2",
+          "explanation": "The subtraction identity sin(A−B)=sin A cos B−cos A sin B gives 1/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q017",
+          "question": "Evaluate sin(90°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "√3/2"
+            },
+            {
+              "label": "B",
+              "text": "−1/2"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "√2/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "√3/2",
+          "explanation": "The subtraction identity sin(A−B)=sin A cos B−cos A sin B gives √3/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q018",
+          "question": "Evaluate sin(45°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1/2"
+            },
+            {
+              "label": "B",
+              "text": "(√6−√2)/4"
+            },
+            {
+              "label": "C",
+              "text": "√2/2"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(√6−√2)/4",
+          "explanation": "The subtraction identity sin(A−B)=sin A cos B−cos A sin B gives (√6−√2)/4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q019",
+          "question": "Evaluate sin(90°−60°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "√2/2"
+            },
+            {
+              "label": "C",
+              "text": "1/2"
+            },
+            {
+              "label": "D",
+              "text": "−1/2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1/2",
+          "explanation": "The subtraction identity sin(A−B)=sin A cos B−cos A sin B gives 1/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q020",
+          "question": "Evaluate sin(120°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "−1/2"
+            },
+            {
+              "label": "C",
+              "text": "√2/2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "The subtraction identity sin(A−B)=sin A cos B−cos A sin B gives 1.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cosine of a Difference",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q021",
+          "question": "Evaluate cos(60°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "√3/2"
+            },
+            {
+              "label": "B",
+              "text": "−1/2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "√2/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "√3/2",
+          "explanation": "The subtraction identity cos(A−B)=cos A cos B+sin A sin B gives √3/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q022",
+          "question": "Evaluate cos(90°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1/2"
+            },
+            {
+              "label": "B",
+              "text": "1/2"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "√2/2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1/2",
+          "explanation": "The subtraction identity cos(A−B)=cos A cos B+sin A sin B gives 1/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q023",
+          "question": "Evaluate cos(45°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "√2/2"
+            },
+            {
+              "label": "C",
+              "text": "(√6+√2)/4"
+            },
+            {
+              "label": "D",
+              "text": "−1/2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "(√6+√2)/4",
+          "explanation": "The subtraction identity cos(A−B)=cos A cos B+sin A sin B gives (√6+√2)/4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q024",
+          "question": "Evaluate cos(120°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "√2/2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "−1/2"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "0",
+          "explanation": "The subtraction identity cos(A−B)=cos A cos B+sin A sin B gives 0.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q025",
+          "question": "Evaluate cos(90°−60°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "√3/2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "√2/2"
+            },
+            {
+              "label": "D",
+              "text": "−1/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "√3/2",
+          "explanation": "The subtraction identity cos(A−B)=cos A cos B+sin A sin B gives √3/2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Tangent of a Difference",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q026",
+          "question": "Evaluate tan(60°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "−1"
+            },
+            {
+              "label": "B",
+              "text": "1/√3"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "√3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1/√3",
+          "explanation": "Use tan(A−B)=(tan A−tan B)/(1+tan A tan B); the result is 1/√3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q027",
+          "question": "Evaluate tan(90°−45°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "√3"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "−1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1",
+          "explanation": "Use tan(A−B)=(tan A−tan B)/(1+tan A tan B); the result is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q028",
+          "question": "Evaluate tan(75°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "√3"
+            },
+            {
+              "label": "C",
+              "text": "−1"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "Use tan(A−B)=(tan A−tan B)/(1+tan A tan B); the result is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q029",
+          "question": "Evaluate tan(45°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "2−√3"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "√3"
+            },
+            {
+              "label": "D",
+              "text": "−1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2−√3",
+          "explanation": "Use tan(A−B)=(tan A−tan B)/(1+tan A tan B); the result is 2−√3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q030",
+          "question": "Evaluate tan(120°−30°).",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "Undefined"
+            },
+            {
+              "label": "C",
+              "text": "√3"
+            },
+            {
+              "label": "D",
+              "text": "−1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Undefined",
+          "explanation": "Use tan(A−B)=(tan A−tan B)/(1+tan A tan B); the result is Undefined.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Double-angle Sine",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q031",
+          "question": "If θ is acute, sin θ=3/5 and cos θ=4/5, find sin 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-24/25"
+            },
+            {
+              "label": "B",
+              "text": "12/25"
+            },
+            {
+              "label": "C",
+              "text": "24/25"
+            },
+            {
+              "label": "D",
+              "text": "-7/25"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "24/25",
+          "explanation": "The double-angle identity sin 2θ=2sinθcosθ gives 24/25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q032",
+          "question": "If θ is acute, sin θ=5/13 and cos θ=12/13, find sin 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-119/169"
+            },
+            {
+              "label": "B",
+              "text": "60/169"
+            },
+            {
+              "label": "C",
+              "text": "-120/169"
+            },
+            {
+              "label": "D",
+              "text": "120/169"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "120/169",
+          "explanation": "The double-angle identity sin 2θ=2sinθcosθ gives 120/169.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q033",
+          "question": "If θ is acute, sin θ=8/17 and cos θ=15/17, find sin 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "240/289"
+            },
+            {
+              "label": "B",
+              "text": "120/289"
+            },
+            {
+              "label": "C",
+              "text": "-240/289"
+            },
+            {
+              "label": "D",
+              "text": "-161/289"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "240/289",
+          "explanation": "The double-angle identity sin 2θ=2sinθcosθ gives 240/289.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q034",
+          "question": "If θ is acute, sin θ=7/25 and cos θ=24/25, find sin 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-527/625"
+            },
+            {
+              "label": "B",
+              "text": "336/625"
+            },
+            {
+              "label": "C",
+              "text": "168/625"
+            },
+            {
+              "label": "D",
+              "text": "-336/625"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "336/625",
+          "explanation": "The double-angle identity sin 2θ=2sinθcosθ gives 336/625.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q035",
+          "question": "If θ is acute, sin θ=6/10 and cos θ=8/10, find sin 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7/25"
+            },
+            {
+              "label": "B",
+              "text": "12/25"
+            },
+            {
+              "label": "C",
+              "text": "24/25"
+            },
+            {
+              "label": "D",
+              "text": "-24/25"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "24/25",
+          "explanation": "The double-angle identity sin 2θ=2sinθcosθ gives 24/25.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Double-angle Cosine",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q036",
+          "question": "If sin θ=3/5 and cos θ=4/5, find cos 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "32/25"
+            },
+            {
+              "label": "B",
+              "text": "24/25"
+            },
+            {
+              "label": "C",
+              "text": "-7/25"
+            },
+            {
+              "label": "D",
+              "text": "7/25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "7/25",
+          "explanation": "The double-angle identity cos 2θ=cos²θ−sin²θ gives 7/25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q037",
+          "question": "If sin θ=5/13 and cos θ=12/13, find cos 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "119/169"
+            },
+            {
+              "label": "B",
+              "text": "120/169"
+            },
+            {
+              "label": "C",
+              "text": "-119/169"
+            },
+            {
+              "label": "D",
+              "text": "288/169"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "119/169",
+          "explanation": "The double-angle identity cos 2θ=cos²θ−sin²θ gives 119/169.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q038",
+          "question": "If sin θ=8/17 and cos θ=15/17, find cos 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-161/289"
+            },
+            {
+              "label": "B",
+              "text": "161/289"
+            },
+            {
+              "label": "C",
+              "text": "240/289"
+            },
+            {
+              "label": "D",
+              "text": "450/289"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "161/289",
+          "explanation": "The double-angle identity cos 2θ=cos²θ−sin²θ gives 161/289.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q039",
+          "question": "If sin θ=7/25 and cos θ=24/25, find cos 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1152/625"
+            },
+            {
+              "label": "B",
+              "text": "336/625"
+            },
+            {
+              "label": "C",
+              "text": "527/625"
+            },
+            {
+              "label": "D",
+              "text": "-527/625"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "527/625",
+          "explanation": "The double-angle identity cos 2θ=cos²θ−sin²θ gives 527/625.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q040",
+          "question": "If sin θ=6/10 and cos θ=8/10, find cos 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7/25"
+            },
+            {
+              "label": "B",
+              "text": "32/25"
+            },
+            {
+              "label": "C",
+              "text": "24/25"
+            },
+            {
+              "label": "D",
+              "text": "7/25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "7/25",
+          "explanation": "The double-angle identity cos 2θ=cos²θ−sin²θ gives 7/25.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Double-angle Tangent",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q041",
+          "question": "If tan θ=1, find tan 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Undefined"
+            },
+            {
+              "label": "B",
+              "text": "−1"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Undefined",
+          "explanation": "The identity tan2θ=2tanθ/(1−tan²θ) gives Undefined.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q042",
+          "question": "If tan θ=2, find tan 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2/3"
+            },
+            {
+              "label": "B",
+              "text": "-4/3"
+            },
+            {
+              "label": "C",
+              "text": "4/3"
+            },
+            {
+              "label": "D",
+              "text": "4/5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-4/3",
+          "explanation": "The identity tan2θ=2tanθ/(1−tan²θ) gives -4/3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q043",
+          "question": "If tan θ=3, find tan 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3/8"
+            },
+            {
+              "label": "B",
+              "text": "3/4"
+            },
+            {
+              "label": "C",
+              "text": "-3/4"
+            },
+            {
+              "label": "D",
+              "text": "3/5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-3/4",
+          "explanation": "The identity tan2θ=2tanθ/(1−tan²θ) gives -3/4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q044",
+          "question": "If tan θ=4, find tan 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-4/15"
+            },
+            {
+              "label": "B",
+              "text": "8/15"
+            },
+            {
+              "label": "C",
+              "text": "8/17"
+            },
+            {
+              "label": "D",
+              "text": "-8/15"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-8/15",
+          "explanation": "The identity tan2θ=2tanθ/(1−tan²θ) gives -8/15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q045",
+          "question": "If tan θ=5, find tan 2θ.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-5/12"
+            },
+            {
+              "label": "B",
+              "text": "5/13"
+            },
+            {
+              "label": "C",
+              "text": "5/12"
+            },
+            {
+              "label": "D",
+              "text": "-5/24"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-5/12",
+          "explanation": "The identity tan2θ=2tanθ/(1−tan²θ) gives -5/12.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sum-to-Product Identities",
+      "questions": [
+        {
+          "id": "HM-P1-C07-Q046",
+          "question": "Which expression equals sin(30°)+sin(0°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "2sin 15° cos 15°"
+            },
+            {
+              "label": "C",
+              "text": "2cos 15° sin 15°"
+            },
+            {
+              "label": "D",
+              "text": "sin 15° cos 15°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2sin 15° cos 15°",
+          "explanation": "Using sin A+sin B=2sin((A+B)/2)cos((A−B)/2), we get 2sin 15° cos 15°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q047",
+          "question": "Which expression equals sin(45°)+sin(15°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2sin 15° cos 30°"
+            },
+            {
+              "label": "B",
+              "text": "2cos 30° sin 15°"
+            },
+            {
+              "label": "C",
+              "text": "2sin 30° cos 15°"
+            },
+            {
+              "label": "D",
+              "text": "sin 30° cos 15°"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2sin 30° cos 15°",
+          "explanation": "Using sin A+sin B=2sin((A+B)/2)cos((A−B)/2), we get 2sin 30° cos 15°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q048",
+          "question": "Which expression equals sin(60°)+sin(30°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2cos 45° sin 15°"
+            },
+            {
+              "label": "B",
+              "text": "sin 45° cos 15°"
+            },
+            {
+              "label": "C",
+              "text": "2sin 15° cos 45°"
+            },
+            {
+              "label": "D",
+              "text": "2sin 45° cos 15°"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "2sin 45° cos 15°",
+          "explanation": "Using sin A+sin B=2sin((A+B)/2)cos((A−B)/2), we get 2sin 45° cos 15°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q049",
+          "question": "Which expression equals sin(75°)+sin(45°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2sin 60° cos 15°"
+            },
+            {
+              "label": "B",
+              "text": "sin 60° cos 15°"
+            },
+            {
+              "label": "C",
+              "text": "2cos 60° sin 15°"
+            },
+            {
+              "label": "D",
+              "text": "2sin 15° cos 60°"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2sin 60° cos 15°",
+          "explanation": "Using sin A+sin B=2sin((A+B)/2)cos((A−B)/2), we get 2sin 60° cos 15°.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C07-Q050",
+          "question": "Which expression equals sin(90°)+sin(60°)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin 75° cos 15°"
+            },
+            {
+              "label": "B",
+              "text": "2sin 75° cos 15°"
+            },
+            {
+              "label": "C",
+              "text": "2sin 15° cos 75°"
+            },
+            {
+              "label": "D",
+              "text": "2cos 75° sin 15°"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2sin 75° cos 15°",
+          "explanation": "Using sin A+sin B=2sin((A+B)/2)cos((A−B)/2), we get 2sin 75° cos 15°.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

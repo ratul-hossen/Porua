@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "Physical World and Measurement",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Physics and its scope",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ001",
+          "question": "Which statement best describes physics and its scope?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the classification of living organisms"
+            },
+            {
+              "label": "B",
+              "text": "the study of historical events"
+            },
+            {
+              "label": "C",
+              "text": "Physics is the study of matter, energy, motion and their interactions"
+            },
+            {
+              "label": "D",
+              "text": "the study of only chemical reactions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Physics is the study of matter, energy, motion and their interactions",
+          "explanation": "Physics seeks general laws describing matter, energy, motion and interactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ002",
+          "question": "Which option is correctly associated with physics and its scope?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the classification of living organisms"
+            },
+            {
+              "label": "B",
+              "text": "the study of only chemical reactions"
+            },
+            {
+              "label": "C",
+              "text": "Physics is the study of matter, energy, motion and their interactions"
+            },
+            {
+              "label": "D",
+              "text": "the study of historical events"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Physics is the study of matter, energy, motion and their interactions",
+          "explanation": "Physics seeks general laws describing matter, energy, motion and interactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ003",
+          "question": "In a basic HSC Physics question about physics and its scope, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the study of only chemical reactions"
+            },
+            {
+              "label": "B",
+              "text": "the study of historical events"
+            },
+            {
+              "label": "C",
+              "text": "Physics is the study of matter, energy, motion and their interactions"
+            },
+            {
+              "label": "D",
+              "text": "the classification of living organisms"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Physics is the study of matter, energy, motion and their interactions",
+          "explanation": "Physics seeks general laws describing matter, energy, motion and interactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ004",
+          "question": "Which fact should be remembered about physics and its scope?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the classification of living organisms"
+            },
+            {
+              "label": "B",
+              "text": "Physics is the study of matter, energy, motion and their interactions"
+            },
+            {
+              "label": "C",
+              "text": "the study of only chemical reactions"
+            },
+            {
+              "label": "D",
+              "text": "the study of historical events"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Physics is the study of matter, energy, motion and their interactions",
+          "explanation": "Physics seeks general laws describing matter, energy, motion and interactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning physics and its scope?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the study of only chemical reactions"
+            },
+            {
+              "label": "B",
+              "text": "the classification of living organisms"
+            },
+            {
+              "label": "C",
+              "text": "Physics is the study of matter, energy, motion and their interactions"
+            },
+            {
+              "label": "D",
+              "text": "the study of historical events"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Physics is the study of matter, energy, motion and their interactions",
+          "explanation": "Physics seeks general laws describing matter, energy, motion and interactions.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Fundamental quantities",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ006",
+          "question": "Which statement best describes fundamental quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure, energy and momentum"
+            },
+            {
+              "label": "B",
+              "text": "speed, acceleration and density"
+            },
+            {
+              "label": "C",
+              "text": "Length, mass and time are fundamental mechanical quantities"
+            },
+            {
+              "label": "D",
+              "text": "force, work and power"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Length, mass and time are fundamental mechanical quantities",
+          "explanation": "Length, mass and time are base quantities in mechanics; the others are derived.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ007",
+          "question": "Which option is correctly associated with fundamental quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure, energy and momentum"
+            },
+            {
+              "label": "B",
+              "text": "Length, mass and time are fundamental mechanical quantities"
+            },
+            {
+              "label": "C",
+              "text": "force, work and power"
+            },
+            {
+              "label": "D",
+              "text": "speed, acceleration and density"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Length, mass and time are fundamental mechanical quantities",
+          "explanation": "Length, mass and time are base quantities in mechanics; the others are derived.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ008",
+          "question": "In a basic HSC Physics question about fundamental quantities, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Length, mass and time are fundamental mechanical quantities"
+            },
+            {
+              "label": "B",
+              "text": "speed, acceleration and density"
+            },
+            {
+              "label": "C",
+              "text": "pressure, energy and momentum"
+            },
+            {
+              "label": "D",
+              "text": "force, work and power"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Length, mass and time are fundamental mechanical quantities",
+          "explanation": "Length, mass and time are base quantities in mechanics; the others are derived.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ009",
+          "question": "Which fact should be remembered about fundamental quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure, energy and momentum"
+            },
+            {
+              "label": "B",
+              "text": "force, work and power"
+            },
+            {
+              "label": "C",
+              "text": "Length, mass and time are fundamental mechanical quantities"
+            },
+            {
+              "label": "D",
+              "text": "speed, acceleration and density"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Length, mass and time are fundamental mechanical quantities",
+          "explanation": "Length, mass and time are base quantities in mechanics; the others are derived.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning fundamental quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure, energy and momentum"
+            },
+            {
+              "label": "B",
+              "text": "force, work and power"
+            },
+            {
+              "label": "C",
+              "text": "Length, mass and time are fundamental mechanical quantities"
+            },
+            {
+              "label": "D",
+              "text": "speed, acceleration and density"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Length, mass and time are fundamental mechanical quantities",
+          "explanation": "Length, mass and time are base quantities in mechanics; the others are derived.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "SI units",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ011",
+          "question": "Which statement best describes si units?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The SI base unit of length is the metre (m)"
+            },
+            {
+              "label": "B",
+              "text": "foot (ft)"
+            },
+            {
+              "label": "C",
+              "text": "kilometre (km)"
+            },
+            {
+              "label": "D",
+              "text": "centimetre (cm)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The SI base unit of length is the metre (m)",
+          "explanation": "The metre is the SI base unit for length.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ012",
+          "question": "Which option is correctly associated with si units?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kilometre (km)"
+            },
+            {
+              "label": "B",
+              "text": "The SI base unit of length is the metre (m)"
+            },
+            {
+              "label": "C",
+              "text": "centimetre (cm)"
+            },
+            {
+              "label": "D",
+              "text": "foot (ft)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The SI base unit of length is the metre (m)",
+          "explanation": "The metre is the SI base unit for length.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ013",
+          "question": "In a basic HSC Physics question about si units, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "foot (ft)"
+            },
+            {
+              "label": "B",
+              "text": "The SI base unit of length is the metre (m)"
+            },
+            {
+              "label": "C",
+              "text": "centimetre (cm)"
+            },
+            {
+              "label": "D",
+              "text": "kilometre (km)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The SI base unit of length is the metre (m)",
+          "explanation": "The metre is the SI base unit for length.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ014",
+          "question": "Which fact should be remembered about si units?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kilometre (km)"
+            },
+            {
+              "label": "B",
+              "text": "centimetre (cm)"
+            },
+            {
+              "label": "C",
+              "text": "The SI base unit of length is the metre (m)"
+            },
+            {
+              "label": "D",
+              "text": "foot (ft)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The SI base unit of length is the metre (m)",
+          "explanation": "The metre is the SI base unit for length.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning si units?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kilometre (km)"
+            },
+            {
+              "label": "B",
+              "text": "foot (ft)"
+            },
+            {
+              "label": "C",
+              "text": "The SI base unit of length is the metre (m)"
+            },
+            {
+              "label": "D",
+              "text": "centimetre (cm)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The SI base unit of length is the metre (m)",
+          "explanation": "The metre is the SI base unit for length.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Mass measurement",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ016",
+          "question": "Which statement best describes mass measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tonne (t)"
+            },
+            {
+              "label": "B",
+              "text": "The SI base unit of mass is the kilogram (kg)"
+            },
+            {
+              "label": "C",
+              "text": "gram (g)"
+            },
+            {
+              "label": "D",
+              "text": "pound (lb)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The SI base unit of mass is the kilogram (kg)",
+          "explanation": "The kilogram is the SI base unit of mass.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ017",
+          "question": "Which option is correctly associated with mass measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The SI base unit of mass is the kilogram (kg)"
+            },
+            {
+              "label": "B",
+              "text": "tonne (t)"
+            },
+            {
+              "label": "C",
+              "text": "gram (g)"
+            },
+            {
+              "label": "D",
+              "text": "pound (lb)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The SI base unit of mass is the kilogram (kg)",
+          "explanation": "The kilogram is the SI base unit of mass.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ018",
+          "question": "In a basic HSC Physics question about mass measurement, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tonne (t)"
+            },
+            {
+              "label": "B",
+              "text": "pound (lb)"
+            },
+            {
+              "label": "C",
+              "text": "The SI base unit of mass is the kilogram (kg)"
+            },
+            {
+              "label": "D",
+              "text": "gram (g)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The SI base unit of mass is the kilogram (kg)",
+          "explanation": "The kilogram is the SI base unit of mass.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ019",
+          "question": "Which fact should be remembered about mass measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tonne (t)"
+            },
+            {
+              "label": "B",
+              "text": "The SI base unit of mass is the kilogram (kg)"
+            },
+            {
+              "label": "C",
+              "text": "gram (g)"
+            },
+            {
+              "label": "D",
+              "text": "pound (lb)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The SI base unit of mass is the kilogram (kg)",
+          "explanation": "The kilogram is the SI base unit of mass.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning mass measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tonne (t)"
+            },
+            {
+              "label": "B",
+              "text": "gram (g)"
+            },
+            {
+              "label": "C",
+              "text": "pound (lb)"
+            },
+            {
+              "label": "D",
+              "text": "The SI base unit of mass is the kilogram (kg)"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The SI base unit of mass is the kilogram (kg)",
+          "explanation": "The kilogram is the SI base unit of mass.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Time measurement",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ021",
+          "question": "Which statement best describes time measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "minute (min)"
+            },
+            {
+              "label": "B",
+              "text": "The SI base unit of time is the second (s)"
+            },
+            {
+              "label": "C",
+              "text": "hour (h)"
+            },
+            {
+              "label": "D",
+              "text": "day (d)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The SI base unit of time is the second (s)",
+          "explanation": "The second is the SI base unit of time.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ022",
+          "question": "Which option is correctly associated with time measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The SI base unit of time is the second (s)"
+            },
+            {
+              "label": "B",
+              "text": "minute (min)"
+            },
+            {
+              "label": "C",
+              "text": "hour (h)"
+            },
+            {
+              "label": "D",
+              "text": "day (d)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The SI base unit of time is the second (s)",
+          "explanation": "The second is the SI base unit of time.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ023",
+          "question": "In a basic HSC Physics question about time measurement, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The SI base unit of time is the second (s)"
+            },
+            {
+              "label": "B",
+              "text": "day (d)"
+            },
+            {
+              "label": "C",
+              "text": "hour (h)"
+            },
+            {
+              "label": "D",
+              "text": "minute (min)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The SI base unit of time is the second (s)",
+          "explanation": "The second is the SI base unit of time.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ024",
+          "question": "Which fact should be remembered about time measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "day (d)"
+            },
+            {
+              "label": "B",
+              "text": "The SI base unit of time is the second (s)"
+            },
+            {
+              "label": "C",
+              "text": "hour (h)"
+            },
+            {
+              "label": "D",
+              "text": "minute (min)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The SI base unit of time is the second (s)",
+          "explanation": "The second is the SI base unit of time.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning time measurement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "minute (min)"
+            },
+            {
+              "label": "B",
+              "text": "hour (h)"
+            },
+            {
+              "label": "C",
+              "text": "The SI base unit of time is the second (s)"
+            },
+            {
+              "label": "D",
+              "text": "day (d)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The SI base unit of time is the second (s)",
+          "explanation": "The second is the SI base unit of time.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Derived quantities",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ026",
+          "question": "Which statement best describes derived quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)"
+            },
+            {
+              "label": "B",
+              "text": "kilogram (kg)"
+            },
+            {
+              "label": "C",
+              "text": "second (s)"
+            },
+            {
+              "label": "D",
+              "text": "metre (m)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)",
+          "explanation": "Velocity is displacement per unit time, so its SI unit is m s■¹.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ027",
+          "question": "Which option is correctly associated with derived quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)"
+            },
+            {
+              "label": "B",
+              "text": "second (s)"
+            },
+            {
+              "label": "C",
+              "text": "kilogram (kg)"
+            },
+            {
+              "label": "D",
+              "text": "metre (m)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)",
+          "explanation": "Velocity is displacement per unit time, so its SI unit is m s■¹.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ028",
+          "question": "In a basic HSC Physics question about derived quantities, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "metre (m)"
+            },
+            {
+              "label": "B",
+              "text": "second (s)"
+            },
+            {
+              "label": "C",
+              "text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)"
+            },
+            {
+              "label": "D",
+              "text": "kilogram (kg)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)",
+          "explanation": "Velocity is displacement per unit time, so its SI unit is m s■¹.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ029",
+          "question": "Which fact should be remembered about derived quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kilogram (kg)"
+            },
+            {
+              "label": "B",
+              "text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)"
+            },
+            {
+              "label": "C",
+              "text": "second (s)"
+            },
+            {
+              "label": "D",
+              "text": "metre (m)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)",
+          "explanation": "Velocity is displacement per unit time, so its SI unit is m s■¹.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning derived quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "metre (m)"
+            },
+            {
+              "label": "B",
+              "text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)"
+            },
+            {
+              "label": "C",
+              "text": "second (s)"
+            },
+            {
+              "label": "D",
+              "text": "kilogram (kg)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Velocity is a derived quantity with SI unit metre per second (m s■¹)",
+          "explanation": "Velocity is displacement per unit time, so its SI unit is m s■¹.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Dimensions",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ031",
+          "question": "Which statement best describes dimensions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "[M L² T■²]"
+            },
+            {
+              "label": "B",
+              "text": "[M L T■¹]"
+            },
+            {
+              "label": "C",
+              "text": "The dimensional formula of force is [M L T■²]"
+            },
+            {
+              "label": "D",
+              "text": "[M L■¹ T■²]"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The dimensional formula of force is [M L T■²]",
+          "explanation": "Force = mass × acceleration, giving [M][L T■²] = [M L T■²].",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ032",
+          "question": "Which option is correctly associated with dimensions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "[M L T■¹]"
+            },
+            {
+              "label": "B",
+              "text": "[M L² T■²]"
+            },
+            {
+              "label": "C",
+              "text": "[M L■¹ T■²]"
+            },
+            {
+              "label": "D",
+              "text": "The dimensional formula of force is [M L T■²]"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The dimensional formula of force is [M L T■²]",
+          "explanation": "Force = mass × acceleration, giving [M][L T■²] = [M L T■²].",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ033",
+          "question": "In a basic HSC Physics question about dimensions, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "[M L T■¹]"
+            },
+            {
+              "label": "B",
+              "text": "The dimensional formula of force is [M L T■²]"
+            },
+            {
+              "label": "C",
+              "text": "[M L■¹ T■²]"
+            },
+            {
+              "label": "D",
+              "text": "[M L² T■²]"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The dimensional formula of force is [M L T■²]",
+          "explanation": "Force = mass × acceleration, giving [M][L T■²] = [M L T■²].",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ034",
+          "question": "Which fact should be remembered about dimensions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "[M L² T■²]"
+            },
+            {
+              "label": "B",
+              "text": "The dimensional formula of force is [M L T■²]"
+            },
+            {
+              "label": "C",
+              "text": "[M L■¹ T■²]"
+            },
+            {
+              "label": "D",
+              "text": "[M L T■¹]"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The dimensional formula of force is [M L T■²]",
+          "explanation": "Force = mass × acceleration, giving [M][L T■²] = [M L T■²].",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning dimensions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "[M L■¹ T■²]"
+            },
+            {
+              "label": "B",
+              "text": "[M L² T■²]"
+            },
+            {
+              "label": "C",
+              "text": "[M L T■¹]"
+            },
+            {
+              "label": "D",
+              "text": "The dimensional formula of force is [M L T■²]"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The dimensional formula of force is [M L T■²]",
+          "explanation": "Force = mass × acceleration, giving [M][L T■²] = [M L T■²].",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Measurement errors",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ036",
+          "question": "Which statement best describes measurement errors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "an error that is always zero"
+            },
+            {
+              "label": "B",
+              "text": "A random error causes measured values to scatter unpredictably"
+            },
+            {
+              "label": "C",
+              "text": "a fixed shift in every reading"
+            },
+            {
+              "label": "D",
+              "text": "a change in the SI definition"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A random error causes measured values to scatter unpredictably",
+          "explanation": "Random errors vary irregularly between measurements and can be reduced by repeated readings.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ037",
+          "question": "Which option is correctly associated with measurement errors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a change in the SI definition"
+            },
+            {
+              "label": "B",
+              "text": "an error that is always zero"
+            },
+            {
+              "label": "C",
+              "text": "A random error causes measured values to scatter unpredictably"
+            },
+            {
+              "label": "D",
+              "text": "a fixed shift in every reading"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A random error causes measured values to scatter unpredictably",
+          "explanation": "Random errors vary irregularly between measurements and can be reduced by repeated readings.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ038",
+          "question": "In a basic HSC Physics question about measurement errors, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "an error that is always zero"
+            },
+            {
+              "label": "B",
+              "text": "a change in the SI definition"
+            },
+            {
+              "label": "C",
+              "text": "a fixed shift in every reading"
+            },
+            {
+              "label": "D",
+              "text": "A random error causes measured values to scatter unpredictably"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A random error causes measured values to scatter unpredictably",
+          "explanation": "Random errors vary irregularly between measurements and can be reduced by repeated readings.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ039",
+          "question": "Which fact should be remembered about measurement errors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a change in the SI definition"
+            },
+            {
+              "label": "B",
+              "text": "an error that is always zero"
+            },
+            {
+              "label": "C",
+              "text": "A random error causes measured values to scatter unpredictably"
+            },
+            {
+              "label": "D",
+              "text": "a fixed shift in every reading"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A random error causes measured values to scatter unpredictably",
+          "explanation": "Random errors vary irregularly between measurements and can be reduced by repeated readings.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning measurement errors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "an error that is always zero"
+            },
+            {
+              "label": "B",
+              "text": "a change in the SI definition"
+            },
+            {
+              "label": "C",
+              "text": "a fixed shift in every reading"
+            },
+            {
+              "label": "D",
+              "text": "A random error causes measured values to scatter unpredictably"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A random error causes measured values to scatter unpredictably",
+          "explanation": "Random errors vary irregularly between measurements and can be reduced by repeated readings.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Significant figures",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ041",
+          "question": "Which statement best describes significant figures?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a measured value, significant figures indicate its meaningful precision"
+            },
+            {
+              "label": "B",
+              "text": "the object's exact true value"
+            },
+            {
+              "label": "C",
+              "text": "the number of units used"
+            },
+            {
+              "label": "D",
+              "text": "the number of instruments available"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In a measured value, significant figures indicate its meaningful precision",
+          "explanation": "Significant figures communicate the precision supported by the measurement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ042",
+          "question": "Which option is correctly associated with significant figures?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a measured value, significant figures indicate its meaningful precision"
+            },
+            {
+              "label": "B",
+              "text": "the number of units used"
+            },
+            {
+              "label": "C",
+              "text": "the number of instruments available"
+            },
+            {
+              "label": "D",
+              "text": "the object's exact true value"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In a measured value, significant figures indicate its meaningful precision",
+          "explanation": "Significant figures communicate the precision supported by the measurement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ043",
+          "question": "In a basic HSC Physics question about significant figures, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the object's exact true value"
+            },
+            {
+              "label": "B",
+              "text": "the number of instruments available"
+            },
+            {
+              "label": "C",
+              "text": "the number of units used"
+            },
+            {
+              "label": "D",
+              "text": "In a measured value, significant figures indicate its meaningful precision"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In a measured value, significant figures indicate its meaningful precision",
+          "explanation": "Significant figures communicate the precision supported by the measurement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ044",
+          "question": "Which fact should be remembered about significant figures?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In a measured value, significant figures indicate its meaningful precision"
+            },
+            {
+              "label": "B",
+              "text": "the object's exact true value"
+            },
+            {
+              "label": "C",
+              "text": "the number of instruments available"
+            },
+            {
+              "label": "D",
+              "text": "the number of units used"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In a measured value, significant figures indicate its meaningful precision",
+          "explanation": "Significant figures communicate the precision supported by the measurement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning significant figures?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the number of units used"
+            },
+            {
+              "label": "B",
+              "text": "In a measured value, significant figures indicate its meaningful precision"
+            },
+            {
+              "label": "C",
+              "text": "the number of instruments available"
+            },
+            {
+              "label": "D",
+              "text": "the object's exact true value"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In a measured value, significant figures indicate its meaningful precision",
+          "explanation": "Significant figures communicate the precision supported by the measurement.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Accuracy and precision",
+      "questions": [
+        {
+          "id": "PHY_1P_CH01_MCQ046",
+          "question": "Which statement best describes accuracy and precision?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Accuracy describes closeness to the true value"
+            },
+            {
+              "label": "B",
+              "text": "the number of decimal places only"
+            },
+            {
+              "label": "C",
+              "text": "closeness of repeated readings to one another"
+            },
+            {
+              "label": "D",
+              "text": "the size of the instrument"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Accuracy describes closeness to the true value",
+          "explanation": "Accuracy is closeness to the accepted value; precision is repeatability.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ047",
+          "question": "Which option is correctly associated with accuracy and precision?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Accuracy describes closeness to the true value"
+            },
+            {
+              "label": "B",
+              "text": "the size of the instrument"
+            },
+            {
+              "label": "C",
+              "text": "closeness of repeated readings to one another"
+            },
+            {
+              "label": "D",
+              "text": "the number of decimal places only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Accuracy describes closeness to the true value",
+          "explanation": "Accuracy is closeness to the accepted value; precision is repeatability.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ048",
+          "question": "In a basic HSC Physics question about accuracy and precision, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the number of decimal places only"
+            },
+            {
+              "label": "B",
+              "text": "the size of the instrument"
+            },
+            {
+              "label": "C",
+              "text": "closeness of repeated readings to one another"
+            },
+            {
+              "label": "D",
+              "text": "Accuracy describes closeness to the true value"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Accuracy describes closeness to the true value",
+          "explanation": "Accuracy is closeness to the accepted value; precision is repeatability.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ049",
+          "question": "Which fact should be remembered about accuracy and precision?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the number of decimal places only"
+            },
+            {
+              "label": "B",
+              "text": "the size of the instrument"
+            },
+            {
+              "label": "C",
+              "text": "closeness of repeated readings to one another"
+            },
+            {
+              "label": "D",
+              "text": "Accuracy describes closeness to the true value"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Accuracy describes closeness to the true value",
+          "explanation": "Accuracy is closeness to the accepted value; precision is repeatability.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH01_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning accuracy and precision?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Accuracy describes closeness to the true value"
+            },
+            {
+              "label": "B",
+              "text": "the size of the instrument"
+            },
+            {
+              "label": "C",
+              "text": "the number of decimal places only"
+            },
+            {
+              "label": "D",
+              "text": "closeness of repeated readings to one another"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Accuracy describes closeness to the true value",
+          "explanation": "Accuracy is closeness to the accepted value; precision is repeatability.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

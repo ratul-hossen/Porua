@@ -1,0 +1,94 @@
+{
+  "class": "HSC",
+  "stream": "Compulsory (All Groups)",
+  "subject": "English",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 10,
+  "total_questions": 500,
+  "papers": [
+    {
+      "paper": "1st Paper",
+      "folder": "1st_Paper",
+      "chapter_count": 5,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "People or Personalities Making History",
+          "file": "1st_Paper/chapter_01.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Education and Life",
+          "file": "1st_Paper/chapter_02.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Dreams, Myths and Literature",
+          "file": "1st_Paper/chapter_03.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Human Rights, Peace and Conflict",
+          "file": "1st_Paper/chapter_04.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Art, Craft, Music and Nature",
+          "file": "1st_Paper/chapter_05.json",
+          "question_count": 50
+        }
+      ]
+    },
+    {
+      "paper": "2nd Paper",
+      "folder": "2nd_Paper",
+      "chapter_count": 5,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Articles, Determiners and Prepositions",
+          "file": "2nd_Paper/chapter_01.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Right Form of Verbs and Subject-Verb Agreement",
+          "file": "2nd_Paper/chapter_02.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Special Phrases, Idioms and Completing Sentences",
+          "file": "2nd_Paper/chapter_03.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Transformation of Sentences",
+          "file": "2nd_Paper/chapter_04.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Narration, Modifiers, Connectors, Synonyms and Antonyms",
+          "file": "2nd_Paper/chapter_05.json",
+          "question_count": 50
+        }
+      ]
+    }
+  ],
+  "question_schema": {
+    "id": "Unique question identifier (e.g., ENG101-MCQ-001)",
+    "question": "Question text in English",
+    "options": "Four options labelled A-D",
+    "correct_answer": "Correct option label (A, B, C, or D)",
+    "correct_answer_text": "Text of the correct option",
+    "explanation": "Clear explanation of why the answer is correct",
+    "difficulty": "Easy, Medium, or Hard"
+  }
+}

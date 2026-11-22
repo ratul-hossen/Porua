@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 2,
+  "chapter_title": "Vector",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Basics and quantities",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ001",
+          "question": "Which statement best describes basics and quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Displacement is a vector quantity"
+            },
+            {
+              "label": "B",
+              "text": "temperature"
+            },
+            {
+              "label": "C",
+              "text": "distance"
+            },
+            {
+              "label": "D",
+              "text": "mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Displacement is a vector quantity",
+          "explanation": "Displacement has both magnitude and direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ002",
+          "question": "Which option is correctly associated with basics and quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Displacement is a vector quantity"
+            },
+            {
+              "label": "B",
+              "text": "distance"
+            },
+            {
+              "label": "C",
+              "text": "temperature"
+            },
+            {
+              "label": "D",
+              "text": "mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Displacement is a vector quantity",
+          "explanation": "Displacement has both magnitude and direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ003",
+          "question": "In a basic HSC Physics question about basics and quantities, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance"
+            },
+            {
+              "label": "B",
+              "text": "mass"
+            },
+            {
+              "label": "C",
+              "text": "temperature"
+            },
+            {
+              "label": "D",
+              "text": "Displacement is a vector quantity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Displacement is a vector quantity",
+          "explanation": "Displacement has both magnitude and direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ004",
+          "question": "Which fact should be remembered about basics and quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass"
+            },
+            {
+              "label": "B",
+              "text": "distance"
+            },
+            {
+              "label": "C",
+              "text": "temperature"
+            },
+            {
+              "label": "D",
+              "text": "Displacement is a vector quantity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Displacement is a vector quantity",
+          "explanation": "Displacement has both magnitude and direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning basics and quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "temperature"
+            },
+            {
+              "label": "B",
+              "text": "distance"
+            },
+            {
+              "label": "C",
+              "text": "mass"
+            },
+            {
+              "label": "D",
+              "text": "Displacement is a vector quantity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Displacement is a vector quantity",
+          "explanation": "Displacement has both magnitude and direction.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Explanation: Displacement has both magnitude and direction.",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ006",
+          "question": "Which statement best describes basics and quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "magnitude and direction"
+            },
+            {
+              "label": "B",
+              "text": "neither magnitude nor unit"
+            },
+            {
+              "label": "C",
+              "text": "direction but no magnitude"
+            },
+            {
+              "label": "D",
+              "text": "A scalar quantity has magnitude but no direction"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A scalar quantity has magnitude but no direction",
+          "explanation": "Scalars are described by magnitude alone.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ007",
+          "question": "Which option is correctly associated with basics and quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "direction but no magnitude"
+            },
+            {
+              "label": "B",
+              "text": "neither magnitude nor unit"
+            },
+            {
+              "label": "C",
+              "text": "A scalar quantity has magnitude but no direction"
+            },
+            {
+              "label": "D",
+              "text": "magnitude and direction"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A scalar quantity has magnitude but no direction",
+          "explanation": "Scalars are described by magnitude alone.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ008",
+          "question": "In a basic HSC Physics question about basics and quantities, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A scalar quantity has magnitude but no direction"
+            },
+            {
+              "label": "B",
+              "text": "magnitude and direction"
+            },
+            {
+              "label": "C",
+              "text": "direction but no magnitude"
+            },
+            {
+              "label": "D",
+              "text": "neither magnitude nor unit"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A scalar quantity has magnitude but no direction",
+          "explanation": "Scalars are described by magnitude alone.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ009",
+          "question": "Which fact should be remembered about basics and quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neither magnitude nor unit"
+            },
+            {
+              "label": "B",
+              "text": "magnitude and direction"
+            },
+            {
+              "label": "C",
+              "text": "A scalar quantity has magnitude but no direction"
+            },
+            {
+              "label": "D",
+              "text": "direction but no magnitude"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A scalar quantity has magnitude but no direction",
+          "explanation": "Scalars are described by magnitude alone.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning basics and quantities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "magnitude and direction"
+            },
+            {
+              "label": "B",
+              "text": "neither magnitude nor unit"
+            },
+            {
+              "label": "C",
+              "text": "A scalar quantity has magnitude but no direction"
+            },
+            {
+              "label": "D",
+              "text": "direction but no magnitude"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A scalar quantity has magnitude but no direction",
+          "explanation": "Scalars are described by magnitude alone.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vector representation",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ011",
+          "question": "Which statement best describes vector representation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a number without a unit in every case"
+            },
+            {
+              "label": "B",
+              "text": "an undirected point"
+            },
+            {
+              "label": "C",
+              "text": "a closed curve only"
+            },
+            {
+              "label": "D",
+              "text": "A vector is commonly represented by a directed line segment"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A vector is commonly represented by a directed line segment",
+          "explanation": "The length represents magnitude and the arrowhead represents direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ012",
+          "question": "Which option is correctly associated with vector representation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A vector is commonly represented by a directed line segment"
+            },
+            {
+              "label": "B",
+              "text": "a number without a unit in every case"
+            },
+            {
+              "label": "C",
+              "text": "a closed curve only"
+            },
+            {
+              "label": "D",
+              "text": "an undirected point"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A vector is commonly represented by a directed line segment",
+          "explanation": "The length represents magnitude and the arrowhead represents direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ013",
+          "question": "In a basic HSC Physics question about vector representation, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a number without a unit in every case"
+            },
+            {
+              "label": "B",
+              "text": "a closed curve only"
+            },
+            {
+              "label": "C",
+              "text": "A vector is commonly represented by a directed line segment"
+            },
+            {
+              "label": "D",
+              "text": "an undirected point"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A vector is commonly represented by a directed line segment",
+          "explanation": "The length represents magnitude and the arrowhead represents direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ014",
+          "question": "Which fact should be remembered about vector representation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a number without a unit in every case"
+            },
+            {
+              "label": "B",
+              "text": "a closed curve only"
+            },
+            {
+              "label": "C",
+              "text": "an undirected point"
+            },
+            {
+              "label": "D",
+              "text": "A vector is commonly represented by a directed line segment"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A vector is commonly represented by a directed line segment",
+          "explanation": "The length represents magnitude and the arrowhead represents direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning vector representation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "an undirected point"
+            },
+            {
+              "label": "B",
+              "text": "a closed curve only"
+            },
+            {
+              "label": "C",
+              "text": "A vector is commonly represented by a directed line segment"
+            },
+            {
+              "label": "D",
+              "text": "a number without a unit in every case"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A vector is commonly represented by a directed line segment",
+          "explanation": "The length represents magnitude and the arrowhead represents direction.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vector addition",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ016",
+          "question": "Which statement best describes vector addition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a vector perpendicular to both"
+            },
+            {
+              "label": "B",
+              "text": "their difference in every case"
+            },
+            {
+              "label": "C",
+              "text": "the sum of their magnitudes in every case"
+            },
+            {
+              "label": "D",
+              "text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin",
+          "explanation": "The diagonal through the common tail represents the vector sum.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ017",
+          "question": "Which option is correctly associated with vector addition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the sum of their magnitudes in every case"
+            },
+            {
+              "label": "B",
+              "text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin"
+            },
+            {
+              "label": "C",
+              "text": "a vector perpendicular to both"
+            },
+            {
+              "label": "D",
+              "text": "their difference in every case"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin",
+          "explanation": "The diagonal through the common tail represents the vector sum.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ018",
+          "question": "In a basic HSC Physics question about vector addition, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "their difference in every case"
+            },
+            {
+              "label": "B",
+              "text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin"
+            },
+            {
+              "label": "C",
+              "text": "a vector perpendicular to both"
+            },
+            {
+              "label": "D",
+              "text": "the sum of their magnitudes in every case"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin",
+          "explanation": "The diagonal through the common tail represents the vector sum.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ019",
+          "question": "Which fact should be remembered about vector addition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the sum of their magnitudes in every case"
+            },
+            {
+              "label": "B",
+              "text": "a vector perpendicular to both"
+            },
+            {
+              "label": "C",
+              "text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin"
+            },
+            {
+              "label": "D",
+              "text": "their difference in every case"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin",
+          "explanation": "The diagonal through the common tail represents the vector sum.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning vector addition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin"
+            },
+            {
+              "label": "B",
+              "text": "their difference in every case"
+            },
+            {
+              "label": "C",
+              "text": "the sum of their magnitudes in every case"
+            },
+            {
+              "label": "D",
+              "text": "a vector perpendicular to both"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The parallelogram law gives the diagonal as the resultant of two vectors from a common origin",
+          "explanation": "The diagonal through the common tail represents the vector sum.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vector components",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ021",
+          "question": "Which statement best describes vector components?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ"
+            },
+            {
+              "label": "B",
+              "text": "A tan θ"
+            },
+            {
+              "label": "C",
+              "text": "A/cos θ"
+            },
+            {
+              "label": "D",
+              "text": "A sin θ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ",
+          "explanation": "The adjacent component is A cos θ; the perpendicular component is A sin θ.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ022",
+          "question": "Which option is correctly associated with vector components?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ"
+            },
+            {
+              "label": "B",
+              "text": "A tan θ"
+            },
+            {
+              "label": "C",
+              "text": "A/cos θ"
+            },
+            {
+              "label": "D",
+              "text": "A sin θ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ",
+          "explanation": "The adjacent component is A cos θ; the perpendicular component is A sin θ.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ023",
+          "question": "In a basic HSC Physics question about vector components, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A/cos θ"
+            },
+            {
+              "label": "B",
+              "text": "A sin θ"
+            },
+            {
+              "label": "C",
+              "text": "A tan θ"
+            },
+            {
+              "label": "D",
+              "text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ",
+          "explanation": "The adjacent component is A cos θ; the perpendicular component is A sin θ.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ024",
+          "question": "Which fact should be remembered about vector components?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A tan θ"
+            },
+            {
+              "label": "B",
+              "text": "A sin θ"
+            },
+            {
+              "label": "C",
+              "text": "A/cos θ"
+            },
+            {
+              "label": "D",
+              "text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ",
+          "explanation": "The adjacent component is A cos θ; the perpendicular component is A sin θ.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning vector components?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A sin θ"
+            },
+            {
+              "label": "B",
+              "text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ"
+            },
+            {
+              "label": "C",
+              "text": "A/cos θ"
+            },
+            {
+              "label": "D",
+              "text": "A tan θ"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a vector A at angle θ to the positive x-axis, its x-component is A cos θ",
+          "explanation": "The adjacent component is A cos θ; the perpendicular component is A sin θ.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Relative velocity",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ026",
+          "question": "Which statement best describes relative velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vA + vB in all cases"
+            },
+            {
+              "label": "B",
+              "text": "vA × vB"
+            },
+            {
+              "label": "C",
+              "text": "vB − vA in all cases"
+            },
+            {
+              "label": "D",
+              "text": "Relative velocity of A with respect to B is vA − vB"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Relative velocity of A with respect to B is vA − vB",
+          "explanation": "Relative velocity is found by subtracting the observer's velocity from the object's velocity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ027",
+          "question": "Which option is correctly associated with relative velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vB − vA in all cases"
+            },
+            {
+              "label": "B",
+              "text": "vA × vB"
+            },
+            {
+              "label": "C",
+              "text": "Relative velocity of A with respect to B is vA − vB"
+            },
+            {
+              "label": "D",
+              "text": "vA + vB in all cases"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Relative velocity of A with respect to B is vA − vB",
+          "explanation": "Relative velocity is found by subtracting the observer's velocity from the object's velocity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ028",
+          "question": "In a basic HSC Physics question about relative velocity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vB − vA in all cases"
+            },
+            {
+              "label": "B",
+              "text": "Relative velocity of A with respect to B is vA − vB"
+            },
+            {
+              "label": "C",
+              "text": "vA × vB"
+            },
+            {
+              "label": "D",
+              "text": "vA + vB in all cases"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Relative velocity of A with respect to B is vA − vB",
+          "explanation": "Relative velocity is found by subtracting the observer's velocity from the object's velocity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ029",
+          "question": "Which fact should be remembered about relative velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vA + vB in all cases"
+            },
+            {
+              "label": "B",
+              "text": "vA × vB"
+            },
+            {
+              "label": "C",
+              "text": "vB − vA in all cases"
+            },
+            {
+              "label": "D",
+              "text": "Relative velocity of A with respect to B is vA − vB"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Relative velocity of A with respect to B is vA − vB",
+          "explanation": "Relative velocity is found by subtracting the observer's velocity from the object's velocity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning relative velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vA × vB"
+            },
+            {
+              "label": "B",
+              "text": "vA + vB in all cases"
+            },
+            {
+              "label": "C",
+              "text": "Relative velocity of A with respect to B is vA − vB"
+            },
+            {
+              "label": "D",
+              "text": "vB − vA in all cases"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Relative velocity of A with respect to B is vA − vB",
+          "explanation": "Relative velocity is found by subtracting the observer's velocity from the object's velocity.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Dot product",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ031",
+          "question": "Which statement best describes dot product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A + B"
+            },
+            {
+              "label": "B",
+              "text": "AB sin θ"
+            },
+            {
+              "label": "C",
+              "text": "A × B as a vector"
+            },
+            {
+              "label": "D",
+              "text": "The scalar product of A and B is AB cos θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The scalar product of A and B is AB cos θ",
+          "explanation": "The dot product is a scalar and depends on the cosine of the angle between vectors.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ032",
+          "question": "Which option is correctly associated with dot product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The scalar product of A and B is AB cos θ"
+            },
+            {
+              "label": "B",
+              "text": "A × B as a vector"
+            },
+            {
+              "label": "C",
+              "text": "A + B"
+            },
+            {
+              "label": "D",
+              "text": "AB sin θ"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The scalar product of A and B is AB cos θ",
+          "explanation": "The dot product is a scalar and depends on the cosine of the angle between vectors.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ033",
+          "question": "In a basic HSC Physics question about dot product, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AB sin θ"
+            },
+            {
+              "label": "B",
+              "text": "A × B as a vector"
+            },
+            {
+              "label": "C",
+              "text": "The scalar product of A and B is AB cos θ"
+            },
+            {
+              "label": "D",
+              "text": "A + B"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The scalar product of A and B is AB cos θ",
+          "explanation": "The dot product is a scalar and depends on the cosine of the angle between vectors.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ034",
+          "question": "Which fact should be remembered about dot product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A + B"
+            },
+            {
+              "label": "B",
+              "text": "AB sin θ"
+            },
+            {
+              "label": "C",
+              "text": "The scalar product of A and B is AB cos θ"
+            },
+            {
+              "label": "D",
+              "text": "A × B as a vector"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The scalar product of A and B is AB cos θ",
+          "explanation": "The dot product is a scalar and depends on the cosine of the angle between vectors.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning dot product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The scalar product of A and B is AB cos θ"
+            },
+            {
+              "label": "B",
+              "text": "A × B as a vector"
+            },
+            {
+              "label": "C",
+              "text": "AB sin θ"
+            },
+            {
+              "label": "D",
+              "text": "A + B"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The scalar product of A and B is AB cos θ",
+          "explanation": "The dot product is a scalar and depends on the cosine of the angle between vectors.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cross product",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ036",
+          "question": "Which statement best describes cross product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AB cos θ"
+            },
+            {
+              "label": "B",
+              "text": "A + B"
+            },
+            {
+              "label": "C",
+              "text": "The magnitude of the cross product is AB sin θ"
+            },
+            {
+              "label": "D",
+              "text": "A/B"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The magnitude of the cross product is AB sin θ",
+          "explanation": "The cross product magnitude is the area of the parallelogram formed by the vectors.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ037",
+          "question": "Which option is correctly associated with cross product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AB cos θ"
+            },
+            {
+              "label": "B",
+              "text": "A/B"
+            },
+            {
+              "label": "C",
+              "text": "A + B"
+            },
+            {
+              "label": "D",
+              "text": "The magnitude of the cross product is AB sin θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The magnitude of the cross product is AB sin θ",
+          "explanation": "The cross product magnitude is the area of the parallelogram formed by the vectors.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ038",
+          "question": "In a basic HSC Physics question about cross product, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AB cos θ"
+            },
+            {
+              "label": "B",
+              "text": "A/B"
+            },
+            {
+              "label": "C",
+              "text": "The magnitude of the cross product is AB sin θ"
+            },
+            {
+              "label": "D",
+              "text": "A + B"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The magnitude of the cross product is AB sin θ",
+          "explanation": "The cross product magnitude is the area of the parallelogram formed by the vectors.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ039",
+          "question": "Which fact should be remembered about cross product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A + B"
+            },
+            {
+              "label": "B",
+              "text": "The magnitude of the cross product is AB sin θ"
+            },
+            {
+              "label": "C",
+              "text": "AB cos θ"
+            },
+            {
+              "label": "D",
+              "text": "A/B"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The magnitude of the cross product is AB sin θ",
+          "explanation": "The cross product magnitude is the area of the parallelogram formed by the vectors.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning cross product?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AB cos θ"
+            },
+            {
+              "label": "B",
+              "text": "The magnitude of the cross product is AB sin θ"
+            },
+            {
+              "label": "C",
+              "text": "A + B"
+            },
+            {
+              "label": "D",
+              "text": "A/B"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The magnitude of the cross product is AB sin θ",
+          "explanation": "The cross product magnitude is the area of the parallelogram formed by the vectors.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vector calculus",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ041",
+          "question": "Which statement best describes vector calculus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always zero"
+            },
+            {
+              "label": "B",
+              "text": "a matrix of units only"
+            },
+            {
+              "label": "C",
+              "text": "a scalar field"
+            },
+            {
+              "label": "D",
+              "text": "The gradient of a scalar field is a vector field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The gradient of a scalar field is a vector field",
+          "explanation": "The gradient points in the direction of the greatest rate of increase of a scalar field.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ042",
+          "question": "Which option is correctly associated with vector calculus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a matrix of units only"
+            },
+            {
+              "label": "B",
+              "text": "a scalar field"
+            },
+            {
+              "label": "C",
+              "text": "always zero"
+            },
+            {
+              "label": "D",
+              "text": "The gradient of a scalar field is a vector field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The gradient of a scalar field is a vector field",
+          "explanation": "The gradient points in the direction of the greatest rate of increase of a scalar field.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ043",
+          "question": "In a basic HSC Physics question about vector calculus, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always zero"
+            },
+            {
+              "label": "B",
+              "text": "a scalar field"
+            },
+            {
+              "label": "C",
+              "text": "a matrix of units only"
+            },
+            {
+              "label": "D",
+              "text": "The gradient of a scalar field is a vector field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The gradient of a scalar field is a vector field",
+          "explanation": "The gradient points in the direction of the greatest rate of increase of a scalar field.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ044",
+          "question": "Which fact should be remembered about vector calculus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a scalar field"
+            },
+            {
+              "label": "B",
+              "text": "a matrix of units only"
+            },
+            {
+              "label": "C",
+              "text": "always zero"
+            },
+            {
+              "label": "D",
+              "text": "The gradient of a scalar field is a vector field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The gradient of a scalar field is a vector field",
+          "explanation": "The gradient points in the direction of the greatest rate of increase of a scalar field.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning vector calculus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always zero"
+            },
+            {
+              "label": "B",
+              "text": "a scalar field"
+            },
+            {
+              "label": "C",
+              "text": "a matrix of units only"
+            },
+            {
+              "label": "D",
+              "text": "The gradient of a scalar field is a vector field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The gradient of a scalar field is a vector field",
+          "explanation": "The gradient points in the direction of the greatest rate of increase of a scalar field.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Applications",
+      "questions": [
+        {
+          "id": "PHY_1P_CH02_MCQ046",
+          "question": "Which statement best describes applications?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the scalar difference of the speeds only"
+            },
+            {
+              "label": "B",
+              "text": "always the boat's speed alone"
+            },
+            {
+              "label": "C",
+              "text": "the product of the two velocities"
+            },
+            {
+              "label": "D",
+              "text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and water velocity relative to"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and",
+          "explanation": "Velocity addition is vectorial, so both magnitude and direction of the current matter.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ047",
+          "question": "Which option is correctly associated with applications?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the product of the two velocities"
+            },
+            {
+              "label": "B",
+              "text": "always the boat's speed alone"
+            },
+            {
+              "label": "C",
+              "text": "the scalar difference of the speeds only"
+            },
+            {
+              "label": "D",
+              "text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and water velocity relative to"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and",
+          "explanation": "Velocity addition is vectorial, so both magnitude and direction of the current matter.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ048",
+          "question": "In a basic HSC Physics question about applications, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the scalar difference of the speeds only"
+            },
+            {
+              "label": "B",
+              "text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and water velocity relative to"
+            },
+            {
+              "label": "C",
+              "text": "the product of the two velocities"
+            },
+            {
+              "label": "D",
+              "text": "always the boat's speed alone"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and",
+          "explanation": "Velocity addition is vectorial, so both magnitude and direction of the current matter.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ049",
+          "question": "Which fact should be remembered about applications?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the scalar difference of the speeds only"
+            },
+            {
+              "label": "B",
+              "text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and water velocity relative to"
+            },
+            {
+              "label": "C",
+              "text": "the product of the two velocities"
+            },
+            {
+              "label": "D",
+              "text": "always the boat's speed alone"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and",
+          "explanation": "Velocity addition is vectorial, so both magnitude and direction of the current matter.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH02_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning applications?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always the boat's speed alone"
+            },
+            {
+              "label": "B",
+              "text": "the product of the two velocities"
+            },
+            {
+              "label": "C",
+              "text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and water velocity relative to"
+            },
+            {
+              "label": "D",
+              "text": "the scalar difference of the speeds only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For a boat crossing a river, the ground velocity is the vector sum of boat velocity relative to water and",
+          "explanation": "Velocity addition is vectorial, so both magnitude and direction of the current matter.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

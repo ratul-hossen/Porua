@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 8,
+  "chapter_title": "Tissue and Tissue System",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH08_T01",
+      "topic_name": "Apical Meristem",
+      "mcqs": [
+        {
+          "id": "BIO1_CH08_Q01",
+          "question": "Which term is correctly described as: plant growth region responsible mainly for increase in length?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parenchyma"
+            },
+            {
+              "label": "B",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "C",
+              "text": "apical meristem"
+            },
+            {
+              "label": "D",
+              "text": "collenchyma"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "apical meristem",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q02",
+          "question": "The biological role or defining feature of apical meristem is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "B",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "C",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "D",
+              "text": "plant growth region responsible mainly for increase in length"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plant growth region responsible mainly for increase in length",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q03",
+          "question": "A student records the following clue: “plant growth region responsible mainly for increase in length.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "apical meristem"
+            },
+            {
+              "label": "B",
+              "text": "xylem"
+            },
+            {
+              "label": "C",
+              "text": "parenchyma"
+            },
+            {
+              "label": "D",
+              "text": "lateral meristem"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "apical meristem",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q04",
+          "question": "Which option completes this statement correctly? apical meristem is the term for plant growth region responsible mainly for increase in length.",
+          "options": [
+            {
+              "label": "A",
+              "text": "apical meristem"
+            },
+            {
+              "label": "B",
+              "text": "parenchyma"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "xylem"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "apical meristem",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q05",
+          "question": "If an examination asks for the term associated with “plant growth region responsible mainly for increase in length”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "apical meristem"
+            },
+            {
+              "label": "B",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "C",
+              "text": "parenchyma"
+            },
+            {
+              "label": "D",
+              "text": "collenchyma"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "apical meristem",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q06",
+          "question": "Which structure, process or concept matches the description “plant growth region responsible mainly for increase in length”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "B",
+              "text": "apical meristem"
+            },
+            {
+              "label": "C",
+              "text": "collenchyma"
+            },
+            {
+              "label": "D",
+              "text": "xylem"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "apical meristem",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q07",
+          "question": "Choose the accurate statement about apical meristem.",
+          "options": [
+            {
+              "label": "A",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "B",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "C",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "D",
+              "text": "vascular tissue transporting water and mineral ions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "plant growth region responsible mainly for increase in length",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q08",
+          "question": "A diagram or observation identifies apical meristem. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "B",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "C",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "D",
+              "text": "plant growth region responsible mainly for increase in length"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plant growth region responsible mainly for increase in length",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q09",
+          "question": "Which pairing is correct for apical meristem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "B",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "C",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "D",
+              "text": "living tissue providing flexible support"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "plant growth region responsible mainly for increase in length",
+          "explanation": "It occurs near root and shoot tips."
+        },
+        {
+          "id": "BIO1_CH08_Q10",
+          "question": "In a topic review, which answer best explains the clue “plant growth region responsible mainly for increase in length”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "parenchyma"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "apical meristem"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "apical meristem",
+          "explanation": "It occurs near root and shoot tips."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH08_T02",
+      "topic_name": "Lateral Meristem",
+      "mcqs": [
+        {
+          "id": "BIO1_CH08_Q11",
+          "question": "Which term is correctly described as: plant growth tissue contributing to increase in girth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "xylem"
+            },
+            {
+              "label": "B",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "C",
+              "text": "collenchyma"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "lateral meristem",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q12",
+          "question": "The biological role or defining feature of lateral meristem is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "B",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "C",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "D",
+              "text": "plant growth tissue contributing to increase in girth"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plant growth tissue contributing to increase in girth",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q13",
+          "question": "A student records the following clue: “plant growth tissue contributing to increase in girth.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "apical meristem"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "lateral meristem",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q14",
+          "question": "Which option completes this statement correctly? lateral meristem is the term for plant growth tissue contributing to increase in girth.",
+          "options": [
+            {
+              "label": "A",
+              "text": "apical meristem"
+            },
+            {
+              "label": "B",
+              "text": "collenchyma"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "lateral meristem",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q15",
+          "question": "If an examination asks for the term associated with “plant growth tissue contributing to increase in girth”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parenchyma"
+            },
+            {
+              "label": "B",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "C",
+              "text": "apical meristem"
+            },
+            {
+              "label": "D",
+              "text": "xylem"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "lateral meristem",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q16",
+          "question": "Which structure, process or concept matches the description “plant growth tissue contributing to increase in girth”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "xylem"
+            },
+            {
+              "label": "B",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "C",
+              "text": "apical meristem"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "lateral meristem",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q17",
+          "question": "Choose the accurate statement about lateral meristem.",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "B",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "C",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "D",
+              "text": "plant growth tissue contributing to increase in girth"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plant growth tissue contributing to increase in girth",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q18",
+          "question": "A diagram or observation identifies lateral meristem. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "B",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "C",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "D",
+              "text": "vascular tissue transporting water and mineral ions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "plant growth tissue contributing to increase in girth",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q19",
+          "question": "Which pairing is correct for lateral meristem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "B",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "C",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "D",
+              "text": "plant growth region responsible mainly for increase in length"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "plant growth tissue contributing to increase in girth",
+          "explanation": "Its activity supports secondary growth."
+        },
+        {
+          "id": "BIO1_CH08_Q20",
+          "question": "In a topic review, which answer best explains the clue “plant growth tissue contributing to increase in girth”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "xylem"
+            },
+            {
+              "label": "C",
+              "text": "parenchyma"
+            },
+            {
+              "label": "D",
+              "text": "lateral meristem"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "lateral meristem",
+          "explanation": "Its activity supports secondary growth."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH08_T03",
+      "topic_name": "Parenchyma",
+      "mcqs": [
+        {
+          "id": "BIO1_CH08_Q21",
+          "question": "Which term is correctly described as: living plant tissue often involved in storage and photosynthesis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "B",
+              "text": "apical meristem"
+            },
+            {
+              "label": "C",
+              "text": "xylem"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "parenchyma",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q22",
+          "question": "The biological role or defining feature of parenchyma is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "B",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "C",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "D",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "living plant tissue often involved in storage and photosynthesis",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q23",
+          "question": "A student records the following clue: “living plant tissue often involved in storage and photosynthesis.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "xylem"
+            },
+            {
+              "label": "B",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "C",
+              "text": "collenchyma"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "parenchyma",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q24",
+          "question": "Which option completes this statement correctly? parenchyma is the term for living plant tissue often involved in storage and photosynthesis.",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "apical meristem"
+            },
+            {
+              "label": "C",
+              "text": "parenchyma"
+            },
+            {
+              "label": "D",
+              "text": "xylem"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "parenchyma",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q25",
+          "question": "If an examination asks for the term associated with “living plant tissue often involved in storage and photosynthesis”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "xylem"
+            },
+            {
+              "label": "B",
+              "text": "collenchyma"
+            },
+            {
+              "label": "C",
+              "text": "apical meristem"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "parenchyma",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q26",
+          "question": "Which structure, process or concept matches the description “living plant tissue often involved in storage and photosynthesis”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "B",
+              "text": "parenchyma"
+            },
+            {
+              "label": "C",
+              "text": "apical meristem"
+            },
+            {
+              "label": "D",
+              "text": "collenchyma"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "parenchyma",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q27",
+          "question": "Choose the accurate statement about parenchyma.",
+          "options": [
+            {
+              "label": "A",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "B",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "C",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "D",
+              "text": "plant growth region responsible mainly for increase in length"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "living plant tissue often involved in storage and photosynthesis",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q28",
+          "question": "A diagram or observation identifies parenchyma. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "B",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "C",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "D",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "living plant tissue often involved in storage and photosynthesis",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q29",
+          "question": "Which pairing is correct for parenchyma?",
+          "options": [
+            {
+              "label": "A",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "B",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "C",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "D",
+              "text": "plant growth tissue contributing to increase in girth"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "living plant tissue often involved in storage and photosynthesis",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        },
+        {
+          "id": "BIO1_CH08_Q30",
+          "question": "In a topic review, which answer best explains the clue “living plant tissue often involved in storage and photosynthesis”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "xylem"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "parenchyma",
+          "explanation": "Some parenchyma cells contain chloroplasts and perform photosynthesis."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH08_T04",
+      "topic_name": "Collenchyma",
+      "mcqs": [
+        {
+          "id": "BIO1_CH08_Q31",
+          "question": "Which term is correctly described as: living tissue providing flexible support?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "apical meristem"
+            },
+            {
+              "label": "C",
+              "text": "xylem"
+            },
+            {
+              "label": "D",
+              "text": "lateral meristem"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "collenchyma",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q32",
+          "question": "The biological role or defining feature of collenchyma is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "B",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "C",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "D",
+              "text": "plant growth tissue contributing to increase in girth"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "living tissue providing flexible support",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q33",
+          "question": "A student records the following clue: “living tissue providing flexible support.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "C",
+              "text": "xylem"
+            },
+            {
+              "label": "D",
+              "text": "apical meristem"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "collenchyma",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q34",
+          "question": "Which option completes this statement correctly? collenchyma is the term for living tissue providing flexible support.",
+          "options": [
+            {
+              "label": "A",
+              "text": "apical meristem"
+            },
+            {
+              "label": "B",
+              "text": "xylem"
+            },
+            {
+              "label": "C",
+              "text": "collenchyma"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "collenchyma",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q35",
+          "question": "If an examination asks for the term associated with “living tissue providing flexible support”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "xylem"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "parenchyma"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "collenchyma",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q36",
+          "question": "Which structure, process or concept matches the description “living tissue providing flexible support”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parenchyma"
+            },
+            {
+              "label": "B",
+              "text": "collenchyma"
+            },
+            {
+              "label": "C",
+              "text": "apical meristem"
+            },
+            {
+              "label": "D",
+              "text": "xylem"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "collenchyma",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q37",
+          "question": "Choose the accurate statement about collenchyma.",
+          "options": [
+            {
+              "label": "A",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "B",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "C",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "D",
+              "text": "plant growth region responsible mainly for increase in length"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "living tissue providing flexible support",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q38",
+          "question": "A diagram or observation identifies collenchyma. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "B",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "C",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "D",
+              "text": "living tissue providing flexible support"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "living tissue providing flexible support",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q39",
+          "question": "Which pairing is correct for collenchyma?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "B",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "C",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "D",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "living tissue providing flexible support",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        },
+        {
+          "id": "BIO1_CH08_Q40",
+          "question": "In a topic review, which answer best explains the clue “living tissue providing flexible support”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "xylem"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "apical meristem"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "collenchyma",
+          "explanation": "Unevenly thickened cell walls help support growing organs."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH08_T05",
+      "topic_name": "Xylem",
+      "mcqs": [
+        {
+          "id": "BIO1_CH08_Q41",
+          "question": "Which term is correctly described as: vascular tissue transporting water and mineral ions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "xylem"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "apical meristem"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "xylem",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q42",
+          "question": "The biological role or defining feature of xylem is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "B",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "C",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "D",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "vascular tissue transporting water and mineral ions",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q43",
+          "question": "A student records the following clue: “vascular tissue transporting water and mineral ions.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "B",
+              "text": "collenchyma"
+            },
+            {
+              "label": "C",
+              "text": "xylem"
+            },
+            {
+              "label": "D",
+              "text": "apical meristem"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "xylem",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q44",
+          "question": "Which option completes this statement correctly? xylem is the term for vascular tissue transporting water and mineral ions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "parenchyma"
+            },
+            {
+              "label": "B",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "C",
+              "text": "collenchyma"
+            },
+            {
+              "label": "D",
+              "text": "xylem"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "xylem",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q45",
+          "question": "If an examination asks for the term associated with “vascular tissue transporting water and mineral ions”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "collenchyma"
+            },
+            {
+              "label": "B",
+              "text": "parenchyma"
+            },
+            {
+              "label": "C",
+              "text": "xylem"
+            },
+            {
+              "label": "D",
+              "text": "apical meristem"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "xylem",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q46",
+          "question": "Which structure, process or concept matches the description “vascular tissue transporting water and mineral ions”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "apical meristem"
+            },
+            {
+              "label": "B",
+              "text": "collenchyma"
+            },
+            {
+              "label": "C",
+              "text": "lateral meristem"
+            },
+            {
+              "label": "D",
+              "text": "xylem"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "xylem",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q47",
+          "question": "Choose the accurate statement about xylem.",
+          "options": [
+            {
+              "label": "A",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "B",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "C",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "D",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "vascular tissue transporting water and mineral ions",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q48",
+          "question": "A diagram or observation identifies xylem. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant growth region responsible mainly for increase in length"
+            },
+            {
+              "label": "B",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "C",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            },
+            {
+              "label": "D",
+              "text": "living tissue providing flexible support"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "vascular tissue transporting water and mineral ions",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q49",
+          "question": "Which pairing is correct for xylem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vascular tissue transporting water and mineral ions"
+            },
+            {
+              "label": "B",
+              "text": "plant growth tissue contributing to increase in girth"
+            },
+            {
+              "label": "C",
+              "text": "living tissue providing flexible support"
+            },
+            {
+              "label": "D",
+              "text": "living plant tissue often involved in storage and photosynthesis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "vascular tissue transporting water and mineral ions",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        },
+        {
+          "id": "BIO1_CH08_Q50",
+          "question": "In a topic review, which answer best explains the clue “vascular tissue transporting water and mineral ions”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parenchyma"
+            },
+            {
+              "label": "B",
+              "text": "collenchyma"
+            },
+            {
+              "label": "C",
+              "text": "xylem"
+            },
+            {
+              "label": "D",
+              "text": "lateral meristem"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "xylem",
+          "explanation": "Its conducting elements move water mainly from roots towards shoots."
+        }
+      ]
+    }
+  ]
+}

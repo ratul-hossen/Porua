@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 4,
+  "chapter_title": "Circles",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Centre of a Circle",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q001",
+          "question": "Find the centre of the circle (x−(2))² + (y−(3))² = 25.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(2, 3)"
+            },
+            {
+              "label": "B",
+              "text": "(3, 2)"
+            },
+            {
+              "label": "C",
+              "text": "(3, 3)"
+            },
+            {
+              "label": "D",
+              "text": "(-2, -3)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(2, 3)",
+          "explanation": "In (x−h)²+(y−k)²=r², the centre is (h,k), which is (2, 3).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C04-Q002",
+          "question": "Find the centre of the circle (x−(-1))² + (y−(4))² = 9.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(0, 4)"
+            },
+            {
+              "label": "B",
+              "text": "(-1, 4)"
+            },
+            {
+              "label": "C",
+              "text": "(4, -1)"
+            },
+            {
+              "label": "D",
+              "text": "(1, -4)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(-1, 4)",
+          "explanation": "In (x−h)²+(y−k)²=r², the centre is (h,k), which is (-1, 4).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C04-Q003",
+          "question": "Find the centre of the circle (x−(3))² + (y−(-2))² = 16.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(-2, 3)"
+            },
+            {
+              "label": "B",
+              "text": "(4, -2)"
+            },
+            {
+              "label": "C",
+              "text": "(3, -2)"
+            },
+            {
+              "label": "D",
+              "text": "(-3, 2)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "(3, -2)",
+          "explanation": "In (x−h)²+(y−k)²=r², the centre is (h,k), which is (3, -2).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C04-Q004",
+          "question": "Find the centre of the circle (x−(0))² + (y−(5))² = 4.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(0, -5)"
+            },
+            {
+              "label": "B",
+              "text": "(1, 5)"
+            },
+            {
+              "label": "C",
+              "text": "(5, 0)"
+            },
+            {
+              "label": "D",
+              "text": "(0, 5)"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(0, 5)",
+          "explanation": "In (x−h)²+(y−k)²=r², the centre is (h,k), which is (0, 5).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C04-Q005",
+          "question": "Find the centre of the circle (x−(-4))² + (y−(-1))² = 36.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(-4, -1)"
+            },
+            {
+              "label": "B",
+              "text": "(4, 1)"
+            },
+            {
+              "label": "C",
+              "text": "(-1, -4)"
+            },
+            {
+              "label": "D",
+              "text": "(-3, -1)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(-4, -1)",
+          "explanation": "In (x−h)²+(y−k)²=r², the centre is (h,k), which is (-4, -1).",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Radius",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q006",
+          "question": "Find the radius of the circle (x−(1))² + (y−(2))² = 9.",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3",
+          "explanation": "In standard form the right-hand side is r². Taking its positive square root gives 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q007",
+          "question": "Find the radius of the circle (x−(2))² + (y−(-1))² = 16.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4",
+          "explanation": "In standard form the right-hand side is r². Taking its positive square root gives 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q008",
+          "question": "Find the radius of the circle (x−(-3))² + (y−(5))² = 36.",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "36"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "In standard form the right-hand side is r². Taking its positive square root gives 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q009",
+          "question": "Find the radius of the circle (x−(4))² + (y−(0))² = 25.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "25"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5",
+          "explanation": "In standard form the right-hand side is r². Taking its positive square root gives 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q010",
+          "question": "Find the radius of the circle (x−(0))² + (y−(-2))² = 49.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "49"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "7",
+          "explanation": "In standard form the right-hand side is r². Taking its positive square root gives 7.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Circle in General Form",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q011",
+          "question": "What is the x-coordinate of the centre of x²+y²+(-2)x+(-4)y+(-20)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1",
+          "explanation": "For x²+y²+Dx+Ey+F=0, the centre has x-coordinate −D/2 = 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q012",
+          "question": "What is the x-coordinate of the centre of x²+y²+(-6)x+(-8)y+(-11)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "3",
+          "explanation": "For x²+y²+Dx+Ey+F=0, the centre has x-coordinate −D/2 = 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q013",
+          "question": "What is the x-coordinate of the centre of x²+y²+(4)x+(-2)y+(-11)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-2"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "-3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-2",
+          "explanation": "For x²+y²+Dx+Ey+F=0, the centre has x-coordinate −D/2 = -2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q014",
+          "question": "What is the x-coordinate of the centre of x²+y²+(-8)x+(6)y+(0)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "-4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "4",
+          "explanation": "For x²+y²+Dx+Ey+F=0, the centre has x-coordinate −D/2 = 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q015",
+          "question": "What is the x-coordinate of the centre of x²+y²+(0)x+(-4)y+(-5)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "0",
+          "explanation": "For x²+y²+Dx+Ey+F=0, the centre has x-coordinate −D/2 = 0.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Radius from General Form",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q016",
+          "question": "What is the radius of x²+y²+(-2)x+(-4)y+(-20)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "25"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5",
+          "explanation": "Use r = √[(D/2)²+(E/2)²−F]; the radius is 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q017",
+          "question": "What is the radius of x²+y²+(-6)x+(-8)y+(-11)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "36"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6",
+          "explanation": "Use r = √[(D/2)²+(E/2)²−F]; the radius is 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q018",
+          "question": "What is the radius of x²+y²+(4)x+(-2)y+(-11)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "4",
+          "explanation": "Use r = √[(D/2)²+(E/2)²−F]; the radius is 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q019",
+          "question": "What is the radius of x²+y²+(-8)x+(6)y+(0)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "Use r = √[(D/2)²+(E/2)²−F]; the radius is 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q020",
+          "question": "What is the radius of x²+y²+(0)x+(-4)y+(-5)=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "3",
+          "explanation": "Use r = √[(D/2)²+(E/2)²−F]; the radius is 3.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Tangency to Axes",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q021",
+          "question": "A circle with centre (3,4) touches the y-axis. What is its radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3",
+          "explanation": "The radius equals the perpendicular distance from the centre to the y-axis, |x| = 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q022",
+          "question": "A circle with centre (5,-2) touches the y-axis. What is its radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5",
+          "explanation": "The radius equals the perpendicular distance from the centre to the y-axis, |x| = 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q023",
+          "question": "A circle with centre (-4,3) touches the y-axis. What is its radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4",
+          "explanation": "The radius equals the perpendicular distance from the centre to the y-axis, |x| = 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q024",
+          "question": "A circle with centre (2,6) touches the y-axis. What is its radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "2",
+          "explanation": "The radius equals the perpendicular distance from the centre to the y-axis, |x| = 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q025",
+          "question": "A circle with centre (-6,-1) touches the y-axis. What is its radius?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6",
+          "explanation": "The radius equals the perpendicular distance from the centre to the y-axis, |x| = 6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Diameter Endpoints",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q026",
+          "question": "A(1,2) and B(5,6) are endpoints of a diameter. What is the x-coordinate of the circle's centre?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3",
+          "explanation": "The centre is the midpoint of the diameter, so x=(x₁+x₂)/2=3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q027",
+          "question": "A(2,3) and B(8,7) are endpoints of a diameter. What is the x-coordinate of the circle's centre?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "The centre is the midpoint of the diameter, so x=(x₁+x₂)/2=5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q028",
+          "question": "A(-2,1) and B(4,5) are endpoints of a diameter. What is the x-coordinate of the circle's centre?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "The centre is the midpoint of the diameter, so x=(x₁+x₂)/2=1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q029",
+          "question": "A(0,-3) and B(6,1) are endpoints of a diameter. What is the x-coordinate of the circle's centre?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3",
+          "explanation": "The centre is the midpoint of the diameter, so x=(x₁+x₂)/2=3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q030",
+          "question": "A(3,-1) and B(9,5) are endpoints of a diameter. What is the x-coordinate of the circle's centre?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "6",
+          "explanation": "The centre is the midpoint of the diameter, so x=(x₁+x₂)/2=6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Tangents",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q031",
+          "question": "What is the equation of the tangent to x²+y²=4 at the point (2,0)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "y=2"
+            },
+            {
+              "label": "B",
+              "text": "x+y=4"
+            },
+            {
+              "label": "C",
+              "text": "x=2"
+            },
+            {
+              "label": "D",
+              "text": "x=−2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x=2",
+          "explanation": "At (r,0) on x²+y²=r², the tangent is x=r; hence x=2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q032",
+          "question": "What is the equation of the tangent to x²+y²=9 at the point (3,0)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x=−3"
+            },
+            {
+              "label": "B",
+              "text": "x+y=9"
+            },
+            {
+              "label": "C",
+              "text": "y=3"
+            },
+            {
+              "label": "D",
+              "text": "x=3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x=3",
+          "explanation": "At (r,0) on x²+y²=r², the tangent is x=r; hence x=3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q033",
+          "question": "What is the equation of the tangent to x²+y²=16 at the point (4,0)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x=4"
+            },
+            {
+              "label": "B",
+              "text": "x+y=16"
+            },
+            {
+              "label": "C",
+              "text": "y=4"
+            },
+            {
+              "label": "D",
+              "text": "x=−4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x=4",
+          "explanation": "At (r,0) on x²+y²=r², the tangent is x=r; hence x=4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q034",
+          "question": "What is the equation of the tangent to x²+y²=25 at the point (5,0)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "y=5"
+            },
+            {
+              "label": "B",
+              "text": "x=5"
+            },
+            {
+              "label": "C",
+              "text": "x=−5"
+            },
+            {
+              "label": "D",
+              "text": "x+y=25"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x=5",
+          "explanation": "At (r,0) on x²+y²=r², the tangent is x=r; hence x=5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q035",
+          "question": "What is the equation of the tangent to x²+y²=36 at the point (6,0)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x=−6"
+            },
+            {
+              "label": "B",
+              "text": "x+y=36"
+            },
+            {
+              "label": "C",
+              "text": "x=6"
+            },
+            {
+              "label": "D",
+              "text": "y=6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x=6",
+          "explanation": "At (r,0) on x²+y²=r², the tangent is x=r; hence x=6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Length of a Tangent",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q036",
+          "question": "What is the length of the tangent from P(5,0) to the circle centred at the origin with radius 3?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4",
+          "explanation": "Tangent length = √(OP²−r²), which evaluates to 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q037",
+          "question": "What is the length of the tangent from P(13,0) to the circle centred at the origin with radius 5?",
+          "options": [
+            {
+              "label": "A",
+              "text": "12"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "13"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "12",
+          "explanation": "Tangent length = √(OP²−r²), which evaluates to 12.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q038",
+          "question": "What is the length of the tangent from P(17,0) to the circle centred at the origin with radius 8?",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "15"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "8"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "15",
+          "explanation": "Tangent length = √(OP²−r²), which evaluates to 15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q039",
+          "question": "What is the length of the tangent from P(25,0) to the circle centred at the origin with radius 7?",
+          "options": [
+            {
+              "label": "A",
+              "text": "26"
+            },
+            {
+              "label": "B",
+              "text": "25"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "24",
+          "explanation": "Tangent length = √(OP²−r²), which evaluates to 24.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q040",
+          "question": "What is the length of the tangent from P(10,0) to the circle centred at the origin with radius 6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "8"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "8",
+          "explanation": "Tangent length = √(OP²−r²), which evaluates to 8.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Equation of a Circle",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q041",
+          "question": "A circle has centre (1,2) and radius 4. What is the constant term when its equation is written as x²+y²+Dx+Ey+F=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-11"
+            },
+            {
+              "label": "B",
+              "text": "21"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "-10"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-11",
+          "explanation": "Expanding (x−h)²+(y−k)²=r² gives F=h²+k²−r²=-11.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q042",
+          "question": "A circle has centre (3,1) and radius 5. What is the constant term when its equation is written as x²+y²+Dx+Ey+F=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "35"
+            },
+            {
+              "label": "B",
+              "text": "-15"
+            },
+            {
+              "label": "C",
+              "text": "-14"
+            },
+            {
+              "label": "D",
+              "text": "15"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-15",
+          "explanation": "Expanding (x−h)²+(y−k)²=r² gives F=h²+k²−r²=-15.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q043",
+          "question": "A circle has centre (-2,4) and radius 6. What is the constant term when its equation is written as x²+y²+Dx+Ey+F=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-15"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "-16"
+            },
+            {
+              "label": "D",
+              "text": "56"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-16",
+          "explanation": "Expanding (x−h)²+(y−k)²=r² gives F=h²+k²−r²=-16.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q044",
+          "question": "A circle has centre (4,-3) and radius 7. What is the constant term when its equation is written as x²+y²+Dx+Ey+F=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "74"
+            },
+            {
+              "label": "B",
+              "text": "-23"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "-24"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-24",
+          "explanation": "Expanding (x−h)²+(y−k)²=r² gives F=h²+k²−r²=-24.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q045",
+          "question": "A circle has centre (0,5) and radius 8. What is the constant term when its equation is written as x²+y²+Dx+Ey+F=0?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-39"
+            },
+            {
+              "label": "B",
+              "text": "39"
+            },
+            {
+              "label": "C",
+              "text": "89"
+            },
+            {
+              "label": "D",
+              "text": "-38"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-39",
+          "explanation": "Expanding (x−h)²+(y−k)²=r² gives F=h²+k²−r²=-39.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Standard Circle Equation",
+      "questions": [
+        {
+          "id": "HM-P1-C04-Q046",
+          "question": "Which equation represents a circle with centre (2,1) and radius 3?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x−(1))²+(y−(2))²=9"
+            },
+            {
+              "label": "B",
+              "text": "(x−(2))²+(y−(1))²=9"
+            },
+            {
+              "label": "C",
+              "text": "(x+(2))²+(y+(1))²=9"
+            },
+            {
+              "label": "D",
+              "text": "(x−(2))²+(y−(1))²=3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(x−(2))²+(y−(1))²=9",
+          "explanation": "The standard equation of a circle is (x−h)²+(y−k)²=r²; here it is (x−(2))²+(y−(1))²=9.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q047",
+          "question": "Which equation represents a circle with centre (3,-2) and radius 4?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x+(3))²+(y+(-2))²=16"
+            },
+            {
+              "label": "B",
+              "text": "(x−(-2))²+(y−(3))²=16"
+            },
+            {
+              "label": "C",
+              "text": "(x−(3))²+(y−(-2))²=16"
+            },
+            {
+              "label": "D",
+              "text": "(x−(3))²+(y−(-2))²=4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "(x−(3))²+(y−(-2))²=16",
+          "explanation": "The standard equation of a circle is (x−h)²+(y−k)²=r²; here it is (x−(3))²+(y−(-2))²=16.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q048",
+          "question": "Which equation represents a circle with centre (-1,3) and radius 5?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x−(3))²+(y−(-1))²=25"
+            },
+            {
+              "label": "B",
+              "text": "(x−(-1))²+(y−(3))²=5"
+            },
+            {
+              "label": "C",
+              "text": "(x+(-1))²+(y+(3))²=25"
+            },
+            {
+              "label": "D",
+              "text": "(x−(-1))²+(y−(3))²=25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(x−(-1))²+(y−(3))²=25",
+          "explanation": "The standard equation of a circle is (x−h)²+(y−k)²=r²; here it is (x−(-1))²+(y−(3))²=25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q049",
+          "question": "Which equation represents a circle with centre (4,2) and radius 6?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x−(4))²+(y−(2))²=36"
+            },
+            {
+              "label": "B",
+              "text": "(x−(2))²+(y−(4))²=36"
+            },
+            {
+              "label": "C",
+              "text": "(x+(4))²+(y+(2))²=36"
+            },
+            {
+              "label": "D",
+              "text": "(x−(4))²+(y−(2))²=6"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(x−(4))²+(y−(2))²=36",
+          "explanation": "The standard equation of a circle is (x−h)²+(y−k)²=r²; here it is (x−(4))²+(y−(2))²=36.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C04-Q050",
+          "question": "Which equation represents a circle with centre (0,-3) and radius 7?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(x−(-3))²+(y−(0))²=49"
+            },
+            {
+              "label": "B",
+              "text": "(x−(0))²+(y−(-3))²=49"
+            },
+            {
+              "label": "C",
+              "text": "(x+(0))²+(y+(-3))²=49"
+            },
+            {
+              "label": "D",
+              "text": "(x−(0))²+(y−(-3))²=7"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(x−(0))²+(y−(-3))²=49",
+          "explanation": "The standard equation of a circle is (x−h)²+(y−k)²=r²; here it is (x−(0))²+(y−(-3))²=49.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

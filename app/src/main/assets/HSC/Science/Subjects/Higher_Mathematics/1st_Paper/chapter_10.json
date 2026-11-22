@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 10,
+  "chapter_title": "Integration",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Indefinite Integrals",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q001",
+          "question": "Evaluate the indefinite integral ∫x^1 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x^2/2+C"
+            },
+            {
+              "label": "B",
+              "text": "1x^0+C"
+            },
+            {
+              "label": "C",
+              "text": "x^1/1+C"
+            },
+            {
+              "label": "D",
+              "text": "x^2+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x^2/2+C",
+          "explanation": "For n≠−1, ∫xⁿdx=xⁿ⁺¹/(n+1)+C, giving x^2/2+C.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C10-Q002",
+          "question": "Evaluate the indefinite integral ∫x^2 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x^3+C"
+            },
+            {
+              "label": "B",
+              "text": "x^3/3+C"
+            },
+            {
+              "label": "C",
+              "text": "2x^1+C"
+            },
+            {
+              "label": "D",
+              "text": "x^2/2+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x^3/3+C",
+          "explanation": "For n≠−1, ∫xⁿdx=xⁿ⁺¹/(n+1)+C, giving x^3/3+C.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C10-Q003",
+          "question": "Evaluate the indefinite integral ∫x^3 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x^3/3+C"
+            },
+            {
+              "label": "B",
+              "text": "x^4+C"
+            },
+            {
+              "label": "C",
+              "text": "x^4/4+C"
+            },
+            {
+              "label": "D",
+              "text": "3x^2+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x^4/4+C",
+          "explanation": "For n≠−1, ∫xⁿdx=xⁿ⁺¹/(n+1)+C, giving x^4/4+C.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C10-Q004",
+          "question": "Evaluate the indefinite integral ∫x^4 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x^4/4+C"
+            },
+            {
+              "label": "B",
+              "text": "4x^3+C"
+            },
+            {
+              "label": "C",
+              "text": "x^5+C"
+            },
+            {
+              "label": "D",
+              "text": "x^5/5+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x^5/5+C",
+          "explanation": "For n≠−1, ∫xⁿdx=xⁿ⁺¹/(n+1)+C, giving x^5/5+C.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C10-Q005",
+          "question": "Evaluate the indefinite integral ∫x^5 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x^6/6+C"
+            },
+            {
+              "label": "B",
+              "text": "x^6+C"
+            },
+            {
+              "label": "C",
+              "text": "5x^4+C"
+            },
+            {
+              "label": "D",
+              "text": "x^5/5+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x^6/6+C",
+          "explanation": "For n≠−1, ∫xⁿdx=xⁿ⁺¹/(n+1)+C, giving x^6/6+C.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Constant Multiples",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q006",
+          "question": "Evaluate ∫2x^2 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2x^2/2+C"
+            },
+            {
+              "label": "B",
+              "text": "2x^3/3+C"
+            },
+            {
+              "label": "C",
+              "text": "4x^1+C"
+            },
+            {
+              "label": "D",
+              "text": "2x^3+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2x^3/3+C",
+          "explanation": "Use the power rule for integration and keep the constant multiplier; the integral is 2x^3/3+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q007",
+          "question": "Evaluate ∫3x^2 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3x^3+C"
+            },
+            {
+              "label": "B",
+              "text": "6x^1+C"
+            },
+            {
+              "label": "C",
+              "text": "3x^3/3+C"
+            },
+            {
+              "label": "D",
+              "text": "3x^2/2+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3x^3/3+C",
+          "explanation": "Use the power rule for integration and keep the constant multiplier; the integral is 3x^3/3+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q008",
+          "question": "Evaluate ∫4x^3 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4x^4+C"
+            },
+            {
+              "label": "B",
+              "text": "12x^2+C"
+            },
+            {
+              "label": "C",
+              "text": "4x^3/3+C"
+            },
+            {
+              "label": "D",
+              "text": "4x^4/4+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4x^4/4+C",
+          "explanation": "Use the power rule for integration and keep the constant multiplier; the integral is 4x^4/4+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q009",
+          "question": "Evaluate ∫5x^2 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5x^3/3+C"
+            },
+            {
+              "label": "B",
+              "text": "5x^2/2+C"
+            },
+            {
+              "label": "C",
+              "text": "5x^3+C"
+            },
+            {
+              "label": "D",
+              "text": "10x^1+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5x^3/3+C",
+          "explanation": "Use the power rule for integration and keep the constant multiplier; the integral is 5x^3/3+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q010",
+          "question": "Evaluate ∫2x^4 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8x^3+C"
+            },
+            {
+              "label": "B",
+              "text": "2x^5/5+C"
+            },
+            {
+              "label": "C",
+              "text": "2x^4/4+C"
+            },
+            {
+              "label": "D",
+              "text": "2x^5+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2x^5/5+C",
+          "explanation": "Use the power rule for integration and keep the constant multiplier; the integral is 2x^5/5+C.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Definite Integrals",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q011",
+          "question": "Evaluate the definite integral ∫₀^2 x^1 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2",
+          "explanation": "Use the antiderivative xⁿ⁺¹/(n+1) and apply the limits; the value is 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q012",
+          "question": "Evaluate the definite integral ∫₀^3 x^2 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "9",
+          "explanation": "Use the antiderivative xⁿ⁺¹/(n+1) and apply the limits; the value is 9.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q013",
+          "question": "Evaluate the definite integral ∫₀^2 x^3 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4",
+          "explanation": "Use the antiderivative xⁿ⁺¹/(n+1) and apply the limits; the value is 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q014",
+          "question": "Evaluate the definite integral ∫₀^4 x^2 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "70/3"
+            },
+            {
+              "label": "B",
+              "text": "64/3"
+            },
+            {
+              "label": "C",
+              "text": "67/3"
+            },
+            {
+              "label": "D",
+              "text": "61/3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "64/3",
+          "explanation": "Use the antiderivative xⁿ⁺¹/(n+1) and apply the limits; the value is 64/3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q015",
+          "question": "Evaluate the definite integral ∫₀^2 x^4 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "37/5"
+            },
+            {
+              "label": "B",
+              "text": "42/5"
+            },
+            {
+              "label": "C",
+              "text": "32/5"
+            },
+            {
+              "label": "D",
+              "text": "27/5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "32/5",
+          "explanation": "Use the antiderivative xⁿ⁺¹/(n+1) and apply the limits; the value is 32/5.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Integrals of Constants",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q016",
+          "question": "Find the indefinite integral ∫2 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x/2+C"
+            },
+            {
+              "label": "B",
+              "text": "2x²+C"
+            },
+            {
+              "label": "C",
+              "text": "2+C"
+            },
+            {
+              "label": "D",
+              "text": "2x+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "2x+C",
+          "explanation": "The integral of a constant k is kx+C, so the answer is 2x+C.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C10-Q017",
+          "question": "Find the indefinite integral ∫3 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3x+C"
+            },
+            {
+              "label": "B",
+              "text": "x/3+C"
+            },
+            {
+              "label": "C",
+              "text": "3+C"
+            },
+            {
+              "label": "D",
+              "text": "3x²+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3x+C",
+          "explanation": "The integral of a constant k is kx+C, so the answer is 3x+C.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C10-Q018",
+          "question": "Find the indefinite integral ∫4 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4+C"
+            },
+            {
+              "label": "B",
+              "text": "4x+C"
+            },
+            {
+              "label": "C",
+              "text": "x/4+C"
+            },
+            {
+              "label": "D",
+              "text": "4x²+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "4x+C",
+          "explanation": "The integral of a constant k is kx+C, so the answer is 4x+C.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C10-Q019",
+          "question": "Find the indefinite integral ∫5 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5x²+C"
+            },
+            {
+              "label": "B",
+              "text": "5+C"
+            },
+            {
+              "label": "C",
+              "text": "5x+C"
+            },
+            {
+              "label": "D",
+              "text": "x/5+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5x+C",
+          "explanation": "The integral of a constant k is kx+C, so the answer is 5x+C.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HM-P1-C10-Q020",
+          "question": "Find the indefinite integral ∫6 dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6x²+C"
+            },
+            {
+              "label": "B",
+              "text": "6+C"
+            },
+            {
+              "label": "C",
+              "text": "x/6+C"
+            },
+            {
+              "label": "D",
+              "text": "6x+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6x+C",
+          "explanation": "The integral of a constant k is kx+C, so the answer is 6x+C.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Trigonometric Integrals",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q021",
+          "question": "Evaluate ∫(sin x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−cos x+C"
+            },
+            {
+              "label": "B",
+              "text": "sin x+C"
+            },
+            {
+              "label": "C",
+              "text": "−sin x+C"
+            },
+            {
+              "label": "D",
+              "text": "cos x+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "−cos x+C",
+          "explanation": "Use the standard antiderivative of the stated trigonometric function; include the integration constant: −cos x+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q022",
+          "question": "Evaluate ∫(cos x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "tan x+C"
+            },
+            {
+              "label": "B",
+              "text": "sin x+C"
+            },
+            {
+              "label": "C",
+              "text": "cos x+C"
+            },
+            {
+              "label": "D",
+              "text": "−sin x+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "sin x+C",
+          "explanation": "Use the standard antiderivative of the stated trigonometric function; include the integration constant: sin x+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q023",
+          "question": "Evaluate ∫(sec² x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−tan x+C"
+            },
+            {
+              "label": "B",
+              "text": "sec x+C"
+            },
+            {
+              "label": "C",
+              "text": "tan x+C"
+            },
+            {
+              "label": "D",
+              "text": "cot x+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "tan x+C",
+          "explanation": "Use the standard antiderivative of the stated trigonometric function; include the integration constant: tan x+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q024",
+          "question": "Evaluate ∫(cosec² x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "cot x+C"
+            },
+            {
+              "label": "B",
+              "text": "tan x+C"
+            },
+            {
+              "label": "C",
+              "text": "−tan x+C"
+            },
+            {
+              "label": "D",
+              "text": "−cot x+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "−cot x+C",
+          "explanation": "Use the standard antiderivative of the stated trigonometric function; include the integration constant: −cot x+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q025",
+          "question": "Evaluate ∫(sec x tan x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "sec x+C"
+            },
+            {
+              "label": "B",
+              "text": "−sec x+C"
+            },
+            {
+              "label": "C",
+              "text": "tan x+C"
+            },
+            {
+              "label": "D",
+              "text": "sec² x+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "sec x+C",
+          "explanation": "Use the standard antiderivative of the stated trigonometric function; include the integration constant: sec x+C.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Exponential Integrals",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q026",
+          "question": "Evaluate ∫e^(2x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2e^(2x)+C"
+            },
+            {
+              "label": "B",
+              "text": "e^(2x)/2+C"
+            },
+            {
+              "label": "C",
+              "text": "e^(2x)+C"
+            },
+            {
+              "label": "D",
+              "text": "e^x/2+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "e^(2x)/2+C",
+          "explanation": "Using the reverse chain rule ∫e^(ax)dx=e^(ax)/a+C, the result is e^(2x)/2+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q027",
+          "question": "Evaluate ∫e^(3x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^x/3+C"
+            },
+            {
+              "label": "B",
+              "text": "e^(3x)+C"
+            },
+            {
+              "label": "C",
+              "text": "e^(3x)/3+C"
+            },
+            {
+              "label": "D",
+              "text": "3e^(3x)+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "e^(3x)/3+C",
+          "explanation": "Using the reverse chain rule ∫e^(ax)dx=e^(ax)/a+C, the result is e^(3x)/3+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q028",
+          "question": "Evaluate ∫e^(4x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(4x)+C"
+            },
+            {
+              "label": "B",
+              "text": "e^x/4+C"
+            },
+            {
+              "label": "C",
+              "text": "4e^(4x)+C"
+            },
+            {
+              "label": "D",
+              "text": "e^(4x)/4+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "e^(4x)/4+C",
+          "explanation": "Using the reverse chain rule ∫e^(ax)dx=e^(ax)/a+C, the result is e^(4x)/4+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q029",
+          "question": "Evaluate ∫e^(5x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(5x)/5+C"
+            },
+            {
+              "label": "B",
+              "text": "e^x/5+C"
+            },
+            {
+              "label": "C",
+              "text": "e^(5x)+C"
+            },
+            {
+              "label": "D",
+              "text": "5e^(5x)+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "e^(5x)/5+C",
+          "explanation": "Using the reverse chain rule ∫e^(ax)dx=e^(ax)/a+C, the result is e^(5x)/5+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q030",
+          "question": "Evaluate ∫e^(6x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(6x)+C"
+            },
+            {
+              "label": "B",
+              "text": "e^(6x)/6+C"
+            },
+            {
+              "label": "C",
+              "text": "6e^(6x)+C"
+            },
+            {
+              "label": "D",
+              "text": "e^x/6+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "e^(6x)/6+C",
+          "explanation": "Using the reverse chain rule ∫e^(ax)dx=e^(ax)/a+C, the result is e^(6x)/6+C.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Logarithmic Integrals",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q031",
+          "question": "Evaluate ∫[1/(x+2)] dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/(x+2)²+C"
+            },
+            {
+              "label": "B",
+              "text": "ln|x|+2+C"
+            },
+            {
+              "label": "C",
+              "text": "ln|x+2|+C"
+            },
+            {
+              "label": "D",
+              "text": "(x+2)²/2+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ln|x+2|+C",
+          "explanation": "Since ∫du/u=ln|u|+C, substitute u=x+2 to obtain ln|x+2|+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q032",
+          "question": "Evaluate ∫[1/(x+3)] dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/(x+3)²+C"
+            },
+            {
+              "label": "B",
+              "text": "ln|x|+3+C"
+            },
+            {
+              "label": "C",
+              "text": "(x+3)²/2+C"
+            },
+            {
+              "label": "D",
+              "text": "ln|x+3|+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ln|x+3|+C",
+          "explanation": "Since ∫du/u=ln|u|+C, substitute u=x+3 to obtain ln|x+3|+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q033",
+          "question": "Evaluate ∫[1/(x+4)] dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ln|x+4|+C"
+            },
+            {
+              "label": "B",
+              "text": "ln|x|+4+C"
+            },
+            {
+              "label": "C",
+              "text": "(x+4)²/2+C"
+            },
+            {
+              "label": "D",
+              "text": "1/(x+4)²+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ln|x+4|+C",
+          "explanation": "Since ∫du/u=ln|u|+C, substitute u=x+4 to obtain ln|x+4|+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q034",
+          "question": "Evaluate ∫[1/(x+5)] dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ln|x|+5+C"
+            },
+            {
+              "label": "B",
+              "text": "ln|x+5|+C"
+            },
+            {
+              "label": "C",
+              "text": "1/(x+5)²+C"
+            },
+            {
+              "label": "D",
+              "text": "(x+5)²/2+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ln|x+5|+C",
+          "explanation": "Since ∫du/u=ln|u|+C, substitute u=x+5 to obtain ln|x+5|+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q035",
+          "question": "Evaluate ∫[1/(x+6)] dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ln|x|+6+C"
+            },
+            {
+              "label": "B",
+              "text": "1/(x+6)²+C"
+            },
+            {
+              "label": "C",
+              "text": "ln|x+6|+C"
+            },
+            {
+              "label": "D",
+              "text": "(x+6)²/2+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ln|x+6|+C",
+          "explanation": "Since ∫du/u=ln|u|+C, substitute u=x+6 to obtain ln|x+6|+C.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Substitution",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q036",
+          "question": "Evaluate ∫(2x+2)³ dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(2x+2)⁴/4+C"
+            },
+            {
+              "label": "B",
+              "text": "3(2x+2)²+C"
+            },
+            {
+              "label": "C",
+              "text": "(2x+2)⁴/2+C"
+            },
+            {
+              "label": "D",
+              "text": "(2x+2)⁴/8+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(2x+2)⁴/8+C",
+          "explanation": "Set u=2x+2, use du=2dx, and integrate u³ to get (2x+2)⁴/8+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q037",
+          "question": "Evaluate ∫(2x+3)³ dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(2x+3)⁴/8+C"
+            },
+            {
+              "label": "B",
+              "text": "3(2x+3)²+C"
+            },
+            {
+              "label": "C",
+              "text": "(2x+3)⁴/2+C"
+            },
+            {
+              "label": "D",
+              "text": "(2x+3)⁴/4+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(2x+3)⁴/8+C",
+          "explanation": "Set u=2x+3, use du=2dx, and integrate u³ to get (2x+3)⁴/8+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q038",
+          "question": "Evaluate ∫(2x+4)³ dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(2x+4)⁴/4+C"
+            },
+            {
+              "label": "B",
+              "text": "(2x+4)⁴/8+C"
+            },
+            {
+              "label": "C",
+              "text": "(2x+4)⁴/2+C"
+            },
+            {
+              "label": "D",
+              "text": "3(2x+4)²+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(2x+4)⁴/8+C",
+          "explanation": "Set u=2x+4, use du=2dx, and integrate u³ to get (2x+4)⁴/8+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q039",
+          "question": "Evaluate ∫(2x+5)³ dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3(2x+5)²+C"
+            },
+            {
+              "label": "B",
+              "text": "(2x+5)⁴/2+C"
+            },
+            {
+              "label": "C",
+              "text": "(2x+5)⁴/8+C"
+            },
+            {
+              "label": "D",
+              "text": "(2x+5)⁴/4+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "(2x+5)⁴/8+C",
+          "explanation": "Set u=2x+5, use du=2dx, and integrate u³ to get (2x+5)⁴/8+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q040",
+          "question": "Evaluate ∫(2x+6)³ dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "(2x+6)⁴/4+C"
+            },
+            {
+              "label": "B",
+              "text": "3(2x+6)²+C"
+            },
+            {
+              "label": "C",
+              "text": "(2x+6)⁴/2+C"
+            },
+            {
+              "label": "D",
+              "text": "(2x+6)⁴/8+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(2x+6)⁴/8+C",
+          "explanation": "Set u=2x+6, use du=2dx, and integrate u³ to get (2x+6)⁴/8+C.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Area Under a Curve",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q041",
+          "question": "Find the area under y=2x^1 from x=0 to x=1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "2/3"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "The area is the definite integral of y over the given interval, which is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q042",
+          "question": "Find the area under y=3x^2 from x=0 to x=1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3/4"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1",
+          "explanation": "The area is the definite integral of y over the given interval, which is 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q043",
+          "question": "Find the area under y=4x^1 from x=0 to x=1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "4/3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "2",
+          "explanation": "The area is the definite integral of y over the given interval, which is 2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q044",
+          "question": "Find the area under y=5x^2 from x=0 to x=1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "11/3"
+            },
+            {
+              "label": "B",
+              "text": "8/3"
+            },
+            {
+              "label": "C",
+              "text": "5/4"
+            },
+            {
+              "label": "D",
+              "text": "5/3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5/3",
+          "explanation": "The area is the definite integral of y over the given interval, which is 5/3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q045",
+          "question": "Find the area under y=2x^3 from x=0 to x=1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/2"
+            },
+            {
+              "label": "B",
+              "text": "2/5"
+            },
+            {
+              "label": "C",
+              "text": "5/2"
+            },
+            {
+              "label": "D",
+              "text": "3/2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1/2",
+          "explanation": "The area is the definite integral of y over the given interval, which is 1/2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Integration by Parts",
+      "questions": [
+        {
+          "id": "HM-P1-C10-Q046",
+          "question": "Evaluate ∫x·e^(1x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(1x)(x/1+1/1)+C"
+            },
+            {
+              "label": "B",
+              "text": "e^(1x)(x/1−1/1)+C"
+            },
+            {
+              "label": "C",
+              "text": "e^(1x)/1+C"
+            },
+            {
+              "label": "D",
+              "text": "xe^(1x)+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "e^(1x)(x/1−1/1)+C",
+          "explanation": "Apply integration by parts with u=x and dv=e^(ax)dx; the result is e^(1x)(x/1−1/1)+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q047",
+          "question": "Evaluate ∫x·e^(2x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(2x)(x/2+1/4)+C"
+            },
+            {
+              "label": "B",
+              "text": "xe^(2x)+C"
+            },
+            {
+              "label": "C",
+              "text": "e^(2x)(x/2−1/4)+C"
+            },
+            {
+              "label": "D",
+              "text": "e^(2x)/2+C"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "e^(2x)(x/2−1/4)+C",
+          "explanation": "Apply integration by parts with u=x and dv=e^(ax)dx; the result is e^(2x)(x/2−1/4)+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q048",
+          "question": "Evaluate ∫x·e^(3x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(3x)(x/3+1/9)+C"
+            },
+            {
+              "label": "B",
+              "text": "e^(3x)/3+C"
+            },
+            {
+              "label": "C",
+              "text": "xe^(3x)+C"
+            },
+            {
+              "label": "D",
+              "text": "e^(3x)(x/3−1/9)+C"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "e^(3x)(x/3−1/9)+C",
+          "explanation": "Apply integration by parts with u=x and dv=e^(ax)dx; the result is e^(3x)(x/3−1/9)+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q049",
+          "question": "Evaluate ∫x·e^(4x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(4x)(x/4−1/16)+C"
+            },
+            {
+              "label": "B",
+              "text": "xe^(4x)+C"
+            },
+            {
+              "label": "C",
+              "text": "e^(4x)(x/4+1/16)+C"
+            },
+            {
+              "label": "D",
+              "text": "e^(4x)/4+C"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "e^(4x)(x/4−1/16)+C",
+          "explanation": "Apply integration by parts with u=x and dv=e^(ax)dx; the result is e^(4x)(x/4−1/16)+C.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P1-C10-Q050",
+          "question": "Evaluate ∫x·e^(5x) dx.",
+          "options": [
+            {
+              "label": "A",
+              "text": "e^(5x)/5+C"
+            },
+            {
+              "label": "B",
+              "text": "e^(5x)(x/5−1/25)+C"
+            },
+            {
+              "label": "C",
+              "text": "xe^(5x)+C"
+            },
+            {
+              "label": "D",
+              "text": "e^(5x)(x/5+1/25)+C"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "e^(5x)(x/5−1/25)+C",
+          "explanation": "Apply integration by parts with u=x and dv=e^(ax)dx; the result is e^(5x)(x/5−1/25)+C.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

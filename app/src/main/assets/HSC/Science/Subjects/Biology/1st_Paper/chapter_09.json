@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 9,
+  "chapter_title": "Plant Physiology",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH09_T01",
+      "topic_name": "Osmosis",
+      "mcqs": [
+        {
+          "id": "BIO1_CH09_Q01",
+          "question": "Which term is correctly described as: movement of water across a selectively permeable membrane down a water-potential gradient?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "B",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "C",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "D",
+              "text": "osmosis"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "osmosis",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q02",
+          "question": "The biological role or defining feature of osmosis is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "B",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "C",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "D",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "movement of water across a selectively permeable membrane down a water-potential gradient",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q03",
+          "question": "A student records the following clue: “movement of water across a selectively permeable membrane down a water-potential gradient.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "light-dependent reactions"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "osmosis",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q04",
+          "question": "Which option completes this statement correctly? osmosis is the term for movement of water across a selectively permeable membrane down a water-potential gradient.",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "C",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "D",
+              "text": "transpiration"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "osmosis",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q05",
+          "question": "If an examination asks for the term associated with “movement of water across a selectively permeable membrane down a water-potential gradient”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "C",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "D",
+              "text": "transpiration"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "osmosis",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q06",
+          "question": "Which structure, process or concept matches the description “movement of water across a selectively permeable membrane down a water-potential gradient”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "transpiration"
+            },
+            {
+              "label": "B",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "C",
+              "text": "osmosis"
+            },
+            {
+              "label": "D",
+              "text": "Calvin cycle"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "osmosis",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q07",
+          "question": "Choose the accurate statement about osmosis.",
+          "options": [
+            {
+              "label": "A",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "B",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "C",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "D",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "movement of water across a selectively permeable membrane down a water-potential gradient",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q08",
+          "question": "A diagram or observation identifies osmosis. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "B",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "C",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "D",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "movement of water across a selectively permeable membrane down a water-potential gradient",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q09",
+          "question": "Which pairing is correct for osmosis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "B",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "C",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "movement of water across a selectively permeable membrane down a water-potential gradient",
+          "explanation": "Water moves from higher to lower water potential."
+        },
+        {
+          "id": "BIO1_CH09_Q10",
+          "question": "In a topic review, which answer best explains the clue “movement of water across a selectively permeable membrane down a water-potential gradient”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "transpiration"
+            },
+            {
+              "label": "B",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "C",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "D",
+              "text": "osmosis"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "osmosis",
+          "explanation": "Water moves from higher to lower water potential."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH09_T02",
+      "topic_name": "Transpiration",
+      "mcqs": [
+        {
+          "id": "BIO1_CH09_Q11",
+          "question": "Which term is correctly described as: loss of water vapour from aerial plant parts, mainly through stomata?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "B",
+              "text": "transpiration"
+            },
+            {
+              "label": "C",
+              "text": "osmosis"
+            },
+            {
+              "label": "D",
+              "text": "abscisic acid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "transpiration",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q12",
+          "question": "The biological role or defining feature of transpiration is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "B",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "C",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "D",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "loss of water vapour from aerial plant parts, mainly through stomata",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q13",
+          "question": "A student records the following clue: “loss of water vapour from aerial plant parts, mainly through stomata.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "B",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "osmosis"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "transpiration",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q14",
+          "question": "Which option completes this statement correctly? transpiration is the term for loss of water vapour from aerial plant parts, mainly through stomata.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "B",
+              "text": "transpiration"
+            },
+            {
+              "label": "C",
+              "text": "osmosis"
+            },
+            {
+              "label": "D",
+              "text": "abscisic acid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "transpiration",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q15",
+          "question": "If an examination asks for the term associated with “loss of water vapour from aerial plant parts, mainly through stomata”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "light-dependent reactions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "transpiration",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q16",
+          "question": "Which structure, process or concept matches the description “loss of water vapour from aerial plant parts, mainly through stomata”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "B",
+              "text": "osmosis"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "abscisic acid"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "transpiration",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q17",
+          "question": "Choose the accurate statement about transpiration.",
+          "options": [
+            {
+              "label": "A",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "B",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "C",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "loss of water vapour from aerial plant parts, mainly through stomata",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q18",
+          "question": "A diagram or observation identifies transpiration. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "B",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "C",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "loss of water vapour from aerial plant parts, mainly through stomata",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q19",
+          "question": "Which pairing is correct for transpiration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "C",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "D",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "loss of water vapour from aerial plant parts, mainly through stomata",
+          "explanation": "It contributes to the transpiration stream."
+        },
+        {
+          "id": "BIO1_CH09_Q20",
+          "question": "In a topic review, which answer best explains the clue “loss of water vapour from aerial plant parts, mainly through stomata”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "B",
+              "text": "transpiration"
+            },
+            {
+              "label": "C",
+              "text": "osmosis"
+            },
+            {
+              "label": "D",
+              "text": "Calvin cycle"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "transpiration",
+          "explanation": "It contributes to the transpiration stream."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH09_T03",
+      "topic_name": "Light-Dependent Reactions",
+      "mcqs": [
+        {
+          "id": "BIO1_CH09_Q21",
+          "question": "Which term is correctly described as: photosynthetic reactions occurring in thylakoid membranes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "B",
+              "text": "osmosis"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "light-dependent reactions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "light-dependent reactions",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q22",
+          "question": "The biological role or defining feature of light-dependent reactions is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "C",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "D",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "photosynthetic reactions occurring in thylakoid membranes",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q23",
+          "question": "A student records the following clue: “photosynthetic reactions occurring in thylakoid membranes.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "light-dependent reactions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "light-dependent reactions",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q24",
+          "question": "Which option completes this statement correctly? light-dependent reactions is the term for photosynthetic reactions occurring in thylakoid membranes.",
+          "options": [
+            {
+              "label": "A",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "B",
+              "text": "transpiration"
+            },
+            {
+              "label": "C",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "D",
+              "text": "Calvin cycle"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "light-dependent reactions",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q25",
+          "question": "If an examination asks for the term associated with “photosynthetic reactions occurring in thylakoid membranes”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "B",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "C",
+              "text": "osmosis"
+            },
+            {
+              "label": "D",
+              "text": "Calvin cycle"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "light-dependent reactions",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q26",
+          "question": "Which structure, process or concept matches the description “photosynthetic reactions occurring in thylakoid membranes”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "B",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "C",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "D",
+              "text": "osmosis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "light-dependent reactions",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q27",
+          "question": "Choose the accurate statement about light-dependent reactions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "B",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "C",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "D",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "photosynthetic reactions occurring in thylakoid membranes",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q28",
+          "question": "A diagram or observation identifies light-dependent reactions. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "C",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "D",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "photosynthetic reactions occurring in thylakoid membranes",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q29",
+          "question": "Which pairing is correct for light-dependent reactions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "C",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "D",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "photosynthetic reactions occurring in thylakoid membranes",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        },
+        {
+          "id": "BIO1_CH09_Q30",
+          "question": "In a topic review, which answer best explains the clue “photosynthetic reactions occurring in thylakoid membranes”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "B",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "C",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "D",
+              "text": "transpiration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "light-dependent reactions",
+          "explanation": "They produce ATP and NADPH and release oxygen from water."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH09_T04",
+      "topic_name": "Calvin Cycle",
+      "mcqs": [
+        {
+          "id": "BIO1_CH09_Q31",
+          "question": "Which term is correctly described as: carbon-fixation reactions occurring in the chloroplast stroma?",
+          "options": [
+            {
+              "label": "A",
+              "text": "transpiration"
+            },
+            {
+              "label": "B",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "C",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "D",
+              "text": "osmosis"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Calvin cycle",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q32",
+          "question": "The biological role or defining feature of Calvin cycle is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "B",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "C",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "D",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "carbon-fixation reactions occurring in the chloroplast stroma",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q33",
+          "question": "A student records the following clue: “carbon-fixation reactions occurring in the chloroplast stroma.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "Calvin cycle"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Calvin cycle",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q34",
+          "question": "Which option completes this statement correctly? Calvin cycle is the term for carbon-fixation reactions occurring in the chloroplast stroma.",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "B",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "osmosis"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Calvin cycle",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q35",
+          "question": "If an examination asks for the term associated with “carbon-fixation reactions occurring in the chloroplast stroma”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "B",
+              "text": "osmosis"
+            },
+            {
+              "label": "C",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "D",
+              "text": "transpiration"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Calvin cycle",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q36",
+          "question": "Which structure, process or concept matches the description “carbon-fixation reactions occurring in the chloroplast stroma”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "abscisic acid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Calvin cycle",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q37",
+          "question": "Choose the accurate statement about Calvin cycle.",
+          "options": [
+            {
+              "label": "A",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "B",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "C",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "D",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "carbon-fixation reactions occurring in the chloroplast stroma",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q38",
+          "question": "A diagram or observation identifies Calvin cycle. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "B",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "C",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "D",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "carbon-fixation reactions occurring in the chloroplast stroma",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q39",
+          "question": "Which pairing is correct for Calvin cycle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "B",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "C",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "D",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "carbon-fixation reactions occurring in the chloroplast stroma",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        },
+        {
+          "id": "BIO1_CH09_Q40",
+          "question": "In a topic review, which answer best explains the clue “carbon-fixation reactions occurring in the chloroplast stroma”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "B",
+              "text": "osmosis"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "abscisic acid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Calvin cycle",
+          "explanation": "It uses ATP and NADPH to reduce fixed carbon."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH09_T05",
+      "topic_name": "Abscisic Acid",
+      "mcqs": [
+        {
+          "id": "BIO1_CH09_Q41",
+          "question": "Which term is correctly described as: plant hormone associated with stress responses and stomatal closure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "transpiration"
+            },
+            {
+              "label": "B",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "C",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "D",
+              "text": "light-dependent reactions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "abscisic acid",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q42",
+          "question": "The biological role or defining feature of abscisic acid is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            },
+            {
+              "label": "B",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "C",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "plant hormone associated with stress responses and stomatal closure",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q43",
+          "question": "A student records the following clue: “plant hormone associated with stress responses and stomatal closure.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "B",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "osmosis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "abscisic acid",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q44",
+          "question": "Which option completes this statement correctly? abscisic acid is the term for plant hormone associated with stress responses and stomatal closure.",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "B",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "osmosis"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "abscisic acid",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q45",
+          "question": "If an examination asks for the term associated with “plant hormone associated with stress responses and stomatal closure”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "B",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "C",
+              "text": "transpiration"
+            },
+            {
+              "label": "D",
+              "text": "Calvin cycle"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "abscisic acid",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q46",
+          "question": "Which structure, process or concept matches the description “plant hormone associated with stress responses and stomatal closure”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "osmosis"
+            },
+            {
+              "label": "B",
+              "text": "transpiration"
+            },
+            {
+              "label": "C",
+              "text": "abscisic acid"
+            },
+            {
+              "label": "D",
+              "text": "light-dependent reactions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "abscisic acid",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q47",
+          "question": "Choose the accurate statement about abscisic acid.",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "C",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            },
+            {
+              "label": "D",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "plant hormone associated with stress responses and stomatal closure",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q48",
+          "question": "A diagram or observation identifies abscisic acid. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "C",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "D",
+              "text": "loss of water vapour from aerial plant parts, mainly through stomata"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "plant hormone associated with stress responses and stomatal closure",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q49",
+          "question": "Which pairing is correct for abscisic acid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant hormone associated with stress responses and stomatal closure"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic reactions occurring in thylakoid membranes"
+            },
+            {
+              "label": "C",
+              "text": "movement of water across a selectively permeable membrane down a water-potential gradient"
+            },
+            {
+              "label": "D",
+              "text": "carbon-fixation reactions occurring in the chloroplast stroma"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "plant hormone associated with stress responses and stomatal closure",
+          "explanation": "It helps plants respond to water stress."
+        },
+        {
+          "id": "BIO1_CH09_Q50",
+          "question": "In a topic review, which answer best explains the clue “plant hormone associated with stress responses and stomatal closure”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Calvin cycle"
+            },
+            {
+              "label": "B",
+              "text": "osmosis"
+            },
+            {
+              "label": "C",
+              "text": "light-dependent reactions"
+            },
+            {
+              "label": "D",
+              "text": "abscisic acid"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "abscisic acid",
+          "explanation": "It helps plants respond to water stress."
+        }
+      ]
+    }
+  ]
+}

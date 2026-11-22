@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 4,
+  "chapter_title": "Human Rights, Peace and Conflict",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Universal Declaration of Human Rights (UDHR)",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-001",
+          "question": "In what year did the United Nations General Assembly adopt the Universal Declaration of Human Rights (UDHR) in Paris?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1948"
+            },
+            {
+              "label": "B",
+              "text": "1945"
+            },
+            {
+              "label": "C",
+              "text": "1952"
+            },
+            {
+              "label": "D",
+              "text": "1960"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1948",
+          "explanation": "The UDHR was adopted on December 10, 1948, now celebrated globally each year as Human Rights Day.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-002",
+          "question": "What is the foundational assertion of Article 1 of the Universal Declaration of Human Rights?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'All human beings are born free and equal in dignity and rights'"
+            },
+            {
+              "label": "B",
+              "text": "'All citizens must serve in the armed forces'"
+            },
+            {
+              "label": "C",
+              "text": "'Rights belong only to property owners'"
+            },
+            {
+              "label": "D",
+              "text": "'Freedom of speech is subject to government approval'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'All human beings are born free and equal in dignity and rights'",
+          "explanation": "Article 1 famously proclaims that all human beings are born free and equal in dignity and rights, endowed with reason and conscience.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-003",
+          "question": "Which of the following is classified as a fundamental human right under the UDHR?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Freedom from torture and cruel, inhuman treatment"
+            },
+            {
+              "label": "B",
+              "text": "Unrestricted right to pollute public rivers"
+            },
+            {
+              "label": "C",
+              "text": "Right to evade legitimate tax laws"
+            },
+            {
+              "label": "D",
+              "text": "Right to discriminate based on skin color"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Freedom from torture and cruel, inhuman treatment",
+          "explanation": "Article 5 of the UDHR categorically prohibits torture or cruel, inhuman, or degrading treatment or punishment.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-004",
+          "question": "Why are human rights described as 'inalienable'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they cannot be legitimately taken away or surrendered by any person or authority"
+            },
+            {
+              "label": "B",
+              "text": "Because they only apply to foreign visitors"
+            },
+            {
+              "label": "C",
+              "text": "Because they expire when a person turns sixty"
+            },
+            {
+              "label": "D",
+              "text": "Because they must be purchased annually"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because they cannot be legitimately taken away or surrendered by any person or authority",
+          "explanation": "'Inalienable' means impossible to take away, transfer, or give up; every human being possesses them inherently by virtue of being human.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-005",
+          "question": "What is the synonym of the word 'dignity' in the context of universal human rights?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Inherent self-worth and honor"
+            },
+            {
+              "label": "B",
+              "text": "Material wealth"
+            },
+            {
+              "label": "C",
+              "text": "Political power"
+            },
+            {
+              "label": "D",
+              "text": "Physical arrogance"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Inherent self-worth and honor",
+          "explanation": "'Dignity' refers to the state or quality of being worthy of universal honor, respect, and fundamental human consideration.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Amerigo - Plight of a Street Child",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-006",
+          "question": "How old is Amerigo, the street child whose poignant first-person story is featured in 'English for Today'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "13 years old"
+            },
+            {
+              "label": "B",
+              "text": "8 years old"
+            },
+            {
+              "label": "C",
+              "text": "18 years old"
+            },
+            {
+              "label": "D",
+              "text": "21 years old"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "13 years old",
+          "explanation": "Amerigo begins his account by stating: 'My name is Amerigo. I am 13 years old and I live on the street, alone.'",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-007",
+          "question": "Why does Amerigo live alone on the harsh streets of Dhaka city?",
+          "options": [
+            {
+              "label": "A",
+              "text": "His parents are separated; his mother told him to go away and his father refused to accept him"
+            },
+            {
+              "label": "B",
+              "text": "He chose to live outdoors for fun"
+            },
+            {
+              "label": "C",
+              "text": "He is attending a distant boarding school"
+            },
+            {
+              "label": "D",
+              "text": "He is employed as a hotel manager"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "His parents are separated; his mother told him to go away and his father refused to accept him",
+          "explanation": "Amerigo's mother remarried and abandoned him, while his impoverished father refused to send bus fare or take custody of him.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-008",
+          "question": "What dangerous job did Amerigo do at a trash dump that caused him serious illness?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Collecting trash and sorting recyclable plastics, which gave him severe infections"
+            },
+            {
+              "label": "B",
+              "text": "Driving heavy garbage trucks"
+            },
+            {
+              "label": "C",
+              "text": "Selling electronic gadgets"
+            },
+            {
+              "label": "D",
+              "text": "Operating an incinerator machine"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Collecting trash and sorting recyclable plastics, which gave him severe infections",
+          "explanation": "He worked at a hazardous trash dump until he fell terribly sick from infected cuts and was warned by a doctor to stop.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-009",
+          "question": "What heartbreaking injustice did Amerigo experience while working at an ice cream shop on the beach?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The shop owner made him carry heavy ice cream boxes all day but gave him only stale food and no wages, not even letting him taste an ice cream"
+            },
+            {
+              "label": "B",
+              "text": "He dropped an ice cream and was arrested"
+            },
+            {
+              "label": "C",
+              "text": "Customers refused to buy ice cream from him"
+            },
+            {
+              "label": "D",
+              "text": "The ice cream shop burned down"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The shop owner made him carry heavy ice cream boxes all day but gave him only stale food and no wages, not even letting him taste an ice cream",
+          "explanation": "Amerigo carried heavy boxes across the beach, yet the cruel vendor gave him no money and forbade him from tasting even a single ice cream.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-010",
+          "question": "In winter, what happened to Amerigo's friend who collected trash?",
+          "options": [
+            {
+              "label": "A",
+              "text": "He died of a severe infection and tetanus from a rusted nail in a trash heap"
+            },
+            {
+              "label": "B",
+              "text": "He was adopted by a wealthy foreign family"
+            },
+            {
+              "label": "C",
+              "text": "He moved to a warm village home"
+            },
+            {
+              "label": "D",
+              "text": "He became a primary school teacher"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He died of a severe infection and tetanus from a rusted nail in a trash heap",
+          "explanation": "Amerigo recounts the sorrowful death of his young friend who stepped on a rusted glass/nail in the garbage pile and died without medical care.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Child Rights and Child Labor Exploitation",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-011",
+          "question": "Which international treaty protects the fundamental rights of every human under eighteen years of age?",
+          "options": [
+            {
+              "label": "A",
+              "text": "UN Convention on the Rights of the Child (UNCRC)"
+            },
+            {
+              "label": "B",
+              "text": "Geneva Maritime Convention"
+            },
+            {
+              "label": "C",
+              "text": "Kyoto Protocol"
+            },
+            {
+              "label": "D",
+              "text": "World Intellectual Property Treaty"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "UN Convention on the Rights of the Child (UNCRC)",
+          "explanation": "The UNCRC (1989) is the most widely ratified human rights treaty, guaranteeing children's rights to health, education, protection, and family care.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-012",
+          "question": "What basic childhood rights is Amerigo deprived of in his day-to-day existence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Right to shelter, education, nutritious food, healthcare, and parental love"
+            },
+            {
+              "label": "B",
+              "text": "Right to travel on international airlines"
+            },
+            {
+              "label": "C",
+              "text": "Right to own commercial real estate"
+            },
+            {
+              "label": "D",
+              "text": "Right to drive high-speed automobiles"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Right to shelter, education, nutritious food, healthcare, and parental love",
+          "explanation": "Amerigo suffers total deprivation of essential rights guaranteed by the UNCRC: a secure home, formal education, medical care, and family protection.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-013",
+          "question": "What is the primary root cause driving millions of young children into hazardous labor in developing countries?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Extreme poverty, parental illiteracy, and lack of social safety nets"
+            },
+            {
+              "label": "B",
+              "text": "Excessive academic homework in primary schools"
+            },
+            {
+              "label": "C",
+              "text": "Desire to purchase expensive luxury sports cars"
+            },
+            {
+              "label": "D",
+              "text": "Boredom with extracurricular leisure sports"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Extreme poverty, parental illiteracy, and lack of social safety nets",
+          "explanation": "Grinding socio-economic poverty forces vulnerable families to send young children into hazardous manual labor to survive.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-014",
+          "question": "What does Amerigo fear the most when winter approaches in Dhaka?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Freezing cold nights on pavement without warm clothes or blankets"
+            },
+            {
+              "label": "B",
+              "text": "Missing school examinations"
+            },
+            {
+              "label": "C",
+              "text": "Snow avalanches in the streets"
+            },
+            {
+              "label": "D",
+              "text": "Having too much food to eat"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Freezing cold nights on pavement without warm clothes or blankets",
+          "explanation": "Amerigo shivers through winter nights on bare sidewalks, lacking warm clothing, blankets, or shelter against biting winds.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-015",
+          "question": "What is society's collective moral obligation toward street children like Amerigo?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Providing rehabilitation, free education, healthcare, and safe shelter to integrate them into society"
+            },
+            {
+              "label": "B",
+              "text": "Chasing them away from public view"
+            },
+            {
+              "label": "C",
+              "text": "Imposing police fines on them"
+            },
+            {
+              "label": "D",
+              "text": "Ignoring their plight completely"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Providing rehabilitation, free education, healthcare, and safe shelter to integrate them into society",
+          "explanation": "Governments and civil societies have an urgent moral and constitutional duty to rehabilitate, educate, and protect vulnerable homeless children.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Peace and Conflict - Concepts and Typologies",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-016",
+          "question": "What is the definition of 'Conflict' in sociological studies?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A clash or disagreement between individuals or groups arising from opposing interests, values, or needs"
+            },
+            {
+              "label": "B",
+              "text": "A harmonious choir singing in unison"
+            },
+            {
+              "label": "C",
+              "text": "A formal treaty signed between allies"
+            },
+            {
+              "label": "D",
+              "text": "An agricultural harvest festival"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A clash or disagreement between individuals or groups arising from opposing interests, values, or needs",
+          "explanation": "Conflict occurs when two or more parties perceive incompatible goals, values, territorial claims, or access to scarce resources.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-017",
+          "question": "How do peace researchers differentiate between 'Negative Peace' and 'Positive Peace'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Negative peace is merely the absence of direct violence, while positive peace is the presence of social justice and equality"
+            },
+            {
+              "label": "B",
+              "text": "Negative peace is war, positive peace is defeat"
+            },
+            {
+              "label": "C",
+              "text": "There is no difference between them"
+            },
+            {
+              "label": "D",
+              "text": "Negative peace applies only to wildlife"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Negative peace is merely the absence of direct violence, while positive peace is the presence of social justice and equality",
+          "explanation": "Johan Galtung formulated that negative peace means ceasing active warfare, while positive peace dismantles structural violence and injustice.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG104-MCQ-018",
+          "question": "Which of the following is a major root cause of interstate or international conflict?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Territorial disputes, resource competition (oil, water), and ideological hostility"
+            },
+            {
+              "label": "B",
+              "text": "Mutual international cultural exchange programs"
+            },
+            {
+              "label": "C",
+              "text": "Joint scientific research in astronomy"
+            },
+            {
+              "label": "D",
+              "text": "Universal adherence to humanitarian laws"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Territorial disputes, resource competition (oil, water), and ideological hostility",
+          "explanation": "Clashes over borders, vital natural resources, political dominance, and ethnic grievances drive most major interstate conflicts.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-019",
+          "question": "What is an 'Intrapersonal Conflict'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A psychological struggle or moral dilemma occurring within an individual's own mind"
+            },
+            {
+              "label": "B",
+              "text": "A boxing match between two professional athletes"
+            },
+            {
+              "label": "C",
+              "text": "A trade tariff dispute between two sovereign nations"
+            },
+            {
+              "label": "D",
+              "text": "A strike organized by a labor union"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A psychological struggle or moral dilemma occurring within an individual's own mind",
+          "explanation": "Intrapersonal conflict takes place internally within a person's consciousness between competing ethical values, emotions, or decisions.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-020",
+          "question": "Which diplomatic mechanism is standardly used by sovereign nations to resolve conflicts peacefully?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mediation, multilateral dialogue, and arbitration"
+            },
+            {
+              "label": "B",
+              "text": "Unilateral nuclear missile strikes"
+            },
+            {
+              "label": "C",
+              "text": "Targeted assassination of civilian populations"
+            },
+            {
+              "label": "D",
+              "text": "Imposition of total media blackouts"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Mediation, multilateral dialogue, and arbitration",
+          "explanation": "Peaceful conflict resolution relies on diplomatic negotiations, neutral third-party mediation, and international judicial arbitration (ICJ).",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Non-violent Resistance and Global Peace Builders",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-021",
+          "question": "Who pioneered the philosophy of 'Satyagraha' (non-violent resistance through soul-force) to win India's independence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mahatma Gandhi"
+            },
+            {
+              "label": "B",
+              "text": "Subhas Chandra Bose"
+            },
+            {
+              "label": "C",
+              "text": "Jawaharlal Nehru"
+            },
+            {
+              "label": "D",
+              "text": "Bhagat Singh"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Mahatma Gandhi",
+          "explanation": "Mahatma Gandhi developed Satyagraha (holding onto truth without violence), inspiring civil rights movements across the globe.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-022",
+          "question": "Which American civil rights leader was deeply inspired by Gandhi to lead the Montgomery Bus Boycott and the March on Washington?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Martin Luther King Jr."
+            },
+            {
+              "label": "B",
+              "text": "Malcolm X"
+            },
+            {
+              "label": "C",
+              "text": "Frederick Douglass"
+            },
+            {
+              "label": "D",
+              "text": "Booker T. Washington"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Martin Luther King Jr.",
+          "explanation": "Dr. Martin Luther King Jr. adopted Gandhi's non-violent civil disobedience methods to fight racial segregation in the United States.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-023",
+          "question": "Which Catholic nun dedicated her life to serving the destitute, dying, and lepers on the streets of Kolkata, winning the Nobel Peace Prize in 1979?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mother Teresa"
+            },
+            {
+              "label": "B",
+              "text": "Florence Nightingale"
+            },
+            {
+              "label": "C",
+              "text": "Sister Nivedita"
+            },
+            {
+              "label": "D",
+              "text": "Joan of Arc"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Mother Teresa",
+          "explanation": "Mother Teresa founded the Missionaries of Charity in Kolkata to minister selflessly to the poorest of the poor, sick, and dying.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-024",
+          "question": "Martin Luther King Jr. declared: 'Injustice anywhere is a threat to ______.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Justice everywhere"
+            },
+            {
+              "label": "B",
+              "text": "Commercial trade agreements"
+            },
+            {
+              "label": "C",
+              "text": "Military superiority"
+            },
+            {
+              "label": "D",
+              "text": "Government revenue"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Justice everywhere",
+          "explanation": "In his 'Letter from Birmingham Jail' (1963), King wrote: 'Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality.'",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-025",
+          "question": "What is the core premise of non-violent civil disobedience?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Refusing to obey unjust, discriminatory laws openly and peacefully while accepting legal penalties to awaken society's conscience"
+            },
+            {
+              "label": "B",
+              "text": "Organizing armed guerilla insurgencies in forests"
+            },
+            {
+              "label": "C",
+              "text": "Destroying public infrastructure under cover of darkness"
+            },
+            {
+              "label": "D",
+              "text": "Fleeing the country as a political fugitive"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Refusing to obey unjust, discriminatory laws openly and peacefully while accepting legal penalties to awaken society's conscience",
+          "explanation": "Non-violent resistance relies on moral conviction, boycotts, and peaceful marches to expose the injustice of oppressive laws.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "R.K. Narayan's 'Under the Banyan Tree'",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-026",
+          "question": "Who is the legendary village storyteller in R.K. Narayan's story 'Under the Banyan Tree'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nambi"
+            },
+            {
+              "label": "B",
+              "text": "Swami"
+            },
+            {
+              "label": "C",
+              "text": "Mani"
+            },
+            {
+              "label": "D",
+              "text": "Raju"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Nambi",
+          "explanation": "Nambi is the venerable, illiterate village elder who lives in the temple hut and enchants villagers with mesmerizing stories under the banyan tree.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-027",
+          "question": "How did Nambi signal to the villagers of Somal that a new story was ready to be told?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By lighting a small clay brass lamp in the niche of the banyan tree trunk"
+            },
+            {
+              "label": "B",
+              "text": "By beating a loud brass gong through village streets"
+            },
+            {
+              "label": "C",
+              "text": "By sending handwritten invitations"
+            },
+            {
+              "label": "D",
+              "text": "By shouting from the temple roof"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By lighting a small clay brass lamp in the niche of the banyan tree trunk",
+          "explanation": "Whenever inspired by the goddess Shakti, Nambi lit a small lamp on the trunk of the banyan tree, alerting villagers to gather at nightfall.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-028",
+          "question": "Where does the story of Nambi take place in Narayan's fictional literary universe?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Somal, a secluded forest village near Malgudi"
+            },
+            {
+              "label": "B",
+              "text": "A coastal port town in Bombay"
+            },
+            {
+              "label": "C",
+              "text": "An industrial coal town in Bihar"
+            },
+            {
+              "label": "D",
+              "text": "A Himalayan monastery in Sikkim"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Somal, a secluded forest village near Malgudi",
+          "explanation": "The story is set in Somal, a quiet, simple village tucked deep in the forests of Narayan's iconic fictional region of Malgudi.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-029",
+          "question": "What heartbreaking crisis struck Nambi in his old age when he attempted to narrate a story?",
+          "options": [
+            {
+              "label": "A",
+              "text": "His memory faltered, words failed him, and he could no longer weave tales"
+            },
+            {
+              "label": "B",
+              "text": "The villagers threw stones at him"
+            },
+            {
+              "label": "C",
+              "text": "The banyan tree was struck by lightning"
+            },
+            {
+              "label": "D",
+              "text": "The temple was taken over by merchants"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "His memory faltered, words failed him, and he could no longer weave tales",
+          "explanation": "In his twilight years, Nambi lost his gift of storytelling: words evaporated, his narrative broke down, and he sat in helpless silence.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-030",
+          "question": "What profound decision did Nambi make after realizing that the divine goddess had withdrawn her gift of words?",
+          "options": [
+            {
+              "label": "A",
+              "text": "He took a vow of lifelong silence, declaring that when the goddess takes back her speech, the storyteller must remain silent"
+            },
+            {
+              "label": "B",
+              "text": "He moved to a big city to earn money"
+            },
+            {
+              "label": "C",
+              "text": "He began reading from printed paper books"
+            },
+            {
+              "label": "D",
+              "text": "He cursed the villagers in anger"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He took a vow of lifelong silence, declaring that when the goddess takes back her speech, the storyteller must remain silent",
+          "explanation": "Nambi gracefully embraced silence: 'It is the Mother who gives the gift, and it is she who takes it away. What is left for the storyteller except silence?'",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Vocabulary of Peace, Justice and Conflict",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-031",
+          "question": "What is the synonym of the word 'atrocity' in human rights violations?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An extremely cruel, heinous, or barbaric act"
+            },
+            {
+              "label": "B",
+              "text": "A peaceful charitable gesture"
+            },
+            {
+              "label": "C",
+              "text": "A routine administrative disagreement"
+            },
+            {
+              "label": "D",
+              "text": "A celebration of sportsmanship"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An extremely cruel, heinous, or barbaric act",
+          "explanation": "'Atrocity' refers to an appalling, horrifyingly wicked or cruel act, especially during wartime or ethnic cleansing.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-032",
+          "question": "What does the word 'disenfranchised' mean in socio-political rights?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Deprived of basic legal, civil, or political rights and privileges"
+            },
+            {
+              "label": "B",
+              "text": "Awarded an honorary academic certificate"
+            },
+            {
+              "label": "C",
+              "text": "Granted commercial franchise ownership"
+            },
+            {
+              "label": "D",
+              "text": "Exempted from all personal taxes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Deprived of basic legal, civil, or political rights and privileges",
+          "explanation": "'Disenfranchised' describes marginalized people who have been stripped of power, civil voice, or the right to vote.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-033",
+          "question": "What is an agreement between warring factions to temporarily stop fighting called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Truce (or Ceasefire)"
+            },
+            {
+              "label": "B",
+              "text": "Ultimatum"
+            },
+            {
+              "label": "C",
+              "text": "Siege"
+            },
+            {
+              "label": "D",
+              "text": "Conscription"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Truce (or Ceasefire)",
+          "explanation": "A truce or ceasefire is a formal mutual suspension of armed hostilities for negotiation or humanitarian purposes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-034",
+          "question": "What is the antonym of the word 'belligerent'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Peaceable and amicable"
+            },
+            {
+              "label": "B",
+              "text": "Aggressive and combative"
+            },
+            {
+              "label": "C",
+              "text": "Hostile and fierce"
+            },
+            {
+              "label": "D",
+              "text": "Antagonistic"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Peaceable and amicable",
+          "explanation": "'Belligerent' means hostile, aggressive, and eager to fight. Its direct antonym is 'peaceable' or 'amicable'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-035",
+          "question": "What does 'sovereignty' signify for an independent nation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Supreme and independent political authority over its own territory and population"
+            },
+            {
+              "label": "B",
+              "text": "Subservience to colonial rulers"
+            },
+            {
+              "label": "C",
+              "text": "Requirement of foreign approval for national laws"
+            },
+            {
+              "label": "D",
+              "text": "Bankruptcy of the central treasury"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Supreme and independent political authority over its own territory and population",
+          "explanation": "'Sovereignty' is the absolute, autonomous power of a state to govern its domestic affairs without foreign intervention.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Grammar and Syntax in Rights-Based Texts",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-036",
+          "question": "Fill in the blank with the appropriate preposition: 'Amerigo was deprived ______ a normal childhood and basic education.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "of"
+            },
+            {
+              "label": "B",
+              "text": "from"
+            },
+            {
+              "label": "C",
+              "text": "with"
+            },
+            {
+              "label": "D",
+              "text": "in"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "of",
+          "explanation": "The appropriate preposition after the verb 'deprive' is 'of' (deprived of something).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-037",
+          "question": "Choose the correct sentence in subjunctive mood expressing a human rights imperative:",
+          "options": [
+            {
+              "label": "A",
+              "text": "The United Nations recommends that every child be protected from hazardous labor."
+            },
+            {
+              "label": "B",
+              "text": "The United Nations recommends that every child is protected from hazardous labor."
+            },
+            {
+              "label": "C",
+              "text": "The United Nations recommends that every child was protected from hazardous labor."
+            },
+            {
+              "label": "D",
+              "text": "The United Nations recommends that every child will protect from hazardous labor."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The United Nations recommends that every child be protected from hazardous labor.",
+          "explanation": "Verbs of recommendation and demand (recommend, demand, insist) take the subjunctive base form 'be protected'.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG104-MCQ-038",
+          "question": "'Amerigo wishes he ______ a warm family and a secure roof over his head.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "had"
+            },
+            {
+              "label": "B",
+              "text": "has"
+            },
+            {
+              "label": "C",
+              "text": "have"
+            },
+            {
+              "label": "D",
+              "text": "is having"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "had",
+          "explanation": "Unreal present wishes after 'wish' require the past subjunctive form ('had').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-039",
+          "question": "Transform into passive: 'The shopkeeper denied Amerigo his rightful wages.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Amerigo was denied his rightful wages by the shopkeeper."
+            },
+            {
+              "label": "B",
+              "text": "His rightful wages denied Amerigo by the shopkeeper."
+            },
+            {
+              "label": "C",
+              "text": "Amerigo had denied by the shopkeeper."
+            },
+            {
+              "label": "D",
+              "text": "The shopkeeper was denied by Amerigo."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Amerigo was denied his rightful wages by the shopkeeper.",
+          "explanation": "In passive transformation, the indirect object 'Amerigo' becomes the subject: 'Amerigo was denied his rightful wages by the shopkeeper.'",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-040",
+          "question": "'Neither poverty nor abandonment ______ crushed Amerigo's yearning for life.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "has"
+            },
+            {
+              "label": "B",
+              "text": "have"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "has",
+          "explanation": "Both subjects linked by 'neither... nor...' are singular ('poverty', 'abandonment'), so the singular verb 'has' is required.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "International Humanitarian Law and Refugees",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-041",
+          "question": "What is the official definition of a 'Refugee' under the 1951 Refugee Convention?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A person forced to flee their country owing to a well-founded fear of persecution based on race, religion, nationality, or political opinion"
+            },
+            {
+              "label": "B",
+              "text": "A person traveling abroad on holiday vacation"
+            },
+            {
+              "label": "C",
+              "text": "A student studying at a foreign university"
+            },
+            {
+              "label": "D",
+              "text": "A businessman visiting a foreign trade fair"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A person forced to flee their country owing to a well-founded fear of persecution based on race, religion, nationality, or political opinion",
+          "explanation": "The 1951 Geneva Convention defines refugees as individuals who cannot return home due to well-founded fear of violence or persecution.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-042",
+          "question": "Which United Nations agency is tasked with protecting and aiding displaced refugees worldwide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "UNHCR (United Nations High Commissioner for Refugees)"
+            },
+            {
+              "label": "B",
+              "text": "IMF (International Monetary Fund)"
+            },
+            {
+              "label": "C",
+              "text": "WTO (World Trade Organization)"
+            },
+            {
+              "label": "D",
+              "text": "FIFA"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "UNHCR (United Nations High Commissioner for Refugees)",
+          "explanation": "UNHCR is the global UN agency mandated to aid and protect refugees, forcibly displaced communities, and stateless people.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-043",
+          "question": "What is the crucial humanitarian principle of 'Non-Refoulement'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Host nations must not forcibly return refugees to a territory where they face serious threats to their life or freedom"
+            },
+            {
+              "label": "B",
+              "text": "Refugees must never learn the host nation's language"
+            },
+            {
+              "label": "C",
+              "text": "Refugees cannot be provided with food rations"
+            },
+            {
+              "label": "D",
+              "text": "Refugees must pay a tax to leave a camp"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Host nations must not forcibly return refugees to a territory where they face serious threats to their life or freedom",
+          "explanation": "The cornerstone principle of international refugee law prohibits expelling or returning refugees to countries where they would face danger or persecution.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-044",
+          "question": "Bangladesh set an extraordinary global humanitarian example in 2017 by doing what?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sheltering over a million displaced Rohingya refugees fleeing ethnic cleansing in Myanmar"
+            },
+            {
+              "label": "B",
+              "text": "Building a massive wall across all land borders"
+            },
+            {
+              "label": "C",
+              "text": "Banning international humanitarian aid agencies"
+            },
+            {
+              "label": "D",
+              "text": "Declaring war on neighboring nations"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Sheltering over a million displaced Rohingya refugees fleeing ethnic cleansing in Myanmar",
+          "explanation": "Bangladesh opened its borders to provide refuge and humanitarian shelter to over one million persecuted Rohingyas fleeing Myanmar.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-045",
+          "question": "What international body based at The Hague prosecutes individuals for genocide, crimes against humanity, and war crimes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "International Criminal Court (ICC)"
+            },
+            {
+              "label": "B",
+              "text": "Universal Postal Union"
+            },
+            {
+              "label": "C",
+              "text": "International Civil Aviation Organization"
+            },
+            {
+              "label": "D",
+              "text": "World Meteorological Organization"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "International Criminal Court (ICC)",
+          "explanation": "The ICC is the permanent international court established under the Rome Statute to prosecute individuals for grave international crimes.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Passage Comprehension and Humanistic Values",
+      "questions": [
+        {
+          "id": "ENG104-MCQ-046",
+          "question": "Amerigo states, 'I always want to go to sleep in my own bed at home.' What does this poignant line reveal?",
+          "options": [
+            {
+              "label": "A",
+              "text": "His deep, natural yearning for domestic security, parental warmth, and a home"
+            },
+            {
+              "label": "B",
+              "text": "That he owns a luxury bedroom in the city"
+            },
+            {
+              "label": "C",
+              "text": "That he is too lazy to work"
+            },
+            {
+              "label": "D",
+              "text": "That he dislikes walking"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "His deep, natural yearning for domestic security, parental warmth, and a home",
+          "explanation": "The line exposes the emotional wound of every displaced street child whose most basic childhood desire is the security and comfort of home.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG104-MCQ-047",
+          "question": "What is the moral significance of Nambi's quiet dignity in R.K. Narayan's story?",
+          "options": [
+            {
+              "label": "A",
+              "text": "He accepts the natural cycle of life with humility, refusing to fake a divine gift he no longer possesses"
+            },
+            {
+              "label": "B",
+              "text": "He tries to deceive the villagers to make money"
+            },
+            {
+              "label": "C",
+              "text": "He leaves his village out of shame"
+            },
+            {
+              "label": "D",
+              "text": "He blames his listeners for being impatient"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He accepts the natural cycle of life with humility, refusing to fake a divine gift he no longer possesses",
+          "explanation": "Nambi models ultimate spiritual integrity: when inspiration ceases, he honors silence rather than degrading his craft into hollow trickery.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG104-MCQ-048",
+          "question": "How does social conflict within a community damage economic and educational development?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It destroys trust, disrupts schools, causes physical devastation, and diverts scarce resources to warfare"
+            },
+            {
+              "label": "B",
+              "text": "It accelerates industrial productivity"
+            },
+            {
+              "label": "C",
+              "text": "It lowers the national cost of living"
+            },
+            {
+              "label": "D",
+              "text": "It doubles university enrollment"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It destroys trust, disrupts schools, causes physical devastation, and diverts scarce resources to warfare",
+          "explanation": "Armed strife and civil unrest destroy civic infrastructure, shutter educational institutions, and force budget diversions into destruction.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-049",
+          "question": "Which core value is essential for transforming hostile communities into peaceful societies?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mutual empathy, active listening, and restorative justice"
+            },
+            {
+              "label": "B",
+              "text": "Vindictive vengeance and retaliation"
+            },
+            {
+              "label": "C",
+              "text": "Total denial of historical wrongs"
+            },
+            {
+              "label": "D",
+              "text": "Forced exile of losing parties"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Mutual empathy, active listening, and restorative justice",
+          "explanation": "Lasting peace requires acknowledging past trauma, practicing empathy, and establishing fair, inclusive social systems.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG104-MCQ-050",
+          "question": "What does the phrase 'culture of peace' actively promote?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Values, attitudes, and behaviors based on non-violence, human rights, tolerance, and dialogue"
+            },
+            {
+              "label": "B",
+              "text": "Expansion of military arsenals"
+            },
+            {
+              "label": "C",
+              "text": "Censorship of literature"
+            },
+            {
+              "label": "D",
+              "text": "Isolation from neighboring nations"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Values, attitudes, and behaviors based on non-violence, human rights, tolerance, and dialogue",
+          "explanation": "The UN defines a culture of peace as a way of life anchored in non-violence, democratic participation, human rights, and global solidarity.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

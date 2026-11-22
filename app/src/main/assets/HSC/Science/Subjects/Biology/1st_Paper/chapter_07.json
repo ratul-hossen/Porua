@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 7,
+  "chapter_title": "Gymnosperms and Angiosperms",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH07_T01",
+      "topic_name": "Gymnosperm",
+      "mcqs": [
+        {
+          "id": "BIO1_CH07_Q01",
+          "question": "Which term is correctly described as: seed plant with ovules not enclosed in an ovary?",
+          "options": [
+            {
+              "label": "A",
+              "text": "angiosperm"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "monocot"
+            },
+            {
+              "label": "D",
+              "text": "pollination"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "gymnosperm",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q02",
+          "question": "The biological role or defining feature of gymnosperm is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "B",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "C",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "D",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "seed plant with ovules not enclosed in an ovary",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q03",
+          "question": "A student records the following clue: “seed plant with ovules not enclosed in an ovary.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollination"
+            },
+            {
+              "label": "B",
+              "text": "monocot"
+            },
+            {
+              "label": "C",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "gymnosperm",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q04",
+          "question": "Which option completes this statement correctly? gymnosperm is the term for seed plant with ovules not enclosed in an ovary.",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "double fertilisation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "gymnosperm",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q05",
+          "question": "If an examination asks for the term associated with “seed plant with ovules not enclosed in an ovary”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "monocot"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "gymnosperm",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q06",
+          "question": "Which structure, process or concept matches the description “seed plant with ovules not enclosed in an ovary”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollination"
+            },
+            {
+              "label": "B",
+              "text": "angiosperm"
+            },
+            {
+              "label": "C",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "gymnosperm",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q07",
+          "question": "Choose the accurate statement about gymnosperm.",
+          "options": [
+            {
+              "label": "A",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "B",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "D",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "seed plant with ovules not enclosed in an ovary",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q08",
+          "question": "A diagram or observation identifies gymnosperm. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "B",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "C",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "D",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "seed plant with ovules not enclosed in an ovary",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q09",
+          "question": "Which pairing is correct for gymnosperm?",
+          "options": [
+            {
+              "label": "A",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "D",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "seed plant with ovules not enclosed in an ovary",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        },
+        {
+          "id": "BIO1_CH07_Q10",
+          "question": "In a topic review, which answer best explains the clue “seed plant with ovules not enclosed in an ovary”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "pollination"
+            },
+            {
+              "label": "C",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "gymnosperm",
+          "explanation": "Its seeds are commonly borne exposed on cone scales."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH07_T02",
+      "topic_name": "Angiosperm",
+      "mcqs": [
+        {
+          "id": "BIO1_CH07_Q11",
+          "question": "Which term is correctly described as: flowering plant whose ovules are enclosed in an ovary?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollination"
+            },
+            {
+              "label": "B",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "C",
+              "text": "monocot"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "angiosperm",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q12",
+          "question": "The biological role or defining feature of angiosperm is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "B",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "C",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "D",
+              "text": "transfer of pollen from anther to stigma"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "flowering plant whose ovules are enclosed in an ovary",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q13",
+          "question": "A student records the following clue: “flowering plant whose ovules are enclosed in an ovary.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "angiosperm",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q14",
+          "question": "Which option completes this statement correctly? angiosperm is the term for flowering plant whose ovules are enclosed in an ovary.",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollination"
+            },
+            {
+              "label": "B",
+              "text": "monocot"
+            },
+            {
+              "label": "C",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "angiosperm",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q15",
+          "question": "If an examination asks for the term associated with “flowering plant whose ovules are enclosed in an ovary”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "angiosperm"
+            },
+            {
+              "label": "B",
+              "text": "monocot"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "angiosperm",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q16",
+          "question": "Which structure, process or concept matches the description “flowering plant whose ovules are enclosed in an ovary”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "angiosperm"
+            },
+            {
+              "label": "C",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "angiosperm",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q17",
+          "question": "Choose the accurate statement about angiosperm.",
+          "options": [
+            {
+              "label": "A",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "B",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "C",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm typically having one cotyledon"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "flowering plant whose ovules are enclosed in an ovary",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q18",
+          "question": "A diagram or observation identifies angiosperm. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "C",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm typically having one cotyledon"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "flowering plant whose ovules are enclosed in an ovary",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q19",
+          "question": "Which pairing is correct for angiosperm?",
+          "options": [
+            {
+              "label": "A",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "D",
+              "text": "transfer of pollen from anther to stigma"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "flowering plant whose ovules are enclosed in an ovary",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        },
+        {
+          "id": "BIO1_CH07_Q20",
+          "question": "In a topic review, which answer best explains the clue “flowering plant whose ovules are enclosed in an ovary”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm"
+            },
+            {
+              "label": "D",
+              "text": "pollination"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "angiosperm",
+          "explanation": "After development, seeds are enclosed within a fruit."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH07_T03",
+      "topic_name": "Double Fertilisation",
+      "mcqs": [
+        {
+          "id": "BIO1_CH07_Q21",
+          "question": "Which term is correctly described as: process producing a zygote and endosperm in angiosperms?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "B",
+              "text": "monocot"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "double fertilisation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "double fertilisation",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q22",
+          "question": "The biological role or defining feature of double fertilisation is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "D",
+              "text": "transfer of pollen from anther to stigma"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "process producing a zygote and endosperm in angiosperms",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q23",
+          "question": "A student records the following clue: “process producing a zygote and endosperm in angiosperms.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "B",
+              "text": "pollination"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm"
+            },
+            {
+              "label": "D",
+              "text": "double fertilisation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "double fertilisation",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q24",
+          "question": "Which option completes this statement correctly? double fertilisation is the term for process producing a zygote and endosperm in angiosperms.",
+          "options": [
+            {
+              "label": "A",
+              "text": "angiosperm"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "D",
+              "text": "pollination"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "double fertilisation",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q25",
+          "question": "If an examination asks for the term associated with “process producing a zygote and endosperm in angiosperms”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "double fertilisation",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q26",
+          "question": "Which structure, process or concept matches the description “process producing a zygote and endosperm in angiosperms”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "angiosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "double fertilisation",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q27",
+          "question": "Choose the accurate statement about double fertilisation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "C",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "D",
+              "text": "transfer of pollen from anther to stigma"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "process producing a zygote and endosperm in angiosperms",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q28",
+          "question": "A diagram or observation identifies double fertilisation. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "B",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm typically having one cotyledon"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "process producing a zygote and endosperm in angiosperms",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q29",
+          "question": "Which pairing is correct for double fertilisation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "B",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "D",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "process producing a zygote and endosperm in angiosperms",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        },
+        {
+          "id": "BIO1_CH07_Q30",
+          "question": "In a topic review, which answer best explains the clue “process producing a zygote and endosperm in angiosperms”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "double fertilisation",
+          "explanation": "One male gamete fuses with the egg and another with the polar nuclei."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH07_T04",
+      "topic_name": "Monocot",
+      "mcqs": [
+        {
+          "id": "BIO1_CH07_Q31",
+          "question": "Which term is correctly described as: angiosperm typically having one cotyledon?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollination"
+            },
+            {
+              "label": "B",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "C",
+              "text": "monocot"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "monocot",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q32",
+          "question": "The biological role or defining feature of monocot is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "D",
+              "text": "transfer of pollen from anther to stigma"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "angiosperm typically having one cotyledon",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q33",
+          "question": "A student records the following clue: “angiosperm typically having one cotyledon.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "pollination"
+            },
+            {
+              "label": "C",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "monocot",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q34",
+          "question": "Which option completes this statement correctly? monocot is the term for angiosperm typically having one cotyledon.",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "pollination"
+            },
+            {
+              "label": "C",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "D",
+              "text": "double fertilisation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "monocot",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q35",
+          "question": "If an examination asks for the term associated with “angiosperm typically having one cotyledon”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollination"
+            },
+            {
+              "label": "B",
+              "text": "monocot"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "monocot",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q36",
+          "question": "Which structure, process or concept matches the description “angiosperm typically having one cotyledon”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "monocot",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q37",
+          "question": "Choose the accurate statement about monocot.",
+          "options": [
+            {
+              "label": "A",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "C",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm typically having one cotyledon"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "angiosperm typically having one cotyledon",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q38",
+          "question": "A diagram or observation identifies monocot. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "D",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "angiosperm typically having one cotyledon",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q39",
+          "question": "Which pairing is correct for monocot?",
+          "options": [
+            {
+              "label": "A",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "B",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm typically having one cotyledon"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "angiosperm typically having one cotyledon",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        },
+        {
+          "id": "BIO1_CH07_Q40",
+          "question": "In a topic review, which answer best explains the clue “angiosperm typically having one cotyledon”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "double fertilisation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "monocot",
+          "explanation": "Parallel leaf venation is a common monocot feature."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH07_T05",
+      "topic_name": "Pollination",
+      "mcqs": [
+        {
+          "id": "BIO1_CH07_Q41",
+          "question": "Which term is correctly described as: transfer of pollen from anther to stigma?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pollination",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q42",
+          "question": "The biological role or defining feature of pollination is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            },
+            {
+              "label": "D",
+              "text": "transfer of pollen from anther to stigma"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "transfer of pollen from anther to stigma",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q43",
+          "question": "A student records the following clue: “transfer of pollen from anther to stigma.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "double fertilisation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pollination",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q44",
+          "question": "Which option completes this statement correctly? pollination is the term for transfer of pollen from anther to stigma.",
+          "options": [
+            {
+              "label": "A",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "angiosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pollination",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q45",
+          "question": "If an examination asks for the term associated with “transfer of pollen from anther to stigma”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monocot"
+            },
+            {
+              "label": "B",
+              "text": "gymnosperm"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pollination",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q46",
+          "question": "Which structure, process or concept matches the description “transfer of pollen from anther to stigma”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "monocot"
+            },
+            {
+              "label": "C",
+              "text": "pollination"
+            },
+            {
+              "label": "D",
+              "text": "gymnosperm"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pollination",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q47",
+          "question": "Choose the accurate statement about pollination.",
+          "options": [
+            {
+              "label": "A",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "B",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm typically having one cotyledon"
+            },
+            {
+              "label": "D",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "transfer of pollen from anther to stigma",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q48",
+          "question": "A diagram or observation identifies pollination. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "B",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "C",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "D",
+              "text": "angiosperm typically having one cotyledon"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "transfer of pollen from anther to stigma",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q49",
+          "question": "Which pairing is correct for pollination?",
+          "options": [
+            {
+              "label": "A",
+              "text": "transfer of pollen from anther to stigma"
+            },
+            {
+              "label": "B",
+              "text": "seed plant with ovules not enclosed in an ovary"
+            },
+            {
+              "label": "C",
+              "text": "flowering plant whose ovules are enclosed in an ovary"
+            },
+            {
+              "label": "D",
+              "text": "process producing a zygote and endosperm in angiosperms"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "transfer of pollen from anther to stigma",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        },
+        {
+          "id": "BIO1_CH07_Q50",
+          "question": "In a topic review, which answer best explains the clue “transfer of pollen from anther to stigma”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "double fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "monocot"
+            },
+            {
+              "label": "C",
+              "text": "angiosperm"
+            },
+            {
+              "label": "D",
+              "text": "pollination"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "pollination",
+          "explanation": "It precedes pollen-tube growth and fertilisation."
+        }
+      ]
+    }
+  ]
+}

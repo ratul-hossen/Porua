@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 2,
+  "chapter_title": "Cell Division",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH02_T01",
+      "topic_name": "S Phase",
+      "mcqs": [
+        {
+          "id": "BIO1_CH02_Q01",
+          "question": "Which term is correctly described as: stage of interphase when DNA is replicated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "S phase"
+            },
+            {
+              "label": "B",
+              "text": "crossing over"
+            },
+            {
+              "label": "C",
+              "text": "anaphase"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "S phase",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q02",
+          "question": "The biological role or defining feature of S phase is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "B",
+              "text": "stage of interphase when DNA is replicated"
+            },
+            {
+              "label": "C",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "D",
+              "text": "mitotic stage when sister chromatids move apart"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "stage of interphase when DNA is replicated",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q03",
+          "question": "A student records the following clue: “stage of interphase when DNA is replicated.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prophase I"
+            },
+            {
+              "label": "B",
+              "text": "crossing over"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "S phase"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "S phase",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q04",
+          "question": "Which option completes this statement correctly? S phase is the term for stage of interphase when DNA is replicated.",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "crossing over"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "S phase"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "S phase",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q05",
+          "question": "If an examination asks for the term associated with “stage of interphase when DNA is replicated”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "crossing over"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "prophase I"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "S phase",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q06",
+          "question": "Which structure, process or concept matches the description “stage of interphase when DNA is replicated”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "S phase"
+            },
+            {
+              "label": "B",
+              "text": "anaphase"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "crossing over"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "S phase",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q07",
+          "question": "Choose the accurate statement about S phase.",
+          "options": [
+            {
+              "label": "A",
+              "text": "stage of interphase when DNA is replicated"
+            },
+            {
+              "label": "B",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "C",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "D",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "stage of interphase when DNA is replicated",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q08",
+          "question": "A diagram or observation identifies S phase. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "B",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "D",
+              "text": "stage of interphase when DNA is replicated"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "stage of interphase when DNA is replicated",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q09",
+          "question": "Which pairing is correct for S phase?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stage of interphase when DNA is replicated"
+            },
+            {
+              "label": "B",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "C",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "D",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "stage of interphase when DNA is replicated",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        },
+        {
+          "id": "BIO1_CH02_Q10",
+          "question": "In a topic review, which answer best explains the clue “stage of interphase when DNA is replicated”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "crossing over"
+            },
+            {
+              "label": "C",
+              "text": "S phase"
+            },
+            {
+              "label": "D",
+              "text": "prophase I"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "S phase",
+          "explanation": "Replication ensures duplicated genetic material is available before division."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH02_T02",
+      "topic_name": "Metaphase",
+      "mcqs": [
+        {
+          "id": "BIO1_CH02_Q11",
+          "question": "Which term is correctly described as: mitotic stage when chromosomes align at the cell equator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "metaphase"
+            },
+            {
+              "label": "C",
+              "text": "S phase"
+            },
+            {
+              "label": "D",
+              "text": "crossing over"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "metaphase",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q12",
+          "question": "The biological role or defining feature of metaphase is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "B",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "D",
+              "text": "mitotic stage when sister chromatids move apart"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitotic stage when chromosomes align at the cell equator",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q13",
+          "question": "A student records the following clue: “mitotic stage when chromosomes align at the cell equator.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "crossing over"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "metaphase",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q14",
+          "question": "Which option completes this statement correctly? metaphase is the term for mitotic stage when chromosomes align at the cell equator.",
+          "options": [
+            {
+              "label": "A",
+              "text": "prophase I"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "crossing over"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "metaphase",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q15",
+          "question": "If an examination asks for the term associated with “mitotic stage when chromosomes align at the cell equator”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "metaphase"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "anaphase"
+            },
+            {
+              "label": "D",
+              "text": "crossing over"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "metaphase",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q16",
+          "question": "Which structure, process or concept matches the description “mitotic stage when chromosomes align at the cell equator”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "metaphase"
+            },
+            {
+              "label": "B",
+              "text": "prophase I"
+            },
+            {
+              "label": "C",
+              "text": "S phase"
+            },
+            {
+              "label": "D",
+              "text": "anaphase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "metaphase",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q17",
+          "question": "Choose the accurate statement about metaphase.",
+          "options": [
+            {
+              "label": "A",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "B",
+              "text": "stage of interphase when DNA is replicated"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "D",
+              "text": "mitotic stage when sister chromatids move apart"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitotic stage when chromosomes align at the cell equator",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q18",
+          "question": "A diagram or observation identifies metaphase. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "B",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "D",
+              "text": "mitotic stage when sister chromatids move apart"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitotic stage when chromosomes align at the cell equator",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q19",
+          "question": "Which pairing is correct for metaphase?",
+          "options": [
+            {
+              "label": "A",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "B",
+              "text": "stage of interphase when DNA is replicated"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "D",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitotic stage when chromosomes align at the cell equator",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        },
+        {
+          "id": "BIO1_CH02_Q20",
+          "question": "In a topic review, which answer best explains the clue “mitotic stage when chromosomes align at the cell equator”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "metaphase"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "anaphase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "metaphase",
+          "explanation": "The alignment prepares sister chromatids for separation."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH02_T03",
+      "topic_name": "Anaphase",
+      "mcqs": [
+        {
+          "id": "BIO1_CH02_Q21",
+          "question": "Which term is correctly described as: mitotic stage when sister chromatids move apart?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "crossing over"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "anaphase",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q22",
+          "question": "The biological role or defining feature of anaphase is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "B",
+              "text": "stage of interphase when DNA is replicated"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "D",
+              "text": "meiotic stage when homologous chromosomes pair"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitotic stage when sister chromatids move apart",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q23",
+          "question": "A student records the following clue: “mitotic stage when sister chromatids move apart.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "S phase"
+            },
+            {
+              "label": "B",
+              "text": "anaphase"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "anaphase",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q24",
+          "question": "Which option completes this statement correctly? anaphase is the term for mitotic stage when sister chromatids move apart.",
+          "options": [
+            {
+              "label": "A",
+              "text": "crossing over"
+            },
+            {
+              "label": "B",
+              "text": "anaphase"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "S phase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "anaphase",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q25",
+          "question": "If an examination asks for the term associated with “mitotic stage when sister chromatids move apart”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "prophase I"
+            },
+            {
+              "label": "C",
+              "text": "crossing over"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "anaphase",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q26",
+          "question": "Which structure, process or concept matches the description “mitotic stage when sister chromatids move apart”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prophase I"
+            },
+            {
+              "label": "B",
+              "text": "crossing over"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "anaphase"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "anaphase",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q27",
+          "question": "Choose the accurate statement about anaphase.",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "B",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "C",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "D",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "mitotic stage when sister chromatids move apart",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q28",
+          "question": "A diagram or observation identifies anaphase. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "B",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "D",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitotic stage when sister chromatids move apart",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q29",
+          "question": "Which pairing is correct for anaphase?",
+          "options": [
+            {
+              "label": "A",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "B",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "D",
+              "text": "stage of interphase when DNA is replicated"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitotic stage when sister chromatids move apart",
+          "explanation": "Separated chromatids move towards opposite poles."
+        },
+        {
+          "id": "BIO1_CH02_Q30",
+          "question": "In a topic review, which answer best explains the clue “mitotic stage when sister chromatids move apart”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "crossing over"
+            },
+            {
+              "label": "B",
+              "text": "anaphase"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "S phase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "anaphase",
+          "explanation": "Separated chromatids move towards opposite poles."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH02_T04",
+      "topic_name": "Prophase I",
+      "mcqs": [
+        {
+          "id": "BIO1_CH02_Q31",
+          "question": "Which term is correctly described as: meiotic stage when homologous chromosomes pair?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prophase I"
+            },
+            {
+              "label": "B",
+              "text": "anaphase"
+            },
+            {
+              "label": "C",
+              "text": "crossing over"
+            },
+            {
+              "label": "D",
+              "text": "S phase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "prophase I",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q32",
+          "question": "The biological role or defining feature of prophase I is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "B",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "D",
+              "text": "stage of interphase when DNA is replicated"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "meiotic stage when homologous chromosomes pair",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q33",
+          "question": "A student records the following clue: “meiotic stage when homologous chromosomes pair.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "metaphase"
+            },
+            {
+              "label": "B",
+              "text": "prophase I"
+            },
+            {
+              "label": "C",
+              "text": "anaphase"
+            },
+            {
+              "label": "D",
+              "text": "S phase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "prophase I",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q34",
+          "question": "Which option completes this statement correctly? prophase I is the term for meiotic stage when homologous chromosomes pair.",
+          "options": [
+            {
+              "label": "A",
+              "text": "crossing over"
+            },
+            {
+              "label": "B",
+              "text": "anaphase"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "S phase"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "prophase I",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q35",
+          "question": "If an examination asks for the term associated with “meiotic stage when homologous chromosomes pair”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prophase I"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "anaphase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "prophase I",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q36",
+          "question": "Which structure, process or concept matches the description “meiotic stage when homologous chromosomes pair”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "crossing over"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "prophase I"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "prophase I",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q37",
+          "question": "Choose the accurate statement about prophase I.",
+          "options": [
+            {
+              "label": "A",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "B",
+              "text": "stage of interphase when DNA is replicated"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "D",
+              "text": "meiotic stage when homologous chromosomes pair"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "meiotic stage when homologous chromosomes pair",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q38",
+          "question": "A diagram or observation identifies prophase I. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "B",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "D",
+              "text": "stage of interphase when DNA is replicated"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "meiotic stage when homologous chromosomes pair",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q39",
+          "question": "Which pairing is correct for prophase I?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "B",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "C",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "D",
+              "text": "stage of interphase when DNA is replicated"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "meiotic stage when homologous chromosomes pair",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        },
+        {
+          "id": "BIO1_CH02_Q40",
+          "question": "In a topic review, which answer best explains the clue “meiotic stage when homologous chromosomes pair”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "prophase I",
+          "explanation": "Pairing allows crossing over between non-sister chromatids."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH02_T05",
+      "topic_name": "Crossing Over",
+      "mcqs": [
+        {
+          "id": "BIO1_CH02_Q41",
+          "question": "Which term is correctly described as: exchange of DNA segments between non-sister chromatids?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prophase I"
+            },
+            {
+              "label": "B",
+              "text": "crossing over"
+            },
+            {
+              "label": "C",
+              "text": "S phase"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "crossing over",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q42",
+          "question": "The biological role or defining feature of crossing over is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "B",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "D",
+              "text": "meiotic stage when homologous chromosomes pair"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "exchange of DNA segments between non-sister chromatids",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q43",
+          "question": "A student records the following clue: “exchange of DNA segments between non-sister chromatids.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "prophase I"
+            },
+            {
+              "label": "B",
+              "text": "anaphase"
+            },
+            {
+              "label": "C",
+              "text": "S phase"
+            },
+            {
+              "label": "D",
+              "text": "crossing over"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "crossing over",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q44",
+          "question": "Which option completes this statement correctly? crossing over is the term for exchange of DNA segments between non-sister chromatids.",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "metaphase"
+            },
+            {
+              "label": "D",
+              "text": "crossing over"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "crossing over",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q45",
+          "question": "If an examination asks for the term associated with “exchange of DNA segments between non-sister chromatids”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "crossing over"
+            },
+            {
+              "label": "B",
+              "text": "metaphase"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "S phase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "crossing over",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q46",
+          "question": "Which structure, process or concept matches the description “exchange of DNA segments between non-sister chromatids”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "S phase"
+            },
+            {
+              "label": "B",
+              "text": "crossing over"
+            },
+            {
+              "label": "C",
+              "text": "prophase I"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "crossing over",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q47",
+          "question": "Choose the accurate statement about crossing over.",
+          "options": [
+            {
+              "label": "A",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "B",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "D",
+              "text": "stage of interphase when DNA is replicated"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "exchange of DNA segments between non-sister chromatids",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q48",
+          "question": "A diagram or observation identifies crossing over. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "B",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "C",
+              "text": "meiotic stage when homologous chromosomes pair"
+            },
+            {
+              "label": "D",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "exchange of DNA segments between non-sister chromatids",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q49",
+          "question": "Which pairing is correct for crossing over?",
+          "options": [
+            {
+              "label": "A",
+              "text": "exchange of DNA segments between non-sister chromatids"
+            },
+            {
+              "label": "B",
+              "text": "mitotic stage when chromosomes align at the cell equator"
+            },
+            {
+              "label": "C",
+              "text": "mitotic stage when sister chromatids move apart"
+            },
+            {
+              "label": "D",
+              "text": "meiotic stage when homologous chromosomes pair"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "exchange of DNA segments between non-sister chromatids",
+          "explanation": "It creates new combinations of alleles."
+        },
+        {
+          "id": "BIO1_CH02_Q50",
+          "question": "In a topic review, which answer best explains the clue “exchange of DNA segments between non-sister chromatids”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "anaphase"
+            },
+            {
+              "label": "B",
+              "text": "S phase"
+            },
+            {
+              "label": "C",
+              "text": "crossing over"
+            },
+            {
+              "label": "D",
+              "text": "metaphase"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "crossing over",
+          "explanation": "It creates new combinations of alleles."
+        }
+      ]
+    }
+  ]
+}

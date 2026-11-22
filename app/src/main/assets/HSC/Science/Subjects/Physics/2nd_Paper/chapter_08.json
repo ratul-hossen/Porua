@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 8,
+  "chapter_title": "Introduction to Modern Physics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Quantum theory",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ001",
+          "question": "Which statement best describes quantum theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass is quantized into photons"
+            },
+            {
+              "label": "B",
+              "text": "light has no energy"
+            },
+            {
+              "label": "C",
+              "text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta"
+            },
+            {
+              "label": "D",
+              "text": "energy is always continuous"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta",
+          "explanation": "Planck's relation is E = nhf for allowed oscillator energies.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ002",
+          "question": "Which option is correctly associated with quantum theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light has no energy"
+            },
+            {
+              "label": "B",
+              "text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta"
+            },
+            {
+              "label": "C",
+              "text": "mass is quantized into photons"
+            },
+            {
+              "label": "D",
+              "text": "energy is always continuous"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta",
+          "explanation": "Planck's relation is E = nhf for allowed oscillator energies.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ003",
+          "question": "In a basic HSC Physics question about quantum theory, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass is quantized into photons"
+            },
+            {
+              "label": "B",
+              "text": "energy is always continuous"
+            },
+            {
+              "label": "C",
+              "text": "light has no energy"
+            },
+            {
+              "label": "D",
+              "text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta",
+          "explanation": "Planck's relation is E = nhf for allowed oscillator energies.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ004",
+          "question": "Which fact should be remembered about quantum theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta"
+            },
+            {
+              "label": "B",
+              "text": "energy is always continuous"
+            },
+            {
+              "label": "C",
+              "text": "mass is quantized into photons"
+            },
+            {
+              "label": "D",
+              "text": "light has no energy"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta",
+          "explanation": "Planck's relation is E = nhf for allowed oscillator energies.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning quantum theory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light has no energy"
+            },
+            {
+              "label": "B",
+              "text": "mass is quantized into photons"
+            },
+            {
+              "label": "C",
+              "text": "energy is always continuous"
+            },
+            {
+              "label": "D",
+              "text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Planck proposed that energy exchange by an oscillator occurs in discrete quanta",
+          "explanation": "Planck's relation is E = nhf for allowed oscillator energies.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Photon energy",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ006",
+          "question": "Which statement best describes photon energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "h/f"
+            },
+            {
+              "label": "B",
+              "text": "Photon energy is E = hf"
+            },
+            {
+              "label": "C",
+              "text": "h + f"
+            },
+            {
+              "label": "D",
+              "text": "f/h"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Photon energy is E = hf",
+          "explanation": "Photon energy is proportional to frequency, with h as Planck's constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ007",
+          "question": "Which option is correctly associated with photon energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "h + f"
+            },
+            {
+              "label": "B",
+              "text": "f/h"
+            },
+            {
+              "label": "C",
+              "text": "h/f"
+            },
+            {
+              "label": "D",
+              "text": "Photon energy is E = hf"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Photon energy is E = hf",
+          "explanation": "Photon energy is proportional to frequency, with h as Planck's constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ008",
+          "question": "In a basic HSC Physics question about photon energy, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Photon energy is E = hf"
+            },
+            {
+              "label": "B",
+              "text": "f/h"
+            },
+            {
+              "label": "C",
+              "text": "h/f"
+            },
+            {
+              "label": "D",
+              "text": "h + f"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Photon energy is E = hf",
+          "explanation": "Photon energy is proportional to frequency, with h as Planck's constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ009",
+          "question": "Which fact should be remembered about photon energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "h + f"
+            },
+            {
+              "label": "B",
+              "text": "f/h"
+            },
+            {
+              "label": "C",
+              "text": "Photon energy is E = hf"
+            },
+            {
+              "label": "D",
+              "text": "h/f"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Photon energy is E = hf",
+          "explanation": "Photon energy is proportional to frequency, with h as Planck's constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning photon energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "h/f"
+            },
+            {
+              "label": "B",
+              "text": "Photon energy is E = hf"
+            },
+            {
+              "label": "C",
+              "text": "h + f"
+            },
+            {
+              "label": "D",
+              "text": "f/h"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Photon energy is E = hf",
+          "explanation": "Photon energy is proportional to frequency, with h as Planck's constant.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Photoelectric effect",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ011",
+          "question": "Which statement best describes photoelectric effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only the wave nature"
+            },
+            {
+              "label": "B",
+              "text": "The photoelectric effect supports the particle nature of light"
+            },
+            {
+              "label": "C",
+              "text": "the conservation of momentum alone"
+            },
+            {
+              "label": "D",
+              "text": "the existence of sound waves"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The photoelectric effect supports the particle nature of light",
+          "explanation": "Emission of electrons depends on photon energy and exhibits a threshold frequency.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ012",
+          "question": "Which option is correctly associated with photoelectric effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only the wave nature"
+            },
+            {
+              "label": "B",
+              "text": "the conservation of momentum alone"
+            },
+            {
+              "label": "C",
+              "text": "the existence of sound waves"
+            },
+            {
+              "label": "D",
+              "text": "The photoelectric effect supports the particle nature of light"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The photoelectric effect supports the particle nature of light",
+          "explanation": "Emission of electrons depends on photon energy and exhibits a threshold frequency.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ013",
+          "question": "In a basic HSC Physics question about photoelectric effect, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only the wave nature"
+            },
+            {
+              "label": "B",
+              "text": "the existence of sound waves"
+            },
+            {
+              "label": "C",
+              "text": "the conservation of momentum alone"
+            },
+            {
+              "label": "D",
+              "text": "The photoelectric effect supports the particle nature of light"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The photoelectric effect supports the particle nature of light",
+          "explanation": "Emission of electrons depends on photon energy and exhibits a threshold frequency.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ014",
+          "question": "Which fact should be remembered about photoelectric effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only the wave nature"
+            },
+            {
+              "label": "B",
+              "text": "the existence of sound waves"
+            },
+            {
+              "label": "C",
+              "text": "the conservation of momentum alone"
+            },
+            {
+              "label": "D",
+              "text": "The photoelectric effect supports the particle nature of light"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The photoelectric effect supports the particle nature of light",
+          "explanation": "Emission of electrons depends on photon energy and exhibits a threshold frequency.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning photoelectric effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The photoelectric effect supports the particle nature of light"
+            },
+            {
+              "label": "B",
+              "text": "the conservation of momentum alone"
+            },
+            {
+              "label": "C",
+              "text": "only the wave nature"
+            },
+            {
+              "label": "D",
+              "text": "the existence of sound waves"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The photoelectric effect supports the particle nature of light",
+          "explanation": "Emission of electrons depends on photon energy and exhibits a threshold frequency.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Work function",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ016",
+          "question": "Which statement best describes work function?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy of a proton"
+            },
+            {
+              "label": "B",
+              "text": "The work function is the minimum energy needed to remove an electron from a material surface"
+            },
+            {
+              "label": "C",
+              "text": "energy needed to melt the metal"
+            },
+            {
+              "label": "D",
+              "text": "maximum kinetic energy of an electron"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The work function is the minimum energy needed to remove an electron from a material surface",
+          "explanation": "The threshold photon energy equals the work function.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ017",
+          "question": "Which option is correctly associated with work function?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The work function is the minimum energy needed to remove an electron from a material surface"
+            },
+            {
+              "label": "B",
+              "text": "energy of a proton"
+            },
+            {
+              "label": "C",
+              "text": "maximum kinetic energy of an electron"
+            },
+            {
+              "label": "D",
+              "text": "energy needed to melt the metal"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The work function is the minimum energy needed to remove an electron from a material surface",
+          "explanation": "The threshold photon energy equals the work function.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ018",
+          "question": "In a basic HSC Physics question about work function, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy of a proton"
+            },
+            {
+              "label": "B",
+              "text": "The work function is the minimum energy needed to remove an electron from a material surface"
+            },
+            {
+              "label": "C",
+              "text": "maximum kinetic energy of an electron"
+            },
+            {
+              "label": "D",
+              "text": "energy needed to melt the metal"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The work function is the minimum energy needed to remove an electron from a material surface",
+          "explanation": "The threshold photon energy equals the work function.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ019",
+          "question": "Which fact should be remembered about work function?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The work function is the minimum energy needed to remove an electron from a material surface"
+            },
+            {
+              "label": "B",
+              "text": "energy of a proton"
+            },
+            {
+              "label": "C",
+              "text": "maximum kinetic energy of an electron"
+            },
+            {
+              "label": "D",
+              "text": "energy needed to melt the metal"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The work function is the minimum energy needed to remove an electron from a material surface",
+          "explanation": "The threshold photon energy equals the work function.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning work function?",
+          "options": [
+            {
+              "label": "A",
+              "text": "maximum kinetic energy of an electron"
+            },
+            {
+              "label": "B",
+              "text": "energy of a proton"
+            },
+            {
+              "label": "C",
+              "text": "The work function is the minimum energy needed to remove an electron from a material surface"
+            },
+            {
+              "label": "D",
+              "text": "energy needed to melt the metal"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The work function is the minimum energy needed to remove an electron from a material surface",
+          "explanation": "The threshold photon energy equals the work function.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Einstein photoelectric equation",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ021",
+          "question": "Which statement best describes einstein photoelectric equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The maximum photoelectron kinetic energy is Kmax = hf − φ"
+            },
+            {
+              "label": "B",
+              "text": "hf + φ"
+            },
+            {
+              "label": "C",
+              "text": "φ − hf for all emitted electrons"
+            },
+            {
+              "label": "D",
+              "text": "hφ/f"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The maximum photoelectron kinetic energy is Kmax = hf − φ",
+          "explanation": "Photon energy is divided between overcoming the work function and electron kinetic energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ022",
+          "question": "Which option is correctly associated with einstein photoelectric equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hf + φ"
+            },
+            {
+              "label": "B",
+              "text": "The maximum photoelectron kinetic energy is Kmax = hf − φ"
+            },
+            {
+              "label": "C",
+              "text": "hφ/f"
+            },
+            {
+              "label": "D",
+              "text": "φ − hf for all emitted electrons"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The maximum photoelectron kinetic energy is Kmax = hf − φ",
+          "explanation": "Photon energy is divided between overcoming the work function and electron kinetic energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ023",
+          "question": "In a basic HSC Physics question about einstein photoelectric equation, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hf + φ"
+            },
+            {
+              "label": "B",
+              "text": "The maximum photoelectron kinetic energy is Kmax = hf − φ"
+            },
+            {
+              "label": "C",
+              "text": "hφ/f"
+            },
+            {
+              "label": "D",
+              "text": "φ − hf for all emitted electrons"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The maximum photoelectron kinetic energy is Kmax = hf − φ",
+          "explanation": "Photon energy is divided between overcoming the work function and electron kinetic energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ024",
+          "question": "Which fact should be remembered about einstein photoelectric equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "φ − hf for all emitted electrons"
+            },
+            {
+              "label": "B",
+              "text": "hφ/f"
+            },
+            {
+              "label": "C",
+              "text": "The maximum photoelectron kinetic energy is Kmax = hf − φ"
+            },
+            {
+              "label": "D",
+              "text": "hf + φ"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The maximum photoelectron kinetic energy is Kmax = hf − φ",
+          "explanation": "Photon energy is divided between overcoming the work function and electron kinetic energy.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning einstein photoelectric equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The maximum photoelectron kinetic energy is Kmax = hf − φ"
+            },
+            {
+              "label": "B",
+              "text": "hf + φ"
+            },
+            {
+              "label": "C",
+              "text": "φ − hf for all emitted electrons"
+            },
+            {
+              "label": "D",
+              "text": "hφ/f"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The maximum photoelectron kinetic energy is Kmax = hf − φ",
+          "explanation": "Photon energy is divided between overcoming the work function and electron kinetic energy.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "de Broglie wavelength",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ026",
+          "question": "Which statement best describes de broglie wavelength?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hp"
+            },
+            {
+              "label": "B",
+              "text": "h/p²"
+            },
+            {
+              "label": "C",
+              "text": "The de Broglie wavelength is λ = h/p"
+            },
+            {
+              "label": "D",
+              "text": "p/h"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The de Broglie wavelength is λ = h/p",
+          "explanation": "Matter particles have an associated wavelength inversely proportional to momentum.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ027",
+          "question": "Which option is correctly associated with de broglie wavelength?",
+          "options": [
+            {
+              "label": "A",
+              "text": "p/h"
+            },
+            {
+              "label": "B",
+              "text": "hp"
+            },
+            {
+              "label": "C",
+              "text": "h/p²"
+            },
+            {
+              "label": "D",
+              "text": "The de Broglie wavelength is λ = h/p"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The de Broglie wavelength is λ = h/p",
+          "explanation": "Matter particles have an associated wavelength inversely proportional to momentum.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ028",
+          "question": "In a basic HSC Physics question about de broglie wavelength, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "h/p²"
+            },
+            {
+              "label": "B",
+              "text": "p/h"
+            },
+            {
+              "label": "C",
+              "text": "The de Broglie wavelength is λ = h/p"
+            },
+            {
+              "label": "D",
+              "text": "hp"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The de Broglie wavelength is λ = h/p",
+          "explanation": "Matter particles have an associated wavelength inversely proportional to momentum.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ029",
+          "question": "Which fact should be remembered about de broglie wavelength?",
+          "options": [
+            {
+              "label": "A",
+              "text": "h/p²"
+            },
+            {
+              "label": "B",
+              "text": "hp"
+            },
+            {
+              "label": "C",
+              "text": "p/h"
+            },
+            {
+              "label": "D",
+              "text": "The de Broglie wavelength is λ = h/p"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The de Broglie wavelength is λ = h/p",
+          "explanation": "Matter particles have an associated wavelength inversely proportional to momentum.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning de broglie wavelength?",
+          "options": [
+            {
+              "label": "A",
+              "text": "h/p²"
+            },
+            {
+              "label": "B",
+              "text": "hp"
+            },
+            {
+              "label": "C",
+              "text": "p/h"
+            },
+            {
+              "label": "D",
+              "text": "The de Broglie wavelength is λ = h/p"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The de Broglie wavelength is λ = h/p",
+          "explanation": "Matter particles have an associated wavelength inversely proportional to momentum.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Uncertainty principle",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ031",
+          "question": "Which statement best describes uncertainty principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "∆x/∆p ≥ ■"
+            },
+            {
+              "label": "B",
+              "text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2"
+            },
+            {
+              "label": "C",
+              "text": "∆x + ∆p = ■"
+            },
+            {
+              "label": "D",
+              "text": "∆x∆p = 0"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2",
+          "explanation": "The Heisenberg uncertainty principle limits simultaneous precision of conjugate variables.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ032",
+          "question": "Which option is correctly associated with uncertainty principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "∆x + ∆p = ■"
+            },
+            {
+              "label": "B",
+              "text": "∆x/∆p ≥ ■"
+            },
+            {
+              "label": "C",
+              "text": "∆x∆p = 0"
+            },
+            {
+              "label": "D",
+              "text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2",
+          "explanation": "The Heisenberg uncertainty principle limits simultaneous precision of conjugate variables.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ033",
+          "question": "In a basic HSC Physics question about uncertainty principle, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "∆x/∆p ≥ ■"
+            },
+            {
+              "label": "B",
+              "text": "∆x∆p = 0"
+            },
+            {
+              "label": "C",
+              "text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2"
+            },
+            {
+              "label": "D",
+              "text": "∆x + ∆p = ■"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2",
+          "explanation": "The Heisenberg uncertainty principle limits simultaneous precision of conjugate variables.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ034",
+          "question": "Which fact should be remembered about uncertainty principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "∆x + ∆p = ■"
+            },
+            {
+              "label": "B",
+              "text": "∆x/∆p ≥ ■"
+            },
+            {
+              "label": "C",
+              "text": "∆x∆p = 0"
+            },
+            {
+              "label": "D",
+              "text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2",
+          "explanation": "The Heisenberg uncertainty principle limits simultaneous precision of conjugate variables.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning uncertainty principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "∆x∆p = 0"
+            },
+            {
+              "label": "B",
+              "text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2"
+            },
+            {
+              "label": "C",
+              "text": "∆x + ∆p = ■"
+            },
+            {
+              "label": "D",
+              "text": "∆x/∆p ≥ ■"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The position-momentum uncertainty relation is ∆x ∆p ≥ ■/2",
+          "explanation": "The Heisenberg uncertainty principle limits simultaneous precision of conjugate variables.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Special relativity",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ036",
+          "question": "Which statement best describes special relativity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The speed of light in vacuum is the same for all inertial observers"
+            },
+            {
+              "label": "B",
+              "text": "it is infinite"
+            },
+            {
+              "label": "C",
+              "text": "it depends on source speed"
+            },
+            {
+              "label": "D",
+              "text": "it is zero for moving observers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The speed of light in vacuum is the same for all inertial observers",
+          "explanation": "The invariance of c is a postulate of special relativity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ037",
+          "question": "Which option is correctly associated with special relativity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "it is infinite"
+            },
+            {
+              "label": "B",
+              "text": "it depends on source speed"
+            },
+            {
+              "label": "C",
+              "text": "The speed of light in vacuum is the same for all inertial observers"
+            },
+            {
+              "label": "D",
+              "text": "it is zero for moving observers"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The speed of light in vacuum is the same for all inertial observers",
+          "explanation": "The invariance of c is a postulate of special relativity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ038",
+          "question": "In a basic HSC Physics question about special relativity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The speed of light in vacuum is the same for all inertial observers"
+            },
+            {
+              "label": "B",
+              "text": "it depends on source speed"
+            },
+            {
+              "label": "C",
+              "text": "it is infinite"
+            },
+            {
+              "label": "D",
+              "text": "it is zero for moving observers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The speed of light in vacuum is the same for all inertial observers",
+          "explanation": "The invariance of c is a postulate of special relativity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ039",
+          "question": "Which fact should be remembered about special relativity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "it is infinite"
+            },
+            {
+              "label": "B",
+              "text": "The speed of light in vacuum is the same for all inertial observers"
+            },
+            {
+              "label": "C",
+              "text": "it depends on source speed"
+            },
+            {
+              "label": "D",
+              "text": "it is zero for moving observers"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The speed of light in vacuum is the same for all inertial observers",
+          "explanation": "The invariance of c is a postulate of special relativity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning special relativity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "it is infinite"
+            },
+            {
+              "label": "B",
+              "text": "it depends on source speed"
+            },
+            {
+              "label": "C",
+              "text": "it is zero for moving observers"
+            },
+            {
+              "label": "D",
+              "text": "The speed of light in vacuum is the same for all inertial observers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The speed of light in vacuum is the same for all inertial observers",
+          "explanation": "The invariance of c is a postulate of special relativity.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Mass-energy equivalence",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ041",
+          "question": "Which statement best describes mass-energy equivalence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = m/c²"
+            },
+            {
+              "label": "B",
+              "text": "E = mv"
+            },
+            {
+              "label": "C",
+              "text": "Einstein's mass-energy relation is E = mc²"
+            },
+            {
+              "label": "D",
+              "text": "E = mc"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Einstein's mass-energy relation is E = mc²",
+          "explanation": "Mass corresponds to rest energy through the square of the speed of light.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ042",
+          "question": "Which option is correctly associated with mass-energy equivalence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = m/c²"
+            },
+            {
+              "label": "B",
+              "text": "E = mv"
+            },
+            {
+              "label": "C",
+              "text": "E = mc"
+            },
+            {
+              "label": "D",
+              "text": "Einstein's mass-energy relation is E = mc²"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Einstein's mass-energy relation is E = mc²",
+          "explanation": "Mass corresponds to rest energy through the square of the speed of light.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ043",
+          "question": "In a basic HSC Physics question about mass-energy equivalence, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = m/c²"
+            },
+            {
+              "label": "B",
+              "text": "E = mc"
+            },
+            {
+              "label": "C",
+              "text": "Einstein's mass-energy relation is E = mc²"
+            },
+            {
+              "label": "D",
+              "text": "E = mv"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Einstein's mass-energy relation is E = mc²",
+          "explanation": "Mass corresponds to rest energy through the square of the speed of light.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ044",
+          "question": "Which fact should be remembered about mass-energy equivalence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = mv"
+            },
+            {
+              "label": "B",
+              "text": "E = mc"
+            },
+            {
+              "label": "C",
+              "text": "Einstein's mass-energy relation is E = mc²"
+            },
+            {
+              "label": "D",
+              "text": "E = m/c²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Einstein's mass-energy relation is E = mc²",
+          "explanation": "Mass corresponds to rest energy through the square of the speed of light.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning mass-energy equivalence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = mc"
+            },
+            {
+              "label": "B",
+              "text": "E = m/c²"
+            },
+            {
+              "label": "C",
+              "text": "Einstein's mass-energy relation is E = mc²"
+            },
+            {
+              "label": "D",
+              "text": "E = mv"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Einstein's mass-energy relation is E = mc²",
+          "explanation": "Mass corresponds to rest energy through the square of the speed of light.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Time dilation",
+      "questions": [
+        {
+          "id": "PHY_2P_CH08_MCQ046",
+          "question": "Which statement best describes time dilation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "faster in all frames"
+            },
+            {
+              "label": "B",
+              "text": "A moving clock is measured to run slower relative to an inertial observer"
+            },
+            {
+              "label": "C",
+              "text": "with no relation to relative speed"
+            },
+            {
+              "label": "D",
+              "text": "at infinite rate"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A moving clock is measured to run slower relative to an inertial observer",
+          "explanation": "Time dilation is a consequence of Lorentz transformations.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ047",
+          "question": "Which option is correctly associated with time dilation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "at infinite rate"
+            },
+            {
+              "label": "B",
+              "text": "with no relation to relative speed"
+            },
+            {
+              "label": "C",
+              "text": "faster in all frames"
+            },
+            {
+              "label": "D",
+              "text": "A moving clock is measured to run slower relative to an inertial observer"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A moving clock is measured to run slower relative to an inertial observer",
+          "explanation": "Time dilation is a consequence of Lorentz transformations.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ048",
+          "question": "In a basic HSC Physics question about time dilation, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A moving clock is measured to run slower relative to an inertial observer"
+            },
+            {
+              "label": "B",
+              "text": "with no relation to relative speed"
+            },
+            {
+              "label": "C",
+              "text": "faster in all frames"
+            },
+            {
+              "label": "D",
+              "text": "at infinite rate"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A moving clock is measured to run slower relative to an inertial observer",
+          "explanation": "Time dilation is a consequence of Lorentz transformations.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ049",
+          "question": "Which fact should be remembered about time dilation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "with no relation to relative speed"
+            },
+            {
+              "label": "B",
+              "text": "at infinite rate"
+            },
+            {
+              "label": "C",
+              "text": "faster in all frames"
+            },
+            {
+              "label": "D",
+              "text": "A moving clock is measured to run slower relative to an inertial observer"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A moving clock is measured to run slower relative to an inertial observer",
+          "explanation": "Time dilation is a consequence of Lorentz transformations.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH08_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning time dilation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "faster in all frames"
+            },
+            {
+              "label": "B",
+              "text": "at infinite rate"
+            },
+            {
+              "label": "C",
+              "text": "A moving clock is measured to run slower relative to an inertial observer"
+            },
+            {
+              "label": "D",
+              "text": "with no relation to relative speed"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A moving clock is measured to run slower relative to an inertial observer",
+          "explanation": "Time dilation is a consequence of Lorentz transformations.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

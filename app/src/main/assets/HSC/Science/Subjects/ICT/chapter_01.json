@@ -1,0 +1,1358 @@
+{
+  "paper": "Compulsory",
+  "chapter_number": 1,
+  "chapter_title": "Information and Communication Technology: World and Bangladesh Perspective",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Global Village Concepts and Elements",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-001",
+          "question": "Who is considered the pioneer of the 'Global Village' concept?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Tim Berners-Lee"
+            },
+            {
+              "label": "B",
+              "text": "Marshall McLuhan"
+            },
+            {
+              "label": "C",
+              "text": "Charles Babbage"
+            },
+            {
+              "label": "D",
+              "text": "Alan Turing"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Marshall McLuhan",
+          "explanation": "Canadian philosopher Marshall McLuhan introduced the concept of the 'Global Village' in his books 'The Gutenberg Galaxy' (1962) and 'Understanding Media' (1964).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-002",
+          "question": "Which of the following is the fundamental backbone for establishing a Global Village?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Television broadcasting"
+            },
+            {
+              "label": "B",
+              "text": "Telecommunication and internet connectivity"
+            },
+            {
+              "label": "C",
+              "text": "Postal mail system"
+            },
+            {
+              "label": "D",
+              "text": "Print journalism"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Telecommunication and internet connectivity",
+          "explanation": "Internet connectivity and telecommunication infrastructure provide the real-time global connectivity necessary to link people worldwide into a single interconnected community.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-003",
+          "question": "Which component is NOT one of the primary elements of the Global Village?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hardware"
+            },
+            {
+              "label": "B",
+              "text": "Network connectivity"
+            },
+            {
+              "label": "C",
+              "text": "Mechanical fossil fuel engines"
+            },
+            {
+              "label": "D",
+              "text": "Human capacity and awareness"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Mechanical fossil fuel engines",
+          "explanation": "The core elements of a Global Village are hardware, software, network connectivity, data/information, and human capacity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-004",
+          "question": "How has the Global Village concept most directly transformed employment opportunities?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By mandating physical relocation to industrial cities"
+            },
+            {
+              "label": "B",
+              "text": "By enabling remote freelancing and global outsourcing"
+            },
+            {
+              "label": "C",
+              "text": "By eliminating electronic communication in commerce"
+            },
+            {
+              "label": "D",
+              "text": "By restricting job applications to domestic companies"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "By enabling remote freelancing and global outsourcing",
+          "explanation": "The Global Village allows skilled professionals to work remotely for employers across the globe through online freelancing and outsourcing platforms.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-005",
+          "question": "Which service delivers medical diagnosis and treatment consultation to patients in remote areas using telecommunications?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Telemedicine"
+            },
+            {
+              "label": "B",
+              "text": "Cryosurgery"
+            },
+            {
+              "label": "C",
+              "text": "E-governance"
+            },
+            {
+              "label": "D",
+              "text": "Bioinformatics"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Telemedicine",
+          "explanation": "Telemedicine uses telecommunication technology and ICT devices to provide healthcare services and clinical advice across physical distances.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Virtual Reality and Augmented Reality",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-006",
+          "question": "Which hardware device is essential for experiencing an immersive 3D visual environment in Virtual Reality?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dot matrix printer"
+            },
+            {
+              "label": "B",
+              "text": "Head-Mounted Display (HMD)"
+            },
+            {
+              "label": "C",
+              "text": "Flatbed scanner"
+            },
+            {
+              "label": "D",
+              "text": "Barcode reader"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Head-Mounted Display (HMD)",
+          "explanation": "A Head-Mounted Display (HMD) provides stereo screens in front of the eyes to create a realistic three-dimensional simulated environment for Virtual Reality.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-007",
+          "question": "What is the primary role of sensory data gloves in Virtual Reality systems?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To capture hand gestures and provide tactile feedback"
+            },
+            {
+              "label": "B",
+              "text": "To protect hands from electrical voltage"
+            },
+            {
+              "label": "C",
+              "text": "To measure atmospheric temperature"
+            },
+            {
+              "label": "D",
+              "text": "To replace internal computer RAM"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To capture hand gestures and provide tactile feedback",
+          "explanation": "Sensory data gloves track hand and finger movements and provide haptic or tactile feedback so users can manipulate virtual objects.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-008",
+          "question": "In military and aerospace training, what is the main advantage of using VR flight simulators?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It completely replaces the need for actual aircraft maintenance"
+            },
+            {
+              "label": "B",
+              "text": "It offers risk-free training for dangerous flight maneuvers"
+            },
+            {
+              "label": "C",
+              "text": "It operates without consuming electricity"
+            },
+            {
+              "label": "D",
+              "text": "It permanently eliminates physical gravity"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "It offers risk-free training for dangerous flight maneuvers",
+          "explanation": "Flight simulators allow pilot trainees to practice critical emergency responses and complex maneuvers without risking life, aircraft, or fuel.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-009",
+          "question": "How does Augmented Reality (AR) fundamentally differ from Virtual Reality (VR)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AR replaces the real world entirely, while VR does not"
+            },
+            {
+              "label": "B",
+              "text": "AR overlays digital computer graphics onto the real environment"
+            },
+            {
+              "label": "C",
+              "text": "AR does not use any digital technology"
+            },
+            {
+              "label": "D",
+              "text": "VR can only be accessed using audio headphones"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "AR overlays digital computer graphics onto the real environment",
+          "explanation": "Augmented Reality enhances the user's perception of reality by superimposing digital imagery and data onto the physical world, whereas VR immerses the user in an entirely artificial world.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-010",
+          "question": "Which of the following is a potential negative side effect of prolonged Virtual Reality usage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cyber sickness and disorientation"
+            },
+            {
+              "label": "B",
+              "text": "Permanent computer hardware burnout"
+            },
+            {
+              "label": "C",
+              "text": "Loss of wireless Wi-Fi bandwidth"
+            },
+            {
+              "label": "D",
+              "text": "Deactivation of computer operating systems"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cyber sickness and disorientation",
+          "explanation": "Extensive immersion in VR can cause simulator sickness (cyber sickness), dizziness, eye strain, and disorientation due to sensory mismatch.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Artificial Intelligence and Expert Systems",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-011",
+          "question": "Who first coined the term 'Artificial Intelligence' at the Dartmouth Conference in 1956?",
+          "options": [
+            {
+              "label": "A",
+              "text": "John McCarthy"
+            },
+            {
+              "label": "B",
+              "text": "Marvin Minsky"
+            },
+            {
+              "label": "C",
+              "text": "Claude Shannon"
+            },
+            {
+              "label": "D",
+              "text": "Norbert Wiener"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "John McCarthy",
+          "explanation": "John McCarthy proposed the term 'Artificial Intelligence' in 1956 at the Dartmouth Summer Research Project on Artificial Intelligence.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-012",
+          "question": "Which two core components constitute an Expert System in Artificial Intelligence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Monitor and keyboard driver"
+            },
+            {
+              "label": "B",
+              "text": "Knowledge base and inference engine"
+            },
+            {
+              "label": "C",
+              "text": "Hard disk and optical drive"
+            },
+            {
+              "label": "D",
+              "text": "Sound card and graphics buffer"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Knowledge base and inference engine",
+          "explanation": "An expert system consists of a knowledge base (domain facts and rules) and an inference engine (logical processing rules to deduce answers).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-013",
+          "question": "Which programming language was historically developed specifically for Artificial Intelligence research?",
+          "options": [
+            {
+              "label": "A",
+              "text": "COBOL"
+            },
+            {
+              "label": "B",
+              "text": "LISP"
+            },
+            {
+              "label": "C",
+              "text": "FORTRAN"
+            },
+            {
+              "label": "D",
+              "text": "BASIC"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "LISP",
+          "explanation": "LISP (List Processing), created by John McCarthy, became the pioneering and widely adopted programming language for AI and symbolic computation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-014",
+          "question": "What is the primary objective of the famous 'Turing Test'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To determine whether a machine can exhibit human-equivalent intelligent behavior"
+            },
+            {
+              "label": "B",
+              "text": "To calculate the clock speed of a microprocessor"
+            },
+            {
+              "label": "C",
+              "text": "To evaluate the storage density of semiconductor memory"
+            },
+            {
+              "label": "D",
+              "text": "To detect computer hardware manufacturing defects"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To determine whether a machine can exhibit human-equivalent intelligent behavior",
+          "explanation": "Devised by Alan Turing in 1950, the Turing Test evaluates whether an artificial system can generate natural language responses indistinguishable from a human.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT01-MCQ-015",
+          "question": "Which technology enables computers to understand, interpret, and manipulate human languages?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Computer Vision"
+            },
+            {
+              "label": "B",
+              "text": "Natural Language Processing (NLP)"
+            },
+            {
+              "label": "C",
+              "text": "Finite State Automation"
+            },
+            {
+              "label": "D",
+              "text": "Pulse Code Modulation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Natural Language Processing (NLP)",
+          "explanation": "Natural Language Processing (NLP) is a branch of AI that gives machines the ability to read, understand, and derive meaning from human languages.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Robotics and Automation",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-016",
+          "question": "Who coined the word 'Robotics' and formulated the famous Three Laws of Robotics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Isaac Asimov"
+            },
+            {
+              "label": "B",
+              "text": "Karel Capek"
+            },
+            {
+              "label": "C",
+              "text": "Arthur C. Clarke"
+            },
+            {
+              "label": "D",
+              "text": "H.G. Wells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Isaac Asimov",
+          "explanation": "Isaac Asimov introduced the term 'Robotics' in his science fiction stories and formulated the Three Laws of Robotics in 1942.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-017",
+          "question": "What is the function of an actuator in a robotic system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To convert energy into physical motion or movement"
+            },
+            {
+              "label": "B",
+              "text": "To provide wireless internet connection"
+            },
+            {
+              "label": "C",
+              "text": "To store long-term archival data"
+            },
+            {
+              "label": "D",
+              "text": "To display status messages on an LCD"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To convert energy into physical motion or movement",
+          "explanation": "Actuators act like the muscles of a robot, converting electrical, pneumatic, or hydraulic energy into mechanical motion.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-018",
+          "question": "The tool or gripper attached to the end of a robotic manipulator arm is called the:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Microcontroller"
+            },
+            {
+              "label": "B",
+              "text": "End-effector"
+            },
+            {
+              "label": "C",
+              "text": "Harmonic drive"
+            },
+            {
+              "label": "D",
+              "text": "Tachometer"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "End-effector",
+          "explanation": "An end-effector is the peripheral device at the tip of a robotic arm that interacts with the work environment, such as a welding torch or gripper.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-019",
+          "question": "Which industrial sector relies most heavily on automated robotic arms for precision spot welding and painting?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Automotive manufacturing"
+            },
+            {
+              "label": "B",
+              "text": "Textile spinning mills"
+            },
+            {
+              "label": "C",
+              "text": "Ceramic pottery shaping"
+            },
+            {
+              "label": "D",
+              "text": "Agriculture manual harvesting"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Automotive manufacturing",
+          "explanation": "Automotive assembly lines utilize industrial robots for high-precision repetitive tasks like welding, spray painting, and heavy component placement.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-020",
+          "question": "Which robotic sensor is commonly used to measure distance and detect obstacles via sound waves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ultrasonic sensor"
+            },
+            {
+              "label": "B",
+              "text": "Strain gauge"
+            },
+            {
+              "label": "C",
+              "text": "Phototransistor"
+            },
+            {
+              "label": "D",
+              "text": "Thermocouple"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Ultrasonic sensor",
+          "explanation": "Ultrasonic sensors emit high-frequency sound waves and calculate the time taken for the echo to return to measure distance to an obstacle.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cryosurgery",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-021",
+          "question": "What is the fundamental working principle of cryosurgery?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Destroying abnormal tissue by applying extreme localized cold"
+            },
+            {
+              "label": "B",
+              "text": "Burning abnormal tissue using high-frequency ultrasound waves"
+            },
+            {
+              "label": "C",
+              "text": "Removing tumors through mechanical laser cutting only"
+            },
+            {
+              "label": "D",
+              "text": "Disintegrating kidney stones through electromagnetic shockwaves"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Destroying abnormal tissue by applying extreme localized cold",
+          "explanation": "Cryosurgery uses freezing temperatures to freeze and destroy diseased or abnormal cellular tissue while preserving adjacent healthy tissue.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-022",
+          "question": "Which substance is most commonly used as a cryogen in cryosurgical procedures?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Liquid nitrogen"
+            },
+            {
+              "label": "B",
+              "text": "Liquid oxygen"
+            },
+            {
+              "label": "C",
+              "text": "Carbon monoxide gas"
+            },
+            {
+              "label": "D",
+              "text": "Sulfuric acid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Liquid nitrogen",
+          "explanation": "Liquid nitrogen, which boils at -196 °C (-320 °F), is the most widely utilized cryogenic agent for freezing abnormal cellular structures.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-023",
+          "question": "The hollow needle-like instrument through which freezing agents are circulated in cryosurgery is called a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cryoprobe"
+            },
+            {
+              "label": "B",
+              "text": "Stethoscope"
+            },
+            {
+              "label": "C",
+              "text": "Microtome"
+            },
+            {
+              "label": "D",
+              "text": "Centrifuge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cryoprobe",
+          "explanation": "A cryoprobe is an insulated surgical probe through which liquid nitrogen or argon gas is delivered directly into the targeted tumor.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-024",
+          "question": "Which cooling gas is paired with helium gas in modern cryosurgery systems for controlled freezing and thawing cycles?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Argon"
+            },
+            {
+              "label": "B",
+              "text": "Methane"
+            },
+            {
+              "label": "C",
+              "text": "Chlorine"
+            },
+            {
+              "label": "D",
+              "text": "Hydrogen"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Argon",
+          "explanation": "Modern cryosurgery systems often use high-pressure argon gas for rapid freezing to -186 °C and helium gas for controlled warming and thawing.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT01-MCQ-025",
+          "question": "Which of the following is a key clinical advantage of cryosurgery over traditional open surgery?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Minimal blood loss and faster postoperative recovery"
+            },
+            {
+              "label": "B",
+              "text": "Complete absence of any imaging guidance"
+            },
+            {
+              "label": "C",
+              "text": "Requirement of extensive hospitalization"
+            },
+            {
+              "label": "D",
+              "text": "Ability to operate without patient consent"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Minimal blood loss and faster postoperative recovery",
+          "explanation": "Cryosurgery is minimally invasive, causes little bleeding, reduces pain, and requires a significantly shorter recovery period than traditional open surgery.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Biometrics Systems",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-026",
+          "question": "Which of the following is categorized under behavioral biometrics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fingerprint scanning"
+            },
+            {
+              "label": "B",
+              "text": "Voice recognition"
+            },
+            {
+              "label": "C",
+              "text": "Retina scanning"
+            },
+            {
+              "label": "D",
+              "text": "Iris scanning"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Voice recognition",
+          "explanation": "Voice recognition, keystroke dynamics, and signature verification are behavioral biometric characteristics, whereas fingerprints and iris patterns are physiological.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-027",
+          "question": "Which biometric technique evaluates the unique patterns of blood vessels located at the back of the human eye?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Retina scan"
+            },
+            {
+              "label": "B",
+              "text": "Iris scan"
+            },
+            {
+              "label": "C",
+              "text": "Cornea topography"
+            },
+            {
+              "label": "D",
+              "text": "Facial thermography"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Retina scan",
+          "explanation": "Retina scanning maps the unique capillary blood vessel pattern at the back of the eye, offering extremely high security.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-028",
+          "question": "Which physiological biometric feature is most widely used for national electronic ID cards (NID) and mobile SIM registration in Bangladesh?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fingerprint recognition"
+            },
+            {
+              "label": "B",
+              "text": "Gait analysis"
+            },
+            {
+              "label": "C",
+              "text": "Thermal hand geometry"
+            },
+            {
+              "label": "D",
+              "text": "Electroencephalogram (EEG)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Fingerprint recognition",
+          "explanation": "Fingerprint verification is cost-effective, fast, and universally deployed in Bangladesh for National ID card verification and biometric SIM card registration.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-029",
+          "question": "What is the primary advantage of Iris recognition over Fingerprint recognition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Iris patterns remain stable and unaffected by physical aging or manual wear"
+            },
+            {
+              "label": "B",
+              "text": "Iris scanning requires physical touch contact with the sensor lens"
+            },
+            {
+              "label": "C",
+              "text": "Iris recognition operates without using any digital cameras"
+            },
+            {
+              "label": "D",
+              "text": "Iris scanning can be spoofed easily with printed paper photos"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Iris patterns remain stable and unaffected by physical aging or manual wear",
+          "explanation": "The human iris is internal and protected by the cornea, keeping its intricate texture stable throughout life without suffering wear like fingerprints.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT01-MCQ-030",
+          "question": "Measuring the rhythm, typing speed, and dwell time of a person typing on a keyboard is known as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Keystroke dynamics"
+            },
+            {
+              "label": "B",
+              "text": "Facial geometry"
+            },
+            {
+              "label": "C",
+              "text": "Acoustic fingerprinting"
+            },
+            {
+              "label": "D",
+              "text": "Hand silhouette analysis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Keystroke dynamics",
+          "explanation": "Keystroke dynamics analyzes the habitual timing and rhythm with which an individual types characters on a keyboard as a behavioral biometric.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Bioinformatics and Genetic Engineering",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-031",
+          "question": "What is the primary definition of Bioinformatics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Application of computer science and statistics to analyze complex biological data"
+            },
+            {
+              "label": "B",
+              "text": "Production of electronic circuit boards using biological enzymes"
+            },
+            {
+              "label": "C",
+              "text": "Cultivation of agricultural crops inside computer server rooms"
+            },
+            {
+              "label": "D",
+              "text": "Manual chemical titration of laboratory organic samples"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Application of computer science and statistics to analyze complex biological data",
+          "explanation": "Bioinformatics combines computer science, mathematics, and molecular biology to manage, interpret, and model biological databases like DNA and protein sequences.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-032",
+          "question": "Which enzyme acts as 'molecular scissors' to cut DNA at specific nucleotide sequences in Genetic Engineering?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "B",
+              "text": "Restriction endonuclease"
+            },
+            {
+              "label": "C",
+              "text": "DNA polymerase"
+            },
+            {
+              "label": "D",
+              "text": "Amylase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Restriction endonuclease",
+          "explanation": "Restriction endonucleases cleave DNA molecules at specific palindromic recognition sites, functioning as molecular scissors in recombinant DNA technology.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-033",
+          "question": "What is the main function of the enzyme DNA Ligase in recombinant DNA technology?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To join two DNA fragments by forming phosphodiester bonds"
+            },
+            {
+              "label": "B",
+              "text": "To transcribe RNA back into complementary DNA"
+            },
+            {
+              "label": "C",
+              "text": "To split plasmid circular rings into pieces"
+            },
+            {
+              "label": "D",
+              "text": "To dissolve the nuclear membrane of host cells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To join two DNA fragments by forming phosphodiester bonds",
+          "explanation": "DNA ligase acts as molecular glue, joining cut ends of DNA strands together during the creation of recombinant DNA plasmids.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-034",
+          "question": "Small circular double-stranded DNA molecules in bacteria used as gene transfer vehicles are called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plasmids"
+            },
+            {
+              "label": "B",
+              "text": "Ribosomes"
+            },
+            {
+              "label": "C",
+              "text": "Centrosomes"
+            },
+            {
+              "label": "D",
+              "text": "Lysosomes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Plasmids",
+          "explanation": "Bacterial plasmids are extrachromosomal circular DNA elements widely utilized as cloning vectors to carry foreign genes into host organisms.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-035",
+          "question": "Which of the following is a major practical achievement of Genetic Engineering in medicine?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Commercial production of recombinant human insulin using E. coli bacteria"
+            },
+            {
+              "label": "B",
+              "text": "Elimination of computer motherboard silicon shortages"
+            },
+            {
+              "label": "C",
+              "text": "Invention of optical storage compact discs"
+            },
+            {
+              "label": "D",
+              "text": "Replacement of wireless radio spectrum with enzymes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Commercial production of recombinant human insulin using E. coli bacteria",
+          "explanation": "Recombinant DNA technology allows engineered bacteria to mass-produce human insulin (Humulin), transforming diabetes management worldwide.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Nanotechnology",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-036",
+          "question": "One nanometer is equal to what fraction of a meter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10^-6 meter"
+            },
+            {
+              "label": "B",
+              "text": "10^-9 meter"
+            },
+            {
+              "label": "C",
+              "text": "10^-12 meter"
+            },
+            {
+              "label": "D",
+              "text": "10^-3 meter"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "10^-9 meter",
+          "explanation": "One nanometer (1 nm) equals one-billionth of a meter, or 10^-9 meters.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-037",
+          "question": "Nanotechnology generally deals with matter and structures sized within what dimension range?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1 to 100 nanometers"
+            },
+            {
+              "label": "B",
+              "text": "100 to 1000 micrometers"
+            },
+            {
+              "label": "C",
+              "text": "1 to 10 millimeters"
+            },
+            {
+              "label": "D",
+              "text": "10 to 50 centimeters"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1 to 100 nanometers",
+          "explanation": "Nanotechnology involves the engineering of functional systems and materials at the molecular scale, typically between 1 and 100 nanometers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-038",
+          "question": "Who delivered the historic 1959 lecture 'There's Plenty of Room at the Bottom', laying theoretical foundations for nanotechnology?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Richard Feynman"
+            },
+            {
+              "label": "B",
+              "text": "Albert Einstein"
+            },
+            {
+              "label": "C",
+              "text": "Niels Bohr"
+            },
+            {
+              "label": "D",
+              "text": "Stephen Hawking"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Richard Feynman",
+          "explanation": "Physicist Richard Feynman envisioned manipulating individual atoms and molecules in his 1959 American Physical Society lecture 'There's Plenty of Room at the Bottom'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-039",
+          "question": "Which cylindrical allotrope of carbon exhibits extraordinary tensile strength and electrical conductivity in nanotechnology?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carbon Nanotube (CNT)"
+            },
+            {
+              "label": "B",
+              "text": "Graphite lump"
+            },
+            {
+              "label": "C",
+              "text": "Amorphous coal"
+            },
+            {
+              "label": "D",
+              "text": "Silicon wafer"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Carbon Nanotube (CNT)",
+          "explanation": "Carbon nanotubes are seamless cylinders of graphene sheets possessing outstanding mechanical strength, thermal conductivity, and electronic properties.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-040",
+          "question": "In medical science, what is a promising application of nanoscale smart particles?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Targeted drug delivery directly to cancerous tumor cells"
+            },
+            {
+              "label": "B",
+              "text": "Replacement of the central nervous system with copper wire"
+            },
+            {
+              "label": "C",
+              "text": "Conversion of red blood cells into plastic polymers"
+            },
+            {
+              "label": "D",
+              "text": "Manual extraction of DNA from living bone marrow"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Targeted drug delivery directly to cancerous tumor cells",
+          "explanation": "Nanoparticles can be engineered to carry chemotherapy drugs directly to cancer cells, sparing healthy cells and minimizing adverse side effects.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "E-Commerce and Cloud Computing",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-041",
+          "question": "An online auction website where individual citizens sell used products directly to other consumers represents which e-commerce model?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B2B (Business-to-Business)"
+            },
+            {
+              "label": "B",
+              "text": "C2C (Consumer-to-Consumer)"
+            },
+            {
+              "label": "C",
+              "text": "B2C (Business-to-Consumer)"
+            },
+            {
+              "label": "D",
+              "text": "G2B (Government-to-Business)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "C2C (Consumer-to-Consumer)",
+          "explanation": "Consumer-to-Consumer (C2C) e-commerce facilitates transactions between private individuals via a third-party online marketplace or platform.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-042",
+          "question": "Which cloud computing model provides virtualized computing resources such as virtual servers, network connections, and raw storage?",
+          "options": [
+            {
+              "label": "A",
+              "text": "IaaS (Infrastructure as a Service)"
+            },
+            {
+              "label": "B",
+              "text": "SaaS (Software as a Service)"
+            },
+            {
+              "label": "C",
+              "text": "PaaS (Platform as a Service)"
+            },
+            {
+              "label": "D",
+              "text": "DaaS (Desktop as a Service)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "IaaS (Infrastructure as a Service)",
+          "explanation": "Infrastructure as a Service (IaaS) provides fundamental computing, network, and storage infrastructure on-demand over the internet (e.g., AWS EC2, Google Compute Engine).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-043",
+          "question": "Google Docs and Microsoft Office 365 accessed directly through a web browser are examples of which cloud service model?",
+          "options": [
+            {
+              "label": "A",
+              "text": "SaaS (Software as a Service)"
+            },
+            {
+              "label": "B",
+              "text": "IaaS (Infrastructure as a Service)"
+            },
+            {
+              "label": "C",
+              "text": "PaaS (Platform as a Service)"
+            },
+            {
+              "label": "D",
+              "text": "CaaS (Communication as a Service)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "SaaS (Software as a Service)",
+          "explanation": "SaaS delivers end-user software applications over the internet without requiring local installation or software maintenance by the client.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-044",
+          "question": "What is an integrated software platform that unifies core business operations such as inventory, accounting, HR, and sales called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ERP (Enterprise Resource Planning)"
+            },
+            {
+              "label": "B",
+              "text": "BIOS (Basic Input Output System)"
+            },
+            {
+              "label": "C",
+              "text": "DNS (Domain Name System)"
+            },
+            {
+              "label": "D",
+              "text": "FTP (File Transfer Protocol)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ERP (Enterprise Resource Planning)",
+          "explanation": "ERP systems integrate and streamline core business processes across departments into a centralized unified database.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-045",
+          "question": "Which cloud deployment model combines both private and public clouds, allowing data and apps to be shared between them?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hybrid Cloud"
+            },
+            {
+              "label": "B",
+              "text": "Community Cloud"
+            },
+            {
+              "label": "C",
+              "text": "Standalone Cloud"
+            },
+            {
+              "label": "D",
+              "text": "Dedicated Cloud"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hybrid Cloud",
+          "explanation": "A hybrid cloud integrates private on-premises infrastructure with public cloud services, offering greater flexibility and data deployment options.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Cyber Ethics, Security and Cybercrime",
+      "questions": [
+        {
+          "id": "ICT01-MCQ-046",
+          "question": "What is the deceptive practice of tricking individuals into revealing sensitive credentials via fraudulent emails or fake websites?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Phishing"
+            },
+            {
+              "label": "B",
+              "text": "Spooling"
+            },
+            {
+              "label": "C",
+              "text": "Plagiarism"
+            },
+            {
+              "label": "D",
+              "text": "Paging"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Phishing",
+          "explanation": "Phishing is a social engineering cyber attack where attackers disguise themselves as trustworthy entities to steal passwords, credit card numbers, or PINs.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-047",
+          "question": "Ethical hackers who legally test and identify security vulnerabilities in systems to strengthen defenses are known as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "White Hat Hackers"
+            },
+            {
+              "label": "B",
+              "text": "Black Hat Hackers"
+            },
+            {
+              "label": "C",
+              "text": "Crackers"
+            },
+            {
+              "label": "D",
+              "text": "Script Kiddies"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "White Hat Hackers",
+          "explanation": "White hat hackers are certified security specialists who perform authorized penetration testing to find and patch system vulnerabilities.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-048",
+          "question": "Copying and presenting another author's written words, research ideas, or creative work as one's own without attribution is called:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Plagiarism"
+            },
+            {
+              "label": "B",
+              "text": "Salami slicing"
+            },
+            {
+              "label": "C",
+              "text": "Data skimming"
+            },
+            {
+              "label": "D",
+              "text": "Eavesdropping"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Plagiarism",
+          "explanation": "Plagiarism involves the unethical appropriation of another person's intellectual work or words without giving proper credit or citation.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT01-MCQ-049",
+          "question": "Unauthorized duplicating, downloading, or commercial distributing of copyrighted software programs is termed:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Software Piracy"
+            },
+            {
+              "label": "B",
+              "text": "Open Source Distribution"
+            },
+            {
+              "label": "C",
+              "text": "Firmware Flashing"
+            },
+            {
+              "label": "D",
+              "text": "Software Virtualization"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Software Piracy",
+          "explanation": "Software piracy violates copyright law by illegally copying, distributing, sharing, or selling proprietary software without valid licenses.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT01-MCQ-050",
+          "question": "The scientific discipline of identifying, preserving, recovering, analyzing, and presenting electronic evidence in a court of law is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Digital Forensics"
+            },
+            {
+              "label": "B",
+              "text": "Bioinformatics"
+            },
+            {
+              "label": "C",
+              "text": "Computer Telepathy"
+            },
+            {
+              "label": "D",
+              "text": "Signal Modulation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Digital Forensics",
+          "explanation": "Digital forensics is the specialized branch of forensic science focused on recovering and examining material found in digital devices related to cybercrime investigations.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

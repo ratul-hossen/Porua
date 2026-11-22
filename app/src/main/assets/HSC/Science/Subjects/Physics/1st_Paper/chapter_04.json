@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 4,
+  "chapter_title": "Newtonian Mechanics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Newton's first law",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ001",
+          "question": "Which statement best describes newton's first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "momentum is always zero"
+            },
+            {
+              "label": "B",
+              "text": "force is needed to maintain all motion"
+            },
+            {
+              "label": "C",
+              "text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force"
+            },
+            {
+              "label": "D",
+              "text": "every object must continuously accelerate"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force",
+          "explanation": "Newton's first law describes inertia and the condition of zero net force.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ002",
+          "question": "Which option is correctly associated with newton's first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force"
+            },
+            {
+              "label": "B",
+              "text": "every object must continuously accelerate"
+            },
+            {
+              "label": "C",
+              "text": "momentum is always zero"
+            },
+            {
+              "label": "D",
+              "text": "force is needed to maintain all motion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force",
+          "explanation": "Newton's first law describes inertia and the condition of zero net force.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ003",
+          "question": "In a basic HSC Physics question about newton's first law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force"
+            },
+            {
+              "label": "B",
+              "text": "every object must continuously accelerate"
+            },
+            {
+              "label": "C",
+              "text": "momentum is always zero"
+            },
+            {
+              "label": "D",
+              "text": "force is needed to maintain all motion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force",
+          "explanation": "Newton's first law describes inertia and the condition of zero net force.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ004",
+          "question": "Which fact should be remembered about newton's first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force is needed to maintain all motion"
+            },
+            {
+              "label": "B",
+              "text": "every object must continuously accelerate"
+            },
+            {
+              "label": "C",
+              "text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force"
+            },
+            {
+              "label": "D",
+              "text": "momentum is always zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force",
+          "explanation": "Newton's first law describes inertia and the condition of zero net force.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning newton's first law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force is needed to maintain all motion"
+            },
+            {
+              "label": "B",
+              "text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force"
+            },
+            {
+              "label": "C",
+              "text": "every object must continuously accelerate"
+            },
+            {
+              "label": "D",
+              "text": "momentum is always zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "An object remains at rest or in uniform straight-line motion unless acted on by a net external force",
+          "explanation": "Newton's first law describes inertia and the condition of zero net force.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Newton's second law",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ006",
+          "question": "Which statement best describes newton's second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "work divided by time"
+            },
+            {
+              "label": "B",
+              "text": "mass multiplied by velocity only"
+            },
+            {
+              "label": "C",
+              "text": "The net force on a body equals the rate of change of its momentum"
+            },
+            {
+              "label": "D",
+              "text": "momentum divided by distance"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The net force on a body equals the rate of change of its momentum",
+          "explanation": "In constant-mass situations, this becomes F = ma.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ007",
+          "question": "Which option is correctly associated with newton's second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "momentum divided by distance"
+            },
+            {
+              "label": "B",
+              "text": "work divided by time"
+            },
+            {
+              "label": "C",
+              "text": "mass multiplied by velocity only"
+            },
+            {
+              "label": "D",
+              "text": "The net force on a body equals the rate of change of its momentum"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The net force on a body equals the rate of change of its momentum",
+          "explanation": "In constant-mass situations, this becomes F = ma.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ008",
+          "question": "In a basic HSC Physics question about newton's second law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass multiplied by velocity only"
+            },
+            {
+              "label": "B",
+              "text": "work divided by time"
+            },
+            {
+              "label": "C",
+              "text": "momentum divided by distance"
+            },
+            {
+              "label": "D",
+              "text": "The net force on a body equals the rate of change of its momentum"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The net force on a body equals the rate of change of its momentum",
+          "explanation": "In constant-mass situations, this becomes F = ma.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ009",
+          "question": "Which fact should be remembered about newton's second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass multiplied by velocity only"
+            },
+            {
+              "label": "B",
+              "text": "The net force on a body equals the rate of change of its momentum"
+            },
+            {
+              "label": "C",
+              "text": "work divided by time"
+            },
+            {
+              "label": "D",
+              "text": "momentum divided by distance"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The net force on a body equals the rate of change of its momentum",
+          "explanation": "In constant-mass situations, this becomes F = ma.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning newton's second law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "work divided by time"
+            },
+            {
+              "label": "B",
+              "text": "momentum divided by distance"
+            },
+            {
+              "label": "C",
+              "text": "mass multiplied by velocity only"
+            },
+            {
+              "label": "D",
+              "text": "The net force on a body equals the rate of change of its momentum"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The net force on a body equals the rate of change of its momentum",
+          "explanation": "In constant-mass situations, this becomes F = ma.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Newton's third law",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ011",
+          "question": "Which statement best describes newton's third law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "they always cancel on one object"
+            },
+            {
+              "label": "B",
+              "text": "they are unequal by definition"
+            },
+            {
+              "label": "C",
+              "text": "they act on the same body"
+            },
+            {
+              "label": "D",
+              "text": "Action and reaction forces are equal in magnitude and opposite in direction"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Action and reaction forces are equal in magnitude and opposite in direction",
+          "explanation": "The pair acts on two different interacting bodies, so they do not cancel each other on one body.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ012",
+          "question": "Which option is correctly associated with newton's third law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "they always cancel on one object"
+            },
+            {
+              "label": "B",
+              "text": "they act on the same body"
+            },
+            {
+              "label": "C",
+              "text": "they are unequal by definition"
+            },
+            {
+              "label": "D",
+              "text": "Action and reaction forces are equal in magnitude and opposite in direction"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Action and reaction forces are equal in magnitude and opposite in direction",
+          "explanation": "The pair acts on two different interacting bodies, so they do not cancel each other on one body.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ013",
+          "question": "In a basic HSC Physics question about newton's third law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "they are unequal by definition"
+            },
+            {
+              "label": "B",
+              "text": "they act on the same body"
+            },
+            {
+              "label": "C",
+              "text": "Action and reaction forces are equal in magnitude and opposite in direction"
+            },
+            {
+              "label": "D",
+              "text": "they always cancel on one object"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Action and reaction forces are equal in magnitude and opposite in direction",
+          "explanation": "The pair acts on two different interacting bodies, so they do not cancel each other on one body.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ014",
+          "question": "Which fact should be remembered about newton's third law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Action and reaction forces are equal in magnitude and opposite in direction"
+            },
+            {
+              "label": "B",
+              "text": "they act on the same body"
+            },
+            {
+              "label": "C",
+              "text": "they always cancel on one object"
+            },
+            {
+              "label": "D",
+              "text": "they are unequal by definition"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Action and reaction forces are equal in magnitude and opposite in direction",
+          "explanation": "The pair acts on two different interacting bodies, so they do not cancel each other on one body.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning newton's third law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Action and reaction forces are equal in magnitude and opposite in direction"
+            },
+            {
+              "label": "B",
+              "text": "they are unequal by definition"
+            },
+            {
+              "label": "C",
+              "text": "they act on the same body"
+            },
+            {
+              "label": "D",
+              "text": "they always cancel on one object"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Action and reaction forces are equal in magnitude and opposite in direction",
+          "explanation": "The pair acts on two different interacting bodies, so they do not cancel each other on one body.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Momentum",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ016",
+          "question": "Which statement best describes momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass divided by velocity"
+            },
+            {
+              "label": "B",
+              "text": "mass multiplied by acceleration"
+            },
+            {
+              "label": "C",
+              "text": "force multiplied by distance"
+            },
+            {
+              "label": "D",
+              "text": "Linear momentum is the product of mass and velocity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Linear momentum is the product of mass and velocity",
+          "explanation": "Momentum p = mv and is a vector quantity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ017",
+          "question": "Which option is correctly associated with momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass divided by velocity"
+            },
+            {
+              "label": "B",
+              "text": "mass multiplied by acceleration"
+            },
+            {
+              "label": "C",
+              "text": "Linear momentum is the product of mass and velocity"
+            },
+            {
+              "label": "D",
+              "text": "force multiplied by distance"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Linear momentum is the product of mass and velocity",
+          "explanation": "Momentum p = mv and is a vector quantity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ018",
+          "question": "In a basic HSC Physics question about momentum, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass divided by velocity"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by distance"
+            },
+            {
+              "label": "C",
+              "text": "mass multiplied by acceleration"
+            },
+            {
+              "label": "D",
+              "text": "Linear momentum is the product of mass and velocity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Linear momentum is the product of mass and velocity",
+          "explanation": "Momentum p = mv and is a vector quantity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ019",
+          "question": "Which fact should be remembered about momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass multiplied by acceleration"
+            },
+            {
+              "label": "B",
+              "text": "mass divided by velocity"
+            },
+            {
+              "label": "C",
+              "text": "Linear momentum is the product of mass and velocity"
+            },
+            {
+              "label": "D",
+              "text": "force multiplied by distance"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Linear momentum is the product of mass and velocity",
+          "explanation": "Momentum p = mv and is a vector quantity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Linear momentum is the product of mass and velocity"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by distance"
+            },
+            {
+              "label": "C",
+              "text": "mass multiplied by acceleration"
+            },
+            {
+              "label": "D",
+              "text": "mass divided by velocity"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Linear momentum is the product of mass and velocity",
+          "explanation": "Momentum p = mv and is a vector quantity.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Impulse",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ021",
+          "question": "Which statement best describes impulse?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force divided by time"
+            },
+            {
+              "label": "B",
+              "text": "mass times displacement"
+            },
+            {
+              "label": "C",
+              "text": "Impulse equals the change in momentum"
+            },
+            {
+              "label": "D",
+              "text": "change in kinetic energy"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Impulse equals the change in momentum",
+          "explanation": "Impulse is the integral of force over time and equals ∆p.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ022",
+          "question": "Which option is correctly associated with impulse?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force divided by time"
+            },
+            {
+              "label": "B",
+              "text": "mass times displacement"
+            },
+            {
+              "label": "C",
+              "text": "Impulse equals the change in momentum"
+            },
+            {
+              "label": "D",
+              "text": "change in kinetic energy"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Impulse equals the change in momentum",
+          "explanation": "Impulse is the integral of force over time and equals ∆p.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ023",
+          "question": "In a basic HSC Physics question about impulse, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Impulse equals the change in momentum"
+            },
+            {
+              "label": "B",
+              "text": "force divided by time"
+            },
+            {
+              "label": "C",
+              "text": "change in kinetic energy"
+            },
+            {
+              "label": "D",
+              "text": "mass times displacement"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Impulse equals the change in momentum",
+          "explanation": "Impulse is the integral of force over time and equals ∆p.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ024",
+          "question": "Which fact should be remembered about impulse?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Impulse equals the change in momentum"
+            },
+            {
+              "label": "B",
+              "text": "change in kinetic energy"
+            },
+            {
+              "label": "C",
+              "text": "mass times displacement"
+            },
+            {
+              "label": "D",
+              "text": "force divided by time"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Impulse equals the change in momentum",
+          "explanation": "Impulse is the integral of force over time and equals ∆p.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning impulse?",
+          "options": [
+            {
+              "label": "A",
+              "text": "change in kinetic energy"
+            },
+            {
+              "label": "B",
+              "text": "Impulse equals the change in momentum"
+            },
+            {
+              "label": "C",
+              "text": "force divided by time"
+            },
+            {
+              "label": "D",
+              "text": "mass times displacement"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Impulse equals the change in momentum",
+          "explanation": "Impulse is the integral of force over time and equals ∆p.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Friction",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ026",
+          "question": "Which statement best describes friction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the friction at any speed"
+            },
+            {
+              "label": "B",
+              "text": "Limiting friction is the maximum static friction just before slipping begins"
+            },
+            {
+              "label": "C",
+              "text": "always less than zero"
+            },
+            {
+              "label": "D",
+              "text": "independent of normal reaction"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Limiting friction is the maximum static friction just before slipping begins",
+          "explanation": "At impending motion, static friction reaches its limiting value.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ027",
+          "question": "Which option is correctly associated with friction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Limiting friction is the maximum static friction just before slipping begins"
+            },
+            {
+              "label": "B",
+              "text": "always less than zero"
+            },
+            {
+              "label": "C",
+              "text": "the friction at any speed"
+            },
+            {
+              "label": "D",
+              "text": "independent of normal reaction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Limiting friction is the maximum static friction just before slipping begins",
+          "explanation": "At impending motion, static friction reaches its limiting value.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ028",
+          "question": "In a basic HSC Physics question about friction, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "independent of normal reaction"
+            },
+            {
+              "label": "B",
+              "text": "Limiting friction is the maximum static friction just before slipping begins"
+            },
+            {
+              "label": "C",
+              "text": "the friction at any speed"
+            },
+            {
+              "label": "D",
+              "text": "always less than zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Limiting friction is the maximum static friction just before slipping begins",
+          "explanation": "At impending motion, static friction reaches its limiting value.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ029",
+          "question": "Which fact should be remembered about friction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the friction at any speed"
+            },
+            {
+              "label": "B",
+              "text": "Limiting friction is the maximum static friction just before slipping begins"
+            },
+            {
+              "label": "C",
+              "text": "independent of normal reaction"
+            },
+            {
+              "label": "D",
+              "text": "always less than zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Limiting friction is the maximum static friction just before slipping begins",
+          "explanation": "At impending motion, static friction reaches its limiting value.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning friction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Limiting friction is the maximum static friction just before slipping begins"
+            },
+            {
+              "label": "B",
+              "text": "the friction at any speed"
+            },
+            {
+              "label": "C",
+              "text": "independent of normal reaction"
+            },
+            {
+              "label": "D",
+              "text": "always less than zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Limiting friction is the maximum static friction just before slipping begins",
+          "explanation": "At impending motion, static friction reaches its limiting value.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Circular dynamics",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ031",
+          "question": "Which statement best describes circular dynamics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mv/r²"
+            },
+            {
+              "label": "B",
+              "text": "The required centripetal force is mv²/r"
+            },
+            {
+              "label": "C",
+              "text": "mr/v²"
+            },
+            {
+              "label": "D",
+              "text": "mvr"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The required centripetal force is mv²/r",
+          "explanation": "For circular motion, Fc = mac = m(v²/r).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ032",
+          "question": "Which option is correctly associated with circular dynamics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mr/v²"
+            },
+            {
+              "label": "B",
+              "text": "mvr"
+            },
+            {
+              "label": "C",
+              "text": "mv/r²"
+            },
+            {
+              "label": "D",
+              "text": "The required centripetal force is mv²/r"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The required centripetal force is mv²/r",
+          "explanation": "For circular motion, Fc = mac = m(v²/r).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ033",
+          "question": "In a basic HSC Physics question about circular dynamics, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mvr"
+            },
+            {
+              "label": "B",
+              "text": "mv/r²"
+            },
+            {
+              "label": "C",
+              "text": "The required centripetal force is mv²/r"
+            },
+            {
+              "label": "D",
+              "text": "mr/v²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The required centripetal force is mv²/r",
+          "explanation": "For circular motion, Fc = mac = m(v²/r).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ034",
+          "question": "Which fact should be remembered about circular dynamics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mr/v²"
+            },
+            {
+              "label": "B",
+              "text": "mv/r²"
+            },
+            {
+              "label": "C",
+              "text": "mvr"
+            },
+            {
+              "label": "D",
+              "text": "The required centripetal force is mv²/r"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The required centripetal force is mv²/r",
+          "explanation": "For circular motion, Fc = mac = m(v²/r).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning circular dynamics?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mr/v²"
+            },
+            {
+              "label": "B",
+              "text": "mv/r²"
+            },
+            {
+              "label": "C",
+              "text": "mvr"
+            },
+            {
+              "label": "D",
+              "text": "The required centripetal force is mv²/r"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The required centripetal force is mv²/r",
+          "explanation": "For circular motion, Fc = mac = m(v²/r).",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Conservation of momentum",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ036",
+          "question": "Which statement best describes conservation of momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "external force increases total momentum"
+            },
+            {
+              "label": "B",
+              "text": "each object's momentum remains constant"
+            },
+            {
+              "label": "C",
+              "text": "kinetic energy always remains constant"
+            },
+            {
+              "label": "D",
+              "text": "Total momentum of an isolated system remains constant"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Total momentum of an isolated system remains constant",
+          "explanation": "With zero net external force, system momentum is conserved.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ037",
+          "question": "Which option is correctly associated with conservation of momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "each object's momentum remains constant"
+            },
+            {
+              "label": "B",
+              "text": "Total momentum of an isolated system remains constant"
+            },
+            {
+              "label": "C",
+              "text": "external force increases total momentum"
+            },
+            {
+              "label": "D",
+              "text": "kinetic energy always remains constant"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Total momentum of an isolated system remains constant",
+          "explanation": "With zero net external force, system momentum is conserved.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ038",
+          "question": "In a basic HSC Physics question about conservation of momentum, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "external force increases total momentum"
+            },
+            {
+              "label": "B",
+              "text": "kinetic energy always remains constant"
+            },
+            {
+              "label": "C",
+              "text": "each object's momentum remains constant"
+            },
+            {
+              "label": "D",
+              "text": "Total momentum of an isolated system remains constant"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Total momentum of an isolated system remains constant",
+          "explanation": "With zero net external force, system momentum is conserved.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ039",
+          "question": "Which fact should be remembered about conservation of momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "each object's momentum remains constant"
+            },
+            {
+              "label": "B",
+              "text": "external force increases total momentum"
+            },
+            {
+              "label": "C",
+              "text": "kinetic energy always remains constant"
+            },
+            {
+              "label": "D",
+              "text": "Total momentum of an isolated system remains constant"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Total momentum of an isolated system remains constant",
+          "explanation": "With zero net external force, system momentum is conserved.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning conservation of momentum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "each object's momentum remains constant"
+            },
+            {
+              "label": "B",
+              "text": "kinetic energy always remains constant"
+            },
+            {
+              "label": "C",
+              "text": "external force increases total momentum"
+            },
+            {
+              "label": "D",
+              "text": "Total momentum of an isolated system remains constant"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Total momentum of an isolated system remains constant",
+          "explanation": "With zero net external force, system momentum is conserved.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Equilibrium",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ041",
+          "question": "Which statement best describes equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the torque must be maximum"
+            },
+            {
+              "label": "B",
+              "text": "the sum of speeds is zero"
+            },
+            {
+              "label": "C",
+              "text": "For translational equilibrium, the vector sum of forces is zero"
+            },
+            {
+              "label": "D",
+              "text": "the body must be at rest only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For translational equilibrium, the vector sum of forces is zero",
+          "explanation": "Zero resultant force means no linear acceleration; the body may move at constant velocity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ042",
+          "question": "Which option is correctly associated with equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the sum of speeds is zero"
+            },
+            {
+              "label": "B",
+              "text": "For translational equilibrium, the vector sum of forces is zero"
+            },
+            {
+              "label": "C",
+              "text": "the torque must be maximum"
+            },
+            {
+              "label": "D",
+              "text": "the body must be at rest only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For translational equilibrium, the vector sum of forces is zero",
+          "explanation": "Zero resultant force means no linear acceleration; the body may move at constant velocity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ043",
+          "question": "In a basic HSC Physics question about equilibrium, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For translational equilibrium, the vector sum of forces is zero"
+            },
+            {
+              "label": "B",
+              "text": "the torque must be maximum"
+            },
+            {
+              "label": "C",
+              "text": "the body must be at rest only"
+            },
+            {
+              "label": "D",
+              "text": "the sum of speeds is zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For translational equilibrium, the vector sum of forces is zero",
+          "explanation": "Zero resultant force means no linear acceleration; the body may move at constant velocity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ044",
+          "question": "Which fact should be remembered about equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the sum of speeds is zero"
+            },
+            {
+              "label": "B",
+              "text": "the body must be at rest only"
+            },
+            {
+              "label": "C",
+              "text": "For translational equilibrium, the vector sum of forces is zero"
+            },
+            {
+              "label": "D",
+              "text": "the torque must be maximum"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For translational equilibrium, the vector sum of forces is zero",
+          "explanation": "Zero resultant force means no linear acceleration; the body may move at constant velocity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the body must be at rest only"
+            },
+            {
+              "label": "B",
+              "text": "For translational equilibrium, the vector sum of forces is zero"
+            },
+            {
+              "label": "C",
+              "text": "the torque must be maximum"
+            },
+            {
+              "label": "D",
+              "text": "the sum of speeds is zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For translational equilibrium, the vector sum of forces is zero",
+          "explanation": "Zero resultant force means no linear acceleration; the body may move at constant velocity.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Mass and weight",
+      "questions": [
+        {
+          "id": "PHY_1P_CH04_MCQ046",
+          "question": "Which statement best describes mass and weight?",
+          "options": [
+            {
+              "label": "A",
+              "text": "inertial mass times velocity"
+            },
+            {
+              "label": "B",
+              "text": "mass divided by g"
+            },
+            {
+              "label": "C",
+              "text": "density multiplied by volume only"
+            },
+            {
+              "label": "D",
+              "text": "Weight is the gravitational force on a body and is given by W = mg"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Weight is the gravitational force on a body and is given by W = mg",
+          "explanation": "Weight depends on local gravitational field strength; mass is an intrinsic property.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ047",
+          "question": "Which option is correctly associated with mass and weight?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Weight is the gravitational force on a body and is given by W = mg"
+            },
+            {
+              "label": "B",
+              "text": "inertial mass times velocity"
+            },
+            {
+              "label": "C",
+              "text": "mass divided by g"
+            },
+            {
+              "label": "D",
+              "text": "density multiplied by volume only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Weight is the gravitational force on a body and is given by W = mg",
+          "explanation": "Weight depends on local gravitational field strength; mass is an intrinsic property.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ048",
+          "question": "In a basic HSC Physics question about mass and weight, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "density multiplied by volume only"
+            },
+            {
+              "label": "B",
+              "text": "mass divided by g"
+            },
+            {
+              "label": "C",
+              "text": "inertial mass times velocity"
+            },
+            {
+              "label": "D",
+              "text": "Weight is the gravitational force on a body and is given by W = mg"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Weight is the gravitational force on a body and is given by W = mg",
+          "explanation": "Weight depends on local gravitational field strength; mass is an intrinsic property.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ049",
+          "question": "Which fact should be remembered about mass and weight?",
+          "options": [
+            {
+              "label": "A",
+              "text": "inertial mass times velocity"
+            },
+            {
+              "label": "B",
+              "text": "mass divided by g"
+            },
+            {
+              "label": "C",
+              "text": "density multiplied by volume only"
+            },
+            {
+              "label": "D",
+              "text": "Weight is the gravitational force on a body and is given by W = mg"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Weight is the gravitational force on a body and is given by W = mg",
+          "explanation": "Weight depends on local gravitational field strength; mass is an intrinsic property.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH04_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning mass and weight?",
+          "options": [
+            {
+              "label": "A",
+              "text": "density multiplied by volume only"
+            },
+            {
+              "label": "B",
+              "text": "mass divided by g"
+            },
+            {
+              "label": "C",
+              "text": "inertial mass times velocity"
+            },
+            {
+              "label": "D",
+              "text": "Weight is the gravitational force on a body and is given by W = mg"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Weight is the gravitational force on a body and is given by W = mg",
+          "explanation": "Weight depends on local gravitational field strength; mass is an intrinsic property.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

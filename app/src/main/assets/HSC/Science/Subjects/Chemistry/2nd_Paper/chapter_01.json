@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 1,
+  "chapter_title": "Environmental Chemistry",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Greenhouse effect",
+      "questions": [
+        {
+          "id": "CH01-MCQ-001",
+          "question": "Which statement correctly describes greenhouse effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reflection of all sunlight by oceans"
+            },
+            {
+              "label": "B",
+              "text": "Warming by absorption and re-emission of infrared radiation"
+            },
+            {
+              "label": "C",
+              "text": "Cooling by oxygen alone"
+            },
+            {
+              "label": "D",
+              "text": "Earth's magnetic field"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Warming by absorption and re-emission of infrared radiation",
+          "explanation": "Greenhouse gases absorb outgoing infrared radiation and contribute to atmospheric warming.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning greenhouse effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cooling by oxygen alone"
+            },
+            {
+              "label": "B",
+              "text": "Earth's magnetic field"
+            },
+            {
+              "label": "C",
+              "text": "Reflection of all sunlight by oceans"
+            },
+            {
+              "label": "D",
+              "text": "Warming by absorption and re-emission of infrared radiation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Warming by absorption and re-emission of infrared radiation",
+          "explanation": "Greenhouse gases absorb outgoing infrared radiation and contribute to atmospheric warming.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-003",
+          "question": "A student is reviewing greenhouse effect. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Earth's magnetic field"
+            },
+            {
+              "label": "B",
+              "text": "Reflection of all sunlight by oceans"
+            },
+            {
+              "label": "C",
+              "text": "Warming by absorption and re-emission of infrared radiation"
+            },
+            {
+              "label": "D",
+              "text": "Cooling by oxygen alone"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Warming by absorption and re-emission of infrared radiation",
+          "explanation": "Greenhouse gases absorb outgoing infrared radiation and contribute to atmospheric warming.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-004",
+          "question": "Which option gives the most accurate explanation of greenhouse effect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Warming by absorption and re-emission of infrared radiation"
+            },
+            {
+              "label": "B",
+              "text": "Reflection of all sunlight by oceans"
+            },
+            {
+              "label": "C",
+              "text": "Cooling by oxygen alone"
+            },
+            {
+              "label": "D",
+              "text": "Earth's magnetic field"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Warming by absorption and re-emission of infrared radiation",
+          "explanation": "Greenhouse gases absorb outgoing infrared radiation and contribute to atmospheric warming.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-005",
+          "question": "Choose the correct principle or fact associated with greenhouse effect.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cooling by oxygen alone"
+            },
+            {
+              "label": "B",
+              "text": "Earth's magnetic field"
+            },
+            {
+              "label": "C",
+              "text": "Warming by absorption and re-emission of infrared radiation"
+            },
+            {
+              "label": "D",
+              "text": "Reflection of all sunlight by oceans"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Warming by absorption and re-emission of infrared radiation",
+          "explanation": "Greenhouse gases absorb outgoing infrared radiation and contribute to atmospheric warming.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Major anthropogenic greenhouse gas",
+      "questions": [
+        {
+          "id": "CH01-MCQ-006",
+          "question": "Which statement correctly describes major anthropogenic greenhouse gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Argon"
+            },
+            {
+              "label": "B",
+              "text": "Carbon dioxide"
+            },
+            {
+              "label": "C",
+              "text": "Helium"
+            },
+            {
+              "label": "D",
+              "text": "Neon"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Carbon dioxide",
+          "explanation": "Co2 is released in large amounts by fossil-fuel combustion and deforestation.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning major anthropogenic greenhouse gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Neon"
+            },
+            {
+              "label": "B",
+              "text": "Carbon dioxide"
+            },
+            {
+              "label": "C",
+              "text": "Helium"
+            },
+            {
+              "label": "D",
+              "text": "Argon"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Carbon dioxide",
+          "explanation": "Co2 is released in large amounts by fossil-fuel combustion and deforestation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-008",
+          "question": "A student is reviewing major anthropogenic greenhouse gas. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Argon"
+            },
+            {
+              "label": "B",
+              "text": "Helium"
+            },
+            {
+              "label": "C",
+              "text": "Carbon dioxide"
+            },
+            {
+              "label": "D",
+              "text": "Neon"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Carbon dioxide",
+          "explanation": "Co2 is released in large amounts by fossil-fuel combustion and deforestation.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-009",
+          "question": "Which option gives the most accurate explanation of major anthropogenic greenhouse gas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Helium"
+            },
+            {
+              "label": "B",
+              "text": "Carbon dioxide"
+            },
+            {
+              "label": "C",
+              "text": "Neon"
+            },
+            {
+              "label": "D",
+              "text": "Argon"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Carbon dioxide",
+          "explanation": "Co2 is released in large amounts by fossil-fuel combustion and deforestation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-010",
+          "question": "Choose the correct principle or fact associated with major anthropogenic greenhouse gas.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Argon"
+            },
+            {
+              "label": "B",
+              "text": "Helium"
+            },
+            {
+              "label": "C",
+              "text": "Neon"
+            },
+            {
+              "label": "D",
+              "text": "Carbon dioxide"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Carbon dioxide",
+          "explanation": "Co2 is released in large amounts by fossil-fuel combustion and deforestation.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Ozone layer",
+      "questions": [
+        {
+          "id": "CH01-MCQ-011",
+          "question": "Which statement correctly describes ozone layer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Produces all atmospheric oxygen"
+            },
+            {
+              "label": "B",
+              "text": "Absorbs visible light only"
+            },
+            {
+              "label": "C",
+              "text": "Causes ocean tides"
+            },
+            {
+              "label": "D",
+              "text": "Absorbs much of the Sun's harmful ultraviolet radiation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Absorbs much of the Sun's harmful ultraviolet radiation",
+          "explanation": "Stratospheric ozone protects living organisms from excessive uv exposure.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning ozone layer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorbs visible light only"
+            },
+            {
+              "label": "B",
+              "text": "Absorbs much of the Sun's harmful ultraviolet radiation"
+            },
+            {
+              "label": "C",
+              "text": "Causes ocean tides"
+            },
+            {
+              "label": "D",
+              "text": "Produces all atmospheric oxygen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Absorbs much of the Sun's harmful ultraviolet radiation",
+          "explanation": "Stratospheric ozone protects living organisms from excessive uv exposure.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-013",
+          "question": "A student is reviewing ozone layer. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorbs much of the Sun's harmful ultraviolet radiation"
+            },
+            {
+              "label": "B",
+              "text": "Absorbs visible light only"
+            },
+            {
+              "label": "C",
+              "text": "Produces all atmospheric oxygen"
+            },
+            {
+              "label": "D",
+              "text": "Causes ocean tides"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Absorbs much of the Sun's harmful ultraviolet radiation",
+          "explanation": "Stratospheric ozone protects living organisms from excessive uv exposure.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-014",
+          "question": "Which option gives the most accurate explanation of ozone layer?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorbs much of the Sun's harmful ultraviolet radiation"
+            },
+            {
+              "label": "B",
+              "text": "Absorbs visible light only"
+            },
+            {
+              "label": "C",
+              "text": "Produces all atmospheric oxygen"
+            },
+            {
+              "label": "D",
+              "text": "Causes ocean tides"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Absorbs much of the Sun's harmful ultraviolet radiation",
+          "explanation": "Stratospheric ozone protects living organisms from excessive uv exposure.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-015",
+          "question": "Choose the correct principle or fact associated with ozone layer.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorbs visible light only"
+            },
+            {
+              "label": "B",
+              "text": "Causes ocean tides"
+            },
+            {
+              "label": "C",
+              "text": "Produces all atmospheric oxygen"
+            },
+            {
+              "label": "D",
+              "text": "Absorbs much of the Sun's harmful ultraviolet radiation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Absorbs much of the Sun's harmful ultraviolet radiation",
+          "explanation": "Stratospheric ozone protects living organisms from excessive uv exposure.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Acid rain",
+      "questions": [
+        {
+          "id": "CH01-MCQ-016",
+          "question": "Which statement correctly describes acid rain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rain caused by helium"
+            },
+            {
+              "label": "B",
+              "text": "Rain with neutral pH always"
+            },
+            {
+              "label": "C",
+              "text": "Rain containing only pure water"
+            },
+            {
+              "label": "D",
+              "text": "Rain made acidic mainly by sulfur and nitrogen oxides"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Rain made acidic mainly by sulfur and nitrogen oxides",
+          "explanation": "Sox and nox form acids in atmospheric moisture.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning acid rain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rain with neutral pH always"
+            },
+            {
+              "label": "B",
+              "text": "Rain caused by helium"
+            },
+            {
+              "label": "C",
+              "text": "Rain containing only pure water"
+            },
+            {
+              "label": "D",
+              "text": "Rain made acidic mainly by sulfur and nitrogen oxides"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Rain made acidic mainly by sulfur and nitrogen oxides",
+          "explanation": "Sox and nox form acids in atmospheric moisture.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-018",
+          "question": "A student is reviewing acid rain. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rain made acidic mainly by sulfur and nitrogen oxides"
+            },
+            {
+              "label": "B",
+              "text": "Rain with neutral pH always"
+            },
+            {
+              "label": "C",
+              "text": "Rain containing only pure water"
+            },
+            {
+              "label": "D",
+              "text": "Rain caused by helium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Rain made acidic mainly by sulfur and nitrogen oxides",
+          "explanation": "Sox and nox form acids in atmospheric moisture.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-019",
+          "question": "Which option gives the most accurate explanation of acid rain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rain made acidic mainly by sulfur and nitrogen oxides"
+            },
+            {
+              "label": "B",
+              "text": "Rain with neutral pH always"
+            },
+            {
+              "label": "C",
+              "text": "Rain caused by helium"
+            },
+            {
+              "label": "D",
+              "text": "Rain containing only pure water"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Rain made acidic mainly by sulfur and nitrogen oxides",
+          "explanation": "Sox and nox form acids in atmospheric moisture.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-020",
+          "question": "Choose the correct principle or fact associated with acid rain.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rain caused by helium"
+            },
+            {
+              "label": "B",
+              "text": "Rain containing only pure water"
+            },
+            {
+              "label": "C",
+              "text": "Rain with neutral pH always"
+            },
+            {
+              "label": "D",
+              "text": "Rain made acidic mainly by sulfur and nitrogen oxides"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Rain made acidic mainly by sulfur and nitrogen oxides",
+          "explanation": "Sox and nox form acids in atmospheric moisture.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Eutrophication",
+      "questions": [
+        {
+          "id": "CH01-MCQ-021",
+          "question": "Which statement correctly describes eutrophication?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removal of all nutrients"
+            },
+            {
+              "label": "B",
+              "text": "Increase in dissolved oxygen permanently"
+            },
+            {
+              "label": "C",
+              "text": "Excess nutrients cause algal growth and oxygen depletion"
+            },
+            {
+              "label": "D",
+              "text": "Formation of ozone"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Excess nutrients cause algal growth and oxygen depletion",
+          "explanation": "Nutrient enrichment can lead to algal blooms and decomposition that lowers dissolved oxygen.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning eutrophication?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increase in dissolved oxygen permanently"
+            },
+            {
+              "label": "B",
+              "text": "Formation of ozone"
+            },
+            {
+              "label": "C",
+              "text": "Excess nutrients cause algal growth and oxygen depletion"
+            },
+            {
+              "label": "D",
+              "text": "Removal of all nutrients"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Excess nutrients cause algal growth and oxygen depletion",
+          "explanation": "Nutrient enrichment can lead to algal blooms and decomposition that lowers dissolved oxygen.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-023",
+          "question": "A student is reviewing eutrophication. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removal of all nutrients"
+            },
+            {
+              "label": "B",
+              "text": "Formation of ozone"
+            },
+            {
+              "label": "C",
+              "text": "Excess nutrients cause algal growth and oxygen depletion"
+            },
+            {
+              "label": "D",
+              "text": "Increase in dissolved oxygen permanently"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Excess nutrients cause algal growth and oxygen depletion",
+          "explanation": "Nutrient enrichment can lead to algal blooms and decomposition that lowers dissolved oxygen.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-024",
+          "question": "Which option gives the most accurate explanation of eutrophication?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Excess nutrients cause algal growth and oxygen depletion"
+            },
+            {
+              "label": "B",
+              "text": "Increase in dissolved oxygen permanently"
+            },
+            {
+              "label": "C",
+              "text": "Removal of all nutrients"
+            },
+            {
+              "label": "D",
+              "text": "Formation of ozone"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Excess nutrients cause algal growth and oxygen depletion",
+          "explanation": "Nutrient enrichment can lead to algal blooms and decomposition that lowers dissolved oxygen.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-025",
+          "question": "Choose the correct principle or fact associated with eutrophication.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Excess nutrients cause algal growth and oxygen depletion"
+            },
+            {
+              "label": "B",
+              "text": "Increase in dissolved oxygen permanently"
+            },
+            {
+              "label": "C",
+              "text": "Removal of all nutrients"
+            },
+            {
+              "label": "D",
+              "text": "Formation of ozone"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Excess nutrients cause algal growth and oxygen depletion",
+          "explanation": "Nutrient enrichment can lead to algal blooms and decomposition that lowers dissolved oxygen.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Biochemical oxygen demand",
+      "questions": [
+        {
+          "id": "CH01-MCQ-026",
+          "question": "Which statement correctly describes biochemical oxygen demand?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Oxygen used by microorganisms to decompose organic matter"
+            },
+            {
+              "label": "B",
+              "text": "Mass of dissolved salts"
+            },
+            {
+              "label": "C",
+              "text": "Oxygen needed to burn metals"
+            },
+            {
+              "label": "D",
+              "text": "Amount of oxygen in dry air"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Oxygen used by microorganisms to decompose organic matter",
+          "explanation": "High bod often indicates substantial biodegradable organic pollution.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning biochemical oxygen demand?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Amount of oxygen in dry air"
+            },
+            {
+              "label": "B",
+              "text": "Mass of dissolved salts"
+            },
+            {
+              "label": "C",
+              "text": "Oxygen needed to burn metals"
+            },
+            {
+              "label": "D",
+              "text": "Oxygen used by microorganisms to decompose organic matter"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Oxygen used by microorganisms to decompose organic matter",
+          "explanation": "High bod often indicates substantial biodegradable organic pollution.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-028",
+          "question": "A student is reviewing biochemical oxygen demand. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Amount of oxygen in dry air"
+            },
+            {
+              "label": "B",
+              "text": "Oxygen used by microorganisms to decompose organic matter"
+            },
+            {
+              "label": "C",
+              "text": "Mass of dissolved salts"
+            },
+            {
+              "label": "D",
+              "text": "Oxygen needed to burn metals"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Oxygen used by microorganisms to decompose organic matter",
+          "explanation": "High bod often indicates substantial biodegradable organic pollution.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-029",
+          "question": "Which option gives the most accurate explanation of biochemical oxygen demand?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Oxygen used by microorganisms to decompose organic matter"
+            },
+            {
+              "label": "B",
+              "text": "Oxygen needed to burn metals"
+            },
+            {
+              "label": "C",
+              "text": "Mass of dissolved salts"
+            },
+            {
+              "label": "D",
+              "text": "Amount of oxygen in dry air"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Oxygen used by microorganisms to decompose organic matter",
+          "explanation": "High bod often indicates substantial biodegradable organic pollution.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-030",
+          "question": "Choose the correct principle or fact associated with biochemical oxygen demand.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Amount of oxygen in dry air"
+            },
+            {
+              "label": "B",
+              "text": "Mass of dissolved salts"
+            },
+            {
+              "label": "C",
+              "text": "Oxygen needed to burn metals"
+            },
+            {
+              "label": "D",
+              "text": "Oxygen used by microorganisms to decompose organic matter"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Oxygen used by microorganisms to decompose organic matter",
+          "explanation": "High bod often indicates substantial biodegradable organic pollution.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Photochemical smog",
+      "questions": [
+        {
+          "id": "CH01-MCQ-031",
+          "question": "Which statement correctly describes photochemical smog?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contains no secondary pollutants"
+            },
+            {
+              "label": "B",
+              "text": "Is pure water vapour"
+            },
+            {
+              "label": "C",
+              "text": "Forms through sunlight-driven reactions of pollutants"
+            },
+            {
+              "label": "D",
+              "text": "Forms only in darkness"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Forms through sunlight-driven reactions of pollutants",
+          "explanation": "Nitrogen oxides and volatile organic compounds participate in its formation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning photochemical smog?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forms only in darkness"
+            },
+            {
+              "label": "B",
+              "text": "Forms through sunlight-driven reactions of pollutants"
+            },
+            {
+              "label": "C",
+              "text": "Is pure water vapour"
+            },
+            {
+              "label": "D",
+              "text": "Contains no secondary pollutants"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Forms through sunlight-driven reactions of pollutants",
+          "explanation": "Nitrogen oxides and volatile organic compounds participate in its formation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-033",
+          "question": "A student is reviewing photochemical smog. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forms only in darkness"
+            },
+            {
+              "label": "B",
+              "text": "Contains no secondary pollutants"
+            },
+            {
+              "label": "C",
+              "text": "Is pure water vapour"
+            },
+            {
+              "label": "D",
+              "text": "Forms through sunlight-driven reactions of pollutants"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Forms through sunlight-driven reactions of pollutants",
+          "explanation": "Nitrogen oxides and volatile organic compounds participate in its formation.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-034",
+          "question": "Which option gives the most accurate explanation of photochemical smog?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is pure water vapour"
+            },
+            {
+              "label": "B",
+              "text": "Contains no secondary pollutants"
+            },
+            {
+              "label": "C",
+              "text": "Forms through sunlight-driven reactions of pollutants"
+            },
+            {
+              "label": "D",
+              "text": "Forms only in darkness"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Forms through sunlight-driven reactions of pollutants",
+          "explanation": "Nitrogen oxides and volatile organic compounds participate in its formation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-035",
+          "question": "Choose the correct principle or fact associated with photochemical smog.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forms only in darkness"
+            },
+            {
+              "label": "B",
+              "text": "Forms through sunlight-driven reactions of pollutants"
+            },
+            {
+              "label": "C",
+              "text": "Contains no secondary pollutants"
+            },
+            {
+              "label": "D",
+              "text": "Is pure water vapour"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Forms through sunlight-driven reactions of pollutants",
+          "explanation": "Nitrogen oxides and volatile organic compounds participate in its formation.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Carbon monoxide",
+      "questions": [
+        {
+          "id": "CH01-MCQ-036",
+          "question": "Which statement correctly describes carbon monoxide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is harmless at any concentration"
+            },
+            {
+              "label": "B",
+              "text": "Binds strongly to haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "Improves oxygen transport"
+            },
+            {
+              "label": "D",
+              "text": "Is a major nutrient"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Binds strongly to haemoglobin",
+          "explanation": "Co reduces the blood's oxygen-carrying capacity by forming carboxyhaemoglobin.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning carbon monoxide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is harmless at any concentration"
+            },
+            {
+              "label": "B",
+              "text": "Improves oxygen transport"
+            },
+            {
+              "label": "C",
+              "text": "Is a major nutrient"
+            },
+            {
+              "label": "D",
+              "text": "Binds strongly to haemoglobin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Binds strongly to haemoglobin",
+          "explanation": "Co reduces the blood's oxygen-carrying capacity by forming carboxyhaemoglobin.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-038",
+          "question": "A student is reviewing carbon monoxide. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is harmless at any concentration"
+            },
+            {
+              "label": "B",
+              "text": "Binds strongly to haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "Improves oxygen transport"
+            },
+            {
+              "label": "D",
+              "text": "Is a major nutrient"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Binds strongly to haemoglobin",
+          "explanation": "Co reduces the blood's oxygen-carrying capacity by forming carboxyhaemoglobin.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-039",
+          "question": "Which option gives the most accurate explanation of carbon monoxide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is harmless at any concentration"
+            },
+            {
+              "label": "B",
+              "text": "Binds strongly to haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "Improves oxygen transport"
+            },
+            {
+              "label": "D",
+              "text": "Is a major nutrient"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Binds strongly to haemoglobin",
+          "explanation": "Co reduces the blood's oxygen-carrying capacity by forming carboxyhaemoglobin.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-040",
+          "question": "Choose the correct principle or fact associated with carbon monoxide.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Improves oxygen transport"
+            },
+            {
+              "label": "B",
+              "text": "Binds strongly to haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "Is a major nutrient"
+            },
+            {
+              "label": "D",
+              "text": "Is harmless at any concentration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Binds strongly to haemoglobin",
+          "explanation": "Co reduces the blood's oxygen-carrying capacity by forming carboxyhaemoglobin.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Water treatment",
+      "questions": [
+        {
+          "id": "CH01-MCQ-041",
+          "question": "Which statement correctly describes water treatment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Coagulation and filtration remove suspended impurities"
+            },
+            {
+              "label": "B",
+              "text": "Mixing sewage directly into drinking water"
+            },
+            {
+              "label": "C",
+              "text": "Adding fuel to water"
+            },
+            {
+              "label": "D",
+              "text": "Increasing turbidity"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Coagulation and filtration remove suspended impurities",
+          "explanation": "Treatment processes combine particles and separate them from water.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning water treatment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increasing turbidity"
+            },
+            {
+              "label": "B",
+              "text": "Coagulation and filtration remove suspended impurities"
+            },
+            {
+              "label": "C",
+              "text": "Adding fuel to water"
+            },
+            {
+              "label": "D",
+              "text": "Mixing sewage directly into drinking water"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Coagulation and filtration remove suspended impurities",
+          "explanation": "Treatment processes combine particles and separate them from water.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-043",
+          "question": "A student is reviewing water treatment. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Adding fuel to water"
+            },
+            {
+              "label": "B",
+              "text": "Coagulation and filtration remove suspended impurities"
+            },
+            {
+              "label": "C",
+              "text": "Mixing sewage directly into drinking water"
+            },
+            {
+              "label": "D",
+              "text": "Increasing turbidity"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Coagulation and filtration remove suspended impurities",
+          "explanation": "Treatment processes combine particles and separate them from water.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-044",
+          "question": "Which option gives the most accurate explanation of water treatment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Coagulation and filtration remove suspended impurities"
+            },
+            {
+              "label": "B",
+              "text": "Adding fuel to water"
+            },
+            {
+              "label": "C",
+              "text": "Increasing turbidity"
+            },
+            {
+              "label": "D",
+              "text": "Mixing sewage directly into drinking water"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Coagulation and filtration remove suspended impurities",
+          "explanation": "Treatment processes combine particles and separate them from water.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-045",
+          "question": "Choose the correct principle or fact associated with water treatment.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mixing sewage directly into drinking water"
+            },
+            {
+              "label": "B",
+              "text": "Adding fuel to water"
+            },
+            {
+              "label": "C",
+              "text": "Increasing turbidity"
+            },
+            {
+              "label": "D",
+              "text": "Coagulation and filtration remove suspended impurities"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Coagulation and filtration remove suspended impurities",
+          "explanation": "Treatment processes combine particles and separate them from water.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Biodegradable waste",
+      "questions": [
+        {
+          "id": "CH01-MCQ-046",
+          "question": "Which statement correctly describes biodegradable waste?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always contains heavy metals"
+            },
+            {
+              "label": "B",
+              "text": "Cannot undergo decomposition"
+            },
+            {
+              "label": "C",
+              "text": "Can be broken down by microorganisms"
+            },
+            {
+              "label": "D",
+              "text": "Is necessarily radioactive"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Can be broken down by microorganisms",
+          "explanation": "Biodegradable materials are decomposed by biological activity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH01-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning biodegradable waste?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cannot undergo decomposition"
+            },
+            {
+              "label": "B",
+              "text": "Always contains heavy metals"
+            },
+            {
+              "label": "C",
+              "text": "Can be broken down by microorganisms"
+            },
+            {
+              "label": "D",
+              "text": "Is necessarily radioactive"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Can be broken down by microorganisms",
+          "explanation": "Biodegradable materials are decomposed by biological activity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-048",
+          "question": "A student is reviewing biodegradable waste. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cannot undergo decomposition"
+            },
+            {
+              "label": "B",
+              "text": "Can be broken down by microorganisms"
+            },
+            {
+              "label": "C",
+              "text": "Is necessarily radioactive"
+            },
+            {
+              "label": "D",
+              "text": "Always contains heavy metals"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Can be broken down by microorganisms",
+          "explanation": "Biodegradable materials are decomposed by biological activity.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH01-MCQ-049",
+          "question": "Which option gives the most accurate explanation of biodegradable waste?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Can be broken down by microorganisms"
+            },
+            {
+              "label": "B",
+              "text": "Cannot undergo decomposition"
+            },
+            {
+              "label": "C",
+              "text": "Is necessarily radioactive"
+            },
+            {
+              "label": "D",
+              "text": "Always contains heavy metals"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Can be broken down by microorganisms",
+          "explanation": "Biodegradable materials are decomposed by biological activity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH01-MCQ-050",
+          "question": "Choose the correct principle or fact associated with biodegradable waste.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Can be broken down by microorganisms"
+            },
+            {
+              "label": "B",
+              "text": "Always contains heavy metals"
+            },
+            {
+              "label": "C",
+              "text": "Cannot undergo decomposition"
+            },
+            {
+              "label": "D",
+              "text": "Is necessarily radioactive"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Can be broken down by microorganisms",
+          "explanation": "Biodegradable materials are decomposed by biological activity.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

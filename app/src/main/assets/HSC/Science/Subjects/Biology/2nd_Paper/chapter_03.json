@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 3,
+  "chapter_title": "Human Physiology: Digestion and Absorption",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH03_T01",
+      "topic_name": "Salivary Amylase",
+      "mcqs": [
+        {
+          "id": "BIO2_CH03_Q01",
+          "question": "Which term is correctly described as: enzyme that begins starch digestion in the mouth?",
+          "options": [
+            {
+              "label": "A",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "B",
+              "text": "peristalsis"
+            },
+            {
+              "label": "C",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "salivary amylase",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q02",
+          "question": "The biological role or defining feature of salivary amylase is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "C",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "D",
+              "text": "protein-digesting enzyme active in the stomach"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "enzyme that begins starch digestion in the mouth",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q03",
+          "question": "A student records the following clue: “enzyme that begins starch digestion in the mouth.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "bile"
+            },
+            {
+              "label": "C",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "D",
+              "text": "pepsin"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "salivary amylase",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q04",
+          "question": "Which option completes this statement correctly? salivary amylase is the term for enzyme that begins starch digestion in the mouth.",
+          "options": [
+            {
+              "label": "A",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "B",
+              "text": "peristalsis"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "intestinal villus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "salivary amylase",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q05",
+          "question": "If an examination asks for the term associated with “enzyme that begins starch digestion in the mouth”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "pepsin"
+            },
+            {
+              "label": "C",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "salivary amylase",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q06",
+          "question": "Which structure, process or concept matches the description “enzyme that begins starch digestion in the mouth”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "peristalsis"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "salivary amylase",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q07",
+          "question": "Choose the accurate statement about salivary amylase.",
+          "options": [
+            {
+              "label": "A",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "B",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "D",
+              "text": "protein-digesting enzyme active in the stomach"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "enzyme that begins starch digestion in the mouth",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q08",
+          "question": "A diagram or observation identifies salivary amylase. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "C",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "D",
+              "text": "protein-digesting enzyme active in the stomach"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "enzyme that begins starch digestion in the mouth",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q09",
+          "question": "Which pairing is correct for salivary amylase?",
+          "options": [
+            {
+              "label": "A",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "C",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "D",
+              "text": "wave-like muscular contractions moving food along the gut"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "enzyme that begins starch digestion in the mouth",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        },
+        {
+          "id": "BIO2_CH03_Q10",
+          "question": "In a topic review, which answer best explains the clue “enzyme that begins starch digestion in the mouth”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "salivary amylase",
+          "explanation": "It hydrolyses starch into smaller carbohydrate products."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH03_T02",
+      "topic_name": "Pepsin",
+      "mcqs": [
+        {
+          "id": "BIO2_CH03_Q11",
+          "question": "Which term is correctly described as: protein-digesting enzyme active in the stomach?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bile"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "peristalsis"
+            },
+            {
+              "label": "D",
+              "text": "pepsin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "pepsin",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q12",
+          "question": "The biological role or defining feature of pepsin is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "B",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "D",
+              "text": "liver-produced secretion that emulsifies fats"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "protein-digesting enzyme active in the stomach",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q13",
+          "question": "A student records the following clue: “protein-digesting enzyme active in the stomach.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "peristalsis"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pepsin",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q14",
+          "question": "Which option completes this statement correctly? pepsin is the term for protein-digesting enzyme active in the stomach.",
+          "options": [
+            {
+              "label": "A",
+              "text": "bile"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "peristalsis"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pepsin",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q15",
+          "question": "If an examination asks for the term associated with “protein-digesting enzyme active in the stomach”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pepsin"
+            },
+            {
+              "label": "B",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "C",
+              "text": "bile"
+            },
+            {
+              "label": "D",
+              "text": "salivary amylase"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "pepsin",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q16",
+          "question": "Which structure, process or concept matches the description “protein-digesting enzyme active in the stomach”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "B",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "C",
+              "text": "peristalsis"
+            },
+            {
+              "label": "D",
+              "text": "pepsin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "pepsin",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q17",
+          "question": "Choose the accurate statement about pepsin.",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "B",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "C",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that begins starch digestion in the mouth"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "protein-digesting enzyme active in the stomach",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q18",
+          "question": "A diagram or observation identifies pepsin. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "C",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "D",
+              "text": "wave-like muscular contractions moving food along the gut"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "protein-digesting enzyme active in the stomach",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q19",
+          "question": "Which pairing is correct for pepsin?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "B",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "C",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "D",
+              "text": "protein-digesting enzyme active in the stomach"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "protein-digesting enzyme active in the stomach",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        },
+        {
+          "id": "BIO2_CH03_Q20",
+          "question": "In a topic review, which answer best explains the clue “protein-digesting enzyme active in the stomach”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "salivary amylase"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pepsin",
+          "explanation": "It functions in the acidic environment of gastric juice."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH03_T03",
+      "topic_name": "Bile",
+      "mcqs": [
+        {
+          "id": "BIO2_CH03_Q21",
+          "question": "Which term is correctly described as: liver-produced secretion that emulsifies fats?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "pepsin"
+            },
+            {
+              "label": "C",
+              "text": "bile"
+            },
+            {
+              "label": "D",
+              "text": "intestinal villus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bile",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q22",
+          "question": "The biological role or defining feature of bile is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "B",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "C",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that begins starch digestion in the mouth"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "liver-produced secretion that emulsifies fats",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q23",
+          "question": "A student records the following clue: “liver-produced secretion that emulsifies fats.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "B",
+              "text": "peristalsis"
+            },
+            {
+              "label": "C",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bile",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q24",
+          "question": "Which option completes this statement correctly? bile is the term for liver-produced secretion that emulsifies fats.",
+          "options": [
+            {
+              "label": "A",
+              "text": "pepsin"
+            },
+            {
+              "label": "B",
+              "text": "peristalsis"
+            },
+            {
+              "label": "C",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bile",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q25",
+          "question": "If an examination asks for the term associated with “liver-produced secretion that emulsifies fats”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "B",
+              "text": "pepsin"
+            },
+            {
+              "label": "C",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bile",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q26",
+          "question": "Which structure, process or concept matches the description “liver-produced secretion that emulsifies fats”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "B",
+              "text": "pepsin"
+            },
+            {
+              "label": "C",
+              "text": "bile"
+            },
+            {
+              "label": "D",
+              "text": "peristalsis"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bile",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q27",
+          "question": "Choose the accurate statement about bile.",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "B",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "C",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "D",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "liver-produced secretion that emulsifies fats",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q28",
+          "question": "A diagram or observation identifies bile. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "B",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "C",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "D",
+              "text": "wave-like muscular contractions moving food along the gut"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "liver-produced secretion that emulsifies fats",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q29",
+          "question": "Which pairing is correct for bile?",
+          "options": [
+            {
+              "label": "A",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "B",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "C",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "D",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "liver-produced secretion that emulsifies fats",
+          "explanation": "It is not itself a digestive enzyme."
+        },
+        {
+          "id": "BIO2_CH03_Q30",
+          "question": "In a topic review, which answer best explains the clue “liver-produced secretion that emulsifies fats”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "B",
+              "text": "peristalsis"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bile",
+          "explanation": "It is not itself a digestive enzyme."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH03_T04",
+      "topic_name": "Peristalsis",
+      "mcqs": [
+        {
+          "id": "BIO2_CH03_Q31",
+          "question": "Which term is correctly described as: wave-like muscular contractions moving food along the gut?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bile"
+            },
+            {
+              "label": "B",
+              "text": "pepsin"
+            },
+            {
+              "label": "C",
+              "text": "peristalsis"
+            },
+            {
+              "label": "D",
+              "text": "intestinal villus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "peristalsis",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q32",
+          "question": "The biological role or defining feature of peristalsis is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "B",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "D",
+              "text": "wave-like muscular contractions moving food along the gut"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "wave-like muscular contractions moving food along the gut",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q33",
+          "question": "A student records the following clue: “wave-like muscular contractions moving food along the gut.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "C",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "peristalsis",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q34",
+          "question": "Which option completes this statement correctly? peristalsis is the term for wave-like muscular contractions moving food along the gut.",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "peristalsis",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q35",
+          "question": "If an examination asks for the term associated with “wave-like muscular contractions moving food along the gut”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "peristalsis",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q36",
+          "question": "Which structure, process or concept matches the description “wave-like muscular contractions moving food along the gut”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peristalsis"
+            },
+            {
+              "label": "B",
+              "text": "bile"
+            },
+            {
+              "label": "C",
+              "text": "pepsin"
+            },
+            {
+              "label": "D",
+              "text": "intestinal villus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "peristalsis",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q37",
+          "question": "Choose the accurate statement about peristalsis.",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "B",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "D",
+              "text": "wave-like muscular contractions moving food along the gut"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "wave-like muscular contractions moving food along the gut",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q38",
+          "question": "A diagram or observation identifies peristalsis. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "B",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "C",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that begins starch digestion in the mouth"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "wave-like muscular contractions moving food along the gut",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q39",
+          "question": "Which pairing is correct for peristalsis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "C",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "D",
+              "text": "liver-produced secretion that emulsifies fats"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "wave-like muscular contractions moving food along the gut",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        },
+        {
+          "id": "BIO2_CH03_Q40",
+          "question": "In a topic review, which answer best explains the clue “wave-like muscular contractions moving food along the gut”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pepsin"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "D",
+              "text": "peristalsis"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "peristalsis",
+          "explanation": "Coordinated contraction and relaxation propel the contents."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH03_T05",
+      "topic_name": "Intestinal Villus",
+      "mcqs": [
+        {
+          "id": "BIO2_CH03_Q41",
+          "question": "Which term is correctly described as: small-intestinal projection that increases absorptive surface area?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pepsin"
+            },
+            {
+              "label": "B",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "C",
+              "text": "bile"
+            },
+            {
+              "label": "D",
+              "text": "peristalsis"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "intestinal villus",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q42",
+          "question": "The biological role or defining feature of intestinal villus is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "liver-produced secretion that emulsifies fats"
+            },
+            {
+              "label": "B",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "C",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that begins starch digestion in the mouth"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "small-intestinal projection that increases absorptive surface area",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q43",
+          "question": "A student records the following clue: “small-intestinal projection that increases absorptive surface area.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pepsin"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "bile"
+            },
+            {
+              "label": "D",
+              "text": "intestinal villus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "intestinal villus",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q44",
+          "question": "Which option completes this statement correctly? intestinal villus is the term for small-intestinal projection that increases absorptive surface area.",
+          "options": [
+            {
+              "label": "A",
+              "text": "bile"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "D",
+              "text": "peristalsis"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "intestinal villus",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q45",
+          "question": "If an examination asks for the term associated with “small-intestinal projection that increases absorptive surface area”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "B",
+              "text": "pepsin"
+            },
+            {
+              "label": "C",
+              "text": "peristalsis"
+            },
+            {
+              "label": "D",
+              "text": "intestinal villus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "intestinal villus",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q46",
+          "question": "Which structure, process or concept matches the description “small-intestinal projection that increases absorptive surface area”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pepsin"
+            },
+            {
+              "label": "B",
+              "text": "salivary amylase"
+            },
+            {
+              "label": "C",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "D",
+              "text": "bile"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "intestinal villus",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q47",
+          "question": "Choose the accurate statement about intestinal villus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "B",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "C",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "D",
+              "text": "protein-digesting enzyme active in the stomach"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "small-intestinal projection that increases absorptive surface area",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q48",
+          "question": "A diagram or observation identifies intestinal villus. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "B",
+              "text": "protein-digesting enzyme active in the stomach"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "D",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "small-intestinal projection that increases absorptive surface area",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q49",
+          "question": "Which pairing is correct for intestinal villus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that begins starch digestion in the mouth"
+            },
+            {
+              "label": "B",
+              "text": "small-intestinal projection that increases absorptive surface area"
+            },
+            {
+              "label": "C",
+              "text": "wave-like muscular contractions moving food along the gut"
+            },
+            {
+              "label": "D",
+              "text": "protein-digesting enzyme active in the stomach"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "small-intestinal projection that increases absorptive surface area",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        },
+        {
+          "id": "BIO2_CH03_Q50",
+          "question": "In a topic review, which answer best explains the clue “small-intestinal projection that increases absorptive surface area”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pepsin"
+            },
+            {
+              "label": "B",
+              "text": "intestinal villus"
+            },
+            {
+              "label": "C",
+              "text": "bile"
+            },
+            {
+              "label": "D",
+              "text": "peristalsis"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "intestinal villus",
+          "explanation": "Its capillaries and lacteal help transport absorbed nutrients."
+        }
+      ]
+    }
+  ]
+}

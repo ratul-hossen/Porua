@@ -1,0 +1,173 @@
+{
+  "class": "HSC 12th Class",
+  "stream": "Science",
+  "subject": "Biology",
+  "language": "English",
+  "total_papers": 2,
+  "total_chapters": 24,
+  "total_mcqs": 1200,
+  "papers": [
+    {
+      "paper": "1st Paper",
+      "paper_name": "Botany",
+      "subject_code": 178,
+      "total_chapters": 12,
+      "total_mcqs": 600,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Cell and its Structure",
+          "file": "1st_Paper/chapter_01.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Cell Division",
+          "file": "1st_Paper/chapter_02.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Cell Chemistry",
+          "file": "1st_Paper/chapter_03.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Microorganisms",
+          "file": "1st_Paper/chapter_04.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Algae and Fungi",
+          "file": "1st_Paper/chapter_05.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 6,
+          "chapter_title": "Bryophyta and Pteridophyta",
+          "file": "1st_Paper/chapter_06.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 7,
+          "chapter_title": "Gymnosperms and Angiosperms",
+          "file": "1st_Paper/chapter_07.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 8,
+          "chapter_title": "Tissue and Tissue System",
+          "file": "1st_Paper/chapter_08.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 9,
+          "chapter_title": "Plant Physiology",
+          "file": "1st_Paper/chapter_09.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 10,
+          "chapter_title": "Plant Reproduction",
+          "file": "1st_Paper/chapter_10.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 11,
+          "chapter_title": "Biotechnology",
+          "file": "1st_Paper/chapter_11.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 12,
+          "chapter_title": "Environment, Distribution and Conservation of Organisms",
+          "file": "1st_Paper/chapter_12.json",
+          "total_mcqs": 50
+        }
+      ]
+    },
+    {
+      "paper": "2nd Paper",
+      "paper_name": "Zoology",
+      "subject_code": 179,
+      "total_chapters": 12,
+      "total_mcqs": 600,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Animal Diversity and Classification",
+          "file": "2nd_Paper/chapter_01.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Introduction to Animals",
+          "file": "2nd_Paper/chapter_02.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Human Physiology: Digestion and Absorption",
+          "file": "2nd_Paper/chapter_03.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Human Physiology: Blood and Circulation",
+          "file": "2nd_Paper/chapter_04.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Human Physiology: Respiration and Breathing",
+          "file": "2nd_Paper/chapter_05.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 6,
+          "chapter_title": "Human Physiology: Waste and Excretion",
+          "file": "2nd_Paper/chapter_06.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 7,
+          "chapter_title": "Human Physiology: Locomotion and Movement",
+          "file": "2nd_Paper/chapter_07.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 8,
+          "chapter_title": "Human Physiology: Coordination and Control",
+          "file": "2nd_Paper/chapter_08.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 9,
+          "chapter_title": "Continuity of Human Life",
+          "file": "2nd_Paper/chapter_09.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 10,
+          "chapter_title": "Defence of the Human Body",
+          "file": "2nd_Paper/chapter_10.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 11,
+          "chapter_title": "Genetics and Evolution",
+          "file": "2nd_Paper/chapter_11.json",
+          "total_mcqs": 50
+        },
+        {
+          "chapter_number": 12,
+          "chapter_title": "Animal Behaviour",
+          "file": "2nd_Paper/chapter_12.json",
+          "total_mcqs": 50
+        }
+      ]
+    }
+  ]
+}

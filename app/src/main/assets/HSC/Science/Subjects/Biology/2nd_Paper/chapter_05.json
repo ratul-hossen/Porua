@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 5,
+  "chapter_title": "Human Physiology: Respiration and Breathing",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH05_T01",
+      "topic_name": "Diaphragm",
+      "mcqs": [
+        {
+          "id": "BIO2_CH05_Q01",
+          "question": "Which term is correctly described as: muscle that flattens during inhalation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "B",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "C",
+              "text": "diaphragm"
+            },
+            {
+              "label": "D",
+              "text": "bicarbonate ion"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "diaphragm",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q02",
+          "question": "The biological role or defining feature of diaphragm is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "B",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "C",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "D",
+              "text": "muscle that flattens during inhalation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "muscle that flattens during inhalation",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q03",
+          "question": "A student records the following clue: “muscle that flattens during inhalation.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "B",
+              "text": "alveolus"
+            },
+            {
+              "label": "C",
+              "text": "diaphragm"
+            },
+            {
+              "label": "D",
+              "text": "haemoglobin"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "diaphragm",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q04",
+          "question": "Which option completes this statement correctly? diaphragm is the term for muscle that flattens during inhalation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "alveolus"
+            },
+            {
+              "label": "B",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "diaphragm"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "diaphragm",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q05",
+          "question": "If an examination asks for the term associated with “muscle that flattens during inhalation”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "B",
+              "text": "diaphragm"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "aerobic respiration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "diaphragm",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q06",
+          "question": "Which structure, process or concept matches the description “muscle that flattens during inhalation”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alveolus"
+            },
+            {
+              "label": "B",
+              "text": "diaphragm"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "haemoglobin"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "diaphragm",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q07",
+          "question": "Choose the accurate statement about diaphragm.",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "B",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "C",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "D",
+              "text": "tiny lung air sac where gas exchange occurs"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "muscle that flattens during inhalation",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q08",
+          "question": "A diagram or observation identifies diaphragm. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "B",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "C",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "D",
+              "text": "muscle that flattens during inhalation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "muscle that flattens during inhalation",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q09",
+          "question": "Which pairing is correct for diaphragm?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "B",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "C",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "D",
+              "text": "tiny lung air sac where gas exchange occurs"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "muscle that flattens during inhalation",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        },
+        {
+          "id": "BIO2_CH05_Q10",
+          "question": "In a topic review, which answer best explains the clue “muscle that flattens during inhalation”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "B",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "C",
+              "text": "diaphragm"
+            },
+            {
+              "label": "D",
+              "text": "haemoglobin"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "diaphragm",
+          "explanation": "Its contraction increases thoracic cavity volume."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH05_T02",
+      "topic_name": "Alveolus",
+      "mcqs": [
+        {
+          "id": "BIO2_CH05_Q11",
+          "question": "Which term is correctly described as: tiny lung air sac where gas exchange occurs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alveolus"
+            },
+            {
+              "label": "B",
+              "text": "diaphragm"
+            },
+            {
+              "label": "C",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "D",
+              "text": "bicarbonate ion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "alveolus",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q12",
+          "question": "The biological role or defining feature of alveolus is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "B",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "C",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "D",
+              "text": "tiny lung air sac where gas exchange occurs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "tiny lung air sac where gas exchange occurs",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q13",
+          "question": "A student records the following clue: “tiny lung air sac where gas exchange occurs.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "diaphragm"
+            },
+            {
+              "label": "B",
+              "text": "alveolus"
+            },
+            {
+              "label": "C",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "D",
+              "text": "aerobic respiration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "alveolus",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q14",
+          "question": "Which option completes this statement correctly? alveolus is the term for tiny lung air sac where gas exchange occurs.",
+          "options": [
+            {
+              "label": "A",
+              "text": "alveolus"
+            },
+            {
+              "label": "B",
+              "text": "diaphragm"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "haemoglobin"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "alveolus",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q15",
+          "question": "If an examination asks for the term associated with “tiny lung air sac where gas exchange occurs”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "B",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "alveolus"
+            },
+            {
+              "label": "D",
+              "text": "aerobic respiration"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "alveolus",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q16",
+          "question": "Which structure, process or concept matches the description “tiny lung air sac where gas exchange occurs”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "diaphragm"
+            },
+            {
+              "label": "B",
+              "text": "alveolus"
+            },
+            {
+              "label": "C",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "D",
+              "text": "bicarbonate ion"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "alveolus",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q17",
+          "question": "Choose the accurate statement about alveolus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "B",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "C",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "D",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "tiny lung air sac where gas exchange occurs",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q18",
+          "question": "A diagram or observation identifies alveolus. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "B",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "C",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "D",
+              "text": "tiny lung air sac where gas exchange occurs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "tiny lung air sac where gas exchange occurs",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q19",
+          "question": "Which pairing is correct for alveolus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "B",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "C",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "D",
+              "text": "tiny lung air sac where gas exchange occurs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "tiny lung air sac where gas exchange occurs",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        },
+        {
+          "id": "BIO2_CH05_Q20",
+          "question": "In a topic review, which answer best explains the clue “tiny lung air sac where gas exchange occurs”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "diaphragm"
+            },
+            {
+              "label": "B",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "C",
+              "text": "alveolus"
+            },
+            {
+              "label": "D",
+              "text": "haemoglobin"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "alveolus",
+          "explanation": "Its thin wall and large surface area facilitate diffusion."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH05_T03",
+      "topic_name": "Haemoglobin",
+      "mcqs": [
+        {
+          "id": "BIO2_CH05_Q21",
+          "question": "Which term is correctly described as: protein in red blood cells that binds oxygen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alveolus"
+            },
+            {
+              "label": "B",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "aerobic respiration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "haemoglobin",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q22",
+          "question": "The biological role or defining feature of haemoglobin is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "B",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "C",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "D",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "protein in red blood cells that binds oxygen",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q23",
+          "question": "A student records the following clue: “protein in red blood cells that binds oxygen.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "B",
+              "text": "diaphragm"
+            },
+            {
+              "label": "C",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "D",
+              "text": "aerobic respiration"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "haemoglobin",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q24",
+          "question": "Which option completes this statement correctly? haemoglobin is the term for protein in red blood cells that binds oxygen.",
+          "options": [
+            {
+              "label": "A",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "B",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "C",
+              "text": "alveolus"
+            },
+            {
+              "label": "D",
+              "text": "diaphragm"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "haemoglobin",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q25",
+          "question": "If an examination asks for the term associated with “protein in red blood cells that binds oxygen”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "B",
+              "text": "alveolus"
+            },
+            {
+              "label": "C",
+              "text": "diaphragm"
+            },
+            {
+              "label": "D",
+              "text": "aerobic respiration"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "haemoglobin",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q26",
+          "question": "Which structure, process or concept matches the description “protein in red blood cells that binds oxygen”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "B",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "diaphragm"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "haemoglobin",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q27",
+          "question": "Choose the accurate statement about haemoglobin.",
+          "options": [
+            {
+              "label": "A",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "B",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "C",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "D",
+              "text": "protein in red blood cells that binds oxygen"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "protein in red blood cells that binds oxygen",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q28",
+          "question": "A diagram or observation identifies haemoglobin. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "B",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "C",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "D",
+              "text": "tiny lung air sac where gas exchange occurs"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "protein in red blood cells that binds oxygen",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q29",
+          "question": "Which pairing is correct for haemoglobin?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "B",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "C",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "D",
+              "text": "protein in red blood cells that binds oxygen"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "protein in red blood cells that binds oxygen",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        },
+        {
+          "id": "BIO2_CH05_Q30",
+          "question": "In a topic review, which answer best explains the clue “protein in red blood cells that binds oxygen”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "B",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "alveolus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "haemoglobin",
+          "explanation": "Oxygen is carried mainly as oxyhaemoglobin."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH05_T04",
+      "topic_name": "Bicarbonate Ion",
+      "mcqs": [
+        {
+          "id": "BIO2_CH05_Q31",
+          "question": "Which term is correctly described as: major form in which carbon dioxide is transported in blood?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alveolus"
+            },
+            {
+              "label": "B",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "C",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "D",
+              "text": "diaphragm"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "bicarbonate ion",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q32",
+          "question": "The biological role or defining feature of bicarbonate ion is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "B",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "C",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "D",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "major form in which carbon dioxide is transported in blood",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q33",
+          "question": "A student records the following clue: “major form in which carbon dioxide is transported in blood.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "B",
+              "text": "alveolus"
+            },
+            {
+              "label": "C",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "D",
+              "text": "diaphragm"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "bicarbonate ion",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q34",
+          "question": "Which option completes this statement correctly? bicarbonate ion is the term for major form in which carbon dioxide is transported in blood.",
+          "options": [
+            {
+              "label": "A",
+              "text": "alveolus"
+            },
+            {
+              "label": "B",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "C",
+              "text": "diaphragm"
+            },
+            {
+              "label": "D",
+              "text": "haemoglobin"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "bicarbonate ion",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q35",
+          "question": "If an examination asks for the term associated with “major form in which carbon dioxide is transported in blood”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "B",
+              "text": "diaphragm"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "alveolus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bicarbonate ion",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q36",
+          "question": "Which structure, process or concept matches the description “major form in which carbon dioxide is transported in blood”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "B",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "C",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "D",
+              "text": "alveolus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "bicarbonate ion",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q37",
+          "question": "Choose the accurate statement about bicarbonate ion.",
+          "options": [
+            {
+              "label": "A",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "B",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "C",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "D",
+              "text": "protein in red blood cells that binds oxygen"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "major form in which carbon dioxide is transported in blood",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q38",
+          "question": "A diagram or observation identifies bicarbonate ion. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "B",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "C",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "D",
+              "text": "muscle that flattens during inhalation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "major form in which carbon dioxide is transported in blood",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q39",
+          "question": "Which pairing is correct for bicarbonate ion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "B",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "C",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "D",
+              "text": "major form in which carbon dioxide is transported in blood"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "major form in which carbon dioxide is transported in blood",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        },
+        {
+          "id": "BIO2_CH05_Q40",
+          "question": "In a topic review, which answer best explains the clue “major form in which carbon dioxide is transported in blood”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "B",
+              "text": "alveolus"
+            },
+            {
+              "label": "C",
+              "text": "diaphragm"
+            },
+            {
+              "label": "D",
+              "text": "haemoglobin"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "bicarbonate ion",
+          "explanation": "Much carbon dioxide is converted to bicarbonate in red blood cells."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH05_T05",
+      "topic_name": "Aerobic Respiration",
+      "mcqs": [
+        {
+          "id": "BIO2_CH05_Q41",
+          "question": "Which term is correctly described as: cellular process using oxygen to release energy from nutrients?",
+          "options": [
+            {
+              "label": "A",
+              "text": "diaphragm"
+            },
+            {
+              "label": "B",
+              "text": "alveolus"
+            },
+            {
+              "label": "C",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "D",
+              "text": "bicarbonate ion"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "aerobic respiration",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q42",
+          "question": "The biological role or defining feature of aerobic respiration is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "B",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "C",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "D",
+              "text": "tiny lung air sac where gas exchange occurs"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cellular process using oxygen to release energy from nutrients",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q43",
+          "question": "A student records the following clue: “cellular process using oxygen to release energy from nutrients.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "B",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "C",
+              "text": "alveolus"
+            },
+            {
+              "label": "D",
+              "text": "diaphragm"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "aerobic respiration",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q44",
+          "question": "Which option completes this statement correctly? aerobic respiration is the term for cellular process using oxygen to release energy from nutrients.",
+          "options": [
+            {
+              "label": "A",
+              "text": "diaphragm"
+            },
+            {
+              "label": "B",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "alveolus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "aerobic respiration",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q45",
+          "question": "If an examination asks for the term associated with “cellular process using oxygen to release energy from nutrients”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "B",
+              "text": "diaphragm"
+            },
+            {
+              "label": "C",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "D",
+              "text": "aerobic respiration"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "aerobic respiration",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q46",
+          "question": "Which structure, process or concept matches the description “cellular process using oxygen to release energy from nutrients”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "diaphragm"
+            },
+            {
+              "label": "B",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "C",
+              "text": "aerobic respiration"
+            },
+            {
+              "label": "D",
+              "text": "alveolus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "aerobic respiration",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q47",
+          "question": "Choose the accurate statement about aerobic respiration.",
+          "options": [
+            {
+              "label": "A",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "B",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "C",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "D",
+              "text": "protein in red blood cells that binds oxygen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "cellular process using oxygen to release energy from nutrients",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q48",
+          "question": "A diagram or observation identifies aerobic respiration. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tiny lung air sac where gas exchange occurs"
+            },
+            {
+              "label": "B",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            },
+            {
+              "label": "C",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "D",
+              "text": "protein in red blood cells that binds oxygen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "cellular process using oxygen to release energy from nutrients",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q49",
+          "question": "Which pairing is correct for aerobic respiration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protein in red blood cells that binds oxygen"
+            },
+            {
+              "label": "B",
+              "text": "muscle that flattens during inhalation"
+            },
+            {
+              "label": "C",
+              "text": "major form in which carbon dioxide is transported in blood"
+            },
+            {
+              "label": "D",
+              "text": "cellular process using oxygen to release energy from nutrients"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "cellular process using oxygen to release energy from nutrients",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        },
+        {
+          "id": "BIO2_CH05_Q50",
+          "question": "In a topic review, which answer best explains the clue “cellular process using oxygen to release energy from nutrients”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bicarbonate ion"
+            },
+            {
+              "label": "B",
+              "text": "alveolus"
+            },
+            {
+              "label": "C",
+              "text": "haemoglobin"
+            },
+            {
+              "label": "D",
+              "text": "aerobic respiration"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "aerobic respiration",
+          "explanation": "It yields ATP and produces carbon dioxide and water."
+        }
+      ]
+    }
+  ]
+}

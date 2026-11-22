@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 5,
+  "chapter_title": "Economic Chemistry",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Industrial chemistry",
+      "questions": [
+        {
+          "id": "CH05-MCQ-001",
+          "question": "Which statement correctly describes industrial chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical processes used for large-scale production"
+            },
+            {
+              "label": "B",
+              "text": "Classification of plants"
+            },
+            {
+              "label": "C",
+              "text": "Measurement of earthquakes"
+            },
+            {
+              "label": "D",
+              "text": "Study of stars only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chemical processes used for large-scale production",
+          "explanation": "Industrial chemistry applies chemical principles to manufacture useful products.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning industrial chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical processes used for large-scale production"
+            },
+            {
+              "label": "B",
+              "text": "Classification of plants"
+            },
+            {
+              "label": "C",
+              "text": "Study of stars only"
+            },
+            {
+              "label": "D",
+              "text": "Measurement of earthquakes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chemical processes used for large-scale production",
+          "explanation": "Industrial chemistry applies chemical principles to manufacture useful products.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-003",
+          "question": "A student is reviewing industrial chemistry. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Measurement of earthquakes"
+            },
+            {
+              "label": "B",
+              "text": "Classification of plants"
+            },
+            {
+              "label": "C",
+              "text": "Chemical processes used for large-scale production"
+            },
+            {
+              "label": "D",
+              "text": "Study of stars only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Chemical processes used for large-scale production",
+          "explanation": "Industrial chemistry applies chemical principles to manufacture useful products.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-004",
+          "question": "Which option gives the most accurate explanation of industrial chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical processes used for large-scale production"
+            },
+            {
+              "label": "B",
+              "text": "Measurement of earthquakes"
+            },
+            {
+              "label": "C",
+              "text": "Classification of plants"
+            },
+            {
+              "label": "D",
+              "text": "Study of stars only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chemical processes used for large-scale production",
+          "explanation": "Industrial chemistry applies chemical principles to manufacture useful products.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-005",
+          "question": "Choose the correct principle or fact associated with industrial chemistry.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical processes used for large-scale production"
+            },
+            {
+              "label": "B",
+              "text": "Study of stars only"
+            },
+            {
+              "label": "C",
+              "text": "Classification of plants"
+            },
+            {
+              "label": "D",
+              "text": "Measurement of earthquakes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chemical processes used for large-scale production",
+          "explanation": "Industrial chemistry applies chemical principles to manufacture useful products.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Raw material",
+      "questions": [
+        {
+          "id": "CH05-MCQ-006",
+          "question": "Which statement correctly describes raw material?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the final packaged product"
+            },
+            {
+              "label": "B",
+              "text": "A waste label"
+            },
+            {
+              "label": "C",
+              "text": "Starting substance used in manufacturing"
+            },
+            {
+              "label": "D",
+              "text": "A laboratory thermometer"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Starting substance used in manufacturing",
+          "explanation": "Raw materials are processed to make intermediate or finished products.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning raw material?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A waste label"
+            },
+            {
+              "label": "B",
+              "text": "Starting substance used in manufacturing"
+            },
+            {
+              "label": "C",
+              "text": "Only the final packaged product"
+            },
+            {
+              "label": "D",
+              "text": "A laboratory thermometer"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Starting substance used in manufacturing",
+          "explanation": "Raw materials are processed to make intermediate or finished products.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-008",
+          "question": "A student is reviewing raw material. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the final packaged product"
+            },
+            {
+              "label": "B",
+              "text": "A laboratory thermometer"
+            },
+            {
+              "label": "C",
+              "text": "A waste label"
+            },
+            {
+              "label": "D",
+              "text": "Starting substance used in manufacturing"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Starting substance used in manufacturing",
+          "explanation": "Raw materials are processed to make intermediate or finished products.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-009",
+          "question": "Which option gives the most accurate explanation of raw material?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Starting substance used in manufacturing"
+            },
+            {
+              "label": "B",
+              "text": "A waste label"
+            },
+            {
+              "label": "C",
+              "text": "Only the final packaged product"
+            },
+            {
+              "label": "D",
+              "text": "A laboratory thermometer"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Starting substance used in manufacturing",
+          "explanation": "Raw materials are processed to make intermediate or finished products.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-010",
+          "question": "Choose the correct principle or fact associated with raw material.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the final packaged product"
+            },
+            {
+              "label": "B",
+              "text": "A waste label"
+            },
+            {
+              "label": "C",
+              "text": "Starting substance used in manufacturing"
+            },
+            {
+              "label": "D",
+              "text": "A laboratory thermometer"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Starting substance used in manufacturing",
+          "explanation": "Raw materials are processed to make intermediate or finished products.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Catalyst in industry",
+      "questions": [
+        {
+          "id": "CH05-MCQ-011",
+          "question": "Which statement correctly describes catalyst in industry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Improves rate and process efficiency"
+            },
+            {
+              "label": "B",
+              "text": "Makes equilibrium impossible"
+            },
+            {
+              "label": "C",
+              "text": "Is always consumed completely"
+            },
+            {
+              "label": "D",
+              "text": "Changes the identity of atoms"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Improves rate and process efficiency",
+          "explanation": "Industrial catalysts can increase production rates and reduce energy requirements.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning catalyst in industry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Is always consumed completely"
+            },
+            {
+              "label": "B",
+              "text": "Improves rate and process efficiency"
+            },
+            {
+              "label": "C",
+              "text": "Makes equilibrium impossible"
+            },
+            {
+              "label": "D",
+              "text": "Changes the identity of atoms"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Improves rate and process efficiency",
+          "explanation": "Industrial catalysts can increase production rates and reduce energy requirements.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-013",
+          "question": "A student is reviewing catalyst in industry. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Improves rate and process efficiency"
+            },
+            {
+              "label": "B",
+              "text": "Is always consumed completely"
+            },
+            {
+              "label": "C",
+              "text": "Makes equilibrium impossible"
+            },
+            {
+              "label": "D",
+              "text": "Changes the identity of atoms"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Improves rate and process efficiency",
+          "explanation": "Industrial catalysts can increase production rates and reduce energy requirements.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-014",
+          "question": "Which option gives the most accurate explanation of catalyst in industry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Improves rate and process efficiency"
+            },
+            {
+              "label": "B",
+              "text": "Is always consumed completely"
+            },
+            {
+              "label": "C",
+              "text": "Makes equilibrium impossible"
+            },
+            {
+              "label": "D",
+              "text": "Changes the identity of atoms"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Improves rate and process efficiency",
+          "explanation": "Industrial catalysts can increase production rates and reduce energy requirements.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-015",
+          "question": "Choose the correct principle or fact associated with catalyst in industry.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Improves rate and process efficiency"
+            },
+            {
+              "label": "B",
+              "text": "Changes the identity of atoms"
+            },
+            {
+              "label": "C",
+              "text": "Is always consumed completely"
+            },
+            {
+              "label": "D",
+              "text": "Makes equilibrium impossible"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Improves rate and process efficiency",
+          "explanation": "Industrial catalysts can increase production rates and reduce energy requirements.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Petrochemical",
+      "questions": [
+        {
+          "id": "CH05-MCQ-016",
+          "question": "Which statement correctly describes petrochemical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A mineral extracted only from seawater"
+            },
+            {
+              "label": "B",
+              "text": "Chemical derived from petroleum or natural gas"
+            },
+            {
+              "label": "C",
+              "text": "A biological cell"
+            },
+            {
+              "label": "D",
+              "text": "A pure metal"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Chemical derived from petroleum or natural gas",
+          "explanation": "Petrochemicals are feedstocks for plastics, fibres, solvents and many other products.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning petrochemical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A biological cell"
+            },
+            {
+              "label": "B",
+              "text": "A pure metal"
+            },
+            {
+              "label": "C",
+              "text": "Chemical derived from petroleum or natural gas"
+            },
+            {
+              "label": "D",
+              "text": "A mineral extracted only from seawater"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Chemical derived from petroleum or natural gas",
+          "explanation": "Petrochemicals are feedstocks for plastics, fibres, solvents and many other products.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-018",
+          "question": "A student is reviewing petrochemical. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical derived from petroleum or natural gas"
+            },
+            {
+              "label": "B",
+              "text": "A mineral extracted only from seawater"
+            },
+            {
+              "label": "C",
+              "text": "A pure metal"
+            },
+            {
+              "label": "D",
+              "text": "A biological cell"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chemical derived from petroleum or natural gas",
+          "explanation": "Petrochemicals are feedstocks for plastics, fibres, solvents and many other products.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-019",
+          "question": "Which option gives the most accurate explanation of petrochemical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Chemical derived from petroleum or natural gas"
+            },
+            {
+              "label": "B",
+              "text": "A mineral extracted only from seawater"
+            },
+            {
+              "label": "C",
+              "text": "A biological cell"
+            },
+            {
+              "label": "D",
+              "text": "A pure metal"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Chemical derived from petroleum or natural gas",
+          "explanation": "Petrochemicals are feedstocks for plastics, fibres, solvents and many other products.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-020",
+          "question": "Choose the correct principle or fact associated with petrochemical.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A biological cell"
+            },
+            {
+              "label": "B",
+              "text": "A pure metal"
+            },
+            {
+              "label": "C",
+              "text": "Chemical derived from petroleum or natural gas"
+            },
+            {
+              "label": "D",
+              "text": "A mineral extracted only from seawater"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Chemical derived from petroleum or natural gas",
+          "explanation": "Petrochemicals are feedstocks for plastics, fibres, solvents and many other products.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Quality control",
+      "questions": [
+        {
+          "id": "CH05-MCQ-021",
+          "question": "Which statement correctly describes quality control?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Replaces manufacturing"
+            },
+            {
+              "label": "B",
+              "text": "Increases defects deliberately"
+            },
+            {
+              "label": "C",
+              "text": "Avoids all measurement"
+            },
+            {
+              "label": "D",
+              "text": "Checks whether products meet specified standards"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Checks whether products meet specified standards",
+          "explanation": "Sampling and testing help maintain consistency, safety and performance.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning quality control?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Checks whether products meet specified standards"
+            },
+            {
+              "label": "B",
+              "text": "Avoids all measurement"
+            },
+            {
+              "label": "C",
+              "text": "Replaces manufacturing"
+            },
+            {
+              "label": "D",
+              "text": "Increases defects deliberately"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Checks whether products meet specified standards",
+          "explanation": "Sampling and testing help maintain consistency, safety and performance.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-023",
+          "question": "A student is reviewing quality control. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Replaces manufacturing"
+            },
+            {
+              "label": "B",
+              "text": "Checks whether products meet specified standards"
+            },
+            {
+              "label": "C",
+              "text": "Avoids all measurement"
+            },
+            {
+              "label": "D",
+              "text": "Increases defects deliberately"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Checks whether products meet specified standards",
+          "explanation": "Sampling and testing help maintain consistency, safety and performance.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-024",
+          "question": "Which option gives the most accurate explanation of quality control?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increases defects deliberately"
+            },
+            {
+              "label": "B",
+              "text": "Checks whether products meet specified standards"
+            },
+            {
+              "label": "C",
+              "text": "Avoids all measurement"
+            },
+            {
+              "label": "D",
+              "text": "Replaces manufacturing"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Checks whether products meet specified standards",
+          "explanation": "Sampling and testing help maintain consistency, safety and performance.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-025",
+          "question": "Choose the correct principle or fact associated with quality control.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Checks whether products meet specified standards"
+            },
+            {
+              "label": "B",
+              "text": "Avoids all measurement"
+            },
+            {
+              "label": "C",
+              "text": "Increases defects deliberately"
+            },
+            {
+              "label": "D",
+              "text": "Replaces manufacturing"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Checks whether products meet specified standards",
+          "explanation": "Sampling and testing help maintain consistency, safety and performance.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Green chemistry",
+      "questions": [
+        {
+          "id": "CH05-MCQ-026",
+          "question": "Which statement correctly describes green chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Using more toxic reagents"
+            },
+            {
+              "label": "B",
+              "text": "Ignoring energy use"
+            },
+            {
+              "label": "C",
+              "text": "Maximising waste"
+            },
+            {
+              "label": "D",
+              "text": "Designing products and processes to reduce hazardous substances and waste"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Designing products and processes to reduce hazardous substances and waste",
+          "explanation": "Green chemistry aims to prevent pollution at its source.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning green chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ignoring energy use"
+            },
+            {
+              "label": "B",
+              "text": "Maximising waste"
+            },
+            {
+              "label": "C",
+              "text": "Designing products and processes to reduce hazardous substances and waste"
+            },
+            {
+              "label": "D",
+              "text": "Using more toxic reagents"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Designing products and processes to reduce hazardous substances and waste",
+          "explanation": "Green chemistry aims to prevent pollution at its source.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-028",
+          "question": "A student is reviewing green chemistry. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ignoring energy use"
+            },
+            {
+              "label": "B",
+              "text": "Designing products and processes to reduce hazardous substances and waste"
+            },
+            {
+              "label": "C",
+              "text": "Maximising waste"
+            },
+            {
+              "label": "D",
+              "text": "Using more toxic reagents"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Designing products and processes to reduce hazardous substances and waste",
+          "explanation": "Green chemistry aims to prevent pollution at its source.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-029",
+          "question": "Which option gives the most accurate explanation of green chemistry?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Designing products and processes to reduce hazardous substances and waste"
+            },
+            {
+              "label": "B",
+              "text": "Maximising waste"
+            },
+            {
+              "label": "C",
+              "text": "Using more toxic reagents"
+            },
+            {
+              "label": "D",
+              "text": "Ignoring energy use"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Designing products and processes to reduce hazardous substances and waste",
+          "explanation": "Green chemistry aims to prevent pollution at its source.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-030",
+          "question": "Choose the correct principle or fact associated with green chemistry.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Designing products and processes to reduce hazardous substances and waste"
+            },
+            {
+              "label": "B",
+              "text": "Maximising waste"
+            },
+            {
+              "label": "C",
+              "text": "Ignoring energy use"
+            },
+            {
+              "label": "D",
+              "text": "Using more toxic reagents"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Designing products and processes to reduce hazardous substances and waste",
+          "explanation": "Green chemistry aims to prevent pollution at its source.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Batch process",
+      "questions": [
+        {
+          "id": "CH05-MCQ-031",
+          "question": "Which statement correctly describes batch process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Production in separate measured lots"
+            },
+            {
+              "label": "B",
+              "text": "A process without raw materials"
+            },
+            {
+              "label": "C",
+              "text": "A process that cannot be controlled"
+            },
+            {
+              "label": "D",
+              "text": "Continuous uninterrupted flow only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Production in separate measured lots",
+          "explanation": "Materials are charged, processed and discharged in batches.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning batch process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A process without raw materials"
+            },
+            {
+              "label": "B",
+              "text": "A process that cannot be controlled"
+            },
+            {
+              "label": "C",
+              "text": "Production in separate measured lots"
+            },
+            {
+              "label": "D",
+              "text": "Continuous uninterrupted flow only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Production in separate measured lots",
+          "explanation": "Materials are charged, processed and discharged in batches.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-033",
+          "question": "A student is reviewing batch process. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Production in separate measured lots"
+            },
+            {
+              "label": "B",
+              "text": "A process that cannot be controlled"
+            },
+            {
+              "label": "C",
+              "text": "Continuous uninterrupted flow only"
+            },
+            {
+              "label": "D",
+              "text": "A process without raw materials"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Production in separate measured lots",
+          "explanation": "Materials are charged, processed and discharged in batches.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-034",
+          "question": "Which option gives the most accurate explanation of batch process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A process that cannot be controlled"
+            },
+            {
+              "label": "B",
+              "text": "Continuous uninterrupted flow only"
+            },
+            {
+              "label": "C",
+              "text": "A process without raw materials"
+            },
+            {
+              "label": "D",
+              "text": "Production in separate measured lots"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Production in separate measured lots",
+          "explanation": "Materials are charged, processed and discharged in batches.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-035",
+          "question": "Choose the correct principle or fact associated with batch process.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A process that cannot be controlled"
+            },
+            {
+              "label": "B",
+              "text": "A process without raw materials"
+            },
+            {
+              "label": "C",
+              "text": "Production in separate measured lots"
+            },
+            {
+              "label": "D",
+              "text": "Continuous uninterrupted flow only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Production in separate measured lots",
+          "explanation": "Materials are charged, processed and discharged in batches.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Continuous process",
+      "questions": [
+        {
+          "id": "CH05-MCQ-036",
+          "question": "Which statement correctly describes continuous process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Uses one isolated batch only"
+            },
+            {
+              "label": "B",
+              "text": "Feed and product flow continuously"
+            },
+            {
+              "label": "C",
+              "text": "Has no input stream"
+            },
+            {
+              "label": "D",
+              "text": "Stops after every molecule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Feed and product flow continuously",
+          "explanation": "Continuous plants operate with steady feed and product streams.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning continuous process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Feed and product flow continuously"
+            },
+            {
+              "label": "B",
+              "text": "Stops after every molecule"
+            },
+            {
+              "label": "C",
+              "text": "Has no input stream"
+            },
+            {
+              "label": "D",
+              "text": "Uses one isolated batch only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Feed and product flow continuously",
+          "explanation": "Continuous plants operate with steady feed and product streams.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-038",
+          "question": "A student is reviewing continuous process. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stops after every molecule"
+            },
+            {
+              "label": "B",
+              "text": "Feed and product flow continuously"
+            },
+            {
+              "label": "C",
+              "text": "Has no input stream"
+            },
+            {
+              "label": "D",
+              "text": "Uses one isolated batch only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Feed and product flow continuously",
+          "explanation": "Continuous plants operate with steady feed and product streams.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-039",
+          "question": "Which option gives the most accurate explanation of continuous process?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Uses one isolated batch only"
+            },
+            {
+              "label": "B",
+              "text": "Stops after every molecule"
+            },
+            {
+              "label": "C",
+              "text": "Has no input stream"
+            },
+            {
+              "label": "D",
+              "text": "Feed and product flow continuously"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Feed and product flow continuously",
+          "explanation": "Continuous plants operate with steady feed and product streams.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-040",
+          "question": "Choose the correct principle or fact associated with continuous process.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Uses one isolated batch only"
+            },
+            {
+              "label": "B",
+              "text": "Feed and product flow continuously"
+            },
+            {
+              "label": "C",
+              "text": "Stops after every molecule"
+            },
+            {
+              "label": "D",
+              "text": "Has no input stream"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Feed and product flow continuously",
+          "explanation": "Continuous plants operate with steady feed and product streams.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Effluent treatment",
+      "questions": [
+        {
+          "id": "CH05-MCQ-041",
+          "question": "Which statement correctly describes effluent treatment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Adds untreated waste to rivers"
+            },
+            {
+              "label": "B",
+              "text": "Raises pollutant concentration intentionally"
+            },
+            {
+              "label": "C",
+              "text": "Removes the need for monitoring"
+            },
+            {
+              "label": "D",
+              "text": "Treats industrial wastewater before discharge"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Treats industrial wastewater before discharge",
+          "explanation": "Treatment reduces pollutants and helps meet environmental discharge standards.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning effluent treatment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Treats industrial wastewater before discharge"
+            },
+            {
+              "label": "B",
+              "text": "Removes the need for monitoring"
+            },
+            {
+              "label": "C",
+              "text": "Raises pollutant concentration intentionally"
+            },
+            {
+              "label": "D",
+              "text": "Adds untreated waste to rivers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Treats industrial wastewater before discharge",
+          "explanation": "Treatment reduces pollutants and helps meet environmental discharge standards.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-043",
+          "question": "A student is reviewing effluent treatment. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Treats industrial wastewater before discharge"
+            },
+            {
+              "label": "B",
+              "text": "Removes the need for monitoring"
+            },
+            {
+              "label": "C",
+              "text": "Raises pollutant concentration intentionally"
+            },
+            {
+              "label": "D",
+              "text": "Adds untreated waste to rivers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Treats industrial wastewater before discharge",
+          "explanation": "Treatment reduces pollutants and helps meet environmental discharge standards.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-044",
+          "question": "Which option gives the most accurate explanation of effluent treatment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removes the need for monitoring"
+            },
+            {
+              "label": "B",
+              "text": "Adds untreated waste to rivers"
+            },
+            {
+              "label": "C",
+              "text": "Treats industrial wastewater before discharge"
+            },
+            {
+              "label": "D",
+              "text": "Raises pollutant concentration intentionally"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Treats industrial wastewater before discharge",
+          "explanation": "Treatment reduces pollutants and helps meet environmental discharge standards.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-045",
+          "question": "Choose the correct principle or fact associated with effluent treatment.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removes the need for monitoring"
+            },
+            {
+              "label": "B",
+              "text": "Raises pollutant concentration intentionally"
+            },
+            {
+              "label": "C",
+              "text": "Adds untreated waste to rivers"
+            },
+            {
+              "label": "D",
+              "text": "Treats industrial wastewater before discharge"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Treats industrial wastewater before discharge",
+          "explanation": "Treatment reduces pollutants and helps meet environmental discharge standards.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Industrial safety",
+      "questions": [
+        {
+          "id": "CH05-MCQ-046",
+          "question": "Which statement correctly describes industrial safety?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Storing incompatible chemicals together"
+            },
+            {
+              "label": "B",
+              "text": "Hazard identification and process controls"
+            },
+            {
+              "label": "C",
+              "text": "Ignoring warning labels"
+            },
+            {
+              "label": "D",
+              "text": "Removing all safety interlocks"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Hazard identification and process controls",
+          "explanation": "Safe industrial operation uses training, protective systems, monitoring and emergency planning.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH05-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning industrial safety?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removing all safety interlocks"
+            },
+            {
+              "label": "B",
+              "text": "Ignoring warning labels"
+            },
+            {
+              "label": "C",
+              "text": "Hazard identification and process controls"
+            },
+            {
+              "label": "D",
+              "text": "Storing incompatible chemicals together"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Hazard identification and process controls",
+          "explanation": "Safe industrial operation uses training, protective systems, monitoring and emergency planning.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-048",
+          "question": "A student is reviewing industrial safety. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removing all safety interlocks"
+            },
+            {
+              "label": "B",
+              "text": "Hazard identification and process controls"
+            },
+            {
+              "label": "C",
+              "text": "Ignoring warning labels"
+            },
+            {
+              "label": "D",
+              "text": "Storing incompatible chemicals together"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Hazard identification and process controls",
+          "explanation": "Safe industrial operation uses training, protective systems, monitoring and emergency planning.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH05-MCQ-049",
+          "question": "Which option gives the most accurate explanation of industrial safety?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ignoring warning labels"
+            },
+            {
+              "label": "B",
+              "text": "Removing all safety interlocks"
+            },
+            {
+              "label": "C",
+              "text": "Hazard identification and process controls"
+            },
+            {
+              "label": "D",
+              "text": "Storing incompatible chemicals together"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Hazard identification and process controls",
+          "explanation": "Safe industrial operation uses training, protective systems, monitoring and emergency planning.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH05-MCQ-050",
+          "question": "Choose the correct principle or fact associated with industrial safety.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ignoring warning labels"
+            },
+            {
+              "label": "B",
+              "text": "Hazard identification and process controls"
+            },
+            {
+              "label": "C",
+              "text": "Storing incompatible chemicals together"
+            },
+            {
+              "label": "D",
+              "text": "Removing all safety interlocks"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Hazard identification and process controls",
+          "explanation": "Safe industrial operation uses training, protective systems, monitoring and emergency planning.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

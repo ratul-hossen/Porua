@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 2,
+  "chapter_title": "Organic Chemistry",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Carbon valency",
+      "questions": [
+        {
+          "id": "CH02-MCQ-001",
+          "question": "Which statement correctly describes carbon valency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Two"
+            },
+            {
+              "label": "B",
+              "text": "One"
+            },
+            {
+              "label": "C",
+              "text": "Four"
+            },
+            {
+              "label": "D",
+              "text": "Eight"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Four",
+          "explanation": "Carbon commonly forms four covalent bonds because it has four valence electrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning carbon valency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Eight"
+            },
+            {
+              "label": "B",
+              "text": "One"
+            },
+            {
+              "label": "C",
+              "text": "Two"
+            },
+            {
+              "label": "D",
+              "text": "Four"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Four",
+          "explanation": "Carbon commonly forms four covalent bonds because it has four valence electrons.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-003",
+          "question": "A student is reviewing carbon valency. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Two"
+            },
+            {
+              "label": "B",
+              "text": "Eight"
+            },
+            {
+              "label": "C",
+              "text": "One"
+            },
+            {
+              "label": "D",
+              "text": "Four"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Four",
+          "explanation": "Carbon commonly forms four covalent bonds because it has four valence electrons.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-004",
+          "question": "Which option gives the most accurate explanation of carbon valency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One"
+            },
+            {
+              "label": "B",
+              "text": "Eight"
+            },
+            {
+              "label": "C",
+              "text": "Two"
+            },
+            {
+              "label": "D",
+              "text": "Four"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Four",
+          "explanation": "Carbon commonly forms four covalent bonds because it has four valence electrons.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-005",
+          "question": "Choose the correct principle or fact associated with carbon valency.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Two"
+            },
+            {
+              "label": "B",
+              "text": "One"
+            },
+            {
+              "label": "C",
+              "text": "Eight"
+            },
+            {
+              "label": "D",
+              "text": "Four"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Four",
+          "explanation": "Carbon commonly forms four covalent bonds because it has four valence electrons.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Homologous series",
+      "questions": [
+        {
+          "id": "CH02-MCQ-006",
+          "question": "Which statement correctly describes homologous series?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same functional group and general formula"
+            },
+            {
+              "label": "B",
+              "text": "Only inorganic elements"
+            },
+            {
+              "label": "C",
+              "text": "Same molecular mass"
+            },
+            {
+              "label": "D",
+              "text": "Different functional groups in every member"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Same functional group and general formula",
+          "explanation": "Members have similar chemical properties and successive members differ by ch2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning homologous series?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same molecular mass"
+            },
+            {
+              "label": "B",
+              "text": "Same functional group and general formula"
+            },
+            {
+              "label": "C",
+              "text": "Different functional groups in every member"
+            },
+            {
+              "label": "D",
+              "text": "Only inorganic elements"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Same functional group and general formula",
+          "explanation": "Members have similar chemical properties and successive members differ by ch2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-008",
+          "question": "A student is reviewing homologous series. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only inorganic elements"
+            },
+            {
+              "label": "B",
+              "text": "Different functional groups in every member"
+            },
+            {
+              "label": "C",
+              "text": "Same molecular mass"
+            },
+            {
+              "label": "D",
+              "text": "Same functional group and general formula"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Same functional group and general formula",
+          "explanation": "Members have similar chemical properties and successive members differ by ch2.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-009",
+          "question": "Which option gives the most accurate explanation of homologous series?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only inorganic elements"
+            },
+            {
+              "label": "B",
+              "text": "Different functional groups in every member"
+            },
+            {
+              "label": "C",
+              "text": "Same functional group and general formula"
+            },
+            {
+              "label": "D",
+              "text": "Same molecular mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Same functional group and general formula",
+          "explanation": "Members have similar chemical properties and successive members differ by ch2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-010",
+          "question": "Choose the correct principle or fact associated with homologous series.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same functional group and general formula"
+            },
+            {
+              "label": "B",
+              "text": "Only inorganic elements"
+            },
+            {
+              "label": "C",
+              "text": "Different functional groups in every member"
+            },
+            {
+              "label": "D",
+              "text": "Same molecular mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Same functional group and general formula",
+          "explanation": "Members have similar chemical properties and successive members differ by ch2.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Alkane",
+      "questions": [
+        {
+          "id": "CH02-MCQ-011",
+          "question": "Which statement correctly describes alkane?",
+          "options": [
+            {
+              "label": "A",
+              "text": "C_nH_2n+2"
+            },
+            {
+              "label": "B",
+              "text": "C_nH_2n-2"
+            },
+            {
+              "label": "C",
+              "text": "C_nH_2n"
+            },
+            {
+              "label": "D",
+              "text": "C_nH_n"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "C_nH_2n+2",
+          "explanation": "Acyclic saturated hydrocarbons have the general formula cnh2n+2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning alkane?",
+          "options": [
+            {
+              "label": "A",
+              "text": "C_nH_2n+2"
+            },
+            {
+              "label": "B",
+              "text": "C_nH_2n"
+            },
+            {
+              "label": "C",
+              "text": "C_nH_2n-2"
+            },
+            {
+              "label": "D",
+              "text": "C_nH_n"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "C_nH_2n+2",
+          "explanation": "Acyclic saturated hydrocarbons have the general formula cnh2n+2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-013",
+          "question": "A student is reviewing alkane. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "C_nH_2n+2"
+            },
+            {
+              "label": "B",
+              "text": "C_nH_2n"
+            },
+            {
+              "label": "C",
+              "text": "C_nH_2n-2"
+            },
+            {
+              "label": "D",
+              "text": "C_nH_n"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "C_nH_2n+2",
+          "explanation": "Acyclic saturated hydrocarbons have the general formula cnh2n+2.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-014",
+          "question": "Which option gives the most accurate explanation of alkane?",
+          "options": [
+            {
+              "label": "A",
+              "text": "C_nH_2n+2"
+            },
+            {
+              "label": "B",
+              "text": "C_nH_n"
+            },
+            {
+              "label": "C",
+              "text": "C_nH_2n"
+            },
+            {
+              "label": "D",
+              "text": "C_nH_2n-2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "C_nH_2n+2",
+          "explanation": "Acyclic saturated hydrocarbons have the general formula cnh2n+2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-015",
+          "question": "Choose the correct principle or fact associated with alkane.",
+          "options": [
+            {
+              "label": "A",
+              "text": "C_nH_2n-2"
+            },
+            {
+              "label": "B",
+              "text": "C_nH_2n"
+            },
+            {
+              "label": "C",
+              "text": "C_nH_2n+2"
+            },
+            {
+              "label": "D",
+              "text": "C_nH_n"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "C_nH_2n+2",
+          "explanation": "Acyclic saturated hydrocarbons have the general formula cnh2n+2.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Alkene",
+      "questions": [
+        {
+          "id": "CH02-MCQ-016",
+          "question": "Which statement correctly describes alkene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contains a carbon-carbon double bond"
+            },
+            {
+              "label": "B",
+              "text": "Contains no carbon"
+            },
+            {
+              "label": "C",
+              "text": "Contains only single bonds"
+            },
+            {
+              "label": "D",
+              "text": "Contains a carbon-carbon triple bond only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Contains a carbon-carbon double bond",
+          "explanation": "Alkenes are unsaturated hydrocarbons that typically undergo addition reactions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning alkene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contains a carbon-carbon double bond"
+            },
+            {
+              "label": "B",
+              "text": "Contains no carbon"
+            },
+            {
+              "label": "C",
+              "text": "Contains only single bonds"
+            },
+            {
+              "label": "D",
+              "text": "Contains a carbon-carbon triple bond only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Contains a carbon-carbon double bond",
+          "explanation": "Alkenes are unsaturated hydrocarbons that typically undergo addition reactions.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-018",
+          "question": "A student is reviewing alkene. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contains a carbon-carbon triple bond only"
+            },
+            {
+              "label": "B",
+              "text": "Contains no carbon"
+            },
+            {
+              "label": "C",
+              "text": "Contains only single bonds"
+            },
+            {
+              "label": "D",
+              "text": "Contains a carbon-carbon double bond"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Contains a carbon-carbon double bond",
+          "explanation": "Alkenes are unsaturated hydrocarbons that typically undergo addition reactions.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-019",
+          "question": "Which option gives the most accurate explanation of alkene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contains only single bonds"
+            },
+            {
+              "label": "B",
+              "text": "Contains a carbon-carbon triple bond only"
+            },
+            {
+              "label": "C",
+              "text": "Contains a carbon-carbon double bond"
+            },
+            {
+              "label": "D",
+              "text": "Contains no carbon"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Contains a carbon-carbon double bond",
+          "explanation": "Alkenes are unsaturated hydrocarbons that typically undergo addition reactions.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-020",
+          "question": "Choose the correct principle or fact associated with alkene.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contains only single bonds"
+            },
+            {
+              "label": "B",
+              "text": "Contains no carbon"
+            },
+            {
+              "label": "C",
+              "text": "Contains a carbon-carbon triple bond only"
+            },
+            {
+              "label": "D",
+              "text": "Contains a carbon-carbon double bond"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Contains a carbon-carbon double bond",
+          "explanation": "Alkenes are unsaturated hydrocarbons that typically undergo addition reactions.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Alkyne",
+      "questions": [
+        {
+          "id": "CH02-MCQ-021",
+          "question": "Which statement correctly describes alkyne?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Contains a carbon-carbon triple bond"
+            },
+            {
+              "label": "B",
+              "text": "Only C=C double bonds"
+            },
+            {
+              "label": "C",
+              "text": "No covalent bonds"
+            },
+            {
+              "label": "D",
+              "text": "Only C-C single bonds"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Contains a carbon-carbon triple bond",
+          "explanation": "Alkynes are unsaturated hydrocarbons with at least one c≡c bond.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning alkyne?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only C=C double bonds"
+            },
+            {
+              "label": "B",
+              "text": "Only C-C single bonds"
+            },
+            {
+              "label": "C",
+              "text": "No covalent bonds"
+            },
+            {
+              "label": "D",
+              "text": "Contains a carbon-carbon triple bond"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Contains a carbon-carbon triple bond",
+          "explanation": "Alkynes are unsaturated hydrocarbons with at least one c≡c bond.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-023",
+          "question": "A student is reviewing alkyne. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only C-C single bonds"
+            },
+            {
+              "label": "B",
+              "text": "Contains a carbon-carbon triple bond"
+            },
+            {
+              "label": "C",
+              "text": "No covalent bonds"
+            },
+            {
+              "label": "D",
+              "text": "Only C=C double bonds"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Contains a carbon-carbon triple bond",
+          "explanation": "Alkynes are unsaturated hydrocarbons with at least one c≡c bond.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-024",
+          "question": "Which option gives the most accurate explanation of alkyne?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only C=C double bonds"
+            },
+            {
+              "label": "B",
+              "text": "Contains a carbon-carbon triple bond"
+            },
+            {
+              "label": "C",
+              "text": "No covalent bonds"
+            },
+            {
+              "label": "D",
+              "text": "Only C-C single bonds"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Contains a carbon-carbon triple bond",
+          "explanation": "Alkynes are unsaturated hydrocarbons with at least one c≡c bond.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-025",
+          "question": "Choose the correct principle or fact associated with alkyne.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only C=C double bonds"
+            },
+            {
+              "label": "B",
+              "text": "No covalent bonds"
+            },
+            {
+              "label": "C",
+              "text": "Only C-C single bonds"
+            },
+            {
+              "label": "D",
+              "text": "Contains a carbon-carbon triple bond"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Contains a carbon-carbon triple bond",
+          "explanation": "Alkynes are unsaturated hydrocarbons with at least one c≡c bond.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Functional group of alcohol",
+      "questions": [
+        {
+          "id": "CH02-MCQ-026",
+          "question": "Which statement correctly describes functional group of alcohol?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-CHO"
+            },
+            {
+              "label": "B",
+              "text": "-COO-"
+            },
+            {
+              "label": "C",
+              "text": "Hydroxyl group (-OH)"
+            },
+            {
+              "label": "D",
+              "text": "-COOH"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Hydroxyl group (-OH)",
+          "explanation": "The hydroxyl group attached to carbon characterises alcohols.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning functional group of alcohol?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydroxyl group (-OH)"
+            },
+            {
+              "label": "B",
+              "text": "-CHO"
+            },
+            {
+              "label": "C",
+              "text": "-COO-"
+            },
+            {
+              "label": "D",
+              "text": "-COOH"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hydroxyl group (-OH)",
+          "explanation": "The hydroxyl group attached to carbon characterises alcohols.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-028",
+          "question": "A student is reviewing functional group of alcohol. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydroxyl group (-OH)"
+            },
+            {
+              "label": "B",
+              "text": "-CHO"
+            },
+            {
+              "label": "C",
+              "text": "-COOH"
+            },
+            {
+              "label": "D",
+              "text": "-COO-"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hydroxyl group (-OH)",
+          "explanation": "The hydroxyl group attached to carbon characterises alcohols.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-029",
+          "question": "Which option gives the most accurate explanation of functional group of alcohol?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hydroxyl group (-OH)"
+            },
+            {
+              "label": "B",
+              "text": "-COO-"
+            },
+            {
+              "label": "C",
+              "text": "-CHO"
+            },
+            {
+              "label": "D",
+              "text": "-COOH"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hydroxyl group (-OH)",
+          "explanation": "The hydroxyl group attached to carbon characterises alcohols.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-030",
+          "question": "Choose the correct principle or fact associated with functional group of alcohol.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-COO-"
+            },
+            {
+              "label": "B",
+              "text": "Hydroxyl group (-OH)"
+            },
+            {
+              "label": "C",
+              "text": "-CHO"
+            },
+            {
+              "label": "D",
+              "text": "-COOH"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Hydroxyl group (-OH)",
+          "explanation": "The hydroxyl group attached to carbon characterises alcohols.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Functional group of carboxylic acid",
+      "questions": [
+        {
+          "id": "CH02-MCQ-031",
+          "question": "Which statement correctly describes functional group of carboxylic acid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-C≡N"
+            },
+            {
+              "label": "B",
+              "text": "Carboxyl group (-COOH)"
+            },
+            {
+              "label": "C",
+              "text": "-OH only"
+            },
+            {
+              "label": "D",
+              "text": "-NH2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Carboxyl group (-COOH)",
+          "explanation": "Carboxylic acids contain the -cooh functional group.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH02-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning functional group of carboxylic acid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carboxyl group (-COOH)"
+            },
+            {
+              "label": "B",
+              "text": "-NH2"
+            },
+            {
+              "label": "C",
+              "text": "-OH only"
+            },
+            {
+              "label": "D",
+              "text": "-C≡N"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Carboxyl group (-COOH)",
+          "explanation": "Carboxylic acids contain the -cooh functional group.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-033",
+          "question": "A student is reviewing functional group of carboxylic acid. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Carboxyl group (-COOH)"
+            },
+            {
+              "label": "B",
+              "text": "-C≡N"
+            },
+            {
+              "label": "C",
+              "text": "-NH2"
+            },
+            {
+              "label": "D",
+              "text": "-OH only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Carboxyl group (-COOH)",
+          "explanation": "Carboxylic acids contain the -cooh functional group.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-034",
+          "question": "Which option gives the most accurate explanation of functional group of carboxylic acid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-NH2"
+            },
+            {
+              "label": "B",
+              "text": "-C≡N"
+            },
+            {
+              "label": "C",
+              "text": "Carboxyl group (-COOH)"
+            },
+            {
+              "label": "D",
+              "text": "-OH only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Carboxyl group (-COOH)",
+          "explanation": "Carboxylic acids contain the -cooh functional group.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-035",
+          "question": "Choose the correct principle or fact associated with functional group of carboxylic acid.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-NH2"
+            },
+            {
+              "label": "B",
+              "text": "Carboxyl group (-COOH)"
+            },
+            {
+              "label": "C",
+              "text": "-OH only"
+            },
+            {
+              "label": "D",
+              "text": "-C≡N"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Carboxyl group (-COOH)",
+          "explanation": "Carboxylic acids contain the -cooh functional group.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Isomerism",
+      "questions": [
+        {
+          "id": "CH02-MCQ-036",
+          "question": "Which statement correctly describes isomerism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Different elements only"
+            },
+            {
+              "label": "B",
+              "text": "Same boiling point always"
+            },
+            {
+              "label": "C",
+              "text": "Same molecular formula but different structures"
+            },
+            {
+              "label": "D",
+              "text": "Same structure and different formula"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Same molecular formula but different structures",
+          "explanation": "Isomers differ in the arrangement of atoms or spatial configuration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning isomerism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same boiling point always"
+            },
+            {
+              "label": "B",
+              "text": "Same structure and different formula"
+            },
+            {
+              "label": "C",
+              "text": "Different elements only"
+            },
+            {
+              "label": "D",
+              "text": "Same molecular formula but different structures"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Same molecular formula but different structures",
+          "explanation": "Isomers differ in the arrangement of atoms or spatial configuration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-038",
+          "question": "A student is reviewing isomerism. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same boiling point always"
+            },
+            {
+              "label": "B",
+              "text": "Same structure and different formula"
+            },
+            {
+              "label": "C",
+              "text": "Same molecular formula but different structures"
+            },
+            {
+              "label": "D",
+              "text": "Different elements only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Same molecular formula but different structures",
+          "explanation": "Isomers differ in the arrangement of atoms or spatial configuration.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-039",
+          "question": "Which option gives the most accurate explanation of isomerism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same structure and different formula"
+            },
+            {
+              "label": "B",
+              "text": "Same molecular formula but different structures"
+            },
+            {
+              "label": "C",
+              "text": "Same boiling point always"
+            },
+            {
+              "label": "D",
+              "text": "Different elements only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Same molecular formula but different structures",
+          "explanation": "Isomers differ in the arrangement of atoms or spatial configuration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-040",
+          "question": "Choose the correct principle or fact associated with isomerism.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Same boiling point always"
+            },
+            {
+              "label": "B",
+              "text": "Different elements only"
+            },
+            {
+              "label": "C",
+              "text": "Same molecular formula but different structures"
+            },
+            {
+              "label": "D",
+              "text": "Same structure and different formula"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Same molecular formula but different structures",
+          "explanation": "Isomers differ in the arrangement of atoms or spatial configuration.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Esterification",
+      "questions": [
+        {
+          "id": "CH02-MCQ-041",
+          "question": "Which statement correctly describes esterification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Salt dissolves in water"
+            },
+            {
+              "label": "B",
+              "text": "Alkane reacts with oxygen only"
+            },
+            {
+              "label": "C",
+              "text": "Metal loses a neutron"
+            },
+            {
+              "label": "D",
+              "text": "Alcohol reacts with carboxylic acid to form ester and water"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Alcohol reacts with carboxylic acid to form ester and water",
+          "explanation": "Acid-catalysed esterification produces an ester linkage.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning esterification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Alkane reacts with oxygen only"
+            },
+            {
+              "label": "B",
+              "text": "Salt dissolves in water"
+            },
+            {
+              "label": "C",
+              "text": "Alcohol reacts with carboxylic acid to form ester and water"
+            },
+            {
+              "label": "D",
+              "text": "Metal loses a neutron"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Alcohol reacts with carboxylic acid to form ester and water",
+          "explanation": "Acid-catalysed esterification produces an ester linkage.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-043",
+          "question": "A student is reviewing esterification. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metal loses a neutron"
+            },
+            {
+              "label": "B",
+              "text": "Salt dissolves in water"
+            },
+            {
+              "label": "C",
+              "text": "Alkane reacts with oxygen only"
+            },
+            {
+              "label": "D",
+              "text": "Alcohol reacts with carboxylic acid to form ester and water"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Alcohol reacts with carboxylic acid to form ester and water",
+          "explanation": "Acid-catalysed esterification produces an ester linkage.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-044",
+          "question": "Which option gives the most accurate explanation of esterification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Metal loses a neutron"
+            },
+            {
+              "label": "B",
+              "text": "Salt dissolves in water"
+            },
+            {
+              "label": "C",
+              "text": "Alkane reacts with oxygen only"
+            },
+            {
+              "label": "D",
+              "text": "Alcohol reacts with carboxylic acid to form ester and water"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Alcohol reacts with carboxylic acid to form ester and water",
+          "explanation": "Acid-catalysed esterification produces an ester linkage.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-045",
+          "question": "Choose the correct principle or fact associated with esterification.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Alcohol reacts with carboxylic acid to form ester and water"
+            },
+            {
+              "label": "B",
+              "text": "Salt dissolves in water"
+            },
+            {
+              "label": "C",
+              "text": "Alkane reacts with oxygen only"
+            },
+            {
+              "label": "D",
+              "text": "Metal loses a neutron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Alcohol reacts with carboxylic acid to form ester and water",
+          "explanation": "Acid-catalysed esterification produces an ester linkage.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Benzene",
+      "questions": [
+        {
+          "id": "CH02-MCQ-046",
+          "question": "Which statement correctly describes benzene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Aromatic ring with delocalised pi electrons"
+            },
+            {
+              "label": "B",
+              "text": "A noble gas"
+            },
+            {
+              "label": "C",
+              "text": "An ionic metal hydride"
+            },
+            {
+              "label": "D",
+              "text": "A saturated straight-chain alkane"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Aromatic ring with delocalised pi electrons",
+          "explanation": "Benzene's delocalised electron system gives unusual stability.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning benzene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A saturated straight-chain alkane"
+            },
+            {
+              "label": "B",
+              "text": "Aromatic ring with delocalised pi electrons"
+            },
+            {
+              "label": "C",
+              "text": "An ionic metal hydride"
+            },
+            {
+              "label": "D",
+              "text": "A noble gas"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Aromatic ring with delocalised pi electrons",
+          "explanation": "Benzene's delocalised electron system gives unusual stability.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-048",
+          "question": "A student is reviewing benzene. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A saturated straight-chain alkane"
+            },
+            {
+              "label": "B",
+              "text": "Aromatic ring with delocalised pi electrons"
+            },
+            {
+              "label": "C",
+              "text": "A noble gas"
+            },
+            {
+              "label": "D",
+              "text": "An ionic metal hydride"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Aromatic ring with delocalised pi electrons",
+          "explanation": "Benzene's delocalised electron system gives unusual stability.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH02-MCQ-049",
+          "question": "Which option gives the most accurate explanation of benzene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Aromatic ring with delocalised pi electrons"
+            },
+            {
+              "label": "B",
+              "text": "A saturated straight-chain alkane"
+            },
+            {
+              "label": "C",
+              "text": "An ionic metal hydride"
+            },
+            {
+              "label": "D",
+              "text": "A noble gas"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Aromatic ring with delocalised pi electrons",
+          "explanation": "Benzene's delocalised electron system gives unusual stability.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH02-MCQ-050",
+          "question": "Choose the correct principle or fact associated with benzene.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A noble gas"
+            },
+            {
+              "label": "B",
+              "text": "A saturated straight-chain alkane"
+            },
+            {
+              "label": "C",
+              "text": "An ionic metal hydride"
+            },
+            {
+              "label": "D",
+              "text": "Aromatic ring with delocalised pi electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Aromatic ring with delocalised pi electrons",
+          "explanation": "Benzene's delocalised electron system gives unusual stability.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 12,
+  "chapter_title": "Animal Behaviour",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH12_T01",
+      "topic_name": "Taxis",
+      "mcqs": [
+        {
+          "id": "BIO2_CH12_Q01",
+          "question": "Which term is correctly described as: directional movement in response to a stimulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "taxis"
+            },
+            {
+              "label": "D",
+              "text": "conditioning"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "taxis",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q02",
+          "question": "The biological role or defining feature of taxis is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "C",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "D",
+              "text": "directional movement in response to a stimulus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "directional movement in response to a stimulus",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q03",
+          "question": "A student records the following clue: “directional movement in response to a stimulus.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conditioning"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "D",
+              "text": "taxis"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "taxis",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q04",
+          "question": "Which option completes this statement correctly? taxis is the term for directional movement in response to a stimulus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "migration"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "taxis"
+            },
+            {
+              "label": "D",
+              "text": "conditioning"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "taxis",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q05",
+          "question": "If an examination asks for the term associated with “directional movement in response to a stimulus”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "taxis"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "conditioning"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "taxis",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q06",
+          "question": "Which structure, process or concept matches the description “directional movement in response to a stimulus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conditioning"
+            },
+            {
+              "label": "B",
+              "text": "migration"
+            },
+            {
+              "label": "C",
+              "text": "taxis"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "taxis",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q07",
+          "question": "Choose the accurate statement about taxis.",
+          "options": [
+            {
+              "label": "A",
+              "text": "directional movement in response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "C",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "D",
+              "text": "rapid, automatic response to a stimulus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "directional movement in response to a stimulus",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q08",
+          "question": "A diagram or observation identifies taxis. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "directional movement in response to a stimulus"
+            },
+            {
+              "label": "C",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "D",
+              "text": "reduced response after repeated harmless stimulation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "directional movement in response to a stimulus",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q09",
+          "question": "Which pairing is correct for taxis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "directional movement in response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "C",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "D",
+              "text": "reduced response after repeated harmless stimulation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "directional movement in response to a stimulus",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        },
+        {
+          "id": "BIO2_CH12_Q10",
+          "question": "In a topic review, which answer best explains the clue “directional movement in response to a stimulus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "habituation"
+            },
+            {
+              "label": "B",
+              "text": "conditioning"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "taxis"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "taxis",
+          "explanation": "The direction of movement depends on the direction of the stimulus."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH12_T02",
+      "topic_name": "Reflex Behaviour",
+      "mcqs": [
+        {
+          "id": "BIO2_CH12_Q11",
+          "question": "Which term is correctly described as: rapid, automatic response to a stimulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "taxis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "reflex behaviour",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q12",
+          "question": "The biological role or defining feature of reflex behaviour is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "directional movement in response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "C",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "D",
+              "text": "rapid, automatic response to a stimulus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "rapid, automatic response to a stimulus",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q13",
+          "question": "A student records the following clue: “rapid, automatic response to a stimulus.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conditioning"
+            },
+            {
+              "label": "B",
+              "text": "migration"
+            },
+            {
+              "label": "C",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "reflex behaviour",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q14",
+          "question": "Which option completes this statement correctly? reflex behaviour is the term for rapid, automatic response to a stimulus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "migration"
+            },
+            {
+              "label": "B",
+              "text": "taxis"
+            },
+            {
+              "label": "C",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "reflex behaviour",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q15",
+          "question": "If an examination asks for the term associated with “rapid, automatic response to a stimulus”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "migration"
+            },
+            {
+              "label": "C",
+              "text": "taxis"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "reflex behaviour",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q16",
+          "question": "Which structure, process or concept matches the description “rapid, automatic response to a stimulus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "migration"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "conditioning"
+            },
+            {
+              "label": "D",
+              "text": "reflex behaviour"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "reflex behaviour",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q17",
+          "question": "Choose the accurate statement about reflex behaviour.",
+          "options": [
+            {
+              "label": "A",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "C",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "D",
+              "text": "regular movement of animals between regions"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "rapid, automatic response to a stimulus",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q18",
+          "question": "A diagram or observation identifies reflex behaviour. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "directional movement in response to a stimulus"
+            },
+            {
+              "label": "C",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "D",
+              "text": "reduced response after repeated harmless stimulation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "rapid, automatic response to a stimulus",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q19",
+          "question": "Which pairing is correct for reflex behaviour?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "C",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "D",
+              "text": "learning through association between events or stimuli"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "rapid, automatic response to a stimulus",
+          "explanation": "It occurs without deliberate conscious control."
+        },
+        {
+          "id": "BIO2_CH12_Q20",
+          "question": "In a topic review, which answer best explains the clue “rapid, automatic response to a stimulus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "conditioning"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "taxis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "reflex behaviour",
+          "explanation": "It occurs without deliberate conscious control."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH12_T03",
+      "topic_name": "Habituation",
+      "mcqs": [
+        {
+          "id": "BIO2_CH12_Q21",
+          "question": "Which term is correctly described as: reduced response after repeated harmless stimulation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "habituation"
+            },
+            {
+              "label": "B",
+              "text": "conditioning"
+            },
+            {
+              "label": "C",
+              "text": "taxis"
+            },
+            {
+              "label": "D",
+              "text": "reflex behaviour"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "habituation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q22",
+          "question": "The biological role or defining feature of habituation is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "B",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "C",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "D",
+              "text": "directional movement in response to a stimulus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "reduced response after repeated harmless stimulation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q23",
+          "question": "A student records the following clue: “reduced response after repeated harmless stimulation.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "conditioning"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "habituation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q24",
+          "question": "Which option completes this statement correctly? habituation is the term for reduced response after repeated harmless stimulation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "taxis"
+            },
+            {
+              "label": "B",
+              "text": "migration"
+            },
+            {
+              "label": "C",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "habituation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q25",
+          "question": "If an examination asks for the term associated with “reduced response after repeated harmless stimulation”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "migration"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "taxis"
+            },
+            {
+              "label": "D",
+              "text": "conditioning"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "habituation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q26",
+          "question": "Which structure, process or concept matches the description “reduced response after repeated harmless stimulation”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "taxis"
+            },
+            {
+              "label": "B",
+              "text": "conditioning"
+            },
+            {
+              "label": "C",
+              "text": "habituation"
+            },
+            {
+              "label": "D",
+              "text": "migration"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "habituation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q27",
+          "question": "Choose the accurate statement about habituation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "C",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "D",
+              "text": "regular movement of animals between regions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "reduced response after repeated harmless stimulation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q28",
+          "question": "A diagram or observation identifies habituation. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "B",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "C",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "D",
+              "text": "directional movement in response to a stimulus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "reduced response after repeated harmless stimulation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q29",
+          "question": "Which pairing is correct for habituation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "B",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "C",
+              "text": "directional movement in response to a stimulus"
+            },
+            {
+              "label": "D",
+              "text": "reduced response after repeated harmless stimulation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "reduced response after repeated harmless stimulation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        },
+        {
+          "id": "BIO2_CH12_Q30",
+          "question": "In a topic review, which answer best explains the clue “reduced response after repeated harmless stimulation”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "conditioning"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "habituation",
+          "explanation": "The animal learns that a repeated stimulus has little significance."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH12_T04",
+      "topic_name": "Conditioning",
+      "mcqs": [
+        {
+          "id": "BIO2_CH12_Q31",
+          "question": "Which term is correctly described as: learning through association between events or stimuli?",
+          "options": [
+            {
+              "label": "A",
+              "text": "habituation"
+            },
+            {
+              "label": "B",
+              "text": "migration"
+            },
+            {
+              "label": "C",
+              "text": "conditioning"
+            },
+            {
+              "label": "D",
+              "text": "reflex behaviour"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "conditioning",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q32",
+          "question": "The biological role or defining feature of conditioning is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "C",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "D",
+              "text": "directional movement in response to a stimulus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "learning through association between events or stimuli",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q33",
+          "question": "A student records the following clue: “learning through association between events or stimuli.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "taxis"
+            },
+            {
+              "label": "B",
+              "text": "habituation"
+            },
+            {
+              "label": "C",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "D",
+              "text": "conditioning"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "conditioning",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q34",
+          "question": "Which option completes this statement correctly? conditioning is the term for learning through association between events or stimuli.",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "migration"
+            },
+            {
+              "label": "C",
+              "text": "conditioning"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "conditioning",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q35",
+          "question": "If an examination asks for the term associated with “learning through association between events or stimuli”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "taxis"
+            },
+            {
+              "label": "C",
+              "text": "conditioning"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "conditioning",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q36",
+          "question": "Which structure, process or concept matches the description “learning through association between events or stimuli”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "taxis"
+            },
+            {
+              "label": "B",
+              "text": "conditioning"
+            },
+            {
+              "label": "C",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "D",
+              "text": "migration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "conditioning",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q37",
+          "question": "Choose the accurate statement about conditioning.",
+          "options": [
+            {
+              "label": "A",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "B",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "C",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "D",
+              "text": "directional movement in response to a stimulus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "learning through association between events or stimuli",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q38",
+          "question": "A diagram or observation identifies conditioning. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "B",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "C",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "D",
+              "text": "directional movement in response to a stimulus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "learning through association between events or stimuli",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q39",
+          "question": "Which pairing is correct for conditioning?",
+          "options": [
+            {
+              "label": "A",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "B",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "C",
+              "text": "directional movement in response to a stimulus"
+            },
+            {
+              "label": "D",
+              "text": "reduced response after repeated harmless stimulation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "learning through association between events or stimuli",
+          "explanation": "Experience changes the animal's response."
+        },
+        {
+          "id": "BIO2_CH12_Q40",
+          "question": "In a topic review, which answer best explains the clue “learning through association between events or stimuli”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conditioning"
+            },
+            {
+              "label": "B",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "taxis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "conditioning",
+          "explanation": "Experience changes the animal's response."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH12_T05",
+      "topic_name": "Migration",
+      "mcqs": [
+        {
+          "id": "BIO2_CH12_Q41",
+          "question": "Which term is correctly described as: regular movement of animals between regions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "conditioning"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "migration",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q42",
+          "question": "The biological role or defining feature of migration is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "B",
+              "text": "directional movement in response to a stimulus"
+            },
+            {
+              "label": "C",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "D",
+              "text": "regular movement of animals between regions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "regular movement of animals between regions",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q43",
+          "question": "A student records the following clue: “regular movement of animals between regions.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "B",
+              "text": "conditioning"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "habituation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "migration",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q44",
+          "question": "Which option completes this statement correctly? migration is the term for regular movement of animals between regions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "migration"
+            },
+            {
+              "label": "B",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "C",
+              "text": "habituation"
+            },
+            {
+              "label": "D",
+              "text": "taxis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "migration",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q45",
+          "question": "If an examination asks for the term associated with “regular movement of animals between regions”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "conditioning"
+            },
+            {
+              "label": "B",
+              "text": "migration"
+            },
+            {
+              "label": "C",
+              "text": "habituation"
+            },
+            {
+              "label": "D",
+              "text": "reflex behaviour"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "migration",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q46",
+          "question": "Which structure, process or concept matches the description “regular movement of animals between regions”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "migration"
+            },
+            {
+              "label": "B",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "C",
+              "text": "conditioning"
+            },
+            {
+              "label": "D",
+              "text": "taxis"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "migration",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q47",
+          "question": "Choose the accurate statement about migration.",
+          "options": [
+            {
+              "label": "A",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "B",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "C",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "D",
+              "text": "directional movement in response to a stimulus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "regular movement of animals between regions",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q48",
+          "question": "A diagram or observation identifies migration. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "B",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "C",
+              "text": "learning through association between events or stimuli"
+            },
+            {
+              "label": "D",
+              "text": "directional movement in response to a stimulus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "regular movement of animals between regions",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q49",
+          "question": "Which pairing is correct for migration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reduced response after repeated harmless stimulation"
+            },
+            {
+              "label": "B",
+              "text": "regular movement of animals between regions"
+            },
+            {
+              "label": "C",
+              "text": "rapid, automatic response to a stimulus"
+            },
+            {
+              "label": "D",
+              "text": "learning through association between events or stimuli"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "regular movement of animals between regions",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        },
+        {
+          "id": "BIO2_CH12_Q50",
+          "question": "In a topic review, which answer best explains the clue “regular movement of animals between regions”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "habituation"
+            },
+            {
+              "label": "B",
+              "text": "reflex behaviour"
+            },
+            {
+              "label": "C",
+              "text": "migration"
+            },
+            {
+              "label": "D",
+              "text": "conditioning"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "migration",
+          "explanation": "It may be associated with breeding, food availability or seasonal conditions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "class": "HSC",
+  "stream": "Science",
+  "subject": "Physics",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "papers": [
+    {
+      "paper": "1st Paper",
+      "folder": "1st_Paper",
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Physical World and Measurement",
+          "file": "chapter_01.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Vector",
+          "file": "chapter_02.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Dynamics",
+          "file": "chapter_03.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Newtonian Mechanics",
+          "file": "chapter_04.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Work, Energy and Power",
+          "file": "chapter_05.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 6,
+          "chapter_title": "Gravitation and Gravity",
+          "file": "chapter_06.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 7,
+          "chapter_title": "Structural Properties of Matter",
+          "file": "chapter_07.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 8,
+          "chapter_title": "Periodic Motion",
+          "file": "chapter_08.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 9,
+          "chapter_title": "Waves",
+          "file": "chapter_09.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 10,
+          "chapter_title": "Ideal Gas and Kinetic Theory of Gases",
+          "file": "chapter_10.json",
+          "total_questions": 50
+        }
+      ]
+    },
+    {
+      "paper": "2nd Paper",
+      "folder": "2nd_Paper",
+      "chapter_count": 11,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Thermodynamics",
+          "file": "chapter_01.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Static Electricity",
+          "file": "chapter_02.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Current Electricity",
+          "file": "chapter_03.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Magnetic Effects of Electric Current",
+          "file": "chapter_04.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Electromagnetic Induction and",
+          "file": "chapter_05.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 6,
+          "chapter_title": "Geometrical Optics",
+          "file": "chapter_06.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 7,
+          "chapter_title": "Physical Optics",
+          "file": "chapter_07.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 8,
+          "chapter_title": "Introduction to Modern Physics",
+          "file": "chapter_08.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 9,
+          "chapter_title": "Atomic Model and Nuclear Physics",
+          "file": "chapter_09.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 10,
+          "chapter_title": "Semiconductor and Electronics",
+          "file": "chapter_10.json",
+          "total_questions": 50
+        },
+        {
+          "chapter_number": 11,
+          "chapter_title": "Astronomy",
+          "file": "chapter_11.json",
+          "total_questions": 50
+        }
+      ]
+    }
+  ],
+  "total_chapters": 21,
+  "total_questions": 1050
+}

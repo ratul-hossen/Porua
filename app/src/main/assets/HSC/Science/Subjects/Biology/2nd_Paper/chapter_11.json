@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 11,
+  "chapter_title": "Genetics and Evolution",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH11_T01",
+      "topic_name": "Gene",
+      "mcqs": [
+        {
+          "id": "BIO2_CH11_Q01",
+          "question": "Which term is correctly described as: DNA sequence associated with a functional product or trait?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phenotype"
+            },
+            {
+              "label": "B",
+              "text": "gene"
+            },
+            {
+              "label": "C",
+              "text": "allele"
+            },
+            {
+              "label": "D",
+              "text": "natural selection"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "gene",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q02",
+          "question": "The biological role or defining feature of gene is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "B",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "C",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "D",
+              "text": "process in which heritable differences affect reproductive success"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "DNA sequence associated with a functional product or trait",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q03",
+          "question": "A student records the following clue: “DNA sequence associated with a functional product or trait.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "allele"
+            },
+            {
+              "label": "B",
+              "text": "phenotype"
+            },
+            {
+              "label": "C",
+              "text": "gene"
+            },
+            {
+              "label": "D",
+              "text": "genotype"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "gene",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q04",
+          "question": "Which option completes this statement correctly? gene is the term for DNA sequence associated with a functional product or trait.",
+          "options": [
+            {
+              "label": "A",
+              "text": "natural selection"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "gene"
+            },
+            {
+              "label": "D",
+              "text": "phenotype"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "gene",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q05",
+          "question": "If an examination asks for the term associated with “DNA sequence associated with a functional product or trait”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phenotype"
+            },
+            {
+              "label": "B",
+              "text": "gene"
+            },
+            {
+              "label": "C",
+              "text": "allele"
+            },
+            {
+              "label": "D",
+              "text": "genotype"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "gene",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q06",
+          "question": "Which structure, process or concept matches the description “DNA sequence associated with a functional product or trait”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gene"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "allele"
+            },
+            {
+              "label": "D",
+              "text": "natural selection"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "gene",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q07",
+          "question": "Choose the accurate statement about gene.",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "B",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "C",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "D",
+              "text": "genetic constitution of an organism"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DNA sequence associated with a functional product or trait",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q08",
+          "question": "A diagram or observation identifies gene. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "B",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "C",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "D",
+              "text": "observable characteristics resulting from genotype and environment"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "DNA sequence associated with a functional product or trait",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q09",
+          "question": "Which pairing is correct for gene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "B",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "C",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "D",
+              "text": "genetic constitution of an organism"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DNA sequence associated with a functional product or trait",
+          "explanation": "Genes contribute to inherited characteristics."
+        },
+        {
+          "id": "BIO2_CH11_Q10",
+          "question": "In a topic review, which answer best explains the clue “DNA sequence associated with a functional product or trait”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "natural selection"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "phenotype"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "gene",
+          "explanation": "Genes contribute to inherited characteristics."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH11_T02",
+      "topic_name": "Allele",
+      "mcqs": [
+        {
+          "id": "BIO2_CH11_Q11",
+          "question": "Which term is correctly described as: alternative form of a gene?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gene"
+            },
+            {
+              "label": "B",
+              "text": "allele"
+            },
+            {
+              "label": "C",
+              "text": "genotype"
+            },
+            {
+              "label": "D",
+              "text": "phenotype"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "allele",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q12",
+          "question": "The biological role or defining feature of allele is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "B",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "C",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "D",
+              "text": "observable characteristics resulting from genotype and environment"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "alternative form of a gene",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q13",
+          "question": "A student records the following clue: “alternative form of a gene.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "allele"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "natural selection"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "allele",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q14",
+          "question": "Which option completes this statement correctly? allele is the term for alternative form of a gene.",
+          "options": [
+            {
+              "label": "A",
+              "text": "allele"
+            },
+            {
+              "label": "B",
+              "text": "gene"
+            },
+            {
+              "label": "C",
+              "text": "genotype"
+            },
+            {
+              "label": "D",
+              "text": "natural selection"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "allele",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q15",
+          "question": "If an examination asks for the term associated with “alternative form of a gene”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "genotype"
+            },
+            {
+              "label": "B",
+              "text": "allele"
+            },
+            {
+              "label": "C",
+              "text": "natural selection"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "allele",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q16",
+          "question": "Which structure, process or concept matches the description “alternative form of a gene”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "allele"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "phenotype"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "allele",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q17",
+          "question": "Choose the accurate statement about allele.",
+          "options": [
+            {
+              "label": "A",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "B",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "C",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "D",
+              "text": "process in which heritable differences affect reproductive success"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "alternative form of a gene",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q18",
+          "question": "A diagram or observation identifies allele. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "B",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "C",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "D",
+              "text": "process in which heritable differences affect reproductive success"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "alternative form of a gene",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q19",
+          "question": "Which pairing is correct for allele?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "B",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "C",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "D",
+              "text": "alternative form of a gene"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "alternative form of a gene",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        },
+        {
+          "id": "BIO2_CH11_Q20",
+          "question": "In a topic review, which answer best explains the clue “alternative form of a gene”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "natural selection"
+            },
+            {
+              "label": "B",
+              "text": "allele"
+            },
+            {
+              "label": "C",
+              "text": "phenotype"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "allele",
+          "explanation": "Different alleles can contribute to variation in a trait."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH11_T03",
+      "topic_name": "Genotype",
+      "mcqs": [
+        {
+          "id": "BIO2_CH11_Q21",
+          "question": "Which term is correctly described as: genetic constitution of an organism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "genotype"
+            },
+            {
+              "label": "B",
+              "text": "allele"
+            },
+            {
+              "label": "C",
+              "text": "natural selection"
+            },
+            {
+              "label": "D",
+              "text": "phenotype"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "genotype",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q22",
+          "question": "The biological role or defining feature of genotype is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "B",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "C",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "D",
+              "text": "genetic constitution of an organism"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "genetic constitution of an organism",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q23",
+          "question": "A student records the following clue: “genetic constitution of an organism.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phenotype"
+            },
+            {
+              "label": "B",
+              "text": "gene"
+            },
+            {
+              "label": "C",
+              "text": "genotype"
+            },
+            {
+              "label": "D",
+              "text": "allele"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "genotype",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q24",
+          "question": "Which option completes this statement correctly? genotype is the term for genetic constitution of an organism.",
+          "options": [
+            {
+              "label": "A",
+              "text": "gene"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "phenotype"
+            },
+            {
+              "label": "D",
+              "text": "allele"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "genotype",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q25",
+          "question": "If an examination asks for the term associated with “genetic constitution of an organism”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "allele"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "gene"
+            },
+            {
+              "label": "D",
+              "text": "natural selection"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "genotype",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q26",
+          "question": "Which structure, process or concept matches the description “genetic constitution of an organism”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "genotype"
+            },
+            {
+              "label": "B",
+              "text": "allele"
+            },
+            {
+              "label": "C",
+              "text": "natural selection"
+            },
+            {
+              "label": "D",
+              "text": "phenotype"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "genotype",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q27",
+          "question": "Choose the accurate statement about genotype.",
+          "options": [
+            {
+              "label": "A",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "B",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "C",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "D",
+              "text": "alternative form of a gene"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "genetic constitution of an organism",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q28",
+          "question": "A diagram or observation identifies genotype. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "B",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "C",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "D",
+              "text": "DNA sequence associated with a functional product or trait"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "genetic constitution of an organism",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q29",
+          "question": "Which pairing is correct for genotype?",
+          "options": [
+            {
+              "label": "A",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "B",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "C",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "D",
+              "text": "process in which heritable differences affect reproductive success"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "genetic constitution of an organism",
+          "explanation": "It describes the alleles carried by an individual."
+        },
+        {
+          "id": "BIO2_CH11_Q30",
+          "question": "In a topic review, which answer best explains the clue “genetic constitution of an organism”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gene"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "allele"
+            },
+            {
+              "label": "D",
+              "text": "phenotype"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "genotype",
+          "explanation": "It describes the alleles carried by an individual."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH11_T04",
+      "topic_name": "Phenotype",
+      "mcqs": [
+        {
+          "id": "BIO2_CH11_Q31",
+          "question": "Which term is correctly described as: observable characteristics resulting from genotype and environment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "allele"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "phenotype"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "phenotype",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q32",
+          "question": "The biological role or defining feature of phenotype is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "B",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "C",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "D",
+              "text": "DNA sequence associated with a functional product or trait"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "observable characteristics resulting from genotype and environment",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q33",
+          "question": "A student records the following clue: “observable characteristics resulting from genotype and environment.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "natural selection"
+            },
+            {
+              "label": "B",
+              "text": "allele"
+            },
+            {
+              "label": "C",
+              "text": "phenotype"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "phenotype",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q34",
+          "question": "Which option completes this statement correctly? phenotype is the term for observable characteristics resulting from genotype and environment.",
+          "options": [
+            {
+              "label": "A",
+              "text": "gene"
+            },
+            {
+              "label": "B",
+              "text": "phenotype"
+            },
+            {
+              "label": "C",
+              "text": "genotype"
+            },
+            {
+              "label": "D",
+              "text": "allele"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "phenotype",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q35",
+          "question": "If an examination asks for the term associated with “observable characteristics resulting from genotype and environment”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "genotype"
+            },
+            {
+              "label": "B",
+              "text": "phenotype"
+            },
+            {
+              "label": "C",
+              "text": "gene"
+            },
+            {
+              "label": "D",
+              "text": "natural selection"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "phenotype",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q36",
+          "question": "Which structure, process or concept matches the description “observable characteristics resulting from genotype and environment”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phenotype"
+            },
+            {
+              "label": "B",
+              "text": "allele"
+            },
+            {
+              "label": "C",
+              "text": "genotype"
+            },
+            {
+              "label": "D",
+              "text": "natural selection"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "phenotype",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q37",
+          "question": "Choose the accurate statement about phenotype.",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "B",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "C",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "D",
+              "text": "observable characteristics resulting from genotype and environment"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "observable characteristics resulting from genotype and environment",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q38",
+          "question": "A diagram or observation identifies phenotype. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "B",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "C",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "D",
+              "text": "observable characteristics resulting from genotype and environment"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "observable characteristics resulting from genotype and environment",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q39",
+          "question": "Which pairing is correct for phenotype?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "B",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "C",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "D",
+              "text": "observable characteristics resulting from genotype and environment"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "observable characteristics resulting from genotype and environment",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        },
+        {
+          "id": "BIO2_CH11_Q40",
+          "question": "In a topic review, which answer best explains the clue “observable characteristics resulting from genotype and environment”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phenotype"
+            },
+            {
+              "label": "B",
+              "text": "gene"
+            },
+            {
+              "label": "C",
+              "text": "genotype"
+            },
+            {
+              "label": "D",
+              "text": "natural selection"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "phenotype",
+          "explanation": "It is the expressed outcome of inherited and environmental influences."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH11_T05",
+      "topic_name": "Natural Selection",
+      "mcqs": [
+        {
+          "id": "BIO2_CH11_Q41",
+          "question": "Which term is correctly described as: process in which heritable differences affect reproductive success?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gene"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "natural selection"
+            },
+            {
+              "label": "D",
+              "text": "allele"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "natural selection",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q42",
+          "question": "The biological role or defining feature of natural selection is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "B",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "C",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "D",
+              "text": "genetic constitution of an organism"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "process in which heritable differences affect reproductive success",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q43",
+          "question": "A student records the following clue: “process in which heritable differences affect reproductive success.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "genotype"
+            },
+            {
+              "label": "B",
+              "text": "gene"
+            },
+            {
+              "label": "C",
+              "text": "natural selection"
+            },
+            {
+              "label": "D",
+              "text": "phenotype"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "natural selection",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q44",
+          "question": "Which option completes this statement correctly? natural selection is the term for process in which heritable differences affect reproductive success.",
+          "options": [
+            {
+              "label": "A",
+              "text": "allele"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "natural selection"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "natural selection",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q45",
+          "question": "If an examination asks for the term associated with “process in which heritable differences affect reproductive success”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phenotype"
+            },
+            {
+              "label": "B",
+              "text": "gene"
+            },
+            {
+              "label": "C",
+              "text": "genotype"
+            },
+            {
+              "label": "D",
+              "text": "natural selection"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "natural selection",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q46",
+          "question": "Which structure, process or concept matches the description “process in which heritable differences affect reproductive success”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "natural selection"
+            },
+            {
+              "label": "B",
+              "text": "genotype"
+            },
+            {
+              "label": "C",
+              "text": "phenotype"
+            },
+            {
+              "label": "D",
+              "text": "allele"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "natural selection",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q47",
+          "question": "Choose the accurate statement about natural selection.",
+          "options": [
+            {
+              "label": "A",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "B",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "C",
+              "text": "observable characteristics resulting from genotype and environment"
+            },
+            {
+              "label": "D",
+              "text": "process in which heritable differences affect reproductive success"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "process in which heritable differences affect reproductive success",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q48",
+          "question": "A diagram or observation identifies natural selection. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA sequence associated with a functional product or trait"
+            },
+            {
+              "label": "B",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "C",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "D",
+              "text": "process in which heritable differences affect reproductive success"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "process in which heritable differences affect reproductive success",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q49",
+          "question": "Which pairing is correct for natural selection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alternative form of a gene"
+            },
+            {
+              "label": "B",
+              "text": "genetic constitution of an organism"
+            },
+            {
+              "label": "C",
+              "text": "process in which heritable differences affect reproductive success"
+            },
+            {
+              "label": "D",
+              "text": "observable characteristics resulting from genotype and environment"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "process in which heritable differences affect reproductive success",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        },
+        {
+          "id": "BIO2_CH11_Q50",
+          "question": "In a topic review, which answer best explains the clue “process in which heritable differences affect reproductive success”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "natural selection"
+            },
+            {
+              "label": "B",
+              "text": "phenotype"
+            },
+            {
+              "label": "C",
+              "text": "allele"
+            },
+            {
+              "label": "D",
+              "text": "gene"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "natural selection",
+          "explanation": "Beneficial heritable variants can become more common over generations."
+        }
+      ]
+    }
+  ]
+}

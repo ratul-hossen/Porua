@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 1,
+  "chapter_title": "Cell and its Structure",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH01_T01",
+      "topic_name": "Mitochondrion",
+      "mcqs": [
+        {
+          "id": "BIO1_CH01_Q01",
+          "question": "Which term is correctly described as: main site of most aerobic ATP production?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "B",
+              "text": "chloroplast"
+            },
+            {
+              "label": "C",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "D",
+              "text": "ribosome"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitochondrion",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q02",
+          "question": "The biological role or defining feature of mitochondrion is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "B",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "C",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "D",
+              "text": "main site of most aerobic ATP production"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "main site of most aerobic ATP production",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q03",
+          "question": "A student records the following clue: “main site of most aerobic ATP production.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ribosome"
+            },
+            {
+              "label": "B",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "C",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "D",
+              "text": "chloroplast"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "mitochondrion",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q04",
+          "question": "Which option completes this statement correctly? mitochondrion is the term for main site of most aerobic ATP production.",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "B",
+              "text": "DNA"
+            },
+            {
+              "label": "C",
+              "text": "ribosome"
+            },
+            {
+              "label": "D",
+              "text": "plasma membrane"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "mitochondrion",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q05",
+          "question": "If an examination asks for the term associated with “main site of most aerobic ATP production”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA"
+            },
+            {
+              "label": "B",
+              "text": "chloroplast"
+            },
+            {
+              "label": "C",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "D",
+              "text": "ribosome"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitochondrion",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q06",
+          "question": "Which structure, process or concept matches the description “main site of most aerobic ATP production”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA"
+            },
+            {
+              "label": "B",
+              "text": "chloroplast"
+            },
+            {
+              "label": "C",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "D",
+              "text": "ribosome"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "mitochondrion",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q07",
+          "question": "Choose the accurate statement about mitochondrion.",
+          "options": [
+            {
+              "label": "A",
+              "text": "organelle where photosynthesis occurs"
+            },
+            {
+              "label": "B",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "C",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "D",
+              "text": "main site of most aerobic ATP production"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "main site of most aerobic ATP production",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q08",
+          "question": "A diagram or observation identifies mitochondrion. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "B",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "C",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "main site of most aerobic ATP production",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q09",
+          "question": "Which pairing is correct for mitochondrion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "B",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "C",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "main site of most aerobic ATP production",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        },
+        {
+          "id": "BIO1_CH01_Q10",
+          "question": "In a topic review, which answer best explains the clue “main site of most aerobic ATP production”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "B",
+              "text": "ribosome"
+            },
+            {
+              "label": "C",
+              "text": "chloroplast"
+            },
+            {
+              "label": "D",
+              "text": "DNA"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "mitochondrion",
+          "explanation": "It supplies much of the ATP used in cellular activities."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH01_T02",
+      "topic_name": "Plasma Membrane",
+      "mcqs": [
+        {
+          "id": "BIO1_CH01_Q11",
+          "question": "Which term is correctly described as: selectively permeable boundary controlling exchange?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chloroplast"
+            },
+            {
+              "label": "B",
+              "text": "DNA"
+            },
+            {
+              "label": "C",
+              "text": "ribosome"
+            },
+            {
+              "label": "D",
+              "text": "plasma membrane"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plasma membrane",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q12",
+          "question": "The biological role or defining feature of plasma membrane is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "B",
+              "text": "organelle where photosynthesis occurs"
+            },
+            {
+              "label": "C",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "D",
+              "text": "selectively permeable boundary controlling exchange"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "selectively permeable boundary controlling exchange",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q13",
+          "question": "A student records the following clue: “selectively permeable boundary controlling exchange.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ribosome"
+            },
+            {
+              "label": "B",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "chloroplast"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "plasma membrane",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q14",
+          "question": "Which option completes this statement correctly? plasma membrane is the term for selectively permeable boundary controlling exchange.",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "B",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "C",
+              "text": "ribosome"
+            },
+            {
+              "label": "D",
+              "text": "chloroplast"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "plasma membrane",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q15",
+          "question": "If an examination asks for the term associated with “selectively permeable boundary controlling exchange”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA"
+            },
+            {
+              "label": "B",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "C",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "D",
+              "text": "ribosome"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "plasma membrane",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q16",
+          "question": "Which structure, process or concept matches the description “selectively permeable boundary controlling exchange”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "B",
+              "text": "ribosome"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "mitochondrion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "plasma membrane",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q17",
+          "question": "Choose the accurate statement about plasma membrane.",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "B",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "C",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "selectively permeable boundary controlling exchange",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q18",
+          "question": "A diagram or observation identifies plasma membrane. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "organelle where photosynthesis occurs"
+            },
+            {
+              "label": "B",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "C",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "D",
+              "text": "selectively permeable boundary controlling exchange"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "selectively permeable boundary controlling exchange",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q19",
+          "question": "Which pairing is correct for plasma membrane?",
+          "options": [
+            {
+              "label": "A",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "B",
+              "text": "organelle where photosynthesis occurs"
+            },
+            {
+              "label": "C",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "D",
+              "text": "main site of most aerobic ATP production"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "selectively permeable boundary controlling exchange",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        },
+        {
+          "id": "BIO1_CH01_Q20",
+          "question": "In a topic review, which answer best explains the clue “selectively permeable boundary controlling exchange”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "B",
+              "text": "DNA"
+            },
+            {
+              "label": "C",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "D",
+              "text": "chloroplast"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "plasma membrane",
+          "explanation": "It regulates movement of substances between the cell and its surroundings."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH01_T03",
+      "topic_name": "Chloroplast",
+      "mcqs": [
+        {
+          "id": "BIO1_CH01_Q21",
+          "question": "Which term is correctly described as: organelle where photosynthesis occurs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA"
+            },
+            {
+              "label": "B",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "C",
+              "text": "chloroplast"
+            },
+            {
+              "label": "D",
+              "text": "plasma membrane"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "chloroplast",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q22",
+          "question": "The biological role or defining feature of chloroplast is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "B",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "C",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "organelle where photosynthesis occurs",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q23",
+          "question": "A student records the following clue: “organelle where photosynthesis occurs.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chloroplast"
+            },
+            {
+              "label": "B",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "C",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "D",
+              "text": "DNA"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "chloroplast",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q24",
+          "question": "Which option completes this statement correctly? chloroplast is the term for organelle where photosynthesis occurs.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ribosome"
+            },
+            {
+              "label": "B",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "C",
+              "text": "chloroplast"
+            },
+            {
+              "label": "D",
+              "text": "mitochondrion"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "chloroplast",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q25",
+          "question": "If an examination asks for the term associated with “organelle where photosynthesis occurs”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chloroplast"
+            },
+            {
+              "label": "B",
+              "text": "ribosome"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "plasma membrane"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "chloroplast",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q26",
+          "question": "Which structure, process or concept matches the description “organelle where photosynthesis occurs”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "B",
+              "text": "ribosome"
+            },
+            {
+              "label": "C",
+              "text": "chloroplast"
+            },
+            {
+              "label": "D",
+              "text": "mitochondrion"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "chloroplast",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q27",
+          "question": "Choose the accurate statement about chloroplast.",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "B",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "C",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "organelle where photosynthesis occurs",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q28",
+          "question": "A diagram or observation identifies chloroplast. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "B",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "C",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "organelle where photosynthesis occurs",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q29",
+          "question": "Which pairing is correct for chloroplast?",
+          "options": [
+            {
+              "label": "A",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "B",
+              "text": "organelle where photosynthesis occurs"
+            },
+            {
+              "label": "C",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "D",
+              "text": "main site of most aerobic ATP production"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "organelle where photosynthesis occurs",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        },
+        {
+          "id": "BIO1_CH01_Q30",
+          "question": "In a topic review, which answer best explains the clue “organelle where photosynthesis occurs”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chloroplast"
+            },
+            {
+              "label": "B",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "ribosome"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "chloroplast",
+          "explanation": "Its photosynthetic membranes contain pigments that capture light energy."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH01_T04",
+      "topic_name": "Ribosome",
+      "mcqs": [
+        {
+          "id": "BIO1_CH01_Q31",
+          "question": "Which term is correctly described as: site of protein synthesis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "B",
+              "text": "DNA"
+            },
+            {
+              "label": "C",
+              "text": "ribosome"
+            },
+            {
+              "label": "D",
+              "text": "chloroplast"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ribosome",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q32",
+          "question": "The biological role or defining feature of ribosome is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "B",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "C",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "site of protein synthesis",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q33",
+          "question": "A student records the following clue: “site of protein synthesis.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA"
+            },
+            {
+              "label": "B",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "C",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "D",
+              "text": "ribosome"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ribosome",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q34",
+          "question": "Which option completes this statement correctly? ribosome is the term for site of protein synthesis.",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA"
+            },
+            {
+              "label": "B",
+              "text": "ribosome"
+            },
+            {
+              "label": "C",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "D",
+              "text": "chloroplast"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ribosome",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q35",
+          "question": "If an examination asks for the term associated with “site of protein synthesis”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ribosome"
+            },
+            {
+              "label": "B",
+              "text": "DNA"
+            },
+            {
+              "label": "C",
+              "text": "chloroplast"
+            },
+            {
+              "label": "D",
+              "text": "mitochondrion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ribosome",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q36",
+          "question": "Which structure, process or concept matches the description “site of protein synthesis”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ribosome"
+            },
+            {
+              "label": "B",
+              "text": "chloroplast"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "mitochondrion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ribosome",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q37",
+          "question": "Choose the accurate statement about ribosome.",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "B",
+              "text": "organelle where photosynthesis occurs"
+            },
+            {
+              "label": "C",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "D",
+              "text": "selectively permeable boundary controlling exchange"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "site of protein synthesis",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q38",
+          "question": "A diagram or observation identifies ribosome. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "B",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "C",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "D",
+              "text": "main site of most aerobic ATP production"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "site of protein synthesis",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q39",
+          "question": "Which pairing is correct for ribosome?",
+          "options": [
+            {
+              "label": "A",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "B",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "C",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "site of protein synthesis",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        },
+        {
+          "id": "BIO1_CH01_Q40",
+          "question": "In a topic review, which answer best explains the clue “site of protein synthesis”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chloroplast"
+            },
+            {
+              "label": "B",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "ribosome"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ribosome",
+          "explanation": "Ribosomes translate messenger RNA into polypeptide chains."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH01_T05",
+      "topic_name": "Dna",
+      "mcqs": [
+        {
+          "id": "BIO1_CH01_Q41",
+          "question": "Which term is correctly described as: molecule that stores hereditary information?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chloroplast"
+            },
+            {
+              "label": "B",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "plasma membrane"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "DNA",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q42",
+          "question": "The biological role or defining feature of DNA is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "B",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "C",
+              "text": "organelle where photosynthesis occurs"
+            },
+            {
+              "label": "D",
+              "text": "selectively permeable boundary controlling exchange"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "molecule that stores hereditary information",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q43",
+          "question": "A student records the following clue: “molecule that stores hereditary information.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chloroplast"
+            },
+            {
+              "label": "B",
+              "text": "ribosome"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "plasma membrane"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "DNA",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q44",
+          "question": "Which option completes this statement correctly? DNA is the term for molecule that stores hereditary information.",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "B",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "ribosome"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "DNA",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q45",
+          "question": "If an examination asks for the term associated with “molecule that stores hereditary information”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "B",
+              "text": "ribosome"
+            },
+            {
+              "label": "C",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "D",
+              "text": "DNA"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "DNA",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q46",
+          "question": "Which structure, process or concept matches the description “molecule that stores hereditary information”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ribosome"
+            },
+            {
+              "label": "B",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "C",
+              "text": "DNA"
+            },
+            {
+              "label": "D",
+              "text": "chloroplast"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "DNA",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q47",
+          "question": "Choose the accurate statement about DNA.",
+          "options": [
+            {
+              "label": "A",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "B",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "C",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "molecule that stores hereditary information",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q48",
+          "question": "A diagram or observation identifies DNA. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "B",
+              "text": "organelle where photosynthesis occurs"
+            },
+            {
+              "label": "C",
+              "text": "selectively permeable boundary controlling exchange"
+            },
+            {
+              "label": "D",
+              "text": "molecule that stores hereditary information"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "molecule that stores hereditary information",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q49",
+          "question": "Which pairing is correct for DNA?",
+          "options": [
+            {
+              "label": "A",
+              "text": "main site of most aerobic ATP production"
+            },
+            {
+              "label": "B",
+              "text": "site of protein synthesis"
+            },
+            {
+              "label": "C",
+              "text": "molecule that stores hereditary information"
+            },
+            {
+              "label": "D",
+              "text": "organelle where photosynthesis occurs"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "molecule that stores hereditary information",
+          "explanation": "Genes are functional sequences of DNA."
+        },
+        {
+          "id": "BIO1_CH01_Q50",
+          "question": "In a topic review, which answer best explains the clue “molecule that stores hereditary information”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mitochondrion"
+            },
+            {
+              "label": "B",
+              "text": "plasma membrane"
+            },
+            {
+              "label": "C",
+              "text": "chloroplast"
+            },
+            {
+              "label": "D",
+              "text": "DNA"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "DNA",
+          "explanation": "Genes are functional sequences of DNA."
+        }
+      ]
+    }
+  ]
+}

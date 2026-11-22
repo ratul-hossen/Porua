@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 11,
+  "chapter_title": "Biotechnology",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH11_T01",
+      "topic_name": "Restriction Enzyme",
+      "mcqs": [
+        {
+          "id": "BIO1_CH11_Q01",
+          "question": "Which term is correctly described as: enzyme that cuts DNA at specific recognition sequences?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "restriction enzyme",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q02",
+          "question": "The biological role or defining feature of restriction enzyme is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "B",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "C",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that joins DNA fragments"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "enzyme that cuts DNA at specific recognition sequences",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q03",
+          "question": "A student records the following clue: “enzyme that cuts DNA at specific recognition sequences.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plasmid"
+            },
+            {
+              "label": "B",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "C",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "D",
+              "text": "restriction enzyme"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "restriction enzyme",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q04",
+          "question": "Which option completes this statement correctly? restriction enzyme is the term for enzyme that cuts DNA at specific recognition sequences.",
+          "options": [
+            {
+              "label": "A",
+              "text": "plasmid"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "D",
+              "text": "PCR"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "restriction enzyme",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q05",
+          "question": "If an examination asks for the term associated with “enzyme that cuts DNA at specific recognition sequences”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "restriction enzyme",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q06",
+          "question": "Which structure, process or concept matches the description “enzyme that cuts DNA at specific recognition sequences”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "PCR"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "restriction enzyme",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q07",
+          "question": "Choose the accurate statement about restriction enzyme.",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "B",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "D",
+              "text": "technique used to amplify a selected DNA sequence"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "enzyme that cuts DNA at specific recognition sequences",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q08",
+          "question": "A diagram or observation identifies restriction enzyme. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "C",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "D",
+              "text": "small circular DNA molecule often used as a vector"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "enzyme that cuts DNA at specific recognition sequences",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q09",
+          "question": "Which pairing is correct for restriction enzyme?",
+          "options": [
+            {
+              "label": "A",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "B",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that joins DNA fragments"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "enzyme that cuts DNA at specific recognition sequences",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        },
+        {
+          "id": "BIO1_CH11_Q10",
+          "question": "In a topic review, which answer best explains the clue “enzyme that cuts DNA at specific recognition sequences”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plasmid"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "plant tissue culture"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "restriction enzyme",
+          "explanation": "It enables DNA fragments to be cut at defined sites."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH11_T02",
+      "topic_name": "Dna Ligase",
+      "mcqs": [
+        {
+          "id": "BIO1_CH11_Q11",
+          "question": "Which term is correctly described as: enzyme that joins DNA fragments?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "D",
+              "text": "restriction enzyme"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DNA ligase",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q12",
+          "question": "The biological role or defining feature of DNA ligase is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "B",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "C",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "enzyme that joins DNA fragments",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q13",
+          "question": "A student records the following clue: “enzyme that joins DNA fragments.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "B",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "PCR"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "DNA ligase",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q14",
+          "question": "Which option completes this statement correctly? DNA ligase is the term for enzyme that joins DNA fragments.",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "plasmid"
+            },
+            {
+              "label": "D",
+              "text": "restriction enzyme"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DNA ligase",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q15",
+          "question": "If an examination asks for the term associated with “enzyme that joins DNA fragments”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PCR"
+            },
+            {
+              "label": "B",
+              "text": "plasmid"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "restriction enzyme"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "DNA ligase",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q16",
+          "question": "Which structure, process or concept matches the description “enzyme that joins DNA fragments”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "D",
+              "text": "restriction enzyme"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DNA ligase",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q17",
+          "question": "Choose the accurate statement about DNA ligase.",
+          "options": [
+            {
+              "label": "A",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "D",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "enzyme that joins DNA fragments",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q18",
+          "question": "A diagram or observation identifies DNA ligase. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "C",
+              "text": "technique used to amplify a selected DNA sequence"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "enzyme that joins DNA fragments",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q19",
+          "question": "Which pairing is correct for DNA ligase?",
+          "options": [
+            {
+              "label": "A",
+              "text": "technique used to amplify a selected DNA sequence"
+            },
+            {
+              "label": "B",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "enzyme that joins DNA fragments",
+          "explanation": "It seals the sugar-phosphate backbone."
+        },
+        {
+          "id": "BIO1_CH11_Q20",
+          "question": "In a topic review, which answer best explains the clue “enzyme that joins DNA fragments”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "B",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "DNA ligase",
+          "explanation": "It seals the sugar-phosphate backbone."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH11_T03",
+      "topic_name": "Plasmid",
+      "mcqs": [
+        {
+          "id": "BIO1_CH11_Q21",
+          "question": "Which term is correctly described as: small circular DNA molecule often used as a vector?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PCR"
+            },
+            {
+              "label": "B",
+              "text": "plasmid"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "restriction enzyme"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "plasmid",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q22",
+          "question": "The biological role or defining feature of plasmid is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "C",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "D",
+              "text": "technique used to amplify a selected DNA sequence"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "small circular DNA molecule often used as a vector",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q23",
+          "question": "A student records the following clue: “small circular DNA molecule often used as a vector.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PCR"
+            },
+            {
+              "label": "B",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "C",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plasmid",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q24",
+          "question": "Which option completes this statement correctly? plasmid is the term for small circular DNA molecule often used as a vector.",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "B",
+              "text": "plasmid"
+            },
+            {
+              "label": "C",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "D",
+              "text": "plant tissue culture"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "plasmid",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q25",
+          "question": "If an examination asks for the term associated with “small circular DNA molecule often used as a vector”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plasmid",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q26",
+          "question": "Which structure, process or concept matches the description “small circular DNA molecule often used as a vector”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PCR"
+            },
+            {
+              "label": "B",
+              "text": "plasmid"
+            },
+            {
+              "label": "C",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "D",
+              "text": "DNA ligase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "plasmid",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q27",
+          "question": "Choose the accurate statement about plasmid.",
+          "options": [
+            {
+              "label": "A",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "D",
+              "text": "small circular DNA molecule often used as a vector"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "small circular DNA molecule often used as a vector",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q28",
+          "question": "A diagram or observation identifies plasmid. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "technique used to amplify a selected DNA sequence"
+            },
+            {
+              "label": "B",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "D",
+              "text": "small circular DNA molecule often used as a vector"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "small circular DNA molecule often used as a vector",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q29",
+          "question": "Which pairing is correct for plasmid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "B",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "C",
+              "text": "technique used to amplify a selected DNA sequence"
+            },
+            {
+              "label": "D",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "small circular DNA molecule often used as a vector",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        },
+        {
+          "id": "BIO1_CH11_Q30",
+          "question": "In a topic review, which answer best explains the clue “small circular DNA molecule often used as a vector”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PCR"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "plasmid"
+            },
+            {
+              "label": "D",
+              "text": "plant tissue culture"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "plasmid",
+          "explanation": "A plasmid can carry an inserted gene into a host cell."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH11_T04",
+      "topic_name": "Pcr",
+      "mcqs": [
+        {
+          "id": "BIO1_CH11_Q31",
+          "question": "Which term is correctly described as: technique used to amplify a selected DNA sequence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "B",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "C",
+              "text": "plasmid"
+            },
+            {
+              "label": "D",
+              "text": "PCR"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "PCR",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q32",
+          "question": "The biological role or defining feature of PCR is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "B",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "D",
+              "text": "technique used to amplify a selected DNA sequence"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "technique used to amplify a selected DNA sequence",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q33",
+          "question": "A student records the following clue: “technique used to amplify a selected DNA sequence.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "plasmid"
+            },
+            {
+              "label": "D",
+              "text": "PCR"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "PCR",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q34",
+          "question": "Which option completes this statement correctly? PCR is the term for technique used to amplify a selected DNA sequence.",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "plasmid"
+            },
+            {
+              "label": "D",
+              "text": "DNA ligase"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "PCR",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q35",
+          "question": "If an examination asks for the term associated with “technique used to amplify a selected DNA sequence”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plasmid"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "plant tissue culture"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "PCR",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q36",
+          "question": "Which structure, process or concept matches the description “technique used to amplify a selected DNA sequence”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "PCR",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q37",
+          "question": "Choose the accurate statement about PCR.",
+          "options": [
+            {
+              "label": "A",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "C",
+              "text": "technique used to amplify a selected DNA sequence"
+            },
+            {
+              "label": "D",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "technique used to amplify a selected DNA sequence",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q38",
+          "question": "A diagram or observation identifies PCR. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "C",
+              "text": "technique used to amplify a selected DNA sequence"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "technique used to amplify a selected DNA sequence",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q39",
+          "question": "Which pairing is correct for PCR?",
+          "options": [
+            {
+              "label": "A",
+              "text": "technique used to amplify a selected DNA sequence"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "D",
+              "text": "small circular DNA molecule often used as a vector"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "technique used to amplify a selected DNA sequence",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        },
+        {
+          "id": "BIO1_CH11_Q40",
+          "question": "In a topic review, which answer best explains the clue “technique used to amplify a selected DNA sequence”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "restriction enzyme"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "PCR",
+          "explanation": "Repeated denaturation, annealing and extension cycles copy the target."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH11_T05",
+      "topic_name": "Plant Tissue Culture",
+      "mcqs": [
+        {
+          "id": "BIO1_CH11_Q41",
+          "question": "Which term is correctly described as: growth of plant cells or tissues under sterile controlled conditions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PCR"
+            },
+            {
+              "label": "B",
+              "text": "plasmid"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "plant tissue culture"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plant tissue culture",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q42",
+          "question": "The biological role or defining feature of plant tissue culture is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "B",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "C",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "growth of plant cells or tissues under sterile controlled conditions",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q43",
+          "question": "A student records the following clue: “growth of plant cells or tissues under sterile controlled conditions.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PCR"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "D",
+              "text": "DNA ligase"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "plant tissue culture",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q44",
+          "question": "Which option completes this statement correctly? plant tissue culture is the term for growth of plant cells or tissues under sterile controlled conditions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "B",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "C",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "plant tissue culture",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q45",
+          "question": "If an examination asks for the term associated with “growth of plant cells or tissues under sterile controlled conditions”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PCR"
+            },
+            {
+              "label": "B",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "C",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "D",
+              "text": "plasmid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "plant tissue culture",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q46",
+          "question": "Which structure, process or concept matches the description “growth of plant cells or tissues under sterile controlled conditions”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DNA ligase"
+            },
+            {
+              "label": "B",
+              "text": "PCR"
+            },
+            {
+              "label": "C",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "D",
+              "text": "plant tissue culture"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "plant tissue culture",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q47",
+          "question": "Choose the accurate statement about plant tissue culture.",
+          "options": [
+            {
+              "label": "A",
+              "text": "small circular DNA molecule often used as a vector"
+            },
+            {
+              "label": "B",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "D",
+              "text": "enzyme that joins DNA fragments"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "growth of plant cells or tissues under sterile controlled conditions",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q48",
+          "question": "A diagram or observation identifies plant tissue culture. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "B",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "C",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            },
+            {
+              "label": "D",
+              "text": "technique used to amplify a selected DNA sequence"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "growth of plant cells or tissues under sterile controlled conditions",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q49",
+          "question": "Which pairing is correct for plant tissue culture?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme that joins DNA fragments"
+            },
+            {
+              "label": "B",
+              "text": "technique used to amplify a selected DNA sequence"
+            },
+            {
+              "label": "C",
+              "text": "enzyme that cuts DNA at specific recognition sequences"
+            },
+            {
+              "label": "D",
+              "text": "growth of plant cells or tissues under sterile controlled conditions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "growth of plant cells or tissues under sterile controlled conditions",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        },
+        {
+          "id": "BIO1_CH11_Q50",
+          "question": "In a topic review, which answer best explains the clue “growth of plant cells or tissues under sterile controlled conditions”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "restriction enzyme"
+            },
+            {
+              "label": "B",
+              "text": "plasmid"
+            },
+            {
+              "label": "C",
+              "text": "plant tissue culture"
+            },
+            {
+              "label": "D",
+              "text": "PCR"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "plant tissue culture",
+          "explanation": "It uses a suitable nutrient medium and aseptic technique."
+        }
+      ]
+    }
+  ]
+}

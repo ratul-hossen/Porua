@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 3,
+  "chapter_title": "Quantitative Chemistry",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Mole",
+      "questions": [
+        {
+          "id": "CH03-MCQ-001",
+          "question": "Which statement correctly describes mole?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One litre of every gas"
+            },
+            {
+              "label": "B",
+              "text": "Amount containing Avogadro's number of entities"
+            },
+            {
+              "label": "C",
+              "text": "One atom of every element"
+            },
+            {
+              "label": "D",
+              "text": "One gram of every substance"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Amount containing Avogadro's number of entities",
+          "explanation": "One mole contains approximately 6.022 × 10^23 specified particles.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning mole?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Amount containing Avogadro's number of entities"
+            },
+            {
+              "label": "B",
+              "text": "One litre of every gas"
+            },
+            {
+              "label": "C",
+              "text": "One gram of every substance"
+            },
+            {
+              "label": "D",
+              "text": "One atom of every element"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Amount containing Avogadro's number of entities",
+          "explanation": "One mole contains approximately 6.022 × 10^23 specified particles.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-003",
+          "question": "A student is reviewing mole. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Amount containing Avogadro's number of entities"
+            },
+            {
+              "label": "B",
+              "text": "One litre of every gas"
+            },
+            {
+              "label": "C",
+              "text": "One gram of every substance"
+            },
+            {
+              "label": "D",
+              "text": "One atom of every element"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Amount containing Avogadro's number of entities",
+          "explanation": "One mole contains approximately 6.022 × 10^23 specified particles.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-004",
+          "question": "Which option gives the most accurate explanation of mole?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One gram of every substance"
+            },
+            {
+              "label": "B",
+              "text": "Amount containing Avogadro's number of entities"
+            },
+            {
+              "label": "C",
+              "text": "One litre of every gas"
+            },
+            {
+              "label": "D",
+              "text": "One atom of every element"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Amount containing Avogadro's number of entities",
+          "explanation": "One mole contains approximately 6.022 × 10^23 specified particles.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-005",
+          "question": "Choose the correct principle or fact associated with mole.",
+          "options": [
+            {
+              "label": "A",
+              "text": "One atom of every element"
+            },
+            {
+              "label": "B",
+              "text": "Amount containing Avogadro's number of entities"
+            },
+            {
+              "label": "C",
+              "text": "One litre of every gas"
+            },
+            {
+              "label": "D",
+              "text": "One gram of every substance"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Amount containing Avogadro's number of entities",
+          "explanation": "One mole contains approximately 6.022 × 10^23 specified particles.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Avogadro constant",
+      "questions": [
+        {
+          "id": "CH03-MCQ-006",
+          "question": "Which statement correctly describes avogadro constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6.022 × 10^23 mol−1"
+            },
+            {
+              "label": "B",
+              "text": "9.81 mol−1"
+            },
+            {
+              "label": "C",
+              "text": "3.00 × 10^8 mol−1"
+            },
+            {
+              "label": "D",
+              "text": "1.00 × 10^−3 mol−1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6.022 × 10^23 mol−1",
+          "explanation": "It gives the number of specified entities in one mole.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning avogadro constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "9.81 mol−1"
+            },
+            {
+              "label": "B",
+              "text": "6.022 × 10^23 mol−1"
+            },
+            {
+              "label": "C",
+              "text": "3.00 × 10^8 mol−1"
+            },
+            {
+              "label": "D",
+              "text": "1.00 × 10^−3 mol−1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "6.022 × 10^23 mol−1",
+          "explanation": "It gives the number of specified entities in one mole.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-008",
+          "question": "A student is reviewing avogadro constant. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1.00 × 10^−3 mol−1"
+            },
+            {
+              "label": "B",
+              "text": "3.00 × 10^8 mol−1"
+            },
+            {
+              "label": "C",
+              "text": "6.022 × 10^23 mol−1"
+            },
+            {
+              "label": "D",
+              "text": "9.81 mol−1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "6.022 × 10^23 mol−1",
+          "explanation": "It gives the number of specified entities in one mole.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-009",
+          "question": "Which option gives the most accurate explanation of avogadro constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "9.81 mol−1"
+            },
+            {
+              "label": "B",
+              "text": "6.022 × 10^23 mol−1"
+            },
+            {
+              "label": "C",
+              "text": "1.00 × 10^−3 mol−1"
+            },
+            {
+              "label": "D",
+              "text": "3.00 × 10^8 mol−1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "6.022 × 10^23 mol−1",
+          "explanation": "It gives the number of specified entities in one mole.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-010",
+          "question": "Choose the correct principle or fact associated with avogadro constant.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1.00 × 10^−3 mol−1"
+            },
+            {
+              "label": "B",
+              "text": "9.81 mol−1"
+            },
+            {
+              "label": "C",
+              "text": "3.00 × 10^8 mol−1"
+            },
+            {
+              "label": "D",
+              "text": "6.022 × 10^23 mol−1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6.022 × 10^23 mol−1",
+          "explanation": "It gives the number of specified entities in one mole.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Molar mass",
+      "questions": [
+        {
+          "id": "CH03-MCQ-011",
+          "question": "Which statement correctly describes molar mass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass of one mole of a substance"
+            },
+            {
+              "label": "B",
+              "text": "Volume of one atom"
+            },
+            {
+              "label": "C",
+              "text": "Number of protons in a mole"
+            },
+            {
+              "label": "D",
+              "text": "Charge of one electron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Mass of one mole of a substance",
+          "explanation": "Molar mass is commonly expressed in g mol−1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning molar mass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volume of one atom"
+            },
+            {
+              "label": "B",
+              "text": "Charge of one electron"
+            },
+            {
+              "label": "C",
+              "text": "Number of protons in a mole"
+            },
+            {
+              "label": "D",
+              "text": "Mass of one mole of a substance"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Mass of one mole of a substance",
+          "explanation": "Molar mass is commonly expressed in g mol−1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-013",
+          "question": "A student is reviewing molar mass. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Charge of one electron"
+            },
+            {
+              "label": "B",
+              "text": "Number of protons in a mole"
+            },
+            {
+              "label": "C",
+              "text": "Mass of one mole of a substance"
+            },
+            {
+              "label": "D",
+              "text": "Volume of one atom"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Mass of one mole of a substance",
+          "explanation": "Molar mass is commonly expressed in g mol−1.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-014",
+          "question": "Which option gives the most accurate explanation of molar mass?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass of one mole of a substance"
+            },
+            {
+              "label": "B",
+              "text": "Number of protons in a mole"
+            },
+            {
+              "label": "C",
+              "text": "Volume of one atom"
+            },
+            {
+              "label": "D",
+              "text": "Charge of one electron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Mass of one mole of a substance",
+          "explanation": "Molar mass is commonly expressed in g mol−1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-015",
+          "question": "Choose the correct principle or fact associated with molar mass.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Number of protons in a mole"
+            },
+            {
+              "label": "B",
+              "text": "Mass of one mole of a substance"
+            },
+            {
+              "label": "C",
+              "text": "Charge of one electron"
+            },
+            {
+              "label": "D",
+              "text": "Volume of one atom"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Mass of one mole of a substance",
+          "explanation": "Molar mass is commonly expressed in g mol−1.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Molarity",
+      "questions": [
+        {
+          "id": "CH03-MCQ-016",
+          "question": "Which statement correctly describes molarity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moles per kilogram of solvent"
+            },
+            {
+              "label": "B",
+              "text": "Moles of solute per litre of solution"
+            },
+            {
+              "label": "C",
+              "text": "Mass per cubic metre only"
+            },
+            {
+              "label": "D",
+              "text": "Grams of solvent per mole"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Moles of solute per litre of solution",
+          "explanation": "Molar concentration is expressed in mol l−1 or mol dm−3.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning molarity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass per cubic metre only"
+            },
+            {
+              "label": "B",
+              "text": "Moles of solute per litre of solution"
+            },
+            {
+              "label": "C",
+              "text": "Moles per kilogram of solvent"
+            },
+            {
+              "label": "D",
+              "text": "Grams of solvent per mole"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Moles of solute per litre of solution",
+          "explanation": "Molar concentration is expressed in mol l−1 or mol dm−3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-018",
+          "question": "A student is reviewing molarity. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Grams of solvent per mole"
+            },
+            {
+              "label": "B",
+              "text": "Moles per kilogram of solvent"
+            },
+            {
+              "label": "C",
+              "text": "Moles of solute per litre of solution"
+            },
+            {
+              "label": "D",
+              "text": "Mass per cubic metre only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Moles of solute per litre of solution",
+          "explanation": "Molar concentration is expressed in mol l−1 or mol dm−3.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-019",
+          "question": "Which option gives the most accurate explanation of molarity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Grams of solvent per mole"
+            },
+            {
+              "label": "B",
+              "text": "Moles of solute per litre of solution"
+            },
+            {
+              "label": "C",
+              "text": "Moles per kilogram of solvent"
+            },
+            {
+              "label": "D",
+              "text": "Mass per cubic metre only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Moles of solute per litre of solution",
+          "explanation": "Molar concentration is expressed in mol l−1 or mol dm−3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-020",
+          "question": "Choose the correct principle or fact associated with molarity.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Grams of solvent per mole"
+            },
+            {
+              "label": "B",
+              "text": "Moles of solute per litre of solution"
+            },
+            {
+              "label": "C",
+              "text": "Moles per kilogram of solvent"
+            },
+            {
+              "label": "D",
+              "text": "Mass per cubic metre only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Moles of solute per litre of solution",
+          "explanation": "Molar concentration is expressed in mol l−1 or mol dm−3.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Dilution equation",
+      "questions": [
+        {
+          "id": "CH03-MCQ-021",
+          "question": "Which statement correctly describes dilution equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PV = nRT"
+            },
+            {
+              "label": "B",
+              "text": "q = It"
+            },
+            {
+              "label": "C",
+              "text": "M1V1 = M2V2"
+            },
+            {
+              "label": "D",
+              "text": "E = mc2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "M1V1 = M2V2",
+          "explanation": "For dilution, the amount of solute remains constant before and after adding solvent.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning dilution equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PV = nRT"
+            },
+            {
+              "label": "B",
+              "text": "q = It"
+            },
+            {
+              "label": "C",
+              "text": "E = mc2"
+            },
+            {
+              "label": "D",
+              "text": "M1V1 = M2V2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "M1V1 = M2V2",
+          "explanation": "For dilution, the amount of solute remains constant before and after adding solvent.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-023",
+          "question": "A student is reviewing dilution equation. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "E = mc2"
+            },
+            {
+              "label": "B",
+              "text": "PV = nRT"
+            },
+            {
+              "label": "C",
+              "text": "M1V1 = M2V2"
+            },
+            {
+              "label": "D",
+              "text": "q = It"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "M1V1 = M2V2",
+          "explanation": "For dilution, the amount of solute remains constant before and after adding solvent.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-024",
+          "question": "Which option gives the most accurate explanation of dilution equation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "q = It"
+            },
+            {
+              "label": "B",
+              "text": "M1V1 = M2V2"
+            },
+            {
+              "label": "C",
+              "text": "E = mc2"
+            },
+            {
+              "label": "D",
+              "text": "PV = nRT"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "M1V1 = M2V2",
+          "explanation": "For dilution, the amount of solute remains constant before and after adding solvent.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-025",
+          "question": "Choose the correct principle or fact associated with dilution equation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "q = It"
+            },
+            {
+              "label": "B",
+              "text": "M1V1 = M2V2"
+            },
+            {
+              "label": "C",
+              "text": "PV = nRT"
+            },
+            {
+              "label": "D",
+              "text": "E = mc2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "M1V1 = M2V2",
+          "explanation": "For dilution, the amount of solute remains constant before and after adding solvent.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Empirical formula",
+      "questions": [
+        {
+          "id": "CH03-MCQ-026",
+          "question": "Which statement correctly describes empirical formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Simplest whole-number ratio of atoms"
+            },
+            {
+              "label": "B",
+              "text": "Mass of one atom"
+            },
+            {
+              "label": "C",
+              "text": "Molecular shape only"
+            },
+            {
+              "label": "D",
+              "text": "Exact molecular structure"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Simplest whole-number ratio of atoms",
+          "explanation": "It represents the simplest ratio rather than the actual number of atoms in a molecule.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH03-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning empirical formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Exact molecular structure"
+            },
+            {
+              "label": "B",
+              "text": "Mass of one atom"
+            },
+            {
+              "label": "C",
+              "text": "Molecular shape only"
+            },
+            {
+              "label": "D",
+              "text": "Simplest whole-number ratio of atoms"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Simplest whole-number ratio of atoms",
+          "explanation": "It represents the simplest ratio rather than the actual number of atoms in a molecule.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-028",
+          "question": "A student is reviewing empirical formula. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Molecular shape only"
+            },
+            {
+              "label": "B",
+              "text": "Mass of one atom"
+            },
+            {
+              "label": "C",
+              "text": "Exact molecular structure"
+            },
+            {
+              "label": "D",
+              "text": "Simplest whole-number ratio of atoms"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Simplest whole-number ratio of atoms",
+          "explanation": "It represents the simplest ratio rather than the actual number of atoms in a molecule.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-029",
+          "question": "Which option gives the most accurate explanation of empirical formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Exact molecular structure"
+            },
+            {
+              "label": "B",
+              "text": "Mass of one atom"
+            },
+            {
+              "label": "C",
+              "text": "Simplest whole-number ratio of atoms"
+            },
+            {
+              "label": "D",
+              "text": "Molecular shape only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Simplest whole-number ratio of atoms",
+          "explanation": "It represents the simplest ratio rather than the actual number of atoms in a molecule.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-030",
+          "question": "Choose the correct principle or fact associated with empirical formula.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass of one atom"
+            },
+            {
+              "label": "B",
+              "text": "Exact molecular structure"
+            },
+            {
+              "label": "C",
+              "text": "Molecular shape only"
+            },
+            {
+              "label": "D",
+              "text": "Simplest whole-number ratio of atoms"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Simplest whole-number ratio of atoms",
+          "explanation": "It represents the simplest ratio rather than the actual number of atoms in a molecule.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Molecular formula",
+      "questions": [
+        {
+          "id": "CH03-MCQ-031",
+          "question": "Which statement correctly describes molecular formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The reaction rate"
+            },
+            {
+              "label": "B",
+              "text": "Only the ionic charge"
+            },
+            {
+              "label": "C",
+              "text": "Actual number of each type of atom in a molecule"
+            },
+            {
+              "label": "D",
+              "text": "Simplest ratio only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Actual number of each type of atom in a molecule",
+          "explanation": "It is a whole-number multiple of the empirical formula.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning molecular formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Simplest ratio only"
+            },
+            {
+              "label": "B",
+              "text": "Actual number of each type of atom in a molecule"
+            },
+            {
+              "label": "C",
+              "text": "The reaction rate"
+            },
+            {
+              "label": "D",
+              "text": "Only the ionic charge"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Actual number of each type of atom in a molecule",
+          "explanation": "It is a whole-number multiple of the empirical formula.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-033",
+          "question": "A student is reviewing molecular formula. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Actual number of each type of atom in a molecule"
+            },
+            {
+              "label": "B",
+              "text": "The reaction rate"
+            },
+            {
+              "label": "C",
+              "text": "Simplest ratio only"
+            },
+            {
+              "label": "D",
+              "text": "Only the ionic charge"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Actual number of each type of atom in a molecule",
+          "explanation": "It is a whole-number multiple of the empirical formula.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-034",
+          "question": "Which option gives the most accurate explanation of molecular formula?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The reaction rate"
+            },
+            {
+              "label": "B",
+              "text": "Simplest ratio only"
+            },
+            {
+              "label": "C",
+              "text": "Actual number of each type of atom in a molecule"
+            },
+            {
+              "label": "D",
+              "text": "Only the ionic charge"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Actual number of each type of atom in a molecule",
+          "explanation": "It is a whole-number multiple of the empirical formula.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-035",
+          "question": "Choose the correct principle or fact associated with molecular formula.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Simplest ratio only"
+            },
+            {
+              "label": "B",
+              "text": "The reaction rate"
+            },
+            {
+              "label": "C",
+              "text": "Actual number of each type of atom in a molecule"
+            },
+            {
+              "label": "D",
+              "text": "Only the ionic charge"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Actual number of each type of atom in a molecule",
+          "explanation": "It is a whole-number multiple of the empirical formula.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Limiting reagent",
+      "questions": [
+        {
+          "id": "CH03-MCQ-036",
+          "question": "Which statement correctly describes limiting reagent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A catalyst"
+            },
+            {
+              "label": "B",
+              "text": "Reactant consumed first"
+            },
+            {
+              "label": "C",
+              "text": "Reactant present in greatest mass always"
+            },
+            {
+              "label": "D",
+              "text": "The solvent in every reaction"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Reactant consumed first",
+          "explanation": "It determines the maximum theoretical amount of product.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning limiting reagent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reactant present in greatest mass always"
+            },
+            {
+              "label": "B",
+              "text": "A catalyst"
+            },
+            {
+              "label": "C",
+              "text": "The solvent in every reaction"
+            },
+            {
+              "label": "D",
+              "text": "Reactant consumed first"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Reactant consumed first",
+          "explanation": "It determines the maximum theoretical amount of product.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-038",
+          "question": "A student is reviewing limiting reagent. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The solvent in every reaction"
+            },
+            {
+              "label": "B",
+              "text": "Reactant consumed first"
+            },
+            {
+              "label": "C",
+              "text": "A catalyst"
+            },
+            {
+              "label": "D",
+              "text": "Reactant present in greatest mass always"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Reactant consumed first",
+          "explanation": "It determines the maximum theoretical amount of product.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-039",
+          "question": "Which option gives the most accurate explanation of limiting reagent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reactant present in greatest mass always"
+            },
+            {
+              "label": "B",
+              "text": "The solvent in every reaction"
+            },
+            {
+              "label": "C",
+              "text": "Reactant consumed first"
+            },
+            {
+              "label": "D",
+              "text": "A catalyst"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Reactant consumed first",
+          "explanation": "It determines the maximum theoretical amount of product.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-040",
+          "question": "Choose the correct principle or fact associated with limiting reagent.",
+          "options": [
+            {
+              "label": "A",
+              "text": "The solvent in every reaction"
+            },
+            {
+              "label": "B",
+              "text": "A catalyst"
+            },
+            {
+              "label": "C",
+              "text": "Reactant consumed first"
+            },
+            {
+              "label": "D",
+              "text": "Reactant present in greatest mass always"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Reactant consumed first",
+          "explanation": "It determines the maximum theoretical amount of product.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Percentage yield",
+      "questions": [
+        {
+          "id": "CH03-MCQ-041",
+          "question": "Which statement correctly describes percentage yield?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moles of solvent divided by volume"
+            },
+            {
+              "label": "B",
+              "text": "Actual yield divided by theoretical yield × 100%"
+            },
+            {
+              "label": "C",
+              "text": "Theoretical yield divided by actual yield"
+            },
+            {
+              "label": "D",
+              "text": "Mass of reactant × 100"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Actual yield divided by theoretical yield × 100%",
+          "explanation": "Percentage yield compares the product obtained with the maximum predicted amount.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning percentage yield?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moles of solvent divided by volume"
+            },
+            {
+              "label": "B",
+              "text": "Theoretical yield divided by actual yield"
+            },
+            {
+              "label": "C",
+              "text": "Mass of reactant × 100"
+            },
+            {
+              "label": "D",
+              "text": "Actual yield divided by theoretical yield × 100%"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Actual yield divided by theoretical yield × 100%",
+          "explanation": "Percentage yield compares the product obtained with the maximum predicted amount.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-043",
+          "question": "A student is reviewing percentage yield. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass of reactant × 100"
+            },
+            {
+              "label": "B",
+              "text": "Theoretical yield divided by actual yield"
+            },
+            {
+              "label": "C",
+              "text": "Moles of solvent divided by volume"
+            },
+            {
+              "label": "D",
+              "text": "Actual yield divided by theoretical yield × 100%"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Actual yield divided by theoretical yield × 100%",
+          "explanation": "Percentage yield compares the product obtained with the maximum predicted amount.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-044",
+          "question": "Which option gives the most accurate explanation of percentage yield?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Actual yield divided by theoretical yield × 100%"
+            },
+            {
+              "label": "B",
+              "text": "Moles of solvent divided by volume"
+            },
+            {
+              "label": "C",
+              "text": "Theoretical yield divided by actual yield"
+            },
+            {
+              "label": "D",
+              "text": "Mass of reactant × 100"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Actual yield divided by theoretical yield × 100%",
+          "explanation": "Percentage yield compares the product obtained with the maximum predicted amount.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-045",
+          "question": "Choose the correct principle or fact associated with percentage yield.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moles of solvent divided by volume"
+            },
+            {
+              "label": "B",
+              "text": "Mass of reactant × 100"
+            },
+            {
+              "label": "C",
+              "text": "Actual yield divided by theoretical yield × 100%"
+            },
+            {
+              "label": "D",
+              "text": "Theoretical yield divided by actual yield"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Actual yield divided by theoretical yield × 100%",
+          "explanation": "Percentage yield compares the product obtained with the maximum predicted amount.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Titration endpoint",
+      "questions": [
+        {
+          "id": "CH03-MCQ-046",
+          "question": "Which statement correctly describes titration endpoint?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The mass of the burette"
+            },
+            {
+              "label": "B",
+              "text": "The boiling point of the solution"
+            },
+            {
+              "label": "C",
+              "text": "Point indicated by the indicator colour change"
+            },
+            {
+              "label": "D",
+              "text": "The moment the solvent freezes"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Point indicated by the indicator colour change",
+          "explanation": "The endpoint is used to estimate the equivalence point in a titration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning titration endpoint?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The boiling point of the solution"
+            },
+            {
+              "label": "B",
+              "text": "Point indicated by the indicator colour change"
+            },
+            {
+              "label": "C",
+              "text": "The moment the solvent freezes"
+            },
+            {
+              "label": "D",
+              "text": "The mass of the burette"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Point indicated by the indicator colour change",
+          "explanation": "The endpoint is used to estimate the equivalence point in a titration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-048",
+          "question": "A student is reviewing titration endpoint. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The moment the solvent freezes"
+            },
+            {
+              "label": "B",
+              "text": "The boiling point of the solution"
+            },
+            {
+              "label": "C",
+              "text": "The mass of the burette"
+            },
+            {
+              "label": "D",
+              "text": "Point indicated by the indicator colour change"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Point indicated by the indicator colour change",
+          "explanation": "The endpoint is used to estimate the equivalence point in a titration.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH03-MCQ-049",
+          "question": "Which option gives the most accurate explanation of titration endpoint?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The boiling point of the solution"
+            },
+            {
+              "label": "B",
+              "text": "The mass of the burette"
+            },
+            {
+              "label": "C",
+              "text": "Point indicated by the indicator colour change"
+            },
+            {
+              "label": "D",
+              "text": "The moment the solvent freezes"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Point indicated by the indicator colour change",
+          "explanation": "The endpoint is used to estimate the equivalence point in a titration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH03-MCQ-050",
+          "question": "Choose the correct principle or fact associated with titration endpoint.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Point indicated by the indicator colour change"
+            },
+            {
+              "label": "B",
+              "text": "The moment the solvent freezes"
+            },
+            {
+              "label": "C",
+              "text": "The mass of the burette"
+            },
+            {
+              "label": "D",
+              "text": "The boiling point of the solution"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Point indicated by the indicator colour change",
+          "explanation": "The endpoint is used to estimate the equivalence point in a titration.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

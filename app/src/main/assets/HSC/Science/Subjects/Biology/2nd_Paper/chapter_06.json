@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 6,
+  "chapter_title": "Human Physiology: Waste and Excretion",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH06_T01",
+      "topic_name": "Nephron",
+      "mcqs": [
+        {
+          "id": "BIO2_CH06_Q01",
+          "question": "Which term is correctly described as: functional unit of the kidney?",
+          "options": [
+            {
+              "label": "A",
+              "text": "nephron"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "ureter"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "nephron",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q02",
+          "question": "The biological role or defining feature of nephron is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "hormone that increases water reabsorption in the kidney"
+            },
+            {
+              "label": "B",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "C",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "D",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "functional unit of the kidney",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q03",
+          "question": "A student records the following clue: “functional unit of the kidney.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "B",
+              "text": "glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "nephron"
+            },
+            {
+              "label": "D",
+              "text": "ADH"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "nephron",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q04",
+          "question": "Which option completes this statement correctly? nephron is the term for functional unit of the kidney.",
+          "options": [
+            {
+              "label": "A",
+              "text": "nephron"
+            },
+            {
+              "label": "B",
+              "text": "ureter"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "Bowman's capsule"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "nephron",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q05",
+          "question": "If an examination asks for the term associated with “functional unit of the kidney”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "ureter"
+            },
+            {
+              "label": "C",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "D",
+              "text": "nephron"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "nephron",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q06",
+          "question": "Which structure, process or concept matches the description “functional unit of the kidney”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "nephron"
+            },
+            {
+              "label": "B",
+              "text": "ureter"
+            },
+            {
+              "label": "C",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "D",
+              "text": "ADH"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "nephron",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q07",
+          "question": "Choose the accurate statement about nephron.",
+          "options": [
+            {
+              "label": "A",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "B",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "C",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "functional unit of the kidney",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q08",
+          "question": "A diagram or observation identifies nephron. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "C",
+              "text": "hormone that increases water reabsorption in the kidney"
+            },
+            {
+              "label": "D",
+              "text": "functional unit of the kidney"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "functional unit of the kidney",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q09",
+          "question": "Which pairing is correct for nephron?",
+          "options": [
+            {
+              "label": "A",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "B",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "D",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "functional unit of the kidney",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        },
+        {
+          "id": "BIO2_CH06_Q10",
+          "question": "In a topic review, which answer best explains the clue “functional unit of the kidney”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "B",
+              "text": "nephron"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "ADH"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "nephron",
+          "explanation": "It carries out filtration and selective processing of filtrate."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH06_T02",
+      "topic_name": "Glomerulus",
+      "mcqs": [
+        {
+          "id": "BIO2_CH06_Q11",
+          "question": "Which term is correctly described as: capillary network where blood ultrafiltration begins?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "nephron"
+            },
+            {
+              "label": "D",
+              "text": "glomerulus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "glomerulus",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q12",
+          "question": "The biological role or defining feature of glomerulus is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "B",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "C",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "D",
+              "text": "hormone that increases water reabsorption in the kidney"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "capillary network where blood ultrafiltration begins",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q13",
+          "question": "A student records the following clue: “capillary network where blood ultrafiltration begins.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ureter"
+            },
+            {
+              "label": "B",
+              "text": "glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "ADH"
+            },
+            {
+              "label": "D",
+              "text": "nephron"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "glomerulus",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q14",
+          "question": "Which option completes this statement correctly? glomerulus is the term for capillary network where blood ultrafiltration begins.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ADH"
+            },
+            {
+              "label": "B",
+              "text": "glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "ureter"
+            },
+            {
+              "label": "D",
+              "text": "nephron"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "glomerulus",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q15",
+          "question": "If an examination asks for the term associated with “capillary network where blood ultrafiltration begins”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "nephron"
+            },
+            {
+              "label": "B",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "ureter"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "glomerulus",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q16",
+          "question": "Which structure, process or concept matches the description “capillary network where blood ultrafiltration begins”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ADH"
+            },
+            {
+              "label": "B",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "ureter"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "glomerulus",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q17",
+          "question": "Choose the accurate statement about glomerulus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "B",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "D",
+              "text": "capillary network where blood ultrafiltration begins"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "capillary network where blood ultrafiltration begins",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q18",
+          "question": "A diagram or observation identifies glomerulus. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "C",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "D",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "capillary network where blood ultrafiltration begins",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q19",
+          "question": "Which pairing is correct for glomerulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "B",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "C",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "D",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "capillary network where blood ultrafiltration begins",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        },
+        {
+          "id": "BIO2_CH06_Q20",
+          "question": "In a topic review, which answer best explains the clue “capillary network where blood ultrafiltration begins”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "ureter"
+            },
+            {
+              "label": "D",
+              "text": "Bowman's capsule"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "glomerulus",
+          "explanation": "Pressure drives water and small solutes into Bowman's capsule."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH06_T03",
+      "topic_name": "Bowman'S Capsule",
+      "mcqs": [
+        {
+          "id": "BIO2_CH06_Q21",
+          "question": "Which term is correctly described as: cup-shaped structure surrounding the glomerulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ureter"
+            },
+            {
+              "label": "B",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "ADH"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Bowman's capsule",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q22",
+          "question": "The biological role or defining feature of Bowman's capsule is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "C",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "D",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cup-shaped structure surrounding the glomerulus",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q23",
+          "question": "A student records the following clue: “cup-shaped structure surrounding the glomerulus.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "ureter"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bowman's capsule",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q24",
+          "question": "Which option completes this statement correctly? Bowman's capsule is the term for cup-shaped structure surrounding the glomerulus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "nephron"
+            },
+            {
+              "label": "D",
+              "text": "Bowman's capsule"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Bowman's capsule",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q25",
+          "question": "If an examination asks for the term associated with “cup-shaped structure surrounding the glomerulus”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ADH"
+            },
+            {
+              "label": "B",
+              "text": "ureter"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "Bowman's capsule"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Bowman's capsule",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q26",
+          "question": "Which structure, process or concept matches the description “cup-shaped structure surrounding the glomerulus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ureter"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "D",
+              "text": "nephron"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Bowman's capsule",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q27",
+          "question": "Choose the accurate statement about Bowman's capsule.",
+          "options": [
+            {
+              "label": "A",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "B",
+              "text": "hormone that increases water reabsorption in the kidney"
+            },
+            {
+              "label": "C",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "cup-shaped structure surrounding the glomerulus",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q28",
+          "question": "A diagram or observation identifies Bowman's capsule. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hormone that increases water reabsorption in the kidney"
+            },
+            {
+              "label": "B",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "C",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "D",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "cup-shaped structure surrounding the glomerulus",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q29",
+          "question": "Which pairing is correct for Bowman's capsule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "C",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "D",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cup-shaped structure surrounding the glomerulus",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        },
+        {
+          "id": "BIO2_CH06_Q30",
+          "question": "In a topic review, which answer best explains the clue “cup-shaped structure surrounding the glomerulus”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ADH"
+            },
+            {
+              "label": "B",
+              "text": "glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "nephron"
+            },
+            {
+              "label": "D",
+              "text": "Bowman's capsule"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Bowman's capsule",
+          "explanation": "It receives the filtrate produced by ultrafiltration."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH06_T04",
+      "topic_name": "Adh",
+      "mcqs": [
+        {
+          "id": "BIO2_CH06_Q31",
+          "question": "Which term is correctly described as: hormone that increases water reabsorption in the kidney?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ADH"
+            },
+            {
+              "label": "B",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "C",
+              "text": "ureter"
+            },
+            {
+              "label": "D",
+              "text": "glomerulus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ADH",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q32",
+          "question": "The biological role or defining feature of ADH is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "hormone that increases water reabsorption in the kidney"
+            },
+            {
+              "label": "C",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "D",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "hormone that increases water reabsorption in the kidney",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q33",
+          "question": "A student records the following clue: “hormone that increases water reabsorption in the kidney.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "nephron"
+            },
+            {
+              "label": "B",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "C",
+              "text": "ADH"
+            },
+            {
+              "label": "D",
+              "text": "glomerulus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ADH",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q34",
+          "question": "Which option completes this statement correctly? ADH is the term for hormone that increases water reabsorption in the kidney.",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "nephron"
+            },
+            {
+              "label": "D",
+              "text": "Bowman's capsule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ADH",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q35",
+          "question": "If an examination asks for the term associated with “hormone that increases water reabsorption in the kidney”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ureter"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "D",
+              "text": "glomerulus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ADH",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q36",
+          "question": "Which structure, process or concept matches the description “hormone that increases water reabsorption in the kidney”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "nephron"
+            },
+            {
+              "label": "B",
+              "text": "ureter"
+            },
+            {
+              "label": "C",
+              "text": "ADH"
+            },
+            {
+              "label": "D",
+              "text": "Bowman's capsule"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ADH",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q37",
+          "question": "Choose the accurate statement about ADH.",
+          "options": [
+            {
+              "label": "A",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "B",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "hormone that increases water reabsorption in the kidney"
+            },
+            {
+              "label": "D",
+              "text": "functional unit of the kidney"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "hormone that increases water reabsorption in the kidney",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q38",
+          "question": "A diagram or observation identifies ADH. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "B",
+              "text": "hormone that increases water reabsorption in the kidney"
+            },
+            {
+              "label": "C",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "D",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "hormone that increases water reabsorption in the kidney",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q39",
+          "question": "Which pairing is correct for ADH?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "hormone that increases water reabsorption in the kidney"
+            },
+            {
+              "label": "C",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "D",
+              "text": "functional unit of the kidney"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "hormone that increases water reabsorption in the kidney",
+          "explanation": "It increases water permeability in collecting ducts."
+        },
+        {
+          "id": "BIO2_CH06_Q40",
+          "question": "In a topic review, which answer best explains the clue “hormone that increases water reabsorption in the kidney”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ADH"
+            },
+            {
+              "label": "B",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "C",
+              "text": "ureter"
+            },
+            {
+              "label": "D",
+              "text": "nephron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ADH",
+          "explanation": "It increases water permeability in collecting ducts."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH06_T05",
+      "topic_name": "Ureter",
+      "mcqs": [
+        {
+          "id": "BIO2_CH06_Q41",
+          "question": "Which term is correctly described as: tube carrying urine from kidney to urinary bladder?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ureter"
+            },
+            {
+              "label": "B",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "C",
+              "text": "nephron"
+            },
+            {
+              "label": "D",
+              "text": "ADH"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ureter",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q42",
+          "question": "The biological role or defining feature of ureter is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "B",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "D",
+              "text": "hormone that increases water reabsorption in the kidney"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "tube carrying urine from kidney to urinary bladder",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q43",
+          "question": "A student records the following clue: “tube carrying urine from kidney to urinary bladder.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "D",
+              "text": "ureter"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ureter",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q44",
+          "question": "Which option completes this statement correctly? ureter is the term for tube carrying urine from kidney to urinary bladder.",
+          "options": [
+            {
+              "label": "A",
+              "text": "nephron"
+            },
+            {
+              "label": "B",
+              "text": "ADH"
+            },
+            {
+              "label": "C",
+              "text": "Bowman's capsule"
+            },
+            {
+              "label": "D",
+              "text": "ureter"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ureter",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q45",
+          "question": "If an examination asks for the term associated with “tube carrying urine from kidney to urinary bladder”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "nephron"
+            },
+            {
+              "label": "B",
+              "text": "glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "ADH"
+            },
+            {
+              "label": "D",
+              "text": "ureter"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ureter",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q46",
+          "question": "Which structure, process or concept matches the description “tube carrying urine from kidney to urinary bladder”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ADH"
+            },
+            {
+              "label": "B",
+              "text": "nephron"
+            },
+            {
+              "label": "C",
+              "text": "glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "ureter"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ureter",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q47",
+          "question": "Choose the accurate statement about ureter.",
+          "options": [
+            {
+              "label": "A",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "B",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "C",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "D",
+              "text": "functional unit of the kidney"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "tube carrying urine from kidney to urinary bladder",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q48",
+          "question": "A diagram or observation identifies ureter. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "capillary network where blood ultrafiltration begins"
+            },
+            {
+              "label": "B",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "C",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "D",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "tube carrying urine from kidney to urinary bladder",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q49",
+          "question": "Which pairing is correct for ureter?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tube carrying urine from kidney to urinary bladder"
+            },
+            {
+              "label": "B",
+              "text": "cup-shaped structure surrounding the glomerulus"
+            },
+            {
+              "label": "C",
+              "text": "functional unit of the kidney"
+            },
+            {
+              "label": "D",
+              "text": "capillary network where blood ultrafiltration begins"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "tube carrying urine from kidney to urinary bladder",
+          "explanation": "It transports urine by muscular contractions."
+        },
+        {
+          "id": "BIO2_CH06_Q50",
+          "question": "In a topic review, which answer best explains the clue “tube carrying urine from kidney to urinary bladder”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "glomerulus"
+            },
+            {
+              "label": "B",
+              "text": "nephron"
+            },
+            {
+              "label": "C",
+              "text": "ureter"
+            },
+            {
+              "label": "D",
+              "text": "Bowman's capsule"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ureter",
+          "explanation": "It transports urine by muscular contractions."
+        }
+      ]
+    }
+  ]
+}

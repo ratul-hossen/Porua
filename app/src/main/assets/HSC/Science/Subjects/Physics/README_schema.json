@@ -1,0 +1,18 @@
+{
+  "description": "Bangladesh HSC Physics MCQ database. Each chapter file contains topic groups and MCQs.",
+  "question_schema": {
+    "id": "Unique question identifier",
+    "question": "Question text",
+    "options": [
+      {
+        "label": "A",
+        "text": "Option text"
+      }
+    ],
+    "correct_answer": "Correct option label",
+    "correct_answer_text": "Correct option text",
+    "explanation": "Short explanation",
+    "difficulty": "Easy, Medium, or Hard"
+  },
+  "note": "The JSON files are converted from the supplied Physics MCQ PDFs. Review the question bank before production use."
+}

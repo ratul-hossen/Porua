@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 1,
+  "chapter_title": "Real Numbers and Inequalities",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Linear Inequalities",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q001",
+          "question": "Solve the inequality 2x+(3)>11.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>4"
+            },
+            {
+              "label": "B",
+              "text": "x<4"
+            },
+            {
+              "label": "C",
+              "text": "x≥4"
+            },
+            {
+              "label": "D",
+              "text": "x>5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x>4",
+          "explanation": "Subtract the constant and divide by the positive coefficient; the solution is x>4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q002",
+          "question": "Solve the inequality 3x+(1)>10.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>4"
+            },
+            {
+              "label": "B",
+              "text": "x>3"
+            },
+            {
+              "label": "C",
+              "text": "x≥3"
+            },
+            {
+              "label": "D",
+              "text": "x<3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x>3",
+          "explanation": "Subtract the constant and divide by the positive coefficient; the solution is x>3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q003",
+          "question": "Solve the inequality 4x+(-2)>14.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>5"
+            },
+            {
+              "label": "B",
+              "text": "x<4"
+            },
+            {
+              "label": "C",
+              "text": "x>4"
+            },
+            {
+              "label": "D",
+              "text": "x≥4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x>4",
+          "explanation": "Subtract the constant and divide by the positive coefficient; the solution is x>4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q004",
+          "question": "Solve the inequality 5x+(2)>17.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<3"
+            },
+            {
+              "label": "B",
+              "text": "x>4"
+            },
+            {
+              "label": "C",
+              "text": "x≥3"
+            },
+            {
+              "label": "D",
+              "text": "x>3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x>3",
+          "explanation": "Subtract the constant and divide by the positive coefficient; the solution is x>3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q005",
+          "question": "Solve the inequality 6x+(-3)>9.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>2"
+            },
+            {
+              "label": "B",
+              "text": "x>3"
+            },
+            {
+              "label": "C",
+              "text": "x≥2"
+            },
+            {
+              "label": "D",
+              "text": "x<2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x>2",
+          "explanation": "Subtract the constant and divide by the positive coefficient; the solution is x>2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Linear Inequalities",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q006",
+          "question": "Solve the inequality 2x+(5)≤13.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<4"
+            },
+            {
+              "label": "B",
+              "text": "x≤4"
+            },
+            {
+              "label": "C",
+              "text": "x≥4"
+            },
+            {
+              "label": "D",
+              "text": "x≤5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x≤4",
+          "explanation": "Subtract the constant and divide by a positive coefficient without reversing the sign; x≤4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q007",
+          "question": "Solve the inequality 3x+(-2)≤7.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤4"
+            },
+            {
+              "label": "B",
+              "text": "x≥3"
+            },
+            {
+              "label": "C",
+              "text": "x≤3"
+            },
+            {
+              "label": "D",
+              "text": "x<3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x≤3",
+          "explanation": "Subtract the constant and divide by a positive coefficient without reversing the sign; x≤3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q008",
+          "question": "Solve the inequality 4x+(1)≤17.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤5"
+            },
+            {
+              "label": "B",
+              "text": "x<4"
+            },
+            {
+              "label": "C",
+              "text": "x≥4"
+            },
+            {
+              "label": "D",
+              "text": "x≤4"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x≤4",
+          "explanation": "Subtract the constant and divide by a positive coefficient without reversing the sign; x≤4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q009",
+          "question": "Solve the inequality 5x+(3)≤23.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤4"
+            },
+            {
+              "label": "B",
+              "text": "x<4"
+            },
+            {
+              "label": "C",
+              "text": "x≥4"
+            },
+            {
+              "label": "D",
+              "text": "x≤5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x≤4",
+          "explanation": "Subtract the constant and divide by a positive coefficient without reversing the sign; x≤4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q010",
+          "question": "Solve the inequality 6x+(-5)≤13.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤4"
+            },
+            {
+              "label": "B",
+              "text": "x≤3"
+            },
+            {
+              "label": "C",
+              "text": "x≥3"
+            },
+            {
+              "label": "D",
+              "text": "x<3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x≤3",
+          "explanation": "Subtract the constant and divide by a positive coefficient without reversing the sign; x≤3.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Absolute-value Inequalities",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q011",
+          "question": "Solve |x−(2)|<3.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1≤x≤5"
+            },
+            {
+              "label": "B",
+              "text": "x<-1 or x>5"
+            },
+            {
+              "label": "C",
+              "text": "-1<x<5"
+            },
+            {
+              "label": "D",
+              "text": "-2<x<6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-1<x<5",
+          "explanation": "For |x−a|<r, use −r<x−a<r. Therefore -1<x<5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q012",
+          "question": "Solve |x−(-1)|<4.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<-5 or x>3"
+            },
+            {
+              "label": "B",
+              "text": "-5≤x≤3"
+            },
+            {
+              "label": "C",
+              "text": "-6<x<4"
+            },
+            {
+              "label": "D",
+              "text": "-5<x<3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-5<x<3",
+          "explanation": "For |x−a|<r, use −r<x−a<r. Therefore -5<x<3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q013",
+          "question": "Solve |x−(5)|<2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3<x<7"
+            },
+            {
+              "label": "B",
+              "text": "2<x<8"
+            },
+            {
+              "label": "C",
+              "text": "3≤x≤7"
+            },
+            {
+              "label": "D",
+              "text": "x<3 or x>7"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3<x<7",
+          "explanation": "For |x−a|<r, use −r<x−a<r. Therefore 3<x<7.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q014",
+          "question": "Solve |x−(0)|<6.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7<x<7"
+            },
+            {
+              "label": "B",
+              "text": "-6<x<6"
+            },
+            {
+              "label": "C",
+              "text": "x<-6 or x>6"
+            },
+            {
+              "label": "D",
+              "text": "-6≤x≤6"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-6<x<6",
+          "explanation": "For |x−a|<r, use −r<x−a<r. Therefore -6<x<6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q015",
+          "question": "Solve |x−(-3)|<5.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<-8 or x>2"
+            },
+            {
+              "label": "B",
+              "text": "-8≤x≤2"
+            },
+            {
+              "label": "C",
+              "text": "-8<x<2"
+            },
+            {
+              "label": "D",
+              "text": "-9<x<3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-8<x<2",
+          "explanation": "For |x−a|<r, use −r<x−a<r. Therefore -8<x<2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Absolute-value Inequalities",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q016",
+          "question": "Solve |x−(2)|>3.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>-1 or x<5"
+            },
+            {
+              "label": "B",
+              "text": "x≤-1 or x≥5"
+            },
+            {
+              "label": "C",
+              "text": "-1<x<5"
+            },
+            {
+              "label": "D",
+              "text": "x<-1 or x>5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x<-1 or x>5",
+          "explanation": "For |x−a|>r, take x−a<−r or x−a>r. Therefore x<-1 or x>5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q017",
+          "question": "Solve |x−(-1)|>4.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<-5 or x>3"
+            },
+            {
+              "label": "B",
+              "text": "x>-5 or x<3"
+            },
+            {
+              "label": "C",
+              "text": "-5<x<3"
+            },
+            {
+              "label": "D",
+              "text": "x≤-5 or x≥3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x<-5 or x>3",
+          "explanation": "For |x−a|>r, take x−a<−r or x−a>r. Therefore x<-5 or x>3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q018",
+          "question": "Solve |x−(5)|>2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤3 or x≥7"
+            },
+            {
+              "label": "B",
+              "text": "x<3 or x>7"
+            },
+            {
+              "label": "C",
+              "text": "x>3 or x<7"
+            },
+            {
+              "label": "D",
+              "text": "3<x<7"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x<3 or x>7",
+          "explanation": "For |x−a|>r, take x−a<−r or x−a>r. Therefore x<3 or x>7.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q019",
+          "question": "Solve |x−(0)|>6.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-6<x<6"
+            },
+            {
+              "label": "B",
+              "text": "x≤-6 or x≥6"
+            },
+            {
+              "label": "C",
+              "text": "x<-6 or x>6"
+            },
+            {
+              "label": "D",
+              "text": "x>-6 or x<6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x<-6 or x>6",
+          "explanation": "For |x−a|>r, take x−a<−r or x−a>r. Therefore x<-6 or x>6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q020",
+          "question": "Solve |x−(-3)|>5.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>-8 or x<2"
+            },
+            {
+              "label": "B",
+              "text": "x≤-8 or x≥2"
+            },
+            {
+              "label": "C",
+              "text": "-8<x<2"
+            },
+            {
+              "label": "D",
+              "text": "x<-8 or x>2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x<-8 or x>2",
+          "explanation": "For |x−a|>r, take x−a<−r or x−a>r. Therefore x<-8 or x>2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Quadratic Inequalities",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q021",
+          "question": "Solve the inequality (x−(-2))(x−(3))>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<-2 or x>3"
+            },
+            {
+              "label": "B",
+              "text": "-2<x<3"
+            },
+            {
+              "label": "C",
+              "text": "x≤-2 or x≥3"
+            },
+            {
+              "label": "D",
+              "text": "x>-2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x<-2 or x>3",
+          "explanation": "The product of two factors is positive outside its two distinct roots; the solution is x<-2 or x>3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q022",
+          "question": "Solve the inequality (x−(1))(x−(4))>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>1"
+            },
+            {
+              "label": "B",
+              "text": "x<1 or x>4"
+            },
+            {
+              "label": "C",
+              "text": "1<x<4"
+            },
+            {
+              "label": "D",
+              "text": "x≤1 or x≥4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x<1 or x>4",
+          "explanation": "The product of two factors is positive outside its two distinct roots; the solution is x<1 or x>4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q023",
+          "question": "Solve the inequality (x−(-3))(x−(2))>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤-3 or x≥2"
+            },
+            {
+              "label": "B",
+              "text": "-3<x<2"
+            },
+            {
+              "label": "C",
+              "text": "x<-3 or x>2"
+            },
+            {
+              "label": "D",
+              "text": "x>-3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x<-3 or x>2",
+          "explanation": "The product of two factors is positive outside its two distinct roots; the solution is x<-3 or x>2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q024",
+          "question": "Solve the inequality (x−(0))(x−(5))>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x≤0 or x≥5"
+            },
+            {
+              "label": "B",
+              "text": "x>0"
+            },
+            {
+              "label": "C",
+              "text": "0<x<5"
+            },
+            {
+              "label": "D",
+              "text": "x<0 or x>5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x<0 or x>5",
+          "explanation": "The product of two factors is positive outside its two distinct roots; the solution is x<0 or x>5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q025",
+          "question": "Solve the inequality (x−(-1))(x−(6))>0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<-1 or x>6"
+            },
+            {
+              "label": "B",
+              "text": "x>-1"
+            },
+            {
+              "label": "C",
+              "text": "x≤-1 or x≥6"
+            },
+            {
+              "label": "D",
+              "text": "-1<x<6"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x<-1 or x>6",
+          "explanation": "The product of two factors is positive outside its two distinct roots; the solution is x<-1 or x>6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Intersection of Inequalities",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q026",
+          "question": "Find the common solution of x>-3 and x<4.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4<x<-3"
+            },
+            {
+              "label": "B",
+              "text": "-3<x<4"
+            },
+            {
+              "label": "C",
+              "text": "x<-3 or x>4"
+            },
+            {
+              "label": "D",
+              "text": "-3≤x≤4"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-3<x<4",
+          "explanation": "Take the intersection of the two intervals, obtaining -3<x<4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q027",
+          "question": "Find the common solution of x>1 and x<7.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1≤x≤7"
+            },
+            {
+              "label": "B",
+              "text": "7<x<1"
+            },
+            {
+              "label": "C",
+              "text": "1<x<7"
+            },
+            {
+              "label": "D",
+              "text": "x<1 or x>7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1<x<7",
+          "explanation": "Take the intersection of the two intervals, obtaining 1<x<7.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q028",
+          "question": "Find the common solution of x>-5 and x<2.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<-5 or x>2"
+            },
+            {
+              "label": "B",
+              "text": "2<x<-5"
+            },
+            {
+              "label": "C",
+              "text": "-5≤x≤2"
+            },
+            {
+              "label": "D",
+              "text": "-5<x<2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-5<x<2",
+          "explanation": "Take the intersection of the two intervals, obtaining -5<x<2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q029",
+          "question": "Find the common solution of x>2 and x<9.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2<x<9"
+            },
+            {
+              "label": "B",
+              "text": "9<x<2"
+            },
+            {
+              "label": "C",
+              "text": "2≤x≤9"
+            },
+            {
+              "label": "D",
+              "text": "x<2 or x>9"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2<x<9",
+          "explanation": "Take the intersection of the two intervals, obtaining 2<x<9.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q030",
+          "question": "Find the common solution of x>-1 and x<6.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<-1 or x>6"
+            },
+            {
+              "label": "B",
+              "text": "-1<x<6"
+            },
+            {
+              "label": "C",
+              "text": "-1≤x≤6"
+            },
+            {
+              "label": "D",
+              "text": "6<x<-1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-1<x<6",
+          "explanation": "Take the intersection of the two intervals, obtaining -1<x<6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "AM–GM Inequality",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q031",
+          "question": "For x>0, what is the minimum value of x+4/x?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4",
+          "explanation": "By AM–GM, x+a/x≥2√a for a>0, with equality at x=√a. The minimum is 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q032",
+          "question": "For x>0, what is the minimum value of x+9/x?",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "By AM–GM, x+a/x≥2√a for a>0, with equality at x=√a. The minimum is 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q033",
+          "question": "For x>0, what is the minimum value of x+16/x?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "16"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "8",
+          "explanation": "By AM–GM, x+a/x≥2√a for a>0, with equality at x=√a. The minimum is 8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q034",
+          "question": "For x>0, what is the minimum value of x+25/x?",
+          "options": [
+            {
+              "label": "A",
+              "text": "25"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "10",
+          "explanation": "By AM–GM, x+a/x≥2√a for a>0, with equality at x=√a. The minimum is 10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q035",
+          "question": "For x>0, what is the minimum value of x+36/x?",
+          "options": [
+            {
+              "label": "A",
+              "text": "36"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "13"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "12",
+          "explanation": "By AM–GM, x+a/x≥2√a for a>0, with equality at x=√a. The minimum is 12.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Rationalising Denominators",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q036",
+          "question": "Rationalise the denominator of 1/(√5−√2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "(√5+√2)/7"
+            },
+            {
+              "label": "B",
+              "text": "√5+√2"
+            },
+            {
+              "label": "C",
+              "text": "(√5−√2)/3"
+            },
+            {
+              "label": "D",
+              "text": "(√5+√2)/3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(√5+√2)/3",
+          "explanation": "Multiply numerator and denominator by the conjugate √a+√b; the result is (√5+√2)/3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q037",
+          "question": "Rationalise the denominator of 1/(√7−√3).",
+          "options": [
+            {
+              "label": "A",
+              "text": "(√7+√3)/4"
+            },
+            {
+              "label": "B",
+              "text": "√7+√3"
+            },
+            {
+              "label": "C",
+              "text": "(√7+√3)/10"
+            },
+            {
+              "label": "D",
+              "text": "(√7−√3)/4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(√7+√3)/4",
+          "explanation": "Multiply numerator and denominator by the conjugate √a+√b; the result is (√7+√3)/4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q038",
+          "question": "Rationalise the denominator of 1/(√11−√2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "(√11−√2)/9"
+            },
+            {
+              "label": "B",
+              "text": "(√11+√2)/9"
+            },
+            {
+              "label": "C",
+              "text": "√11+√2"
+            },
+            {
+              "label": "D",
+              "text": "(√11+√2)/13"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(√11+√2)/9",
+          "explanation": "Multiply numerator and denominator by the conjugate √a+√b; the result is (√11+√2)/9.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q039",
+          "question": "Rationalise the denominator of 1/(√6−√1).",
+          "options": [
+            {
+              "label": "A",
+              "text": "√6+√1"
+            },
+            {
+              "label": "B",
+              "text": "(√6−√1)/5"
+            },
+            {
+              "label": "C",
+              "text": "(√6+√1)/5"
+            },
+            {
+              "label": "D",
+              "text": "(√6+√1)/7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "(√6+√1)/5",
+          "explanation": "Multiply numerator and denominator by the conjugate √a+√b; the result is (√6+√1)/5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q040",
+          "question": "Rationalise the denominator of 1/(√10−√3).",
+          "options": [
+            {
+              "label": "A",
+              "text": "(√10−√3)/7"
+            },
+            {
+              "label": "B",
+              "text": "√10+√3"
+            },
+            {
+              "label": "C",
+              "text": "(√10+√3)/13"
+            },
+            {
+              "label": "D",
+              "text": "(√10+√3)/7"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "(√10+√3)/7",
+          "explanation": "Multiply numerator and denominator by the conjugate √a+√b; the result is (√10+√3)/7.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Square Inequalities",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q041",
+          "question": "Solve x²<4.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−2<x<2"
+            },
+            {
+              "label": "B",
+              "text": "x>2"
+            },
+            {
+              "label": "C",
+              "text": "x<−2 or x>2"
+            },
+            {
+              "label": "D",
+              "text": "−2≤x≤2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "−2<x<2",
+          "explanation": "For a positive bound, x²<a means −√a<x<√a; hence −2<x<2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q042",
+          "question": "Solve x²<9.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<−3 or x>3"
+            },
+            {
+              "label": "B",
+              "text": "−3<x<3"
+            },
+            {
+              "label": "C",
+              "text": "−3≤x≤3"
+            },
+            {
+              "label": "D",
+              "text": "x>3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "−3<x<3",
+          "explanation": "For a positive bound, x²<a means −√a<x<√a; hence −3<x<3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q043",
+          "question": "Solve x²<16.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−4≤x≤4"
+            },
+            {
+              "label": "B",
+              "text": "x>4"
+            },
+            {
+              "label": "C",
+              "text": "−4<x<4"
+            },
+            {
+              "label": "D",
+              "text": "x<−4 or x>4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "−4<x<4",
+          "explanation": "For a positive bound, x²<a means −√a<x<√a; hence −4<x<4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q044",
+          "question": "Solve x²<25.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>5"
+            },
+            {
+              "label": "B",
+              "text": "x<−5 or x>5"
+            },
+            {
+              "label": "C",
+              "text": "−5≤x≤5"
+            },
+            {
+              "label": "D",
+              "text": "−5<x<5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "−5<x<5",
+          "explanation": "For a positive bound, x²<a means −√a<x<√a; hence −5<x<5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q045",
+          "question": "Solve x²<36.",
+          "options": [
+            {
+              "label": "A",
+              "text": "−6<x<6"
+            },
+            {
+              "label": "B",
+              "text": "−6≤x≤6"
+            },
+            {
+              "label": "C",
+              "text": "x<−6 or x>6"
+            },
+            {
+              "label": "D",
+              "text": "x>6"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "−6<x<6",
+          "explanation": "For a positive bound, x²<a means −√a<x<√a; hence −6<x<6.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Dividing by Negative Numbers",
+      "questions": [
+        {
+          "id": "HM-P2-C01-Q046",
+          "question": "Solve the inequality −2x>6.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<3"
+            },
+            {
+              "label": "B",
+              "text": "x<-3"
+            },
+            {
+              "label": "C",
+              "text": "x≤-3"
+            },
+            {
+              "label": "D",
+              "text": "x>-3"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x<-3",
+          "explanation": "Dividing by a negative number reverses the inequality, giving x<-3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q047",
+          "question": "Solve the inequality −3x>9.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>-3"
+            },
+            {
+              "label": "B",
+              "text": "x<3"
+            },
+            {
+              "label": "C",
+              "text": "x<-3"
+            },
+            {
+              "label": "D",
+              "text": "x≤-3"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x<-3",
+          "explanation": "Dividing by a negative number reverses the inequality, giving x<-3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q048",
+          "question": "Solve the inequality −4x>8.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x>-2"
+            },
+            {
+              "label": "B",
+              "text": "x≤-2"
+            },
+            {
+              "label": "C",
+              "text": "x<2"
+            },
+            {
+              "label": "D",
+              "text": "x<-2"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x<-2",
+          "explanation": "Dividing by a negative number reverses the inequality, giving x<-2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q049",
+          "question": "Solve the inequality −5x>15.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<-3"
+            },
+            {
+              "label": "B",
+              "text": "x≤-3"
+            },
+            {
+              "label": "C",
+              "text": "x<3"
+            },
+            {
+              "label": "D",
+              "text": "x>-3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x<-3",
+          "explanation": "Dividing by a negative number reverses the inequality, giving x<-3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C01-Q050",
+          "question": "Solve the inequality −6x>12.",
+          "options": [
+            {
+              "label": "A",
+              "text": "x<2"
+            },
+            {
+              "label": "B",
+              "text": "x<-2"
+            },
+            {
+              "label": "C",
+              "text": "x>-2"
+            },
+            {
+              "label": "D",
+              "text": "x≤-2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x<-2",
+          "explanation": "Dividing by a negative number reverses the inequality, giving x<-2.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

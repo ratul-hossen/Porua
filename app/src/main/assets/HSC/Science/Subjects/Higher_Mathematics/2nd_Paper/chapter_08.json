@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 8,
+  "chapter_title": "Statics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Resultant of Perpendicular Forces",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q001",
+          "question": "What is the resultant magnitude of perpendicular forces of 3 N and 4 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5",
+          "explanation": "For perpendicular forces, R=√(F₁²+F₂²), which gives 5 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q002",
+          "question": "What is the resultant magnitude of perpendicular forces of 5 N and 12 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "17"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "13",
+          "explanation": "For perpendicular forces, R=√(F₁²+F₂²), which gives 13 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q003",
+          "question": "What is the resultant magnitude of perpendicular forces of 8 N and 15 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "23"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "17"
+            },
+            {
+              "label": "D",
+              "text": "18"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "17",
+          "explanation": "For perpendicular forces, R=√(F₁²+F₂²), which gives 17 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q004",
+          "question": "What is the resultant magnitude of perpendicular forces of 7 N and 24 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "24"
+            },
+            {
+              "label": "B",
+              "text": "31"
+            },
+            {
+              "label": "C",
+              "text": "26"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "25",
+          "explanation": "For perpendicular forces, R=√(F₁²+F₂²), which gives 25 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q005",
+          "question": "What is the resultant magnitude of perpendicular forces of 6 N and 8 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "14"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10",
+          "explanation": "For perpendicular forces, R=√(F₁²+F₂²), which gives 10 N.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Codirectional Forces",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q006",
+          "question": "Find the resultant of collinear forces 3 N and 4 N acting in the same direction.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "8"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "7",
+          "explanation": "Forces acting in the same direction add, giving 7 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q007",
+          "question": "Find the resultant of collinear forces 5 N and 7 N acting in the same direction.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "12",
+          "explanation": "Forces acting in the same direction add, giving 12 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q008",
+          "question": "Find the resultant of collinear forces 8 N and 6 N acting in the same direction.",
+          "options": [
+            {
+              "label": "A",
+              "text": "15"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "13"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "14",
+          "explanation": "Forces acting in the same direction add, giving 14 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q009",
+          "question": "Find the resultant of collinear forces 9 N and 5 N acting in the same direction.",
+          "options": [
+            {
+              "label": "A",
+              "text": "14"
+            },
+            {
+              "label": "B",
+              "text": "15"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "13"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "14",
+          "explanation": "Forces acting in the same direction add, giving 14 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q010",
+          "question": "Find the resultant of collinear forces 12 N and 3 N acting in the same direction.",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "15"
+            },
+            {
+              "label": "C",
+              "text": "16"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "15",
+          "explanation": "Forces acting in the same direction add, giving 15 N.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Opposing Forces",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q011",
+          "question": "Find the resultant magnitude of collinear forces 8 N and 3 N acting in opposite directions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "Opposing collinear forces have resultant magnitude |F₁−F₂|=5 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q012",
+          "question": "Find the resultant magnitude of collinear forces 9 N and 4 N acting in opposite directions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5",
+          "explanation": "Opposing collinear forces have resultant magnitude |F₁−F₂|=5 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q013",
+          "question": "Find the resultant magnitude of collinear forces 12 N and 5 N acting in opposite directions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "17"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "8"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "7",
+          "explanation": "Opposing collinear forces have resultant magnitude |F₁−F₂|=7 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q014",
+          "question": "Find the resultant magnitude of collinear forces 15 N and 6 N acting in opposite directions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "8"
+            },
+            {
+              "label": "D",
+              "text": "21"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "9",
+          "explanation": "Opposing collinear forces have resultant magnitude |F₁−F₂|=9 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q015",
+          "question": "Find the resultant magnitude of collinear forces 20 N and 7 N acting in opposite directions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "27"
+            },
+            {
+              "label": "B",
+              "text": "14"
+            },
+            {
+              "label": "C",
+              "text": "13"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "13",
+          "explanation": "Opposing collinear forces have resultant magnitude |F₁−F₂|=13 N.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Moments of Forces",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q016",
+          "question": "A force of 5 N acts 2 m from a pivot, at right angles to the lever arm. Find the moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "10",
+          "explanation": "Moment = force×perpendicular distance, giving 10 N·m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q017",
+          "question": "A force of 8 N acts 3 m from a pivot, at right angles to the lever arm. Find the moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "24"
+            },
+            {
+              "label": "B",
+              "text": "23"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "24",
+          "explanation": "Moment = force×perpendicular distance, giving 24 N·m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q018",
+          "question": "A force of 10 N acts 4 m from a pivot, at right angles to the lever arm. Find the moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "41"
+            },
+            {
+              "label": "B",
+              "text": "40"
+            },
+            {
+              "label": "C",
+              "text": "14"
+            },
+            {
+              "label": "D",
+              "text": "39"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "40",
+          "explanation": "Moment = force×perpendicular distance, giving 40 N·m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q019",
+          "question": "A force of 12 N acts 5 m from a pivot, at right angles to the lever arm. Find the moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "61"
+            },
+            {
+              "label": "B",
+              "text": "59"
+            },
+            {
+              "label": "C",
+              "text": "60"
+            },
+            {
+              "label": "D",
+              "text": "17"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "60",
+          "explanation": "Moment = force×perpendicular distance, giving 60 N·m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q020",
+          "question": "A force of 15 N acts 6 m from a pivot, at right angles to the lever arm. Find the moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "91"
+            },
+            {
+              "label": "B",
+              "text": "21"
+            },
+            {
+              "label": "C",
+              "text": "89"
+            },
+            {
+              "label": "D",
+              "text": "90"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "90",
+          "explanation": "Moment = force×perpendicular distance, giving 90 N·m.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Force from a Moment",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q021",
+          "question": "A moment of 10 N·m acts with a perpendicular lever arm of 2 m. Find the force in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5",
+          "explanation": "From M=Fd, force F=M/d=5 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q022",
+          "question": "A moment of 24 N·m acts with a perpendicular lever arm of 3 m. Find the force in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "24"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "8",
+          "explanation": "From M=Fd, force F=M/d=8 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q023",
+          "question": "A moment of 40 N·m acts with a perpendicular lever arm of 4 m. Find the force in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "11"
+            },
+            {
+              "label": "B",
+              "text": "40"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "10",
+          "explanation": "From M=Fd, force F=M/d=10 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q024",
+          "question": "A moment of 60 N·m acts with a perpendicular lever arm of 5 m. Find the force in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "60"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "12",
+          "explanation": "From M=Fd, force F=M/d=12 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q025",
+          "question": "A moment of 90 N·m acts with a perpendicular lever arm of 6 m. Find the force in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "15"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "90"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "15",
+          "explanation": "From M=Fd, force F=M/d=15 N.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Components of Forces",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q026",
+          "question": "A force of 10 N acts at 60° to the horizontal. Find its horizontal component in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "5",
+          "explanation": "The horizontal component is Fcosθ, which equals 5 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q027",
+          "question": "A force of 20 N acts at 60° to the horizontal. Find its horizontal component in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "20"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "11"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "10",
+          "explanation": "The horizontal component is Fcosθ, which equals 10 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q028",
+          "question": "A force of 12 N acts at 60° to the horizontal. Find its horizontal component in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "12"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "The horizontal component is Fcosθ, which equals 6 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q029",
+          "question": "A force of 16 N acts at 60° to the horizontal. Find its horizontal component in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "16"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "8",
+          "explanation": "The horizontal component is Fcosθ, which equals 8 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q030",
+          "question": "A force of 30 N acts at 60° to the horizontal. Find its horizontal component in N.",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "15"
+            },
+            {
+              "label": "C",
+              "text": "30"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "15",
+          "explanation": "The horizontal component is Fcosθ, which equals 15 N.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Equilibrant Force",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q031",
+          "question": "What single equilibrant force balances a force of 3 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2 N, in the same direction"
+            },
+            {
+              "label": "B",
+              "text": "3 N, in the same direction"
+            },
+            {
+              "label": "C",
+              "text": "3 N, in the opposite direction"
+            },
+            {
+              "label": "D",
+              "text": "4 N, in the opposite direction"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3 N, in the opposite direction",
+          "explanation": "The equilibrant has the same magnitude as the resultant but opposite direction: 3 N, in the opposite direction.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q032",
+          "question": "What single equilibrant force balances a force of 5 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4 N, in the same direction"
+            },
+            {
+              "label": "B",
+              "text": "6 N, in the opposite direction"
+            },
+            {
+              "label": "C",
+              "text": "5 N, in the same direction"
+            },
+            {
+              "label": "D",
+              "text": "5 N, in the opposite direction"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5 N, in the opposite direction",
+          "explanation": "The equilibrant has the same magnitude as the resultant but opposite direction: 5 N, in the opposite direction.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q033",
+          "question": "What single equilibrant force balances a force of 7 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "7 N, in the opposite direction"
+            },
+            {
+              "label": "B",
+              "text": "6 N, in the same direction"
+            },
+            {
+              "label": "C",
+              "text": "7 N, in the same direction"
+            },
+            {
+              "label": "D",
+              "text": "8 N, in the opposite direction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "7 N, in the opposite direction",
+          "explanation": "The equilibrant has the same magnitude as the resultant but opposite direction: 7 N, in the opposite direction.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q034",
+          "question": "What single equilibrant force balances a force of 9 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "9 N, in the same direction"
+            },
+            {
+              "label": "B",
+              "text": "9 N, in the opposite direction"
+            },
+            {
+              "label": "C",
+              "text": "10 N, in the opposite direction"
+            },
+            {
+              "label": "D",
+              "text": "8 N, in the same direction"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "9 N, in the opposite direction",
+          "explanation": "The equilibrant has the same magnitude as the resultant but opposite direction: 9 N, in the opposite direction.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q035",
+          "question": "What single equilibrant force balances a force of 11 N?",
+          "options": [
+            {
+              "label": "A",
+              "text": "11 N, in the same direction"
+            },
+            {
+              "label": "B",
+              "text": "10 N, in the same direction"
+            },
+            {
+              "label": "C",
+              "text": "11 N, in the opposite direction"
+            },
+            {
+              "label": "D",
+              "text": "12 N, in the opposite direction"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "11 N, in the opposite direction",
+          "explanation": "The equilibrant has the same magnitude as the resultant but opposite direction: 11 N, in the opposite direction.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Direction of Resultant",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q036",
+          "question": "For horizontal 3 N and vertical 4 N forces, find tan θ, where θ is the resultant's angle to the horizontal.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3/4"
+            },
+            {
+              "label": "B",
+              "text": "7/3"
+            },
+            {
+              "label": "C",
+              "text": "-4/3"
+            },
+            {
+              "label": "D",
+              "text": "4/3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4/3",
+          "explanation": "tan θ=vertical component/horizontal component, giving 4/3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q037",
+          "question": "For horizontal 5 N and vertical 12 N forces, find tan θ, where θ is the resultant's angle to the horizontal.",
+          "options": [
+            {
+              "label": "A",
+              "text": "12/5"
+            },
+            {
+              "label": "B",
+              "text": "5/12"
+            },
+            {
+              "label": "C",
+              "text": "17/5"
+            },
+            {
+              "label": "D",
+              "text": "-12/5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "12/5",
+          "explanation": "tan θ=vertical component/horizontal component, giving 12/5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q038",
+          "question": "For horizontal 8 N and vertical 15 N forces, find tan θ, where θ is the resultant's angle to the horizontal.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-15/8"
+            },
+            {
+              "label": "B",
+              "text": "15/8"
+            },
+            {
+              "label": "C",
+              "text": "8/15"
+            },
+            {
+              "label": "D",
+              "text": "23/8"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "15/8",
+          "explanation": "tan θ=vertical component/horizontal component, giving 15/8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q039",
+          "question": "For horizontal 7 N and vertical 24 N forces, find tan θ, where θ is the resultant's angle to the horizontal.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-24/7"
+            },
+            {
+              "label": "B",
+              "text": "31/7"
+            },
+            {
+              "label": "C",
+              "text": "24/7"
+            },
+            {
+              "label": "D",
+              "text": "7/24"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "24/7",
+          "explanation": "tan θ=vertical component/horizontal component, giving 24/7.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q040",
+          "question": "For horizontal 6 N and vertical 8 N forces, find tan θ, where θ is the resultant's angle to the horizontal.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-4/3"
+            },
+            {
+              "label": "B",
+              "text": "3/4"
+            },
+            {
+              "label": "C",
+              "text": "7/3"
+            },
+            {
+              "label": "D",
+              "text": "4/3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "4/3",
+          "explanation": "tan θ=vertical component/horizontal component, giving 4/3.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Angle Between Forces",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q041",
+          "question": "Two forces each of magnitude 2 N act with an angle 120° between them. Find their resultant magnitude.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2",
+          "explanation": "Use R²=F₁²+F₂²+2F₁F₂cosθ; the resultant is 2 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q042",
+          "question": "Two forces each of magnitude 3 N act with an angle 120° between them. Find their resultant magnitude.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3",
+          "explanation": "Use R²=F₁²+F₂²+2F₁F₂cosθ; the resultant is 3 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q043",
+          "question": "Two forces each of magnitude 4 N act with an angle 120° between them. Find their resultant magnitude.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "4",
+          "explanation": "Use R²=F₁²+F₂²+2F₁F₂cosθ; the resultant is 4 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q044",
+          "question": "Two forces each of magnitude 5 N act with an angle 120° between them. Find their resultant magnitude.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "5",
+          "explanation": "Use R²=F₁²+F₂²+2F₁F₂cosθ; the resultant is 5 N.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q045",
+          "question": "Two forces each of magnitude 6 N act with an angle 120° between them. Find their resultant magnitude.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6",
+          "explanation": "Use R²=F₁²+F₂²+2F₁F₂cosθ; the resultant is 6 N.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Couples",
+      "questions": [
+        {
+          "id": "HM-P2-C08-Q046",
+          "question": "Two equal, opposite parallel forces of 2 N act along lines 6 m apart. Find the couple moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "13"
+            },
+            {
+              "label": "B",
+              "text": "12"
+            },
+            {
+              "label": "C",
+              "text": "11"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "12",
+          "explanation": "The moment of a couple equals one force times the perpendicular separation: 12 N·m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q047",
+          "question": "Two equal, opposite parallel forces of 3 N act along lines 8 m apart. Find the couple moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "23"
+            },
+            {
+              "label": "B",
+              "text": "12"
+            },
+            {
+              "label": "C",
+              "text": "24"
+            },
+            {
+              "label": "D",
+              "text": "25"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "24",
+          "explanation": "The moment of a couple equals one force times the perpendicular separation: 24 N·m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q048",
+          "question": "Two equal, opposite parallel forces of 4 N act along lines 10 m apart. Find the couple moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "41"
+            },
+            {
+              "label": "B",
+              "text": "39"
+            },
+            {
+              "label": "C",
+              "text": "20"
+            },
+            {
+              "label": "D",
+              "text": "40"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "40",
+          "explanation": "The moment of a couple equals one force times the perpendicular separation: 40 N·m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q049",
+          "question": "Two equal, opposite parallel forces of 5 N act along lines 12 m apart. Find the couple moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "60"
+            },
+            {
+              "label": "B",
+              "text": "30"
+            },
+            {
+              "label": "C",
+              "text": "59"
+            },
+            {
+              "label": "D",
+              "text": "61"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "60",
+          "explanation": "The moment of a couple equals one force times the perpendicular separation: 60 N·m.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C08-Q050",
+          "question": "Two equal, opposite parallel forces of 6 N act along lines 14 m apart. Find the couple moment in N·m.",
+          "options": [
+            {
+              "label": "A",
+              "text": "85"
+            },
+            {
+              "label": "B",
+              "text": "84"
+            },
+            {
+              "label": "C",
+              "text": "83"
+            },
+            {
+              "label": "D",
+              "text": "42"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "84",
+          "explanation": "The moment of a couple equals one force times the perpendicular separation: 84 N·m.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

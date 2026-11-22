@@ -10,7 +10,7 @@ object ContentRepository {
     // Common subjects (mandatory for all groups)
     private val commonSubjects = listOf(
         ContentSubject("ict",     "ICT",     "Common", 6, "laptop"),
-        ContentSubject("english", "English", "Common", 3, "book")
+        ContentSubject("english", "English", "Common", 10, "book")
     )
 
     // Science subjects
@@ -21,33 +21,27 @@ object ContentRepository {
         ContentSubject("higher_mathematics", "Higher Math",  "Science", 20, "sigma")
     )
 
-    // Commerce subjects
+    // Commerce subjects (reserved for future content)
     private val commerceSubjects = listOf(
-        ContentSubject("accounting",            "Accounting",         "Commerce", 2, "calculator"),
-        ContentSubject("business_organization", "Business Org & Mgt", "Commerce", 2, "briefcase"),
-        ContentSubject("finance_banking",       "Finance & Banking",  "Commerce", 2, "bank")
+        ContentSubject("accounting",            "Accounting",         "Commerce", 0, "calculator"),
+        ContentSubject("business_organization", "Business Org & Mgt", "Commerce", 0, "briefcase"),
+        ContentSubject("finance_banking",       "Finance & Banking",  "Commerce", 0, "bank")
     )
 
-    // Arts / Humanities subjects
+    // Arts / Humanities subjects (reserved for future content)
     private val artsSubjects = listOf(
-        ContentSubject("economics", "Economics",             "Arts", 1, "chart"),
-        ContentSubject("civics",    "Civics & Governance",   "Arts", 2, "scale"),
-        ContentSubject("history",   "History of Bangladesh", "Arts", 2, "scroll")
+        ContentSubject("economics", "Economics",             "Arts", 0, "chart"),
+        ContentSubject("civics",    "Civics & Governance",   "Arts", 0, "scale"),
+        ContentSubject("history",   "History of Bangladesh", "Arts", 0, "scroll")
     )
 
     private val subjectAssetPaths = mapOf(
-        "ict"                   to "common/ict.json",
-        "english"               to "common/english.json",
-        "physics"               to "science/physics.json",
-        "chemistry"             to "science/chemistry.json",
-        "biology"               to "science/biology.json",
-        "higher_mathematics"    to "science/higher_mathematics.json",
-        "accounting"            to "commerce/accounting.json",
-        "business_organization" to "commerce/business_organization.json",
-        "finance_banking"       to "commerce/finance_banking.json",
-        "economics"             to "arts/economics.json",
-        "civics"                to "arts/civics.json",
-        "history"               to "arts/history.json"
+        "ict"                to "HSC/Science/Subjects/ICT/ict.json",
+        "english"            to "HSC/Science/Subjects/English/english.json",
+        "physics"            to "HSC/Science/Subjects/Physics/physics.json",
+        "chemistry"          to "HSC/Science/Subjects/Chemistry/chemistry.json",
+        "biology"            to "HSC/Science/Subjects/Biology/biology.json",
+        "higher_mathematics" to "HSC/Science/Subjects/Higher_Mathematics/higher_mathematics.json"
     )
 
     // ── Public API ───────────────────────────────────────────────────────────
@@ -79,10 +73,11 @@ object ContentRepository {
         val result = mutableListOf<PooledMcqItem>()
         subjectData.chapters.forEachIndexed { chIdx, ch ->
             val contentCh = ContentParser.toContentChapter(subjectId, ch)
-            val explanation = ch.content.worked_example.ifBlank {
-                ch.content.model_answers.ifBlank { ch.content.answer_tip }
-            }
-            contentCh.mcqs.forEach { mcq ->
+            contentCh.mcqs.forEachIndexed { qIdx, mcq ->
+                val explanation = ch.content.explanations.getOrNull(qIdx)
+                    ?: ch.content.worked_example.ifBlank {
+                        ch.content.model_answers.ifBlank { ch.content.answer_tip }
+                    }
                 result.add(
                     PooledMcqItem(
                         subjectId = subjectId,
@@ -102,8 +97,8 @@ object ContentRepository {
 
     fun getAllGroups(): List<GroupInfo> = listOf(
         GroupInfo("Science",          "ICT, English, Physics, Chemistry, Biology, Math", commonSubjects.size + scienceSubjects.size, true),
-        GroupInfo("Business Studies", "ICT, English, Accounting, Business, Finance",     commonSubjects.size + commerceSubjects.size, true),
-        GroupInfo("Humanities",       "ICT, English, Economics, Civics, History",        commonSubjects.size + artsSubjects.size,     true)
+        GroupInfo("Business Studies", "ICT, English, Accounting, Business, Finance",     commonSubjects.size + commerceSubjects.size, false),
+        GroupInfo("Humanities",       "ICT, English, Economics, Civics, History",        commonSubjects.size + artsSubjects.size,     false)
     )
 }
 

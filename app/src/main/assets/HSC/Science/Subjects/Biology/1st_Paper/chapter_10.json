@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 10,
+  "chapter_title": "Plant Reproduction",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH10_T01",
+      "topic_name": "Stamen",
+      "mcqs": [
+        {
+          "id": "BIO1_CH10_Q01",
+          "question": "Which term is correctly described as: male reproductive structure of a typical flower?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollen tube"
+            },
+            {
+              "label": "B",
+              "text": "stamen"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "ovule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "stamen",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q02",
+          "question": "The biological role or defining feature of stamen is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "B",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "C",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "D",
+              "text": "structure that develops into a seed after fertilisation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "male reproductive structure of a typical flower",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q03",
+          "question": "A student records the following clue: “male reproductive structure of a typical flower.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "ovule"
+            },
+            {
+              "label": "D",
+              "text": "stamen"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "stamen",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q04",
+          "question": "Which option completes this statement correctly? stamen is the term for male reproductive structure of a typical flower.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovule"
+            },
+            {
+              "label": "B",
+              "text": "stamen"
+            },
+            {
+              "label": "C",
+              "text": "pollen tube"
+            },
+            {
+              "label": "D",
+              "text": "carpel"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "stamen",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q05",
+          "question": "If an examination asks for the term associated with “male reproductive structure of a typical flower”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stamen"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "ovule"
+            },
+            {
+              "label": "D",
+              "text": "pollen tube"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "stamen",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q06",
+          "question": "Which structure, process or concept matches the description “male reproductive structure of a typical flower”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "ovule"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "stamen"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "stamen",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q07",
+          "question": "Choose the accurate statement about stamen.",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "B",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "C",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "male reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "male reproductive structure of a typical flower",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q08",
+          "question": "A diagram or observation identifies stamen. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "B",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "C",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "male reproductive structure of a typical flower",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q09",
+          "question": "Which pairing is correct for stamen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "C",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "male reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "male reproductive structure of a typical flower",
+          "explanation": "It consists of anther and filament and produces pollen."
+        },
+        {
+          "id": "BIO1_CH10_Q10",
+          "question": "In a topic review, which answer best explains the clue “male reproductive structure of a typical flower”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovule"
+            },
+            {
+              "label": "B",
+              "text": "carpel"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "stamen"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "stamen",
+          "explanation": "It consists of anther and filament and produces pollen."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH10_T02",
+      "topic_name": "Carpel",
+      "mcqs": [
+        {
+          "id": "BIO1_CH10_Q11",
+          "question": "Which term is correctly described as: female reproductive structure of a typical flower?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovule"
+            },
+            {
+              "label": "B",
+              "text": "pollen tube"
+            },
+            {
+              "label": "C",
+              "text": "stamen"
+            },
+            {
+              "label": "D",
+              "text": "carpel"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "carpel",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q12",
+          "question": "The biological role or defining feature of carpel is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "B",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "C",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "D",
+              "text": "female reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "female reproductive structure of a typical flower",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q13",
+          "question": "A student records the following clue: “female reproductive structure of a typical flower.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovule"
+            },
+            {
+              "label": "B",
+              "text": "carpel"
+            },
+            {
+              "label": "C",
+              "text": "stamen"
+            },
+            {
+              "label": "D",
+              "text": "vegetative propagation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "carpel",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q14",
+          "question": "Which option completes this statement correctly? carpel is the term for female reproductive structure of a typical flower.",
+          "options": [
+            {
+              "label": "A",
+              "text": "stamen"
+            },
+            {
+              "label": "B",
+              "text": "carpel"
+            },
+            {
+              "label": "C",
+              "text": "pollen tube"
+            },
+            {
+              "label": "D",
+              "text": "ovule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "carpel",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q15",
+          "question": "If an examination asks for the term associated with “female reproductive structure of a typical flower”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stamen"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "carpel"
+            },
+            {
+              "label": "D",
+              "text": "ovule"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "carpel",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q16",
+          "question": "Which structure, process or concept matches the description “female reproductive structure of a typical flower”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "stamen"
+            },
+            {
+              "label": "C",
+              "text": "ovule"
+            },
+            {
+              "label": "D",
+              "text": "vegetative propagation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "carpel",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q17",
+          "question": "Choose the accurate statement about carpel.",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "C",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "female reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "female reproductive structure of a typical flower",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q18",
+          "question": "A diagram or observation identifies carpel. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "B",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "C",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "D",
+              "text": "male reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "female reproductive structure of a typical flower",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q19",
+          "question": "Which pairing is correct for carpel?",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "C",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "D",
+              "text": "male reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "female reproductive structure of a typical flower",
+          "explanation": "It includes stigma, style and ovary."
+        },
+        {
+          "id": "BIO1_CH10_Q20",
+          "question": "In a topic review, which answer best explains the clue “female reproductive structure of a typical flower”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stamen"
+            },
+            {
+              "label": "B",
+              "text": "pollen tube"
+            },
+            {
+              "label": "C",
+              "text": "ovule"
+            },
+            {
+              "label": "D",
+              "text": "carpel"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "carpel",
+          "explanation": "It includes stigma, style and ovary."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH10_T03",
+      "topic_name": "Pollen Tube",
+      "mcqs": [
+        {
+          "id": "BIO1_CH10_Q21",
+          "question": "Which term is correctly described as: structure that transports male gametes towards the embryo sac?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "ovule"
+            },
+            {
+              "label": "C",
+              "text": "stamen"
+            },
+            {
+              "label": "D",
+              "text": "pollen tube"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "pollen tube",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q22",
+          "question": "The biological role or defining feature of pollen tube is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "B",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "C",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "D",
+              "text": "structure that develops into a seed after fertilisation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "structure that transports male gametes towards the embryo sac",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q23",
+          "question": "A student records the following clue: “structure that transports male gametes towards the embryo sac.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "B",
+              "text": "pollen tube"
+            },
+            {
+              "label": "C",
+              "text": "carpel"
+            },
+            {
+              "label": "D",
+              "text": "ovule"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "pollen tube",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q24",
+          "question": "Which option completes this statement correctly? pollen tube is the term for structure that transports male gametes towards the embryo sac.",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollen tube"
+            },
+            {
+              "label": "B",
+              "text": "stamen"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "ovule"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "pollen tube",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q25",
+          "question": "If an examination asks for the term associated with “structure that transports male gametes towards the embryo sac”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "ovule"
+            },
+            {
+              "label": "D",
+              "text": "pollen tube"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "pollen tube",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q26",
+          "question": "Which structure, process or concept matches the description “structure that transports male gametes towards the embryo sac”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "ovule"
+            },
+            {
+              "label": "C",
+              "text": "stamen"
+            },
+            {
+              "label": "D",
+              "text": "pollen tube"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "pollen tube",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q27",
+          "question": "Choose the accurate statement about pollen tube.",
+          "options": [
+            {
+              "label": "A",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "B",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "C",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "D",
+              "text": "structure that develops into a seed after fertilisation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "structure that transports male gametes towards the embryo sac",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q28",
+          "question": "A diagram or observation identifies pollen tube. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "C",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "structure that transports male gametes towards the embryo sac"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "structure that transports male gametes towards the embryo sac",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q29",
+          "question": "Which pairing is correct for pollen tube?",
+          "options": [
+            {
+              "label": "A",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "B",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "C",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "structure that develops into a seed after fertilisation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "structure that transports male gametes towards the embryo sac",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        },
+        {
+          "id": "BIO1_CH10_Q30",
+          "question": "In a topic review, which answer best explains the clue “structure that transports male gametes towards the embryo sac”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stamen"
+            },
+            {
+              "label": "B",
+              "text": "ovule"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "pollen tube"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "pollen tube",
+          "explanation": "It grows after a compatible pollen grain germinates."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH10_T04",
+      "topic_name": "Ovule",
+      "mcqs": [
+        {
+          "id": "BIO1_CH10_Q31",
+          "question": "Which term is correctly described as: structure that develops into a seed after fertilisation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "pollen tube"
+            },
+            {
+              "label": "C",
+              "text": "stamen"
+            },
+            {
+              "label": "D",
+              "text": "ovule"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ovule",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q32",
+          "question": "The biological role or defining feature of ovule is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "B",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "C",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "D",
+              "text": "female reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "structure that develops into a seed after fertilisation",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q33",
+          "question": "A student records the following clue: “structure that develops into a seed after fertilisation.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovule"
+            },
+            {
+              "label": "B",
+              "text": "stamen"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "pollen tube"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ovule",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q34",
+          "question": "Which option completes this statement correctly? ovule is the term for structure that develops into a seed after fertilisation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ovule"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "pollen tube"
+            },
+            {
+              "label": "D",
+              "text": "stamen"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ovule",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q35",
+          "question": "If an examination asks for the term associated with “structure that develops into a seed after fertilisation”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "ovule"
+            },
+            {
+              "label": "D",
+              "text": "stamen"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ovule",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q36",
+          "question": "Which structure, process or concept matches the description “structure that develops into a seed after fertilisation”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "ovule"
+            },
+            {
+              "label": "D",
+              "text": "stamen"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ovule",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q37",
+          "question": "Choose the accurate statement about ovule.",
+          "options": [
+            {
+              "label": "A",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "B",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "C",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "D",
+              "text": "male reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "structure that develops into a seed after fertilisation",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q38",
+          "question": "A diagram or observation identifies ovule. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "C",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "female reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "structure that develops into a seed after fertilisation",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q39",
+          "question": "Which pairing is correct for ovule?",
+          "options": [
+            {
+              "label": "A",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "B",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "C",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "structure that develops into a seed after fertilisation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "structure that develops into a seed after fertilisation",
+          "explanation": "The embryo sac is located within the ovule."
+        },
+        {
+          "id": "BIO1_CH10_Q40",
+          "question": "In a topic review, which answer best explains the clue “structure that develops into a seed after fertilisation”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "B",
+              "text": "pollen tube"
+            },
+            {
+              "label": "C",
+              "text": "stamen"
+            },
+            {
+              "label": "D",
+              "text": "ovule"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ovule",
+          "explanation": "The embryo sac is located within the ovule."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH10_T05",
+      "topic_name": "Vegetative Propagation",
+      "mcqs": [
+        {
+          "id": "BIO1_CH10_Q41",
+          "question": "Which term is correctly described as: asexual plant reproduction using roots, stems or leaves?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "pollen tube"
+            },
+            {
+              "label": "D",
+              "text": "stamen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "vegetative propagation",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q42",
+          "question": "The biological role or defining feature of vegetative propagation is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "B",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "C",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "female reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "asexual plant reproduction using roots, stems or leaves",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q43",
+          "question": "A student records the following clue: “asexual plant reproduction using roots, stems or leaves.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stamen"
+            },
+            {
+              "label": "B",
+              "text": "carpel"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "ovule"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "vegetative propagation",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q44",
+          "question": "Which option completes this statement correctly? vegetative propagation is the term for asexual plant reproduction using roots, stems or leaves.",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "ovule"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "pollen tube"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "vegetative propagation",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q45",
+          "question": "If an examination asks for the term associated with “asexual plant reproduction using roots, stems or leaves”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollen tube"
+            },
+            {
+              "label": "B",
+              "text": "stamen"
+            },
+            {
+              "label": "C",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "D",
+              "text": "carpel"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "vegetative propagation",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q46",
+          "question": "Which structure, process or concept matches the description “asexual plant reproduction using roots, stems or leaves”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pollen tube"
+            },
+            {
+              "label": "B",
+              "text": "carpel"
+            },
+            {
+              "label": "C",
+              "text": "ovule"
+            },
+            {
+              "label": "D",
+              "text": "vegetative propagation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "vegetative propagation",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q47",
+          "question": "Choose the accurate statement about vegetative propagation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "C",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "D",
+              "text": "male reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "asexual plant reproduction using roots, stems or leaves",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q48",
+          "question": "A diagram or observation identifies vegetative propagation. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "B",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            },
+            {
+              "label": "C",
+              "text": "female reproductive structure of a typical flower"
+            },
+            {
+              "label": "D",
+              "text": "male reproductive structure of a typical flower"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "asexual plant reproduction using roots, stems or leaves",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q49",
+          "question": "Which pairing is correct for vegetative propagation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "male reproductive structure of a typical flower"
+            },
+            {
+              "label": "B",
+              "text": "structure that transports male gametes towards the embryo sac"
+            },
+            {
+              "label": "C",
+              "text": "structure that develops into a seed after fertilisation"
+            },
+            {
+              "label": "D",
+              "text": "asexual plant reproduction using roots, stems or leaves"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "asexual plant reproduction using roots, stems or leaves",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        },
+        {
+          "id": "BIO1_CH10_Q50",
+          "question": "In a topic review, which answer best explains the clue “asexual plant reproduction using roots, stems or leaves”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "carpel"
+            },
+            {
+              "label": "B",
+              "text": "vegetative propagation"
+            },
+            {
+              "label": "C",
+              "text": "pollen tube"
+            },
+            {
+              "label": "D",
+              "text": "stamen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "vegetative propagation",
+          "explanation": "Examples include runners, rhizomes, tubers, bulbs and cuttings."
+        }
+      ]
+    }
+  ]
+}

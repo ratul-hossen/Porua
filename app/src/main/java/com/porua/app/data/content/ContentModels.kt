@@ -22,7 +22,9 @@ data class ChapterContent(
     val mcqs: List<McqRaw> = emptyList(),
     val answer_tip: String = "",
     val model_answers: String = "",
-    val worked_example: String = ""
+    val worked_example: String = "",
+    val parsedMcqs: List<ParsedMcq> = emptyList(),
+    val explanations: List<String> = emptyList()
 )
 
 data class SubjectChapter(

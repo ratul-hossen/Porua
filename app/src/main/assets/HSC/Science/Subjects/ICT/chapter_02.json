@@ -1,0 +1,1358 @@
+{
+  "paper": "Compulsory",
+  "chapter_number": 2,
+  "chapter_title": "Communication Systems and Networking",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Data Communication Concepts and Bandwidth",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-001",
+          "question": "Which of the following is NOT a fundamental component of a data communication system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Transmitter (Sender)"
+            },
+            {
+              "label": "B",
+              "text": "Transmission Medium"
+            },
+            {
+              "label": "C",
+              "text": "Receiver"
+            },
+            {
+              "label": "D",
+              "text": "Power Substation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Power Substation",
+          "explanation": "The five essential components of a data communication system are the message, sender (transmitter), receiver, transmission medium, and protocol.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-002",
+          "question": "What is the standard definition of Bandwidth in computer networking?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The physical thickness of a transmission wire"
+            },
+            {
+              "label": "B",
+              "text": "The volume of data transferred over a channel per unit of time (data transfer rate)"
+            },
+            {
+              "label": "C",
+              "text": "The total electrical resistance of a network cable"
+            },
+            {
+              "label": "D",
+              "text": "The number of computers connected to a server"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The volume of data transferred over a channel per unit of time (data transfer rate)",
+          "explanation": "Bandwidth refers to the data transmission capacity or rate of data transfer through a communication channel, typically measured in bits per second (bps).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-003",
+          "question": "Which bandwidth category provides data transmission speeds of 1 Mbps or higher?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Narrowband"
+            },
+            {
+              "label": "B",
+              "text": "Voiceband"
+            },
+            {
+              "label": "C",
+              "text": "Broadband"
+            },
+            {
+              "label": "D",
+              "text": "Baseband"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Broadband",
+          "explanation": "Broadband offers high-speed data transmission typically defined as 1 Mbps or above, whereas narrowband operates at 45-300 bps and voiceband reaches up to 9600 bps.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-004",
+          "question": "What is the loss of signal strength as it travels through a transmission medium known as?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Attenuation"
+            },
+            {
+              "label": "B",
+              "text": "Modulation"
+            },
+            {
+              "label": "C",
+              "text": "Multiplexing"
+            },
+            {
+              "label": "D",
+              "text": "Quantization"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Attenuation",
+          "explanation": "Attenuation is the gradual loss of signal intensity or amplitude as an electrical or optical wave propagates through a medium over distance.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-005",
+          "question": "A telecommunication channel transferring data at 10 Mbps transmits how many bits each second?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10,000 bits"
+            },
+            {
+              "label": "B",
+              "text": "1,000,000 bits"
+            },
+            {
+              "label": "C",
+              "text": "10,000,000 bits"
+            },
+            {
+              "label": "D",
+              "text": "100,000,000 bits"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "10,000,000 bits",
+          "explanation": "1 Mbps = 1,000,000 bits per second (10^6 bps). Therefore, 10 Mbps equals 10,000,000 bits per second.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Data Transmission Modes and Direction",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-006",
+          "question": "Which data transmission mode permits data to travel in only one predetermined direction at all times?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Simplex"
+            },
+            {
+              "label": "B",
+              "text": "Half-Duplex"
+            },
+            {
+              "label": "C",
+              "text": "Full-Duplex"
+            },
+            {
+              "label": "D",
+              "text": "Multiplex"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Simplex",
+          "explanation": "In Simplex mode, communication is strictly unidirectional; the transmitter only sends data and the receiver only receives it (e.g., commercial radio broadcast).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-007",
+          "question": "A Walkie-Talkie system where both parties can talk but only one at a time is an example of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Simplex"
+            },
+            {
+              "label": "B",
+              "text": "Half-Duplex"
+            },
+            {
+              "label": "C",
+              "text": "Full-Duplex"
+            },
+            {
+              "label": "D",
+              "text": "Dual Simplex"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Half-Duplex",
+          "explanation": "In Half-Duplex mode, both devices can transmit and receive data, but not simultaneously; only one direction is active at any given moment.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-008",
+          "question": "Which transmission mode allows simultaneous two-way real-time voice communication, as in a cellular telephone call?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Simplex"
+            },
+            {
+              "label": "B",
+              "text": "Half-Duplex"
+            },
+            {
+              "label": "C",
+              "text": "Full-Duplex"
+            },
+            {
+              "label": "D",
+              "text": "Quasi-Duplex"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Full-Duplex",
+          "explanation": "In Full-Duplex mode, both connected parties can send and receive data at the same time without waiting for each other to stop transmitting.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-009",
+          "question": "Sending data from a single sender to a specific chosen group of multiple recipients is known as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Unicast"
+            },
+            {
+              "label": "B",
+              "text": "Broadcast"
+            },
+            {
+              "label": "C",
+              "text": "Multicast"
+            },
+            {
+              "label": "D",
+              "text": "Simulcast"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Multicast",
+          "explanation": "Multicast delivers data packets from one source to a defined group of interested destination hosts, unlike broadcast which sends to all nodes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-010",
+          "question": "Sending television signals from a transmitter tower to every home television antenna across a city is an example of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Unicast and Full-Duplex"
+            },
+            {
+              "label": "B",
+              "text": "Broadcast and Simplex"
+            },
+            {
+              "label": "C",
+              "text": "Multicast and Half-Duplex"
+            },
+            {
+              "label": "D",
+              "text": "Anycast and Full-Duplex"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Broadcast and Simplex",
+          "explanation": "Television transmission is broadcast (sent to all receivers in range) and simplex (signals flow in one direction only with no reply from TV sets).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Data Transmission Methods",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-011",
+          "question": "In which transmission method is data transmitted character-by-character accompanied by start and stop bits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Asynchronous transmission"
+            },
+            {
+              "label": "B",
+              "text": "Synchronous transmission"
+            },
+            {
+              "label": "C",
+              "text": "Isochronous transmission"
+            },
+            {
+              "label": "D",
+              "text": "Baseband transmission"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Asynchronous transmission",
+          "explanation": "Asynchronous transmission transmits one character (byte) at a time, framing each byte with a Start bit (logic 0) and one or more Stop bits (logic 1).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-012",
+          "question": "What is the typical value of the Start bit in standard asynchronous serial communication?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "Alternating 0 and 1"
+            },
+            {
+              "label": "D",
+              "text": "High impedance"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "0",
+          "explanation": "In asynchronous transmission, an idle line stays at high voltage (1). A Start bit transitions the line to low voltage (0) to alert the receiver.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-013",
+          "question": "Which transmission method groups large numbers of characters into synchronized blocks or frames for high efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Asynchronous transmission"
+            },
+            {
+              "label": "B",
+              "text": "Synchronous transmission"
+            },
+            {
+              "label": "C",
+              "text": "Serial simplex transmission"
+            },
+            {
+              "label": "D",
+              "text": "Paging transmission"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Synchronous transmission",
+          "explanation": "Synchronous transmission sends continuous blocks of data synchronized by a shared master clock signal, eliminating individual start/stop overhead.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-014",
+          "question": "Which data transmission method guarantees a fixed time interval between successive data packets, making it ideal for live video streaming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Isochronous transmission"
+            },
+            {
+              "label": "B",
+              "text": "Asynchronous transmission"
+            },
+            {
+              "label": "C",
+              "text": "Batch transmission"
+            },
+            {
+              "label": "D",
+              "text": "Buffered polling transmission"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Isochronous transmission",
+          "explanation": "Isochronous transmission combines features of synchronous and asynchronous methods, ensuring fixed, regular packet delivery without jitter for live streaming.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT02-MCQ-015",
+          "question": "If an 8-bit character is sent with 1 start bit and 1 stop bit in asynchronous mode, what is the transmission efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "100%"
+            },
+            {
+              "label": "B",
+              "text": "80%"
+            },
+            {
+              "label": "C",
+              "text": "75%"
+            },
+            {
+              "label": "D",
+              "text": "60%"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "80%",
+          "explanation": "Total bits sent = 1 start + 8 data + 1 stop = 10 bits. Efficiency = (Useful data bits / Total bits) * 100% = (8 / 10) * 100% = 80%.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Guided Transmission Media (Cables)",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-016",
+          "question": "Why are copper wire pairs twisted around each other in Twisted Pair cables?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To increase the tensile breaking strength of the cable"
+            },
+            {
+              "label": "B",
+              "text": "To reduce electromagnetic interference (EMI) and crosstalk between pairs"
+            },
+            {
+              "label": "C",
+              "text": "To increase electrical capacitance and current flow"
+            },
+            {
+              "label": "D",
+              "text": "To facilitate color-coded terminal labeling"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "To reduce electromagnetic interference (EMI) and crosstalk between pairs",
+          "explanation": "Twisting the two conductor wires cancels out external electromagnetic noise and minimizes crosstalk from adjacent wire pairs.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-017",
+          "question": "Which registered jack modular connector is standard for terminating UTP Ethernet network cables?",
+          "options": [
+            {
+              "label": "A",
+              "text": "RJ-11"
+            },
+            {
+              "label": "B",
+              "text": "RJ-45"
+            },
+            {
+              "label": "C",
+              "text": "BNC"
+            },
+            {
+              "label": "D",
+              "text": "VGA"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "RJ-45",
+          "explanation": "RJ-45 (8-pin modular connector) is the worldwide standard connector used for terminating twisted pair cables in Ethernet local area networks.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-018",
+          "question": "Which physical principle governs the propagation of light pulses along the glass core of an optical fiber cable?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Light diffraction"
+            },
+            {
+              "label": "B",
+              "text": "Total Internal Reflection"
+            },
+            {
+              "label": "C",
+              "text": "Photoelectric emission"
+            },
+            {
+              "label": "D",
+              "text": "Light polarization"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Total Internal Reflection",
+          "explanation": "Light signals travel through optical fibers by Total Internal Reflection, occurring because the central glass core has a higher refractive index than the surrounding cladding.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-019",
+          "question": "Which concentric layer of an optical fiber cable has a lower refractive index than the core to keep light trapped inside?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cladding"
+            },
+            {
+              "label": "B",
+              "text": "Buffer jacket"
+            },
+            {
+              "label": "C",
+              "text": "Outer sheath"
+            },
+            {
+              "label": "D",
+              "text": "Strength member"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cladding",
+          "explanation": "The cladding surrounds the core and has a lower refractive index, satisfying the condition required for total internal reflection of light rays.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-020",
+          "question": "Which of the following is a key advantage of Optical Fiber Cable over copper Twisted Pair cable?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Complete immunity to electromagnetic interference (EMI) and radio frequency noise"
+            },
+            {
+              "label": "B",
+              "text": "Ability to be spliced easily with simple household pliers"
+            },
+            {
+              "label": "C",
+              "text": "Lower initial purchasing and installation cost than UTP"
+            },
+            {
+              "label": "D",
+              "text": "Conduction of high-voltage direct electric current"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Complete immunity to electromagnetic interference (EMI) and radio frequency noise",
+          "explanation": "Because optical fibers transmit information as photons of light rather than electrical currents, they are completely immune to electromagnetic and RF interference.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Unguided Transmission Media (Wireless)",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-021",
+          "question": "Which electromagnetic wave spectrum travels omnidirectionally and can penetrate solid walls and buildings easily?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Radio waves"
+            },
+            {
+              "label": "B",
+              "text": "Infrared waves"
+            },
+            {
+              "label": "C",
+              "text": "Visible laser light"
+            },
+            {
+              "label": "D",
+              "text": "Ultraviolet rays"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Radio waves",
+          "explanation": "Radio waves have relatively low frequencies and long wavelengths, enabling them to travel in all directions (omnidirectional) and penetrate obstacles like walls.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-022",
+          "question": "Why do terrestrial microwave communication towers require strict line-of-sight (LOS) alignment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because high-frequency microwave signals travel in straight beams and do not bend around obstacles"
+            },
+            {
+              "label": "B",
+              "text": "Because they only function during direct sunlight hours"
+            },
+            {
+              "label": "C",
+              "text": "Because microwaves are converted into acoustic sound waves in air"
+            },
+            {
+              "label": "D",
+              "text": "To prevent interference with submarine cables"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because high-frequency microwave signals travel in straight beams and do not bend around obstacles",
+          "explanation": "Microwaves travel along straight line-of-sight paths; antennas must face each other directly and be placed on high towers to overcome the curvature of Earth.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-023",
+          "question": "At approximately what altitude above Earth's equator do Geostationary Communication Satellites orbit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "360 km"
+            },
+            {
+              "label": "B",
+              "text": "3,600 km"
+            },
+            {
+              "label": "C",
+              "text": "36,000 km"
+            },
+            {
+              "label": "D",
+              "text": "360,000 km"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "36,000 km",
+          "explanation": "Geostationary satellites orbit at approximately 35,786 km (about 36,000 km) above Earth's equator, matching Earth's 24-hour rotational period.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-024",
+          "question": "Which wireless medium is commonly used in television remote controllers and cannot pass through solid walls?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Infrared wave"
+            },
+            {
+              "label": "B",
+              "text": "Radio wave"
+            },
+            {
+              "label": "C",
+              "text": "Satellite microwave"
+            },
+            {
+              "label": "D",
+              "text": "Shortwave radio"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Infrared wave",
+          "explanation": "Infrared light has very high frequency and short wavelength; it cannot penetrate opaque barriers like walls, making it secure and ideal for TV remotes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-025",
+          "question": "What is Bangladesh's first communication satellite placed in geostationary orbit named?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bangabandhu Satellite-1"
+            },
+            {
+              "label": "B",
+              "text": "Padma-1"
+            },
+            {
+              "label": "C",
+              "text": "Shadhinota-1"
+            },
+            {
+              "label": "D",
+              "text": "Meghna-1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bangabandhu Satellite-1",
+          "explanation": "Bangabandhu Satellite-1 (BS-1) was launched on May 11, 2018, positioned at 119.1° East longitude as Bangladesh's first geostationary communications satellite.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Wireless Communication Technologies",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-026",
+          "question": "Which IEEE standard governs Bluetooth wireless communication technology?",
+          "options": [
+            {
+              "label": "A",
+              "text": "IEEE 802.3"
+            },
+            {
+              "label": "B",
+              "text": "IEEE 802.11"
+            },
+            {
+              "label": "C",
+              "text": "IEEE 802.15.1"
+            },
+            {
+              "label": "D",
+              "text": "IEEE 802.16"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "IEEE 802.15.1",
+          "explanation": "Bluetooth technology is standardized under IEEE 802.15.1 for short-range Wireless Personal Area Networks (WPAN) operating in the 2.4 GHz band.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-027",
+          "question": "What is the typical operating radius for standard Class 2 Bluetooth devices like wireless earphones?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Up to 10 meters"
+            },
+            {
+              "label": "B",
+              "text": "Up to 500 meters"
+            },
+            {
+              "label": "C",
+              "text": "Up to 5 kilometers"
+            },
+            {
+              "label": "D",
+              "text": "Up to 50 kilometers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Up to 10 meters",
+          "explanation": "Class 2 Bluetooth devices, used in mobile phones and wireless accessories, typically operate within an effective range of about 10 meters (33 feet).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-028",
+          "question": "Which IEEE standard specifies Wireless Local Area Networks (WLAN), popularly known as Wi-Fi?",
+          "options": [
+            {
+              "label": "A",
+              "text": "IEEE 802.11"
+            },
+            {
+              "label": "B",
+              "text": "IEEE 802.3"
+            },
+            {
+              "label": "C",
+              "text": "IEEE 802.5"
+            },
+            {
+              "label": "D",
+              "text": "IEEE 802.16"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "IEEE 802.11",
+          "explanation": "The IEEE 802.11 standard family governs Wi-Fi wireless local area network technologies.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-029",
+          "question": "Which wireless broadband technology is defined by IEEE 802.16 and provides metropolitan area coverage up to 50 km?",
+          "options": [
+            {
+              "label": "A",
+              "text": "WiMAX"
+            },
+            {
+              "label": "B",
+              "text": "Bluetooth"
+            },
+            {
+              "label": "C",
+              "text": "Zigbee"
+            },
+            {
+              "label": "D",
+              "text": "NFC"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "WiMAX",
+          "explanation": "WiMAX (Worldwide Interoperability for Microwave Access) is based on IEEE 802.16 and delivers high-speed wireless broadband over metropolitan distances.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-030",
+          "question": "Which ultra-short-range wireless technology operates within 4 to 10 centimeters for contactless payment cards and smartphone taps?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NFC (Near Field Communication)"
+            },
+            {
+              "label": "B",
+              "text": "WiMAX"
+            },
+            {
+              "label": "C",
+              "text": "Microwave WAN"
+            },
+            {
+              "label": "D",
+              "text": "VHF Radio"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "NFC (Near Field Communication)",
+          "explanation": "Near Field Communication (NFC) operates at 13.56 MHz over distances of 4 cm or less, facilitating fast and secure contactless point-of-sale transactions.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Mobile Communication Generations",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-031",
+          "question": "Which was the defining technical characteristic of First Generation (1G) mobile cellular networks?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Analog voice signal transmission with no data or SMS capability"
+            },
+            {
+              "label": "B",
+              "text": "High-definition video streaming over packet networks"
+            },
+            {
+              "label": "C",
+              "text": "Ultra-low millisecond latency for autonomous driving"
+            },
+            {
+              "label": "D",
+              "text": "Pure IPv6 all-digital packet switching"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Analog voice signal transmission with no data or SMS capability",
+          "explanation": "1G cellular systems (e.g., AMPS) relied entirely on analog frequency modulation for voice calls only, with no digital encryption or text messaging.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-032",
+          "question": "Short Message Service (SMS) and digital cellular encryption were first introduced in which mobile generation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1G"
+            },
+            {
+              "label": "B",
+              "text": "2G"
+            },
+            {
+              "label": "C",
+              "text": "3G"
+            },
+            {
+              "label": "D",
+              "text": "4G"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2G",
+          "explanation": "2G networks (GSM and CDMA) introduced digital transmission, SIM cards, international roaming, and Short Message Service (SMS).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-033",
+          "question": "Which mobile network generation first made seamless mobile video calling and mobile broadband internet widespread?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1G"
+            },
+            {
+              "label": "B",
+              "text": "2G"
+            },
+            {
+              "label": "C",
+              "text": "3G"
+            },
+            {
+              "label": "D",
+              "text": "0G"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "3G",
+          "explanation": "3G (UMTS, WCDMA, EV-DO) introduced packet-based mobile broadband speeds exceeding 384 Kbps to several Mbps, enabling mobile video calls and web browsing.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-034",
+          "question": "Which core technology standard powers Fourth Generation (4G) high-speed mobile networks?",
+          "options": [
+            {
+              "label": "A",
+              "text": "LTE (Long Term Evolution)"
+            },
+            {
+              "label": "B",
+              "text": "NMT (Nordic Mobile Telephone)"
+            },
+            {
+              "label": "C",
+              "text": "AMPS (Advanced Mobile Phone System)"
+            },
+            {
+              "label": "D",
+              "text": "GPRS (General Packet Radio Service)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "LTE (Long Term Evolution)",
+          "explanation": "4G networks are built on LTE and LTE-Advanced architectures, using an all-IP packet-switched network to deliver mobile data speeds exceeding 100 Mbps.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-035",
+          "question": "What is a primary performance objective of 5G cellular networks compared to 4G?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Ultra-low latency below 1 millisecond and massive IoT connectivity"
+            },
+            {
+              "label": "B",
+              "text": "Return to analog frequency modulation"
+            },
+            {
+              "label": "C",
+              "text": "Restricting connections to voice calls only"
+            },
+            {
+              "label": "D",
+              "text": "Limiting maximum speed to 56 Kbps"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Ultra-low latency below 1 millisecond and massive IoT connectivity",
+          "explanation": "5G offers multi-gigabit peak data speeds, massive machine-type communications (connecting millions of IoT devices per km²), and ultra-low latency (<1 ms).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Computer Network Classifications (PAN, LAN, MAN, WAN)",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-036",
+          "question": "Connecting a smartphone to a wireless Bluetooth headset within a personal workspace is an example of which network type?",
+          "options": [
+            {
+              "label": "A",
+              "text": "PAN (Personal Area Network)"
+            },
+            {
+              "label": "B",
+              "text": "LAN (Local Area Network)"
+            },
+            {
+              "label": "C",
+              "text": "MAN (Metropolitan Area Network)"
+            },
+            {
+              "label": "D",
+              "text": "WAN (Wide Area Network)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "PAN (Personal Area Network)",
+          "explanation": "A Personal Area Network (PAN) covers a small area centered around an individual person, typically within a radius of 10 meters.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-037",
+          "question": "A network interconnecting computers located within a single college building or computer lab is classified as a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "LAN (Local Area Network)"
+            },
+            {
+              "label": "B",
+              "text": "MAN (Metropolitan Area Network)"
+            },
+            {
+              "label": "C",
+              "text": "WAN (Wide Area Network)"
+            },
+            {
+              "label": "D",
+              "text": "SAN (Storage Area Network)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "LAN (Local Area Network)",
+          "explanation": "A Local Area Network (LAN) spans a geographically limited area such as a home, office suite, laboratory, or school campus.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-038",
+          "question": "A cable television network distributing signals across an entire metropolitan city is an example of:",
+          "options": [
+            {
+              "label": "A",
+              "text": "MAN (Metropolitan Area Network)"
+            },
+            {
+              "label": "B",
+              "text": "PAN (Personal Area Network)"
+            },
+            {
+              "label": "C",
+              "text": "LAN (Local Area Network)"
+            },
+            {
+              "label": "D",
+              "text": "BAN (Body Area Network)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "MAN (Metropolitan Area Network)",
+          "explanation": "A Metropolitan Area Network (MAN) spans an entire municipality or city, larger than a LAN but smaller than a nationwide WAN.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-039",
+          "question": "What is the largest and most well-known example of a Wide Area Network (WAN) in the world?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The Internet"
+            },
+            {
+              "label": "B",
+              "text": "A college intranet"
+            },
+            {
+              "label": "C",
+              "text": "A city traffic light network"
+            },
+            {
+              "label": "D",
+              "text": "A home Wi-Fi mesh"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The Internet",
+          "explanation": "The global Internet connects millions of computers, networks, and servers across all continents, representing the ultimate Wide Area Network (WAN).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-040",
+          "question": "A private, secure computer network accessible only by authorized internal employees of an organization is called an:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Intranet"
+            },
+            {
+              "label": "B",
+              "text": "Extranet"
+            },
+            {
+              "label": "C",
+              "text": "Arpanet"
+            },
+            {
+              "label": "D",
+              "text": "Ethernet"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Intranet",
+          "explanation": "An intranet is a private internal enterprise network restricted strictly to employees to share information and computing resources securely.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Network Topologies",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-041",
+          "question": "In which network topology are all workstations connected to a single common backbone cable terminated at both ends?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bus Topology"
+            },
+            {
+              "label": "B",
+              "text": "Ring Topology"
+            },
+            {
+              "label": "C",
+              "text": "Star Topology"
+            },
+            {
+              "label": "D",
+              "text": "Mesh Topology"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bus Topology",
+          "explanation": "Bus topology uses a single central backbone transmission line to which all network nodes tap into, with terminators at both ends to absorb signals.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-042",
+          "question": "Which topology connects all peripheral nodes directly to a central hub or switch device?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Star Topology"
+            },
+            {
+              "label": "B",
+              "text": "Bus Topology"
+            },
+            {
+              "label": "C",
+              "text": "Ring Topology"
+            },
+            {
+              "label": "D",
+              "text": "Mesh Topology"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Star Topology",
+          "explanation": "In star topology, every host computer has a point-to-point connection to a central multiport switch or hub.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-043",
+          "question": "What happens if the central switch fails in a Star Topology network?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The entire network becomes non-functional"
+            },
+            {
+              "label": "B",
+              "text": "Only one computer stops working"
+            },
+            {
+              "label": "C",
+              "text": "The network automatically transforms into a Bus topology"
+            },
+            {
+              "label": "D",
+              "text": "Network speed increases twofold"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The entire network becomes non-functional",
+          "explanation": "Because the central hub/switch is the single point of coordination and relay, its failure brings down communication for all connected devices.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-044",
+          "question": "How many physical links are required in a fully connected Mesh topology having n nodes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "n(n - 1) / 2"
+            },
+            {
+              "label": "B",
+              "text": "n - 1"
+            },
+            {
+              "label": "C",
+              "text": "n"
+            },
+            {
+              "label": "D",
+              "text": "n^2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "n(n - 1) / 2",
+          "explanation": "In a full mesh topology, every node connects directly to every other node. The total number of duplex links is given by n(n - 1) / 2.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT02-MCQ-045",
+          "question": "A network formed by interconnecting multiple Star networks along a central Bus backbone is called a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Tree (Hierarchical) Topology"
+            },
+            {
+              "label": "B",
+              "text": "Pure Ring Topology"
+            },
+            {
+              "label": "C",
+              "text": "Peer-to-Peer Topology"
+            },
+            {
+              "label": "D",
+              "text": "Point-to-Point Topology"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Tree (Hierarchical) Topology",
+          "explanation": "A tree topology arranges nodes hierarchically, where multiple secondary star networks are grouped and connected to a primary backbone trunk.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Network Hardware and Connectivity Devices",
+      "questions": [
+        {
+          "id": "ICT02-MCQ-046",
+          "question": "What primary function does a Modem perform in data communication?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Converts digital signals to analog (modulation) and analog to digital (demodulation)"
+            },
+            {
+              "label": "B",
+              "text": "Amplifies optical light pulses inside fiber cables"
+            },
+            {
+              "label": "C",
+              "text": "Scans computer files for software viruses"
+            },
+            {
+              "label": "D",
+              "text": "Calculates cryptographic hash keys"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Converts digital signals to analog (modulation) and analog to digital (demodulation)",
+          "explanation": "Modem stands for MOdulator-DEModulator; it translates digital computer data into analog audio/radio waves for transmission over lines and vice-versa.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT02-MCQ-047",
+          "question": "What is the crucial operational distinction between a network Hub and an intelligent network Switch?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A hub broadcasts incoming packets to all connected ports, while a switch directs packets to the specific target MAC address"
+            },
+            {
+              "label": "B",
+              "text": "A hub operates on fiber optic cables while a switch only uses copper"
+            },
+            {
+              "label": "C",
+              "text": "A hub has an internal routing table while a switch does not"
+            },
+            {
+              "label": "D",
+              "text": "A switch cannot connect more than two computers"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A hub broadcasts incoming packets to all connected ports, while a switch directs packets to the specific target MAC address",
+          "explanation": "A hub broadcasts data to every port causing collisions, while an intelligent switch reads destination MAC addresses and forwards packets only to the specific recipient port.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-048",
+          "question": "Which OSI layer device inspects destination IP addresses to route data packets between two different logical networks?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Router"
+            },
+            {
+              "label": "B",
+              "text": "Repeater"
+            },
+            {
+              "label": "C",
+              "text": "Passive Hub"
+            },
+            {
+              "label": "D",
+              "text": "Unmanaged Transceiver"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Router",
+          "explanation": "A router operates at the Network Layer (Layer 3), using IP addresses and routing algorithms to forward data packets across disparate networks.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT02-MCQ-049",
+          "question": "Which internetworking device connects two networks that run on completely different communication protocols and architectures?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gateway"
+            },
+            {
+              "label": "B",
+              "text": "Bridge"
+            },
+            {
+              "label": "C",
+              "text": "Repeater"
+            },
+            {
+              "label": "D",
+              "text": "Splitter"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Gateway",
+          "explanation": "A gateway acts as a protocol converter, translating data between networks that use entirely different protocols and network architectures.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT02-MCQ-050",
+          "question": "What is the permanent 48-bit physical hardware address burned into every Network Interface Card (NIC) called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "MAC address"
+            },
+            {
+              "label": "B",
+              "text": "IP address"
+            },
+            {
+              "label": "C",
+              "text": "URL address"
+            },
+            {
+              "label": "D",
+              "text": "Port address"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "MAC address",
+          "explanation": "A MAC (Media Access Control) address is a unique 48-bit (6-byte) hexadecimal identifier assigned permanently to network interface hardware by manufacturers.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1358 @@
+{
+  "paper": "Compulsory",
+  "chapter_number": 6,
+  "chapter_title": "Database Management System (DBMS)",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Basic Database Concepts and Hierarchy",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-001",
+          "question": "What is the correct hierarchical order of data representation from smallest to largest unit in a database?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bit -> Byte (Character) -> Field -> Record -> Table (File) -> Database"
+            },
+            {
+              "label": "B",
+              "text": "Record -> Field -> Byte -> Bit -> Table -> Database"
+            },
+            {
+              "label": "C",
+              "text": "Byte -> Bit -> Record -> Field -> Database -> Table"
+            },
+            {
+              "label": "D",
+              "text": "Database -> Table -> Bit -> Byte -> Field -> Record"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bit -> Byte (Character) -> Field -> Record -> Table (File) -> Database",
+          "explanation": "The fundamental data hierarchy starts from the binary Bit, building to Byte, Field (attribute), Record (row/tuple), Table (file), and finally the Database.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-002",
+          "question": "What does a single row of interrelated data representing a complete entity instance in a database table called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Record (or Tuple)"
+            },
+            {
+              "label": "B",
+              "text": "Field (or Attribute)"
+            },
+            {
+              "label": "C",
+              "text": "Schema"
+            },
+            {
+              "label": "D",
+              "text": "Domain"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Record (or Tuple)",
+          "explanation": "A horizontal row in a relational database table represents a single complete Record (or Tuple) consisting of all attributes for one entity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-003",
+          "question": "A vertical column in a database table that defines a specific property or data item of an entity is called a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Field (or Attribute)"
+            },
+            {
+              "label": "B",
+              "text": "Record"
+            },
+            {
+              "label": "C",
+              "text": "Tuple"
+            },
+            {
+              "label": "D",
+              "text": "File"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Field (or Attribute)",
+          "explanation": "A vertical column represents a Field (Attribute), storing a specific category of data (e.g., Student_Name, Roll_No, Date_of_Birth) across all records.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-004",
+          "question": "What is the primary role of a Database Administrator (DBA)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To oversee database design, enforce security, assign user privileges, and manage backup and recovery"
+            },
+            {
+              "label": "B",
+              "text": "To manufacture semiconductor microchips for hard drives"
+            },
+            {
+              "label": "C",
+              "text": "To manually enter millions of accounting rows every day"
+            },
+            {
+              "label": "D",
+              "text": "To terminate internet cables inside offices"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To oversee database design, enforce security, assign user privileges, and manage backup and recovery",
+          "explanation": "A DBA is the IT professional responsible for the overall configuration, performance, security authorization, and disaster recovery of enterprise databases.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-005",
+          "question": "Which of the following is a key advantage of a DBMS over traditional manual paper-based filing systems?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reduced data redundancy and prevention of data inconsistency"
+            },
+            {
+              "label": "B",
+              "text": "Requirement of infinite physical office storage filing cabinets"
+            },
+            {
+              "label": "C",
+              "text": "Total inability to share files among multiple users"
+            },
+            {
+              "label": "D",
+              "text": "Elimination of digital computer hardware"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Reduced data redundancy and prevention of data inconsistency",
+          "explanation": "A DBMS minimizes duplicate data entry (redundancy), preserves data integrity, enables multi-user concurrent access, and standardizes search capabilities.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "RDBMS Architecture and Relational Concepts",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-006",
+          "question": "Who introduced the theoretical foundations of the Relational Database Model in 1970?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Edgar F. Codd (E.F. Codd)"
+            },
+            {
+              "label": "B",
+              "text": "Charles Babbage"
+            },
+            {
+              "label": "C",
+              "text": "Dennis Ritchie"
+            },
+            {
+              "label": "D",
+              "text": "Alan Turing"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Edgar F. Codd (E.F. Codd)",
+          "explanation": "IBM computer scientist Dr. E.F. Codd published the groundbreaking 1970 paper formulating the Relational Model of Data for large shared data banks.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-007",
+          "question": "What is the total number of ATTRIBUTES (columns) in a database relation called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Degree"
+            },
+            {
+              "label": "B",
+              "text": "Cardinality"
+            },
+            {
+              "label": "C",
+              "text": "Instance"
+            },
+            {
+              "label": "D",
+              "text": "Domain"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Degree",
+          "explanation": "The 'Degree' of a relation is defined as the total number of columns/attributes it contains.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-008",
+          "question": "What is the total number of TUPLES (rows/records) in a database relation called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cardinality"
+            },
+            {
+              "label": "B",
+              "text": "Degree"
+            },
+            {
+              "label": "C",
+              "text": "Domain"
+            },
+            {
+              "label": "D",
+              "text": "Schema"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cardinality",
+          "explanation": "The 'Cardinality' of a relation represents the total count of rows or tuples present in that table.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-009",
+          "question": "Which of the following software applications is a widely used Relational Database Management System (RDBMS)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "MySQL"
+            },
+            {
+              "label": "B",
+              "text": "Adobe Photoshop"
+            },
+            {
+              "label": "C",
+              "text": "VLC Media Player"
+            },
+            {
+              "label": "D",
+              "text": "Notepad"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "MySQL",
+          "explanation": "MySQL is one of the world's most popular open-source Relational Database Management Systems (RDBMS), along with Oracle, PostgreSQL, and SQL Server.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-010",
+          "question": "If a student table contains 6 columns and 50 rows, what are its Degree and Cardinality?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Degree = 6, Cardinality = 50"
+            },
+            {
+              "label": "B",
+              "text": "Degree = 50, Cardinality = 6"
+            },
+            {
+              "label": "C",
+              "text": "Degree = 300, Cardinality = 6"
+            },
+            {
+              "label": "D",
+              "text": "Degree = 56, Cardinality = 50"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Degree = 6, Cardinality = 50",
+          "explanation": "Degree equals the number of columns (6), and Cardinality equals the number of rows (50).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Database Keys (Primary, Foreign, Composite, Candidate)",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-011",
+          "question": "Which key uniquely identifies each record in a database table and CANNOT contain NULL values?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Primary Key"
+            },
+            {
+              "label": "B",
+              "text": "Foreign Key"
+            },
+            {
+              "label": "C",
+              "text": "Alternate Key"
+            },
+            {
+              "label": "D",
+              "text": "Secondary Key"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Primary Key",
+          "explanation": "A Primary Key uniquely identifies each row in a table. It must be unique and cannot contain NULL (missing/empty) values by definition.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-012",
+          "question": "A key in a secondary table that references the primary key of a primary table to link them is called a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Foreign Key"
+            },
+            {
+              "label": "B",
+              "text": "Primary Key"
+            },
+            {
+              "label": "C",
+              "text": "Super Key"
+            },
+            {
+              "label": "D",
+              "text": "Compound Key"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Foreign Key",
+          "explanation": "A Foreign Key is a field in one table that points directly to the Primary Key of another table, establishing a referential relationship between them.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-013",
+          "question": "All individual attributes or sets of attributes capable of uniquely identifying a record are known as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Candidate Keys"
+            },
+            {
+              "label": "B",
+              "text": "Foreign Keys"
+            },
+            {
+              "label": "C",
+              "text": "Derived Keys"
+            },
+            {
+              "label": "D",
+              "text": "Transient Keys"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Candidate Keys",
+          "explanation": "Candidate keys are all minimal candidate attributes capable of serving as the primary key; the DBA chooses one as Primary Key and the rest become Alternate Keys.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-014",
+          "question": "When two or more attributes are combined together to uniquely identify a single record in a table, the key is called a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Composite Primary Key"
+            },
+            {
+              "label": "B",
+              "text": "Single Primary Key"
+            },
+            {
+              "label": "C",
+              "text": "Foreign Key"
+            },
+            {
+              "label": "D",
+              "text": "Null Key"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Composite Primary Key",
+          "explanation": "A Composite Key consists of two or more combined fields that together guarantee uniqueness when no single field is sufficient.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-015",
+          "question": "Those Candidate Keys that were NOT selected as the Primary Key are termed:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Alternate Keys"
+            },
+            {
+              "label": "B",
+              "text": "Foreign Keys"
+            },
+            {
+              "label": "C",
+              "text": "Dead Keys"
+            },
+            {
+              "label": "D",
+              "text": "Auxiliary Keys"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Alternate Keys",
+          "explanation": "Candidate keys left unchosen after a Primary Key is designated are referred to as Alternate (or Secondary) Keys.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Database Relationships",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-016",
+          "question": "Which database relationship exists between a Citizen table and a National ID Card (NID) table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "One-to-One (1:1)"
+            },
+            {
+              "label": "B",
+              "text": "One-to-Many (1:N)"
+            },
+            {
+              "label": "C",
+              "text": "Many-to-Many (M:N)"
+            },
+            {
+              "label": "D",
+              "text": "Many-to-One (N:1)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "One-to-One (1:1)",
+          "explanation": "Each citizen possesses exactly one legal National ID card, and each NID belongs to exactly one citizen, creating a strict One-to-One (1:1) relationship.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-017",
+          "question": "A relationship where one Department can employ many Employees, but each Employee belongs to only one Department, is:",
+          "options": [
+            {
+              "label": "A",
+              "text": "One-to-Many (1:N)"
+            },
+            {
+              "label": "B",
+              "text": "One-to-One (1:1)"
+            },
+            {
+              "label": "C",
+              "text": "Many-to-Many (M:N)"
+            },
+            {
+              "label": "D",
+              "text": "Circular Relationship"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "One-to-Many (1:N)",
+          "explanation": "A single department contains multiple employees, while each worker reports to a single department, defining a classic One-to-Many (1:N) relationship.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-018",
+          "question": "In a university where one student can enroll in multiple courses and one course can be taken by multiple students, what is the relationship?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Many-to-Many (M:N)"
+            },
+            {
+              "label": "B",
+              "text": "One-to-One (1:1)"
+            },
+            {
+              "label": "C",
+              "text": "One-to-Many (1:N)"
+            },
+            {
+              "label": "D",
+              "text": "Zero-to-One"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Many-to-Many (M:N)",
+          "explanation": "Because multiple entities on both sides are linked to multiple entities on the other, this constitutes a Many-to-Many (M:N) relationship.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-019",
+          "question": "How is a Many-to-Many (M:N) relationship practically implemented inside a Relational Database (RDBMS)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By breaking it into two One-to-Many (1:N) relationships using an intermediary Junction (Bridge) Table"
+            },
+            {
+              "label": "B",
+              "text": "By storing all courses in a single comma-separated text column"
+            },
+            {
+              "label": "C",
+              "text": "By duplicating student records 100 times"
+            },
+            {
+              "label": "D",
+              "text": "By deleting the foreign keys"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By breaking it into two One-to-Many (1:N) relationships using an intermediary Junction (Bridge) Table",
+          "explanation": "RDBMS cannot directly link M:N tables without redundancy; an intermediate junction (or associative) table containing foreign keys from both tables resolves it into two 1:N relations.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT06-MCQ-020",
+          "question": "What database rule prevents entering a Foreign Key value that does not exist in the referenced parent table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Referential Integrity Constraint"
+            },
+            {
+              "label": "B",
+              "text": "Entity Integrity Constraint"
+            },
+            {
+              "label": "C",
+              "text": "Domain Constraint"
+            },
+            {
+              "label": "D",
+              "text": "Semantic Rule"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Referential Integrity Constraint",
+          "explanation": "Referential integrity requires that any foreign key field must match a valid, existing primary key in the parent table or be left NULL.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "SQL Overview and Data Definition Language (DDL)",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-021",
+          "question": "What does the abbreviation SQL stand for in database systems?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Structured Query Language"
+            },
+            {
+              "label": "B",
+              "text": "Simple Question Language"
+            },
+            {
+              "label": "C",
+              "text": "Sequential Query Logic"
+            },
+            {
+              "label": "D",
+              "text": "Standard Qualified Language"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Structured Query Language",
+          "explanation": "SQL stands for Structured Query Language, the standardized query language used worldwide to interact with relational database systems.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-022",
+          "question": "Which category of SQL commands is used to define, modify, or remove database structures and table schemas?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DDL (Data Definition Language)"
+            },
+            {
+              "label": "B",
+              "text": "DML (Data Manipulation Language)"
+            },
+            {
+              "label": "C",
+              "text": "DCL (Data Control Language)"
+            },
+            {
+              "label": "D",
+              "text": "TCL (Transaction Control Language)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DDL (Data Definition Language)",
+          "explanation": "DDL commands (such as CREATE, ALTER, DROP) manage the structure/schema of database objects rather than the actual record contents.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-023",
+          "question": "Which SQL DDL statement is used to permanently remove an entire table structure along with all its data from the database?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DROP TABLE"
+            },
+            {
+              "label": "B",
+              "text": "DELETE TABLE"
+            },
+            {
+              "label": "C",
+              "text": "REMOVE TABLE"
+            },
+            {
+              "label": "D",
+              "text": "TRUNCATE SCHEMA"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DROP TABLE",
+          "explanation": "`DROP TABLE table_name;` permanently erases the table structure, its schema definition, indexes, and all stored data.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-024",
+          "question": "Which SQL statement is used to add a new column to an existing table without deleting the table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ALTER TABLE"
+            },
+            {
+              "label": "B",
+              "text": "UPDATE TABLE"
+            },
+            {
+              "label": "C",
+              "text": "MODIFY SCHEMA"
+            },
+            {
+              "label": "D",
+              "text": "INSERT COLUMN"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ALTER TABLE",
+          "explanation": "The `ALTER TABLE` statement allows developers to modify the table definition (e.g. `ALTER TABLE Students ADD Email VARCHAR(50);`).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-025",
+          "question": "What is the crucial difference between DROP TABLE and TRUNCATE TABLE in SQL?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DROP removes the table structure entirely, while TRUNCATE empties all records but preserves the empty table structure"
+            },
+            {
+              "label": "B",
+              "text": "TRUNCATE only deletes the primary key"
+            },
+            {
+              "label": "C",
+              "text": "DROP cannot delete tables containing numbers"
+            },
+            {
+              "label": "D",
+              "text": "TRUNCATE is a DML statement while DROP is DCL"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DROP removes the table structure entirely, while TRUNCATE empties all records but preserves the empty table structure",
+          "explanation": "`DROP TABLE` discards the entire relation definition; `TRUNCATE TABLE` rapidly purges all data rows while leaving the table schema intact for future inserts.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "SQL Data Manipulation Language (DML)",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-026",
+          "question": "Which SQL command is used to retrieve data records from one or more database tables?",
+          "options": [
+            {
+              "label": "A",
+              "text": "SELECT"
+            },
+            {
+              "label": "B",
+              "text": "FETCH"
+            },
+            {
+              "label": "C",
+              "text": "GET"
+            },
+            {
+              "label": "D",
+              "text": "EXTRACT"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "SELECT",
+          "explanation": "The `SELECT` statement is the primary query command in SQL used to query and retrieve data rows from database tables.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-027",
+          "question": "Which SQL statement is used to add new rows of data into a database table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "INSERT INTO"
+            },
+            {
+              "label": "B",
+              "text": "ADD RECORD"
+            },
+            {
+              "label": "C",
+              "text": "APPEND ROW"
+            },
+            {
+              "label": "D",
+              "text": "CREATE ROW"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "INSERT INTO",
+          "explanation": "`INSERT INTO table_name VALUES (...);` inserts new record rows into the specified table.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-028",
+          "question": "Which SQL statement is used to modify existing data values in one or more records?",
+          "options": [
+            {
+              "label": "A",
+              "text": "UPDATE"
+            },
+            {
+              "label": "B",
+              "text": "MODIFY"
+            },
+            {
+              "label": "C",
+              "text": "CHANGE"
+            },
+            {
+              "label": "D",
+              "text": "ALTER"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "UPDATE",
+          "explanation": "The `UPDATE table_name SET col = val WHERE condition;` command modifies existing values in table records.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-029",
+          "question": "What happens if an 'UPDATE' or 'DELETE' statement is executed WITHOUT specifying a 'WHERE' clause?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The change or deletion applies to EVERY record in the table"
+            },
+            {
+              "label": "B",
+              "text": "Only the first record is updated or deleted"
+            },
+            {
+              "label": "C",
+              "text": "The query aborts automatically with a syntax error"
+            },
+            {
+              "label": "D",
+              "text": "The entire database server shuts down"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The change or deletion applies to EVERY record in the table",
+          "explanation": "Without a `WHERE` filter condition, an `UPDATE` updates every row, and a `DELETE` deletes all rows from the table.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-030",
+          "question": "Which SQL command deletes specific rows matching a condition while keeping the table structure intact?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DELETE FROM"
+            },
+            {
+              "label": "B",
+              "text": "DROP"
+            },
+            {
+              "label": "C",
+              "text": "REMOVE"
+            },
+            {
+              "label": "D",
+              "text": "PURGE"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DELETE FROM",
+          "explanation": "`DELETE FROM table_name WHERE condition;` removes the specific records that satisfy the given predicate.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "SQL Filtering, Sorting and Clauses",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-031",
+          "question": "Which SQL clause is used to filter records and specify search conditions for queries?",
+          "options": [
+            {
+              "label": "A",
+              "text": "WHERE"
+            },
+            {
+              "label": "B",
+              "text": "ORDER BY"
+            },
+            {
+              "label": "C",
+              "text": "GROUP BY"
+            },
+            {
+              "label": "D",
+              "text": "FROM"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "WHERE",
+          "explanation": "The `WHERE` clause extracts only those records that satisfy a specified boolean test condition.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-032",
+          "question": "Which SQL clause sorts the retrieved result records in ascending or descending order?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ORDER BY"
+            },
+            {
+              "label": "B",
+              "text": "SORT BY"
+            },
+            {
+              "label": "C",
+              "text": "ARRANGE"
+            },
+            {
+              "label": "D",
+              "text": "FILTER"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ORDER BY",
+          "explanation": "The `ORDER BY` clause sorts query output (ascending `ASC` by default, or descending `DESC`).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-033",
+          "question": "Which SQL keyword eliminates duplicate records from the query result set?",
+          "options": [
+            {
+              "label": "A",
+              "text": "DISTINCT"
+            },
+            {
+              "label": "B",
+              "text": "UNIQUE"
+            },
+            {
+              "label": "C",
+              "text": "DIFFERENT"
+            },
+            {
+              "label": "D",
+              "text": "NO_DUPLICATE"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "DISTINCT",
+          "explanation": "`SELECT DISTINCT column_name FROM table;` returns only unique values, suppressing duplicate row entries.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-034",
+          "question": "In an SQL pattern matching query with the LIKE operator, what does the '%' wildcard represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zero, one, or multiple characters"
+            },
+            {
+              "label": "B",
+              "text": "Exactly one single character"
+            },
+            {
+              "label": "C",
+              "text": "Only numerical digits"
+            },
+            {
+              "label": "D",
+              "text": "An exact mathematical percentage"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Zero, one, or multiple characters",
+          "explanation": "In SQL `LIKE` expressions, `%` matches any string of zero or more characters, while `_` matches exactly one character.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-035",
+          "question": "Which SQL query correctly selects all students whose names begin with the letter 'R'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "SELECT * FROM Students WHERE Name LIKE 'R%';"
+            },
+            {
+              "label": "B",
+              "text": "SELECT * FROM Students WHERE Name = 'R*';"
+            },
+            {
+              "label": "C",
+              "text": "SELECT * FROM Students WHERE Name START 'R';"
+            },
+            {
+              "label": "D",
+              "text": "SELECT * FROM Students WHERE Name IN ('R');"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "SELECT * FROM Students WHERE Name LIKE 'R%';",
+          "explanation": "`LIKE 'R%'` matches any string starting with 'R' followed by any sequence of characters.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "SQL Aggregate Functions and Grouping",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-036",
+          "question": "Which SQL aggregate function counts the total number of rows matching the query criteria?",
+          "options": [
+            {
+              "label": "A",
+              "text": "COUNT()"
+            },
+            {
+              "label": "B",
+              "text": "SUM()"
+            },
+            {
+              "label": "C",
+              "text": "TOTAL()"
+            },
+            {
+              "label": "D",
+              "text": "NUMROWS()"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "COUNT()",
+          "explanation": "`COUNT(*)` or `COUNT(column)` returns the total number of rows meeting the query condition.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-037",
+          "question": "Which aggregate function calculates the arithmetic average of numeric values in a column?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AVG()"
+            },
+            {
+              "label": "B",
+              "text": "MEAN()"
+            },
+            {
+              "label": "C",
+              "text": "AVERAGE()"
+            },
+            {
+              "label": "D",
+              "text": "MID()"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "AVG()",
+          "explanation": "The `AVG()` function returns the arithmetic mean of all numeric values in a column, ignoring NULL entries.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-038",
+          "question": "Which clause is used in conjunction with aggregate functions to group rows sharing common values?",
+          "options": [
+            {
+              "label": "A",
+              "text": "GROUP BY"
+            },
+            {
+              "label": "B",
+              "text": "ORDER BY"
+            },
+            {
+              "label": "C",
+              "text": "CLUSTER BY"
+            },
+            {
+              "label": "D",
+              "text": "COMBINE BY"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "GROUP BY",
+          "explanation": "The `GROUP BY` clause groups rows having identical values in specified columns into summary rows (e.g., total salary by department).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-039",
+          "question": "Why is the 'HAVING' clause used instead of the 'WHERE' clause when filtering aggregated query results?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because the WHERE clause cannot be used with aggregate functions, while HAVING can"
+            },
+            {
+              "label": "B",
+              "text": "Because HAVING executes faster than WHERE on all queries"
+            },
+            {
+              "label": "C",
+              "text": "Because WHERE is only supported in Microsoft Access"
+            },
+            {
+              "label": "D",
+              "text": "Because HAVING only operates on character strings"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because the WHERE clause cannot be used with aggregate functions, while HAVING can",
+          "explanation": "`WHERE` filters individual rows before grouping occurs; `HAVING` filters grouped records after aggregation has been calculated.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT06-MCQ-040",
+          "question": "What is the result of SELECT MAX(Marks) FROM Exam;?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The highest mark scored in the Exam table"
+            },
+            {
+              "label": "B",
+              "text": "The average mark of all students"
+            },
+            {
+              "label": "C",
+              "text": "The total sum of all marks"
+            },
+            {
+              "label": "D",
+              "text": "The mark of the last enrolled student"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The highest mark scored in the Exam table",
+          "explanation": "The `MAX()` aggregate function evaluates all values in the column and returns the maximum (highest) value.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Data Normalization and Anomalies",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-041",
+          "question": "What is the primary objective of Data Normalization in relational database design?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To minimize data redundancy and eliminate update, insertion, and deletion anomalies"
+            },
+            {
+              "label": "B",
+              "text": "To merge all enterprise databases into one massive single table"
+            },
+            {
+              "label": "C",
+              "text": "To convert numeric numbers into roman numerals"
+            },
+            {
+              "label": "D",
+              "text": "To prevent any new tables from being added"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To minimize data redundancy and eliminate update, insertion, and deletion anomalies",
+          "explanation": "Normalization organizes fields and table relationships to reduce unnecessary data duplication and prevent inconsistencies during database updates.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-042",
+          "question": "A table is in First Normal Form (1NF) if and only if:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Every column contains only atomic (indivisible) values and there are no repeating groups"
+            },
+            {
+              "label": "B",
+              "text": "It has no foreign keys whatsoever"
+            },
+            {
+              "label": "C",
+              "text": "All data values are stored as integers"
+            },
+            {
+              "label": "D",
+              "text": "It contains at least ten tables"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Every column contains only atomic (indivisible) values and there are no repeating groups",
+          "explanation": "1NF requires that all column values are atomic (single, indivisible entries) and multi-valued attributes or repeating groups are eliminated.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-043",
+          "question": "What condition must a relation satisfy to achieve Second Normal Form (2NF)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It must be in 1NF and have NO partial dependency on a composite primary key"
+            },
+            {
+              "label": "B",
+              "text": "It must have no foreign keys"
+            },
+            {
+              "label": "C",
+              "text": "Every column must be unique"
+            },
+            {
+              "label": "D",
+              "text": "It must have only one row"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It must be in 1NF and have NO partial dependency on a composite primary key",
+          "explanation": "2NF requires 1NF compliance plus the removal of partial dependencies: every non-key attribute must depend fully on the complete primary key.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-044",
+          "question": "What type of dependency is eliminated to bring a table from 2NF into Third Normal Form (3NF)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Transitive Dependency (non-key field depending on another non-key field)"
+            },
+            {
+              "label": "B",
+              "text": "Partial Dependency"
+            },
+            {
+              "label": "C",
+              "text": "Atomic Dependency"
+            },
+            {
+              "label": "D",
+              "text": "Equi-join Dependency"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Transitive Dependency (non-key field depending on another non-key field)",
+          "explanation": "3NF eliminates transitive dependencies (where attribute A determines B, and B determines C, meaning A indirectly determines C).",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT06-MCQ-045",
+          "question": "When deleting a student record unintentionally wipes out the only record of an academic course, what anomaly has occurred?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Deletion Anomaly"
+            },
+            {
+              "label": "B",
+              "text": "Insertion Anomaly"
+            },
+            {
+              "label": "C",
+              "text": "Modification Anomaly"
+            },
+            {
+              "label": "D",
+              "text": "Concurrency Anomaly"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Deletion Anomaly",
+          "explanation": "A deletion anomaly occurs in unnormalized tables when deleting one set of data causes unintended and permanent loss of other unrelated data.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Database Indexing, Security and Access Control",
+      "questions": [
+        {
+          "id": "ICT06-MCQ-046",
+          "question": "What is the primary benefit of creating an Index on a database table column?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It significantly speeds up data search and retrieval queries"
+            },
+            {
+              "label": "B",
+              "text": "It reduces the amount of physical disk space needed"
+            },
+            {
+              "label": "C",
+              "text": "It automatically encrypts the entire operating system"
+            },
+            {
+              "label": "D",
+              "text": "It allows tables to function without a primary key"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It significantly speeds up data search and retrieval queries",
+          "explanation": "An index is a lookup data structure (like the index of a book) that allows the DBMS engine to locate specific rows quickly without scanning the entire table.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-047",
+          "question": "Which SQL command is used to provide database access privileges and permissions to users?",
+          "options": [
+            {
+              "label": "A",
+              "text": "GRANT"
+            },
+            {
+              "label": "B",
+              "text": "REVOKE"
+            },
+            {
+              "label": "C",
+              "text": "PERMIT"
+            },
+            {
+              "label": "D",
+              "text": "ALLOW"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "GRANT",
+          "explanation": "The `GRANT` command (a Data Control Language statement) assigns specific permissions (such as SELECT, INSERT, UPDATE) to designated database users.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT06-MCQ-048",
+          "question": "Which SQL command is used to withdraw previously granted permissions from a database user?",
+          "options": [
+            {
+              "label": "A",
+              "text": "REVOKE"
+            },
+            {
+              "label": "B",
+              "text": "DENY"
+            },
+            {
+              "label": "C",
+              "text": "CANCEL"
+            },
+            {
+              "label": "D",
+              "text": "REMOVE"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "REVOKE",
+          "explanation": "The `REVOKE` command withdraws previously assigned user privileges or permissions on database tables and objects.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT06-MCQ-049",
+          "question": "What is a potential trade-off or downside of adding too many indexes to a table?",
+          "options": [
+            {
+              "label": "A",
+              "text": "INSERT, UPDATE, and DELETE operations become slower because indexes must be updated each time"
+            },
+            {
+              "label": "B",
+              "text": "The database can no longer be backed up"
+            },
+            {
+              "label": "C",
+              "text": "All data becomes read-only permanently"
+            },
+            {
+              "label": "D",
+              "text": "Queries using SELECT stop functioning"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "INSERT, UPDATE, and DELETE operations become slower because indexes must be updated each time",
+          "explanation": "While indexes accelerate read queries (`SELECT`), each `INSERT`, `UPDATE`, or `DELETE` requires updating the index structures, introducing write overhead.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT06-MCQ-050",
+          "question": "A database where data is physically stored across multiple geographically separated computers connected by a network is called a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Distributed Database"
+            },
+            {
+              "label": "B",
+              "text": "Centralized Database"
+            },
+            {
+              "label": "C",
+              "text": "Flat File Database"
+            },
+            {
+              "label": "D",
+              "text": "Single-tier Database"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Distributed Database",
+          "explanation": "A distributed database stores and manages data across multiple physical host locations and servers connected via a computer network.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

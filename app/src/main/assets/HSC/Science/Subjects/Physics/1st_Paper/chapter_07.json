@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 7,
+  "chapter_title": "Structural Properties of Matter",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Elasticity",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ001",
+          "question": "Which statement best describes elasticity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force multiplied by area"
+            },
+            {
+              "label": "B",
+              "text": "Stress is force per unit area"
+            },
+            {
+              "label": "C",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "D",
+              "text": "extension per unit length"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Stress is force per unit area",
+          "explanation": "Stress = F/A and its SI unit is pascal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ002",
+          "question": "Which option is correctly associated with elasticity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "extension per unit length"
+            },
+            {
+              "label": "B",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "C",
+              "text": "Stress is force per unit area"
+            },
+            {
+              "label": "D",
+              "text": "force multiplied by area"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Stress is force per unit area",
+          "explanation": "Stress = F/A and its SI unit is pascal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ003",
+          "question": "In a basic HSC Physics question about elasticity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "extension per unit length"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by area"
+            },
+            {
+              "label": "C",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "D",
+              "text": "Stress is force per unit area"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Stress is force per unit area",
+          "explanation": "Stress = F/A and its SI unit is pascal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ004",
+          "question": "Which fact should be remembered about elasticity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force multiplied by area"
+            },
+            {
+              "label": "B",
+              "text": "extension per unit length"
+            },
+            {
+              "label": "C",
+              "text": "Stress is force per unit area"
+            },
+            {
+              "label": "D",
+              "text": "mass per unit volume"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Stress is force per unit area",
+          "explanation": "Stress = F/A and its SI unit is pascal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning elasticity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stress is force per unit area"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by area"
+            },
+            {
+              "label": "C",
+              "text": "mass per unit volume"
+            },
+            {
+              "label": "D",
+              "text": "extension per unit length"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Stress is force per unit area",
+          "explanation": "Stress = F/A and its SI unit is pascal.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Strain",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ006",
+          "question": "Which statement best describes strain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force divided by area"
+            },
+            {
+              "label": "B",
+              "text": "Longitudinal strain is change in length divided by original length"
+            },
+            {
+              "label": "C",
+              "text": "area divided by force"
+            },
+            {
+              "label": "D",
+              "text": "change in mass divided by length"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Longitudinal strain is change in length divided by original length",
+          "explanation": "Strain is a ratio and is dimensionless.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ007",
+          "question": "Which option is correctly associated with strain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force divided by area"
+            },
+            {
+              "label": "B",
+              "text": "change in mass divided by length"
+            },
+            {
+              "label": "C",
+              "text": "area divided by force"
+            },
+            {
+              "label": "D",
+              "text": "Longitudinal strain is change in length divided by original length"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Longitudinal strain is change in length divided by original length",
+          "explanation": "Strain is a ratio and is dimensionless.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ008",
+          "question": "In a basic HSC Physics question about strain, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "area divided by force"
+            },
+            {
+              "label": "B",
+              "text": "force divided by area"
+            },
+            {
+              "label": "C",
+              "text": "Longitudinal strain is change in length divided by original length"
+            },
+            {
+              "label": "D",
+              "text": "change in mass divided by length"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Longitudinal strain is change in length divided by original length",
+          "explanation": "Strain is a ratio and is dimensionless.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ009",
+          "question": "Which fact should be remembered about strain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Longitudinal strain is change in length divided by original length"
+            },
+            {
+              "label": "B",
+              "text": "change in mass divided by length"
+            },
+            {
+              "label": "C",
+              "text": "area divided by force"
+            },
+            {
+              "label": "D",
+              "text": "force divided by area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Longitudinal strain is change in length divided by original length",
+          "explanation": "Strain is a ratio and is dimensionless.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning strain?",
+          "options": [
+            {
+              "label": "A",
+              "text": "change in mass divided by length"
+            },
+            {
+              "label": "B",
+              "text": "force divided by area"
+            },
+            {
+              "label": "C",
+              "text": "Longitudinal strain is change in length divided by original length"
+            },
+            {
+              "label": "D",
+              "text": "area divided by force"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Longitudinal strain is change in length divided by original length",
+          "explanation": "Strain is a ratio and is dimensionless.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Hooke's law",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ011",
+          "question": "Which statement best describes hooke's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Within the proportional limit, stress is proportional to strain"
+            },
+            {
+              "label": "B",
+              "text": "stress is proportional to strain squared"
+            },
+            {
+              "label": "C",
+              "text": "strain is independent of stress"
+            },
+            {
+              "label": "D",
+              "text": "stress is always constant"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Within the proportional limit, stress is proportional to strain",
+          "explanation": "Hooke's law describes linear elastic behaviour within the proportional limit.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ012",
+          "question": "Which option is correctly associated with hooke's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Within the proportional limit, stress is proportional to strain"
+            },
+            {
+              "label": "B",
+              "text": "strain is independent of stress"
+            },
+            {
+              "label": "C",
+              "text": "stress is always constant"
+            },
+            {
+              "label": "D",
+              "text": "stress is proportional to strain squared"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Within the proportional limit, stress is proportional to strain",
+          "explanation": "Hooke's law describes linear elastic behaviour within the proportional limit.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ013",
+          "question": "In a basic HSC Physics question about hooke's law, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stress is proportional to strain squared"
+            },
+            {
+              "label": "B",
+              "text": "strain is independent of stress"
+            },
+            {
+              "label": "C",
+              "text": "stress is always constant"
+            },
+            {
+              "label": "D",
+              "text": "Within the proportional limit, stress is proportional to strain"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Within the proportional limit, stress is proportional to strain",
+          "explanation": "Hooke's law describes linear elastic behaviour within the proportional limit.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ014",
+          "question": "Which fact should be remembered about hooke's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "stress is proportional to strain squared"
+            },
+            {
+              "label": "B",
+              "text": "stress is always constant"
+            },
+            {
+              "label": "C",
+              "text": "Within the proportional limit, stress is proportional to strain"
+            },
+            {
+              "label": "D",
+              "text": "strain is independent of stress"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Within the proportional limit, stress is proportional to strain",
+          "explanation": "Hooke's law describes linear elastic behaviour within the proportional limit.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning hooke's law?",
+          "options": [
+            {
+              "label": "A",
+              "text": "strain is independent of stress"
+            },
+            {
+              "label": "B",
+              "text": "stress is proportional to strain squared"
+            },
+            {
+              "label": "C",
+              "text": "stress is always constant"
+            },
+            {
+              "label": "D",
+              "text": "Within the proportional limit, stress is proportional to strain"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Within the proportional limit, stress is proportional to strain",
+          "explanation": "Hooke's law describes linear elastic behaviour within the proportional limit.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Young's modulus",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ016",
+          "question": "Which statement best describes young's modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Young's modulus is longitudinal stress divided by longitudinal strain"
+            },
+            {
+              "label": "B",
+              "text": "strain divided by stress"
+            },
+            {
+              "label": "C",
+              "text": "force multiplied by length"
+            },
+            {
+              "label": "D",
+              "text": "pressure multiplied by volume"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Young's modulus is longitudinal stress divided by longitudinal strain",
+          "explanation": "Y = stress/strain; its SI unit is pascal.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ017",
+          "question": "Which option is correctly associated with young's modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure multiplied by volume"
+            },
+            {
+              "label": "B",
+              "text": "strain divided by stress"
+            },
+            {
+              "label": "C",
+              "text": "Young's modulus is longitudinal stress divided by longitudinal strain"
+            },
+            {
+              "label": "D",
+              "text": "force multiplied by length"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Young's modulus is longitudinal stress divided by longitudinal strain",
+          "explanation": "Y = stress/strain; its SI unit is pascal.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ018",
+          "question": "In a basic HSC Physics question about young's modulus, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Young's modulus is longitudinal stress divided by longitudinal strain"
+            },
+            {
+              "label": "B",
+              "text": "force multiplied by length"
+            },
+            {
+              "label": "C",
+              "text": "strain divided by stress"
+            },
+            {
+              "label": "D",
+              "text": "pressure multiplied by volume"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Young's modulus is longitudinal stress divided by longitudinal strain",
+          "explanation": "Y = stress/strain; its SI unit is pascal.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ019",
+          "question": "Which fact should be remembered about young's modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "strain divided by stress"
+            },
+            {
+              "label": "B",
+              "text": "pressure multiplied by volume"
+            },
+            {
+              "label": "C",
+              "text": "Young's modulus is longitudinal stress divided by longitudinal strain"
+            },
+            {
+              "label": "D",
+              "text": "force multiplied by length"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Young's modulus is longitudinal stress divided by longitudinal strain",
+          "explanation": "Y = stress/strain; its SI unit is pascal.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning young's modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "strain divided by stress"
+            },
+            {
+              "label": "B",
+              "text": "Young's modulus is longitudinal stress divided by longitudinal strain"
+            },
+            {
+              "label": "C",
+              "text": "pressure multiplied by volume"
+            },
+            {
+              "label": "D",
+              "text": "force multiplied by length"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Young's modulus is longitudinal stress divided by longitudinal strain",
+          "explanation": "Y = stress/strain; its SI unit is pascal.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Bulk modulus",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ021",
+          "question": "Which statement best describes bulk modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force to extension"
+            },
+            {
+              "label": "B",
+              "text": "Bulk modulus relates pressure change to volumetric strain"
+            },
+            {
+              "label": "C",
+              "text": "shear stress to angular strain"
+            },
+            {
+              "label": "D",
+              "text": "heat to temperature"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Bulk modulus relates pressure change to volumetric strain",
+          "explanation": "Bulk modulus measures resistance to uniform compression.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ022",
+          "question": "Which option is correctly associated with bulk modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force to extension"
+            },
+            {
+              "label": "B",
+              "text": "Bulk modulus relates pressure change to volumetric strain"
+            },
+            {
+              "label": "C",
+              "text": "heat to temperature"
+            },
+            {
+              "label": "D",
+              "text": "shear stress to angular strain"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Bulk modulus relates pressure change to volumetric strain",
+          "explanation": "Bulk modulus measures resistance to uniform compression.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ023",
+          "question": "In a basic HSC Physics question about bulk modulus, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "shear stress to angular strain"
+            },
+            {
+              "label": "B",
+              "text": "Bulk modulus relates pressure change to volumetric strain"
+            },
+            {
+              "label": "C",
+              "text": "force to extension"
+            },
+            {
+              "label": "D",
+              "text": "heat to temperature"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Bulk modulus relates pressure change to volumetric strain",
+          "explanation": "Bulk modulus measures resistance to uniform compression.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ024",
+          "question": "Which fact should be remembered about bulk modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heat to temperature"
+            },
+            {
+              "label": "B",
+              "text": "Bulk modulus relates pressure change to volumetric strain"
+            },
+            {
+              "label": "C",
+              "text": "shear stress to angular strain"
+            },
+            {
+              "label": "D",
+              "text": "force to extension"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Bulk modulus relates pressure change to volumetric strain",
+          "explanation": "Bulk modulus measures resistance to uniform compression.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning bulk modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force to extension"
+            },
+            {
+              "label": "B",
+              "text": "shear stress to angular strain"
+            },
+            {
+              "label": "C",
+              "text": "Bulk modulus relates pressure change to volumetric strain"
+            },
+            {
+              "label": "D",
+              "text": "heat to temperature"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Bulk modulus relates pressure change to volumetric strain",
+          "explanation": "Bulk modulus measures resistance to uniform compression.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Shear modulus",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ026",
+          "question": "Which statement best describes shear modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "longitudinal strain divided by stress"
+            },
+            {
+              "label": "B",
+              "text": "pressure divided by volume"
+            },
+            {
+              "label": "C",
+              "text": "Shear modulus is shear stress divided by shear strain"
+            },
+            {
+              "label": "D",
+              "text": "density divided by acceleration"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Shear modulus is shear stress divided by shear strain",
+          "explanation": "It measures resistance to shape change under shear.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ027",
+          "question": "Which option is correctly associated with shear modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "longitudinal strain divided by stress"
+            },
+            {
+              "label": "B",
+              "text": "Shear modulus is shear stress divided by shear strain"
+            },
+            {
+              "label": "C",
+              "text": "density divided by acceleration"
+            },
+            {
+              "label": "D",
+              "text": "pressure divided by volume"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Shear modulus is shear stress divided by shear strain",
+          "explanation": "It measures resistance to shape change under shear.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ028",
+          "question": "In a basic HSC Physics question about shear modulus, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "density divided by acceleration"
+            },
+            {
+              "label": "B",
+              "text": "longitudinal strain divided by stress"
+            },
+            {
+              "label": "C",
+              "text": "Shear modulus is shear stress divided by shear strain"
+            },
+            {
+              "label": "D",
+              "text": "pressure divided by volume"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Shear modulus is shear stress divided by shear strain",
+          "explanation": "It measures resistance to shape change under shear.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ029",
+          "question": "Which fact should be remembered about shear modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Shear modulus is shear stress divided by shear strain"
+            },
+            {
+              "label": "B",
+              "text": "density divided by acceleration"
+            },
+            {
+              "label": "C",
+              "text": "longitudinal strain divided by stress"
+            },
+            {
+              "label": "D",
+              "text": "pressure divided by volume"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Shear modulus is shear stress divided by shear strain",
+          "explanation": "It measures resistance to shape change under shear.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning shear modulus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "longitudinal strain divided by stress"
+            },
+            {
+              "label": "B",
+              "text": "pressure divided by volume"
+            },
+            {
+              "label": "C",
+              "text": "Shear modulus is shear stress divided by shear strain"
+            },
+            {
+              "label": "D",
+              "text": "density divided by acceleration"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Shear modulus is shear stress divided by shear strain",
+          "explanation": "It measures resistance to shape change under shear.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Surface tension",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ031",
+          "question": "Which statement best describes surface tension?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force per unit volume"
+            },
+            {
+              "label": "B",
+              "text": "Surface tension is force per unit length along a liquid surface"
+            },
+            {
+              "label": "C",
+              "text": "pressure per unit time"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Surface tension is force per unit length along a liquid surface",
+          "explanation": "Surface tension has SI unit N m■¹.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ032",
+          "question": "Which option is correctly associated with surface tension?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure per unit time"
+            },
+            {
+              "label": "B",
+              "text": "energy per unit mass"
+            },
+            {
+              "label": "C",
+              "text": "Surface tension is force per unit length along a liquid surface"
+            },
+            {
+              "label": "D",
+              "text": "force per unit volume"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Surface tension is force per unit length along a liquid surface",
+          "explanation": "Surface tension has SI unit N m■¹.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ033",
+          "question": "In a basic HSC Physics question about surface tension, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure per unit time"
+            },
+            {
+              "label": "B",
+              "text": "force per unit volume"
+            },
+            {
+              "label": "C",
+              "text": "Surface tension is force per unit length along a liquid surface"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Surface tension is force per unit length along a liquid surface",
+          "explanation": "Surface tension has SI unit N m■¹.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ034",
+          "question": "Which fact should be remembered about surface tension?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force per unit volume"
+            },
+            {
+              "label": "B",
+              "text": "Surface tension is force per unit length along a liquid surface"
+            },
+            {
+              "label": "C",
+              "text": "pressure per unit time"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit mass"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Surface tension is force per unit length along a liquid surface",
+          "explanation": "Surface tension has SI unit N m■¹.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning surface tension?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pressure per unit time"
+            },
+            {
+              "label": "B",
+              "text": "force per unit volume"
+            },
+            {
+              "label": "C",
+              "text": "Surface tension is force per unit length along a liquid surface"
+            },
+            {
+              "label": "D",
+              "text": "energy per unit mass"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Surface tension is force per unit length along a liquid surface",
+          "explanation": "Surface tension has SI unit N m■¹.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Capillarity",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ036",
+          "question": "Which statement best describes capillarity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "liquid density is zero"
+            },
+            {
+              "label": "B",
+              "text": "the tube creates additional liquid"
+            },
+            {
+              "label": "C",
+              "text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting"
+            },
+            {
+              "label": "D",
+              "text": "gravity is absent"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting",
+          "explanation": "Capillary rise depends on surface tension, contact angle, tube radius and density.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ037",
+          "question": "Which option is correctly associated with capillarity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity is absent"
+            },
+            {
+              "label": "B",
+              "text": "the tube creates additional liquid"
+            },
+            {
+              "label": "C",
+              "text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting"
+            },
+            {
+              "label": "D",
+              "text": "liquid density is zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting",
+          "explanation": "Capillary rise depends on surface tension, contact angle, tube radius and density.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ038",
+          "question": "In a basic HSC Physics question about capillarity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting"
+            },
+            {
+              "label": "B",
+              "text": "gravity is absent"
+            },
+            {
+              "label": "C",
+              "text": "liquid density is zero"
+            },
+            {
+              "label": "D",
+              "text": "the tube creates additional liquid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting",
+          "explanation": "Capillary rise depends on surface tension, contact angle, tube radius and density.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ039",
+          "question": "Which fact should be remembered about capillarity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the tube creates additional liquid"
+            },
+            {
+              "label": "B",
+              "text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting"
+            },
+            {
+              "label": "C",
+              "text": "gravity is absent"
+            },
+            {
+              "label": "D",
+              "text": "liquid density is zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting",
+          "explanation": "Capillary rise depends on surface tension, contact angle, tube radius and density.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning capillarity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "liquid density is zero"
+            },
+            {
+              "label": "B",
+              "text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting"
+            },
+            {
+              "label": "C",
+              "text": "the tube creates additional liquid"
+            },
+            {
+              "label": "D",
+              "text": "gravity is absent"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A liquid rises in a narrow tube when adhesive effects and surface tension favour upward wetting",
+          "explanation": "Capillary rise depends on surface tension, contact angle, tube radius and density.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Viscosity",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ041",
+          "question": "Which statement best describes viscosity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers"
+            },
+            {
+              "label": "B",
+              "text": "its mass only"
+            },
+            {
+              "label": "C",
+              "text": "its ability to conduct electricity"
+            },
+            {
+              "label": "D",
+              "text": "its surface colour"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers",
+          "explanation": "Viscosity is internal fluid friction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ042",
+          "question": "Which option is correctly associated with viscosity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers"
+            },
+            {
+              "label": "B",
+              "text": "its mass only"
+            },
+            {
+              "label": "C",
+              "text": "its surface colour"
+            },
+            {
+              "label": "D",
+              "text": "its ability to conduct electricity"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers",
+          "explanation": "Viscosity is internal fluid friction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ043",
+          "question": "In a basic HSC Physics question about viscosity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its ability to conduct electricity"
+            },
+            {
+              "label": "B",
+              "text": "its surface colour"
+            },
+            {
+              "label": "C",
+              "text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers"
+            },
+            {
+              "label": "D",
+              "text": "its mass only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers",
+          "explanation": "Viscosity is internal fluid friction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ044",
+          "question": "Which fact should be remembered about viscosity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers"
+            },
+            {
+              "label": "B",
+              "text": "its ability to conduct electricity"
+            },
+            {
+              "label": "C",
+              "text": "its mass only"
+            },
+            {
+              "label": "D",
+              "text": "its surface colour"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers",
+          "explanation": "Viscosity is internal fluid friction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning viscosity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers"
+            },
+            {
+              "label": "B",
+              "text": "its mass only"
+            },
+            {
+              "label": "C",
+              "text": "its ability to conduct electricity"
+            },
+            {
+              "label": "D",
+              "text": "its surface colour"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Viscosity measures a fluid's resistance to relative motion between adjacent layers",
+          "explanation": "Viscosity is internal fluid friction.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Fluid pressure",
+      "questions": [
+        {
+          "id": "PHY_1P_CH07_MCQ046",
+          "question": "Which statement best describes fluid pressure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "p = ρg/h"
+            },
+            {
+              "label": "B",
+              "text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh"
+            },
+            {
+              "label": "C",
+              "text": "p = p■ − ρgh in all cases"
+            },
+            {
+              "label": "D",
+              "text": "p = ρh/g"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh",
+          "explanation": "Hydrostatic pressure increases with depth because of the weight of fluid above.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ047",
+          "question": "Which option is correctly associated with fluid pressure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "p = p■ − ρgh in all cases"
+            },
+            {
+              "label": "B",
+              "text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh"
+            },
+            {
+              "label": "C",
+              "text": "p = ρg/h"
+            },
+            {
+              "label": "D",
+              "text": "p = ρh/g"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh",
+          "explanation": "Hydrostatic pressure increases with depth because of the weight of fluid above.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ048",
+          "question": "In a basic HSC Physics question about fluid pressure, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "p = ρg/h"
+            },
+            {
+              "label": "B",
+              "text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh"
+            },
+            {
+              "label": "C",
+              "text": "p = p■ − ρgh in all cases"
+            },
+            {
+              "label": "D",
+              "text": "p = ρh/g"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh",
+          "explanation": "Hydrostatic pressure increases with depth because of the weight of fluid above.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ049",
+          "question": "Which fact should be remembered about fluid pressure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "p = ρh/g"
+            },
+            {
+              "label": "B",
+              "text": "p = p■ − ρgh in all cases"
+            },
+            {
+              "label": "C",
+              "text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh"
+            },
+            {
+              "label": "D",
+              "text": "p = ρg/h"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh",
+          "explanation": "Hydrostatic pressure increases with depth because of the weight of fluid above.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH07_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning fluid pressure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "p = p■ − ρgh in all cases"
+            },
+            {
+              "label": "B",
+              "text": "p = ρg/h"
+            },
+            {
+              "label": "C",
+              "text": "p = ρh/g"
+            },
+            {
+              "label": "D",
+              "text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Pressure in a static fluid increases with depth according to p = p■ + ρgh",
+          "explanation": "Hydrostatic pressure increases with depth because of the weight of fluid above.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

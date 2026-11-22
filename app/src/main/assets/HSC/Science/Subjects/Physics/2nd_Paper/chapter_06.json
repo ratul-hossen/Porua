@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 6,
+  "chapter_title": "Geometrical Optics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Reflection",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ001",
+          "question": "Which statement best describes reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The angle of incidence equals the angle of reflection"
+            },
+            {
+              "label": "B",
+              "text": "angles are measured from the surface"
+            },
+            {
+              "label": "C",
+              "text": "reflection requires a curved mirror"
+            },
+            {
+              "label": "D",
+              "text": "angle of incidence is twice reflection"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The angle of incidence equals the angle of reflection",
+          "explanation": "Both angles are measured from the normal to the reflecting surface.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ002",
+          "question": "Which option is correctly associated with reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "angle of incidence is twice reflection"
+            },
+            {
+              "label": "B",
+              "text": "angles are measured from the surface"
+            },
+            {
+              "label": "C",
+              "text": "The angle of incidence equals the angle of reflection"
+            },
+            {
+              "label": "D",
+              "text": "reflection requires a curved mirror"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The angle of incidence equals the angle of reflection",
+          "explanation": "Both angles are measured from the normal to the reflecting surface.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ003",
+          "question": "In a basic HSC Physics question about reflection, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "angle of incidence is twice reflection"
+            },
+            {
+              "label": "B",
+              "text": "The angle of incidence equals the angle of reflection"
+            },
+            {
+              "label": "C",
+              "text": "reflection requires a curved mirror"
+            },
+            {
+              "label": "D",
+              "text": "angles are measured from the surface"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The angle of incidence equals the angle of reflection",
+          "explanation": "Both angles are measured from the normal to the reflecting surface.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ004",
+          "question": "Which fact should be remembered about reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "angles are measured from the surface"
+            },
+            {
+              "label": "B",
+              "text": "angle of incidence is twice reflection"
+            },
+            {
+              "label": "C",
+              "text": "reflection requires a curved mirror"
+            },
+            {
+              "label": "D",
+              "text": "The angle of incidence equals the angle of reflection"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The angle of incidence equals the angle of reflection",
+          "explanation": "Both angles are measured from the normal to the reflecting surface.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The angle of incidence equals the angle of reflection"
+            },
+            {
+              "label": "B",
+              "text": "angles are measured from the surface"
+            },
+            {
+              "label": "C",
+              "text": "reflection requires a curved mirror"
+            },
+            {
+              "label": "D",
+              "text": "angle of incidence is twice reflection"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The angle of incidence equals the angle of reflection",
+          "explanation": "Both angles are measured from the normal to the reflecting surface.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Refraction",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ006",
+          "question": "Which statement best describes refraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "n■/n■ = sin r/sin i"
+            },
+            {
+              "label": "B",
+              "text": "n■ cos i = n■ cos r"
+            },
+            {
+              "label": "C",
+              "text": "Snell's law is n■ sin i = n■ sin r"
+            },
+            {
+              "label": "D",
+              "text": "n■i = n■r in all cases"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Snell's law is n■ sin i = n■ sin r",
+          "explanation": "Snell's law relates incident and refracted angles to refractive indices.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ007",
+          "question": "Which option is correctly associated with refraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "n■ cos i = n■ cos r"
+            },
+            {
+              "label": "B",
+              "text": "n■/n■ = sin r/sin i"
+            },
+            {
+              "label": "C",
+              "text": "Snell's law is n■ sin i = n■ sin r"
+            },
+            {
+              "label": "D",
+              "text": "n■i = n■r in all cases"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Snell's law is n■ sin i = n■ sin r",
+          "explanation": "Snell's law relates incident and refracted angles to refractive indices.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ008",
+          "question": "In a basic HSC Physics question about refraction, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "n■ cos i = n■ cos r"
+            },
+            {
+              "label": "B",
+              "text": "n■i = n■r in all cases"
+            },
+            {
+              "label": "C",
+              "text": "Snell's law is n■ sin i = n■ sin r"
+            },
+            {
+              "label": "D",
+              "text": "n■/n■ = sin r/sin i"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Snell's law is n■ sin i = n■ sin r",
+          "explanation": "Snell's law relates incident and refracted angles to refractive indices.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ009",
+          "question": "Which fact should be remembered about refraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Snell's law is n■ sin i = n■ sin r"
+            },
+            {
+              "label": "B",
+              "text": "n■ cos i = n■ cos r"
+            },
+            {
+              "label": "C",
+              "text": "n■/n■ = sin r/sin i"
+            },
+            {
+              "label": "D",
+              "text": "n■i = n■r in all cases"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Snell's law is n■ sin i = n■ sin r",
+          "explanation": "Snell's law relates incident and refracted angles to refractive indices.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning refraction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "n■i = n■r in all cases"
+            },
+            {
+              "label": "B",
+              "text": "n■ cos i = n■ cos r"
+            },
+            {
+              "label": "C",
+              "text": "n■/n■ = sin r/sin i"
+            },
+            {
+              "label": "D",
+              "text": "Snell's law is n■ sin i = n■ sin r"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Snell's law is n■ sin i = n■ sin r",
+          "explanation": "Snell's law relates incident and refracted angles to refractive indices.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Refractive index",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ011",
+          "question": "Which statement best describes refractive index?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cv"
+            },
+            {
+              "label": "B",
+              "text": "c + v"
+            },
+            {
+              "label": "C",
+              "text": "v/c"
+            },
+            {
+              "label": "D",
+              "text": "The absolute refractive index is n = c/v"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The absolute refractive index is n = c/v",
+          "explanation": "Refractive index compares light speed in vacuum with its speed in the medium.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ012",
+          "question": "Which option is correctly associated with refractive index?",
+          "options": [
+            {
+              "label": "A",
+              "text": "c + v"
+            },
+            {
+              "label": "B",
+              "text": "v/c"
+            },
+            {
+              "label": "C",
+              "text": "cv"
+            },
+            {
+              "label": "D",
+              "text": "The absolute refractive index is n = c/v"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The absolute refractive index is n = c/v",
+          "explanation": "Refractive index compares light speed in vacuum with its speed in the medium.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ013",
+          "question": "In a basic HSC Physics question about refractive index, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cv"
+            },
+            {
+              "label": "B",
+              "text": "c + v"
+            },
+            {
+              "label": "C",
+              "text": "The absolute refractive index is n = c/v"
+            },
+            {
+              "label": "D",
+              "text": "v/c"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The absolute refractive index is n = c/v",
+          "explanation": "Refractive index compares light speed in vacuum with its speed in the medium.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ014",
+          "question": "Which fact should be remembered about refractive index?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The absolute refractive index is n = c/v"
+            },
+            {
+              "label": "B",
+              "text": "c + v"
+            },
+            {
+              "label": "C",
+              "text": "cv"
+            },
+            {
+              "label": "D",
+              "text": "v/c"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The absolute refractive index is n = c/v",
+          "explanation": "Refractive index compares light speed in vacuum with its speed in the medium.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning refractive index?",
+          "options": [
+            {
+              "label": "A",
+              "text": "c + v"
+            },
+            {
+              "label": "B",
+              "text": "The absolute refractive index is n = c/v"
+            },
+            {
+              "label": "C",
+              "text": "cv"
+            },
+            {
+              "label": "D",
+              "text": "v/c"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The absolute refractive index is n = c/v",
+          "explanation": "Refractive index compares light speed in vacuum with its speed in the medium.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Total internal reflection",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ016",
+          "question": "Which statement best describes total internal reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only at normal incidence"
+            },
+            {
+              "label": "B",
+              "text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence exceeds the critical angle"
+            },
+            {
+              "label": "C",
+              "text": "from lower to higher index at any angle"
+            },
+            {
+              "label": "D",
+              "text": "only in vacuum"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence",
+          "explanation": "Both conditions are required for total internal reflection.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ017",
+          "question": "Which option is correctly associated with total internal reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence exceeds the critical angle"
+            },
+            {
+              "label": "B",
+              "text": "only at normal incidence"
+            },
+            {
+              "label": "C",
+              "text": "from lower to higher index at any angle"
+            },
+            {
+              "label": "D",
+              "text": "only in vacuum"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence",
+          "explanation": "Both conditions are required for total internal reflection.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ018",
+          "question": "In a basic HSC Physics question about total internal reflection, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only in vacuum"
+            },
+            {
+              "label": "B",
+              "text": "only at normal incidence"
+            },
+            {
+              "label": "C",
+              "text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence exceeds the critical angle"
+            },
+            {
+              "label": "D",
+              "text": "from lower to higher index at any angle"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence",
+          "explanation": "Both conditions are required for total internal reflection.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ019",
+          "question": "Which fact should be remembered about total internal reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "from lower to higher index at any angle"
+            },
+            {
+              "label": "B",
+              "text": "only at normal incidence"
+            },
+            {
+              "label": "C",
+              "text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence exceeds the critical angle"
+            },
+            {
+              "label": "D",
+              "text": "only in vacuum"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence",
+          "explanation": "Both conditions are required for total internal reflection.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning total internal reflection?",
+          "options": [
+            {
+              "label": "A",
+              "text": "only in vacuum"
+            },
+            {
+              "label": "B",
+              "text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence exceeds the critical angle"
+            },
+            {
+              "label": "C",
+              "text": "only at normal incidence"
+            },
+            {
+              "label": "D",
+              "text": "from lower to higher index at any angle"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Total internal reflection occurs when light travels from higher to lower refractive index and incidence",
+          "explanation": "Both conditions are required for total internal reflection.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Critical angle",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ021",
+          "question": "Which statement best describes critical angle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a medium-to-air boundary, sin C = 1/n"
+            },
+            {
+              "label": "B",
+              "text": "tan C = n"
+            },
+            {
+              "label": "C",
+              "text": "sin C = n"
+            },
+            {
+              "label": "D",
+              "text": "cos C = 1/n²"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a medium-to-air boundary, sin C = 1/n",
+          "explanation": "At the critical angle, the refracted ray travels along the boundary.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ022",
+          "question": "Which option is correctly associated with critical angle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tan C = n"
+            },
+            {
+              "label": "B",
+              "text": "sin C = n"
+            },
+            {
+              "label": "C",
+              "text": "cos C = 1/n²"
+            },
+            {
+              "label": "D",
+              "text": "For a medium-to-air boundary, sin C = 1/n"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a medium-to-air boundary, sin C = 1/n",
+          "explanation": "At the critical angle, the refracted ray travels along the boundary.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ023",
+          "question": "In a basic HSC Physics question about critical angle, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a medium-to-air boundary, sin C = 1/n"
+            },
+            {
+              "label": "B",
+              "text": "sin C = n"
+            },
+            {
+              "label": "C",
+              "text": "cos C = 1/n²"
+            },
+            {
+              "label": "D",
+              "text": "tan C = n"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a medium-to-air boundary, sin C = 1/n",
+          "explanation": "At the critical angle, the refracted ray travels along the boundary.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ024",
+          "question": "Which fact should be remembered about critical angle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "tan C = n"
+            },
+            {
+              "label": "B",
+              "text": "sin C = n"
+            },
+            {
+              "label": "C",
+              "text": "cos C = 1/n²"
+            },
+            {
+              "label": "D",
+              "text": "For a medium-to-air boundary, sin C = 1/n"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a medium-to-air boundary, sin C = 1/n",
+          "explanation": "At the critical angle, the refracted ray travels along the boundary.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning critical angle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sin C = n"
+            },
+            {
+              "label": "B",
+              "text": "cos C = 1/n²"
+            },
+            {
+              "label": "C",
+              "text": "tan C = n"
+            },
+            {
+              "label": "D",
+              "text": "For a medium-to-air boundary, sin C = 1/n"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a medium-to-air boundary, sin C = 1/n",
+          "explanation": "At the critical angle, the refracted ray travels along the boundary.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Spherical mirrors",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ026",
+          "question": "Which statement best describes spherical mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The focal length of a spherical mirror is half its radius of curvature in magnitude"
+            },
+            {
+              "label": "B",
+              "text": "equal to radius"
+            },
+            {
+              "label": "C",
+              "text": "twice radius"
+            },
+            {
+              "label": "D",
+              "text": "one quarter radius"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The focal length of a spherical mirror is half its radius of curvature in magnitude",
+          "explanation": "For a paraxial spherical mirror, f = R/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ027",
+          "question": "Which option is correctly associated with spherical mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "twice radius"
+            },
+            {
+              "label": "B",
+              "text": "one quarter radius"
+            },
+            {
+              "label": "C",
+              "text": "The focal length of a spherical mirror is half its radius of curvature in magnitude"
+            },
+            {
+              "label": "D",
+              "text": "equal to radius"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The focal length of a spherical mirror is half its radius of curvature in magnitude",
+          "explanation": "For a paraxial spherical mirror, f = R/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ028",
+          "question": "In a basic HSC Physics question about spherical mirrors, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The focal length of a spherical mirror is half its radius of curvature in magnitude"
+            },
+            {
+              "label": "B",
+              "text": "one quarter radius"
+            },
+            {
+              "label": "C",
+              "text": "twice radius"
+            },
+            {
+              "label": "D",
+              "text": "equal to radius"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The focal length of a spherical mirror is half its radius of curvature in magnitude",
+          "explanation": "For a paraxial spherical mirror, f = R/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ029",
+          "question": "Which fact should be remembered about spherical mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The focal length of a spherical mirror is half its radius of curvature in magnitude"
+            },
+            {
+              "label": "B",
+              "text": "equal to radius"
+            },
+            {
+              "label": "C",
+              "text": "twice radius"
+            },
+            {
+              "label": "D",
+              "text": "one quarter radius"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The focal length of a spherical mirror is half its radius of curvature in magnitude",
+          "explanation": "For a paraxial spherical mirror, f = R/2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning spherical mirrors?",
+          "options": [
+            {
+              "label": "A",
+              "text": "twice radius"
+            },
+            {
+              "label": "B",
+              "text": "equal to radius"
+            },
+            {
+              "label": "C",
+              "text": "The focal length of a spherical mirror is half its radius of curvature in magnitude"
+            },
+            {
+              "label": "D",
+              "text": "one quarter radius"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The focal length of a spherical mirror is half its radius of curvature in magnitude",
+          "explanation": "For a paraxial spherical mirror, f = R/2.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Thin lens",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ031",
+          "question": "Which statement best describes thin lens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention"
+            },
+            {
+              "label": "B",
+              "text": "1/f = u + v"
+            },
+            {
+              "label": "C",
+              "text": "f = uv"
+            },
+            {
+              "label": "D",
+              "text": "1/f = 1/u + 1/v under every convention"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention",
+          "explanation": "The exact signs depend on the convention; this is the common Cartesian form.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ032",
+          "question": "Which option is correctly associated with thin lens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/f = 1/u + 1/v under every convention"
+            },
+            {
+              "label": "B",
+              "text": "f = uv"
+            },
+            {
+              "label": "C",
+              "text": "1/f = u + v"
+            },
+            {
+              "label": "D",
+              "text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention",
+          "explanation": "The exact signs depend on the convention; this is the common Cartesian form.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ033",
+          "question": "In a basic HSC Physics question about thin lens, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "f = uv"
+            },
+            {
+              "label": "B",
+              "text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention"
+            },
+            {
+              "label": "C",
+              "text": "1/f = 1/u + 1/v under every convention"
+            },
+            {
+              "label": "D",
+              "text": "1/f = u + v"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention",
+          "explanation": "The exact signs depend on the convention; this is the common Cartesian form.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ034",
+          "question": "Which fact should be remembered about thin lens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/f = u + v"
+            },
+            {
+              "label": "B",
+              "text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention"
+            },
+            {
+              "label": "C",
+              "text": "f = uv"
+            },
+            {
+              "label": "D",
+              "text": "1/f = 1/u + 1/v under every convention"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention",
+          "explanation": "The exact signs depend on the convention; this is the common Cartesian form.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning thin lens?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1/f = u + v"
+            },
+            {
+              "label": "B",
+              "text": "1/f = 1/u + 1/v under every convention"
+            },
+            {
+              "label": "C",
+              "text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention"
+            },
+            {
+              "label": "D",
+              "text": "f = uv"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The thin lens formula is 1/f = 1/v − 1/u under the Cartesian sign convention",
+          "explanation": "The exact signs depend on the convention; this is the common Cartesian form.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Lens power",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ036",
+          "question": "Which statement best describes lens power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The power of a lens in dioptres is the reciprocal of focal length in metres"
+            },
+            {
+              "label": "B",
+              "text": "focal length squared"
+            },
+            {
+              "label": "C",
+              "text": "twice focal length"
+            },
+            {
+              "label": "D",
+              "text": "focal length in centimetres"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The power of a lens in dioptres is the reciprocal of focal length in metres",
+          "explanation": "P = 1/f, with f in metres; converging lenses have positive power.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ037",
+          "question": "Which option is correctly associated with lens power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "focal length in centimetres"
+            },
+            {
+              "label": "B",
+              "text": "The power of a lens in dioptres is the reciprocal of focal length in metres"
+            },
+            {
+              "label": "C",
+              "text": "focal length squared"
+            },
+            {
+              "label": "D",
+              "text": "twice focal length"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The power of a lens in dioptres is the reciprocal of focal length in metres",
+          "explanation": "P = 1/f, with f in metres; converging lenses have positive power.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ038",
+          "question": "In a basic HSC Physics question about lens power, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "focal length squared"
+            },
+            {
+              "label": "B",
+              "text": "twice focal length"
+            },
+            {
+              "label": "C",
+              "text": "focal length in centimetres"
+            },
+            {
+              "label": "D",
+              "text": "The power of a lens in dioptres is the reciprocal of focal length in metres"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The power of a lens in dioptres is the reciprocal of focal length in metres",
+          "explanation": "P = 1/f, with f in metres; converging lenses have positive power.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ039",
+          "question": "Which fact should be remembered about lens power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "focal length squared"
+            },
+            {
+              "label": "B",
+              "text": "The power of a lens in dioptres is the reciprocal of focal length in metres"
+            },
+            {
+              "label": "C",
+              "text": "focal length in centimetres"
+            },
+            {
+              "label": "D",
+              "text": "twice focal length"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The power of a lens in dioptres is the reciprocal of focal length in metres",
+          "explanation": "P = 1/f, with f in metres; converging lenses have positive power.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning lens power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "twice focal length"
+            },
+            {
+              "label": "B",
+              "text": "focal length in centimetres"
+            },
+            {
+              "label": "C",
+              "text": "focal length squared"
+            },
+            {
+              "label": "D",
+              "text": "The power of a lens in dioptres is the reciprocal of focal length in metres"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The power of a lens in dioptres is the reciprocal of focal length in metres",
+          "explanation": "P = 1/f, with f in metres; converging lenses have positive power.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Prism",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ041",
+          "question": "Which statement best describes prism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light speed is constant in every medium"
+            },
+            {
+              "label": "B",
+              "text": "diffraction at its edge only"
+            },
+            {
+              "label": "C",
+              "text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces"
+            },
+            {
+              "label": "D",
+              "text": "reflection at one surface only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces",
+          "explanation": "The two refractions produce an overall angular deviation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ042",
+          "question": "Which option is correctly associated with prism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflection at one surface only"
+            },
+            {
+              "label": "B",
+              "text": "light speed is constant in every medium"
+            },
+            {
+              "label": "C",
+              "text": "diffraction at its edge only"
+            },
+            {
+              "label": "D",
+              "text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces",
+          "explanation": "The two refractions produce an overall angular deviation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ043",
+          "question": "In a basic HSC Physics question about prism, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light speed is constant in every medium"
+            },
+            {
+              "label": "B",
+              "text": "reflection at one surface only"
+            },
+            {
+              "label": "C",
+              "text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces"
+            },
+            {
+              "label": "D",
+              "text": "diffraction at its edge only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces",
+          "explanation": "The two refractions produce an overall angular deviation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ044",
+          "question": "Which fact should be remembered about prism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflection at one surface only"
+            },
+            {
+              "label": "B",
+              "text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces"
+            },
+            {
+              "label": "C",
+              "text": "light speed is constant in every medium"
+            },
+            {
+              "label": "D",
+              "text": "diffraction at its edge only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces",
+          "explanation": "The two refractions produce an overall angular deviation.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning prism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light speed is constant in every medium"
+            },
+            {
+              "label": "B",
+              "text": "reflection at one surface only"
+            },
+            {
+              "label": "C",
+              "text": "diffraction at its edge only"
+            },
+            {
+              "label": "D",
+              "text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A prism deviates a light ray because refraction occurs at two non-parallel surfaces",
+          "explanation": "The two refractions produce an overall angular deviation.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Optical instruments",
+      "questions": [
+        {
+          "id": "PHY_2P_CH06_MCQ046",
+          "question": "Which statement best describes optical instruments?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a prism at minimum deviation"
+            },
+            {
+              "label": "B",
+              "text": "a plane mirror"
+            },
+            {
+              "label": "C",
+              "text": "a diverging lens only"
+            },
+            {
+              "label": "D",
+              "text": "A simple magnifying glass is a converging lens used with the object within its focal length"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A simple magnifying glass is a converging lens used with the object within its focal length",
+          "explanation": "The lens forms an enlarged, virtual, upright image when the object is inside the focal length.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ047",
+          "question": "Which option is correctly associated with optical instruments?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a prism at minimum deviation"
+            },
+            {
+              "label": "B",
+              "text": "a plane mirror"
+            },
+            {
+              "label": "C",
+              "text": "a diverging lens only"
+            },
+            {
+              "label": "D",
+              "text": "A simple magnifying glass is a converging lens used with the object within its focal length"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A simple magnifying glass is a converging lens used with the object within its focal length",
+          "explanation": "The lens forms an enlarged, virtual, upright image when the object is inside the focal length.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ048",
+          "question": "In a basic HSC Physics question about optical instruments, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A simple magnifying glass is a converging lens used with the object within its focal length"
+            },
+            {
+              "label": "B",
+              "text": "a prism at minimum deviation"
+            },
+            {
+              "label": "C",
+              "text": "a diverging lens only"
+            },
+            {
+              "label": "D",
+              "text": "a plane mirror"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A simple magnifying glass is a converging lens used with the object within its focal length",
+          "explanation": "The lens forms an enlarged, virtual, upright image when the object is inside the focal length.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ049",
+          "question": "Which fact should be remembered about optical instruments?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a diverging lens only"
+            },
+            {
+              "label": "B",
+              "text": "A simple magnifying glass is a converging lens used with the object within its focal length"
+            },
+            {
+              "label": "C",
+              "text": "a prism at minimum deviation"
+            },
+            {
+              "label": "D",
+              "text": "a plane mirror"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A simple magnifying glass is a converging lens used with the object within its focal length",
+          "explanation": "The lens forms an enlarged, virtual, upright image when the object is inside the focal length.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH06_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning optical instruments?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a plane mirror"
+            },
+            {
+              "label": "B",
+              "text": "a prism at minimum deviation"
+            },
+            {
+              "label": "C",
+              "text": "a diverging lens only"
+            },
+            {
+              "label": "D",
+              "text": "A simple magnifying glass is a converging lens used with the object within its focal length"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A simple magnifying glass is a converging lens used with the object within its focal length",
+          "explanation": "The lens forms an enlarged, virtual, upright image when the object is inside the focal length.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

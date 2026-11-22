@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 8,
+  "chapter_title": "Human Physiology: Coordination and Control",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH08_T01",
+      "topic_name": "Neuron",
+      "mcqs": [
+        {
+          "id": "BIO2_CH08_Q01",
+          "question": "Which term is correctly described as: specialised cell that transmits nerve impulses?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "retina"
+            },
+            {
+              "label": "C",
+              "text": "neuron"
+            },
+            {
+              "label": "D",
+              "text": "central nervous system"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "neuron",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q02",
+          "question": "The biological role or defining feature of neuron is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "B",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "C",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "D",
+              "text": "brain and spinal cord"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "specialised cell that transmits nerve impulses",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q03",
+          "question": "A student records the following clue: “specialised cell that transmits nerve impulses.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex arc"
+            },
+            {
+              "label": "B",
+              "text": "neuron"
+            },
+            {
+              "label": "C",
+              "text": "retina"
+            },
+            {
+              "label": "D",
+              "text": "endocrine gland"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "neuron",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q04",
+          "question": "Which option completes this statement correctly? neuron is the term for specialised cell that transmits nerve impulses.",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "neuron"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "reflex arc"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "neuron",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q05",
+          "question": "If an examination asks for the term associated with “specialised cell that transmits nerve impulses”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neuron"
+            },
+            {
+              "label": "B",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "retina"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "neuron",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q06",
+          "question": "Which structure, process or concept matches the description “specialised cell that transmits nerve impulses”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "central nervous system"
+            },
+            {
+              "label": "C",
+              "text": "reflex arc"
+            },
+            {
+              "label": "D",
+              "text": "neuron"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "neuron",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q07",
+          "question": "Choose the accurate statement about neuron.",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "B",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "light-sensitive layer at the back of the eye"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "specialised cell that transmits nerve impulses",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q08",
+          "question": "A diagram or observation identifies neuron. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "B",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "C",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "D",
+              "text": "brain and spinal cord"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "specialised cell that transmits nerve impulses",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q09",
+          "question": "Which pairing is correct for neuron?",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "B",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "light-sensitive layer at the back of the eye"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "specialised cell that transmits nerve impulses",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        },
+        {
+          "id": "BIO2_CH08_Q10",
+          "question": "In a topic review, which answer best explains the clue “specialised cell that transmits nerve impulses”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "neuron"
+            },
+            {
+              "label": "C",
+              "text": "reflex arc"
+            },
+            {
+              "label": "D",
+              "text": "central nervous system"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "neuron",
+          "explanation": "Its membrane and processes enable electrical signalling."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH08_T02",
+      "topic_name": "Reflex Arc",
+      "mcqs": [
+        {
+          "id": "BIO2_CH08_Q11",
+          "question": "Which term is correctly described as: neural pathway mediating a reflex action?",
+          "options": [
+            {
+              "label": "A",
+              "text": "central nervous system"
+            },
+            {
+              "label": "B",
+              "text": "reflex arc"
+            },
+            {
+              "label": "C",
+              "text": "neuron"
+            },
+            {
+              "label": "D",
+              "text": "endocrine gland"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "reflex arc",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q12",
+          "question": "The biological role or defining feature of reflex arc is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "B",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "C",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "D",
+              "text": "neural pathway mediating a reflex action"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "neural pathway mediating a reflex action",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q13",
+          "question": "A student records the following clue: “neural pathway mediating a reflex action.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neuron"
+            },
+            {
+              "label": "B",
+              "text": "central nervous system"
+            },
+            {
+              "label": "C",
+              "text": "reflex arc"
+            },
+            {
+              "label": "D",
+              "text": "retina"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "reflex arc",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q14",
+          "question": "Which option completes this statement correctly? reflex arc is the term for neural pathway mediating a reflex action.",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex arc"
+            },
+            {
+              "label": "B",
+              "text": "retina"
+            },
+            {
+              "label": "C",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "D",
+              "text": "central nervous system"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "reflex arc",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q15",
+          "question": "If an examination asks for the term associated with “neural pathway mediating a reflex action”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "reflex arc"
+            },
+            {
+              "label": "C",
+              "text": "neuron"
+            },
+            {
+              "label": "D",
+              "text": "retina"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "reflex arc",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q16",
+          "question": "Which structure, process or concept matches the description “neural pathway mediating a reflex action”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "reflex arc"
+            },
+            {
+              "label": "C",
+              "text": "retina"
+            },
+            {
+              "label": "D",
+              "text": "neuron"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "reflex arc",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q17",
+          "question": "Choose the accurate statement about reflex arc.",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "B",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "ductless gland releasing hormones into the blood"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "neural pathway mediating a reflex action",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q18",
+          "question": "A diagram or observation identifies reflex arc. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "B",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "specialised cell that transmits nerve impulses"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "neural pathway mediating a reflex action",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q19",
+          "question": "Which pairing is correct for reflex arc?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "B",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "C",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "D",
+              "text": "neural pathway mediating a reflex action"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "neural pathway mediating a reflex action",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        },
+        {
+          "id": "BIO2_CH08_Q20",
+          "question": "In a topic review, which answer best explains the clue “neural pathway mediating a reflex action”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neuron"
+            },
+            {
+              "label": "B",
+              "text": "reflex arc"
+            },
+            {
+              "label": "C",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "D",
+              "text": "retina"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "reflex arc",
+          "explanation": "It commonly includes receptor, sensory neuron, CNS relay, motor neuron and effector."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH08_T03",
+      "topic_name": "Central Nervous System",
+      "mcqs": [
+        {
+          "id": "BIO2_CH08_Q21",
+          "question": "Which term is correctly described as: brain and spinal cord?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "retina"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "reflex arc"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "central nervous system",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q22",
+          "question": "The biological role or defining feature of central nervous system is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "B",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "brain and spinal cord"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "brain and spinal cord",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q23",
+          "question": "A student records the following clue: “brain and spinal cord.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "central nervous system"
+            },
+            {
+              "label": "B",
+              "text": "neuron"
+            },
+            {
+              "label": "C",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "D",
+              "text": "retina"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "central nervous system",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q24",
+          "question": "Which option completes this statement correctly? central nervous system is the term for brain and spinal cord.",
+          "options": [
+            {
+              "label": "A",
+              "text": "central nervous system"
+            },
+            {
+              "label": "B",
+              "text": "neuron"
+            },
+            {
+              "label": "C",
+              "text": "reflex arc"
+            },
+            {
+              "label": "D",
+              "text": "retina"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "central nervous system",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q25",
+          "question": "If an examination asks for the term associated with “brain and spinal cord”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "reflex arc"
+            },
+            {
+              "label": "C",
+              "text": "neuron"
+            },
+            {
+              "label": "D",
+              "text": "central nervous system"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "central nervous system",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q26",
+          "question": "Which structure, process or concept matches the description “brain and spinal cord”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "retina"
+            },
+            {
+              "label": "B",
+              "text": "central nervous system"
+            },
+            {
+              "label": "C",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "D",
+              "text": "neuron"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "central nervous system",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q27",
+          "question": "Choose the accurate statement about central nervous system.",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "B",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "brain and spinal cord"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "brain and spinal cord",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q28",
+          "question": "A diagram or observation identifies central nervous system. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "B",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "C",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "D",
+              "text": "brain and spinal cord"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "brain and spinal cord",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q29",
+          "question": "Which pairing is correct for central nervous system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "B",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "C",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "D",
+              "text": "light-sensitive layer at the back of the eye"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "brain and spinal cord",
+          "explanation": "It integrates information and coordinates responses."
+        },
+        {
+          "id": "BIO2_CH08_Q30",
+          "question": "In a topic review, which answer best explains the clue “brain and spinal cord”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "central nervous system"
+            },
+            {
+              "label": "B",
+              "text": "neuron"
+            },
+            {
+              "label": "C",
+              "text": "reflex arc"
+            },
+            {
+              "label": "D",
+              "text": "retina"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "central nervous system",
+          "explanation": "It integrates information and coordinates responses."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH08_T04",
+      "topic_name": "Endocrine Gland",
+      "mcqs": [
+        {
+          "id": "BIO2_CH08_Q31",
+          "question": "Which term is correctly described as: ductless gland releasing hormones into the blood?",
+          "options": [
+            {
+              "label": "A",
+              "text": "retina"
+            },
+            {
+              "label": "B",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "neuron"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "endocrine gland",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q32",
+          "question": "The biological role or defining feature of endocrine gland is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "B",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "C",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "D",
+              "text": "ductless gland releasing hormones into the blood"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ductless gland releasing hormones into the blood",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q33",
+          "question": "A student records the following clue: “ductless gland releasing hormones into the blood.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neuron"
+            },
+            {
+              "label": "B",
+              "text": "central nervous system"
+            },
+            {
+              "label": "C",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "D",
+              "text": "reflex arc"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "endocrine gland",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q34",
+          "question": "Which option completes this statement correctly? endocrine gland is the term for ductless gland releasing hormones into the blood.",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "reflex arc"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "retina"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "endocrine gland",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q35",
+          "question": "If an examination asks for the term associated with “ductless gland releasing hormones into the blood”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "central nervous system"
+            },
+            {
+              "label": "B",
+              "text": "retina"
+            },
+            {
+              "label": "C",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "D",
+              "text": "reflex arc"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "endocrine gland",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q36",
+          "question": "Which structure, process or concept matches the description “ductless gland releasing hormones into the blood”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neuron"
+            },
+            {
+              "label": "B",
+              "text": "retina"
+            },
+            {
+              "label": "C",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "D",
+              "text": "reflex arc"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "endocrine gland",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q37",
+          "question": "Choose the accurate statement about endocrine gland.",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "B",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "specialised cell that transmits nerve impulses"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ductless gland releasing hormones into the blood",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q38",
+          "question": "A diagram or observation identifies endocrine gland. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "B",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "C",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "D",
+              "text": "ductless gland releasing hormones into the blood"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ductless gland releasing hormones into the blood",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q39",
+          "question": "Which pairing is correct for endocrine gland?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "B",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "ductless gland releasing hormones into the blood"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "ductless gland releasing hormones into the blood",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        },
+        {
+          "id": "BIO2_CH08_Q40",
+          "question": "In a topic review, which answer best explains the clue “ductless gland releasing hormones into the blood”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neuron"
+            },
+            {
+              "label": "B",
+              "text": "retina"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "endocrine gland"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "endocrine gland",
+          "explanation": "Hormones act on target cells with appropriate receptors."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH08_T05",
+      "topic_name": "Retina",
+      "mcqs": [
+        {
+          "id": "BIO2_CH08_Q41",
+          "question": "Which term is correctly described as: light-sensitive layer at the back of the eye?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neuron"
+            },
+            {
+              "label": "B",
+              "text": "retina"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "reflex arc"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "retina",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q42",
+          "question": "The biological role or defining feature of retina is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "B",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "ductless gland releasing hormones into the blood"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "light-sensitive layer at the back of the eye",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q43",
+          "question": "A student records the following clue: “light-sensitive layer at the back of the eye.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reflex arc"
+            },
+            {
+              "label": "B",
+              "text": "central nervous system"
+            },
+            {
+              "label": "C",
+              "text": "retina"
+            },
+            {
+              "label": "D",
+              "text": "endocrine gland"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "retina",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q44",
+          "question": "Which option completes this statement correctly? retina is the term for light-sensitive layer at the back of the eye.",
+          "options": [
+            {
+              "label": "A",
+              "text": "retina"
+            },
+            {
+              "label": "B",
+              "text": "neuron"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "reflex arc"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "retina",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q45",
+          "question": "If an examination asks for the term associated with “light-sensitive layer at the back of the eye”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "B",
+              "text": "central nervous system"
+            },
+            {
+              "label": "C",
+              "text": "retina"
+            },
+            {
+              "label": "D",
+              "text": "neuron"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "retina",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q46",
+          "question": "Which structure, process or concept matches the description “light-sensitive layer at the back of the eye”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "retina"
+            },
+            {
+              "label": "B",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "C",
+              "text": "central nervous system"
+            },
+            {
+              "label": "D",
+              "text": "neuron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "retina",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q47",
+          "question": "Choose the accurate statement about retina.",
+          "options": [
+            {
+              "label": "A",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "B",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "C",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "D",
+              "text": "specialised cell that transmits nerve impulses"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "light-sensitive layer at the back of the eye",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q48",
+          "question": "A diagram or observation identifies retina. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ductless gland releasing hormones into the blood"
+            },
+            {
+              "label": "B",
+              "text": "light-sensitive layer at the back of the eye"
+            },
+            {
+              "label": "C",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "D",
+              "text": "neural pathway mediating a reflex action"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "light-sensitive layer at the back of the eye",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q49",
+          "question": "Which pairing is correct for retina?",
+          "options": [
+            {
+              "label": "A",
+              "text": "specialised cell that transmits nerve impulses"
+            },
+            {
+              "label": "B",
+              "text": "brain and spinal cord"
+            },
+            {
+              "label": "C",
+              "text": "neural pathway mediating a reflex action"
+            },
+            {
+              "label": "D",
+              "text": "light-sensitive layer at the back of the eye"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "light-sensitive layer at the back of the eye",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        },
+        {
+          "id": "BIO2_CH08_Q50",
+          "question": "In a topic review, which answer best explains the clue “light-sensitive layer at the back of the eye”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "central nervous system"
+            },
+            {
+              "label": "B",
+              "text": "retina"
+            },
+            {
+              "label": "C",
+              "text": "endocrine gland"
+            },
+            {
+              "label": "D",
+              "text": "neuron"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "retina",
+          "explanation": "Its photoreceptors convert light into neural signals."
+        }
+      ]
+    }
+  ]
+}

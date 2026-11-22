@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 4,
+  "chapter_title": "Chemical Changes",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Chemical equilibrium",
+      "questions": [
+        {
+          "id": "CH04-MCQ-001",
+          "question": "Which statement correctly describes chemical equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forward and reverse reaction rates are equal"
+            },
+            {
+              "label": "B",
+              "text": "Reactants disappear entirely"
+            },
+            {
+              "label": "C",
+              "text": "Both reactions stop completely"
+            },
+            {
+              "label": "D",
+              "text": "Only the forward reaction occurs"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Forward and reverse reaction rates are equal",
+          "explanation": "At dynamic equilibrium concentrations remain constant although reactions continue.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning chemical equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Reactants disappear entirely"
+            },
+            {
+              "label": "B",
+              "text": "Forward and reverse reaction rates are equal"
+            },
+            {
+              "label": "C",
+              "text": "Only the forward reaction occurs"
+            },
+            {
+              "label": "D",
+              "text": "Both reactions stop completely"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Forward and reverse reaction rates are equal",
+          "explanation": "At dynamic equilibrium concentrations remain constant although reactions continue.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-003",
+          "question": "A student is reviewing chemical equilibrium. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Both reactions stop completely"
+            },
+            {
+              "label": "B",
+              "text": "Forward and reverse reaction rates are equal"
+            },
+            {
+              "label": "C",
+              "text": "Only the forward reaction occurs"
+            },
+            {
+              "label": "D",
+              "text": "Reactants disappear entirely"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Forward and reverse reaction rates are equal",
+          "explanation": "At dynamic equilibrium concentrations remain constant although reactions continue.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-004",
+          "question": "Which option gives the most accurate explanation of chemical equilibrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Only the forward reaction occurs"
+            },
+            {
+              "label": "B",
+              "text": "Reactants disappear entirely"
+            },
+            {
+              "label": "C",
+              "text": "Forward and reverse reaction rates are equal"
+            },
+            {
+              "label": "D",
+              "text": "Both reactions stop completely"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Forward and reverse reaction rates are equal",
+          "explanation": "At dynamic equilibrium concentrations remain constant although reactions continue.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-005",
+          "question": "Choose the correct principle or fact associated with chemical equilibrium.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forward and reverse reaction rates are equal"
+            },
+            {
+              "label": "B",
+              "text": "Reactants disappear entirely"
+            },
+            {
+              "label": "C",
+              "text": "Only the forward reaction occurs"
+            },
+            {
+              "label": "D",
+              "text": "Both reactions stop completely"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Forward and reverse reaction rates are equal",
+          "explanation": "At dynamic equilibrium concentrations remain constant although reactions continue.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Le Chatelier principle",
+      "questions": [
+        {
+          "id": "CH04-MCQ-006",
+          "question": "Which statement correctly describes le chatelier principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A system shifts to oppose an imposed change"
+            },
+            {
+              "label": "B",
+              "text": "Pressure has no effect on gases"
+            },
+            {
+              "label": "C",
+              "text": "A catalyst changes the equilibrium constant"
+            },
+            {
+              "label": "D",
+              "text": "Equilibrium always shifts right"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A system shifts to oppose an imposed change",
+          "explanation": "Equilibrium responds to changes in concentration, pressure or temperature.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning le chatelier principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A catalyst changes the equilibrium constant"
+            },
+            {
+              "label": "B",
+              "text": "Equilibrium always shifts right"
+            },
+            {
+              "label": "C",
+              "text": "Pressure has no effect on gases"
+            },
+            {
+              "label": "D",
+              "text": "A system shifts to oppose an imposed change"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A system shifts to oppose an imposed change",
+          "explanation": "Equilibrium responds to changes in concentration, pressure or temperature.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-008",
+          "question": "A student is reviewing le chatelier principle. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A system shifts to oppose an imposed change"
+            },
+            {
+              "label": "B",
+              "text": "Pressure has no effect on gases"
+            },
+            {
+              "label": "C",
+              "text": "Equilibrium always shifts right"
+            },
+            {
+              "label": "D",
+              "text": "A catalyst changes the equilibrium constant"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A system shifts to oppose an imposed change",
+          "explanation": "Equilibrium responds to changes in concentration, pressure or temperature.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-009",
+          "question": "Which option gives the most accurate explanation of le chatelier principle?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A catalyst changes the equilibrium constant"
+            },
+            {
+              "label": "B",
+              "text": "Pressure has no effect on gases"
+            },
+            {
+              "label": "C",
+              "text": "Equilibrium always shifts right"
+            },
+            {
+              "label": "D",
+              "text": "A system shifts to oppose an imposed change"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A system shifts to oppose an imposed change",
+          "explanation": "Equilibrium responds to changes in concentration, pressure or temperature.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-010",
+          "question": "Choose the correct principle or fact associated with le chatelier principle.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pressure has no effect on gases"
+            },
+            {
+              "label": "B",
+              "text": "A system shifts to oppose an imposed change"
+            },
+            {
+              "label": "C",
+              "text": "A catalyst changes the equilibrium constant"
+            },
+            {
+              "label": "D",
+              "text": "Equilibrium always shifts right"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A system shifts to oppose an imposed change",
+          "explanation": "Equilibrium responds to changes in concentration, pressure or temperature.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Catalyst",
+      "questions": [
+        {
+          "id": "CH04-MCQ-011",
+          "question": "Which statement correctly describes catalyst?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Raises activation energy"
+            },
+            {
+              "label": "B",
+              "text": "Increases reaction rate by lowering activation energy"
+            },
+            {
+              "label": "C",
+              "text": "Changes the equilibrium constant"
+            },
+            {
+              "label": "D",
+              "text": "Changes the products in every reaction"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Increases reaction rate by lowering activation energy",
+          "explanation": "A catalyst provides an alternative pathway and is not consumed overall.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning catalyst?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Changes the products in every reaction"
+            },
+            {
+              "label": "B",
+              "text": "Changes the equilibrium constant"
+            },
+            {
+              "label": "C",
+              "text": "Raises activation energy"
+            },
+            {
+              "label": "D",
+              "text": "Increases reaction rate by lowering activation energy"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Increases reaction rate by lowering activation energy",
+          "explanation": "A catalyst provides an alternative pathway and is not consumed overall.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-013",
+          "question": "A student is reviewing catalyst. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Changes the equilibrium constant"
+            },
+            {
+              "label": "B",
+              "text": "Raises activation energy"
+            },
+            {
+              "label": "C",
+              "text": "Increases reaction rate by lowering activation energy"
+            },
+            {
+              "label": "D",
+              "text": "Changes the products in every reaction"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Increases reaction rate by lowering activation energy",
+          "explanation": "A catalyst provides an alternative pathway and is not consumed overall.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-014",
+          "question": "Which option gives the most accurate explanation of catalyst?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Changes the equilibrium constant"
+            },
+            {
+              "label": "B",
+              "text": "Increases reaction rate by lowering activation energy"
+            },
+            {
+              "label": "C",
+              "text": "Changes the products in every reaction"
+            },
+            {
+              "label": "D",
+              "text": "Raises activation energy"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Increases reaction rate by lowering activation energy",
+          "explanation": "A catalyst provides an alternative pathway and is not consumed overall.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-015",
+          "question": "Choose the correct principle or fact associated with catalyst.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Changes the equilibrium constant"
+            },
+            {
+              "label": "B",
+              "text": "Increases reaction rate by lowering activation energy"
+            },
+            {
+              "label": "C",
+              "text": "Changes the products in every reaction"
+            },
+            {
+              "label": "D",
+              "text": "Raises activation energy"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Increases reaction rate by lowering activation energy",
+          "explanation": "A catalyst provides an alternative pathway and is not consumed overall.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Activation energy",
+      "questions": [
+        {
+          "id": "CH04-MCQ-016",
+          "question": "Which statement correctly describes activation energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy of the nucleus"
+            },
+            {
+              "label": "B",
+              "text": "Minimum energy needed for effective reaction"
+            },
+            {
+              "label": "C",
+              "text": "Total mass of products"
+            },
+            {
+              "label": "D",
+              "text": "Heat capacity of the container"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Minimum energy needed for effective reaction",
+          "explanation": "Reacting particles must overcome the activation-energy barrier.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning activation energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Total mass of products"
+            },
+            {
+              "label": "B",
+              "text": "Minimum energy needed for effective reaction"
+            },
+            {
+              "label": "C",
+              "text": "Heat capacity of the container"
+            },
+            {
+              "label": "D",
+              "text": "Energy of the nucleus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Minimum energy needed for effective reaction",
+          "explanation": "Reacting particles must overcome the activation-energy barrier.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-018",
+          "question": "A student is reviewing activation energy. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy of the nucleus"
+            },
+            {
+              "label": "B",
+              "text": "Minimum energy needed for effective reaction"
+            },
+            {
+              "label": "C",
+              "text": "Total mass of products"
+            },
+            {
+              "label": "D",
+              "text": "Heat capacity of the container"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Minimum energy needed for effective reaction",
+          "explanation": "Reacting particles must overcome the activation-energy barrier.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-019",
+          "question": "Which option gives the most accurate explanation of activation energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy of the nucleus"
+            },
+            {
+              "label": "B",
+              "text": "Minimum energy needed for effective reaction"
+            },
+            {
+              "label": "C",
+              "text": "Heat capacity of the container"
+            },
+            {
+              "label": "D",
+              "text": "Total mass of products"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Minimum energy needed for effective reaction",
+          "explanation": "Reacting particles must overcome the activation-energy barrier.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-020",
+          "question": "Choose the correct principle or fact associated with activation energy.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Total mass of products"
+            },
+            {
+              "label": "B",
+              "text": "Energy of the nucleus"
+            },
+            {
+              "label": "C",
+              "text": "Minimum energy needed for effective reaction"
+            },
+            {
+              "label": "D",
+              "text": "Heat capacity of the container"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Minimum energy needed for effective reaction",
+          "explanation": "Reacting particles must overcome the activation-energy barrier.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Exothermic reaction",
+      "questions": [
+        {
+          "id": "CH04-MCQ-021",
+          "question": "Which statement correctly describes exothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorbs heat"
+            },
+            {
+              "label": "B",
+              "text": "Cannot occur spontaneously"
+            },
+            {
+              "label": "C",
+              "text": "Has zero enthalpy change always"
+            },
+            {
+              "label": "D",
+              "text": "Releases heat"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Releases heat",
+          "explanation": "The enthalpy change is negative for an exothermic process.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning exothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Has zero enthalpy change always"
+            },
+            {
+              "label": "B",
+              "text": "Cannot occur spontaneously"
+            },
+            {
+              "label": "C",
+              "text": "Releases heat"
+            },
+            {
+              "label": "D",
+              "text": "Absorbs heat"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Releases heat",
+          "explanation": "The enthalpy change is negative for an exothermic process.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-023",
+          "question": "A student is reviewing exothermic reaction. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorbs heat"
+            },
+            {
+              "label": "B",
+              "text": "Cannot occur spontaneously"
+            },
+            {
+              "label": "C",
+              "text": "Has zero enthalpy change always"
+            },
+            {
+              "label": "D",
+              "text": "Releases heat"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Releases heat",
+          "explanation": "The enthalpy change is negative for an exothermic process.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-024",
+          "question": "Which option gives the most accurate explanation of exothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Releases heat"
+            },
+            {
+              "label": "B",
+              "text": "Has zero enthalpy change always"
+            },
+            {
+              "label": "C",
+              "text": "Cannot occur spontaneously"
+            },
+            {
+              "label": "D",
+              "text": "Absorbs heat"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Releases heat",
+          "explanation": "The enthalpy change is negative for an exothermic process.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-025",
+          "question": "Choose the correct principle or fact associated with exothermic reaction.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Releases heat"
+            },
+            {
+              "label": "B",
+              "text": "Cannot occur spontaneously"
+            },
+            {
+              "label": "C",
+              "text": "Absorbs heat"
+            },
+            {
+              "label": "D",
+              "text": "Has zero enthalpy change always"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Releases heat",
+          "explanation": "The enthalpy change is negative for an exothermic process.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Endothermic reaction",
+      "questions": [
+        {
+          "id": "CH04-MCQ-026",
+          "question": "Which statement correctly describes endothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorbs heat"
+            },
+            {
+              "label": "B",
+              "text": "Releases heat"
+            },
+            {
+              "label": "C",
+              "text": "Has negative enthalpy change"
+            },
+            {
+              "label": "D",
+              "text": "Always produces a flame"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Absorbs heat",
+          "explanation": "The enthalpy change is positive for an endothermic process.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning endothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always produces a flame"
+            },
+            {
+              "label": "B",
+              "text": "Has negative enthalpy change"
+            },
+            {
+              "label": "C",
+              "text": "Releases heat"
+            },
+            {
+              "label": "D",
+              "text": "Absorbs heat"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Absorbs heat",
+          "explanation": "The enthalpy change is positive for an endothermic process.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-028",
+          "question": "A student is reviewing endothermic reaction. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Absorbs heat"
+            },
+            {
+              "label": "B",
+              "text": "Releases heat"
+            },
+            {
+              "label": "C",
+              "text": "Has negative enthalpy change"
+            },
+            {
+              "label": "D",
+              "text": "Always produces a flame"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Absorbs heat",
+          "explanation": "The enthalpy change is positive for an endothermic process.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-029",
+          "question": "Which option gives the most accurate explanation of endothermic reaction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Releases heat"
+            },
+            {
+              "label": "B",
+              "text": "Always produces a flame"
+            },
+            {
+              "label": "C",
+              "text": "Has negative enthalpy change"
+            },
+            {
+              "label": "D",
+              "text": "Absorbs heat"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Absorbs heat",
+          "explanation": "The enthalpy change is positive for an endothermic process.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-030",
+          "question": "Choose the correct principle or fact associated with endothermic reaction.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Releases heat"
+            },
+            {
+              "label": "B",
+              "text": "Always produces a flame"
+            },
+            {
+              "label": "C",
+              "text": "Has negative enthalpy change"
+            },
+            {
+              "label": "D",
+              "text": "Absorbs heat"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Absorbs heat",
+          "explanation": "The enthalpy change is positive for an endothermic process.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Oxidation",
+      "questions": [
+        {
+          "id": "CH04-MCQ-031",
+          "question": "Which statement correctly describes oxidation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gain of neutrons"
+            },
+            {
+              "label": "B",
+              "text": "Gain of electrons"
+            },
+            {
+              "label": "C",
+              "text": "Loss of electrons"
+            },
+            {
+              "label": "D",
+              "text": "Decrease in atomic number"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Loss of electrons",
+          "explanation": "Oxidation is identified by an increase in oxidation number or electron loss.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning oxidation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gain of electrons"
+            },
+            {
+              "label": "B",
+              "text": "Decrease in atomic number"
+            },
+            {
+              "label": "C",
+              "text": "Loss of electrons"
+            },
+            {
+              "label": "D",
+              "text": "Gain of neutrons"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Loss of electrons",
+          "explanation": "Oxidation is identified by an increase in oxidation number or electron loss.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-033",
+          "question": "A student is reviewing oxidation. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decrease in atomic number"
+            },
+            {
+              "label": "B",
+              "text": "Gain of electrons"
+            },
+            {
+              "label": "C",
+              "text": "Gain of neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Loss of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Loss of electrons",
+          "explanation": "Oxidation is identified by an increase in oxidation number or electron loss.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-034",
+          "question": "Which option gives the most accurate explanation of oxidation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Decrease in atomic number"
+            },
+            {
+              "label": "B",
+              "text": "Loss of electrons"
+            },
+            {
+              "label": "C",
+              "text": "Gain of electrons"
+            },
+            {
+              "label": "D",
+              "text": "Gain of neutrons"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Loss of electrons",
+          "explanation": "Oxidation is identified by an increase in oxidation number or electron loss.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-035",
+          "question": "Choose the correct principle or fact associated with oxidation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gain of electrons"
+            },
+            {
+              "label": "B",
+              "text": "Decrease in atomic number"
+            },
+            {
+              "label": "C",
+              "text": "Gain of neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Loss of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Loss of electrons",
+          "explanation": "Oxidation is identified by an increase in oxidation number or electron loss.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Reduction",
+      "questions": [
+        {
+          "id": "CH04-MCQ-036",
+          "question": "Which statement correctly describes reduction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Loss of electrons"
+            },
+            {
+              "label": "B",
+              "text": "Loss of protons"
+            },
+            {
+              "label": "C",
+              "text": "Increase in mass number"
+            },
+            {
+              "label": "D",
+              "text": "Gain of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gain of electrons",
+          "explanation": "Reduction is identified by electron gain or a decrease in oxidation number.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning reduction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Increase in mass number"
+            },
+            {
+              "label": "B",
+              "text": "Loss of electrons"
+            },
+            {
+              "label": "C",
+              "text": "Loss of protons"
+            },
+            {
+              "label": "D",
+              "text": "Gain of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gain of electrons",
+          "explanation": "Reduction is identified by electron gain or a decrease in oxidation number.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-038",
+          "question": "A student is reviewing reduction. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Loss of protons"
+            },
+            {
+              "label": "B",
+              "text": "Gain of electrons"
+            },
+            {
+              "label": "C",
+              "text": "Loss of electrons"
+            },
+            {
+              "label": "D",
+              "text": "Increase in mass number"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Gain of electrons",
+          "explanation": "Reduction is identified by electron gain or a decrease in oxidation number.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-039",
+          "question": "Which option gives the most accurate explanation of reduction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Gain of electrons"
+            },
+            {
+              "label": "B",
+              "text": "Increase in mass number"
+            },
+            {
+              "label": "C",
+              "text": "Loss of protons"
+            },
+            {
+              "label": "D",
+              "text": "Loss of electrons"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Gain of electrons",
+          "explanation": "Reduction is identified by electron gain or a decrease in oxidation number.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-040",
+          "question": "Choose the correct principle or fact associated with reduction.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Loss of protons"
+            },
+            {
+              "label": "B",
+              "text": "Loss of electrons"
+            },
+            {
+              "label": "C",
+              "text": "Increase in mass number"
+            },
+            {
+              "label": "D",
+              "text": "Gain of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Gain of electrons",
+          "explanation": "Reduction is identified by electron gain or a decrease in oxidation number.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Reaction rate",
+      "questions": [
+        {
+          "id": "CH04-MCQ-041",
+          "question": "Which statement correctly describes reaction rate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Change in concentration per unit time"
+            },
+            {
+              "label": "B",
+              "text": "Total mass of the vessel"
+            },
+            {
+              "label": "C",
+              "text": "Volume of catalyst only"
+            },
+            {
+              "label": "D",
+              "text": "Atomic number per mole"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Change in concentration per unit time",
+          "explanation": "Rate describes how quickly reactant or product concentration changes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning reaction rate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volume of catalyst only"
+            },
+            {
+              "label": "B",
+              "text": "Change in concentration per unit time"
+            },
+            {
+              "label": "C",
+              "text": "Total mass of the vessel"
+            },
+            {
+              "label": "D",
+              "text": "Atomic number per mole"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Change in concentration per unit time",
+          "explanation": "Rate describes how quickly reactant or product concentration changes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-043",
+          "question": "A student is reviewing reaction rate. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Total mass of the vessel"
+            },
+            {
+              "label": "B",
+              "text": "Change in concentration per unit time"
+            },
+            {
+              "label": "C",
+              "text": "Volume of catalyst only"
+            },
+            {
+              "label": "D",
+              "text": "Atomic number per mole"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Change in concentration per unit time",
+          "explanation": "Rate describes how quickly reactant or product concentration changes.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-044",
+          "question": "Which option gives the most accurate explanation of reaction rate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volume of catalyst only"
+            },
+            {
+              "label": "B",
+              "text": "Change in concentration per unit time"
+            },
+            {
+              "label": "C",
+              "text": "Total mass of the vessel"
+            },
+            {
+              "label": "D",
+              "text": "Atomic number per mole"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Change in concentration per unit time",
+          "explanation": "Rate describes how quickly reactant or product concentration changes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-045",
+          "question": "Choose the correct principle or fact associated with reaction rate.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Volume of catalyst only"
+            },
+            {
+              "label": "B",
+              "text": "Change in concentration per unit time"
+            },
+            {
+              "label": "C",
+              "text": "Atomic number per mole"
+            },
+            {
+              "label": "D",
+              "text": "Total mass of the vessel"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Change in concentration per unit time",
+          "explanation": "Rate describes how quickly reactant or product concentration changes.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Equilibrium constant",
+      "questions": [
+        {
+          "id": "CH04-MCQ-046",
+          "question": "Which statement correctly describes equilibrium constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A ratio of initial masses only"
+            },
+            {
+              "label": "B",
+              "text": "A measure of reaction time"
+            },
+            {
+              "label": "C",
+              "text": "A ratio of equilibrium concentrations raised to stoichiometric powers"
+            },
+            {
+              "label": "D",
+              "text": "A constant equal to temperature"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A ratio of equilibrium concentrations raised to stoichiometric powers",
+          "explanation": "The expression follows the balanced chemical equation and excludes pure solids and liquids.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning equilibrium constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A constant equal to temperature"
+            },
+            {
+              "label": "B",
+              "text": "A measure of reaction time"
+            },
+            {
+              "label": "C",
+              "text": "A ratio of equilibrium concentrations raised to stoichiometric powers"
+            },
+            {
+              "label": "D",
+              "text": "A ratio of initial masses only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A ratio of equilibrium concentrations raised to stoichiometric powers",
+          "explanation": "The expression follows the balanced chemical equation and excludes pure solids and liquids.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-048",
+          "question": "A student is reviewing equilibrium constant. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A measure of reaction time"
+            },
+            {
+              "label": "B",
+              "text": "A ratio of initial masses only"
+            },
+            {
+              "label": "C",
+              "text": "A ratio of equilibrium concentrations raised to stoichiometric powers"
+            },
+            {
+              "label": "D",
+              "text": "A constant equal to temperature"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A ratio of equilibrium concentrations raised to stoichiometric powers",
+          "explanation": "The expression follows the balanced chemical equation and excludes pure solids and liquids.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-049",
+          "question": "Which option gives the most accurate explanation of equilibrium constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A ratio of initial masses only"
+            },
+            {
+              "label": "B",
+              "text": "A measure of reaction time"
+            },
+            {
+              "label": "C",
+              "text": "A ratio of equilibrium concentrations raised to stoichiometric powers"
+            },
+            {
+              "label": "D",
+              "text": "A constant equal to temperature"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A ratio of equilibrium concentrations raised to stoichiometric powers",
+          "explanation": "The expression follows the balanced chemical equation and excludes pure solids and liquids.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-050",
+          "question": "Choose the correct principle or fact associated with equilibrium constant.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A ratio of equilibrium concentrations raised to stoichiometric powers"
+            },
+            {
+              "label": "B",
+              "text": "A ratio of initial masses only"
+            },
+            {
+              "label": "C",
+              "text": "A measure of reaction time"
+            },
+            {
+              "label": "D",
+              "text": "A constant equal to temperature"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A ratio of equilibrium concentrations raised to stoichiometric powers",
+          "explanation": "The expression follows the balanced chemical equation and excludes pure solids and liquids.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

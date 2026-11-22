@@ -1,0 +1,1358 @@
+{
+  "paper": "Compulsory",
+  "chapter_number": 5,
+  "chapter_title": "Programming Language (C Programming)",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Generations of Programming Languages",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-001",
+          "question": "Which generation of programming languages consists exclusively of binary digits 0 and 1?",
+          "options": [
+            {
+              "label": "A",
+              "text": "First Generation (1GL - Machine Language)"
+            },
+            {
+              "label": "B",
+              "text": "Second Generation (2GL - Assembly Language)"
+            },
+            {
+              "label": "C",
+              "text": "Third Generation (3GL - High-Level Language)"
+            },
+            {
+              "label": "D",
+              "text": "Fourth Generation (4GL - Query Language)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "First Generation (1GL - Machine Language)",
+          "explanation": "First Generation language (Machine Language) is written directly in binary code (0s and 1s), which the CPU executes natively without translation.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-002",
+          "question": "Which programming language uses symbolic mnemonic codes such as ADD, SUB, and MOV instead of raw binary?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Assembly Language (2GL)"
+            },
+            {
+              "label": "B",
+              "text": "Machine Language (1GL)"
+            },
+            {
+              "label": "C",
+              "text": "C Language"
+            },
+            {
+              "label": "D",
+              "text": "SQL (4GL)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Assembly Language (2GL)",
+          "explanation": "Assembly language replaced cryptic binary instructions with human-readable symbolic abbreviations called mnemonics (e.g., ADD, JMP, MOV).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-003",
+          "question": "Which of the following programming languages is classified as a Third-Generation Language (3GL)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "C"
+            },
+            {
+              "label": "B",
+              "text": "Raw Binary"
+            },
+            {
+              "label": "C",
+              "text": "8086 Assembly"
+            },
+            {
+              "label": "D",
+              "text": "SQL"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "C",
+          "explanation": "Third-Generation Languages (3GL) are procedural high-level languages like C, Pascal, BASIC, and FORTRAN that are machine-independent and use English-like syntax.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-004",
+          "question": "What is the defining characteristic of Fourth-Generation Languages (4GL) such as SQL?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Non-procedural nature: programmers specify WHAT data is needed rather than HOW to retrieve it step-by-step"
+            },
+            {
+              "label": "B",
+              "text": "Requirement of punch cards for input"
+            },
+            {
+              "label": "C",
+              "text": "Strict hardware dependency on a specific CPU brand"
+            },
+            {
+              "label": "D",
+              "text": "Inability to interact with databases"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Non-procedural nature: programmers specify WHAT data is needed rather than HOW to retrieve it step-by-step",
+          "explanation": "4GLs (like SQL) are declarative/non-procedural; developers define what results are desired, leaving the underlying execution algorithm to the database engine.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-005",
+          "question": "Which programming generation focuses on artificial intelligence, expert systems, and constraint-based natural language processing (e.g. Prolog, LISP)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Fifth Generation (5GL)"
+            },
+            {
+              "label": "B",
+              "text": "Second Generation (2GL)"
+            },
+            {
+              "label": "C",
+              "text": "Third Generation (3GL)"
+            },
+            {
+              "label": "D",
+              "text": "First Generation (1GL)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Fifth Generation (5GL)",
+          "explanation": "Fifth-Generation Languages (5GL) are designed for artificial intelligence, automated problem-solving, and logic programming.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Translators (Compiler, Interpreter, Assembler)",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-006",
+          "question": "What is a language translator program that converts an entire high-level source program into machine code at once called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Compiler"
+            },
+            {
+              "label": "B",
+              "text": "Interpreter"
+            },
+            {
+              "label": "C",
+              "text": "Assembler"
+            },
+            {
+              "label": "D",
+              "text": "Debugger"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Compiler",
+          "explanation": "A compiler scans and translates the entire high-level source code into machine-readable object code in a single comprehensive process before execution.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-007",
+          "question": "How does an Interpreter translate and execute high-level program source code?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Line-by-line, pausing immediately when a syntax error is encountered"
+            },
+            {
+              "label": "B",
+              "text": "By translating the entire program at once into an executable .exe file"
+            },
+            {
+              "label": "C",
+              "text": "By executing only the comments and ignoring statements"
+            },
+            {
+              "label": "D",
+              "text": "By burning code permanently into ROM chips"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Line-by-line, pausing immediately when a syntax error is encountered",
+          "explanation": "An interpreter translates source code sequentially statement-by-statement, executing each line immediately and halting as soon as an error is detected.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-008",
+          "question": "What is the specific translator software that converts Assembly Language mnemonics into machine code called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Assembler"
+            },
+            {
+              "label": "B",
+              "text": "Compiler"
+            },
+            {
+              "label": "C",
+              "text": "Linker"
+            },
+            {
+              "label": "D",
+              "text": "Loader"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Assembler",
+          "explanation": "An assembler is dedicated software that translates symbolic assembly language instructions into executable binary machine code.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-009",
+          "question": "Which translator produces a standalone binary executable file that can run independently without needing the source code?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Compiler"
+            },
+            {
+              "label": "B",
+              "text": "Interpreter"
+            },
+            {
+              "label": "C",
+              "text": "Text editor"
+            },
+            {
+              "label": "D",
+              "text": "Macro preprocessor"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Compiler",
+          "explanation": "Compilers generate independent machine-code binaries (e.g. .exe files) that run natively on the operating system without needing the compiler or original source code.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-010",
+          "question": "What system utility connects compiled object files with external library functions to produce an executable program?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Linker"
+            },
+            {
+              "label": "B",
+              "text": "Compiler"
+            },
+            {
+              "label": "C",
+              "text": "Device Driver"
+            },
+            {
+              "label": "D",
+              "text": "Defragmenter"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Linker",
+          "explanation": "A linker binds compiled object modules together with necessary standard C library functions (such as printf in stdio) into an executable program.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Algorithms, Flowcharts and Pseudocode",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-011",
+          "question": "What is a finite sequence of step-by-step logical instructions written in plain language to solve a specific problem called?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Algorithm"
+            },
+            {
+              "label": "B",
+              "text": "Flowchart"
+            },
+            {
+              "label": "C",
+              "text": "Syntax error"
+            },
+            {
+              "label": "D",
+              "text": "Binary dump"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Algorithm",
+          "explanation": "An algorithm is an unambiguous, step-by-step procedural recipe that accepts inputs, performs defined logical operations, and produces a result in finite steps.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-012",
+          "question": "In standard flowcharting, which geometric symbol is used to represent Start and Stop (Terminal) points?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Oval (Ellipse)"
+            },
+            {
+              "label": "B",
+              "text": "Rectangle"
+            },
+            {
+              "label": "C",
+              "text": "Diamond"
+            },
+            {
+              "label": "D",
+              "text": "Parallelogram"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Oval (Ellipse)",
+          "explanation": "An oval or rounded rectangle designates the terminal boundary points (Start and Stop) of a flowchart.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-013",
+          "question": "Which flowchart symbol represents data Input and Output operations (e.g. 'Input A, B' or 'Print Sum')?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Parallelogram"
+            },
+            {
+              "label": "B",
+              "text": "Rectangle"
+            },
+            {
+              "label": "C",
+              "text": "Circle"
+            },
+            {
+              "label": "D",
+              "text": "Diamond"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Parallelogram",
+          "explanation": "In standard flowchart conventions, a parallelogram denotes input operations (reading values) and output operations (printing results).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-014",
+          "question": "Which flowchart symbol is used for Decision-making or conditional branching (evaluating true/false conditions)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Diamond (Rhombus)"
+            },
+            {
+              "label": "B",
+              "text": "Rectangle"
+            },
+            {
+              "label": "C",
+              "text": "Triangle"
+            },
+            {
+              "label": "D",
+              "text": "Hexagon"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Diamond (Rhombus)",
+          "explanation": "The diamond symbol represents a decision/conditional point with two or more diverging paths (e.g. Yes/No or True/False).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-015",
+          "question": "A small circular symbol in a flowchart is used as a:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Connector to join intersecting flow lines"
+            },
+            {
+              "label": "B",
+              "text": "Variable declaration container"
+            },
+            {
+              "label": "C",
+              "text": "Data storage disk"
+            },
+            {
+              "label": "D",
+              "text": "Network modem"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Connector to join intersecting flow lines",
+          "explanation": "A circle serves as an on-page connector to join complex or crossing flow paths neatly without tangling lines.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "C Language Fundamentals and Structure",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-016",
+          "question": "Who created the C programming language at AT&T Bell Laboratories in 1972?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Dennis Ritchie"
+            },
+            {
+              "label": "B",
+              "text": "Bjarne Stroustrup"
+            },
+            {
+              "label": "C",
+              "text": "James Gosling"
+            },
+            {
+              "label": "D",
+              "text": "Guido van Rossum"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Dennis Ritchie",
+          "explanation": "Dennis Ritchie designed and implemented the C programming language in 1972 at AT&T Bell Laboratories to develop the Unix operating system.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-017",
+          "question": "In every C program, which function serves as the mandatory entry point where code execution begins?",
+          "options": [
+            {
+              "label": "A",
+              "text": "main()"
+            },
+            {
+              "label": "B",
+              "text": "start()"
+            },
+            {
+              "label": "C",
+              "text": "init()"
+            },
+            {
+              "label": "D",
+              "text": "printf()"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "main()",
+          "explanation": "Execution of every C program begins at the `main()` function, which acts as the designated program entry point.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-018",
+          "question": "What character must precede preprocessor directives like #include and #define in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "# (Hash / Pound)"
+            },
+            {
+              "label": "B",
+              "text": "@ (At symbol)"
+            },
+            {
+              "label": "C",
+              "text": "$ (Dollar sign)"
+            },
+            {
+              "label": "D",
+              "text": "& (Ampersand)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "# (Hash / Pound)",
+          "explanation": "In C, preprocessor directives begin with the `#` symbol and are processed before the compiler translates the source code.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-019",
+          "question": "Which standard header file must be included to use functions like printf() and scanf()?",
+          "options": [
+            {
+              "label": "A",
+              "text": "<stdio.h>"
+            },
+            {
+              "label": "B",
+              "text": "<math.h>"
+            },
+            {
+              "label": "C",
+              "text": "<conio.h>"
+            },
+            {
+              "label": "D",
+              "text": "<string.h>"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "<stdio.h>",
+          "explanation": "`<stdio.h>` (Standard Input Output header) contains the declarations for input/output library functions like `printf()` and `scanf()`.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-020",
+          "question": "How are multi-line comments written in the C programming language?",
+          "options": [
+            {
+              "label": "A",
+              "text": "/* comment text */"
+            },
+            {
+              "label": "B",
+              "text": "// comment text //"
+            },
+            {
+              "label": "C",
+              "text": "<!-- comment text -->"
+            },
+            {
+              "label": "D",
+              "text": "# comment text"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "/* comment text */",
+          "explanation": "Multi-line comments in C begin with `/*` and terminate with `*/`. Single-line comments begin with `//`.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Identifiers, Keywords and Data Types",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-021",
+          "question": "How many standard reserved keywords are defined in the ANSI C programming language?",
+          "options": [
+            {
+              "label": "A",
+              "text": "32"
+            },
+            {
+              "label": "B",
+              "text": "48"
+            },
+            {
+              "label": "C",
+              "text": "64"
+            },
+            {
+              "label": "D",
+              "text": "256"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "32",
+          "explanation": "The original ANSI C standard (C89/C90) reserves exactly 32 predefined keywords (e.g., auto, break, case, char, const, continue, int, return, etc.).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-022",
+          "question": "Which of the following is a VALID variable identifier name in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total_marks"
+            },
+            {
+              "label": "B",
+              "text": "2nd_number"
+            },
+            {
+              "label": "C",
+              "text": "student name"
+            },
+            {
+              "label": "D",
+              "text": "for"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "total_marks",
+          "explanation": "Variable names in C cannot start with digits (2nd_number is invalid), cannot contain spaces (student name is invalid), and cannot be reserved keywords (for is invalid). `total_marks` is valid.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-023",
+          "question": "Which data type in C is used to store a single ASCII character and typically occupies 1 byte of memory?",
+          "options": [
+            {
+              "label": "A",
+              "text": "char"
+            },
+            {
+              "label": "B",
+              "text": "int"
+            },
+            {
+              "label": "C",
+              "text": "float"
+            },
+            {
+              "label": "D",
+              "text": "double"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "char",
+          "explanation": "The `char` data type occupies 1 byte (8 bits) of memory and stores single character symbols represented by ASCII numerical codes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-024",
+          "question": "What is the format specifier used in printf() and scanf() to handle double-precision floating-point numbers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "%lf"
+            },
+            {
+              "label": "B",
+              "text": "%d"
+            },
+            {
+              "label": "C",
+              "text": "%c"
+            },
+            {
+              "label": "D",
+              "text": "%s"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "%lf",
+          "explanation": "`%lf` (long float) is the format specifier used to input and output `double` precision variables, while `%f` is used for single-precision `float`.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-025",
+          "question": "What is the standard memory size allocated for a single-precision 'float' variable in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4 bytes (32 bits)"
+            },
+            {
+              "label": "B",
+              "text": "1 byte (8 bits)"
+            },
+            {
+              "label": "C",
+              "text": "2 bytes (16 bits)"
+            },
+            {
+              "label": "D",
+              "text": "8 bytes (64 bits)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4 bytes (32 bits)",
+          "explanation": "Standard IEEE 754 single-precision floating point (`float`) requires 4 bytes (32 bits) of memory storage.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Operators and Expressions",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-026",
+          "question": "What is the result of the arithmetic expression 14 % 4 in C programming?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "3.5"
+            },
+            {
+              "label": "D",
+              "text": "0"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "2",
+          "explanation": "The modulus operator `%` computes the remainder of integer division. 14 divided by 4 equals 3 with a remainder of 2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-027",
+          "question": "Which operator CANNOT be used with floating-point operands (float or double) in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "% (Modulus)"
+            },
+            {
+              "label": "B",
+              "text": "/ (Division)"
+            },
+            {
+              "label": "C",
+              "text": "* (Multiplication)"
+            },
+            {
+              "label": "D",
+              "text": "+ (Addition)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "% (Modulus)",
+          "explanation": "In C, the modulus operator `%` requires both operands to be integers; attempting to use it with `float` or `double` produces a compile-time error.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-028",
+          "question": "Which operator represents the logical AND operation in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "&&"
+            },
+            {
+              "label": "B",
+              "text": "&"
+            },
+            {
+              "label": "C",
+              "text": "AND"
+            },
+            {
+              "label": "D",
+              "text": "||"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "&&",
+          "explanation": "`&&` is the logical AND operator in C (evaluating whether both boolean conditions are true), whereas single `&` is the bitwise AND operator.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-029",
+          "question": "If integer variable x = 5, what will be the value of y after executing: y = x++; ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "y = 5 (and x becomes 6)"
+            },
+            {
+              "label": "B",
+              "text": "y = 6 (and x becomes 6)"
+            },
+            {
+              "label": "C",
+              "text": "y = 5 (and x remains 5)"
+            },
+            {
+              "label": "D",
+              "text": "y = 4 (and x becomes 5)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "y = 5 (and x becomes 6)",
+          "explanation": "In post-increment (`x++`), the current value of `x` (5) is first assigned to `y`, and subsequently `x` is incremented to 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-030",
+          "question": "What is the ternary (conditional) operator syntax in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "condition ? expression1 : expression2"
+            },
+            {
+              "label": "B",
+              "text": "if condition then expression1 else expression2"
+            },
+            {
+              "label": "C",
+              "text": "condition : expression1 ? expression2"
+            },
+            {
+              "label": "D",
+              "text": "expression1 ? condition : expression2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "condition ? expression1 : expression2",
+          "explanation": "The ternary operator `? :` evaluates the condition; if true, expression1 is returned; if false, expression2 is returned.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Input and Output Functions in C",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-031",
+          "question": "Why is the address-of operator '&' required before variable names in the scanf() function?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because scanf() needs the memory address where the entered data must be stored"
+            },
+            {
+              "label": "B",
+              "text": "To convert the input into an encrypted string"
+            },
+            {
+              "label": "C",
+              "text": "To double the speed of keyboard input"
+            },
+            {
+              "label": "D",
+              "text": "To indicate that the variable is an array"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because scanf() needs the memory address where the entered data must be stored",
+          "explanation": "`scanf()` passes variables by reference; supplying the memory address `&var` allows `scanf()` to write the user's input directly into that variable's storage location.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-032",
+          "question": "Which escape sequence in C moves the cursor to the beginning of the next line on the display?",
+          "options": [
+            {
+              "label": "A",
+              "text": "\\n"
+            },
+            {
+              "label": "B",
+              "text": "\\t"
+            },
+            {
+              "label": "C",
+              "text": "\\b"
+            },
+            {
+              "label": "D",
+              "text": "\\r"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "\\n",
+          "explanation": "The escape sequence `\\n` represents the newline character, moving output printing to the start of the next line.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-033",
+          "question": "Which C library function reads a single character from standard input (keyboard)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "getchar()"
+            },
+            {
+              "label": "B",
+              "text": "putchar()"
+            },
+            {
+              "label": "C",
+              "text": "puts()"
+            },
+            {
+              "label": "D",
+              "text": "printc()"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "getchar()",
+          "explanation": "`getchar()` reads the next available single character from the standard input stream.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-034",
+          "question": "What will printf(\"%%d\", 10); output to the console?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "%d"
+            },
+            {
+              "label": "C",
+              "text": "%%d"
+            },
+            {
+              "label": "D",
+              "text": "Compilation Error"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "10",
+          "explanation": "`%d` is replaced by the integer argument (10), printing the decimal number 10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-035",
+          "question": "Which escape sequence represents a horizontal tab spacing (typically 8 spaces)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "\\t"
+            },
+            {
+              "label": "B",
+              "text": "\\n"
+            },
+            {
+              "label": "C",
+              "text": "\\v"
+            },
+            {
+              "label": "D",
+              "text": "\\a"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "\\t",
+          "explanation": "The escape sequence `\\t` outputs a horizontal tab, advancing the cursor to the next tab stop.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Conditional Control Statements (if, if-else, switch)",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-036",
+          "question": "In C, which value is treated as logically FALSE in conditional evaluations?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "-1"
+            },
+            {
+              "label": "D",
+              "text": "Any positive integer"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "0",
+          "explanation": "In C, zero (0) represents FALSE, while any non-zero value (positive or negative) evaluates to TRUE.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-037",
+          "question": "What keyword is used inside a switch statement to prevent execution from 'falling through' into subsequent cases?",
+          "options": [
+            {
+              "label": "A",
+              "text": "break"
+            },
+            {
+              "label": "B",
+              "text": "continue"
+            },
+            {
+              "label": "C",
+              "text": "stop"
+            },
+            {
+              "label": "D",
+              "text": "exit"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "break",
+          "explanation": "The `break` statement terminates the `switch` block; without `break`, execution falls through and runs all subsequent case statements.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-038",
+          "question": "Which data types are PERMITTED in the controlling expression of a switch statement in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Integer (int) and Character (char)"
+            },
+            {
+              "label": "B",
+              "text": "Float and Double"
+            },
+            {
+              "label": "C",
+              "text": "Character strings and arrays"
+            },
+            {
+              "label": "D",
+              "text": "Pointers and structures"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Integer (int) and Character (char)",
+          "explanation": "In C, switch expressions must evaluate to an integral type (`int`, `char`, or `enum`); floating-point types (`float`, `double`) are not allowed.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-039",
+          "question": "Which optional section in a switch statement executes when none of the defined case values match?",
+          "options": [
+            {
+              "label": "A",
+              "text": "default:"
+            },
+            {
+              "label": "B",
+              "text": "else:"
+            },
+            {
+              "label": "C",
+              "text": "finally:"
+            },
+            {
+              "label": "D",
+              "text": "catch:"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "default:",
+          "explanation": "The `default:` label specifies statements to execute when the switch expression does not match any specified `case` constant.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-040",
+          "question": "What is the output of the following C snippet: int x = 3; if (x = 0) printf(\"A\"); else printf(\"B\"); ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B"
+            },
+            {
+              "label": "B",
+              "text": "A"
+            },
+            {
+              "label": "C",
+              "text": "AB"
+            },
+            {
+              "label": "D",
+              "text": "Compilation Error"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "B",
+          "explanation": "`x = 0` is an assignment operator, which sets x to 0 and evaluates to 0 (FALSE). Hence, the `else` branch executes, printing 'B'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Loop Control Statements (for, while, do-while)",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-041",
+          "question": "Which loop guarantees that its body will execute AT LEAST ONCE, even if the condition is false initially?",
+          "options": [
+            {
+              "label": "A",
+              "text": "do-while loop"
+            },
+            {
+              "label": "B",
+              "text": "while loop"
+            },
+            {
+              "label": "C",
+              "text": "for loop"
+            },
+            {
+              "label": "D",
+              "text": "nested for loop"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "do-while loop",
+          "explanation": "Because `do-while` is an exit-controlled loop, the condition is evaluated at the end after the loop body has executed once.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-042",
+          "question": "Why are 'for' and 'while' loops classified as 'Entry-controlled loops'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because they test the loop condition before executing the loop body"
+            },
+            {
+              "label": "B",
+              "text": "Because they only accept integer variables"
+            },
+            {
+              "label": "C",
+              "text": "Because they run indefinitely without termination"
+            },
+            {
+              "label": "D",
+              "text": "Because they require a return statement"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because they test the loop condition before executing the loop body",
+          "explanation": "Entry-controlled loops test the condition at the entry point; if the condition is false from the start, the loop body does not execute at all.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-043",
+          "question": "What is the function of the 'continue' statement inside a loop in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It skips the rest of the current iteration and jumps directly to the next iteration"
+            },
+            {
+              "label": "B",
+              "text": "It terminates the entire loop immediately"
+            },
+            {
+              "label": "C",
+              "text": "It restarts the program from main()"
+            },
+            {
+              "label": "D",
+              "text": "It pauses loop execution for 5 seconds"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It skips the rest of the current iteration and jumps directly to the next iteration",
+          "explanation": "`continue` bypasses the remaining code in the active iteration and advances control directly to the loop condition/update step.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-044",
+          "question": "How many times will the loop execute: for(int i = 1; i <= 5; i++) ?",
+          "options": [
+            {
+              "label": "A",
+              "text": "5 times"
+            },
+            {
+              "label": "B",
+              "text": "4 times"
+            },
+            {
+              "label": "C",
+              "text": "6 times"
+            },
+            {
+              "label": "D",
+              "text": "Infinite times"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "5 times",
+          "explanation": "The variable `i` takes values 1, 2, 3, 4, and 5. When `i` becomes 6, 6 <= 5 is false, terminating after exactly 5 iterations.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-045",
+          "question": "Which of the following constructs creates an intentional infinite loop in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "while(1)"
+            },
+            {
+              "label": "B",
+              "text": "while(0)"
+            },
+            {
+              "label": "C",
+              "text": "for(i = 0; i < 0; i++)"
+            },
+            {
+              "label": "D",
+              "text": "do {} while(0);"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "while(1)",
+          "explanation": "`while(1)` always evaluates to TRUE (non-zero), causing the loop to repeat indefinitely unless broken by an internal `break` or `exit()`.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Arrays, Functions and Pointers Basics",
+      "questions": [
+        {
+          "id": "ICT05-MCQ-046",
+          "question": "What is the index of the FIRST element in a C array containing 10 integers?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "-1"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "0",
+          "explanation": "C uses zero-based array indexing. In an array of size N, indices range from 0 to N-1; the first element is `arr[0]`.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-047",
+          "question": "In an array declared as 'int marks[5];', what is the index of the LAST valid element?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4",
+          "explanation": "For an array with 5 elements, valid indices are 0, 1, 2, 3, and 4. The last valid element is `marks[4]`.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT05-MCQ-048",
+          "question": "What is a primary characteristic of an Array data structure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "It stores a fixed-size sequential collection of elements belonging to the SAME data type"
+            },
+            {
+              "label": "B",
+              "text": "It can store mixed integers, floats, and strings in a single variable"
+            },
+            {
+              "label": "C",
+              "text": "Its size expands automatically in RAM during execution"
+            },
+            {
+              "label": "D",
+              "text": "It does not occupy contiguous memory locations"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It stores a fixed-size sequential collection of elements belonging to the SAME data type",
+          "explanation": "An array is a homogeneous collection of elements of identical data type allocated in contiguous memory blocks.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-049",
+          "question": "What special variable type in C stores the memory address of another variable rather than a direct value?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Pointer"
+            },
+            {
+              "label": "B",
+              "text": "Array"
+            },
+            {
+              "label": "C",
+              "text": "Structure"
+            },
+            {
+              "label": "D",
+              "text": "Constant"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Pointer",
+          "explanation": "A pointer is a variable that holds the memory address of another variable (e.g. `int *ptr = &num;`).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT05-MCQ-050",
+          "question": "Which mathematical library function declared in <math.h> calculates the square root of a number in C?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sqrt()"
+            },
+            {
+              "label": "B",
+              "text": "sqr()"
+            },
+            {
+              "label": "C",
+              "text": "root()"
+            },
+            {
+              "label": "D",
+              "text": "power()"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "sqrt()",
+          "explanation": "The `sqrt()` function in `<math.h>` takes a non-negative floating-point argument and returns its square root.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

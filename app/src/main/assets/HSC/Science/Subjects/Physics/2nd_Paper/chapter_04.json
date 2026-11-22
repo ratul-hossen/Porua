@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 4,
+  "chapter_title": "Magnetic Effects of Electric Current",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Magnetic field",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ001",
+          "question": "Which statement best describes magnetic field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "light only"
+            },
+            {
+              "label": "B",
+              "text": "uncharged objects only"
+            },
+            {
+              "label": "C",
+              "text": "A magnetic field exerts a force on moving charges and current-carrying conductors"
+            },
+            {
+              "label": "D",
+              "text": "all stationary charges in every case"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A magnetic field exerts a force on moving charges and current-carrying conductors",
+          "explanation": "Magnetic force acts on moving charges; a stationary charge experiences no magnetic force.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ002",
+          "question": "Which option is correctly associated with magnetic field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A magnetic field exerts a force on moving charges and current-carrying conductors"
+            },
+            {
+              "label": "B",
+              "text": "all stationary charges in every case"
+            },
+            {
+              "label": "C",
+              "text": "light only"
+            },
+            {
+              "label": "D",
+              "text": "uncharged objects only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A magnetic field exerts a force on moving charges and current-carrying conductors",
+          "explanation": "Magnetic force acts on moving charges; a stationary charge experiences no magnetic force.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ003",
+          "question": "In a basic HSC Physics question about magnetic field, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A magnetic field exerts a force on moving charges and current-carrying conductors"
+            },
+            {
+              "label": "B",
+              "text": "all stationary charges in every case"
+            },
+            {
+              "label": "C",
+              "text": "light only"
+            },
+            {
+              "label": "D",
+              "text": "uncharged objects only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A magnetic field exerts a force on moving charges and current-carrying conductors",
+          "explanation": "Magnetic force acts on moving charges; a stationary charge experiences no magnetic force.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ004",
+          "question": "Which fact should be remembered about magnetic field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "uncharged objects only"
+            },
+            {
+              "label": "B",
+              "text": "all stationary charges in every case"
+            },
+            {
+              "label": "C",
+              "text": "A magnetic field exerts a force on moving charges and current-carrying conductors"
+            },
+            {
+              "label": "D",
+              "text": "light only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A magnetic field exerts a force on moving charges and current-carrying conductors",
+          "explanation": "Magnetic force acts on moving charges; a stationary charge experiences no magnetic force.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning magnetic field?",
+          "options": [
+            {
+              "label": "A",
+              "text": "uncharged objects only"
+            },
+            {
+              "label": "B",
+              "text": "A magnetic field exerts a force on moving charges and current-carrying conductors"
+            },
+            {
+              "label": "C",
+              "text": "all stationary charges in every case"
+            },
+            {
+              "label": "D",
+              "text": "light only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A magnetic field exerts a force on moving charges and current-carrying conductors",
+          "explanation": "Magnetic force acts on moving charges; a stationary charge experiences no magnetic force.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Lorentz force",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ006",
+          "question": "Which statement best describes lorentz force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "qv²B"
+            },
+            {
+              "label": "B",
+              "text": "qB/v"
+            },
+            {
+              "label": "C",
+              "text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB"
+            },
+            {
+              "label": "D",
+              "text": "qv/B"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB",
+          "explanation": "The general magnetic force magnitude is qvB sin θ.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ007",
+          "question": "Which option is correctly associated with lorentz force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "qv/B"
+            },
+            {
+              "label": "B",
+              "text": "qv²B"
+            },
+            {
+              "label": "C",
+              "text": "qB/v"
+            },
+            {
+              "label": "D",
+              "text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB",
+          "explanation": "The general magnetic force magnitude is qvB sin θ.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ008",
+          "question": "In a basic HSC Physics question about lorentz force, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "qB/v"
+            },
+            {
+              "label": "B",
+              "text": "qv²B"
+            },
+            {
+              "label": "C",
+              "text": "qv/B"
+            },
+            {
+              "label": "D",
+              "text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB",
+          "explanation": "The general magnetic force magnitude is qvB sin θ.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ009",
+          "question": "Which fact should be remembered about lorentz force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "qB/v"
+            },
+            {
+              "label": "B",
+              "text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB"
+            },
+            {
+              "label": "C",
+              "text": "qv²B"
+            },
+            {
+              "label": "D",
+              "text": "qv/B"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB",
+          "explanation": "The general magnetic force magnitude is qvB sin θ.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning lorentz force?",
+          "options": [
+            {
+              "label": "A",
+              "text": "qv²B"
+            },
+            {
+              "label": "B",
+              "text": "qv/B"
+            },
+            {
+              "label": "C",
+              "text": "qB/v"
+            },
+            {
+              "label": "D",
+              "text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The magnetic force magnitude on a charge moving perpendicular to B is qvB",
+          "explanation": "The general magnetic force magnitude is qvB sin θ.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Force on wire",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ011",
+          "question": "Which statement best describes force on wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B/I L"
+            },
+            {
+              "label": "B",
+              "text": "BIL²"
+            },
+            {
+              "label": "C",
+              "text": "BI/L"
+            },
+            {
+              "label": "D",
+              "text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL",
+          "explanation": "The general expression is F = BIL sin θ.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ012",
+          "question": "Which option is correctly associated with force on wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "B/I L"
+            },
+            {
+              "label": "B",
+              "text": "BI/L"
+            },
+            {
+              "label": "C",
+              "text": "BIL²"
+            },
+            {
+              "label": "D",
+              "text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL",
+          "explanation": "The general expression is F = BIL sin θ.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ013",
+          "question": "In a basic HSC Physics question about force on wire, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "BIL²"
+            },
+            {
+              "label": "B",
+              "text": "BI/L"
+            },
+            {
+              "label": "C",
+              "text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL"
+            },
+            {
+              "label": "D",
+              "text": "B/I L"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL",
+          "explanation": "The general expression is F = BIL sin θ.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ014",
+          "question": "Which fact should be remembered about force on wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL"
+            },
+            {
+              "label": "B",
+              "text": "BI/L"
+            },
+            {
+              "label": "C",
+              "text": "B/I L"
+            },
+            {
+              "label": "D",
+              "text": "BIL²"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL",
+          "explanation": "The general expression is F = BIL sin θ.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning force on wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL"
+            },
+            {
+              "label": "B",
+              "text": "BIL²"
+            },
+            {
+              "label": "C",
+              "text": "BI/L"
+            },
+            {
+              "label": "D",
+              "text": "B/I L"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A straight wire of length L carrying current I perpendicular to B experiences force BIL",
+          "explanation": "The general expression is F = BIL sin θ.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Field around wire",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ016",
+          "question": "Which statement best describes field around wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "radial straight lines"
+            },
+            {
+              "label": "B",
+              "text": "random spirals"
+            },
+            {
+              "label": "C",
+              "text": "parallel lines only"
+            },
+            {
+              "label": "D",
+              "text": "The magnetic field around a long straight current-carrying wire forms concentric circles"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The magnetic field around a long straight current-carrying wire forms concentric circles",
+          "explanation": "The right-hand grip rule gives the circular field direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ017",
+          "question": "Which option is correctly associated with field around wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "radial straight lines"
+            },
+            {
+              "label": "B",
+              "text": "random spirals"
+            },
+            {
+              "label": "C",
+              "text": "The magnetic field around a long straight current-carrying wire forms concentric circles"
+            },
+            {
+              "label": "D",
+              "text": "parallel lines only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The magnetic field around a long straight current-carrying wire forms concentric circles",
+          "explanation": "The right-hand grip rule gives the circular field direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ018",
+          "question": "In a basic HSC Physics question about field around wire, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "radial straight lines"
+            },
+            {
+              "label": "B",
+              "text": "parallel lines only"
+            },
+            {
+              "label": "C",
+              "text": "random spirals"
+            },
+            {
+              "label": "D",
+              "text": "The magnetic field around a long straight current-carrying wire forms concentric circles"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The magnetic field around a long straight current-carrying wire forms concentric circles",
+          "explanation": "The right-hand grip rule gives the circular field direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ019",
+          "question": "Which fact should be remembered about field around wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "random spirals"
+            },
+            {
+              "label": "B",
+              "text": "radial straight lines"
+            },
+            {
+              "label": "C",
+              "text": "The magnetic field around a long straight current-carrying wire forms concentric circles"
+            },
+            {
+              "label": "D",
+              "text": "parallel lines only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The magnetic field around a long straight current-carrying wire forms concentric circles",
+          "explanation": "The right-hand grip rule gives the circular field direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning field around wire?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The magnetic field around a long straight current-carrying wire forms concentric circles"
+            },
+            {
+              "label": "B",
+              "text": "parallel lines only"
+            },
+            {
+              "label": "C",
+              "text": "random spirals"
+            },
+            {
+              "label": "D",
+              "text": "radial straight lines"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The magnetic field around a long straight current-carrying wire forms concentric circles",
+          "explanation": "The right-hand grip rule gives the circular field direction.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Solenoid",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ021",
+          "question": "Which statement best describes solenoid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "strongest only outside"
+            },
+            {
+              "label": "B",
+              "text": "randomly directed"
+            },
+            {
+              "label": "C",
+              "text": "The magnetic field inside a long ideal solenoid is approximately uniform"
+            },
+            {
+              "label": "D",
+              "text": "zero everywhere"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The magnetic field inside a long ideal solenoid is approximately uniform",
+          "explanation": "A long solenoid produces a nearly uniform axial field inside.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ022",
+          "question": "Which option is correctly associated with solenoid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "strongest only outside"
+            },
+            {
+              "label": "B",
+              "text": "randomly directed"
+            },
+            {
+              "label": "C",
+              "text": "The magnetic field inside a long ideal solenoid is approximately uniform"
+            },
+            {
+              "label": "D",
+              "text": "zero everywhere"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The magnetic field inside a long ideal solenoid is approximately uniform",
+          "explanation": "A long solenoid produces a nearly uniform axial field inside.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ023",
+          "question": "In a basic HSC Physics question about solenoid, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The magnetic field inside a long ideal solenoid is approximately uniform"
+            },
+            {
+              "label": "B",
+              "text": "strongest only outside"
+            },
+            {
+              "label": "C",
+              "text": "zero everywhere"
+            },
+            {
+              "label": "D",
+              "text": "randomly directed"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The magnetic field inside a long ideal solenoid is approximately uniform",
+          "explanation": "A long solenoid produces a nearly uniform axial field inside.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ024",
+          "question": "Which fact should be remembered about solenoid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The magnetic field inside a long ideal solenoid is approximately uniform"
+            },
+            {
+              "label": "B",
+              "text": "zero everywhere"
+            },
+            {
+              "label": "C",
+              "text": "randomly directed"
+            },
+            {
+              "label": "D",
+              "text": "strongest only outside"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The magnetic field inside a long ideal solenoid is approximately uniform",
+          "explanation": "A long solenoid produces a nearly uniform axial field inside.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning solenoid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "zero everywhere"
+            },
+            {
+              "label": "B",
+              "text": "The magnetic field inside a long ideal solenoid is approximately uniform"
+            },
+            {
+              "label": "C",
+              "text": "strongest only outside"
+            },
+            {
+              "label": "D",
+              "text": "randomly directed"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The magnetic field inside a long ideal solenoid is approximately uniform",
+          "explanation": "A long solenoid produces a nearly uniform axial field inside.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Magnetic flux",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ026",
+          "question": "Which statement best describes magnetic flux?",
+          "options": [
+            {
+              "label": "A",
+              "text": "BA sin θ for θ measured from normal"
+            },
+            {
+              "label": "B",
+              "text": "Magnetic flux through a flat surface is Φ = BA cos θ"
+            },
+            {
+              "label": "C",
+              "text": "B/A"
+            },
+            {
+              "label": "D",
+              "text": "A/B"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Magnetic flux through a flat surface is Φ = BA cos θ",
+          "explanation": "θ is the angle between the magnetic field and the surface normal.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ027",
+          "question": "Which option is correctly associated with magnetic flux?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnetic flux through a flat surface is Φ = BA cos θ"
+            },
+            {
+              "label": "B",
+              "text": "B/A"
+            },
+            {
+              "label": "C",
+              "text": "BA sin θ for θ measured from normal"
+            },
+            {
+              "label": "D",
+              "text": "A/B"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Magnetic flux through a flat surface is Φ = BA cos θ",
+          "explanation": "θ is the angle between the magnetic field and the surface normal.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ028",
+          "question": "In a basic HSC Physics question about magnetic flux, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A/B"
+            },
+            {
+              "label": "B",
+              "text": "Magnetic flux through a flat surface is Φ = BA cos θ"
+            },
+            {
+              "label": "C",
+              "text": "BA sin θ for θ measured from normal"
+            },
+            {
+              "label": "D",
+              "text": "B/A"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Magnetic flux through a flat surface is Φ = BA cos θ",
+          "explanation": "θ is the angle between the magnetic field and the surface normal.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ029",
+          "question": "Which fact should be remembered about magnetic flux?",
+          "options": [
+            {
+              "label": "A",
+              "text": "BA sin θ for θ measured from normal"
+            },
+            {
+              "label": "B",
+              "text": "Magnetic flux through a flat surface is Φ = BA cos θ"
+            },
+            {
+              "label": "C",
+              "text": "A/B"
+            },
+            {
+              "label": "D",
+              "text": "B/A"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Magnetic flux through a flat surface is Φ = BA cos θ",
+          "explanation": "θ is the angle between the magnetic field and the surface normal.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning magnetic flux?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Magnetic flux through a flat surface is Φ = BA cos θ"
+            },
+            {
+              "label": "B",
+              "text": "BA sin θ for θ measured from normal"
+            },
+            {
+              "label": "C",
+              "text": "A/B"
+            },
+            {
+              "label": "D",
+              "text": "B/A"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Magnetic flux through a flat surface is Φ = BA cos θ",
+          "explanation": "θ is the angle between the magnetic field and the surface normal.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Charged particle motion",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ031",
+          "question": "Which statement best describes charged particle motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "comes instantly to rest"
+            },
+            {
+              "label": "B",
+              "text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle"
+            },
+            {
+              "label": "C",
+              "text": "parabola in the field direction"
+            },
+            {
+              "label": "D",
+              "text": "straight line with increasing speed"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle",
+          "explanation": "The magnetic force is perpendicular to velocity and acts as centripetal force.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ032",
+          "question": "Which option is correctly associated with charged particle motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parabola in the field direction"
+            },
+            {
+              "label": "B",
+              "text": "straight line with increasing speed"
+            },
+            {
+              "label": "C",
+              "text": "comes instantly to rest"
+            },
+            {
+              "label": "D",
+              "text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle",
+          "explanation": "The magnetic force is perpendicular to velocity and acts as centripetal force.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ033",
+          "question": "In a basic HSC Physics question about charged particle motion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "straight line with increasing speed"
+            },
+            {
+              "label": "B",
+              "text": "comes instantly to rest"
+            },
+            {
+              "label": "C",
+              "text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle"
+            },
+            {
+              "label": "D",
+              "text": "parabola in the field direction"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle",
+          "explanation": "The magnetic force is perpendicular to velocity and acts as centripetal force.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ034",
+          "question": "Which fact should be remembered about charged particle motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parabola in the field direction"
+            },
+            {
+              "label": "B",
+              "text": "comes instantly to rest"
+            },
+            {
+              "label": "C",
+              "text": "straight line with increasing speed"
+            },
+            {
+              "label": "D",
+              "text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle",
+          "explanation": "The magnetic force is perpendicular to velocity and acts as centripetal force.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning charged particle motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "parabola in the field direction"
+            },
+            {
+              "label": "B",
+              "text": "comes instantly to rest"
+            },
+            {
+              "label": "C",
+              "text": "straight line with increasing speed"
+            },
+            {
+              "label": "D",
+              "text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A charged particle entering a uniform magnetic field perpendicular to its velocity moves in a circle",
+          "explanation": "The magnetic force is perpendicular to velocity and acts as centripetal force.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Torque on coil",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ036",
+          "question": "Which statement best describes torque on coil?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NIB/A"
+            },
+            {
+              "label": "B",
+              "text": "NIAB cos θ for θ between normal and field"
+            },
+            {
+              "label": "C",
+              "text": "NIA/B"
+            },
+            {
+              "label": "D",
+              "text": "The torque on an N-turn coil is NIAB sin θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The torque on an N-turn coil is NIAB sin θ",
+          "explanation": "The torque depends on current, area, field, turns and the angle between coil normal and field.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ037",
+          "question": "Which option is correctly associated with torque on coil?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NIAB cos θ for θ between normal and field"
+            },
+            {
+              "label": "B",
+              "text": "The torque on an N-turn coil is NIAB sin θ"
+            },
+            {
+              "label": "C",
+              "text": "NIB/A"
+            },
+            {
+              "label": "D",
+              "text": "NIA/B"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The torque on an N-turn coil is NIAB sin θ",
+          "explanation": "The torque depends on current, area, field, turns and the angle between coil normal and field.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ038",
+          "question": "In a basic HSC Physics question about torque on coil, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NIB/A"
+            },
+            {
+              "label": "B",
+              "text": "NIA/B"
+            },
+            {
+              "label": "C",
+              "text": "NIAB cos θ for θ between normal and field"
+            },
+            {
+              "label": "D",
+              "text": "The torque on an N-turn coil is NIAB sin θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The torque on an N-turn coil is NIAB sin θ",
+          "explanation": "The torque depends on current, area, field, turns and the angle between coil normal and field.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ039",
+          "question": "Which fact should be remembered about torque on coil?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NIAB cos θ for θ between normal and field"
+            },
+            {
+              "label": "B",
+              "text": "NIB/A"
+            },
+            {
+              "label": "C",
+              "text": "NIA/B"
+            },
+            {
+              "label": "D",
+              "text": "The torque on an N-turn coil is NIAB sin θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The torque on an N-turn coil is NIAB sin θ",
+          "explanation": "The torque depends on current, area, field, turns and the angle between coil normal and field.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning torque on coil?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NIAB cos θ for θ between normal and field"
+            },
+            {
+              "label": "B",
+              "text": "NIA/B"
+            },
+            {
+              "label": "C",
+              "text": "NIB/A"
+            },
+            {
+              "label": "D",
+              "text": "The torque on an N-turn coil is NIAB sin θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The torque on an N-turn coil is NIAB sin θ",
+          "explanation": "The torque depends on current, area, field, turns and the angle between coil normal and field.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Magnetic materials",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ041",
+          "question": "Which statement best describes magnetic materials?",
+          "options": [
+            {
+              "label": "A",
+              "text": "is always non-magnetic"
+            },
+            {
+              "label": "B",
+              "text": "cannot respond to magnetic fields"
+            },
+            {
+              "label": "C",
+              "text": "A ferromagnetic material can be strongly magnetized"
+            },
+            {
+              "label": "D",
+              "text": "has zero magnetic domains"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A ferromagnetic material can be strongly magnetized",
+          "explanation": "Ferromagnets contain domains that can align to produce strong magnetization.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ042",
+          "question": "Which option is correctly associated with magnetic materials?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cannot respond to magnetic fields"
+            },
+            {
+              "label": "B",
+              "text": "A ferromagnetic material can be strongly magnetized"
+            },
+            {
+              "label": "C",
+              "text": "is always non-magnetic"
+            },
+            {
+              "label": "D",
+              "text": "has zero magnetic domains"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A ferromagnetic material can be strongly magnetized",
+          "explanation": "Ferromagnets contain domains that can align to produce strong magnetization.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ043",
+          "question": "In a basic HSC Physics question about magnetic materials, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A ferromagnetic material can be strongly magnetized"
+            },
+            {
+              "label": "B",
+              "text": "is always non-magnetic"
+            },
+            {
+              "label": "C",
+              "text": "has zero magnetic domains"
+            },
+            {
+              "label": "D",
+              "text": "cannot respond to magnetic fields"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A ferromagnetic material can be strongly magnetized",
+          "explanation": "Ferromagnets contain domains that can align to produce strong magnetization.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ044",
+          "question": "Which fact should be remembered about magnetic materials?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cannot respond to magnetic fields"
+            },
+            {
+              "label": "B",
+              "text": "has zero magnetic domains"
+            },
+            {
+              "label": "C",
+              "text": "A ferromagnetic material can be strongly magnetized"
+            },
+            {
+              "label": "D",
+              "text": "is always non-magnetic"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "A ferromagnetic material can be strongly magnetized",
+          "explanation": "Ferromagnets contain domains that can align to produce strong magnetization.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning magnetic materials?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has zero magnetic domains"
+            },
+            {
+              "label": "B",
+              "text": "A ferromagnetic material can be strongly magnetized"
+            },
+            {
+              "label": "C",
+              "text": "is always non-magnetic"
+            },
+            {
+              "label": "D",
+              "text": "cannot respond to magnetic fields"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A ferromagnetic material can be strongly magnetized",
+          "explanation": "Ferromagnets contain domains that can align to produce strong magnetization.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Earth's magnetism",
+      "questions": [
+        {
+          "id": "PHY_2P_CH04_MCQ046",
+          "question": "Which statement best describes earth's magnetism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "wind direction"
+            },
+            {
+              "label": "B",
+              "text": "the gravitational field"
+            },
+            {
+              "label": "C",
+              "text": "electric field of the Sun only"
+            },
+            {
+              "label": "D",
+              "text": "A compass aligns approximately with the horizontal component of Earth's magnetic field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A compass aligns approximately with the horizontal component of Earth's magnetic field",
+          "explanation": "A freely rotating compass needle aligns with the local magnetic field direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ047",
+          "question": "Which option is correctly associated with earth's magnetism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A compass aligns approximately with the horizontal component of Earth's magnetic field"
+            },
+            {
+              "label": "B",
+              "text": "wind direction"
+            },
+            {
+              "label": "C",
+              "text": "the gravitational field"
+            },
+            {
+              "label": "D",
+              "text": "electric field of the Sun only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A compass aligns approximately with the horizontal component of Earth's magnetic field",
+          "explanation": "A freely rotating compass needle aligns with the local magnetic field direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ048",
+          "question": "In a basic HSC Physics question about earth's magnetism, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "electric field of the Sun only"
+            },
+            {
+              "label": "B",
+              "text": "the gravitational field"
+            },
+            {
+              "label": "C",
+              "text": "wind direction"
+            },
+            {
+              "label": "D",
+              "text": "A compass aligns approximately with the horizontal component of Earth's magnetic field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A compass aligns approximately with the horizontal component of Earth's magnetic field",
+          "explanation": "A freely rotating compass needle aligns with the local magnetic field direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ049",
+          "question": "Which fact should be remembered about earth's magnetism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "wind direction"
+            },
+            {
+              "label": "B",
+              "text": "the gravitational field"
+            },
+            {
+              "label": "C",
+              "text": "electric field of the Sun only"
+            },
+            {
+              "label": "D",
+              "text": "A compass aligns approximately with the horizontal component of Earth's magnetic field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A compass aligns approximately with the horizontal component of Earth's magnetic field",
+          "explanation": "A freely rotating compass needle aligns with the local magnetic field direction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH04_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning earth's magnetism?",
+          "options": [
+            {
+              "label": "A",
+              "text": "electric field of the Sun only"
+            },
+            {
+              "label": "B",
+              "text": "the gravitational field"
+            },
+            {
+              "label": "C",
+              "text": "wind direction"
+            },
+            {
+              "label": "D",
+              "text": "A compass aligns approximately with the horizontal component of Earth's magnetic field"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "A compass aligns approximately with the horizontal component of Earth's magnetic field",
+          "explanation": "A freely rotating compass needle aligns with the local magnetic field direction.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

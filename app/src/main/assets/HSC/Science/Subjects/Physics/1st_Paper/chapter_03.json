@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 3,
+  "chapter_title": "Dynamics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Motion description",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ001",
+          "question": "Which statement best describes motion description?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rate of change of velocity"
+            },
+            {
+              "label": "B",
+              "text": "Displacement is the change in position of an object"
+            },
+            {
+              "label": "C",
+              "text": "total path length"
+            },
+            {
+              "label": "D",
+              "text": "distance travelled per unit time"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Displacement is the change in position of an object",
+          "explanation": "Displacement is the vector difference between final and initial positions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ002",
+          "question": "Which option is correctly associated with motion description?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rate of change of velocity"
+            },
+            {
+              "label": "B",
+              "text": "total path length"
+            },
+            {
+              "label": "C",
+              "text": "distance travelled per unit time"
+            },
+            {
+              "label": "D",
+              "text": "Displacement is the change in position of an object"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Displacement is the change in position of an object",
+          "explanation": "Displacement is the vector difference between final and initial positions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ003",
+          "question": "In a basic HSC Physics question about motion description, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance travelled per unit time"
+            },
+            {
+              "label": "B",
+              "text": "rate of change of velocity"
+            },
+            {
+              "label": "C",
+              "text": "Displacement is the change in position of an object"
+            },
+            {
+              "label": "D",
+              "text": "total path length"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Displacement is the change in position of an object",
+          "explanation": "Displacement is the vector difference between final and initial positions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ004",
+          "question": "Which fact should be remembered about motion description?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Displacement is the change in position of an object"
+            },
+            {
+              "label": "B",
+              "text": "rate of change of velocity"
+            },
+            {
+              "label": "C",
+              "text": "total path length"
+            },
+            {
+              "label": "D",
+              "text": "distance travelled per unit time"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Displacement is the change in position of an object",
+          "explanation": "Displacement is the vector difference between final and initial positions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning motion description?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Displacement is the change in position of an object"
+            },
+            {
+              "label": "B",
+              "text": "total path length"
+            },
+            {
+              "label": "C",
+              "text": "distance travelled per unit time"
+            },
+            {
+              "label": "D",
+              "text": "rate of change of velocity"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Displacement is the change in position of an object",
+          "explanation": "Displacement is the vector difference between final and initial positions.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Speed and velocity",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ006",
+          "question": "Which statement best describes speed and velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance multiplied by time"
+            },
+            {
+              "label": "B",
+              "text": "displacement divided by time"
+            },
+            {
+              "label": "C",
+              "text": "change in velocity divided by time"
+            },
+            {
+              "label": "D",
+              "text": "Average speed equals total distance divided by total time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Average speed equals total distance divided by total time",
+          "explanation": "Average speed uses total path length, not displacement.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ007",
+          "question": "Which option is correctly associated with speed and velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance multiplied by time"
+            },
+            {
+              "label": "B",
+              "text": "displacement divided by time"
+            },
+            {
+              "label": "C",
+              "text": "change in velocity divided by time"
+            },
+            {
+              "label": "D",
+              "text": "Average speed equals total distance divided by total time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Average speed equals total distance divided by total time",
+          "explanation": "Average speed uses total path length, not displacement.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ008",
+          "question": "In a basic HSC Physics question about speed and velocity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "displacement divided by time"
+            },
+            {
+              "label": "B",
+              "text": "distance multiplied by time"
+            },
+            {
+              "label": "C",
+              "text": "change in velocity divided by time"
+            },
+            {
+              "label": "D",
+              "text": "Average speed equals total distance divided by total time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Average speed equals total distance divided by total time",
+          "explanation": "Average speed uses total path length, not displacement.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ009",
+          "question": "Which fact should be remembered about speed and velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "change in velocity divided by time"
+            },
+            {
+              "label": "B",
+              "text": "displacement divided by time"
+            },
+            {
+              "label": "C",
+              "text": "distance multiplied by time"
+            },
+            {
+              "label": "D",
+              "text": "Average speed equals total distance divided by total time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Average speed equals total distance divided by total time",
+          "explanation": "Average speed uses total path length, not displacement.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning speed and velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Average speed equals total distance divided by total time"
+            },
+            {
+              "label": "B",
+              "text": "displacement divided by time"
+            },
+            {
+              "label": "C",
+              "text": "change in velocity divided by time"
+            },
+            {
+              "label": "D",
+              "text": "distance multiplied by time"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Average speed equals total distance divided by total time",
+          "explanation": "Average speed uses total path length, not displacement.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Acceleration",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ011",
+          "question": "Which statement best describes acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Acceleration is the rate of change of velocity with time"
+            },
+            {
+              "label": "B",
+              "text": "rate of change of displacement"
+            },
+            {
+              "label": "C",
+              "text": "force per unit area"
+            },
+            {
+              "label": "D",
+              "text": "distance per unit time"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Acceleration is the rate of change of velocity with time",
+          "explanation": "Acceleration is ∆v/∆t and has SI unit m s■².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ012",
+          "question": "Which option is correctly associated with acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force per unit area"
+            },
+            {
+              "label": "B",
+              "text": "distance per unit time"
+            },
+            {
+              "label": "C",
+              "text": "Acceleration is the rate of change of velocity with time"
+            },
+            {
+              "label": "D",
+              "text": "rate of change of displacement"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Acceleration is the rate of change of velocity with time",
+          "explanation": "Acceleration is ∆v/∆t and has SI unit m s■².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ013",
+          "question": "In a basic HSC Physics question about acceleration, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "distance per unit time"
+            },
+            {
+              "label": "B",
+              "text": "rate of change of displacement"
+            },
+            {
+              "label": "C",
+              "text": "Acceleration is the rate of change of velocity with time"
+            },
+            {
+              "label": "D",
+              "text": "force per unit area"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Acceleration is the rate of change of velocity with time",
+          "explanation": "Acceleration is ∆v/∆t and has SI unit m s■².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ014",
+          "question": "Which fact should be remembered about acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Acceleration is the rate of change of velocity with time"
+            },
+            {
+              "label": "B",
+              "text": "distance per unit time"
+            },
+            {
+              "label": "C",
+              "text": "rate of change of displacement"
+            },
+            {
+              "label": "D",
+              "text": "force per unit area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Acceleration is the rate of change of velocity with time",
+          "explanation": "Acceleration is ∆v/∆t and has SI unit m s■².",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "rate of change of displacement"
+            },
+            {
+              "label": "B",
+              "text": "force per unit area"
+            },
+            {
+              "label": "C",
+              "text": "Acceleration is the rate of change of velocity with time"
+            },
+            {
+              "label": "D",
+              "text": "distance per unit time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Acceleration is the rate of change of velocity with time",
+          "explanation": "Acceleration is ∆v/∆t and has SI unit m s■².",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Uniform acceleration",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ016",
+          "question": "Which statement best describes uniform acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "F = ma²"
+            },
+            {
+              "label": "B",
+              "text": "For constant acceleration, v = u + at"
+            },
+            {
+              "label": "C",
+              "text": "s = vt²"
+            },
+            {
+              "label": "D",
+              "text": "v = u − at²"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For constant acceleration, v = u + at",
+          "explanation": "The first equation of uniformly accelerated motion relates final velocity, initial velocity, acceleration and time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ017",
+          "question": "Which option is correctly associated with uniform acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "v = u − at²"
+            },
+            {
+              "label": "B",
+              "text": "s = vt²"
+            },
+            {
+              "label": "C",
+              "text": "F = ma²"
+            },
+            {
+              "label": "D",
+              "text": "For constant acceleration, v = u + at"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For constant acceleration, v = u + at",
+          "explanation": "The first equation of uniformly accelerated motion relates final velocity, initial velocity, acceleration and time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ018",
+          "question": "In a basic HSC Physics question about uniform acceleration, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "v = u − at²"
+            },
+            {
+              "label": "B",
+              "text": "For constant acceleration, v = u + at"
+            },
+            {
+              "label": "C",
+              "text": "s = vt²"
+            },
+            {
+              "label": "D",
+              "text": "F = ma²"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For constant acceleration, v = u + at",
+          "explanation": "The first equation of uniformly accelerated motion relates final velocity, initial velocity, acceleration and time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ019",
+          "question": "Which fact should be remembered about uniform acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "s = vt²"
+            },
+            {
+              "label": "B",
+              "text": "v = u − at²"
+            },
+            {
+              "label": "C",
+              "text": "F = ma²"
+            },
+            {
+              "label": "D",
+              "text": "For constant acceleration, v = u + at"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For constant acceleration, v = u + at",
+          "explanation": "The first equation of uniformly accelerated motion relates final velocity, initial velocity, acceleration and time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning uniform acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "s = vt²"
+            },
+            {
+              "label": "B",
+              "text": "v = u − at²"
+            },
+            {
+              "label": "C",
+              "text": "For constant acceleration, v = u + at"
+            },
+            {
+              "label": "D",
+              "text": "F = ma²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For constant acceleration, v = u + at",
+          "explanation": "The first equation of uniformly accelerated motion relates final velocity, initial velocity, acceleration and time.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Motion graphs",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ021",
+          "question": "Which statement best describes motion graphs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force"
+            },
+            {
+              "label": "B",
+              "text": "distance"
+            },
+            {
+              "label": "C",
+              "text": "acceleration"
+            },
+            {
+              "label": "D",
+              "text": "The slope of a displacement-time graph gives velocity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The slope of a displacement-time graph gives velocity",
+          "explanation": "Gradient is change in displacement divided by change in time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ022",
+          "question": "Which option is correctly associated with motion graphs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force"
+            },
+            {
+              "label": "B",
+              "text": "The slope of a displacement-time graph gives velocity"
+            },
+            {
+              "label": "C",
+              "text": "acceleration"
+            },
+            {
+              "label": "D",
+              "text": "distance"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The slope of a displacement-time graph gives velocity",
+          "explanation": "Gradient is change in displacement divided by change in time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ023",
+          "question": "In a basic HSC Physics question about motion graphs, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The slope of a displacement-time graph gives velocity"
+            },
+            {
+              "label": "B",
+              "text": "distance"
+            },
+            {
+              "label": "C",
+              "text": "acceleration"
+            },
+            {
+              "label": "D",
+              "text": "force"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The slope of a displacement-time graph gives velocity",
+          "explanation": "Gradient is change in displacement divided by change in time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ024",
+          "question": "Which fact should be remembered about motion graphs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force"
+            },
+            {
+              "label": "B",
+              "text": "The slope of a displacement-time graph gives velocity"
+            },
+            {
+              "label": "C",
+              "text": "distance"
+            },
+            {
+              "label": "D",
+              "text": "acceleration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The slope of a displacement-time graph gives velocity",
+          "explanation": "Gradient is change in displacement divided by change in time.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning motion graphs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The slope of a displacement-time graph gives velocity"
+            },
+            {
+              "label": "B",
+              "text": "distance"
+            },
+            {
+              "label": "C",
+              "text": "acceleration"
+            },
+            {
+              "label": "D",
+              "text": "force"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The slope of a displacement-time graph gives velocity",
+          "explanation": "Gradient is change in displacement divided by change in time.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Explanation: Gradient is change in displacement divided by change in time.",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ026",
+          "question": "Which statement best describes motion graphs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "jerk"
+            },
+            {
+              "label": "B",
+              "text": "momentum"
+            },
+            {
+              "label": "C",
+              "text": "acceleration"
+            },
+            {
+              "label": "D",
+              "text": "The area under a velocity-time graph gives displacement"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The area under a velocity-time graph gives displacement",
+          "explanation": "Integrating velocity over time gives displacement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ027",
+          "question": "Which option is correctly associated with motion graphs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "acceleration"
+            },
+            {
+              "label": "B",
+              "text": "jerk"
+            },
+            {
+              "label": "C",
+              "text": "The area under a velocity-time graph gives displacement"
+            },
+            {
+              "label": "D",
+              "text": "momentum"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The area under a velocity-time graph gives displacement",
+          "explanation": "Integrating velocity over time gives displacement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ028",
+          "question": "In a basic HSC Physics question about motion graphs, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "acceleration"
+            },
+            {
+              "label": "B",
+              "text": "The area under a velocity-time graph gives displacement"
+            },
+            {
+              "label": "C",
+              "text": "momentum"
+            },
+            {
+              "label": "D",
+              "text": "jerk"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The area under a velocity-time graph gives displacement",
+          "explanation": "Integrating velocity over time gives displacement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ029",
+          "question": "Which fact should be remembered about motion graphs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "momentum"
+            },
+            {
+              "label": "B",
+              "text": "jerk"
+            },
+            {
+              "label": "C",
+              "text": "acceleration"
+            },
+            {
+              "label": "D",
+              "text": "The area under a velocity-time graph gives displacement"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The area under a velocity-time graph gives displacement",
+          "explanation": "Integrating velocity over time gives displacement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning motion graphs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "acceleration"
+            },
+            {
+              "label": "B",
+              "text": "The area under a velocity-time graph gives displacement"
+            },
+            {
+              "label": "C",
+              "text": "momentum"
+            },
+            {
+              "label": "D",
+              "text": "jerk"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The area under a velocity-time graph gives displacement",
+          "explanation": "Integrating velocity over time gives displacement.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Projectile motion",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ031",
+          "question": "Which statement best describes projectile motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "horizontal velocity continually increases"
+            },
+            {
+              "label": "B",
+              "text": "gravity acts horizontally"
+            },
+            {
+              "label": "C",
+              "text": "In ideal projectile motion, horizontal acceleration is zero"
+            },
+            {
+              "label": "D",
+              "text": "vertical acceleration is zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In ideal projectile motion, horizontal acceleration is zero",
+          "explanation": "Neglecting air resistance, gravity acts vertically, so horizontal velocity remains constant.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ032",
+          "question": "Which option is correctly associated with projectile motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity acts horizontally"
+            },
+            {
+              "label": "B",
+              "text": "vertical acceleration is zero"
+            },
+            {
+              "label": "C",
+              "text": "In ideal projectile motion, horizontal acceleration is zero"
+            },
+            {
+              "label": "D",
+              "text": "horizontal velocity continually increases"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In ideal projectile motion, horizontal acceleration is zero",
+          "explanation": "Neglecting air resistance, gravity acts vertically, so horizontal velocity remains constant.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ033",
+          "question": "In a basic HSC Physics question about projectile motion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity acts horizontally"
+            },
+            {
+              "label": "B",
+              "text": "In ideal projectile motion, horizontal acceleration is zero"
+            },
+            {
+              "label": "C",
+              "text": "horizontal velocity continually increases"
+            },
+            {
+              "label": "D",
+              "text": "vertical acceleration is zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In ideal projectile motion, horizontal acceleration is zero",
+          "explanation": "Neglecting air resistance, gravity acts vertically, so horizontal velocity remains constant.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ034",
+          "question": "Which fact should be remembered about projectile motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In ideal projectile motion, horizontal acceleration is zero"
+            },
+            {
+              "label": "B",
+              "text": "gravity acts horizontally"
+            },
+            {
+              "label": "C",
+              "text": "horizontal velocity continually increases"
+            },
+            {
+              "label": "D",
+              "text": "vertical acceleration is zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In ideal projectile motion, horizontal acceleration is zero",
+          "explanation": "Neglecting air resistance, gravity acts vertically, so horizontal velocity remains constant.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning projectile motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "gravity acts horizontally"
+            },
+            {
+              "label": "B",
+              "text": "horizontal velocity continually increases"
+            },
+            {
+              "label": "C",
+              "text": "In ideal projectile motion, horizontal acceleration is zero"
+            },
+            {
+              "label": "D",
+              "text": "vertical acceleration is zero"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In ideal projectile motion, horizontal acceleration is zero",
+          "explanation": "Neglecting air resistance, gravity acts vertically, so horizontal velocity remains constant.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Explanation: Neglecting air resistance, gravity acts vertically, so horizontal velocity remains constant.",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ036",
+          "question": "Which statement best describes projectile motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its total velocity is always zero"
+            },
+            {
+              "label": "B",
+              "text": "At the highest point of a projectile, its vertical velocity is zero"
+            },
+            {
+              "label": "C",
+              "text": "its horizontal velocity is zero"
+            },
+            {
+              "label": "D",
+              "text": "its acceleration is zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "At the highest point of a projectile, its vertical velocity is zero",
+          "explanation": "Only the vertical component momentarily becomes zero; horizontal velocity remains.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ037",
+          "question": "Which option is correctly associated with projectile motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its total velocity is always zero"
+            },
+            {
+              "label": "B",
+              "text": "At the highest point of a projectile, its vertical velocity is zero"
+            },
+            {
+              "label": "C",
+              "text": "its horizontal velocity is zero"
+            },
+            {
+              "label": "D",
+              "text": "its acceleration is zero"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "At the highest point of a projectile, its vertical velocity is zero",
+          "explanation": "Only the vertical component momentarily becomes zero; horizontal velocity remains.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ038",
+          "question": "In a basic HSC Physics question about projectile motion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its horizontal velocity is zero"
+            },
+            {
+              "label": "B",
+              "text": "its total velocity is always zero"
+            },
+            {
+              "label": "C",
+              "text": "its acceleration is zero"
+            },
+            {
+              "label": "D",
+              "text": "At the highest point of a projectile, its vertical velocity is zero"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "At the highest point of a projectile, its vertical velocity is zero",
+          "explanation": "Only the vertical component momentarily becomes zero; horizontal velocity remains.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ039",
+          "question": "Which fact should be remembered about projectile motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "At the highest point of a projectile, its vertical velocity is zero"
+            },
+            {
+              "label": "B",
+              "text": "its acceleration is zero"
+            },
+            {
+              "label": "C",
+              "text": "its total velocity is always zero"
+            },
+            {
+              "label": "D",
+              "text": "its horizontal velocity is zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "At the highest point of a projectile, its vertical velocity is zero",
+          "explanation": "Only the vertical component momentarily becomes zero; horizontal velocity remains.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning projectile motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "its horizontal velocity is zero"
+            },
+            {
+              "label": "B",
+              "text": "its acceleration is zero"
+            },
+            {
+              "label": "C",
+              "text": "its total velocity is always zero"
+            },
+            {
+              "label": "D",
+              "text": "At the highest point of a projectile, its vertical velocity is zero"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "At the highest point of a projectile, its vertical velocity is zero",
+          "explanation": "Only the vertical component momentarily becomes zero; horizontal velocity remains.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Circular motion",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ041",
+          "question": "Which statement best describes circular motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "away from the centre"
+            },
+            {
+              "label": "B",
+              "text": "along the tangent"
+            },
+            {
+              "label": "C",
+              "text": "Centripetal acceleration is directed toward the centre of the circular path"
+            },
+            {
+              "label": "D",
+              "text": "opposite to gravity in every case"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Centripetal acceleration is directed toward the centre of the circular path",
+          "explanation": "The acceleration that changes the direction of velocity points radially inward.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ042",
+          "question": "Which option is correctly associated with circular motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "away from the centre"
+            },
+            {
+              "label": "B",
+              "text": "Centripetal acceleration is directed toward the centre of the circular path"
+            },
+            {
+              "label": "C",
+              "text": "along the tangent"
+            },
+            {
+              "label": "D",
+              "text": "opposite to gravity in every case"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Centripetal acceleration is directed toward the centre of the circular path",
+          "explanation": "The acceleration that changes the direction of velocity points radially inward.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ043",
+          "question": "In a basic HSC Physics question about circular motion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "opposite to gravity in every case"
+            },
+            {
+              "label": "B",
+              "text": "away from the centre"
+            },
+            {
+              "label": "C",
+              "text": "along the tangent"
+            },
+            {
+              "label": "D",
+              "text": "Centripetal acceleration is directed toward the centre of the circular path"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Centripetal acceleration is directed toward the centre of the circular path",
+          "explanation": "The acceleration that changes the direction of velocity points radially inward.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ044",
+          "question": "Which fact should be remembered about circular motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "along the tangent"
+            },
+            {
+              "label": "B",
+              "text": "Centripetal acceleration is directed toward the centre of the circular path"
+            },
+            {
+              "label": "C",
+              "text": "opposite to gravity in every case"
+            },
+            {
+              "label": "D",
+              "text": "away from the centre"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Centripetal acceleration is directed toward the centre of the circular path",
+          "explanation": "The acceleration that changes the direction of velocity points radially inward.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning circular motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "opposite to gravity in every case"
+            },
+            {
+              "label": "B",
+              "text": "Centripetal acceleration is directed toward the centre of the circular path"
+            },
+            {
+              "label": "C",
+              "text": "away from the centre"
+            },
+            {
+              "label": "D",
+              "text": "along the tangent"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Centripetal acceleration is directed toward the centre of the circular path",
+          "explanation": "The acceleration that changes the direction of velocity points radially inward.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Relative motion",
+      "questions": [
+        {
+          "id": "PHY_1P_CH03_MCQ046",
+          "question": "Which statement best describes relative motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds"
+            },
+            {
+              "label": "B",
+              "text": "the sum in every case"
+            },
+            {
+              "label": "C",
+              "text": "the product of their speeds"
+            },
+            {
+              "label": "D",
+              "text": "always zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds",
+          "explanation": "For same-direction motion along one line, relative speed is the magnitude of the velocity difference.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ047",
+          "question": "Which option is correctly associated with relative motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always zero"
+            },
+            {
+              "label": "B",
+              "text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds"
+            },
+            {
+              "label": "C",
+              "text": "the sum in every case"
+            },
+            {
+              "label": "D",
+              "text": "the product of their speeds"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds",
+          "explanation": "For same-direction motion along one line, relative speed is the magnitude of the velocity difference.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ048",
+          "question": "In a basic HSC Physics question about relative motion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the product of their speeds"
+            },
+            {
+              "label": "B",
+              "text": "the sum in every case"
+            },
+            {
+              "label": "C",
+              "text": "always zero"
+            },
+            {
+              "label": "D",
+              "text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds",
+          "explanation": "For same-direction motion along one line, relative speed is the magnitude of the velocity difference.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ049",
+          "question": "Which fact should be remembered about relative motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "the sum in every case"
+            },
+            {
+              "label": "B",
+              "text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds"
+            },
+            {
+              "label": "C",
+              "text": "always zero"
+            },
+            {
+              "label": "D",
+              "text": "the product of their speeds"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds",
+          "explanation": "For same-direction motion along one line, relative speed is the magnitude of the velocity difference.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH03_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning relative motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "always zero"
+            },
+            {
+              "label": "B",
+              "text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds"
+            },
+            {
+              "label": "C",
+              "text": "the product of their speeds"
+            },
+            {
+              "label": "D",
+              "text": "the sum in every case"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Two objects moving in the same direction have relative speed equal to the difference of their speeds",
+          "explanation": "For same-direction motion along one line, relative speed is the magnitude of the velocity difference.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

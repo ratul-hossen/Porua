@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 8,
+  "chapter_title": "Periodic Motion",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Periodic motion",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ001",
+          "question": "Which statement best describes periodic motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "moves only in a straight line"
+            },
+            {
+              "label": "B",
+              "text": "has constant speed in every case"
+            },
+            {
+              "label": "C",
+              "text": "Periodic motion repeats itself after equal intervals of time"
+            },
+            {
+              "label": "D",
+              "text": "never repeats"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Periodic motion repeats itself after equal intervals of time",
+          "explanation": "A periodic system returns to the same state after a fixed period.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ002",
+          "question": "Which option is correctly associated with periodic motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has constant speed in every case"
+            },
+            {
+              "label": "B",
+              "text": "Periodic motion repeats itself after equal intervals of time"
+            },
+            {
+              "label": "C",
+              "text": "moves only in a straight line"
+            },
+            {
+              "label": "D",
+              "text": "never repeats"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Periodic motion repeats itself after equal intervals of time",
+          "explanation": "A periodic system returns to the same state after a fixed period.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ003",
+          "question": "In a basic HSC Physics question about periodic motion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "moves only in a straight line"
+            },
+            {
+              "label": "B",
+              "text": "never repeats"
+            },
+            {
+              "label": "C",
+              "text": "has constant speed in every case"
+            },
+            {
+              "label": "D",
+              "text": "Periodic motion repeats itself after equal intervals of time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Periodic motion repeats itself after equal intervals of time",
+          "explanation": "A periodic system returns to the same state after a fixed period.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ004",
+          "question": "Which fact should be remembered about periodic motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Periodic motion repeats itself after equal intervals of time"
+            },
+            {
+              "label": "B",
+              "text": "never repeats"
+            },
+            {
+              "label": "C",
+              "text": "moves only in a straight line"
+            },
+            {
+              "label": "D",
+              "text": "has constant speed in every case"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Periodic motion repeats itself after equal intervals of time",
+          "explanation": "A periodic system returns to the same state after a fixed period.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning periodic motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "has constant speed in every case"
+            },
+            {
+              "label": "B",
+              "text": "moves only in a straight line"
+            },
+            {
+              "label": "C",
+              "text": "never repeats"
+            },
+            {
+              "label": "D",
+              "text": "Periodic motion repeats itself after equal intervals of time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Periodic motion repeats itself after equal intervals of time",
+          "explanation": "A periodic system returns to the same state after a fixed period.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Time period",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ006",
+          "question": "Which statement best describes time period?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cycles per second"
+            },
+            {
+              "label": "B",
+              "text": "The time period is the time required for one complete cycle"
+            },
+            {
+              "label": "C",
+              "text": "maximum displacement"
+            },
+            {
+              "label": "D",
+              "text": "distance per cycle"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The time period is the time required for one complete cycle",
+          "explanation": "Period T is measured in seconds.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ007",
+          "question": "Which option is correctly associated with time period?",
+          "options": [
+            {
+              "label": "A",
+              "text": "maximum displacement"
+            },
+            {
+              "label": "B",
+              "text": "distance per cycle"
+            },
+            {
+              "label": "C",
+              "text": "cycles per second"
+            },
+            {
+              "label": "D",
+              "text": "The time period is the time required for one complete cycle"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "The time period is the time required for one complete cycle",
+          "explanation": "Period T is measured in seconds.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ008",
+          "question": "In a basic HSC Physics question about time period, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The time period is the time required for one complete cycle"
+            },
+            {
+              "label": "B",
+              "text": "distance per cycle"
+            },
+            {
+              "label": "C",
+              "text": "cycles per second"
+            },
+            {
+              "label": "D",
+              "text": "maximum displacement"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The time period is the time required for one complete cycle",
+          "explanation": "Period T is measured in seconds.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ009",
+          "question": "Which fact should be remembered about time period?",
+          "options": [
+            {
+              "label": "A",
+              "text": "maximum displacement"
+            },
+            {
+              "label": "B",
+              "text": "distance per cycle"
+            },
+            {
+              "label": "C",
+              "text": "The time period is the time required for one complete cycle"
+            },
+            {
+              "label": "D",
+              "text": "cycles per second"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The time period is the time required for one complete cycle",
+          "explanation": "Period T is measured in seconds.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning time period?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cycles per second"
+            },
+            {
+              "label": "B",
+              "text": "The time period is the time required for one complete cycle"
+            },
+            {
+              "label": "C",
+              "text": "maximum displacement"
+            },
+            {
+              "label": "D",
+              "text": "distance per cycle"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The time period is the time required for one complete cycle",
+          "explanation": "Period T is measured in seconds.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Frequency",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ011",
+          "question": "Which statement best describes frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "time for one cycle"
+            },
+            {
+              "label": "B",
+              "text": "Frequency is the number of complete cycles per second"
+            },
+            {
+              "label": "C",
+              "text": "maximum acceleration"
+            },
+            {
+              "label": "D",
+              "text": "angular displacement only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Frequency is the number of complete cycles per second",
+          "explanation": "Frequency f = 1/T and is measured in hertz.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ012",
+          "question": "Which option is correctly associated with frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "time for one cycle"
+            },
+            {
+              "label": "B",
+              "text": "maximum acceleration"
+            },
+            {
+              "label": "C",
+              "text": "angular displacement only"
+            },
+            {
+              "label": "D",
+              "text": "Frequency is the number of complete cycles per second"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Frequency is the number of complete cycles per second",
+          "explanation": "Frequency f = 1/T and is measured in hertz.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ013",
+          "question": "In a basic HSC Physics question about frequency, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "time for one cycle"
+            },
+            {
+              "label": "B",
+              "text": "angular displacement only"
+            },
+            {
+              "label": "C",
+              "text": "maximum acceleration"
+            },
+            {
+              "label": "D",
+              "text": "Frequency is the number of complete cycles per second"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Frequency is the number of complete cycles per second",
+          "explanation": "Frequency f = 1/T and is measured in hertz.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ014",
+          "question": "Which fact should be remembered about frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "time for one cycle"
+            },
+            {
+              "label": "B",
+              "text": "angular displacement only"
+            },
+            {
+              "label": "C",
+              "text": "maximum acceleration"
+            },
+            {
+              "label": "D",
+              "text": "Frequency is the number of complete cycles per second"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Frequency is the number of complete cycles per second",
+          "explanation": "Frequency f = 1/T and is measured in hertz.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Frequency is the number of complete cycles per second"
+            },
+            {
+              "label": "B",
+              "text": "maximum acceleration"
+            },
+            {
+              "label": "C",
+              "text": "time for one cycle"
+            },
+            {
+              "label": "D",
+              "text": "angular displacement only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Frequency is the number of complete cycles per second",
+          "explanation": "Frequency f = 1/T and is measured in hertz.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Angular frequency",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ016",
+          "question": "Which statement best describes angular frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ω = 2π/T²"
+            },
+            {
+              "label": "B",
+              "text": "Angular frequency is ω = 2πf"
+            },
+            {
+              "label": "C",
+              "text": "ω = T/2π"
+            },
+            {
+              "label": "D",
+              "text": "ω = f/2π"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Angular frequency is ω = 2πf",
+          "explanation": "One cycle corresponds to 2π radians, so ω = 2π/T = 2πf.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ017",
+          "question": "Which option is correctly associated with angular frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Angular frequency is ω = 2πf"
+            },
+            {
+              "label": "B",
+              "text": "ω = 2π/T²"
+            },
+            {
+              "label": "C",
+              "text": "ω = f/2π"
+            },
+            {
+              "label": "D",
+              "text": "ω = T/2π"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Angular frequency is ω = 2πf",
+          "explanation": "One cycle corresponds to 2π radians, so ω = 2π/T = 2πf.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ018",
+          "question": "In a basic HSC Physics question about angular frequency, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ω = 2π/T²"
+            },
+            {
+              "label": "B",
+              "text": "Angular frequency is ω = 2πf"
+            },
+            {
+              "label": "C",
+              "text": "ω = f/2π"
+            },
+            {
+              "label": "D",
+              "text": "ω = T/2π"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Angular frequency is ω = 2πf",
+          "explanation": "One cycle corresponds to 2π radians, so ω = 2π/T = 2πf.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ019",
+          "question": "Which fact should be remembered about angular frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Angular frequency is ω = 2πf"
+            },
+            {
+              "label": "B",
+              "text": "ω = 2π/T²"
+            },
+            {
+              "label": "C",
+              "text": "ω = f/2π"
+            },
+            {
+              "label": "D",
+              "text": "ω = T/2π"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Angular frequency is ω = 2πf",
+          "explanation": "One cycle corresponds to 2π radians, so ω = 2π/T = 2πf.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning angular frequency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ω = f/2π"
+            },
+            {
+              "label": "B",
+              "text": "ω = 2π/T²"
+            },
+            {
+              "label": "C",
+              "text": "Angular frequency is ω = 2πf"
+            },
+            {
+              "label": "D",
+              "text": "ω = T/2π"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Angular frequency is ω = 2πf",
+          "explanation": "One cycle corresponds to 2π radians, so ω = 2π/T = 2πf.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Simple harmonic motion",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ021",
+          "question": "Which statement best describes simple harmonic motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position"
+            },
+            {
+              "label": "B",
+              "text": "acceleration is constant and outward"
+            },
+            {
+              "label": "C",
+              "text": "velocity is proportional to time only"
+            },
+            {
+              "label": "D",
+              "text": "force is always zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position",
+          "explanation": "The defining relation is a = −ω²x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ022",
+          "question": "Which option is correctly associated with simple harmonic motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "acceleration is constant and outward"
+            },
+            {
+              "label": "B",
+              "text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position"
+            },
+            {
+              "label": "C",
+              "text": "force is always zero"
+            },
+            {
+              "label": "D",
+              "text": "velocity is proportional to time only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position",
+          "explanation": "The defining relation is a = −ω²x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ023",
+          "question": "In a basic HSC Physics question about simple harmonic motion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "acceleration is constant and outward"
+            },
+            {
+              "label": "B",
+              "text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position"
+            },
+            {
+              "label": "C",
+              "text": "force is always zero"
+            },
+            {
+              "label": "D",
+              "text": "velocity is proportional to time only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position",
+          "explanation": "The defining relation is a = −ω²x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ024",
+          "question": "Which fact should be remembered about simple harmonic motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "velocity is proportional to time only"
+            },
+            {
+              "label": "B",
+              "text": "force is always zero"
+            },
+            {
+              "label": "C",
+              "text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position"
+            },
+            {
+              "label": "D",
+              "text": "acceleration is constant and outward"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position",
+          "explanation": "The defining relation is a = −ω²x.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning simple harmonic motion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position"
+            },
+            {
+              "label": "B",
+              "text": "acceleration is constant and outward"
+            },
+            {
+              "label": "C",
+              "text": "velocity is proportional to time only"
+            },
+            {
+              "label": "D",
+              "text": "force is always zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In SHM, acceleration is proportional to displacement and directed toward the equilibrium position",
+          "explanation": "The defining relation is a = −ω²x.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "SHM velocity",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ026",
+          "question": "Which statement best describes shm velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "at maximum displacement"
+            },
+            {
+              "label": "B",
+              "text": "when displacement is maximum"
+            },
+            {
+              "label": "C",
+              "text": "In SHM, speed is maximum at the equilibrium position"
+            },
+            {
+              "label": "D",
+              "text": "when acceleration is maximum"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In SHM, speed is maximum at the equilibrium position",
+          "explanation": "At equilibrium, potential energy is minimum and kinetic energy is maximum.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ027",
+          "question": "Which option is correctly associated with shm velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "when acceleration is maximum"
+            },
+            {
+              "label": "B",
+              "text": "at maximum displacement"
+            },
+            {
+              "label": "C",
+              "text": "when displacement is maximum"
+            },
+            {
+              "label": "D",
+              "text": "In SHM, speed is maximum at the equilibrium position"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In SHM, speed is maximum at the equilibrium position",
+          "explanation": "At equilibrium, potential energy is minimum and kinetic energy is maximum.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ028",
+          "question": "In a basic HSC Physics question about shm velocity, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "when displacement is maximum"
+            },
+            {
+              "label": "B",
+              "text": "when acceleration is maximum"
+            },
+            {
+              "label": "C",
+              "text": "In SHM, speed is maximum at the equilibrium position"
+            },
+            {
+              "label": "D",
+              "text": "at maximum displacement"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In SHM, speed is maximum at the equilibrium position",
+          "explanation": "At equilibrium, potential energy is minimum and kinetic energy is maximum.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ029",
+          "question": "Which fact should be remembered about shm velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "when displacement is maximum"
+            },
+            {
+              "label": "B",
+              "text": "at maximum displacement"
+            },
+            {
+              "label": "C",
+              "text": "when acceleration is maximum"
+            },
+            {
+              "label": "D",
+              "text": "In SHM, speed is maximum at the equilibrium position"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In SHM, speed is maximum at the equilibrium position",
+          "explanation": "At equilibrium, potential energy is minimum and kinetic energy is maximum.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning shm velocity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "when displacement is maximum"
+            },
+            {
+              "label": "B",
+              "text": "at maximum displacement"
+            },
+            {
+              "label": "C",
+              "text": "when acceleration is maximum"
+            },
+            {
+              "label": "D",
+              "text": "In SHM, speed is maximum at the equilibrium position"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In SHM, speed is maximum at the equilibrium position",
+          "explanation": "At equilibrium, potential energy is minimum and kinetic energy is maximum.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "SHM acceleration",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ031",
+          "question": "Which statement best describes shm acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "when speed is maximum"
+            },
+            {
+              "label": "B",
+              "text": "In SHM, acceleration magnitude is maximum at the extreme positions"
+            },
+            {
+              "label": "C",
+              "text": "at every point equally"
+            },
+            {
+              "label": "D",
+              "text": "at equilibrium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In SHM, acceleration magnitude is maximum at the extreme positions",
+          "explanation": "Since a = −ω²x, acceleration magnitude is greatest when |x| = A.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ032",
+          "question": "Which option is correctly associated with shm acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "at every point equally"
+            },
+            {
+              "label": "B",
+              "text": "when speed is maximum"
+            },
+            {
+              "label": "C",
+              "text": "at equilibrium"
+            },
+            {
+              "label": "D",
+              "text": "In SHM, acceleration magnitude is maximum at the extreme positions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In SHM, acceleration magnitude is maximum at the extreme positions",
+          "explanation": "Since a = −ω²x, acceleration magnitude is greatest when |x| = A.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ033",
+          "question": "In a basic HSC Physics question about shm acceleration, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "when speed is maximum"
+            },
+            {
+              "label": "B",
+              "text": "at equilibrium"
+            },
+            {
+              "label": "C",
+              "text": "In SHM, acceleration magnitude is maximum at the extreme positions"
+            },
+            {
+              "label": "D",
+              "text": "at every point equally"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In SHM, acceleration magnitude is maximum at the extreme positions",
+          "explanation": "Since a = −ω²x, acceleration magnitude is greatest when |x| = A.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ034",
+          "question": "Which fact should be remembered about shm acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "at every point equally"
+            },
+            {
+              "label": "B",
+              "text": "when speed is maximum"
+            },
+            {
+              "label": "C",
+              "text": "at equilibrium"
+            },
+            {
+              "label": "D",
+              "text": "In SHM, acceleration magnitude is maximum at the extreme positions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In SHM, acceleration magnitude is maximum at the extreme positions",
+          "explanation": "Since a = −ω²x, acceleration magnitude is greatest when |x| = A.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning shm acceleration?",
+          "options": [
+            {
+              "label": "A",
+              "text": "at equilibrium"
+            },
+            {
+              "label": "B",
+              "text": "In SHM, acceleration magnitude is maximum at the extreme positions"
+            },
+            {
+              "label": "C",
+              "text": "at every point equally"
+            },
+            {
+              "label": "D",
+              "text": "when speed is maximum"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In SHM, acceleration magnitude is maximum at the extreme positions",
+          "explanation": "Since a = −ω²x, acceleration magnitude is greatest when |x| = A.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Spring oscillator",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ036",
+          "question": "Which statement best describes spring oscillator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a mass-spring oscillator, T = 2π√(m/k)"
+            },
+            {
+              "label": "B",
+              "text": "√(mk)"
+            },
+            {
+              "label": "C",
+              "text": "2π√(k/m)"
+            },
+            {
+              "label": "D",
+              "text": "2πm/k"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a mass-spring oscillator, T = 2π√(m/k)",
+          "explanation": "The period increases with mass and decreases with spring stiffness.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ037",
+          "question": "Which option is correctly associated with spring oscillator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "√(mk)"
+            },
+            {
+              "label": "B",
+              "text": "2π√(k/m)"
+            },
+            {
+              "label": "C",
+              "text": "For a mass-spring oscillator, T = 2π√(m/k)"
+            },
+            {
+              "label": "D",
+              "text": "2πm/k"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For a mass-spring oscillator, T = 2π√(m/k)",
+          "explanation": "The period increases with mass and decreases with spring stiffness.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ038",
+          "question": "In a basic HSC Physics question about spring oscillator, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a mass-spring oscillator, T = 2π√(m/k)"
+            },
+            {
+              "label": "B",
+              "text": "2π√(k/m)"
+            },
+            {
+              "label": "C",
+              "text": "√(mk)"
+            },
+            {
+              "label": "D",
+              "text": "2πm/k"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a mass-spring oscillator, T = 2π√(m/k)",
+          "explanation": "The period increases with mass and decreases with spring stiffness.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ039",
+          "question": "Which fact should be remembered about spring oscillator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "√(mk)"
+            },
+            {
+              "label": "B",
+              "text": "For a mass-spring oscillator, T = 2π√(m/k)"
+            },
+            {
+              "label": "C",
+              "text": "2π√(k/m)"
+            },
+            {
+              "label": "D",
+              "text": "2πm/k"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a mass-spring oscillator, T = 2π√(m/k)",
+          "explanation": "The period increases with mass and decreases with spring stiffness.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning spring oscillator?",
+          "options": [
+            {
+              "label": "A",
+              "text": "√(mk)"
+            },
+            {
+              "label": "B",
+              "text": "2π√(k/m)"
+            },
+            {
+              "label": "C",
+              "text": "2πm/k"
+            },
+            {
+              "label": "D",
+              "text": "For a mass-spring oscillator, T = 2π√(m/k)"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a mass-spring oscillator, T = 2π√(m/k)",
+          "explanation": "The period increases with mass and decreases with spring stiffness.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Simple pendulum",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ041",
+          "question": "Which statement best describes simple pendulum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2πl/g"
+            },
+            {
+              "label": "B",
+              "text": "√(lg)"
+            },
+            {
+              "label": "C",
+              "text": "For small oscillations, a simple pendulum has T = 2π√(l/g)"
+            },
+            {
+              "label": "D",
+              "text": "2π√(g/l)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For small oscillations, a simple pendulum has T = 2π√(l/g)",
+          "explanation": "For small angular amplitudes, the period depends on length and gravitational acceleration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ042",
+          "question": "Which option is correctly associated with simple pendulum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2πl/g"
+            },
+            {
+              "label": "B",
+              "text": "√(lg)"
+            },
+            {
+              "label": "C",
+              "text": "2π√(g/l)"
+            },
+            {
+              "label": "D",
+              "text": "For small oscillations, a simple pendulum has T = 2π√(l/g)"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For small oscillations, a simple pendulum has T = 2π√(l/g)",
+          "explanation": "For small angular amplitudes, the period depends on length and gravitational acceleration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ043",
+          "question": "In a basic HSC Physics question about simple pendulum, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2πl/g"
+            },
+            {
+              "label": "B",
+              "text": "2π√(g/l)"
+            },
+            {
+              "label": "C",
+              "text": "For small oscillations, a simple pendulum has T = 2π√(l/g)"
+            },
+            {
+              "label": "D",
+              "text": "√(lg)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For small oscillations, a simple pendulum has T = 2π√(l/g)",
+          "explanation": "For small angular amplitudes, the period depends on length and gravitational acceleration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ044",
+          "question": "Which fact should be remembered about simple pendulum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "√(lg)"
+            },
+            {
+              "label": "B",
+              "text": "2π√(g/l)"
+            },
+            {
+              "label": "C",
+              "text": "For small oscillations, a simple pendulum has T = 2π√(l/g)"
+            },
+            {
+              "label": "D",
+              "text": "2πl/g"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For small oscillations, a simple pendulum has T = 2π√(l/g)",
+          "explanation": "For small angular amplitudes, the period depends on length and gravitational acceleration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning simple pendulum?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2π√(g/l)"
+            },
+            {
+              "label": "B",
+              "text": "2πl/g"
+            },
+            {
+              "label": "C",
+              "text": "For small oscillations, a simple pendulum has T = 2π√(l/g)"
+            },
+            {
+              "label": "D",
+              "text": "√(lg)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For small oscillations, a simple pendulum has T = 2π√(l/g)",
+          "explanation": "For small angular amplitudes, the period depends on length and gravitational acceleration.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Damping",
+      "questions": [
+        {
+          "id": "PHY_1P_CH08_MCQ046",
+          "question": "Which statement best describes damping?",
+          "options": [
+            {
+              "label": "A",
+              "text": "amplitude to grow without input"
+            },
+            {
+              "label": "B",
+              "text": "Damping causes the amplitude of an oscillator to decrease with time"
+            },
+            {
+              "label": "C",
+              "text": "mass to decrease"
+            },
+            {
+              "label": "D",
+              "text": "frequency to become infinite"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Damping causes the amplitude of an oscillator to decrease with time",
+          "explanation": "Dissipative forces remove mechanical energy from the oscillator.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ047",
+          "question": "Which option is correctly associated with damping?",
+          "options": [
+            {
+              "label": "A",
+              "text": "frequency to become infinite"
+            },
+            {
+              "label": "B",
+              "text": "mass to decrease"
+            },
+            {
+              "label": "C",
+              "text": "amplitude to grow without input"
+            },
+            {
+              "label": "D",
+              "text": "Damping causes the amplitude of an oscillator to decrease with time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Damping causes the amplitude of an oscillator to decrease with time",
+          "explanation": "Dissipative forces remove mechanical energy from the oscillator.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ048",
+          "question": "In a basic HSC Physics question about damping, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Damping causes the amplitude of an oscillator to decrease with time"
+            },
+            {
+              "label": "B",
+              "text": "mass to decrease"
+            },
+            {
+              "label": "C",
+              "text": "amplitude to grow without input"
+            },
+            {
+              "label": "D",
+              "text": "frequency to become infinite"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Damping causes the amplitude of an oscillator to decrease with time",
+          "explanation": "Dissipative forces remove mechanical energy from the oscillator.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ049",
+          "question": "Which fact should be remembered about damping?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mass to decrease"
+            },
+            {
+              "label": "B",
+              "text": "frequency to become infinite"
+            },
+            {
+              "label": "C",
+              "text": "amplitude to grow without input"
+            },
+            {
+              "label": "D",
+              "text": "Damping causes the amplitude of an oscillator to decrease with time"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Damping causes the amplitude of an oscillator to decrease with time",
+          "explanation": "Dissipative forces remove mechanical energy from the oscillator.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH08_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning damping?",
+          "options": [
+            {
+              "label": "A",
+              "text": "amplitude to grow without input"
+            },
+            {
+              "label": "B",
+              "text": "frequency to become infinite"
+            },
+            {
+              "label": "C",
+              "text": "Damping causes the amplitude of an oscillator to decrease with time"
+            },
+            {
+              "label": "D",
+              "text": "mass to decrease"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Damping causes the amplitude of an oscillator to decrease with time",
+          "explanation": "Dissipative forces remove mechanical energy from the oscillator.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

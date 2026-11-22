@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 9,
+  "chapter_title": "Atomic Model and Nuclear Physics",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Atomic structure",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ001",
+          "question": "Which statement best describes atomic structure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The nucleus contains protons and neutrons"
+            },
+            {
+              "label": "B",
+              "text": "photons only"
+            },
+            {
+              "label": "C",
+              "text": "electrons only"
+            },
+            {
+              "label": "D",
+              "text": "neutrons and electrons only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The nucleus contains protons and neutrons",
+          "explanation": "Nearly all atomic mass is concentrated in the nucleus.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ002",
+          "question": "Which option is correctly associated with atomic structure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "neutrons and electrons only"
+            },
+            {
+              "label": "B",
+              "text": "The nucleus contains protons and neutrons"
+            },
+            {
+              "label": "C",
+              "text": "electrons only"
+            },
+            {
+              "label": "D",
+              "text": "photons only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The nucleus contains protons and neutrons",
+          "explanation": "Nearly all atomic mass is concentrated in the nucleus.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ003",
+          "question": "In a basic HSC Physics question about atomic structure, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "photons only"
+            },
+            {
+              "label": "B",
+              "text": "The nucleus contains protons and neutrons"
+            },
+            {
+              "label": "C",
+              "text": "electrons only"
+            },
+            {
+              "label": "D",
+              "text": "neutrons and electrons only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The nucleus contains protons and neutrons",
+          "explanation": "Nearly all atomic mass is concentrated in the nucleus.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ004",
+          "question": "Which fact should be remembered about atomic structure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The nucleus contains protons and neutrons"
+            },
+            {
+              "label": "B",
+              "text": "neutrons and electrons only"
+            },
+            {
+              "label": "C",
+              "text": "photons only"
+            },
+            {
+              "label": "D",
+              "text": "electrons only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The nucleus contains protons and neutrons",
+          "explanation": "Nearly all atomic mass is concentrated in the nucleus.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning atomic structure?",
+          "options": [
+            {
+              "label": "A",
+              "text": "photons only"
+            },
+            {
+              "label": "B",
+              "text": "The nucleus contains protons and neutrons"
+            },
+            {
+              "label": "C",
+              "text": "electrons only"
+            },
+            {
+              "label": "D",
+              "text": "neutrons and electrons only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The nucleus contains protons and neutrons",
+          "explanation": "Nearly all atomic mass is concentrated in the nucleus.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Atomic number",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ006",
+          "question": "Which statement best describes atomic number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total nucleons"
+            },
+            {
+              "label": "B",
+              "text": "Atomic number equals the number of protons in the nucleus"
+            },
+            {
+              "label": "C",
+              "text": "number of neutrons"
+            },
+            {
+              "label": "D",
+              "text": "number of electron shells"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Atomic number equals the number of protons in the nucleus",
+          "explanation": "The proton number defines the chemical element.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ007",
+          "question": "Which option is correctly associated with atomic number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "total nucleons"
+            },
+            {
+              "label": "B",
+              "text": "number of neutrons"
+            },
+            {
+              "label": "C",
+              "text": "Atomic number equals the number of protons in the nucleus"
+            },
+            {
+              "label": "D",
+              "text": "number of electron shells"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Atomic number equals the number of protons in the nucleus",
+          "explanation": "The proton number defines the chemical element.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ008",
+          "question": "In a basic HSC Physics question about atomic number, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Atomic number equals the number of protons in the nucleus"
+            },
+            {
+              "label": "B",
+              "text": "number of neutrons"
+            },
+            {
+              "label": "C",
+              "text": "total nucleons"
+            },
+            {
+              "label": "D",
+              "text": "number of electron shells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Atomic number equals the number of protons in the nucleus",
+          "explanation": "The proton number defines the chemical element.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ009",
+          "question": "Which fact should be remembered about atomic number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "number of electron shells"
+            },
+            {
+              "label": "B",
+              "text": "total nucleons"
+            },
+            {
+              "label": "C",
+              "text": "number of neutrons"
+            },
+            {
+              "label": "D",
+              "text": "Atomic number equals the number of protons in the nucleus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Atomic number equals the number of protons in the nucleus",
+          "explanation": "The proton number defines the chemical element.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning atomic number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Atomic number equals the number of protons in the nucleus"
+            },
+            {
+              "label": "B",
+              "text": "number of neutrons"
+            },
+            {
+              "label": "C",
+              "text": "total nucleons"
+            },
+            {
+              "label": "D",
+              "text": "number of electron shells"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Atomic number equals the number of protons in the nucleus",
+          "explanation": "The proton number defines the chemical element.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Mass number",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ011",
+          "question": "Which statement best describes mass number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "proton number minus electron number"
+            },
+            {
+              "label": "B",
+              "text": "Mass number is the total number of protons and neutrons"
+            },
+            {
+              "label": "C",
+              "text": "number of neutrons only"
+            },
+            {
+              "label": "D",
+              "text": "number of electrons only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Mass number is the total number of protons and neutrons",
+          "explanation": "A = Z + N, where Z is proton number and N is neutron number.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ012",
+          "question": "Which option is correctly associated with mass number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "number of neutrons only"
+            },
+            {
+              "label": "B",
+              "text": "number of electrons only"
+            },
+            {
+              "label": "C",
+              "text": "proton number minus electron number"
+            },
+            {
+              "label": "D",
+              "text": "Mass number is the total number of protons and neutrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Mass number is the total number of protons and neutrons",
+          "explanation": "A = Z + N, where Z is proton number and N is neutron number.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ013",
+          "question": "In a basic HSC Physics question about mass number, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "number of neutrons only"
+            },
+            {
+              "label": "B",
+              "text": "Mass number is the total number of protons and neutrons"
+            },
+            {
+              "label": "C",
+              "text": "number of electrons only"
+            },
+            {
+              "label": "D",
+              "text": "proton number minus electron number"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Mass number is the total number of protons and neutrons",
+          "explanation": "A = Z + N, where Z is proton number and N is neutron number.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ014",
+          "question": "Which fact should be remembered about mass number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "number of electrons only"
+            },
+            {
+              "label": "B",
+              "text": "Mass number is the total number of protons and neutrons"
+            },
+            {
+              "label": "C",
+              "text": "proton number minus electron number"
+            },
+            {
+              "label": "D",
+              "text": "number of neutrons only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Mass number is the total number of protons and neutrons",
+          "explanation": "A = Z + N, where Z is proton number and N is neutron number.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning mass number?",
+          "options": [
+            {
+              "label": "A",
+              "text": "number of electrons only"
+            },
+            {
+              "label": "B",
+              "text": "proton number minus electron number"
+            },
+            {
+              "label": "C",
+              "text": "number of neutrons only"
+            },
+            {
+              "label": "D",
+              "text": "Mass number is the total number of protons and neutrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Mass number is the total number of protons and neutrons",
+          "explanation": "A = Z + N, where Z is proton number and N is neutron number.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Isotopes",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ016",
+          "question": "Which statement best describes isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Isotopes have the same atomic number but different mass numbers"
+            },
+            {
+              "label": "B",
+              "text": "different proton numbers and same neutrons"
+            },
+            {
+              "label": "C",
+              "text": "same mass number but different atomic number"
+            },
+            {
+              "label": "D",
+              "text": "identical nuclei"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Isotopes have the same atomic number but different mass numbers",
+          "explanation": "Isotopes are atoms of the same element with different neutron numbers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ017",
+          "question": "Which option is correctly associated with isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "same mass number but different atomic number"
+            },
+            {
+              "label": "B",
+              "text": "different proton numbers and same neutrons"
+            },
+            {
+              "label": "C",
+              "text": "identical nuclei"
+            },
+            {
+              "label": "D",
+              "text": "Isotopes have the same atomic number but different mass numbers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Isotopes have the same atomic number but different mass numbers",
+          "explanation": "Isotopes are atoms of the same element with different neutron numbers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ018",
+          "question": "In a basic HSC Physics question about isotopes, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "same mass number but different atomic number"
+            },
+            {
+              "label": "B",
+              "text": "different proton numbers and same neutrons"
+            },
+            {
+              "label": "C",
+              "text": "identical nuclei"
+            },
+            {
+              "label": "D",
+              "text": "Isotopes have the same atomic number but different mass numbers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Isotopes have the same atomic number but different mass numbers",
+          "explanation": "Isotopes are atoms of the same element with different neutron numbers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ019",
+          "question": "Which fact should be remembered about isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "same mass number but different atomic number"
+            },
+            {
+              "label": "B",
+              "text": "different proton numbers and same neutrons"
+            },
+            {
+              "label": "C",
+              "text": "identical nuclei"
+            },
+            {
+              "label": "D",
+              "text": "Isotopes have the same atomic number but different mass numbers"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Isotopes have the same atomic number but different mass numbers",
+          "explanation": "Isotopes are atoms of the same element with different neutron numbers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning isotopes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "same mass number but different atomic number"
+            },
+            {
+              "label": "B",
+              "text": "Isotopes have the same atomic number but different mass numbers"
+            },
+            {
+              "label": "C",
+              "text": "different proton numbers and same neutrons"
+            },
+            {
+              "label": "D",
+              "text": "identical nuclei"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Isotopes have the same atomic number but different mass numbers",
+          "explanation": "Isotopes are atoms of the same element with different neutron numbers.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Radioactive decay",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ021",
+          "question": "Which statement best describes radioactive decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a chemical reaction only"
+            },
+            {
+              "label": "B",
+              "text": "Radioactive decay is a spontaneous nuclear transformation"
+            },
+            {
+              "label": "C",
+              "text": "a process controlled fully by temperature"
+            },
+            {
+              "label": "D",
+              "text": "a reversible mechanical process"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Radioactive decay is a spontaneous nuclear transformation",
+          "explanation": "Nuclear decay is spontaneous and largely unaffected by ordinary physical conditions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ022",
+          "question": "Which option is correctly associated with radioactive decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a chemical reaction only"
+            },
+            {
+              "label": "B",
+              "text": "a process controlled fully by temperature"
+            },
+            {
+              "label": "C",
+              "text": "Radioactive decay is a spontaneous nuclear transformation"
+            },
+            {
+              "label": "D",
+              "text": "a reversible mechanical process"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Radioactive decay is a spontaneous nuclear transformation",
+          "explanation": "Nuclear decay is spontaneous and largely unaffected by ordinary physical conditions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ023",
+          "question": "In a basic HSC Physics question about radioactive decay, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a process controlled fully by temperature"
+            },
+            {
+              "label": "B",
+              "text": "a chemical reaction only"
+            },
+            {
+              "label": "C",
+              "text": "Radioactive decay is a spontaneous nuclear transformation"
+            },
+            {
+              "label": "D",
+              "text": "a reversible mechanical process"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Radioactive decay is a spontaneous nuclear transformation",
+          "explanation": "Nuclear decay is spontaneous and largely unaffected by ordinary physical conditions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ024",
+          "question": "Which fact should be remembered about radioactive decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a process controlled fully by temperature"
+            },
+            {
+              "label": "B",
+              "text": "Radioactive decay is a spontaneous nuclear transformation"
+            },
+            {
+              "label": "C",
+              "text": "a chemical reaction only"
+            },
+            {
+              "label": "D",
+              "text": "a reversible mechanical process"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Radioactive decay is a spontaneous nuclear transformation",
+          "explanation": "Nuclear decay is spontaneous and largely unaffected by ordinary physical conditions.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning radioactive decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a chemical reaction only"
+            },
+            {
+              "label": "B",
+              "text": "a process controlled fully by temperature"
+            },
+            {
+              "label": "C",
+              "text": "Radioactive decay is a spontaneous nuclear transformation"
+            },
+            {
+              "label": "D",
+              "text": "a reversible mechanical process"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Radioactive decay is a spontaneous nuclear transformation",
+          "explanation": "Nuclear decay is spontaneous and largely unaffected by ordinary physical conditions.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Half-life",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ026",
+          "question": "Which statement best describes half-life?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Half-life is the time required for half the radioactive nuclei in a sample to decay"
+            },
+            {
+              "label": "B",
+              "text": "time for activity to double"
+            },
+            {
+              "label": "C",
+              "text": "time for one nucleus to decay"
+            },
+            {
+              "label": "D",
+              "text": "time for all nuclei to decay"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Half-life is the time required for half the radioactive nuclei in a sample to decay",
+          "explanation": "After each half-life, the undecayed number is reduced by a factor of two.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ027",
+          "question": "Which option is correctly associated with half-life?",
+          "options": [
+            {
+              "label": "A",
+              "text": "time for activity to double"
+            },
+            {
+              "label": "B",
+              "text": "time for all nuclei to decay"
+            },
+            {
+              "label": "C",
+              "text": "time for one nucleus to decay"
+            },
+            {
+              "label": "D",
+              "text": "Half-life is the time required for half the radioactive nuclei in a sample to decay"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Half-life is the time required for half the radioactive nuclei in a sample to decay",
+          "explanation": "After each half-life, the undecayed number is reduced by a factor of two.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ028",
+          "question": "In a basic HSC Physics question about half-life, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "time for activity to double"
+            },
+            {
+              "label": "B",
+              "text": "time for all nuclei to decay"
+            },
+            {
+              "label": "C",
+              "text": "time for one nucleus to decay"
+            },
+            {
+              "label": "D",
+              "text": "Half-life is the time required for half the radioactive nuclei in a sample to decay"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Half-life is the time required for half the radioactive nuclei in a sample to decay",
+          "explanation": "After each half-life, the undecayed number is reduced by a factor of two.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ029",
+          "question": "Which fact should be remembered about half-life?",
+          "options": [
+            {
+              "label": "A",
+              "text": "time for all nuclei to decay"
+            },
+            {
+              "label": "B",
+              "text": "time for activity to double"
+            },
+            {
+              "label": "C",
+              "text": "Half-life is the time required for half the radioactive nuclei in a sample to decay"
+            },
+            {
+              "label": "D",
+              "text": "time for one nucleus to decay"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Half-life is the time required for half the radioactive nuclei in a sample to decay",
+          "explanation": "After each half-life, the undecayed number is reduced by a factor of two.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning half-life?",
+          "options": [
+            {
+              "label": "A",
+              "text": "time for activity to double"
+            },
+            {
+              "label": "B",
+              "text": "time for one nucleus to decay"
+            },
+            {
+              "label": "C",
+              "text": "time for all nuclei to decay"
+            },
+            {
+              "label": "D",
+              "text": "Half-life is the time required for half the radioactive nuclei in a sample to decay"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Half-life is the time required for half the radioactive nuclei in a sample to decay",
+          "explanation": "After each half-life, the undecayed number is reduced by a factor of two.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Alpha decay",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ031",
+          "question": "Which statement best describes alpha decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a photon"
+            },
+            {
+              "label": "B",
+              "text": "An alpha particle is a helium-4 nucleus"
+            },
+            {
+              "label": "C",
+              "text": "an electron"
+            },
+            {
+              "label": "D",
+              "text": "a proton"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "An alpha particle is a helium-4 nucleus",
+          "explanation": "An alpha particle contains two protons and two neutrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ032",
+          "question": "Which option is correctly associated with alpha decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a proton"
+            },
+            {
+              "label": "B",
+              "text": "an electron"
+            },
+            {
+              "label": "C",
+              "text": "An alpha particle is a helium-4 nucleus"
+            },
+            {
+              "label": "D",
+              "text": "a photon"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "An alpha particle is a helium-4 nucleus",
+          "explanation": "An alpha particle contains two protons and two neutrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ033",
+          "question": "In a basic HSC Physics question about alpha decay, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a proton"
+            },
+            {
+              "label": "B",
+              "text": "An alpha particle is a helium-4 nucleus"
+            },
+            {
+              "label": "C",
+              "text": "an electron"
+            },
+            {
+              "label": "D",
+              "text": "a photon"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "An alpha particle is a helium-4 nucleus",
+          "explanation": "An alpha particle contains two protons and two neutrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ034",
+          "question": "Which fact should be remembered about alpha decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "an electron"
+            },
+            {
+              "label": "B",
+              "text": "a photon"
+            },
+            {
+              "label": "C",
+              "text": "a proton"
+            },
+            {
+              "label": "D",
+              "text": "An alpha particle is a helium-4 nucleus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "An alpha particle is a helium-4 nucleus",
+          "explanation": "An alpha particle contains two protons and two neutrons.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning alpha decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "An alpha particle is a helium-4 nucleus"
+            },
+            {
+              "label": "B",
+              "text": "a proton"
+            },
+            {
+              "label": "C",
+              "text": "a photon"
+            },
+            {
+              "label": "D",
+              "text": "an electron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "An alpha particle is a helium-4 nucleus",
+          "explanation": "An alpha particle contains two protons and two neutrons.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Beta-minus decay",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ036",
+          "question": "Which statement best describes beta-minus decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a photon becomes an electron"
+            },
+            {
+              "label": "B",
+              "text": "a proton changes into a neutron and positron"
+            },
+            {
+              "label": "C",
+              "text": "two protons fuse"
+            },
+            {
+              "label": "D",
+              "text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino",
+          "explanation": "The atomic number increases by one while mass number remains unchanged.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ037",
+          "question": "Which option is correctly associated with beta-minus decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino"
+            },
+            {
+              "label": "B",
+              "text": "a proton changes into a neutron and positron"
+            },
+            {
+              "label": "C",
+              "text": "two protons fuse"
+            },
+            {
+              "label": "D",
+              "text": "a photon becomes an electron"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino",
+          "explanation": "The atomic number increases by one while mass number remains unchanged.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ038",
+          "question": "In a basic HSC Physics question about beta-minus decay, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a photon becomes an electron"
+            },
+            {
+              "label": "B",
+              "text": "a proton changes into a neutron and positron"
+            },
+            {
+              "label": "C",
+              "text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino"
+            },
+            {
+              "label": "D",
+              "text": "two protons fuse"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino",
+          "explanation": "The atomic number increases by one while mass number remains unchanged.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ039",
+          "question": "Which fact should be remembered about beta-minus decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a proton changes into a neutron and positron"
+            },
+            {
+              "label": "B",
+              "text": "a photon becomes an electron"
+            },
+            {
+              "label": "C",
+              "text": "two protons fuse"
+            },
+            {
+              "label": "D",
+              "text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino",
+          "explanation": "The atomic number increases by one while mass number remains unchanged.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning beta-minus decay?",
+          "options": [
+            {
+              "label": "A",
+              "text": "a photon becomes an electron"
+            },
+            {
+              "label": "B",
+              "text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino"
+            },
+            {
+              "label": "C",
+              "text": "a proton changes into a neutron and positron"
+            },
+            {
+              "label": "D",
+              "text": "two protons fuse"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "In beta-minus decay, a neutron changes into a proton, an electron and an antineutrino",
+          "explanation": "The atomic number increases by one while mass number remains unchanged.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Nuclear fission",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ041",
+          "question": "Which statement best describes nuclear fission?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei"
+            },
+            {
+              "label": "B",
+              "text": "joining light nuclei"
+            },
+            {
+              "label": "C",
+              "text": "chemical combustion"
+            },
+            {
+              "label": "D",
+              "text": "electron emission from a metal"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei",
+          "explanation": "Fission can release energy and additional neutrons, enabling a chain reaction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ042",
+          "question": "Which option is correctly associated with nuclear fission?",
+          "options": [
+            {
+              "label": "A",
+              "text": "joining light nuclei"
+            },
+            {
+              "label": "B",
+              "text": "chemical combustion"
+            },
+            {
+              "label": "C",
+              "text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei"
+            },
+            {
+              "label": "D",
+              "text": "electron emission from a metal"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei",
+          "explanation": "Fission can release energy and additional neutrons, enabling a chain reaction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ043",
+          "question": "In a basic HSC Physics question about nuclear fission, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei"
+            },
+            {
+              "label": "B",
+              "text": "joining light nuclei"
+            },
+            {
+              "label": "C",
+              "text": "electron emission from a metal"
+            },
+            {
+              "label": "D",
+              "text": "chemical combustion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei",
+          "explanation": "Fission can release energy and additional neutrons, enabling a chain reaction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ044",
+          "question": "Which fact should be remembered about nuclear fission?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei"
+            },
+            {
+              "label": "B",
+              "text": "joining light nuclei"
+            },
+            {
+              "label": "C",
+              "text": "electron emission from a metal"
+            },
+            {
+              "label": "D",
+              "text": "chemical combustion"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei",
+          "explanation": "Fission can release energy and additional neutrons, enabling a chain reaction.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning nuclear fission?",
+          "options": [
+            {
+              "label": "A",
+              "text": "electron emission from a metal"
+            },
+            {
+              "label": "B",
+              "text": "joining light nuclei"
+            },
+            {
+              "label": "C",
+              "text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei"
+            },
+            {
+              "label": "D",
+              "text": "chemical combustion"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei",
+          "explanation": "Fission can release energy and additional neutrons, enabling a chain reaction.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Nuclear fusion",
+      "questions": [
+        {
+          "id": "PHY_2P_CH09_MCQ046",
+          "question": "Which statement best describes nuclear fusion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "splits heavy nuclei"
+            },
+            {
+              "label": "B",
+              "text": "Nuclear fusion joins light nuclei to form a heavier nucleus"
+            },
+            {
+              "label": "C",
+              "text": "changes atoms by chemical bonding"
+            },
+            {
+              "label": "D",
+              "text": "removes orbital electrons only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Nuclear fusion joins light nuclei to form a heavier nucleus",
+          "explanation": "Fusion releases energy when the products have greater binding energy per nucleon.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ047",
+          "question": "Which option is correctly associated with nuclear fusion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes orbital electrons only"
+            },
+            {
+              "label": "B",
+              "text": "splits heavy nuclei"
+            },
+            {
+              "label": "C",
+              "text": "changes atoms by chemical bonding"
+            },
+            {
+              "label": "D",
+              "text": "Nuclear fusion joins light nuclei to form a heavier nucleus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Nuclear fusion joins light nuclei to form a heavier nucleus",
+          "explanation": "Fusion releases energy when the products have greater binding energy per nucleon.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ048",
+          "question": "In a basic HSC Physics question about nuclear fusion, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear fusion joins light nuclei to form a heavier nucleus"
+            },
+            {
+              "label": "B",
+              "text": "splits heavy nuclei"
+            },
+            {
+              "label": "C",
+              "text": "changes atoms by chemical bonding"
+            },
+            {
+              "label": "D",
+              "text": "removes orbital electrons only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Nuclear fusion joins light nuclei to form a heavier nucleus",
+          "explanation": "Fusion releases energy when the products have greater binding energy per nucleon.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ049",
+          "question": "Which fact should be remembered about nuclear fusion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "changes atoms by chemical bonding"
+            },
+            {
+              "label": "B",
+              "text": "Nuclear fusion joins light nuclei to form a heavier nucleus"
+            },
+            {
+              "label": "C",
+              "text": "splits heavy nuclei"
+            },
+            {
+              "label": "D",
+              "text": "removes orbital electrons only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Nuclear fusion joins light nuclei to form a heavier nucleus",
+          "explanation": "Fusion releases energy when the products have greater binding energy per nucleon.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_2P_CH09_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning nuclear fusion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "removes orbital electrons only"
+            },
+            {
+              "label": "B",
+              "text": "changes atoms by chemical bonding"
+            },
+            {
+              "label": "C",
+              "text": "splits heavy nuclei"
+            },
+            {
+              "label": "D",
+              "text": "Nuclear fusion joins light nuclei to form a heavier nucleus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Nuclear fusion joins light nuclei to form a heavier nucleus",
+          "explanation": "Fusion releases energy when the products have greater binding energy per nucleon.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

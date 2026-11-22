@@ -1,0 +1,1358 @@
+{
+  "paper": "Compulsory",
+  "chapter_number": 3,
+  "chapter_title": "Number Systems and Digital Devices",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Number Systems and Bases",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-001",
+          "question": "What is the base (radix) of the Hexadecimal number system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "10"
+            },
+            {
+              "label": "D",
+              "text": "16"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "16",
+          "explanation": "The hexadecimal number system has a base of 16, utilizing sixteen distinct symbols: digits 0 through 9 and letters A through F.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-002",
+          "question": "In the Hexadecimal system, which letter represents the decimal value 14?",
+          "options": [
+            {
+              "label": "A",
+              "text": "C"
+            },
+            {
+              "label": "B",
+              "text": "D"
+            },
+            {
+              "label": "C",
+              "text": "E"
+            },
+            {
+              "label": "D",
+              "text": "F"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "E",
+          "explanation": "In hexadecimal notation: A=10, B=11, C=12, D=13, E=14, and F=15.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-003",
+          "question": "Which of the following is an example of a non-positional number system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Roman numeral system"
+            },
+            {
+              "label": "B",
+              "text": "Binary number system"
+            },
+            {
+              "label": "C",
+              "text": "Octal number system"
+            },
+            {
+              "label": "D",
+              "text": "Hexadecimal number system"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Roman numeral system",
+          "explanation": "In non-positional number systems like Roman numerals or Egyptian hieroglyphics, symbol values do not depend on positional weights.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-004",
+          "question": "What is the maximum single-digit value possible in the Octal number system?",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "10"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "7",
+          "explanation": "The octal system uses base 8 and digits from 0 to 7. The maximum single-digit symbol is 7.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-005",
+          "question": "What is the number that immediately follows (77) in base 8 (octal)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(78)_8"
+            },
+            {
+              "label": "B",
+              "text": "(100)_8"
+            },
+            {
+              "label": "C",
+              "text": "(80)_8"
+            },
+            {
+              "label": "D",
+              "text": "(101)_8"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "(100)_8",
+          "explanation": "In octal, 7 + 1 produces 10_8 (0 with a carry of 1). For (77)_8 + 1: 7+1=10, 7+1=10, yielding (100)_8.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Number Base Conversions",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-006",
+          "question": "What is the binary equivalent of the decimal number 25?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(11001)_2"
+            },
+            {
+              "label": "B",
+              "text": "(10101)_2"
+            },
+            {
+              "label": "C",
+              "text": "(11100)_2"
+            },
+            {
+              "label": "D",
+              "text": "(10011)_2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(11001)_2",
+          "explanation": "25 in binary is 16 + 8 + 0 + 0 + 1 = 2^4 + 2^3 + 2^0 = (11001)_2.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-007",
+          "question": "What is the decimal equivalent of the binary number (1011)_2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "9"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "13"
+            },
+            {
+              "label": "D",
+              "text": "15"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "11",
+          "explanation": "(1011)_2 = (1 * 8) + (0 * 4) + (1 * 2) + (1 * 1) = 8 + 0 + 2 + 1 = 11.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-008",
+          "question": "Converting the binary number (111010)_2 into octal yields:",
+          "options": [
+            {
+              "label": "A",
+              "text": "(72)_8"
+            },
+            {
+              "label": "B",
+              "text": "(62)_8"
+            },
+            {
+              "label": "C",
+              "text": "(74)_8"
+            },
+            {
+              "label": "D",
+              "text": "(52)_8"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(72)_8",
+          "explanation": "Group binary digits into 3 bits from right to left: 111 | 010. 111_2 = 7, 010_2 = 2. Thus, (72)_8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-009",
+          "question": "What is the hexadecimal equivalent of the binary string (11011111)_2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(DF)_16"
+            },
+            {
+              "label": "B",
+              "text": "(DE)_16"
+            },
+            {
+              "label": "C",
+              "text": "(CF)_16"
+            },
+            {
+              "label": "D",
+              "text": "(EF)_16"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(DF)_16",
+          "explanation": "Group into 4 bits: 1101 | 1111. 1101_2 = 13 = D, and 1111_2 = 15 = F. Result is (DF)_16.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-010",
+          "question": "What is the hexadecimal representation of the octal number (75)_8?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(3D)_16"
+            },
+            {
+              "label": "B",
+              "text": "(4D)_16"
+            },
+            {
+              "label": "C",
+              "text": "(3E)_16"
+            },
+            {
+              "label": "D",
+              "text": "(2C)_16"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(3D)_16",
+          "explanation": "(75)_8 = 111 101 in binary = (0011 1101)_2. 0011_2 = 3, 1101_2 = 13 = D. Thus, (3D)_16.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Binary Arithmetic",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-011",
+          "question": "What is the sum of (1)_2 + (1)_2 in binary addition?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sum = 0, Carry = 1 (10_2)"
+            },
+            {
+              "label": "B",
+              "text": "Sum = 1, Carry = 0"
+            },
+            {
+              "label": "C",
+              "text": "Sum = 1, Carry = 1 (11_2)"
+            },
+            {
+              "label": "D",
+              "text": "Sum = 2, Carry = 0"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Sum = 0, Carry = 1 (10_2)",
+          "explanation": "In binary, 1 + 1 equals decimal 2, which is represented as (10)_2 (sum is 0, carry is 1).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-012",
+          "question": "What is the result of adding (1011)_2 and (0101)_2 in binary?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(10000)_2"
+            },
+            {
+              "label": "B",
+              "text": "(11110)_2"
+            },
+            {
+              "label": "C",
+              "text": "(10001)_2"
+            },
+            {
+              "label": "D",
+              "text": "(11000)_2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(10000)_2",
+          "explanation": "(1011)_2 = 11 and (0101)_2 = 5. Decimal sum is 16, which is (10000)_2 in binary.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-013",
+          "question": "In binary subtraction, what is 0 - 1 equal to when a borrow of 1 is taken from the next column?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Difference = 1, Borrow = 1"
+            },
+            {
+              "label": "B",
+              "text": "Difference = 0, Borrow = 0"
+            },
+            {
+              "label": "C",
+              "text": "Difference = -1, Borrow = 0"
+            },
+            {
+              "label": "D",
+              "text": "Difference = 0, Borrow = 1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Difference = 1, Borrow = 1",
+          "explanation": "Borrowing 1 shifts binary weight 2 to the current column: 2 - 1 = 1. Hence Difference = 1 with Borrow = 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-014",
+          "question": "What is the binary value of (1100)_2 - (0111)_2?",
+          "options": [
+            {
+              "label": "A",
+              "text": "(0101)_2"
+            },
+            {
+              "label": "B",
+              "text": "(0110)_2"
+            },
+            {
+              "label": "C",
+              "text": "(0011)_2"
+            },
+            {
+              "label": "D",
+              "text": "(1001)_2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "(0101)_2",
+          "explanation": "(1100)_2 is decimal 12, and (0111)_2 is decimal 7. 12 - 7 = 5, which equals (0101)_2 in binary.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT03-MCQ-015",
+          "question": "What is the sum of (1)_2 + (1)_2 + (1)_2 in binary arithmetic?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Sum = 1, Carry = 1 (11_2)"
+            },
+            {
+              "label": "B",
+              "text": "Sum = 0, Carry = 1 (10_2)"
+            },
+            {
+              "label": "C",
+              "text": "Sum = 1, Carry = 0 (1_2)"
+            },
+            {
+              "label": "D",
+              "text": "Sum = 0, Carry = 0"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Sum = 1, Carry = 1 (11_2)",
+          "explanation": "1 + 1 + 1 in decimal is 3, which is written in binary as (11)_2 (sum bit 1 with carry bit 1).",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Signed Numbers, 1's and 2's Complement",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-016",
+          "question": "In an 8-bit signed binary representation, what does an MSB (Most Significant Bit) of 1 indicate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The number is negative"
+            },
+            {
+              "label": "B",
+              "text": "The number is positive"
+            },
+            {
+              "label": "C",
+              "text": "The number is fractional"
+            },
+            {
+              "label": "D",
+              "text": "The number is zero"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The number is negative",
+          "explanation": "In signed binary representations, the MSB serves as the sign bit: 0 indicates a positive number, while 1 indicates a negative number.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-017",
+          "question": "What is the 1's complement of the binary byte 10101100?",
+          "options": [
+            {
+              "label": "A",
+              "text": "01010011"
+            },
+            {
+              "label": "B",
+              "text": "01010100"
+            },
+            {
+              "label": "C",
+              "text": "10101101"
+            },
+            {
+              "label": "D",
+              "text": "11110000"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "01010011",
+          "explanation": "To obtain the 1's complement of a binary number, invert every bit: replace each 1 with 0 and each 0 with 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-018",
+          "question": "How is the 2's complement of a binary number calculated from its 1's complement?",
+          "options": [
+            {
+              "label": "A",
+              "text": "By adding 1 to the 1's complement"
+            },
+            {
+              "label": "B",
+              "text": "By subtracting 1 from the 1's complement"
+            },
+            {
+              "label": "C",
+              "text": "By inverting the MSB only"
+            },
+            {
+              "label": "D",
+              "text": "By multiplying the 1's complement by 2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "By adding 1 to the 1's complement",
+          "explanation": "2's complement is formed by first taking the 1's complement (inverting all bits) and then adding 1 to the least significant bit (LSB).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-019",
+          "question": "What is the 8-bit 2's complement representation of decimal -5?",
+          "options": [
+            {
+              "label": "A",
+              "text": "11111011"
+            },
+            {
+              "label": "B",
+              "text": "11111010"
+            },
+            {
+              "label": "C",
+              "text": "10000101"
+            },
+            {
+              "label": "D",
+              "text": "00000101"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "11111011",
+          "explanation": "+5 in 8 bits = 00000101. 1's complement = 11111010. Adding 1 gives 11111011, which is -5 in 2's complement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-020",
+          "question": "What is the primary engineering advantage of using 2's complement arithmetic in digital computer ALUs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Subtractions can be performed directly using addition circuitry, and there is a unique representation for zero"
+            },
+            {
+              "label": "B",
+              "text": "It doubles the speed of computer displays"
+            },
+            {
+              "label": "C",
+              "text": "It eliminates the need for binary logic gates"
+            },
+            {
+              "label": "D",
+              "text": "It converts digital signals into acoustic pulses"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Subtractions can be performed directly using addition circuitry, and there is a unique representation for zero",
+          "explanation": "2's complement eliminates the dual representation of zero (+0 and -0) and allows the hardware adder circuit to handle both addition and subtraction seamlessly.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Binary Codes (BCD, ASCII, EBCDIC, Unicode)",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-021",
+          "question": "How many bits are used to encode each individual decimal digit in standard BCD (8421 code)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4 bits"
+            },
+            {
+              "label": "B",
+              "text": "7 bits"
+            },
+            {
+              "label": "C",
+              "text": "8 bits"
+            },
+            {
+              "label": "D",
+              "text": "16 bits"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4 bits",
+          "explanation": "BCD (Binary Coded Decimal) encodes each of the ten decimal digits (0 through 9) using a unique 4-bit binary group (weights 8-4-2-1).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-022",
+          "question": "What is the BCD representation of the decimal number 59?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0101 1001"
+            },
+            {
+              "label": "B",
+              "text": "0011 1011"
+            },
+            {
+              "label": "C",
+              "text": "1110 1001"
+            },
+            {
+              "label": "D",
+              "text": "0101 1010"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "0101 1001",
+          "explanation": "In BCD, 5 is represented by 0101 and 9 is represented by 1001. Together, decimal 59 is 0101 1001.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-023",
+          "question": "How many unique characters can standard ASCII-7 represent?",
+          "options": [
+            {
+              "label": "A",
+              "text": "64"
+            },
+            {
+              "label": "B",
+              "text": "128"
+            },
+            {
+              "label": "C",
+              "text": "256"
+            },
+            {
+              "label": "D",
+              "text": "512"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "128",
+          "explanation": "ASCII-7 uses 7 bits per character, yielding 2^7 = 128 unique character code points (0 to 127).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-024",
+          "question": "Which international character encoding standard was designed to encode all writing scripts and characters worldwide, including Bengali?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Unicode"
+            },
+            {
+              "label": "B",
+              "text": "ASCII-7"
+            },
+            {
+              "label": "C",
+              "text": "EBCDIC"
+            },
+            {
+              "label": "D",
+              "text": "BCD"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Unicode",
+          "explanation": "Unicode is a universal character encoding standard capable of representing characters from all living human writing scripts, including Bengali, Arabic, Chinese, and Latin.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-025",
+          "question": "What is the decimal ASCII value of the uppercase English letter 'A'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "65"
+            },
+            {
+              "label": "B",
+              "text": "97"
+            },
+            {
+              "label": "C",
+              "text": "48"
+            },
+            {
+              "label": "D",
+              "text": "32"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "65",
+          "explanation": "In ASCII encoding, uppercase 'A' has the decimal value 65 (binary 01000001), while lowercase 'a' begins at 97.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Basic Logic Gates (AND, OR, NOT)",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-026",
+          "question": "Which basic logic gate produces an output of 1 if and only if ALL of its inputs are 1?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AND gate"
+            },
+            {
+              "label": "B",
+              "text": "OR gate"
+            },
+            {
+              "label": "C",
+              "text": "NOT gate"
+            },
+            {
+              "label": "D",
+              "text": "XOR gate"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "AND gate",
+          "explanation": "The AND gate performs logical multiplication; its output Y = A . B is true (1) only when every input is simultaneously true (1).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-027",
+          "question": "Which logic gate has only ONE input and ONE output, inverting the incoming logic level?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NOT gate (Inverter)"
+            },
+            {
+              "label": "B",
+              "text": "AND gate"
+            },
+            {
+              "label": "C",
+              "text": "OR gate"
+            },
+            {
+              "label": "D",
+              "text": "NAND gate"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "NOT gate (Inverter)",
+          "explanation": "The NOT gate has a single input terminal and produces the logical complement (inversion) of its input (if A=0, output=1; if A=1, output=0).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-028",
+          "question": "For a 2-input OR gate, what is the output when inputs are A = 0 and B = 1?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "Undefined"
+            },
+            {
+              "label": "D",
+              "text": "High impedance"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "The OR gate produces 1 if at least one input is 1. Since B = 1, Y = 0 + 1 = 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-029",
+          "question": "In an electrical circuit analogy, two electrical switches connected in SERIES with a light bulb represent which logic gate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "AND gate"
+            },
+            {
+              "label": "B",
+              "text": "OR gate"
+            },
+            {
+              "label": "C",
+              "text": "NOT gate"
+            },
+            {
+              "label": "D",
+              "text": "NOR gate"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "AND gate",
+          "explanation": "In a series circuit, both switches must be closed (ON) for current to reach the light bulb, behaving exactly like an AND gate.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-030",
+          "question": "Two electrical switches connected in PARALLEL across a power supply to a load bulb represent which logic operation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "OR operation"
+            },
+            {
+              "label": "B",
+              "text": "AND operation"
+            },
+            {
+              "label": "C",
+              "text": "NOT operation"
+            },
+            {
+              "label": "D",
+              "text": "NAND operation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "OR operation",
+          "explanation": "When switches are wired in parallel, closing either switch (or both) completes the circuit and illuminates the bulb, modeling the OR function.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Universal Logic Gates (NAND, NOR)",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-031",
+          "question": "Which of the following pairs of logic gates are classified as 'Universal Gates'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "NAND and NOR"
+            },
+            {
+              "label": "B",
+              "text": "AND and OR"
+            },
+            {
+              "label": "C",
+              "text": "XOR and XNOR"
+            },
+            {
+              "label": "D",
+              "text": "NOT and AND"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "NAND and NOR",
+          "explanation": "NAND and NOR gates are termed universal gates because any Boolean function or basic gate (AND, OR, NOT) can be realized exclusively using them.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-032",
+          "question": "What is the Boolean expression for the output of a 2-input NAND gate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Y = (A . B)'"
+            },
+            {
+              "label": "B",
+              "text": "Y = (A + B)'"
+            },
+            {
+              "label": "C",
+              "text": "Y = A . B"
+            },
+            {
+              "label": "D",
+              "text": "Y = A' + B"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Y = (A . B)'",
+          "explanation": "A NAND gate performs an AND operation followed immediately by inversion (NOT): Y = (A . B)'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-033",
+          "question": "When both inputs of a 2-input NOR gate are 0, what is the output?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "Oscillating"
+            },
+            {
+              "label": "D",
+              "text": "Negative"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "For a NOR gate, Y = (A + B)'. When A = 0 and B = 0, Y = (0 + 0)' = (0)' = 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-034",
+          "question": "How many 2-input NAND gates are required to implement a NOT gate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "4"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "Connecting both inputs of a NAND gate together produces Y = (A . A)' = A', functioning as a NOT gate using just 1 NAND gate.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-035",
+          "question": "How many 2-input NAND gates are required to construct a standard 2-input OR gate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3",
+          "explanation": "By De Morgan's theorem, A + B = ((A + B)')' = (A' . B')'. Inverting A takes 1 NAND, inverting B takes 1 NAND, and combining them in a 3rd NAND yields A + B.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Special Logic Gates (XOR, XNOR)",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-036",
+          "question": "What is the defining characteristic of a 2-input XOR (Exclusive-OR) gate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Output is 1 when the two inputs are different from each other"
+            },
+            {
+              "label": "B",
+              "text": "Output is 1 only when both inputs are 1"
+            },
+            {
+              "label": "C",
+              "text": "Output is 0 only when both inputs are 0"
+            },
+            {
+              "label": "D",
+              "text": "Output is independent of input values"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Output is 1 when the two inputs are different from each other",
+          "explanation": "An XOR gate produces an output of 1 when inputs differ (A=0, B=1 or A=1, B=0), and 0 when both inputs are identical.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-037",
+          "question": "What is the Boolean expression for the XOR operation between variables A and B?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A'B + AB'"
+            },
+            {
+              "label": "B",
+              "text": "AB + A'B'"
+            },
+            {
+              "label": "C",
+              "text": "A'B'"
+            },
+            {
+              "label": "D",
+              "text": "A + B'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A'B + AB'",
+          "explanation": "The XOR expression is A (+) B = A'B + AB', which evaluates to 1 when exactly one input is active.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-038",
+          "question": "Which gate is known as an 'Equality Detector' because its output is 1 when both inputs are identical?",
+          "options": [
+            {
+              "label": "A",
+              "text": "XNOR gate"
+            },
+            {
+              "label": "B",
+              "text": "XOR gate"
+            },
+            {
+              "label": "C",
+              "text": "NAND gate"
+            },
+            {
+              "label": "D",
+              "text": "OR gate"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "XNOR gate",
+          "explanation": "The XNOR gate outputs 1 when both inputs are equal (0,0 or 1,1), making it useful as a binary comparator or equality detector.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-039",
+          "question": "What is the minimum number of 2-input NAND gates required to construct an XOR gate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "4",
+          "explanation": "An XOR gate can be implemented using exactly 4 two-input NAND gates in a classic symmetrical configuration.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ICT03-MCQ-040",
+          "question": "In a digital arithmetic Half Adder circuit, which gate directly generates the Sum output bit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "XOR gate"
+            },
+            {
+              "label": "B",
+              "text": "AND gate"
+            },
+            {
+              "label": "C",
+              "text": "NOR gate"
+            },
+            {
+              "label": "D",
+              "text": "NOT gate"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "XOR gate",
+          "explanation": "In a half adder, the sum bit S is generated by A (+) B (XOR gate), while the carry bit C is generated by A . B (AND gate).",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Boolean Algebra and De Morgan's Theorems",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-041",
+          "question": "According to De Morgan's First Theorem, what is (A + B)' equal to?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A' . B'"
+            },
+            {
+              "label": "B",
+              "text": "A' + B'"
+            },
+            {
+              "label": "C",
+              "text": "A . B"
+            },
+            {
+              "label": "D",
+              "text": "(A . B)'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A' . B'",
+          "explanation": "De Morgan's First Law states: The complement of a logical sum equals the product of the individual complements: (A + B)' = A' . B'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-042",
+          "question": "According to De Morgan's Second Theorem, what is (A . B)' equal to?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A' + B'"
+            },
+            {
+              "label": "B",
+              "text": "A' . B'"
+            },
+            {
+              "label": "C",
+              "text": "A + B"
+            },
+            {
+              "label": "D",
+              "text": "(A + B)'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A' + B'",
+          "explanation": "De Morgan's Second Law states: The complement of a logical product equals the sum of the individual complements: (A . B)' = A' + B'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-043",
+          "question": "What is the simplified value of the Boolean expression A + A' in Boolean algebra?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "A"
+            },
+            {
+              "label": "D",
+              "text": "A'"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "By the complement law of Boolean algebra, a variable ORed with its complement is always true: A + A' = 1.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-044",
+          "question": "According to the Absorption Law in Boolean algebra, what is A + A.B equal to?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A"
+            },
+            {
+              "label": "B",
+              "text": "B"
+            },
+            {
+              "label": "C",
+              "text": "A + B"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A",
+          "explanation": "A + A.B = A(1 + B) = A(1) = A. This is the fundamental absorption law.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-045",
+          "question": "What is the double complement (involution) of variable A, denoted as (A')'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A"
+            },
+            {
+              "label": "B",
+              "text": "A'"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A",
+          "explanation": "The law of involution states that complementing a variable twice returns it to its original logic value: (A')' = A.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Combinational Digital Circuits",
+      "questions": [
+        {
+          "id": "ICT03-MCQ-046",
+          "question": "How many input bits does a Full Adder circuit add simultaneously?",
+          "options": [
+            {
+              "label": "A",
+              "text": "3 bits (two operands and one carry-in)"
+            },
+            {
+              "label": "B",
+              "text": "2 bits"
+            },
+            {
+              "label": "C",
+              "text": "4 bits"
+            },
+            {
+              "label": "D",
+              "text": "1 bit"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3 bits (two operands and one carry-in)",
+          "explanation": "A Full Adder takes three binary inputs: two operand bits (A and B) and a carry-in bit (Cin) from the preceding lower significant stage.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-047",
+          "question": "A Full Adder can be constructed using which combination of simpler circuits?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Two Half Adders and one OR gate"
+            },
+            {
+              "label": "B",
+              "text": "Two Half Adders and one AND gate"
+            },
+            {
+              "label": "C",
+              "text": "Three Half Adders"
+            },
+            {
+              "label": "D",
+              "text": "One Half Adder and two NOT gates"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Two Half Adders and one OR gate",
+          "explanation": "A standard modular full adder is constructed using two half adders to calculate partial sums and an OR gate to combine the carry outputs.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-048",
+          "question": "A digital circuit that converts 2^n input lines into an n-bit binary output code is called an:",
+          "options": [
+            {
+              "label": "A",
+              "text": "Encoder"
+            },
+            {
+              "label": "B",
+              "text": "Decoder"
+            },
+            {
+              "label": "C",
+              "text": "Multiplexer"
+            },
+            {
+              "label": "D",
+              "text": "Demultiplexer"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Encoder",
+          "explanation": "An encoder converts information from 2^n active input lines into a compact coded binary representation on n output lines (e.g. 8-to-3 encoder).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ICT03-MCQ-049",
+          "question": "How many output lines are present in a binary Decoder having 3 input lines?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "16"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "8",
+          "explanation": "A decoder has n inputs and 2^n outputs. For n = 3 inputs, the number of outputs is 2^3 = 8 lines (3-to-8 line decoder).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ICT03-MCQ-050",
+          "question": "Which combinational circuit selects binary information from one of 2^n data input lines and directs it to a single output line using n select lines?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Multiplexer (MUX)"
+            },
+            {
+              "label": "B",
+              "text": "Demultiplexer (DEMUX)"
+            },
+            {
+              "label": "C",
+              "text": "Encoder"
+            },
+            {
+              "label": "D",
+              "text": "Flip-Flop"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Multiplexer (MUX)",
+          "explanation": "A Multiplexer (MUX or data selector) takes multiple data inputs (2^n) and forwards the selected input to a single output line based on n select control lines.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

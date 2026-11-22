@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 5,
+  "chapter_title": "Algae and Fungi",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH05_T01",
+      "topic_name": "Alga",
+      "mcqs": [
+        {
+          "id": "BIO1_CH05_Q01",
+          "question": "Which term is correctly described as: photosynthetic organism that may be unicellular or multicellular?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lichen"
+            },
+            {
+              "label": "B",
+              "text": "chitin"
+            },
+            {
+              "label": "C",
+              "text": "spore"
+            },
+            {
+              "label": "D",
+              "text": "alga"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "alga",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q02",
+          "question": "The biological role or defining feature of alga is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "photosynthetic organism that may be unicellular or multicellular",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q03",
+          "question": "A student records the following clue: “photosynthetic organism that may be unicellular or multicellular.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lichen"
+            },
+            {
+              "label": "B",
+              "text": "spore"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "alga"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "alga",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q04",
+          "question": "Which option completes this statement correctly? alga is the term for photosynthetic organism that may be unicellular or multicellular.",
+          "options": [
+            {
+              "label": "A",
+              "text": "lichen"
+            },
+            {
+              "label": "B",
+              "text": "hypha"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "alga"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "alga",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q05",
+          "question": "If an examination asks for the term associated with “photosynthetic organism that may be unicellular or multicellular”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "hypha"
+            },
+            {
+              "label": "C",
+              "text": "lichen"
+            },
+            {
+              "label": "D",
+              "text": "alga"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "alga",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q06",
+          "question": "Which structure, process or concept matches the description “photosynthetic organism that may be unicellular or multicellular”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lichen"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "spore"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "alga",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q07",
+          "question": "Choose the accurate statement about alga.",
+          "options": [
+            {
+              "label": "A",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            },
+            {
+              "label": "D",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "photosynthetic organism that may be unicellular or multicellular",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q08",
+          "question": "A diagram or observation identifies alga. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            },
+            {
+              "label": "D",
+              "text": "thread-like filament forming much of a fungal body"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "photosynthetic organism that may be unicellular or multicellular",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q09",
+          "question": "Which pairing is correct for alga?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "photosynthetic organism that may be unicellular or multicellular",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        },
+        {
+          "id": "BIO1_CH05_Q10",
+          "question": "In a topic review, which answer best explains the clue “photosynthetic organism that may be unicellular or multicellular”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alga"
+            },
+            {
+              "label": "B",
+              "text": "spore"
+            },
+            {
+              "label": "C",
+              "text": "hypha"
+            },
+            {
+              "label": "D",
+              "text": "lichen"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "alga",
+          "explanation": "Algae contribute to primary production in aquatic ecosystems."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH05_T02",
+      "topic_name": "Chitin",
+      "mcqs": [
+        {
+          "id": "BIO1_CH05_Q11",
+          "question": "Which term is correctly described as: common structural material in fungal cell walls?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "lichen"
+            },
+            {
+              "label": "C",
+              "text": "hypha"
+            },
+            {
+              "label": "D",
+              "text": "chitin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "chitin",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q12",
+          "question": "The biological role or defining feature of chitin is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            },
+            {
+              "label": "C",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "D",
+              "text": "common structural material in fungal cell walls"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "common structural material in fungal cell walls",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q13",
+          "question": "A student records the following clue: “common structural material in fungal cell walls.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "lichen"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "chitin",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q14",
+          "question": "Which option completes this statement correctly? chitin is the term for common structural material in fungal cell walls.",
+          "options": [
+            {
+              "label": "A",
+              "text": "alga"
+            },
+            {
+              "label": "B",
+              "text": "hypha"
+            },
+            {
+              "label": "C",
+              "text": "lichen"
+            },
+            {
+              "label": "D",
+              "text": "chitin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "chitin",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q15",
+          "question": "If an examination asks for the term associated with “common structural material in fungal cell walls”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lichen"
+            },
+            {
+              "label": "B",
+              "text": "hypha"
+            },
+            {
+              "label": "C",
+              "text": "spore"
+            },
+            {
+              "label": "D",
+              "text": "chitin"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "chitin",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q16",
+          "question": "Which structure, process or concept matches the description “common structural material in fungal cell walls”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "chitin"
+            },
+            {
+              "label": "C",
+              "text": "lichen"
+            },
+            {
+              "label": "D",
+              "text": "hypha"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "chitin",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q17",
+          "question": "Choose the accurate statement about chitin.",
+          "options": [
+            {
+              "label": "A",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "D",
+              "text": "thread-like filament forming much of a fungal body"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "common structural material in fungal cell walls",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q18",
+          "question": "A diagram or observation identifies chitin. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "B",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "C",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "D",
+              "text": "common structural material in fungal cell walls"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "common structural material in fungal cell walls",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q19",
+          "question": "Which pairing is correct for chitin?",
+          "options": [
+            {
+              "label": "A",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "B",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "C",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "D",
+              "text": "common structural material in fungal cell walls"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "common structural material in fungal cell walls",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        },
+        {
+          "id": "BIO1_CH05_Q20",
+          "question": "In a topic review, which answer best explains the clue “common structural material in fungal cell walls”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "alga"
+            },
+            {
+              "label": "B",
+              "text": "lichen"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "hypha"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "chitin",
+          "explanation": "It distinguishes typical fungal walls from plant cellulose walls."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH05_T03",
+      "topic_name": "Hypha",
+      "mcqs": [
+        {
+          "id": "BIO1_CH05_Q21",
+          "question": "Which term is correctly described as: thread-like filament forming much of a fungal body?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hypha"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "spore"
+            },
+            {
+              "label": "D",
+              "text": "chitin"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "hypha",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q22",
+          "question": "The biological role or defining feature of hypha is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "B",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            },
+            {
+              "label": "C",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "D",
+              "text": "common structural material in fungal cell walls"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "thread-like filament forming much of a fungal body",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q23",
+          "question": "A student records the following clue: “thread-like filament forming much of a fungal body.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chitin"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "hypha"
+            },
+            {
+              "label": "D",
+              "text": "spore"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "hypha",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q24",
+          "question": "Which option completes this statement correctly? hypha is the term for thread-like filament forming much of a fungal body.",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "lichen"
+            },
+            {
+              "label": "C",
+              "text": "hypha"
+            },
+            {
+              "label": "D",
+              "text": "chitin"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "hypha",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q25",
+          "question": "If an examination asks for the term associated with “thread-like filament forming much of a fungal body”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "hypha"
+            },
+            {
+              "label": "D",
+              "text": "chitin"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "hypha",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q26",
+          "question": "Which structure, process or concept matches the description “thread-like filament forming much of a fungal body”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chitin"
+            },
+            {
+              "label": "B",
+              "text": "lichen"
+            },
+            {
+              "label": "C",
+              "text": "hypha"
+            },
+            {
+              "label": "D",
+              "text": "spore"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "hypha",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q27",
+          "question": "Choose the accurate statement about hypha.",
+          "options": [
+            {
+              "label": "A",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "thread-like filament forming much of a fungal body",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q28",
+          "question": "A diagram or observation identifies hypha. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "B",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "C",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "D",
+              "text": "thread-like filament forming much of a fungal body"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "thread-like filament forming much of a fungal body",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q29",
+          "question": "Which pairing is correct for hypha?",
+          "options": [
+            {
+              "label": "A",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            },
+            {
+              "label": "B",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "C",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "D",
+              "text": "thread-like filament forming much of a fungal body"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "thread-like filament forming much of a fungal body",
+          "explanation": "A mass of hyphae forms a mycelium."
+        },
+        {
+          "id": "BIO1_CH05_Q30",
+          "question": "In a topic review, which answer best explains the clue “thread-like filament forming much of a fungal body”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "hypha"
+            },
+            {
+              "label": "C",
+              "text": "lichen"
+            },
+            {
+              "label": "D",
+              "text": "chitin"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "hypha",
+          "explanation": "A mass of hyphae forms a mycelium."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH05_T04",
+      "topic_name": "Spore",
+      "mcqs": [
+        {
+          "id": "BIO1_CH05_Q31",
+          "question": "Which term is correctly described as: reproductive or dispersal unit produced by many fungi?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "chitin"
+            },
+            {
+              "label": "C",
+              "text": "alga"
+            },
+            {
+              "label": "D",
+              "text": "hypha"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "spore",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q32",
+          "question": "The biological role or defining feature of spore is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "B",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "C",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "D",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "reproductive or dispersal unit produced by many fungi",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q33",
+          "question": "A student records the following clue: “reproductive or dispersal unit produced by many fungi.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "lichen"
+            },
+            {
+              "label": "C",
+              "text": "hypha"
+            },
+            {
+              "label": "D",
+              "text": "alga"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "spore",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q34",
+          "question": "Which option completes this statement correctly? spore is the term for reproductive or dispersal unit produced by many fungi.",
+          "options": [
+            {
+              "label": "A",
+              "text": "hypha"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "spore"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "spore",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q35",
+          "question": "If an examination asks for the term associated with “reproductive or dispersal unit produced by many fungi”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "hypha"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "spore",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q36",
+          "question": "Which structure, process or concept matches the description “reproductive or dispersal unit produced by many fungi”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lichen"
+            },
+            {
+              "label": "B",
+              "text": "hypha"
+            },
+            {
+              "label": "C",
+              "text": "spore"
+            },
+            {
+              "label": "D",
+              "text": "alga"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "spore",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q37",
+          "question": "Choose the accurate statement about spore.",
+          "options": [
+            {
+              "label": "A",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "D",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "reproductive or dispersal unit produced by many fungi",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q38",
+          "question": "A diagram or observation identifies spore. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "D",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "reproductive or dispersal unit produced by many fungi",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q39",
+          "question": "Which pairing is correct for spore?",
+          "options": [
+            {
+              "label": "A",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "B",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            },
+            {
+              "label": "C",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "D",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "reproductive or dispersal unit produced by many fungi",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        },
+        {
+          "id": "BIO1_CH05_Q40",
+          "question": "In a topic review, which answer best explains the clue “reproductive or dispersal unit produced by many fungi”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lichen"
+            },
+            {
+              "label": "B",
+              "text": "hypha"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "spore"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "spore",
+          "explanation": "Spores can disperse and grow under suitable conditions."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH05_T05",
+      "topic_name": "Lichen",
+      "mcqs": [
+        {
+          "id": "BIO1_CH05_Q41",
+          "question": "Which term is correctly described as: association of a fungus with an alga or cyanobacterium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "lichen"
+            },
+            {
+              "label": "C",
+              "text": "chitin"
+            },
+            {
+              "label": "D",
+              "text": "alga"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "lichen",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q42",
+          "question": "The biological role or defining feature of lichen is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "B",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "C",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "association of a fungus with an alga or cyanobacterium",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q43",
+          "question": "A student records the following clue: “association of a fungus with an alga or cyanobacterium.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore"
+            },
+            {
+              "label": "B",
+              "text": "lichen"
+            },
+            {
+              "label": "C",
+              "text": "alga"
+            },
+            {
+              "label": "D",
+              "text": "hypha"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "lichen",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q44",
+          "question": "Which option completes this statement correctly? lichen is the term for association of a fungus with an alga or cyanobacterium.",
+          "options": [
+            {
+              "label": "A",
+              "text": "alga"
+            },
+            {
+              "label": "B",
+              "text": "lichen"
+            },
+            {
+              "label": "C",
+              "text": "hypha"
+            },
+            {
+              "label": "D",
+              "text": "spore"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "lichen",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q45",
+          "question": "If an examination asks for the term associated with “association of a fungus with an alga or cyanobacterium”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chitin"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "lichen"
+            },
+            {
+              "label": "D",
+              "text": "hypha"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "lichen",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q46",
+          "question": "Which structure, process or concept matches the description “association of a fungus with an alga or cyanobacterium”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "hypha"
+            },
+            {
+              "label": "B",
+              "text": "alga"
+            },
+            {
+              "label": "C",
+              "text": "lichen"
+            },
+            {
+              "label": "D",
+              "text": "chitin"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "lichen",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q47",
+          "question": "Choose the accurate statement about lichen.",
+          "options": [
+            {
+              "label": "A",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "B",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "C",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "D",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "association of a fungus with an alga or cyanobacterium",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q48",
+          "question": "A diagram or observation identifies lichen. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "B",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "C",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            },
+            {
+              "label": "D",
+              "text": "reproductive or dispersal unit produced by many fungi"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "association of a fungus with an alga or cyanobacterium",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q49",
+          "question": "Which pairing is correct for lichen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "common structural material in fungal cell walls"
+            },
+            {
+              "label": "B",
+              "text": "thread-like filament forming much of a fungal body"
+            },
+            {
+              "label": "C",
+              "text": "association of a fungus with an alga or cyanobacterium"
+            },
+            {
+              "label": "D",
+              "text": "photosynthetic organism that may be unicellular or multicellular"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "association of a fungus with an alga or cyanobacterium",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        },
+        {
+          "id": "BIO1_CH05_Q50",
+          "question": "In a topic review, which answer best explains the clue “association of a fungus with an alga or cyanobacterium”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "chitin"
+            },
+            {
+              "label": "B",
+              "text": "hypha"
+            },
+            {
+              "label": "C",
+              "text": "lichen"
+            },
+            {
+              "label": "D",
+              "text": "alga"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "lichen",
+          "explanation": "The photosynthetic partner supplies organic nutrients to the association."
+        }
+      ]
+    }
+  ]
+}

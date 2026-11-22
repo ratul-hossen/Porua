@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 12,
+  "chapter_title": "Environment, Distribution and Conservation of Organisms",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH12_T01",
+      "topic_name": "Population",
+      "mcqs": [
+        {
+          "id": "BIO1_CH12_Q01",
+          "question": "Which term is correctly described as: members of one species living in a particular area?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "biodiversity"
+            },
+            {
+              "label": "D",
+              "text": "population"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "population",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q02",
+          "question": "The biological role or defining feature of population is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "B",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "C",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "D",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "members of one species living in a particular area",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q03",
+          "question": "A student records the following clue: “members of one species living in a particular area.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "in-situ conservation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "population",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q04",
+          "question": "Which option completes this statement correctly? population is the term for members of one species living in a particular area.",
+          "options": [
+            {
+              "label": "A",
+              "text": "community"
+            },
+            {
+              "label": "B",
+              "text": "biodiversity"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "ecosystem"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "population",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q05",
+          "question": "If an examination asks for the term associated with “members of one species living in a particular area”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "community"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "population",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q06",
+          "question": "Which structure, process or concept matches the description “members of one species living in a particular area”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "community"
+            },
+            {
+              "label": "B",
+              "text": "population"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "biodiversity"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "population",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q07",
+          "question": "Choose the accurate statement about population.",
+          "options": [
+            {
+              "label": "A",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "B",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "C",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "D",
+              "text": "members of one species living in a particular area"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "members of one species living in a particular area",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q08",
+          "question": "A diagram or observation identifies population. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "B",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "C",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "D",
+              "text": "members of one species living in a particular area"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "members of one species living in a particular area",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q09",
+          "question": "Which pairing is correct for population?",
+          "options": [
+            {
+              "label": "A",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "B",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "C",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "D",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "members of one species living in a particular area",
+          "explanation": "A population is made up of conspecific organisms."
+        },
+        {
+          "id": "BIO1_CH12_Q10",
+          "question": "In a topic review, which answer best explains the clue “members of one species living in a particular area”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "population"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "community"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "population",
+          "explanation": "A population is made up of conspecific organisms."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH12_T02",
+      "topic_name": "Community",
+      "mcqs": [
+        {
+          "id": "BIO1_CH12_Q11",
+          "question": "Which term is correctly described as: interacting populations of different species in an area?",
+          "options": [
+            {
+              "label": "A",
+              "text": "population"
+            },
+            {
+              "label": "B",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "community"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "community",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q12",
+          "question": "The biological role or defining feature of community is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "B",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "C",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "D",
+              "text": "members of one species living in a particular area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "interacting populations of different species in an area",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q13",
+          "question": "A student records the following clue: “interacting populations of different species in an area.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ecosystem"
+            },
+            {
+              "label": "B",
+              "text": "community"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "in-situ conservation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "community",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q14",
+          "question": "Which option completes this statement correctly? community is the term for interacting populations of different species in an area.",
+          "options": [
+            {
+              "label": "A",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "community"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "community",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q15",
+          "question": "If an examination asks for the term associated with “interacting populations of different species in an area”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "community"
+            },
+            {
+              "label": "D",
+              "text": "in-situ conservation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "community",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q16",
+          "question": "Which structure, process or concept matches the description “interacting populations of different species in an area”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "community"
+            },
+            {
+              "label": "B",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "C",
+              "text": "biodiversity"
+            },
+            {
+              "label": "D",
+              "text": "population"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "community",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q17",
+          "question": "Choose the accurate statement about community.",
+          "options": [
+            {
+              "label": "A",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "B",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "C",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "D",
+              "text": "interacting populations of different species in an area"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "interacting populations of different species in an area",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q18",
+          "question": "A diagram or observation identifies community. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "B",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "C",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "D",
+              "text": "community together with its abiotic environment"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "interacting populations of different species in an area",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q19",
+          "question": "Which pairing is correct for community?",
+          "options": [
+            {
+              "label": "A",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "B",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "C",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "D",
+              "text": "community together with its abiotic environment"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "interacting populations of different species in an area",
+          "explanation": "It includes the living populations of an ecosystem."
+        },
+        {
+          "id": "BIO1_CH12_Q20",
+          "question": "In a topic review, which answer best explains the clue “interacting populations of different species in an area”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "B",
+              "text": "population"
+            },
+            {
+              "label": "C",
+              "text": "biodiversity"
+            },
+            {
+              "label": "D",
+              "text": "community"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "community",
+          "explanation": "It includes the living populations of an ecosystem."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH12_T03",
+      "topic_name": "Ecosystem",
+      "mcqs": [
+        {
+          "id": "BIO1_CH12_Q21",
+          "question": "Which term is correctly described as: community together with its abiotic environment?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ecosystem"
+            },
+            {
+              "label": "B",
+              "text": "community"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "in-situ conservation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ecosystem",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q22",
+          "question": "The biological role or defining feature of ecosystem is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "B",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "C",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "D",
+              "text": "interacting populations of different species in an area"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "community together with its abiotic environment",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q23",
+          "question": "A student records the following clue: “community together with its abiotic environment.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "population"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ecosystem",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q24",
+          "question": "Which option completes this statement correctly? ecosystem is the term for community together with its abiotic environment.",
+          "options": [
+            {
+              "label": "A",
+              "text": "population"
+            },
+            {
+              "label": "B",
+              "text": "community"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "in-situ conservation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ecosystem",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q25",
+          "question": "If an examination asks for the term associated with “community together with its abiotic environment”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "community"
+            },
+            {
+              "label": "D",
+              "text": "population"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "ecosystem",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q26",
+          "question": "Which structure, process or concept matches the description “community together with its abiotic environment”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "B",
+              "text": "biodiversity"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "population"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "ecosystem",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q27",
+          "question": "Choose the accurate statement about ecosystem.",
+          "options": [
+            {
+              "label": "A",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "B",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "C",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "D",
+              "text": "interacting populations of different species in an area"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "community together with its abiotic environment",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q28",
+          "question": "A diagram or observation identifies ecosystem. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "B",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "C",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "D",
+              "text": "members of one species living in a particular area"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "community together with its abiotic environment",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q29",
+          "question": "Which pairing is correct for ecosystem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "B",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "C",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "D",
+              "text": "interacting populations of different species in an area"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "community together with its abiotic environment",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        },
+        {
+          "id": "BIO1_CH12_Q30",
+          "question": "In a topic review, which answer best explains the clue “community together with its abiotic environment”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ecosystem"
+            },
+            {
+              "label": "B",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "C",
+              "text": "community"
+            },
+            {
+              "label": "D",
+              "text": "population"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ecosystem",
+          "explanation": "It includes organisms and physical factors such as water and soil."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH12_T04",
+      "topic_name": "Biodiversity",
+      "mcqs": [
+        {
+          "id": "BIO1_CH12_Q31",
+          "question": "Which term is correctly described as: variety of life at genetic, species and ecosystem levels?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ecosystem"
+            },
+            {
+              "label": "B",
+              "text": "community"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "biodiversity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "biodiversity",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q32",
+          "question": "The biological role or defining feature of biodiversity is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "B",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "C",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "D",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "variety of life at genetic, species and ecosystem levels",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q33",
+          "question": "A student records the following clue: “variety of life at genetic, species and ecosystem levels.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "community"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "biodiversity"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "biodiversity",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q34",
+          "question": "Which option completes this statement correctly? biodiversity is the term for variety of life at genetic, species and ecosystem levels.",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "population"
+            },
+            {
+              "label": "C",
+              "text": "community"
+            },
+            {
+              "label": "D",
+              "text": "ecosystem"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "biodiversity",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q35",
+          "question": "If an examination asks for the term associated with “variety of life at genetic, species and ecosystem levels”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "B",
+              "text": "community"
+            },
+            {
+              "label": "C",
+              "text": "biodiversity"
+            },
+            {
+              "label": "D",
+              "text": "population"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "biodiversity",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q36",
+          "question": "Which structure, process or concept matches the description “variety of life at genetic, species and ecosystem levels”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "community"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "biodiversity",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q37",
+          "question": "Choose the accurate statement about biodiversity.",
+          "options": [
+            {
+              "label": "A",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "B",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "C",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "D",
+              "text": "interacting populations of different species in an area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "variety of life at genetic, species and ecosystem levels",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q38",
+          "question": "A diagram or observation identifies biodiversity. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "B",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "C",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "D",
+              "text": "protection of organisms within their natural habitats"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "variety of life at genetic, species and ecosystem levels",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q39",
+          "question": "Which pairing is correct for biodiversity?",
+          "options": [
+            {
+              "label": "A",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "B",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "C",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "D",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "variety of life at genetic, species and ecosystem levels",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        },
+        {
+          "id": "BIO1_CH12_Q40",
+          "question": "In a topic review, which answer best explains the clue “variety of life at genetic, species and ecosystem levels”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "D",
+              "text": "population"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "biodiversity",
+          "explanation": "Its levels describe variation within species, among species and among ecosystems."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH12_T05",
+      "topic_name": "In-Situ Conservation",
+      "mcqs": [
+        {
+          "id": "BIO1_CH12_Q41",
+          "question": "Which term is correctly described as: protection of organisms within their natural habitats?",
+          "options": [
+            {
+              "label": "A",
+              "text": "community"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "D",
+              "text": "biodiversity"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "in-situ conservation",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q42",
+          "question": "The biological role or defining feature of in-situ conservation is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "B",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "C",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "D",
+              "text": "members of one species living in a particular area"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "protection of organisms within their natural habitats",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q43",
+          "question": "A student records the following clue: “protection of organisms within their natural habitats.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "community"
+            },
+            {
+              "label": "B",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "C",
+              "text": "population"
+            },
+            {
+              "label": "D",
+              "text": "ecosystem"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "in-situ conservation",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q44",
+          "question": "Which option completes this statement correctly? in-situ conservation is the term for protection of organisms within their natural habitats.",
+          "options": [
+            {
+              "label": "A",
+              "text": "community"
+            },
+            {
+              "label": "B",
+              "text": "population"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "in-situ conservation"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "in-situ conservation",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q45",
+          "question": "If an examination asks for the term associated with “protection of organisms within their natural habitats”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "population"
+            },
+            {
+              "label": "B",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "C",
+              "text": "ecosystem"
+            },
+            {
+              "label": "D",
+              "text": "biodiversity"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "in-situ conservation",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q46",
+          "question": "Which structure, process or concept matches the description “protection of organisms within their natural habitats”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "population"
+            },
+            {
+              "label": "B",
+              "text": "biodiversity"
+            },
+            {
+              "label": "C",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "D",
+              "text": "ecosystem"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "in-situ conservation",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q47",
+          "question": "Choose the accurate statement about in-situ conservation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "B",
+              "text": "members of one species living in a particular area"
+            },
+            {
+              "label": "C",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "D",
+              "text": "protection of organisms within their natural habitats"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "protection of organisms within their natural habitats",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q48",
+          "question": "A diagram or observation identifies in-situ conservation. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "B",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "C",
+              "text": "interacting populations of different species in an area"
+            },
+            {
+              "label": "D",
+              "text": "members of one species living in a particular area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "protection of organisms within their natural habitats",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q49",
+          "question": "Which pairing is correct for in-situ conservation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "protection of organisms within their natural habitats"
+            },
+            {
+              "label": "B",
+              "text": "community together with its abiotic environment"
+            },
+            {
+              "label": "C",
+              "text": "variety of life at genetic, species and ecosystem levels"
+            },
+            {
+              "label": "D",
+              "text": "interacting populations of different species in an area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "protection of organisms within their natural habitats",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        },
+        {
+          "id": "BIO1_CH12_Q50",
+          "question": "In a topic review, which answer best explains the clue “protection of organisms within their natural habitats”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biodiversity"
+            },
+            {
+              "label": "B",
+              "text": "ecosystem"
+            },
+            {
+              "label": "C",
+              "text": "in-situ conservation"
+            },
+            {
+              "label": "D",
+              "text": "community"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "in-situ conservation",
+          "explanation": "Protected areas conserve species in their ecological settings."
+        }
+      ]
+    }
+  ]
+}

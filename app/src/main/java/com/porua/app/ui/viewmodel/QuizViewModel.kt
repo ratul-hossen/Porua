@@ -140,7 +140,8 @@ class QuizViewModel(
 
                 val subjectName = candidateItems.firstOrNull()?.let {
                     if (chapterNumber != null || chapterIndex != null) {
-                        "${it.subjectName} • ${it.paper} Ch ${it.chapterNumber}"
+                        val paperPart = if (it.paper.isNotBlank()) " • ${it.paper}" else ""
+                        "${it.subjectName}$paperPart Ch ${it.chapterNumber}"
                     } else {
                         it.subjectName
                     }

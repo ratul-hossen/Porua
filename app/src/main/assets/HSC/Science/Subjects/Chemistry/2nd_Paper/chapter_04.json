@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 4,
+  "chapter_title": "Electrochemistry",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Oxidation at electrode",
+      "questions": [
+        {
+          "id": "CH04-MCQ-001",
+          "question": "Which statement correctly describes oxidation at electrode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Anode"
+            },
+            {
+              "label": "B",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "C",
+              "text": "Cathode"
+            },
+            {
+              "label": "D",
+              "text": "External wire only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Anode",
+          "explanation": "Oxidation occurs at the anode in both galvanic and electrolytic cells.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-002",
+          "question": "In chemistry, what is the correct answer concerning oxidation at electrode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "B",
+              "text": "Anode"
+            },
+            {
+              "label": "C",
+              "text": "External wire only"
+            },
+            {
+              "label": "D",
+              "text": "Cathode"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Anode",
+          "explanation": "Oxidation occurs at the anode in both galvanic and electrolytic cells.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-003",
+          "question": "A student is reviewing oxidation at electrode. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cathode"
+            },
+            {
+              "label": "B",
+              "text": "Anode"
+            },
+            {
+              "label": "C",
+              "text": "External wire only"
+            },
+            {
+              "label": "D",
+              "text": "Salt bridge only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Anode",
+          "explanation": "Oxidation occurs at the anode in both galvanic and electrolytic cells.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-004",
+          "question": "Which option gives the most accurate explanation of oxidation at electrode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "External wire only"
+            },
+            {
+              "label": "B",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "C",
+              "text": "Anode"
+            },
+            {
+              "label": "D",
+              "text": "Cathode"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Anode",
+          "explanation": "Oxidation occurs at the anode in both galvanic and electrolytic cells.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-005",
+          "question": "Choose the correct principle or fact associated with oxidation at electrode.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Anode"
+            },
+            {
+              "label": "B",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "C",
+              "text": "External wire only"
+            },
+            {
+              "label": "D",
+              "text": "Cathode"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Anode",
+          "explanation": "Oxidation occurs at the anode in both galvanic and electrolytic cells.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Reduction at electrode",
+      "questions": [
+        {
+          "id": "CH04-MCQ-006",
+          "question": "Which statement correctly describes reduction at electrode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cathode"
+            },
+            {
+              "label": "B",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "C",
+              "text": "Anode"
+            },
+            {
+              "label": "D",
+              "text": "Voltmeter"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cathode",
+          "explanation": "Reduction occurs at the cathode in electrochemical cells.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-007",
+          "question": "In chemistry, what is the correct answer concerning reduction at electrode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Anode"
+            },
+            {
+              "label": "B",
+              "text": "Voltmeter"
+            },
+            {
+              "label": "C",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "D",
+              "text": "Cathode"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Cathode",
+          "explanation": "Reduction occurs at the cathode in electrochemical cells.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-008",
+          "question": "A student is reviewing reduction at electrode. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Cathode"
+            },
+            {
+              "label": "B",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "C",
+              "text": "Voltmeter"
+            },
+            {
+              "label": "D",
+              "text": "Anode"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Cathode",
+          "explanation": "Reduction occurs at the cathode in electrochemical cells.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-009",
+          "question": "Which option gives the most accurate explanation of reduction at electrode?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Anode"
+            },
+            {
+              "label": "B",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "C",
+              "text": "Voltmeter"
+            },
+            {
+              "label": "D",
+              "text": "Cathode"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Cathode",
+          "explanation": "Reduction occurs at the cathode in electrochemical cells.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-010",
+          "question": "Choose the correct principle or fact associated with reduction at electrode.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Salt bridge only"
+            },
+            {
+              "label": "B",
+              "text": "Cathode"
+            },
+            {
+              "label": "C",
+              "text": "Anode"
+            },
+            {
+              "label": "D",
+              "text": "Voltmeter"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Cathode",
+          "explanation": "Reduction occurs at the cathode in electrochemical cells.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Galvanic cell",
+      "questions": [
+        {
+          "id": "CH04-MCQ-011",
+          "question": "Which statement correctly describes galvanic cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Requires nonspontaneous reaction only"
+            },
+            {
+              "label": "B",
+              "text": "Converts chemical energy into electrical energy"
+            },
+            {
+              "label": "C",
+              "text": "Converts light directly to sound"
+            },
+            {
+              "label": "D",
+              "text": "Stores no chemical energy"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Converts chemical energy into electrical energy",
+          "explanation": "A spontaneous redox reaction drives electron flow through an external circuit.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-012",
+          "question": "In chemistry, what is the correct answer concerning galvanic cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stores no chemical energy"
+            },
+            {
+              "label": "B",
+              "text": "Converts light directly to sound"
+            },
+            {
+              "label": "C",
+              "text": "Requires nonspontaneous reaction only"
+            },
+            {
+              "label": "D",
+              "text": "Converts chemical energy into electrical energy"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Converts chemical energy into electrical energy",
+          "explanation": "A spontaneous redox reaction drives electron flow through an external circuit.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-013",
+          "question": "A student is reviewing galvanic cell. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Converts light directly to sound"
+            },
+            {
+              "label": "B",
+              "text": "Requires nonspontaneous reaction only"
+            },
+            {
+              "label": "C",
+              "text": "Converts chemical energy into electrical energy"
+            },
+            {
+              "label": "D",
+              "text": "Stores no chemical energy"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Converts chemical energy into electrical energy",
+          "explanation": "A spontaneous redox reaction drives electron flow through an external circuit.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-014",
+          "question": "Which option gives the most accurate explanation of galvanic cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Converts light directly to sound"
+            },
+            {
+              "label": "B",
+              "text": "Converts chemical energy into electrical energy"
+            },
+            {
+              "label": "C",
+              "text": "Stores no chemical energy"
+            },
+            {
+              "label": "D",
+              "text": "Requires nonspontaneous reaction only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Converts chemical energy into electrical energy",
+          "explanation": "A spontaneous redox reaction drives electron flow through an external circuit.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-015",
+          "question": "Choose the correct principle or fact associated with galvanic cell.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Converts light directly to sound"
+            },
+            {
+              "label": "B",
+              "text": "Converts chemical energy into electrical energy"
+            },
+            {
+              "label": "C",
+              "text": "Stores no chemical energy"
+            },
+            {
+              "label": "D",
+              "text": "Requires nonspontaneous reaction only"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Converts chemical energy into electrical energy",
+          "explanation": "A spontaneous redox reaction drives electron flow through an external circuit.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Electrolytic cell",
+      "questions": [
+        {
+          "id": "CH04-MCQ-016",
+          "question": "Which statement correctly describes electrolytic cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always generates electricity spontaneously"
+            },
+            {
+              "label": "B",
+              "text": "Uses electrical energy to drive a nonspontaneous reaction"
+            },
+            {
+              "label": "C",
+              "text": "Has no electrodes"
+            },
+            {
+              "label": "D",
+              "text": "Cannot involve ions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Uses electrical energy to drive a nonspontaneous reaction",
+          "explanation": "An external power source forces the redox process.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-017",
+          "question": "In chemistry, what is the correct answer concerning electrolytic cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Has no electrodes"
+            },
+            {
+              "label": "B",
+              "text": "Uses electrical energy to drive a nonspontaneous reaction"
+            },
+            {
+              "label": "C",
+              "text": "Cannot involve ions"
+            },
+            {
+              "label": "D",
+              "text": "Always generates electricity spontaneously"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Uses electrical energy to drive a nonspontaneous reaction",
+          "explanation": "An external power source forces the redox process.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-018",
+          "question": "A student is reviewing electrolytic cell. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always generates electricity spontaneously"
+            },
+            {
+              "label": "B",
+              "text": "Uses electrical energy to drive a nonspontaneous reaction"
+            },
+            {
+              "label": "C",
+              "text": "Has no electrodes"
+            },
+            {
+              "label": "D",
+              "text": "Cannot involve ions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Uses electrical energy to drive a nonspontaneous reaction",
+          "explanation": "An external power source forces the redox process.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-019",
+          "question": "Which option gives the most accurate explanation of electrolytic cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always generates electricity spontaneously"
+            },
+            {
+              "label": "B",
+              "text": "Uses electrical energy to drive a nonspontaneous reaction"
+            },
+            {
+              "label": "C",
+              "text": "Cannot involve ions"
+            },
+            {
+              "label": "D",
+              "text": "Has no electrodes"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Uses electrical energy to drive a nonspontaneous reaction",
+          "explanation": "An external power source forces the redox process.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-020",
+          "question": "Choose the correct principle or fact associated with electrolytic cell.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Has no electrodes"
+            },
+            {
+              "label": "B",
+              "text": "Always generates electricity spontaneously"
+            },
+            {
+              "label": "C",
+              "text": "Uses electrical energy to drive a nonspontaneous reaction"
+            },
+            {
+              "label": "D",
+              "text": "Cannot involve ions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Uses electrical energy to drive a nonspontaneous reaction",
+          "explanation": "An external power source forces the redox process.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Salt bridge",
+      "questions": [
+        {
+          "id": "CH04-MCQ-021",
+          "question": "Which statement correctly describes salt bridge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Supplies electrons to solution"
+            },
+            {
+              "label": "B",
+              "text": "Measures electrode mass"
+            },
+            {
+              "label": "C",
+              "text": "Stops all ion movement"
+            },
+            {
+              "label": "D",
+              "text": "Maintains electrical neutrality by ion migration"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Maintains electrical neutrality by ion migration",
+          "explanation": "Ions move through the bridge to prevent charge build-up in the half-cells.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-022",
+          "question": "In chemistry, what is the correct answer concerning salt bridge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Stops all ion movement"
+            },
+            {
+              "label": "B",
+              "text": "Measures electrode mass"
+            },
+            {
+              "label": "C",
+              "text": "Maintains electrical neutrality by ion migration"
+            },
+            {
+              "label": "D",
+              "text": "Supplies electrons to solution"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Maintains electrical neutrality by ion migration",
+          "explanation": "Ions move through the bridge to prevent charge build-up in the half-cells.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-023",
+          "question": "A student is reviewing salt bridge. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Supplies electrons to solution"
+            },
+            {
+              "label": "B",
+              "text": "Measures electrode mass"
+            },
+            {
+              "label": "C",
+              "text": "Stops all ion movement"
+            },
+            {
+              "label": "D",
+              "text": "Maintains electrical neutrality by ion migration"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Maintains electrical neutrality by ion migration",
+          "explanation": "Ions move through the bridge to prevent charge build-up in the half-cells.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-024",
+          "question": "Which option gives the most accurate explanation of salt bridge?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Maintains electrical neutrality by ion migration"
+            },
+            {
+              "label": "B",
+              "text": "Stops all ion movement"
+            },
+            {
+              "label": "C",
+              "text": "Measures electrode mass"
+            },
+            {
+              "label": "D",
+              "text": "Supplies electrons to solution"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Maintains electrical neutrality by ion migration",
+          "explanation": "Ions move through the bridge to prevent charge build-up in the half-cells.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-025",
+          "question": "Choose the correct principle or fact associated with salt bridge.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Maintains electrical neutrality by ion migration"
+            },
+            {
+              "label": "B",
+              "text": "Measures electrode mass"
+            },
+            {
+              "label": "C",
+              "text": "Supplies electrons to solution"
+            },
+            {
+              "label": "D",
+              "text": "Stops all ion movement"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Maintains electrical neutrality by ion migration",
+          "explanation": "Ions move through the bridge to prevent charge build-up in the half-cells.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Faraday constant",
+      "questions": [
+        {
+          "id": "CH04-MCQ-026",
+          "question": "Which statement correctly describes faraday constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Charge carried by one mole of electrons"
+            },
+            {
+              "label": "B",
+              "text": "Mass of one mole of electrons in kg"
+            },
+            {
+              "label": "C",
+              "text": "Gas constant in volts"
+            },
+            {
+              "label": "D",
+              "text": "Avogadro number in coulombs"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Charge carried by one mole of electrons",
+          "explanation": "Its approximate value is 96485 c mol−1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-027",
+          "question": "In chemistry, what is the correct answer concerning faraday constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Avogadro number in coulombs"
+            },
+            {
+              "label": "B",
+              "text": "Gas constant in volts"
+            },
+            {
+              "label": "C",
+              "text": "Mass of one mole of electrons in kg"
+            },
+            {
+              "label": "D",
+              "text": "Charge carried by one mole of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Charge carried by one mole of electrons",
+          "explanation": "Its approximate value is 96485 c mol−1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-028",
+          "question": "A student is reviewing faraday constant. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Charge carried by one mole of electrons"
+            },
+            {
+              "label": "B",
+              "text": "Mass of one mole of electrons in kg"
+            },
+            {
+              "label": "C",
+              "text": "Gas constant in volts"
+            },
+            {
+              "label": "D",
+              "text": "Avogadro number in coulombs"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Charge carried by one mole of electrons",
+          "explanation": "Its approximate value is 96485 c mol−1.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-029",
+          "question": "Which option gives the most accurate explanation of faraday constant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass of one mole of electrons in kg"
+            },
+            {
+              "label": "B",
+              "text": "Avogadro number in coulombs"
+            },
+            {
+              "label": "C",
+              "text": "Gas constant in volts"
+            },
+            {
+              "label": "D",
+              "text": "Charge carried by one mole of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Charge carried by one mole of electrons",
+          "explanation": "Its approximate value is 96485 c mol−1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-030",
+          "question": "Choose the correct principle or fact associated with faraday constant.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Mass of one mole of electrons in kg"
+            },
+            {
+              "label": "B",
+              "text": "Avogadro number in coulombs"
+            },
+            {
+              "label": "C",
+              "text": "Gas constant in volts"
+            },
+            {
+              "label": "D",
+              "text": "Charge carried by one mole of electrons"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Charge carried by one mole of electrons",
+          "explanation": "Its approximate value is 96485 c mol−1.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Electrolysis",
+      "questions": [
+        {
+          "id": "CH04-MCQ-031",
+          "question": "Which statement correctly describes electrolysis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Physical filtration"
+            },
+            {
+              "label": "B",
+              "text": "Change caused only by gravity"
+            },
+            {
+              "label": "C",
+              "text": "Chemical change caused by electric current"
+            },
+            {
+              "label": "D",
+              "text": "Nuclear fusion"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Chemical change caused by electric current",
+          "explanation": "Electrical energy drives oxidation and reduction at electrodes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CH04-MCQ-032",
+          "question": "In chemistry, what is the correct answer concerning electrolysis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Change caused only by gravity"
+            },
+            {
+              "label": "B",
+              "text": "Nuclear fusion"
+            },
+            {
+              "label": "C",
+              "text": "Chemical change caused by electric current"
+            },
+            {
+              "label": "D",
+              "text": "Physical filtration"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Chemical change caused by electric current",
+          "explanation": "Electrical energy drives oxidation and reduction at electrodes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-033",
+          "question": "A student is reviewing electrolysis. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear fusion"
+            },
+            {
+              "label": "B",
+              "text": "Change caused only by gravity"
+            },
+            {
+              "label": "C",
+              "text": "Physical filtration"
+            },
+            {
+              "label": "D",
+              "text": "Chemical change caused by electric current"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Chemical change caused by electric current",
+          "explanation": "Electrical energy drives oxidation and reduction at electrodes.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-034",
+          "question": "Which option gives the most accurate explanation of electrolysis?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Nuclear fusion"
+            },
+            {
+              "label": "B",
+              "text": "Chemical change caused by electric current"
+            },
+            {
+              "label": "C",
+              "text": "Change caused only by gravity"
+            },
+            {
+              "label": "D",
+              "text": "Physical filtration"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Chemical change caused by electric current",
+          "explanation": "Electrical energy drives oxidation and reduction at electrodes.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-035",
+          "question": "Choose the correct principle or fact associated with electrolysis.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Change caused only by gravity"
+            },
+            {
+              "label": "B",
+              "text": "Nuclear fusion"
+            },
+            {
+              "label": "C",
+              "text": "Physical filtration"
+            },
+            {
+              "label": "D",
+              "text": "Chemical change caused by electric current"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Chemical change caused by electric current",
+          "explanation": "Electrical energy drives oxidation and reduction at electrodes.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Standard electrode potential",
+      "questions": [
+        {
+          "id": "CH04-MCQ-036",
+          "question": "Which statement correctly describes standard electrode potential?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Measured relative to pure oxygen mass"
+            },
+            {
+              "label": "B",
+              "text": "Always equal to zero for every metal"
+            },
+            {
+              "label": "C",
+              "text": "Measured in kilograms"
+            },
+            {
+              "label": "D",
+              "text": "Measured relative to the standard hydrogen electrode"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Measured relative to the standard hydrogen electrode",
+          "explanation": "Electrode potentials are assigned by comparison with a reference electrode.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-037",
+          "question": "In chemistry, what is the correct answer concerning standard electrode potential?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Measured in kilograms"
+            },
+            {
+              "label": "B",
+              "text": "Measured relative to pure oxygen mass"
+            },
+            {
+              "label": "C",
+              "text": "Always equal to zero for every metal"
+            },
+            {
+              "label": "D",
+              "text": "Measured relative to the standard hydrogen electrode"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Measured relative to the standard hydrogen electrode",
+          "explanation": "Electrode potentials are assigned by comparison with a reference electrode.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-038",
+          "question": "A student is reviewing standard electrode potential. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always equal to zero for every metal"
+            },
+            {
+              "label": "B",
+              "text": "Measured relative to the standard hydrogen electrode"
+            },
+            {
+              "label": "C",
+              "text": "Measured relative to pure oxygen mass"
+            },
+            {
+              "label": "D",
+              "text": "Measured in kilograms"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Measured relative to the standard hydrogen electrode",
+          "explanation": "Electrode potentials are assigned by comparison with a reference electrode.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-039",
+          "question": "Which option gives the most accurate explanation of standard electrode potential?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Measured relative to the standard hydrogen electrode"
+            },
+            {
+              "label": "B",
+              "text": "Measured in kilograms"
+            },
+            {
+              "label": "C",
+              "text": "Always equal to zero for every metal"
+            },
+            {
+              "label": "D",
+              "text": "Measured relative to pure oxygen mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Measured relative to the standard hydrogen electrode",
+          "explanation": "Electrode potentials are assigned by comparison with a reference electrode.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-040",
+          "question": "Choose the correct principle or fact associated with standard electrode potential.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Always equal to zero for every metal"
+            },
+            {
+              "label": "B",
+              "text": "Measured relative to pure oxygen mass"
+            },
+            {
+              "label": "C",
+              "text": "Measured in kilograms"
+            },
+            {
+              "label": "D",
+              "text": "Measured relative to the standard hydrogen electrode"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Measured relative to the standard hydrogen electrode",
+          "explanation": "Electrode potentials are assigned by comparison with a reference electrode.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Corrosion",
+      "questions": [
+        {
+          "id": "CH04-MCQ-041",
+          "question": "Which statement correctly describes corrosion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Electrochemical deterioration of a material"
+            },
+            {
+              "label": "B",
+              "text": "A type of polymerisation"
+            },
+            {
+              "label": "C",
+              "text": "A nuclear decay process"
+            },
+            {
+              "label": "D",
+              "text": "A method of distillation"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Electrochemical deterioration of a material",
+          "explanation": "Iron rusting involves oxidation of iron and reduction of oxygen in the presence of water.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-042",
+          "question": "In chemistry, what is the correct answer concerning corrosion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A nuclear decay process"
+            },
+            {
+              "label": "B",
+              "text": "Electrochemical deterioration of a material"
+            },
+            {
+              "label": "C",
+              "text": "A type of polymerisation"
+            },
+            {
+              "label": "D",
+              "text": "A method of distillation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electrochemical deterioration of a material",
+          "explanation": "Iron rusting involves oxidation of iron and reduction of oxygen in the presence of water.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-043",
+          "question": "A student is reviewing corrosion. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A type of polymerisation"
+            },
+            {
+              "label": "B",
+              "text": "Electrochemical deterioration of a material"
+            },
+            {
+              "label": "C",
+              "text": "A nuclear decay process"
+            },
+            {
+              "label": "D",
+              "text": "A method of distillation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electrochemical deterioration of a material",
+          "explanation": "Iron rusting involves oxidation of iron and reduction of oxygen in the presence of water.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-044",
+          "question": "Which option gives the most accurate explanation of corrosion?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A nuclear decay process"
+            },
+            {
+              "label": "B",
+              "text": "Electrochemical deterioration of a material"
+            },
+            {
+              "label": "C",
+              "text": "A type of polymerisation"
+            },
+            {
+              "label": "D",
+              "text": "A method of distillation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electrochemical deterioration of a material",
+          "explanation": "Iron rusting involves oxidation of iron and reduction of oxygen in the presence of water.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-045",
+          "question": "Choose the correct principle or fact associated with corrosion.",
+          "options": [
+            {
+              "label": "A",
+              "text": "A nuclear decay process"
+            },
+            {
+              "label": "B",
+              "text": "Electrochemical deterioration of a material"
+            },
+            {
+              "label": "C",
+              "text": "A method of distillation"
+            },
+            {
+              "label": "D",
+              "text": "A type of polymerisation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Electrochemical deterioration of a material",
+          "explanation": "Iron rusting involves oxidation of iron and reduction of oxygen in the presence of water.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Electroplating",
+      "questions": [
+        {
+          "id": "CH04-MCQ-046",
+          "question": "Which statement correctly describes electroplating?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removing all metal by evaporation"
+            },
+            {
+              "label": "B",
+              "text": "Coating by sound waves"
+            },
+            {
+              "label": "C",
+              "text": "Depositing a metal layer by electrolysis"
+            },
+            {
+              "label": "D",
+              "text": "Forming a gas layer only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Depositing a metal layer by electrolysis",
+          "explanation": "The object to be coated is generally made the cathode so metal ions are reduced onto it.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-047",
+          "question": "In chemistry, what is the correct answer concerning electroplating?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Forming a gas layer only"
+            },
+            {
+              "label": "B",
+              "text": "Coating by sound waves"
+            },
+            {
+              "label": "C",
+              "text": "Depositing a metal layer by electrolysis"
+            },
+            {
+              "label": "D",
+              "text": "Removing all metal by evaporation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Depositing a metal layer by electrolysis",
+          "explanation": "The object to be coated is generally made the cathode so metal ions are reduced onto it.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-048",
+          "question": "A student is reviewing electroplating. Which choice should the student select?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Coating by sound waves"
+            },
+            {
+              "label": "B",
+              "text": "Removing all metal by evaporation"
+            },
+            {
+              "label": "C",
+              "text": "Depositing a metal layer by electrolysis"
+            },
+            {
+              "label": "D",
+              "text": "Forming a gas layer only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Depositing a metal layer by electrolysis",
+          "explanation": "The object to be coated is generally made the cathode so metal ions are reduced onto it.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "CH04-MCQ-049",
+          "question": "Which option gives the most accurate explanation of electroplating?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Removing all metal by evaporation"
+            },
+            {
+              "label": "B",
+              "text": "Coating by sound waves"
+            },
+            {
+              "label": "C",
+              "text": "Depositing a metal layer by electrolysis"
+            },
+            {
+              "label": "D",
+              "text": "Forming a gas layer only"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Depositing a metal layer by electrolysis",
+          "explanation": "The object to be coated is generally made the cathode so metal ions are reduced onto it.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CH04-MCQ-050",
+          "question": "Choose the correct principle or fact associated with electroplating.",
+          "options": [
+            {
+              "label": "A",
+              "text": "Depositing a metal layer by electrolysis"
+            },
+            {
+              "label": "B",
+              "text": "Removing all metal by evaporation"
+            },
+            {
+              "label": "C",
+              "text": "Coating by sound waves"
+            },
+            {
+              "label": "D",
+              "text": "Forming a gas layer only"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Depositing a metal layer by electrolysis",
+          "explanation": "The object to be coated is generally made the cathode so metal ions are reduced onto it.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

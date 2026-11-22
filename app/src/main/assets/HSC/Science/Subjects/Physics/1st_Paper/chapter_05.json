@@ -1,0 +1,1358 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 5,
+  "chapter_title": "Work, Energy and Power",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Work",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ001",
+          "question": "Which statement best describes work?",
+          "options": [
+            {
+              "label": "A",
+              "text": "W = Fs sin θ"
+            },
+            {
+              "label": "B",
+              "text": "For a constant force, work is W = Fs cos θ"
+            },
+            {
+              "label": "C",
+              "text": "W = F/s"
+            },
+            {
+              "label": "D",
+              "text": "W = F + s"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a constant force, work is W = Fs cos θ",
+          "explanation": "Only the component of force along displacement contributes to work.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ002",
+          "question": "Which option is correctly associated with work?",
+          "options": [
+            {
+              "label": "A",
+              "text": "W = F/s"
+            },
+            {
+              "label": "B",
+              "text": "W = Fs sin θ"
+            },
+            {
+              "label": "C",
+              "text": "W = F + s"
+            },
+            {
+              "label": "D",
+              "text": "For a constant force, work is W = Fs cos θ"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a constant force, work is W = Fs cos θ",
+          "explanation": "Only the component of force along displacement contributes to work.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ003",
+          "question": "In a basic HSC Physics question about work, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "W = F/s"
+            },
+            {
+              "label": "B",
+              "text": "W = Fs sin θ"
+            },
+            {
+              "label": "C",
+              "text": "For a constant force, work is W = Fs cos θ"
+            },
+            {
+              "label": "D",
+              "text": "W = F + s"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For a constant force, work is W = Fs cos θ",
+          "explanation": "Only the component of force along displacement contributes to work.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ004",
+          "question": "Which fact should be remembered about work?",
+          "options": [
+            {
+              "label": "A",
+              "text": "W = F + s"
+            },
+            {
+              "label": "B",
+              "text": "For a constant force, work is W = Fs cos θ"
+            },
+            {
+              "label": "C",
+              "text": "W = F/s"
+            },
+            {
+              "label": "D",
+              "text": "W = Fs sin θ"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a constant force, work is W = Fs cos θ",
+          "explanation": "Only the component of force along displacement contributes to work.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ005",
+          "question": "Which of the following is the scientifically correct statement concerning work?",
+          "options": [
+            {
+              "label": "A",
+              "text": "W = Fs sin θ"
+            },
+            {
+              "label": "B",
+              "text": "For a constant force, work is W = Fs cos θ"
+            },
+            {
+              "label": "C",
+              "text": "W = F + s"
+            },
+            {
+              "label": "D",
+              "text": "W = F/s"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a constant force, work is W = Fs cos θ",
+          "explanation": "Only the component of force along displacement contributes to work.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Explanation: Only the component of force along displacement contributes to work.",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ006",
+          "question": "Which statement best describes work?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force is parallel to displacement"
+            },
+            {
+              "label": "B",
+              "text": "Work is zero when force is perpendicular to displacement"
+            },
+            {
+              "label": "C",
+              "text": "displacement is along force"
+            },
+            {
+              "label": "D",
+              "text": "force and displacement are opposite"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Work is zero when force is perpendicular to displacement",
+          "explanation": "When θ = 90°, cos θ = 0, so W = 0.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ007",
+          "question": "Which option is correctly associated with work?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force is parallel to displacement"
+            },
+            {
+              "label": "B",
+              "text": "displacement is along force"
+            },
+            {
+              "label": "C",
+              "text": "Work is zero when force is perpendicular to displacement"
+            },
+            {
+              "label": "D",
+              "text": "force and displacement are opposite"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Work is zero when force is perpendicular to displacement",
+          "explanation": "When θ = 90°, cos θ = 0, so W = 0.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ008",
+          "question": "In a basic HSC Physics question about work, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "displacement is along force"
+            },
+            {
+              "label": "B",
+              "text": "force is parallel to displacement"
+            },
+            {
+              "label": "C",
+              "text": "Work is zero when force is perpendicular to displacement"
+            },
+            {
+              "label": "D",
+              "text": "force and displacement are opposite"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Work is zero when force is perpendicular to displacement",
+          "explanation": "When θ = 90°, cos θ = 0, so W = 0.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ009",
+          "question": "Which fact should be remembered about work?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force is parallel to displacement"
+            },
+            {
+              "label": "B",
+              "text": "displacement is along force"
+            },
+            {
+              "label": "C",
+              "text": "Work is zero when force is perpendicular to displacement"
+            },
+            {
+              "label": "D",
+              "text": "force and displacement are opposite"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Work is zero when force is perpendicular to displacement",
+          "explanation": "When θ = 90°, cos θ = 0, so W = 0.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ010",
+          "question": "Which of the following is the scientifically correct statement concerning work?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force and displacement are opposite"
+            },
+            {
+              "label": "B",
+              "text": "displacement is along force"
+            },
+            {
+              "label": "C",
+              "text": "force is parallel to displacement"
+            },
+            {
+              "label": "D",
+              "text": "Work is zero when force is perpendicular to displacement"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Work is zero when force is perpendicular to displacement",
+          "explanation": "When θ = 90°, cos θ = 0, so W = 0.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Kinetic energy",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ011",
+          "question": "Which statement best describes kinetic energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "½mv"
+            },
+            {
+              "label": "B",
+              "text": "mv"
+            },
+            {
+              "label": "C",
+              "text": "The kinetic energy of a body is ½mv²"
+            },
+            {
+              "label": "D",
+              "text": "mgh"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The kinetic energy of a body is ½mv²",
+          "explanation": "Kinetic energy depends on mass and the square of speed.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ012",
+          "question": "Which option is correctly associated with kinetic energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mgh"
+            },
+            {
+              "label": "B",
+              "text": "mv"
+            },
+            {
+              "label": "C",
+              "text": "The kinetic energy of a body is ½mv²"
+            },
+            {
+              "label": "D",
+              "text": "½mv"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The kinetic energy of a body is ½mv²",
+          "explanation": "Kinetic energy depends on mass and the square of speed.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ013",
+          "question": "In a basic HSC Physics question about kinetic energy, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mgh"
+            },
+            {
+              "label": "B",
+              "text": "The kinetic energy of a body is ½mv²"
+            },
+            {
+              "label": "C",
+              "text": "mv"
+            },
+            {
+              "label": "D",
+              "text": "½mv"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The kinetic energy of a body is ½mv²",
+          "explanation": "Kinetic energy depends on mass and the square of speed.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ014",
+          "question": "Which fact should be remembered about kinetic energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mgh"
+            },
+            {
+              "label": "B",
+              "text": "½mv"
+            },
+            {
+              "label": "C",
+              "text": "The kinetic energy of a body is ½mv²"
+            },
+            {
+              "label": "D",
+              "text": "mv"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "The kinetic energy of a body is ½mv²",
+          "explanation": "Kinetic energy depends on mass and the square of speed.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ015",
+          "question": "Which of the following is the scientifically correct statement concerning kinetic energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The kinetic energy of a body is ½mv²"
+            },
+            {
+              "label": "B",
+              "text": "½mv"
+            },
+            {
+              "label": "C",
+              "text": "mgh"
+            },
+            {
+              "label": "D",
+              "text": "mv"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The kinetic energy of a body is ½mv²",
+          "explanation": "Kinetic energy depends on mass and the square of speed.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Potential energy",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ016",
+          "question": "Which statement best describes potential energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mg/h"
+            },
+            {
+              "label": "B",
+              "text": "mv"
+            },
+            {
+              "label": "C",
+              "text": "½mv²"
+            },
+            {
+              "label": "D",
+              "text": "Near Earth's surface, gravitational potential energy change is mgh"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Near Earth's surface, gravitational potential energy change is mgh",
+          "explanation": "A body raised by height h gains gravitational potential energy mgh.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ017",
+          "question": "Which option is correctly associated with potential energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mg/h"
+            },
+            {
+              "label": "B",
+              "text": "Near Earth's surface, gravitational potential energy change is mgh"
+            },
+            {
+              "label": "C",
+              "text": "½mv²"
+            },
+            {
+              "label": "D",
+              "text": "mv"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Near Earth's surface, gravitational potential energy change is mgh",
+          "explanation": "A body raised by height h gains gravitational potential energy mgh.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ018",
+          "question": "In a basic HSC Physics question about potential energy, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Near Earth's surface, gravitational potential energy change is mgh"
+            },
+            {
+              "label": "B",
+              "text": "mg/h"
+            },
+            {
+              "label": "C",
+              "text": "mv"
+            },
+            {
+              "label": "D",
+              "text": "½mv²"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Near Earth's surface, gravitational potential energy change is mgh",
+          "explanation": "A body raised by height h gains gravitational potential energy mgh.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ019",
+          "question": "Which fact should be remembered about potential energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mg/h"
+            },
+            {
+              "label": "B",
+              "text": "½mv²"
+            },
+            {
+              "label": "C",
+              "text": "mv"
+            },
+            {
+              "label": "D",
+              "text": "Near Earth's surface, gravitational potential energy change is mgh"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Near Earth's surface, gravitational potential energy change is mgh",
+          "explanation": "A body raised by height h gains gravitational potential energy mgh.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ020",
+          "question": "Which of the following is the scientifically correct statement concerning potential energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "mg/h"
+            },
+            {
+              "label": "B",
+              "text": "mv"
+            },
+            {
+              "label": "C",
+              "text": "½mv²"
+            },
+            {
+              "label": "D",
+              "text": "Near Earth's surface, gravitational potential energy change is mgh"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Near Earth's surface, gravitational potential energy change is mgh",
+          "explanation": "A body raised by height h gains gravitational potential energy mgh.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Work-energy theorem",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ021",
+          "question": "Which statement best describes work-energy theorem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "change in momentum only"
+            },
+            {
+              "label": "B",
+              "text": "change in mass"
+            },
+            {
+              "label": "C",
+              "text": "Net work done on a body equals its change in kinetic energy"
+            },
+            {
+              "label": "D",
+              "text": "change in temperature always"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Net work done on a body equals its change in kinetic energy",
+          "explanation": "The work-energy theorem states Wnet = ∆K.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ022",
+          "question": "Which option is correctly associated with work-energy theorem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "change in momentum only"
+            },
+            {
+              "label": "B",
+              "text": "Net work done on a body equals its change in kinetic energy"
+            },
+            {
+              "label": "C",
+              "text": "change in mass"
+            },
+            {
+              "label": "D",
+              "text": "change in temperature always"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Net work done on a body equals its change in kinetic energy",
+          "explanation": "The work-energy theorem states Wnet = ∆K.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ023",
+          "question": "In a basic HSC Physics question about work-energy theorem, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Net work done on a body equals its change in kinetic energy"
+            },
+            {
+              "label": "B",
+              "text": "change in momentum only"
+            },
+            {
+              "label": "C",
+              "text": "change in mass"
+            },
+            {
+              "label": "D",
+              "text": "change in temperature always"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Net work done on a body equals its change in kinetic energy",
+          "explanation": "The work-energy theorem states Wnet = ∆K.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ024",
+          "question": "Which fact should be remembered about work-energy theorem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "change in temperature always"
+            },
+            {
+              "label": "B",
+              "text": "change in mass"
+            },
+            {
+              "label": "C",
+              "text": "change in momentum only"
+            },
+            {
+              "label": "D",
+              "text": "Net work done on a body equals its change in kinetic energy"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Net work done on a body equals its change in kinetic energy",
+          "explanation": "The work-energy theorem states Wnet = ∆K.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ025",
+          "question": "Which of the following is the scientifically correct statement concerning work-energy theorem?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Net work done on a body equals its change in kinetic energy"
+            },
+            {
+              "label": "B",
+              "text": "change in temperature always"
+            },
+            {
+              "label": "C",
+              "text": "change in momentum only"
+            },
+            {
+              "label": "D",
+              "text": "change in mass"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Net work done on a body equals its change in kinetic energy",
+          "explanation": "The work-energy theorem states Wnet = ∆K.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Power",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ026",
+          "question": "Which statement best describes power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Power is the rate of doing work"
+            },
+            {
+              "label": "B",
+              "text": "work multiplied by time"
+            },
+            {
+              "label": "C",
+              "text": "energy per unit distance"
+            },
+            {
+              "label": "D",
+              "text": "force per unit area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Power is the rate of doing work",
+          "explanation": "Average power is work divided by time; SI unit is watt.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ027",
+          "question": "Which option is correctly associated with power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "force per unit area"
+            },
+            {
+              "label": "B",
+              "text": "energy per unit distance"
+            },
+            {
+              "label": "C",
+              "text": "Power is the rate of doing work"
+            },
+            {
+              "label": "D",
+              "text": "work multiplied by time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Power is the rate of doing work",
+          "explanation": "Average power is work divided by time; SI unit is watt.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ028",
+          "question": "In a basic HSC Physics question about power, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Power is the rate of doing work"
+            },
+            {
+              "label": "B",
+              "text": "energy per unit distance"
+            },
+            {
+              "label": "C",
+              "text": "work multiplied by time"
+            },
+            {
+              "label": "D",
+              "text": "force per unit area"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Power is the rate of doing work",
+          "explanation": "Average power is work divided by time; SI unit is watt.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ029",
+          "question": "Which fact should be remembered about power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy per unit distance"
+            },
+            {
+              "label": "B",
+              "text": "Power is the rate of doing work"
+            },
+            {
+              "label": "C",
+              "text": "force per unit area"
+            },
+            {
+              "label": "D",
+              "text": "work multiplied by time"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Power is the rate of doing work",
+          "explanation": "Average power is work divided by time; SI unit is watt.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ030",
+          "question": "Which of the following is the scientifically correct statement concerning power?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy per unit distance"
+            },
+            {
+              "label": "B",
+              "text": "force per unit area"
+            },
+            {
+              "label": "C",
+              "text": "Power is the rate of doing work"
+            },
+            {
+              "label": "D",
+              "text": "work multiplied by time"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Power is the rate of doing work",
+          "explanation": "Average power is work divided by time; SI unit is watt.",
+          "difficulty": "Easy"
+        }
+      ]
+    },
+    {
+      "topic_name": "Efficiency",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ031",
+          "question": "Which statement best describes efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "power multiplied by time"
+            },
+            {
+              "label": "B",
+              "text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage"
+            },
+            {
+              "label": "C",
+              "text": "input divided by output"
+            },
+            {
+              "label": "D",
+              "text": "output plus input"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage",
+          "explanation": "Efficiency compares useful output with energy supplied.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ032",
+          "question": "Which option is correctly associated with efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage"
+            },
+            {
+              "label": "B",
+              "text": "power multiplied by time"
+            },
+            {
+              "label": "C",
+              "text": "input divided by output"
+            },
+            {
+              "label": "D",
+              "text": "output plus input"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage",
+          "explanation": "Efficiency compares useful output with energy supplied.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ033",
+          "question": "In a basic HSC Physics question about efficiency, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage"
+            },
+            {
+              "label": "B",
+              "text": "input divided by output"
+            },
+            {
+              "label": "C",
+              "text": "output plus input"
+            },
+            {
+              "label": "D",
+              "text": "power multiplied by time"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage",
+          "explanation": "Efficiency compares useful output with energy supplied.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ034",
+          "question": "Which fact should be remembered about efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "input divided by output"
+            },
+            {
+              "label": "B",
+              "text": "power multiplied by time"
+            },
+            {
+              "label": "C",
+              "text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage"
+            },
+            {
+              "label": "D",
+              "text": "output plus input"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage",
+          "explanation": "Efficiency compares useful output with energy supplied.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ035",
+          "question": "Which of the following is the scientifically correct statement concerning efficiency?",
+          "options": [
+            {
+              "label": "A",
+              "text": "power multiplied by time"
+            },
+            {
+              "label": "B",
+              "text": "output plus input"
+            },
+            {
+              "label": "C",
+              "text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage"
+            },
+            {
+              "label": "D",
+              "text": "input divided by output"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Efficiency is useful output energy divided by input energy, multiplied by 100% for a percentage",
+          "explanation": "Efficiency compares useful output with energy supplied.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Conservation of energy",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ036",
+          "question": "Which statement best describes conservation of energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy can be transferred or transformed but total energy of an isolated system is conserved"
+            },
+            {
+              "label": "B",
+              "text": "energy is always destroyed by friction"
+            },
+            {
+              "label": "C",
+              "text": "kinetic energy is always conserved"
+            },
+            {
+              "label": "D",
+              "text": "energy can be created without limit"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Energy can be transferred or transformed but total energy of an isolated system is conserved",
+          "explanation": "Energy conservation applies to the total energy, including thermal and other forms.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ037",
+          "question": "Which option is correctly associated with conservation of energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy is always destroyed by friction"
+            },
+            {
+              "label": "B",
+              "text": "energy can be created without limit"
+            },
+            {
+              "label": "C",
+              "text": "Energy can be transferred or transformed but total energy of an isolated system is conserved"
+            },
+            {
+              "label": "D",
+              "text": "kinetic energy is always conserved"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Energy can be transferred or transformed but total energy of an isolated system is conserved",
+          "explanation": "Energy conservation applies to the total energy, including thermal and other forms.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ038",
+          "question": "In a basic HSC Physics question about conservation of energy, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy is always destroyed by friction"
+            },
+            {
+              "label": "B",
+              "text": "kinetic energy is always conserved"
+            },
+            {
+              "label": "C",
+              "text": "energy can be created without limit"
+            },
+            {
+              "label": "D",
+              "text": "Energy can be transferred or transformed but total energy of an isolated system is conserved"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Energy can be transferred or transformed but total energy of an isolated system is conserved",
+          "explanation": "Energy conservation applies to the total energy, including thermal and other forms.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ039",
+          "question": "Which fact should be remembered about conservation of energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Energy can be transferred or transformed but total energy of an isolated system is conserved"
+            },
+            {
+              "label": "B",
+              "text": "energy can be created without limit"
+            },
+            {
+              "label": "C",
+              "text": "kinetic energy is always conserved"
+            },
+            {
+              "label": "D",
+              "text": "energy is always destroyed by friction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Energy can be transferred or transformed but total energy of an isolated system is conserved",
+          "explanation": "Energy conservation applies to the total energy, including thermal and other forms.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ040",
+          "question": "Which of the following is the scientifically correct statement concerning conservation of energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "energy is always destroyed by friction"
+            },
+            {
+              "label": "B",
+              "text": "kinetic energy is always conserved"
+            },
+            {
+              "label": "C",
+              "text": "energy can be created without limit"
+            },
+            {
+              "label": "D",
+              "text": "Energy can be transferred or transformed but total energy of an isolated system is conserved"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "Energy can be transferred or transformed but total energy of an isolated system is conserved",
+          "explanation": "Energy conservation applies to the total energy, including thermal and other forms.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Spring energy",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ041",
+          "question": "Which statement best describes spring energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "½kx"
+            },
+            {
+              "label": "B",
+              "text": "kx²/2g"
+            },
+            {
+              "label": "C",
+              "text": "Elastic potential energy stored in an ideal spring is ½kx²"
+            },
+            {
+              "label": "D",
+              "text": "kx"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Elastic potential energy stored in an ideal spring is ½kx²",
+          "explanation": "For spring constant k and extension x, elastic energy is ½kx².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ042",
+          "question": "Which option is correctly associated with spring energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kx"
+            },
+            {
+              "label": "B",
+              "text": "½kx"
+            },
+            {
+              "label": "C",
+              "text": "Elastic potential energy stored in an ideal spring is ½kx²"
+            },
+            {
+              "label": "D",
+              "text": "kx²/2g"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Elastic potential energy stored in an ideal spring is ½kx²",
+          "explanation": "For spring constant k and extension x, elastic energy is ½kx².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ043",
+          "question": "In a basic HSC Physics question about spring energy, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kx²/2g"
+            },
+            {
+              "label": "B",
+              "text": "Elastic potential energy stored in an ideal spring is ½kx²"
+            },
+            {
+              "label": "C",
+              "text": "½kx"
+            },
+            {
+              "label": "D",
+              "text": "kx"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Elastic potential energy stored in an ideal spring is ½kx²",
+          "explanation": "For spring constant k and extension x, elastic energy is ½kx².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ044",
+          "question": "Which fact should be remembered about spring energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kx²/2g"
+            },
+            {
+              "label": "B",
+              "text": "½kx"
+            },
+            {
+              "label": "C",
+              "text": "Elastic potential energy stored in an ideal spring is ½kx²"
+            },
+            {
+              "label": "D",
+              "text": "kx"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Elastic potential energy stored in an ideal spring is ½kx²",
+          "explanation": "For spring constant k and extension x, elastic energy is ½kx².",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ045",
+          "question": "Which of the following is the scientifically correct statement concerning spring energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "kx²/2g"
+            },
+            {
+              "label": "B",
+              "text": "Elastic potential energy stored in an ideal spring is ½kx²"
+            },
+            {
+              "label": "C",
+              "text": "kx"
+            },
+            {
+              "label": "D",
+              "text": "½kx"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Elastic potential energy stored in an ideal spring is ½kx²",
+          "explanation": "For spring constant k and extension x, elastic energy is ½kx².",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Power and speed",
+      "questions": [
+        {
+          "id": "PHY_1P_CH05_MCQ046",
+          "question": "Which statement best describes power and speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P = F/v"
+            },
+            {
+              "label": "B",
+              "text": "For a force parallel to velocity, instantaneous power is P = Fv"
+            },
+            {
+              "label": "C",
+              "text": "P = Fv²"
+            },
+            {
+              "label": "D",
+              "text": "P = v/F"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "For a force parallel to velocity, instantaneous power is P = Fv",
+          "explanation": "Power is F·v; when parallel, the dot product becomes Fv.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ047",
+          "question": "Which option is correctly associated with power and speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P = Fv²"
+            },
+            {
+              "label": "B",
+              "text": "P = v/F"
+            },
+            {
+              "label": "C",
+              "text": "P = F/v"
+            },
+            {
+              "label": "D",
+              "text": "For a force parallel to velocity, instantaneous power is P = Fv"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "For a force parallel to velocity, instantaneous power is P = Fv",
+          "explanation": "Power is F·v; when parallel, the dot product becomes Fv.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ048",
+          "question": "In a basic HSC Physics question about power and speed, which statement is correct?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For a force parallel to velocity, instantaneous power is P = Fv"
+            },
+            {
+              "label": "B",
+              "text": "P = F/v"
+            },
+            {
+              "label": "C",
+              "text": "P = v/F"
+            },
+            {
+              "label": "D",
+              "text": "P = Fv²"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For a force parallel to velocity, instantaneous power is P = Fv",
+          "explanation": "Power is F·v; when parallel, the dot product becomes Fv.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ049",
+          "question": "Which fact should be remembered about power and speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P = Fv²"
+            },
+            {
+              "label": "B",
+              "text": "P = v/F"
+            },
+            {
+              "label": "C",
+              "text": "For a force parallel to velocity, instantaneous power is P = Fv"
+            },
+            {
+              "label": "D",
+              "text": "P = F/v"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For a force parallel to velocity, instantaneous power is P = Fv",
+          "explanation": "Power is F·v; when parallel, the dot product becomes Fv.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "PHY_1P_CH05_MCQ050",
+          "question": "Which of the following is the scientifically correct statement concerning power and speed?",
+          "options": [
+            {
+              "label": "A",
+              "text": "P = F/v"
+            },
+            {
+              "label": "B",
+              "text": "P = v/F"
+            },
+            {
+              "label": "C",
+              "text": "For a force parallel to velocity, instantaneous power is P = Fv"
+            },
+            {
+              "label": "D",
+              "text": "P = Fv²"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "For a force parallel to velocity, instantaneous power is P = Fv",
+          "explanation": "Power is F·v; when parallel, the dot product becomes Fv.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 5,
+  "chapter_title": "Narration, Modifiers, Connectors, Synonyms and Antonyms",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Direct to Indirect Speech - Statements",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-001",
+          "question": "Change into indirect speech: 'He said to me, \"I am writing an academic paper today.\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "He told me that he was writing an academic paper that day."
+            },
+            {
+              "label": "B",
+              "text": "He said to me that I am writing an academic paper today."
+            },
+            {
+              "label": "C",
+              "text": "He told me that he is writing an academic paper today."
+            },
+            {
+              "label": "D",
+              "text": "He said that he had been writing an academic paper that day."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He told me that he was writing an academic paper that day.",
+          "explanation": "When reporting in past tense ('said to me' -> 'told me'), present continuous 'am writing' shifts to past continuous 'was writing', and 'today' changes to 'that day'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-002",
+          "question": "Change into indirect: 'The teacher said, \"The Earth revolves around the sun.\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The teacher said that the Earth revolves around the sun."
+            },
+            {
+              "label": "B",
+              "text": "The teacher said that the Earth revolved around the sun."
+            },
+            {
+              "label": "C",
+              "text": "The teacher told that the Earth had revolved around the sun."
+            },
+            {
+              "label": "D",
+              "text": "The teacher said whether the Earth revolves around the sun."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The teacher said that the Earth revolves around the sun.",
+          "explanation": "Universal scientific truths and geographical facts do not undergo tense backshift in indirect speech; the present simple remains unchanged.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-003",
+          "question": "Change into indirect: 'Rahim said, \"I bought these books yesterday.\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Rahim said that he had bought those books the previous day."
+            },
+            {
+              "label": "B",
+              "text": "Rahim said that he bought these books yesterday."
+            },
+            {
+              "label": "C",
+              "text": "Rahim told that he has bought those books the previous day."
+            },
+            {
+              "label": "D",
+              "text": "Rahim said that he had bought these books yesterday."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Rahim said that he had bought those books the previous day.",
+          "explanation": "Simple past 'bought' backshifts to past perfect 'had bought', 'these' becomes 'those', and 'yesterday' becomes 'the previous day'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-004",
+          "question": "Change into indirect speech: 'She said, \"I have finished my homework.\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "She said that she had finished her homework."
+            },
+            {
+              "label": "B",
+              "text": "She said that she has finished her homework."
+            },
+            {
+              "label": "C",
+              "text": "She said that she finished her homework."
+            },
+            {
+              "label": "D",
+              "text": "She told that I had finished my homework."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "She said that she had finished her homework.",
+          "explanation": "Present perfect 'have finished' backshifts to past perfect 'had finished', and pronoun 'my' changes to 'her'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-005",
+          "question": "Change into indirect: 'The doctor said to the patient, \"You must take this medicine twice daily.\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The doctor advised the patient that he had to take that medicine twice daily."
+            },
+            {
+              "label": "B",
+              "text": "The doctor told the patient that he must to take this medicine."
+            },
+            {
+              "label": "C",
+              "text": "The doctor asked the patient if he took that medicine."
+            },
+            {
+              "label": "D",
+              "text": "The doctor said the patient should take medicine."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The doctor advised the patient that he had to take that medicine twice daily.",
+          "explanation": "In indirect speech, ordinary modal obligation 'must' often converts into 'had to', and 'this' converts into 'that'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Narration of Interrogative and Imperative Sentences",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-006",
+          "question": "Change into indirect speech: 'He said to me, \"Are you going to the library today?\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "He asked me if I was going to the library that day."
+            },
+            {
+              "label": "B",
+              "text": "He asked me that if I am going to the library today."
+            },
+            {
+              "label": "C",
+              "text": "He told me was I going to the library that day."
+            },
+            {
+              "label": "D",
+              "text": "He enquired me whether you were going to the library."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He asked me if I was going to the library that day.",
+          "explanation": "For yes/no questions, the reporting verb becomes 'asked', the connector is 'if / whether', and the word order becomes assertive ('I was going').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-007",
+          "question": "Change into indirect: 'The stranger said to me, \"Where do you live?\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The stranger asked me where I lived."
+            },
+            {
+              "label": "B",
+              "text": "The stranger asked me that where did I live."
+            },
+            {
+              "label": "C",
+              "text": "The stranger enquired where do I live."
+            },
+            {
+              "label": "D",
+              "text": "The stranger asked me where I had lived."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The stranger asked me where I lived.",
+          "explanation": "In WH-questions, the WH-word ('where') serves as the connector, and 'do you live' becomes assertive past 'I lived'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-008",
+          "question": "Change into indirect: 'The officer said to the soldiers, \"Halt and keep quiet!\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The officer commanded the soldiers to halt and keep quiet."
+            },
+            {
+              "label": "B",
+              "text": "The officer asked the soldiers that they should halt and keep quiet."
+            },
+            {
+              "label": "C",
+              "text": "The officer said to the soldiers to halt and keep quiet."
+            },
+            {
+              "label": "D",
+              "text": "The officer wished that the soldiers halted."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The officer commanded the soldiers to halt and keep quiet.",
+          "explanation": "In imperative sentences expressing military orders, the reporting verb is 'commanded / ordered' followed by the infinitive 'to + verb'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-009",
+          "question": "Change into indirect: 'The doctor said to the patient, \"Do not smoke cigarettes anymore.\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The doctor advised the patient not to smoke cigarettes anymore."
+            },
+            {
+              "label": "B",
+              "text": "The doctor forbade the patient not to smoke cigarettes anymore."
+            },
+            {
+              "label": "C",
+              "text": "The doctor asked the patient that do not smoke."
+            },
+            {
+              "label": "D",
+              "text": "The doctor told to the patient to not smoke."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The doctor advised the patient not to smoke cigarettes anymore.",
+          "explanation": "Negative imperatives convert into 'advised / told + object + not to + verb'. Note: 'forbade' already contains a negative, so 'forbade... not to' is redundant.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-010",
+          "question": "Change into indirect: 'Father said to me, \"May you pass the examination with distinction!\"' (Optative)",
+          "options": [
+            {
+              "label": "A",
+              "text": "Father wished that I might pass the examination with distinction."
+            },
+            {
+              "label": "B",
+              "text": "Father prayed that you may pass the examination with distinction."
+            },
+            {
+              "label": "C",
+              "text": "Father told me to pass the examination with distinction."
+            },
+            {
+              "label": "D",
+              "text": "Father said that I will pass the examination with distinction."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Father wished that I might pass the examination with distinction.",
+          "explanation": "Optative sentences of blessing/wish use reporting verbs 'wished / prayed that' with subject + 'might' + base verb.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Narration of Exclamatory Sentences",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-011",
+          "question": "Change into indirect: 'The boy said, \"Hurrah! Our school team has won the championship!\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The boy exclaimed with joy that their school team had won the championship."
+            },
+            {
+              "label": "B",
+              "text": "The boy cried out that our school team has won the championship."
+            },
+            {
+              "label": "C",
+              "text": "The boy told happily that their school team won."
+            },
+            {
+              "label": "D",
+              "text": "The boy shouted that his school team had won."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The boy exclaimed with joy that their school team had won the championship.",
+          "explanation": "Joyful interjections ('Hurrah!') convert to 'exclaimed with joy that', and present perfect 'has won' shifts to 'had won'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-012",
+          "question": "Change into indirect: 'The pedestrian said, \"Alas! The poor beggar is dead!\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The pedestrian exclaimed with sorrow that the poor beggar was dead."
+            },
+            {
+              "label": "B",
+              "text": "The pedestrian cried alas that the beggar died."
+            },
+            {
+              "label": "C",
+              "text": "The pedestrian lamented that the poor beggar is dead."
+            },
+            {
+              "label": "D",
+              "text": "The pedestrian said with sadness that the beggar has died."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The pedestrian exclaimed with sorrow that the poor beggar was dead.",
+          "explanation": "Sorrowful interjections ('Alas!') convert to 'exclaimed with sorrow / grief that' followed by past tense 'was dead'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-013",
+          "question": "Change into indirect: 'She said, \"What a breathtaking sunset it is!\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "She exclaimed with wonder that it was a very breathtaking sunset."
+            },
+            {
+              "label": "B",
+              "text": "She said that what a breathtaking sunset it was."
+            },
+            {
+              "label": "C",
+              "text": "She asked whether it was a breathtaking sunset."
+            },
+            {
+              "label": "D",
+              "text": "She exclaimed that it is a very breathtaking sunset."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "She exclaimed with wonder that it was a very breathtaking sunset.",
+          "explanation": "Exclamations of wonder transform into 'exclaimed with wonder/admiration that + subject + was a very + adjective'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-014",
+          "question": "Change into indirect: 'He said, \"Good morning, my dear friends!\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "He wished his dear friends good morning."
+            },
+            {
+              "label": "B",
+              "text": "He said good morning to his friends."
+            },
+            {
+              "label": "C",
+              "text": "He bade good morning to his friends."
+            },
+            {
+              "label": "D",
+              "text": "He greeted that good morning friends."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He wished his dear friends good morning.",
+          "explanation": "Salutations like 'Good morning' or 'Happy New Year' use the reporting verb 'wished' ('wished his friends good morning').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-015",
+          "question": "Change into indirect: 'The traveler said, \"Farewell, my beloved homeland!\"'",
+          "options": [
+            {
+              "label": "A",
+              "text": "The traveler bade farewell to his beloved homeland."
+            },
+            {
+              "label": "B",
+              "text": "The traveler wished farewell to his homeland."
+            },
+            {
+              "label": "C",
+              "text": "The traveler said farewell to his homeland."
+            },
+            {
+              "label": "D",
+              "text": "The traveler exclaimed farewell his homeland."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The traveler bade farewell to his beloved homeland.",
+          "explanation": "Parting words like 'Farewell' or 'Good night' use the reporting verb 'bade' (past of bid: 'bade farewell to...').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Use of Pre-modifiers",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-016",
+          "question": "Identify the noun adjective used as a pre-modifier in: 'She booked a luxury train ticket to Sylhet.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "train (Noun functioning as an adjective modifying 'ticket')"
+            },
+            {
+              "label": "B",
+              "text": "ticket (Noun headword)"
+            },
+            {
+              "label": "C",
+              "text": "Sylhet (Proper noun)"
+            },
+            {
+              "label": "D",
+              "text": "booked (Verb)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "train (Noun functioning as an adjective modifying 'ticket')",
+          "explanation": "A noun used to modify another subsequent noun is called a noun adjective (or noun pre-modifier); here 'train' modifies 'ticket'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-017",
+          "question": "In the phrase 'the crying baby', what grammatical element functions as the pre-modifier?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Present participle ('crying')"
+            },
+            {
+              "label": "B",
+              "text": "Gerund"
+            },
+            {
+              "label": "C",
+              "text": "Infinitive"
+            },
+            {
+              "label": "D",
+              "text": "Relative pronoun"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Present participle ('crying')",
+          "explanation": "'Crying' is a present participle (verb+ing) pre-modifying the noun 'baby' by describing an active state.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-018",
+          "question": "In 'He visited his ancestral home', which word serves as a possessive pre-modifier?",
+          "options": [
+            {
+              "label": "A",
+              "text": "his"
+            },
+            {
+              "label": "B",
+              "text": "ancestral"
+            },
+            {
+              "label": "C",
+              "text": "home"
+            },
+            {
+              "label": "D",
+              "text": "visited"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "his",
+          "explanation": "'His' is a possessive determiner/pronoun functioning as a pre-modifier of the noun phrase.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-019",
+          "question": "Use an intensifier to pre-modify the adjective: 'The examination question paper was ______ challenging.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "extremely"
+            },
+            {
+              "label": "B",
+              "text": "extreme"
+            },
+            {
+              "label": "C",
+              "text": "extremity"
+            },
+            {
+              "label": "D",
+              "text": "extremeness"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "extremely",
+          "explanation": "Intensifiers are adverbs of degree (extremely, very, remarkably) that pre-modify adjectives or other adverbs.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-020",
+          "question": "In the phrase 'a retired army officer', what is 'retired'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Past participle functioning as an adjective pre-modifier"
+            },
+            {
+              "label": "B",
+              "text": "Finite verb in past tense"
+            },
+            {
+              "label": "C",
+              "text": "Adverb of manner"
+            },
+            {
+              "label": "D",
+              "text": "Compound preposition"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Past participle functioning as an adjective pre-modifier",
+          "explanation": "'Retired' is a past participle used adjectivally to pre-modify the noun 'officer'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Use of Post-modifiers and Appositives",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-021",
+          "question": "Identify the appositive post-modifier in: 'Kazi Nazrul Islam, our national poet, composed inspirational songs.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "our national poet"
+            },
+            {
+              "label": "B",
+              "text": "composed"
+            },
+            {
+              "label": "C",
+              "text": "inspirational songs"
+            },
+            {
+              "label": "D",
+              "text": "Kazi Nazrul Islam"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "our national poet",
+          "explanation": "An appositive is a noun phrase placed adjacent to another noun to rename or further identify it ('our national poet').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-022",
+          "question": "In 'The book on the corner table belongs to the library', what is 'on the corner table'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Prepositional phrase post-modifying 'The book'"
+            },
+            {
+              "label": "B",
+              "text": "Adverb clause of time"
+            },
+            {
+              "label": "C",
+              "text": "Predicate adjective"
+            },
+            {
+              "label": "D",
+              "text": "Direct object"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Prepositional phrase post-modifying 'The book'",
+          "explanation": "The prepositional phrase follows the head noun 'The book' and acts as an adjectival post-modifier specifying which book.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-023",
+          "question": "Identify the infinitive phrase post-modifying the noun in: 'He has an unyielding determination to win the tournament.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "to win the tournament"
+            },
+            {
+              "label": "B",
+              "text": "an unyielding determination"
+            },
+            {
+              "label": "C",
+              "text": "He has"
+            },
+            {
+              "label": "D",
+              "text": "unyielding"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "to win the tournament",
+          "explanation": "The infinitive phrase 'to win the tournament' post-modifies the abstract noun 'determination'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-024",
+          "question": "In 'The girl singing a patriotic song on stage is my cousin', what is 'singing a patriotic song on stage'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Present participial phrase post-modifying 'The girl'"
+            },
+            {
+              "label": "B",
+              "text": "Noun clause functioning as subject"
+            },
+            {
+              "label": "C",
+              "text": "Gerund object of preposition"
+            },
+            {
+              "label": "D",
+              "text": "Independent main clause"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Present participial phrase post-modifying 'The girl'",
+          "explanation": "The participial phrase 'singing...' post-modifies the subject noun 'The girl', functioning adjectivally.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-025",
+          "question": "What is a 'Dangling Modifier'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A modifying phrase that lacks a clear or logical subject to modify in the main clause"
+            },
+            {
+              "label": "B",
+              "text": "A punctuation mark omitted at the end of a sentence"
+            },
+            {
+              "label": "C",
+              "text": "An adjective that has no comparative form"
+            },
+            {
+              "label": "D",
+              "text": "A preposition ending a sentence"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A modifying phrase that lacks a clear or logical subject to modify in the main clause",
+          "explanation": "A dangling modifier occurs when an introductory participial phrase does not logically connect with the grammatical subject following it (e.g. 'Walking in the park, a snake bit him').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sentence Connectors and Discourse Markers",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-026",
+          "question": "Which sentence connector expresses CONTRAST between two statements?",
+          "options": [
+            {
+              "label": "A",
+              "text": "However"
+            },
+            {
+              "label": "B",
+              "text": "Furthermore"
+            },
+            {
+              "label": "C",
+              "text": "Moreover"
+            },
+            {
+              "label": "D",
+              "text": "Consequently"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "However",
+          "explanation": "'However' is an adversative transitional connector showing contradiction or contrast between statements.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-027",
+          "question": "Choose the appropriate connector showing CAUSE AND EFFECT: 'He violated company regulations repeatedly. ______, he was dismissed from his post.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Consequently"
+            },
+            {
+              "label": "B",
+              "text": "Nevertheless"
+            },
+            {
+              "label": "C",
+              "text": "On the other hand"
+            },
+            {
+              "label": "D",
+              "text": "In addition"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Consequently",
+          "explanation": "'Consequently' (or 'Therefore' / 'As a result') introduces a direct outcome or logical consequence of preceding facts.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-028",
+          "question": "Which sentence connector is used to introduce an ADDITIONAL supporting point?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Moreover"
+            },
+            {
+              "label": "B",
+              "text": "Nevertheless"
+            },
+            {
+              "label": "C",
+              "text": "Instead"
+            },
+            {
+              "label": "D",
+              "text": "On the contrary"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Moreover",
+          "explanation": "'Moreover' (along with 'Furthermore' and 'In addition') reinforces an argument with extra supporting evidence.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-029",
+          "question": "Fill in the blank with the best discourse marker: 'Trees give us shade and fruit. ______, they absorb harmful greenhouse carbon dioxide.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Besides"
+            },
+            {
+              "label": "B",
+              "text": "Whereas"
+            },
+            {
+              "label": "C",
+              "text": "Otherwise"
+            },
+            {
+              "label": "D",
+              "text": "Nonetheless"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Besides",
+          "explanation": "'Besides' functions as a cohesive device adding further value or benefit to the preceding statement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-030",
+          "question": "Which connector correctly introduces an EXEMPLIFICATION or clarification?",
+          "options": [
+            {
+              "label": "A",
+              "text": "For instance"
+            },
+            {
+              "label": "B",
+              "text": "Nonetheless"
+            },
+            {
+              "label": "C",
+              "text": "Although"
+            },
+            {
+              "label": "D",
+              "text": "In spite of"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "For instance",
+          "explanation": "'For instance' (or 'For example') is the standard discourse marker providing an illustrative specific example.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Contextual Synonyms in HSC English",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-031",
+          "question": "What is the synonym of the word 'diligent' in academic contexts?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Industrious and hardworking"
+            },
+            {
+              "label": "B",
+              "text": "Indolent and sluggish"
+            },
+            {
+              "label": "C",
+              "text": "Arrogant"
+            },
+            {
+              "label": "D",
+              "text": "Cowardly"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Industrious and hardworking",
+          "explanation": "'Diligent' means having or showing care and conscientiousness in one's work; industrious is a direct synonym.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-032",
+          "question": "What is the synonym of 'benevolent'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Kindhearted and charitable"
+            },
+            {
+              "label": "B",
+              "text": "Cruel and tyrannical"
+            },
+            {
+              "label": "C",
+              "text": "Suspicious"
+            },
+            {
+              "label": "D",
+              "text": "Avaricious"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Kindhearted and charitable",
+          "explanation": "'Benevolent' denotes goodwill, generosity, and charitable kindness.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-033",
+          "question": "What is the synonym of the word 'eradicate' in 'efforts to eradicate illiteracy'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Eliminate completely or wipe out"
+            },
+            {
+              "label": "B",
+              "text": "Nurture and foster"
+            },
+            {
+              "label": "C",
+              "text": "Postpone temporarily"
+            },
+            {
+              "label": "D",
+              "text": "Record in statistics"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Eliminate completely or wipe out",
+          "explanation": "'Eradicate' means to tear out by the roots; to completely destroy or remove.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-034",
+          "question": "What is the synonym of the word 'lucid' in 'a lucid explanation of the grammatical rule'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Clear and easy to comprehend"
+            },
+            {
+              "label": "B",
+              "text": "Murky and confusing"
+            },
+            {
+              "label": "C",
+              "text": "Extremely complicated"
+            },
+            {
+              "label": "D",
+              "text": "Unwritten"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Clear and easy to comprehend",
+          "explanation": "'Lucid' means expressed clearly and easily understood.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-035",
+          "question": "What is the synonym of 'pinnacle' in 'the pinnacle of his scientific career'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Zenith or highest peak"
+            },
+            {
+              "label": "B",
+              "text": "Nadir or lowest point"
+            },
+            {
+              "label": "C",
+              "text": "Commencement"
+            },
+            {
+              "label": "D",
+              "text": "Interruption"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Zenith or highest peak",
+          "explanation": "'Pinnacle' refers to the most successful point or culmination; 'zenith' is its exact synonym.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Contextual Antonyms in HSC English",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-036",
+          "question": "What is the antonym of the adjective 'transient' in 'transient earthly pleasures'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Permanent and enduring"
+            },
+            {
+              "label": "B",
+              "text": "Fleeting"
+            },
+            {
+              "label": "C",
+              "text": "Temporary"
+            },
+            {
+              "label": "D",
+              "text": "Short-lived"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Permanent and enduring",
+          "explanation": "'Transient' means passing quickly or temporary. Its direct opposite is 'permanent' or 'enduring'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-037",
+          "question": "What is the antonym of 'obscure' in 'an obscure ancient manuscript'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Famous and well-known"
+            },
+            {
+              "label": "B",
+              "text": "Hidden"
+            },
+            {
+              "label": "C",
+              "text": "Vague"
+            },
+            {
+              "label": "D",
+              "text": "Concealed"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Famous and well-known",
+          "explanation": "'Obscure' means little known or difficult to understand; 'famous' or 'clear' is its antonym.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-038",
+          "question": "What is the antonym of 'hostile' in 'a hostile diplomatic reception'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Friendly and cordial"
+            },
+            {
+              "label": "B",
+              "text": "Aggressive"
+            },
+            {
+              "label": "C",
+              "text": "Antagonistic"
+            },
+            {
+              "label": "D",
+              "text": "Militant"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Friendly and cordial",
+          "explanation": "'Hostile' means unfriendly, aggressive, or antagonistic. Its direct antonym is 'friendly' or 'cordial'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-039",
+          "question": "What is the antonym of 'frugal' in 'his frugal household spending'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Extravagant and lavish"
+            },
+            {
+              "label": "B",
+              "text": "Economical"
+            },
+            {
+              "label": "C",
+              "text": "Thrifty"
+            },
+            {
+              "label": "D",
+              "text": "Prudent"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Extravagant and lavish",
+          "explanation": "'Frugal' means careful and sparing with money; its antonym is 'extravagant' or 'profligate'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-040",
+          "question": "What is the antonym of 'culpable' in 'culpable negligence'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Innocent and blameless"
+            },
+            {
+              "label": "B",
+              "text": "Guilty"
+            },
+            {
+              "label": "C",
+              "text": "Liable"
+            },
+            {
+              "label": "D",
+              "text": "Responsible"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Innocent and blameless",
+          "explanation": "'Culpable' means deserving blame or censure; its antonym is 'blameless' or 'innocent'.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Punctuation Marks and Capitalization Rules",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-041",
+          "question": "Which punctuation mark is used to connect two closely related independent clauses without a coordinating conjunction?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Semicolon (;)"
+            },
+            {
+              "label": "B",
+              "text": "Comma (,)"
+            },
+            {
+              "label": "C",
+              "text": "Hyphen (-)"
+            },
+            {
+              "label": "D",
+              "text": "Slash (/)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Semicolon (;)",
+          "explanation": "A semicolon joins two independent clauses that are closely linked in thought when no coordinating conjunction (and, but) is used.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-042",
+          "question": "What is the error in: 'Its a beautiful sunny morning in Dhaka.'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Misuse of possessive 'Its' instead of contraction 'It's' (It is)"
+            },
+            {
+              "label": "B",
+              "text": "Capitalization of Dhaka"
+            },
+            {
+              "label": "C",
+              "text": "Use of the adjective sunny"
+            },
+            {
+              "label": "D",
+              "text": "Full stop at the end"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Misuse of possessive 'Its' instead of contraction 'It's' (It is)",
+          "explanation": "'It's' is the contracted form of 'It is', whereas 'Its' without an apostrophe is a possessive pronoun (e.g. 'The dog wagged its tail').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-043",
+          "question": "Which sentence is correctly punctuated?",
+          "options": [
+            {
+              "label": "A",
+              "text": "\"Where are you traveling, sir?\" the conductor asked."
+            },
+            {
+              "label": "B",
+              "text": "\"Where are you traveling, sir?\", the conductor asked."
+            },
+            {
+              "label": "C",
+              "text": "\"Where are you traveling sir?\" The conductor asked."
+            },
+            {
+              "label": "D",
+              "text": "Where are you traveling, sir? The conductor asked."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "\"Where are you traveling, sir?\" the conductor asked.",
+          "explanation": "Direct speech in quotation marks with question mark does not take an additional comma, and the reporting tag continues in lowercase ('the conductor').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-044",
+          "question": "When should the colon (:) be used according to standard punctuation rules?",
+          "options": [
+            {
+              "label": "A",
+              "text": "To introduce a list, explanation, or direct quotation following a complete independent clause"
+            },
+            {
+              "label": "B",
+              "text": "To end an interrogative sentence"
+            },
+            {
+              "label": "C",
+              "text": "Between a verb and its direct object"
+            },
+            {
+              "label": "D",
+              "text": "To separate syllables in a dictionary"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "To introduce a list, explanation, or direct quotation following a complete independent clause",
+          "explanation": "A colon introduces an item, list, or explanation that clarifies a preceding complete sentence.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-045",
+          "question": "Choose the correctly capitalized and punctuated sentence:",
+          "options": [
+            {
+              "label": "A",
+              "text": "On Friday, Professor Rahman lectured on Shakespeare's tragedy, 'Hamlet'."
+            },
+            {
+              "label": "B",
+              "text": "On friday, professor Rahman lectured on shakespeares tragedy, 'hamlet'."
+            },
+            {
+              "label": "C",
+              "text": "On Friday, Professor rahman lectured on Shakespeare's Tragedy, 'Hamlet'."
+            },
+            {
+              "label": "D",
+              "text": "On friday, Professor Rahman lectured on Shakespeare tragedy, Hamlet."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "On Friday, Professor Rahman lectured on Shakespeare's tragedy, 'Hamlet'.",
+          "explanation": "Proper days (Friday), formal academic titles with names (Professor Rahman), author names (Shakespeare's), and literary titles ('Hamlet') must be capitalized.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Passage Integration and Applied Grammar Synthesis",
+      "questions": [
+        {
+          "id": "ENG205-MCQ-046",
+          "question": "In narrative conversion, what does 'tomorrow' transform into in indirect speech?",
+          "options": [
+            {
+              "label": "A",
+              "text": "The next day (or the following day)"
+            },
+            {
+              "label": "B",
+              "text": "The previous day"
+            },
+            {
+              "label": "C",
+              "text": "Yesterday"
+            },
+            {
+              "label": "D",
+              "text": "That day"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The next day (or the following day)",
+          "explanation": "'Tomorrow' shifts to 'the next day' or 'the following day' in indirect speech.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-047",
+          "question": "Choose the correct sentence connector: 'He worked round the clock. ______, he completed the software project before the deadline.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "As a result"
+            },
+            {
+              "label": "B",
+              "text": "In spite of"
+            },
+            {
+              "label": "C",
+              "text": "On the contrary"
+            },
+            {
+              "label": "D",
+              "text": "Whereas"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "As a result",
+          "explanation": "'As a result' expresses the logical positive outcome of his continuous hard work.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG205-MCQ-048",
+          "question": "In 'The teacher explained the concept clearly', what is 'clearly'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Adverb of manner post-modifying the verb 'explained'"
+            },
+            {
+              "label": "B",
+              "text": "Pre-modifier of noun"
+            },
+            {
+              "label": "C",
+              "text": "Adjective modifying 'concept'"
+            },
+            {
+              "label": "D",
+              "text": "Prepositional object"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Adverb of manner post-modifying the verb 'explained'",
+          "explanation": "'Clearly' is an adverb of manner post-modifying the transitive verb 'explained'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-049",
+          "question": "What is the synonym of 'indispensable' in 'English is indispensable for international communication'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Essential and absolutely necessary"
+            },
+            {
+              "label": "B",
+              "text": "Superfluous"
+            },
+            {
+              "label": "C",
+              "text": "Disposable"
+            },
+            {
+              "label": "D",
+              "text": "Optional"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Essential and absolutely necessary",
+          "explanation": "'Indispensable' means absolutely necessary, essential, or vital.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG205-MCQ-050",
+          "question": "Identify the punctuation mark needed before the list: 'The applicant brought the following documents ______ his passport, academic transcripts, and national ID.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Colon (:)"
+            },
+            {
+              "label": "B",
+              "text": "Comma (,)"
+            },
+            {
+              "label": "C",
+              "text": "Question mark (?)"
+            },
+            {
+              "label": "D",
+              "text": "Semicolon (;)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Colon (:)",
+          "explanation": "A colon (:) is used after a complete independent introductory clause ('The applicant brought the following documents:') to introduce a list of items.",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

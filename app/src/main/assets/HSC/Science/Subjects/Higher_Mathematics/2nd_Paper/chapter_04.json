@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 4,
+  "chapter_title": "Polynomials and Polynomial Equations",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Remainder Theorem",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q001",
+          "question": "What is the remainder when P(x)=x²+(2)x+(3) is divided by (x−(1))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "8"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "6",
+          "explanation": "By the remainder theorem, the remainder is P(1)=6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q002",
+          "question": "What is the remainder when P(x)=x²+(3)x+(1) is divided by (x−(2))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "10"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "11",
+          "explanation": "By the remainder theorem, the remainder is P(2)=11.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q003",
+          "question": "What is the remainder when P(x)=x²+(-2)x+(5) is divided by (x−(3))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "8"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "8",
+          "explanation": "By the remainder theorem, the remainder is P(3)=8.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q004",
+          "question": "What is the remainder when P(x)=x²+(4)x+(-1) is divided by (x−(-2))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "-6"
+            },
+            {
+              "label": "C",
+              "text": "-4"
+            },
+            {
+              "label": "D",
+              "text": "-5"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-5",
+          "explanation": "By the remainder theorem, the remainder is P(-2)=-5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q005",
+          "question": "What is the remainder when P(x)=x²+(5)x+(2) is divided by (x−(4))?",
+          "options": [
+            {
+              "label": "A",
+              "text": "38"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "37"
+            },
+            {
+              "label": "D",
+              "text": "39"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "38",
+          "explanation": "By the remainder theorem, the remainder is P(4)=38.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Factor Theorem",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q006",
+          "question": "For P(x)=(x−(2))(x−(3)), which of the options is a factor of P(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x−(3)"
+            },
+            {
+              "label": "B",
+              "text": "x−(2)"
+            },
+            {
+              "label": "C",
+              "text": "x+(2)"
+            },
+            {
+              "label": "D",
+              "text": "x+(4)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x−(2)",
+          "explanation": "A factor x−a gives P(a)=0. Thus the stated factor is x−(2).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q007",
+          "question": "For P(x)=(x−(3))(x−(-1)), which of the options is a factor of P(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x+(3)"
+            },
+            {
+              "label": "B",
+              "text": "x−(4)"
+            },
+            {
+              "label": "C",
+              "text": "x−(3)"
+            },
+            {
+              "label": "D",
+              "text": "x+(0)"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "x−(3)",
+          "explanation": "A factor x−a gives P(a)=0. Thus the stated factor is x−(3).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q008",
+          "question": "For P(x)=(x−(-2))(x−(5)), which of the options is a factor of P(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x−(-1)"
+            },
+            {
+              "label": "B",
+              "text": "x+(-2)"
+            },
+            {
+              "label": "C",
+              "text": "x+(6)"
+            },
+            {
+              "label": "D",
+              "text": "x−(-2)"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "x−(-2)",
+          "explanation": "A factor x−a gives P(a)=0. Thus the stated factor is x−(-2).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q009",
+          "question": "For P(x)=(x−(4))(x−(2)), which of the options is a factor of P(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x−(4)"
+            },
+            {
+              "label": "B",
+              "text": "x−(5)"
+            },
+            {
+              "label": "C",
+              "text": "x+(3)"
+            },
+            {
+              "label": "D",
+              "text": "x+(4)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "x−(4)",
+          "explanation": "A factor x−a gives P(a)=0. Thus the stated factor is x−(4).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q010",
+          "question": "For P(x)=(x−(-3))(x−(-4)), which of the options is a factor of P(x)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "x−(-2)"
+            },
+            {
+              "label": "B",
+              "text": "x−(-3)"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "x+(-3)"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "x−(-3)",
+          "explanation": "A factor x−a gives P(a)=0. Thus the stated factor is x−(-3).",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sum of Roots",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q011",
+          "question": "Find the sum of the roots of x²−(5)x+(6)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "6"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "By Vieta's formulas the sum is minus the x-coefficient, namely 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q012",
+          "question": "Find the sum of the roots of x²−(3)x+(-4)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "-4"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "3",
+          "explanation": "By Vieta's formulas the sum is minus the x-coefficient, namely 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q013",
+          "question": "Find the sum of the roots of x²−(3)x+(-10)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "-10"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3",
+          "explanation": "By Vieta's formulas the sum is minus the x-coefficient, namely 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q014",
+          "question": "Find the sum of the roots of x²−(6)x+(0)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "6",
+          "explanation": "By Vieta's formulas the sum is minus the x-coefficient, namely 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q015",
+          "question": "Find the sum of the roots of x²−(-7)x+(12)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "12"
+            },
+            {
+              "label": "B",
+              "text": "-6"
+            },
+            {
+              "label": "C",
+              "text": "-7"
+            },
+            {
+              "label": "D",
+              "text": "-8"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-7",
+          "explanation": "By Vieta's formulas the sum is minus the x-coefficient, namely -7.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Product of Roots",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q016",
+          "question": "Find the product of the roots of x²−(5)x+(6)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "By Vieta's formulas, product of roots = constant term/leading coefficient = 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q017",
+          "question": "Find the product of the roots of x²−(3)x+(-4)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-4"
+            },
+            {
+              "label": "B",
+              "text": "-3"
+            },
+            {
+              "label": "C",
+              "text": "-5"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-4",
+          "explanation": "By Vieta's formulas, product of roots = constant term/leading coefficient = -4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q018",
+          "question": "Find the product of the roots of x²−(3)x+(-10)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-9"
+            },
+            {
+              "label": "B",
+              "text": "-10"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "-11"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-10",
+          "explanation": "By Vieta's formulas, product of roots = constant term/leading coefficient = -10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q019",
+          "question": "Find the product of the roots of x²−(7)x+(6)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "6"
+            },
+            {
+              "label": "D",
+              "text": "7"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "6",
+          "explanation": "By Vieta's formulas, product of roots = constant term/leading coefficient = 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q020",
+          "question": "Find the product of the roots of x²−(-7)x+(12)=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-7"
+            },
+            {
+              "label": "B",
+              "text": "11"
+            },
+            {
+              "label": "C",
+              "text": "13"
+            },
+            {
+              "label": "D",
+              "text": "12"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "12",
+          "explanation": "By Vieta's formulas, product of roots = constant term/leading coefficient = 12.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Degree of a Polynomial",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q021",
+          "question": "Find the degree of P(x)=2x^3+3x²+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3",
+          "explanation": "The highest nonzero exponent of x is the degree; here it is 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q022",
+          "question": "Find the degree of P(x)=2x^4+3x²+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "8"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "4",
+          "explanation": "The highest nonzero exponent of x is the degree; here it is 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q023",
+          "question": "Find the degree of P(x)=2x^5+3x²+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "5",
+          "explanation": "The highest nonzero exponent of x is the degree; here it is 5.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q024",
+          "question": "Find the degree of P(x)=2x^6+3x²+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "7"
+            },
+            {
+              "label": "C",
+              "text": "12"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "The highest nonzero exponent of x is the degree; here it is 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q025",
+          "question": "Find the degree of P(x)=2x^7+3x²+1.",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "6"
+            },
+            {
+              "label": "C",
+              "text": "8"
+            },
+            {
+              "label": "D",
+              "text": "14"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "7",
+          "explanation": "The highest nonzero exponent of x is the degree; here it is 7.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Discriminant",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q026",
+          "question": "Find the discriminant of x²−3x+2=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1",
+          "explanation": "For ax²+bx+c=0, Δ=b²−4ac, giving 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q027",
+          "question": "Find the discriminant of x²−5x+6=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "1",
+          "explanation": "For ax²+bx+c=0, Δ=b²−4ac, giving 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q028",
+          "question": "Find the discriminant of x²−7x+12=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "-1"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "For ax²+bx+c=0, Δ=b²−4ac, giving 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q029",
+          "question": "Find the discriminant of x²−9x+20=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "1"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "3"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "1",
+          "explanation": "For ax²+bx+c=0, Δ=b²−4ac, giving 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q030",
+          "question": "Find the discriminant of x²−11x+30=0.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "1"
+            },
+            {
+              "label": "C",
+              "text": "-1"
+            },
+            {
+              "label": "D",
+              "text": "2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1",
+          "explanation": "For ax²+bx+c=0, Δ=b²−4ac, giving 1.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Algebraic Factors",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q031",
+          "question": "What is the constant term of (2x+3)(2x−3)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "4"
+            },
+            {
+              "label": "B",
+              "text": "-3"
+            },
+            {
+              "label": "C",
+              "text": "-9"
+            },
+            {
+              "label": "D",
+              "text": "9"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-9",
+          "explanation": "Use (ax+b)(ax−b)=a²x²−b²; the constant term is -9.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q032",
+          "question": "What is the constant term of (3x+4)(3x−4)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "16"
+            },
+            {
+              "label": "B",
+              "text": "-4"
+            },
+            {
+              "label": "C",
+              "text": "9"
+            },
+            {
+              "label": "D",
+              "text": "-16"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "-16",
+          "explanation": "Use (ax+b)(ax−b)=a²x²−b²; the constant term is -16.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q033",
+          "question": "What is the constant term of (4x+5)(4x−5)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-25"
+            },
+            {
+              "label": "B",
+              "text": "16"
+            },
+            {
+              "label": "C",
+              "text": "25"
+            },
+            {
+              "label": "D",
+              "text": "-5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-25",
+          "explanation": "Use (ax+b)(ax−b)=a²x²−b²; the constant term is -25.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q034",
+          "question": "What is the constant term of (5x+2)(5x−2)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "25"
+            },
+            {
+              "label": "B",
+              "text": "-4"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-4",
+          "explanation": "Use (ax+b)(ax−b)=a²x²−b²; the constant term is -4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q035",
+          "question": "What is the constant term of (6x+3)(6x−3)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "9"
+            },
+            {
+              "label": "C",
+              "text": "-9"
+            },
+            {
+              "label": "D",
+              "text": "36"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-9",
+          "explanation": "Use (ax+b)(ax−b)=a²x²−b²; the constant term is -9.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Polynomial Evaluation",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q036",
+          "question": "If P(x)=x²+2x+(3), find P(1).",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "7"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "Substitute the specified x-value into the polynomial to obtain 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q037",
+          "question": "If P(x)=x²+3x+(4), find P(2).",
+          "options": [
+            {
+              "label": "A",
+              "text": "14"
+            },
+            {
+              "label": "B",
+              "text": "10"
+            },
+            {
+              "label": "C",
+              "text": "15"
+            },
+            {
+              "label": "D",
+              "text": "13"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "14",
+          "explanation": "Substitute the specified x-value into the polynomial to obtain 14.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q038",
+          "question": "If P(x)=x²+4x+(1), find P(-1).",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "-2"
+            },
+            {
+              "label": "C",
+              "text": "0"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "-2",
+          "explanation": "Substitute the specified x-value into the polynomial to obtain -2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q039",
+          "question": "If P(x)=x²+5x+(-2), find P(3).",
+          "options": [
+            {
+              "label": "A",
+              "text": "21"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "22"
+            },
+            {
+              "label": "D",
+              "text": "23"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "22",
+          "explanation": "Substitute the specified x-value into the polynomial to obtain 22.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q040",
+          "question": "If P(x)=x²+2x+(5), find P(4).",
+          "options": [
+            {
+              "label": "A",
+              "text": "30"
+            },
+            {
+              "label": "B",
+              "text": "13"
+            },
+            {
+              "label": "C",
+              "text": "28"
+            },
+            {
+              "label": "D",
+              "text": "29"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "29",
+          "explanation": "Substitute the specified x-value into the polynomial to obtain 29.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Quadratic Roots",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q041",
+          "question": "One root of x²−(5)x+(6)=0 is 2. Find the other root.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "2"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "3",
+          "explanation": "The roots sum to 5; subtract the known root to get 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q042",
+          "question": "One root of x²−(3)x+(-4)=0 is -1. Find the other root.",
+          "options": [
+            {
+              "label": "A",
+              "text": "3"
+            },
+            {
+              "label": "B",
+              "text": "4"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "4",
+          "explanation": "The roots sum to 3; subtract the known root to get 4.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q043",
+          "question": "One root of x²−(3)x+(-10)=0 is 5. Find the other root.",
+          "options": [
+            {
+              "label": "A",
+              "text": "5"
+            },
+            {
+              "label": "B",
+              "text": "-3"
+            },
+            {
+              "label": "C",
+              "text": "-2"
+            },
+            {
+              "label": "D",
+              "text": "-1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-2",
+          "explanation": "The roots sum to 3; subtract the known root to get -2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q044",
+          "question": "One root of x²−(7)x+(6)=0 is 1. Find the other root.",
+          "options": [
+            {
+              "label": "A",
+              "text": "7"
+            },
+            {
+              "label": "B",
+              "text": "5"
+            },
+            {
+              "label": "C",
+              "text": "1"
+            },
+            {
+              "label": "D",
+              "text": "6"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "6",
+          "explanation": "The roots sum to 7; subtract the known root to get 6.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q045",
+          "question": "One root of x²−(-7)x+(12)=0 is -3. Find the other root.",
+          "options": [
+            {
+              "label": "A",
+              "text": "-4"
+            },
+            {
+              "label": "B",
+              "text": "-3"
+            },
+            {
+              "label": "C",
+              "text": "-5"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-4",
+          "explanation": "The roots sum to -7; subtract the known root to get -4.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Polynomial Division",
+      "questions": [
+        {
+          "id": "HM-P2-C04-Q046",
+          "question": "What is the remainder when P(x)=(x−(1))(x+(2))+(3) is divided by x−(1)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "2"
+            },
+            {
+              "label": "B",
+              "text": "3"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "5"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "3",
+          "explanation": "The factor containing x−(1) vanishes at x=1, leaving the constant remainder 3.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q047",
+          "question": "What is the remainder when P(x)=(x−(2))(x+(3))+(-2) is divided by x−(2)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-3"
+            },
+            {
+              "label": "B",
+              "text": "-1"
+            },
+            {
+              "label": "C",
+              "text": "-2"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "-2",
+          "explanation": "The factor containing x−(2) vanishes at x=2, leaving the constant remainder -2.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q048",
+          "question": "What is the remainder when P(x)=(x−(3))(x+(4))+(1) is divided by x−(3)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "0"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "5"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "1",
+          "explanation": "The factor containing x−(3) vanishes at x=3, leaving the constant remainder 1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q049",
+          "question": "What is the remainder when P(x)=(x−(-1))(x+(5))+(-1) is divided by x−(-1)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "-1"
+            },
+            {
+              "label": "B",
+              "text": "0"
+            },
+            {
+              "label": "C",
+              "text": "4"
+            },
+            {
+              "label": "D",
+              "text": "-2"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "-1",
+          "explanation": "The factor containing x−(-1) vanishes at x=-1, leaving the constant remainder -1.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "HM-P2-C04-Q050",
+          "question": "What is the remainder when P(x)=(x−(4))(x+(6))+(2) is divided by x−(4)?",
+          "options": [
+            {
+              "label": "A",
+              "text": "8"
+            },
+            {
+              "label": "B",
+              "text": "2"
+            },
+            {
+              "label": "C",
+              "text": "3"
+            },
+            {
+              "label": "D",
+              "text": "1"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "2",
+          "explanation": "The factor containing x−(4) vanishes at x=4, leaving the constant remainder 2.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

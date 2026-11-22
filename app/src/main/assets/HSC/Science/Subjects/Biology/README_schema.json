@@ -1,0 +1,43 @@
+{
+  "description": "Schema guide for the Bangladesh HSC 12th Class Biology JSON question bank.",
+  "folder_structure": {
+    "biology.json": "Subject-level index containing paper and chapter metadata.",
+    "README_schema.json": "This schema documentation file.",
+    "1st_Paper/chapter_XX.json": "Chapter-wise MCQ data for Biology 1st Paper (Botany).",
+    "2nd_Paper/chapter_XX.json": "Chapter-wise MCQ data for Biology 2nd Paper (Zoology)."
+  },
+  "chapter_file_fields": {
+    "class": "String: HSC class level.",
+    "stream": "String: academic stream.",
+    "subject": "String: subject name.",
+    "paper": "String: paper name.",
+    "paper_name": "String: paper discipline/name.",
+    "subject_code": "Number: subject code.",
+    "chapter_number": "Integer: chapter number.",
+    "chapter_title": "String: chapter title.",
+    "language": "String: content language.",
+    "total_mcqs": "Integer: number of MCQs in chapter.",
+    "total_topics": "Integer: number of topics in chapter.",
+    "topics": "Array of topic objects."
+  },
+  "topic_object": {
+    "topic_id": "String",
+    "topic_name": "String",
+    "mcqs": "Array of MCQ objects."
+  },
+  "mcq_object": {
+    "id": "String: unique MCQ identifier.",
+    "question": "String: question text.",
+    "options": "Array of four objects, each with label (A-D) and text.",
+    "correct_answer": "String: correct option label (A-D).",
+    "correct_answer_text": "String: correct option text.",
+    "explanation": "String: explanation for the correct answer."
+  },
+  "expected_counts": {
+    "papers": 2,
+    "chapters_per_paper": 12,
+    "mcqs_per_chapter": 50,
+    "total_chapters": 24,
+    "total_mcqs": 1200
+  }
+}

@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 3,
+  "chapter_title": "Cell Chemistry",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH03_T01",
+      "topic_name": "Monosaccharide",
+      "mcqs": [
+        {
+          "id": "BIO1_CH03_Q01",
+          "question": "Which term is correctly described as: simplest carbohydrate unit?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme"
+            },
+            {
+              "label": "B",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "C",
+              "text": "phospholipid"
+            },
+            {
+              "label": "D",
+              "text": "peptide bond"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "monosaccharide",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q02",
+          "question": "The biological role or defining feature of monosaccharide is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "covalent link between amino acids"
+            },
+            {
+              "label": "B",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "C",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "D",
+              "text": "basic building unit of DNA and RNA"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "simplest carbohydrate unit",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q03",
+          "question": "A student records the following clue: “simplest carbohydrate unit.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phospholipid"
+            },
+            {
+              "label": "B",
+              "text": "enzyme"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "monosaccharide",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q04",
+          "question": "Which option completes this statement correctly? monosaccharide is the term for simplest carbohydrate unit.",
+          "options": [
+            {
+              "label": "A",
+              "text": "peptide bond"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "enzyme"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "monosaccharide",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q05",
+          "question": "If an examination asks for the term associated with “simplest carbohydrate unit”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peptide bond"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "monosaccharide",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q06",
+          "question": "Which structure, process or concept matches the description “simplest carbohydrate unit”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme"
+            },
+            {
+              "label": "B",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "peptide bond"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "monosaccharide",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q07",
+          "question": "Choose the accurate statement about monosaccharide.",
+          "options": [
+            {
+              "label": "A",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "B",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "C",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "D",
+              "text": "biological catalyst that lowers activation energy"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "simplest carbohydrate unit",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q08",
+          "question": "A diagram or observation identifies monosaccharide. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "B",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "C",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "D",
+              "text": "covalent link between amino acids"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "simplest carbohydrate unit",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q09",
+          "question": "Which pairing is correct for monosaccharide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "B",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "C",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "D",
+              "text": "basic building unit of DNA and RNA"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "simplest carbohydrate unit",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        },
+        {
+          "id": "BIO1_CH03_Q10",
+          "question": "In a topic review, which answer best explains the clue “simplest carbohydrate unit”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "peptide bond"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "monosaccharide",
+          "explanation": "Monosaccharides can join to form larger carbohydrates."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH03_T02",
+      "topic_name": "Peptide Bond",
+      "mcqs": [
+        {
+          "id": "BIO1_CH03_Q11",
+          "question": "Which term is correctly described as: covalent link between amino acids?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "enzyme"
+            },
+            {
+              "label": "D",
+              "text": "peptide bond"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "peptide bond",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q12",
+          "question": "The biological role or defining feature of peptide bond is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "B",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "C",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "D",
+              "text": "covalent link between amino acids"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "covalent link between amino acids",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q13",
+          "question": "A student records the following clue: “covalent link between amino acids.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peptide bond"
+            },
+            {
+              "label": "B",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "C",
+              "text": "phospholipid"
+            },
+            {
+              "label": "D",
+              "text": "enzyme"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "peptide bond",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q14",
+          "question": "Which option completes this statement correctly? peptide bond is the term for covalent link between amino acids.",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "peptide bond"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "phospholipid"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "peptide bond",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q15",
+          "question": "If an examination asks for the term associated with “covalent link between amino acids”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peptide bond"
+            },
+            {
+              "label": "B",
+              "text": "nucleotide"
+            },
+            {
+              "label": "C",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "D",
+              "text": "enzyme"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "peptide bond",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q16",
+          "question": "Which structure, process or concept matches the description “covalent link between amino acids”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "peptide bond"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "enzyme"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "peptide bond",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q17",
+          "question": "Choose the accurate statement about peptide bond.",
+          "options": [
+            {
+              "label": "A",
+              "text": "covalent link between amino acids"
+            },
+            {
+              "label": "B",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "C",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "D",
+              "text": "simplest carbohydrate unit"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "covalent link between amino acids",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q18",
+          "question": "A diagram or observation identifies peptide bond. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "covalent link between amino acids"
+            },
+            {
+              "label": "B",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "C",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "D",
+              "text": "simplest carbohydrate unit"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "covalent link between amino acids",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q19",
+          "question": "Which pairing is correct for peptide bond?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "B",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "C",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "D",
+              "text": "covalent link between amino acids"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "covalent link between amino acids",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        },
+        {
+          "id": "BIO1_CH03_Q20",
+          "question": "In a topic review, which answer best explains the clue “covalent link between amino acids”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peptide bond"
+            },
+            {
+              "label": "B",
+              "text": "enzyme"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "phospholipid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "peptide bond",
+          "explanation": "Repeated peptide bonds form a polypeptide chain."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH03_T03",
+      "topic_name": "Phospholipid",
+      "mcqs": [
+        {
+          "id": "BIO1_CH03_Q21",
+          "question": "Which term is correctly described as: lipid with hydrophilic and hydrophobic regions?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peptide bond"
+            },
+            {
+              "label": "B",
+              "text": "nucleotide"
+            },
+            {
+              "label": "C",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "D",
+              "text": "phospholipid"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "phospholipid",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q22",
+          "question": "The biological role or defining feature of phospholipid is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "B",
+              "text": "covalent link between amino acids"
+            },
+            {
+              "label": "C",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "D",
+              "text": "biological catalyst that lowers activation energy"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "lipid with hydrophilic and hydrophobic regions",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q23",
+          "question": "A student records the following clue: “lipid with hydrophilic and hydrophobic regions.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "phospholipid",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q24",
+          "question": "Which option completes this statement correctly? phospholipid is the term for lipid with hydrophilic and hydrophobic regions.",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "peptide bond"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "phospholipid",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q25",
+          "question": "If an examination asks for the term associated with “lipid with hydrophilic and hydrophobic regions”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "enzyme"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "phospholipid",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q26",
+          "question": "Which structure, process or concept matches the description “lipid with hydrophilic and hydrophobic regions”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phospholipid"
+            },
+            {
+              "label": "B",
+              "text": "enzyme"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "phospholipid",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q27",
+          "question": "Choose the accurate statement about phospholipid.",
+          "options": [
+            {
+              "label": "A",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "B",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "C",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "D",
+              "text": "basic building unit of DNA and RNA"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "lipid with hydrophilic and hydrophobic regions",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q28",
+          "question": "A diagram or observation identifies phospholipid. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "B",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "C",
+              "text": "covalent link between amino acids"
+            },
+            {
+              "label": "D",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "lipid with hydrophilic and hydrophobic regions",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q29",
+          "question": "Which pairing is correct for phospholipid?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "B",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "C",
+              "text": "covalent link between amino acids"
+            },
+            {
+              "label": "D",
+              "text": "basic building unit of DNA and RNA"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "lipid with hydrophilic and hydrophobic regions",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        },
+        {
+          "id": "BIO1_CH03_Q30",
+          "question": "In a topic review, which answer best explains the clue “lipid with hydrophilic and hydrophobic regions”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "peptide bond"
+            },
+            {
+              "label": "D",
+              "text": "nucleotide"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "phospholipid",
+          "explanation": "Its amphipathic structure helps form biological membranes."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH03_T04",
+      "topic_name": "Enzyme",
+      "mcqs": [
+        {
+          "id": "BIO1_CH03_Q31",
+          "question": "Which term is correctly described as: biological catalyst that lowers activation energy?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peptide bond"
+            },
+            {
+              "label": "B",
+              "text": "enzyme"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "enzyme",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q32",
+          "question": "The biological role or defining feature of enzyme is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "covalent link between amino acids"
+            },
+            {
+              "label": "B",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "C",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "D",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "biological catalyst that lowers activation energy",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q33",
+          "question": "A student records the following clue: “biological catalyst that lowers activation energy.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "peptide bond"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "enzyme",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q34",
+          "question": "Which option completes this statement correctly? enzyme is the term for biological catalyst that lowers activation energy.",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme"
+            },
+            {
+              "label": "B",
+              "text": "nucleotide"
+            },
+            {
+              "label": "C",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "D",
+              "text": "phospholipid"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "enzyme",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q35",
+          "question": "If an examination asks for the term associated with “biological catalyst that lowers activation energy”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phospholipid"
+            },
+            {
+              "label": "B",
+              "text": "enzyme"
+            },
+            {
+              "label": "C",
+              "text": "peptide bond"
+            },
+            {
+              "label": "D",
+              "text": "nucleotide"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "enzyme",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q36",
+          "question": "Which structure, process or concept matches the description “biological catalyst that lowers activation energy”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "enzyme"
+            },
+            {
+              "label": "B",
+              "text": "nucleotide"
+            },
+            {
+              "label": "C",
+              "text": "peptide bond"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "enzyme",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q37",
+          "question": "Choose the accurate statement about enzyme.",
+          "options": [
+            {
+              "label": "A",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "B",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "C",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "D",
+              "text": "covalent link between amino acids"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "biological catalyst that lowers activation energy",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q38",
+          "question": "A diagram or observation identifies enzyme. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "B",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "C",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "D",
+              "text": "biological catalyst that lowers activation energy"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "biological catalyst that lowers activation energy",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q39",
+          "question": "Which pairing is correct for enzyme?",
+          "options": [
+            {
+              "label": "A",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "B",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "C",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            },
+            {
+              "label": "D",
+              "text": "covalent link between amino acids"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "biological catalyst that lowers activation energy",
+          "explanation": "It increases reaction rate without being consumed."
+        },
+        {
+          "id": "BIO1_CH03_Q40",
+          "question": "In a topic review, which answer best explains the clue “biological catalyst that lowers activation energy”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phospholipid"
+            },
+            {
+              "label": "B",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "C",
+              "text": "enzyme"
+            },
+            {
+              "label": "D",
+              "text": "nucleotide"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "enzyme",
+          "explanation": "It increases reaction rate without being consumed."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH03_T05",
+      "topic_name": "Nucleotide",
+      "mcqs": [
+        {
+          "id": "BIO1_CH03_Q41",
+          "question": "Which term is correctly described as: basic building unit of DNA and RNA?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "enzyme"
+            },
+            {
+              "label": "C",
+              "text": "phospholipid"
+            },
+            {
+              "label": "D",
+              "text": "nucleotide"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "nucleotide",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q42",
+          "question": "The biological role or defining feature of nucleotide is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "B",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "C",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "D",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "basic building unit of DNA and RNA",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q43",
+          "question": "A student records the following clue: “basic building unit of DNA and RNA.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "peptide bond"
+            },
+            {
+              "label": "B",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "phospholipid"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "nucleotide",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q44",
+          "question": "Which option completes this statement correctly? nucleotide is the term for basic building unit of DNA and RNA.",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "phospholipid"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "enzyme"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "nucleotide",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q45",
+          "question": "If an examination asks for the term associated with “basic building unit of DNA and RNA”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "nucleotide"
+            },
+            {
+              "label": "B",
+              "text": "enzyme"
+            },
+            {
+              "label": "C",
+              "text": "peptide bond"
+            },
+            {
+              "label": "D",
+              "text": "monosaccharide"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "nucleotide",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q46",
+          "question": "Which structure, process or concept matches the description “basic building unit of DNA and RNA”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "phospholipid"
+            },
+            {
+              "label": "B",
+              "text": "enzyme"
+            },
+            {
+              "label": "C",
+              "text": "peptide bond"
+            },
+            {
+              "label": "D",
+              "text": "nucleotide"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "nucleotide",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q47",
+          "question": "Choose the accurate statement about nucleotide.",
+          "options": [
+            {
+              "label": "A",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "B",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "C",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "D",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "basic building unit of DNA and RNA",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q48",
+          "question": "A diagram or observation identifies nucleotide. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "B",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "C",
+              "text": "covalent link between amino acids"
+            },
+            {
+              "label": "D",
+              "text": "basic building unit of DNA and RNA"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "basic building unit of DNA and RNA",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q49",
+          "question": "Which pairing is correct for nucleotide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "basic building unit of DNA and RNA"
+            },
+            {
+              "label": "B",
+              "text": "biological catalyst that lowers activation energy"
+            },
+            {
+              "label": "C",
+              "text": "simplest carbohydrate unit"
+            },
+            {
+              "label": "D",
+              "text": "lipid with hydrophilic and hydrophobic regions"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "basic building unit of DNA and RNA",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        },
+        {
+          "id": "BIO1_CH03_Q50",
+          "question": "In a topic review, which answer best explains the clue “basic building unit of DNA and RNA”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "monosaccharide"
+            },
+            {
+              "label": "B",
+              "text": "peptide bond"
+            },
+            {
+              "label": "C",
+              "text": "nucleotide"
+            },
+            {
+              "label": "D",
+              "text": "phospholipid"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "nucleotide",
+          "explanation": "A nucleotide contains a sugar, phosphate group and nitrogenous base."
+        }
+      ]
+    }
+  ]
+}

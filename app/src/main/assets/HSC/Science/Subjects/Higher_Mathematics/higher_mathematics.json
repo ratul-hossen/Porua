@@ -1,0 +1,154 @@
+{
+  "class": "HSC",
+  "stream": "Science",
+  "subject": "Higher Mathematics",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 20,
+  "total_questions": 1000,
+  "papers": [
+    {
+      "paper": "1st Paper",
+      "folder": "1st_Paper",
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Matrices and Determinants",
+          "file": "1st_Paper/chapter_01.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Vectors",
+          "file": "1st_Paper/chapter_02.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Straight Lines",
+          "file": "1st_Paper/chapter_03.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Circles",
+          "file": "1st_Paper/chapter_04.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Permutations and Combinations",
+          "file": "1st_Paper/chapter_05.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 6,
+          "chapter_title": "Trigonometric Ratios",
+          "file": "1st_Paper/chapter_06.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 7,
+          "chapter_title": "Trigonometric Ratios of Associated and Compound Angles",
+          "file": "1st_Paper/chapter_07.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 8,
+          "chapter_title": "Functions and Graphs of Functions",
+          "file": "1st_Paper/chapter_08.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 9,
+          "chapter_title": "Differentiation",
+          "file": "1st_Paper/chapter_09.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 10,
+          "chapter_title": "Integration",
+          "file": "1st_Paper/chapter_10.json",
+          "question_count": 50
+        }
+      ]
+    },
+    {
+      "paper": "2nd Paper",
+      "folder": "2nd_Paper",
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_title": "Real Numbers and Inequalities",
+          "file": "2nd_Paper/chapter_01.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 2,
+          "chapter_title": "Linear Programming",
+          "file": "2nd_Paper/chapter_02.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 3,
+          "chapter_title": "Complex Numbers",
+          "file": "2nd_Paper/chapter_03.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 4,
+          "chapter_title": "Polynomials and Polynomial Equations",
+          "file": "2nd_Paper/chapter_04.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 5,
+          "chapter_title": "Binomial Expansion",
+          "file": "2nd_Paper/chapter_05.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 6,
+          "chapter_title": "Conics",
+          "file": "2nd_Paper/chapter_06.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 7,
+          "chapter_title": "Inverse Trigonometric Functions and Trigonometric Equations",
+          "file": "2nd_Paper/chapter_07.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 8,
+          "chapter_title": "Statics",
+          "file": "2nd_Paper/chapter_08.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 9,
+          "chapter_title": "Motion of Particles in a Plane",
+          "file": "2nd_Paper/chapter_09.json",
+          "question_count": 50
+        },
+        {
+          "chapter_number": 10,
+          "chapter_title": "Measures of Dispersion and Probability",
+          "file": "2nd_Paper/chapter_10.json",
+          "question_count": 50
+        }
+      ]
+    }
+  ],
+  "question_schema": {
+    "id": "Unique question identifier across both papers",
+    "question": "Question text in English",
+    "options": "Exactly four options, labelled A-D",
+    "correct_answer": "Correct option label (A-D)",
+    "correct_answer_text": "Exact text of the correct option",
+    "explanation": "Short explanation in English",
+    "difficulty": "Easy, Medium, or Hard"
+  }
+}

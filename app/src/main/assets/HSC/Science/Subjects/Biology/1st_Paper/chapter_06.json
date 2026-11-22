@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "1st Paper",
+  "paper_name": "Botany",
+  "subject_code": 178,
+  "chapter_number": 6,
+  "chapter_title": "Bryophyta and Pteridophyta",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO1_CH06_T01",
+      "topic_name": "Bryophyte",
+      "mcqs": [
+        {
+          "id": "BIO1_CH06_Q01",
+          "question": "Which term is correctly described as: non-vascular plant group with a dominant gametophyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "C",
+              "text": "sorus"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bryophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q02",
+          "question": "The biological role or defining feature of bryophyte is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "C",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "D",
+              "text": "generation that remains attached to the gametophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "non-vascular plant group with a dominant gametophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q03",
+          "question": "A student records the following clue: “non-vascular plant group with a dominant gametophyte.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "bryophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q04",
+          "question": "Which option completes this statement correctly? bryophyte is the term for non-vascular plant group with a dominant gametophyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte"
+            },
+            {
+              "label": "B",
+              "text": "sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "sorus"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte sporophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "bryophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q05",
+          "question": "If an examination asks for the term associated with “non-vascular plant group with a dominant gametophyte”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sorus"
+            },
+            {
+              "label": "B",
+              "text": "sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte"
+            },
+            {
+              "label": "D",
+              "text": "pteridophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bryophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q06",
+          "question": "Which structure, process or concept matches the description “non-vascular plant group with a dominant gametophyte”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "pteridophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "bryophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q07",
+          "question": "Choose the accurate statement about bryophyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "C",
+              "text": "dominant generation in pteridophytes"
+            },
+            {
+              "label": "D",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "non-vascular plant group with a dominant gametophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q08",
+          "question": "A diagram or observation identifies bryophyte. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "C",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "D",
+              "text": "dominant generation in pteridophytes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "non-vascular plant group with a dominant gametophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q09",
+          "question": "Which pairing is correct for bryophyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "B",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "C",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "D",
+              "text": "generation that remains attached to the gametophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "non-vascular plant group with a dominant gametophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        },
+        {
+          "id": "BIO1_CH06_Q10",
+          "question": "In a topic review, which answer best explains the clue “non-vascular plant group with a dominant gametophyte”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "B",
+              "text": "bryophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "sorus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "bryophyte",
+          "explanation": "The group lacks true xylem and phloem."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH06_T02",
+      "topic_name": "Bryophyte Sporophyte",
+      "mcqs": [
+        {
+          "id": "BIO1_CH06_Q11",
+          "question": "Which term is correctly described as: generation that remains attached to the gametophyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "D",
+              "text": "sorus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "bryophyte sporophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q12",
+          "question": "The biological role or defining feature of bryophyte sporophyte is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "B",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "C",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "D",
+              "text": "spore-producing vascular plant"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "generation that remains attached to the gametophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q13",
+          "question": "A student records the following clue: “generation that remains attached to the gametophyte.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte"
+            },
+            {
+              "label": "B",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "sorus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bryophyte sporophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q14",
+          "question": "Which option completes this statement correctly? bryophyte sporophyte is the term for generation that remains attached to the gametophyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "sporophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bryophyte sporophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q15",
+          "question": "If an examination asks for the term associated with “generation that remains attached to the gametophyte”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte"
+            },
+            {
+              "label": "D",
+              "text": "sorus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "bryophyte sporophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q16",
+          "question": "Which structure, process or concept matches the description “generation that remains attached to the gametophyte”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "bryophyte sporophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q17",
+          "question": "Choose the accurate statement about bryophyte sporophyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "dominant generation in pteridophytes"
+            },
+            {
+              "label": "B",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "C",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "D",
+              "text": "generation that remains attached to the gametophyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "generation that remains attached to the gametophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q18",
+          "question": "A diagram or observation identifies bryophyte sporophyte. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "C",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "D",
+              "text": "spore-producing vascular plant"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "generation that remains attached to the gametophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q19",
+          "question": "Which pairing is correct for bryophyte sporophyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "C",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "D",
+              "text": "dominant generation in pteridophytes"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "generation that remains attached to the gametophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        },
+        {
+          "id": "BIO1_CH06_Q20",
+          "question": "In a topic review, which answer best explains the clue “generation that remains attached to the gametophyte”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "sorus"
+            },
+            {
+              "label": "D",
+              "text": "pteridophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "bryophyte sporophyte",
+          "explanation": "It is nutritionally dependent on the gametophyte."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH06_T03",
+      "topic_name": "Pteridophyte",
+      "mcqs": [
+        {
+          "id": "BIO1_CH06_Q21",
+          "question": "Which term is correctly described as: spore-producing vascular plant?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "pteridophyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "pteridophyte",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q22",
+          "question": "The biological role or defining feature of pteridophyte is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "C",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "D",
+              "text": "generation that remains attached to the gametophyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "spore-producing vascular plant",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q23",
+          "question": "A student records the following clue: “spore-producing vascular plant.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "bryophyte"
+            },
+            {
+              "label": "C",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "D",
+              "text": "sorus"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pteridophyte",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q24",
+          "question": "Which option completes this statement correctly? pteridophyte is the term for spore-producing vascular plant.",
+          "options": [
+            {
+              "label": "A",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "B",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "sorus"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "pteridophyte",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q25",
+          "question": "If an examination asks for the term associated with “spore-producing vascular plant”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sorus"
+            },
+            {
+              "label": "B",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "C",
+              "text": "sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "pteridophyte",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q26",
+          "question": "Which structure, process or concept matches the description “spore-producing vascular plant”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "pteridophyte",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q27",
+          "question": "Choose the accurate statement about pteridophyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "C",
+              "text": "dominant generation in pteridophytes"
+            },
+            {
+              "label": "D",
+              "text": "spore-producing vascular plant"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "spore-producing vascular plant",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q28",
+          "question": "A diagram or observation identifies pteridophyte. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "C",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "D",
+              "text": "generation that remains attached to the gametophyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "spore-producing vascular plant",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q29",
+          "question": "Which pairing is correct for pteridophyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "B",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "C",
+              "text": "dominant generation in pteridophytes"
+            },
+            {
+              "label": "D",
+              "text": "spore-producing vascular plant"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "spore-producing vascular plant",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        },
+        {
+          "id": "BIO1_CH06_Q30",
+          "question": "In a topic review, which answer best explains the clue “spore-producing vascular plant”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "C",
+              "text": "sorus"
+            },
+            {
+              "label": "D",
+              "text": "sporophyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "pteridophyte",
+          "explanation": "It possesses xylem and phloem but does not form seeds."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH06_T04",
+      "topic_name": "Sporophyte",
+      "mcqs": [
+        {
+          "id": "BIO1_CH06_Q31",
+          "question": "Which term is correctly described as: dominant generation in pteridophytes?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "B",
+              "text": "sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "sorus"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "sporophyte",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q32",
+          "question": "The biological role or defining feature of sporophyte is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "C",
+              "text": "dominant generation in pteridophytes"
+            },
+            {
+              "label": "D",
+              "text": "generation that remains attached to the gametophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "dominant generation in pteridophytes",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q33",
+          "question": "A student records the following clue: “dominant generation in pteridophytes.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "sporophyte",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q34",
+          "question": "Which option completes this statement correctly? sporophyte is the term for dominant generation in pteridophytes.",
+          "options": [
+            {
+              "label": "A",
+              "text": "sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "bryophyte"
+            },
+            {
+              "label": "C",
+              "text": "sorus"
+            },
+            {
+              "label": "D",
+              "text": "pteridophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "sporophyte",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q35",
+          "question": "If an examination asks for the term associated with “dominant generation in pteridophytes”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte"
+            },
+            {
+              "label": "D",
+              "text": "sporophyte"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "sporophyte",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q36",
+          "question": "Which structure, process or concept matches the description “dominant generation in pteridophytes”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "B",
+              "text": "sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte sporophyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "sporophyte",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q37",
+          "question": "Choose the accurate statement about sporophyte.",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "C",
+              "text": "dominant generation in pteridophytes"
+            },
+            {
+              "label": "D",
+              "text": "spore-producing vascular plant"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "dominant generation in pteridophytes",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q38",
+          "question": "A diagram or observation identifies sporophyte. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "B",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "C",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "D",
+              "text": "dominant generation in pteridophytes"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "dominant generation in pteridophytes",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q39",
+          "question": "Which pairing is correct for sporophyte?",
+          "options": [
+            {
+              "label": "A",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "C",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "D",
+              "text": "dominant generation in pteridophytes"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "dominant generation in pteridophytes",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        },
+        {
+          "id": "BIO1_CH06_Q40",
+          "question": "In a topic review, which answer best explains the clue “dominant generation in pteridophytes”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte"
+            },
+            {
+              "label": "B",
+              "text": "sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "pteridophyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "sporophyte",
+          "explanation": "The diploid plant body produces spores by meiosis."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO1_CH06_T05",
+      "topic_name": "Sorus",
+      "mcqs": [
+        {
+          "id": "BIO1_CH06_Q41",
+          "question": "Which term is correctly described as: cluster of sporangia commonly found on fern fronds?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "C",
+              "text": "sorus"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "sorus",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q42",
+          "question": "The biological role or defining feature of sorus is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "C",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "D",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "cluster of sporangia commonly found on fern fronds",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q43",
+          "question": "A student records the following clue: “cluster of sporangia commonly found on fern fronds.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "B",
+              "text": "bryophyte"
+            },
+            {
+              "label": "C",
+              "text": "sorus"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte sporophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "sorus",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q44",
+          "question": "Which option completes this statement correctly? sorus is the term for cluster of sporangia commonly found on fern fronds.",
+          "options": [
+            {
+              "label": "A",
+              "text": "sorus"
+            },
+            {
+              "label": "B",
+              "text": "sporophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte"
+            },
+            {
+              "label": "D",
+              "text": "pteridophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "sorus",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q45",
+          "question": "If an examination asks for the term associated with “cluster of sporangia commonly found on fern fronds”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sorus"
+            },
+            {
+              "label": "B",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "C",
+              "text": "sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte sporophyte"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "sorus",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q46",
+          "question": "Which structure, process or concept matches the description “cluster of sporangia commonly found on fern fronds”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "sorus"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "D",
+              "text": "bryophyte"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "sorus",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q47",
+          "question": "Choose the accurate statement about sorus.",
+          "options": [
+            {
+              "label": "A",
+              "text": "generation that remains attached to the gametophyte"
+            },
+            {
+              "label": "B",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "C",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "D",
+              "text": "spore-producing vascular plant"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "cluster of sporangia commonly found on fern fronds",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q48",
+          "question": "A diagram or observation identifies sorus. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "spore-producing vascular plant"
+            },
+            {
+              "label": "B",
+              "text": "dominant generation in pteridophytes"
+            },
+            {
+              "label": "C",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "D",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "cluster of sporangia commonly found on fern fronds",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q49",
+          "question": "Which pairing is correct for sorus?",
+          "options": [
+            {
+              "label": "A",
+              "text": "cluster of sporangia commonly found on fern fronds"
+            },
+            {
+              "label": "B",
+              "text": "non-vascular plant group with a dominant gametophyte"
+            },
+            {
+              "label": "C",
+              "text": "dominant generation in pteridophytes"
+            },
+            {
+              "label": "D",
+              "text": "spore-producing vascular plant"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "cluster of sporangia commonly found on fern fronds",
+          "explanation": "Sporangia within a sorus produce spores."
+        },
+        {
+          "id": "BIO1_CH06_Q50",
+          "question": "In a topic review, which answer best explains the clue “cluster of sporangia commonly found on fern fronds”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "bryophyte sporophyte"
+            },
+            {
+              "label": "B",
+              "text": "pteridophyte"
+            },
+            {
+              "label": "C",
+              "text": "bryophyte"
+            },
+            {
+              "label": "D",
+              "text": "sorus"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "sorus",
+          "explanation": "Sporangia within a sorus produce spores."
+        }
+      ]
+    }
+  ]
+}

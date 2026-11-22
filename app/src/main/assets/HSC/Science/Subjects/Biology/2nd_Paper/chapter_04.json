@@ -1,0 +1,1295 @@
+{
+  "class": "HSC 12th",
+  "stream": "Science",
+  "subject": "Biology",
+  "paper": "2nd Paper",
+  "paper_name": "Zoology",
+  "subject_code": 179,
+  "chapter_number": 4,
+  "chapter_title": "Human Physiology: Blood and Circulation",
+  "language": "English",
+  "total_mcqs": 50,
+  "total_topics": 5,
+  "topics": [
+    {
+      "topic_id": "BIO2_CH04_T01",
+      "topic_name": "Red Blood Cell",
+      "mcqs": [
+        {
+          "id": "BIO2_CH04_Q01",
+          "question": "Which term is correctly described as: blood cell whose haemoglobin transports oxygen?",
+          "options": [
+            {
+              "label": "A",
+              "text": "red blood cell"
+            },
+            {
+              "label": "B",
+              "text": "white blood cell"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "red blood cell",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q02",
+          "question": "The biological role or defining feature of red blood cell is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "B",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "C",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "D",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "blood cell whose haemoglobin transports oxygen",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q03",
+          "question": "A student records the following clue: “blood cell whose haemoglobin transports oxygen.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "D",
+              "text": "red blood cell"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "red blood cell",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q04",
+          "question": "Which option completes this statement correctly? red blood cell is the term for blood cell whose haemoglobin transports oxygen.",
+          "options": [
+            {
+              "label": "A",
+              "text": "platelet"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "white blood cell"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "red blood cell",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q05",
+          "question": "If an examination asks for the term associated with “blood cell whose haemoglobin transports oxygen”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "white blood cell"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "red blood cell",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q06",
+          "question": "Which structure, process or concept matches the description “blood cell whose haemoglobin transports oxygen”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "B",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "C",
+              "text": "platelet"
+            },
+            {
+              "label": "D",
+              "text": "red blood cell"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "red blood cell",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q07",
+          "question": "Choose the accurate statement about red blood cell.",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "B",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "C",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "D",
+              "text": "blood component involved in clot formation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "blood cell whose haemoglobin transports oxygen",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q08",
+          "question": "A diagram or observation identifies red blood cell. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "B",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "C",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "D",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "blood cell whose haemoglobin transports oxygen",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q09",
+          "question": "Which pairing is correct for red blood cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "B",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "C",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "D",
+              "text": "blood flow between heart and lungs"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "blood cell whose haemoglobin transports oxygen",
+          "explanation": "Its biconcave shape supports gas exchange."
+        },
+        {
+          "id": "BIO2_CH04_Q10",
+          "question": "In a topic review, which answer best explains the clue “blood cell whose haemoglobin transports oxygen”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "C",
+              "text": "red blood cell"
+            },
+            {
+              "label": "D",
+              "text": "white blood cell"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "red blood cell",
+          "explanation": "Its biconcave shape supports gas exchange."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH04_T02",
+      "topic_name": "White Blood Cell",
+      "mcqs": [
+        {
+          "id": "BIO2_CH04_Q11",
+          "question": "Which term is correctly described as: blood cell involved in body defence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "white blood cell"
+            },
+            {
+              "label": "C",
+              "text": "red blood cell"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "white blood cell",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q12",
+          "question": "The biological role or defining feature of white blood cell is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "B",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "C",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "D",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "blood cell involved in body defence",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q13",
+          "question": "A student records the following clue: “blood cell involved in body defence.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "red blood cell"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "white blood cell"
+            },
+            {
+              "label": "D",
+              "text": "pulmonary circulation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "white blood cell",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q14",
+          "question": "Which option completes this statement correctly? white blood cell is the term for blood cell involved in body defence.",
+          "options": [
+            {
+              "label": "A",
+              "text": "white blood cell"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "D",
+              "text": "platelet"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "white blood cell",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q15",
+          "question": "If an examination asks for the term associated with “blood cell involved in body defence”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "white blood cell"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "D",
+              "text": "platelet"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "white blood cell",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q16",
+          "question": "Which structure, process or concept matches the description “blood cell involved in body defence”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "red blood cell"
+            },
+            {
+              "label": "B",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "D",
+              "text": "white blood cell"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "white blood cell",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q17",
+          "question": "Choose the accurate statement about white blood cell.",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "B",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "C",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "D",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "blood cell involved in body defence",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q18",
+          "question": "A diagram or observation identifies white blood cell. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "B",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "C",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "D",
+              "text": "blood cell involved in body defence"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "blood cell involved in body defence",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q19",
+          "question": "Which pairing is correct for white blood cell?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "B",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "C",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "D",
+              "text": "blood cell involved in body defence"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "blood cell involved in body defence",
+          "explanation": "Different types participate in immune responses."
+        },
+        {
+          "id": "BIO2_CH04_Q20",
+          "question": "In a topic review, which answer best explains the clue “blood cell involved in body defence”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "D",
+              "text": "white blood cell"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "white blood cell",
+          "explanation": "Different types participate in immune responses."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH04_T03",
+      "topic_name": "Platelet",
+      "mcqs": [
+        {
+          "id": "BIO2_CH04_Q21",
+          "question": "Which term is correctly described as: blood component involved in clot formation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "white blood cell"
+            },
+            {
+              "label": "D",
+              "text": "platelet"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "platelet",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q22",
+          "question": "The biological role or defining feature of platelet is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "B",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "C",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "D",
+              "text": "blood cell involved in body defence"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "blood component involved in clot formation",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q23",
+          "question": "A student records the following clue: “blood component involved in clot formation.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "white blood cell"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "D",
+              "text": "platelet"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "platelet",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q24",
+          "question": "Which option completes this statement correctly? platelet is the term for blood component involved in clot formation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "red blood cell"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "white blood cell"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "platelet",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q25",
+          "question": "If an examination asks for the term associated with “blood component involved in clot formation”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "platelet"
+            },
+            {
+              "label": "B",
+              "text": "white blood cell"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "D",
+              "text": "red blood cell"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "platelet",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q26",
+          "question": "Which structure, process or concept matches the description “blood component involved in clot formation”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "B",
+              "text": "white blood cell"
+            },
+            {
+              "label": "C",
+              "text": "red blood cell"
+            },
+            {
+              "label": "D",
+              "text": "platelet"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "platelet",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q27",
+          "question": "Choose the accurate statement about platelet.",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "B",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "C",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "D",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "blood component involved in clot formation",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q28",
+          "question": "A diagram or observation identifies platelet. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "B",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "C",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "D",
+              "text": "blood cell involved in body defence"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "blood component involved in clot formation",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q29",
+          "question": "Which pairing is correct for platelet?",
+          "options": [
+            {
+              "label": "A",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "B",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "C",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "D",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "blood component involved in clot formation",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        },
+        {
+          "id": "BIO2_CH04_Q30",
+          "question": "In a topic review, which answer best explains the clue “blood component involved in clot formation”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "red blood cell"
+            },
+            {
+              "label": "B",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "C",
+              "text": "platelet"
+            },
+            {
+              "label": "D",
+              "text": "pulmonary circulation"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "platelet",
+          "explanation": "Platelets help form a plug at a damaged vessel."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH04_T04",
+      "topic_name": "Atrioventricular Valve",
+      "mcqs": [
+        {
+          "id": "BIO2_CH04_Q31",
+          "question": "Which term is correctly described as: heart valve preventing backflow from ventricle to atrium?",
+          "options": [
+            {
+              "label": "A",
+              "text": "red blood cell"
+            },
+            {
+              "label": "B",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "C",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "D",
+              "text": "platelet"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "atrioventricular valve",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q32",
+          "question": "The biological role or defining feature of atrioventricular valve is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "B",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "C",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "D",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "heart valve preventing backflow from ventricle to atrium",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q33",
+          "question": "A student records the following clue: “heart valve preventing backflow from ventricle to atrium.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "white blood cell"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "atrioventricular valve",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q34",
+          "question": "Which option completes this statement correctly? atrioventricular valve is the term for heart valve preventing backflow from ventricle to atrium.",
+          "options": [
+            {
+              "label": "A",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "red blood cell"
+            },
+            {
+              "label": "D",
+              "text": "white blood cell"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "atrioventricular valve",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q35",
+          "question": "If an examination asks for the term associated with “heart valve preventing backflow from ventricle to atrium”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "D",
+              "text": "red blood cell"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "atrioventricular valve",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q36",
+          "question": "Which structure, process or concept matches the description “heart valve preventing backflow from ventricle to atrium”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "platelet"
+            },
+            {
+              "label": "B",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "C",
+              "text": "white blood cell"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "atrioventricular valve",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q37",
+          "question": "Choose the accurate statement about atrioventricular valve.",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "B",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "C",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "D",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "heart valve preventing backflow from ventricle to atrium",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q38",
+          "question": "A diagram or observation identifies atrioventricular valve. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "B",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "C",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "D",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "heart valve preventing backflow from ventricle to atrium",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q39",
+          "question": "Which pairing is correct for atrioventricular valve?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "B",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "C",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "D",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "heart valve preventing backflow from ventricle to atrium",
+          "explanation": "It closes when the ventricle contracts."
+        },
+        {
+          "id": "BIO2_CH04_Q40",
+          "question": "In a topic review, which answer best explains the clue “heart valve preventing backflow from ventricle to atrium”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "white blood cell"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "platelet"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "D",
+          "correct_answer_text": "atrioventricular valve",
+          "explanation": "It closes when the ventricle contracts."
+        }
+      ]
+    },
+    {
+      "topic_id": "BIO2_CH04_T05",
+      "topic_name": "Pulmonary Circulation",
+      "mcqs": [
+        {
+          "id": "BIO2_CH04_Q41",
+          "question": "Which term is correctly described as: blood flow between heart and lungs?",
+          "options": [
+            {
+              "label": "A",
+              "text": "white blood cell"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "D",
+              "text": "platelet"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "pulmonary circulation",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q42",
+          "question": "The biological role or defining feature of pulmonary circulation is best stated as:",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "B",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "C",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "D",
+              "text": "blood cell involved in body defence"
+            }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "blood flow between heart and lungs",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q43",
+          "question": "A student records the following clue: “blood flow between heart and lungs.” Which term should be entered?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "white blood cell"
+            },
+            {
+              "label": "C",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "D",
+              "text": "red blood cell"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "pulmonary circulation",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q44",
+          "question": "Which option completes this statement correctly? pulmonary circulation is the term for blood flow between heart and lungs.",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "red blood cell"
+            },
+            {
+              "label": "C",
+              "text": "platelet"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "pulmonary circulation",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q45",
+          "question": "If an examination asks for the term associated with “blood flow between heart and lungs”, which answer is most appropriate?",
+          "options": [
+            {
+              "label": "A",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "B",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "C",
+              "text": "red blood cell"
+            },
+            {
+              "label": "D",
+              "text": "white blood cell"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "pulmonary circulation",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q46",
+          "question": "Which structure, process or concept matches the description “blood flow between heart and lungs”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "red blood cell"
+            },
+            {
+              "label": "D",
+              "text": "atrioventricular valve"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "pulmonary circulation",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q47",
+          "question": "Choose the accurate statement about pulmonary circulation.",
+          "options": [
+            {
+              "label": "A",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            },
+            {
+              "label": "B",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "C",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "D",
+              "text": "blood component involved in clot formation"
+            }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "blood flow between heart and lungs",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q48",
+          "question": "A diagram or observation identifies pulmonary circulation. Which interpretation agrees with the guide?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "B",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "C",
+              "text": "blood cell involved in body defence"
+            },
+            {
+              "label": "D",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "blood flow between heart and lungs",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q49",
+          "question": "Which pairing is correct for pulmonary circulation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "blood flow between heart and lungs"
+            },
+            {
+              "label": "B",
+              "text": "blood cell whose haemoglobin transports oxygen"
+            },
+            {
+              "label": "C",
+              "text": "blood component involved in clot formation"
+            },
+            {
+              "label": "D",
+              "text": "heart valve preventing backflow from ventricle to atrium"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "blood flow between heart and lungs",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        },
+        {
+          "id": "BIO2_CH04_Q50",
+          "question": "In a topic review, which answer best explains the clue “blood flow between heart and lungs”?",
+          "options": [
+            {
+              "label": "A",
+              "text": "pulmonary circulation"
+            },
+            {
+              "label": "B",
+              "text": "platelet"
+            },
+            {
+              "label": "C",
+              "text": "atrioventricular valve"
+            },
+            {
+              "label": "D",
+              "text": "red blood cell"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "pulmonary circulation",
+          "explanation": "It carries blood to the lungs for gas exchange and back to the heart."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1358 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 3,
+  "chapter_title": "Special Phrases, Idioms and Completing Sentences",
+  "total_questions": 50,
+  "topics": [
+    {
+      "topic_name": "Special Uses - 'Would Rather' and 'Had Better'",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-001",
+          "question": "Fill in the blank with the appropriate special phrase: 'I ______ starve than steal from another person.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "would rather"
+            },
+            {
+              "label": "B",
+              "text": "had better"
+            },
+            {
+              "label": "C",
+              "text": "have to"
+            },
+            {
+              "label": "D",
+              "text": "as if"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "would rather",
+          "explanation": "'Would rather... than...' is the standard idiomatic construction expressing strong personal preference between two choices.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-002",
+          "question": "Fill in the blank: 'The sky is overcast with dark storm clouds; you ______ take an umbrella with you.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "had better"
+            },
+            {
+              "label": "B",
+              "text": "would rather"
+            },
+            {
+              "label": "C",
+              "text": "let alone"
+            },
+            {
+              "label": "D",
+              "text": "what if"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "had better",
+          "explanation": "'Had better' gives strong practical advice or warning about an immediate situation, followed by a bare infinitive ('take').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-003",
+          "question": "What verb form directly follows 'had better' in standard English?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Bare infinitive (base form of verb without 'to')"
+            },
+            {
+              "label": "B",
+              "text": "Infinitive with 'to'"
+            },
+            {
+              "label": "C",
+              "text": "Present participle (verb+ing)"
+            },
+            {
+              "label": "D",
+              "text": "Past participle"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Bare infinitive (base form of verb without 'to')",
+          "explanation": "'Had better' functions as a modal auxiliary and takes the bare infinitive ('You had better leave now').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-004",
+          "question": "Which sentence correctly uses 'would rather' to express preference?",
+          "options": [
+            {
+              "label": "A",
+              "text": "She would rather stay at home than go to the cinema tonight."
+            },
+            {
+              "label": "B",
+              "text": "She would rather to stay at home than going."
+            },
+            {
+              "label": "C",
+              "text": "She would rather staying at home than go."
+            },
+            {
+              "label": "D",
+              "text": "She had rather stay at home to go."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "She would rather stay at home than go to the cinema tonight.",
+          "explanation": "Both verbs linked by 'would rather... than...' must be in the bare infinitive ('stay... go').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-005",
+          "question": "When 'would rather' is followed by a subordinate subject clause (expressing a wish about someone else's action), what tense is used?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Past subjunctive (e.g. 'I would rather you didn't smoke here')"
+            },
+            {
+              "label": "B",
+              "text": "Present continuous"
+            },
+            {
+              "label": "C",
+              "text": "Future with will"
+            },
+            {
+              "label": "D",
+              "text": "Present perfect"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Past subjunctive (e.g. 'I would rather you didn't smoke here')",
+          "explanation": "When 'would rather' has a different grammatical subject in the subordinate clause, it takes the past tense to express present/future preference.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Special Uses - 'Let Alone' and 'What If'",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-006",
+          "question": "Fill in the blank: 'He cannot afford to buy a second-hand bicycle, ______ a brand-new luxury car.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "let alone"
+            },
+            {
+              "label": "B",
+              "text": "would rather"
+            },
+            {
+              "label": "C",
+              "text": "what if"
+            },
+            {
+              "label": "D",
+              "text": "as if"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "let alone",
+          "explanation": "'Let alone' is used after a negative statement to emphasize that something even more extreme or difficult is utterly out of the question.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-007",
+          "question": "Fill in the blank: '______ the connecting flight gets delayed due to the snowstorm?'",
+          "options": [
+            {
+              "label": "A",
+              "text": "What if"
+            },
+            {
+              "label": "B",
+              "text": "Let alone"
+            },
+            {
+              "label": "C",
+              "text": "Had better"
+            },
+            {
+              "label": "D",
+              "text": "Was born"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "What if",
+          "explanation": "'What if' introduces a hypothetical question expressing worry, concern, or speculation about a potential future event.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-008",
+          "question": "'The elderly patient cannot walk ten paces unassisted, ______ run a marathon.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "let alone"
+            },
+            {
+              "label": "B",
+              "text": "as though"
+            },
+            {
+              "label": "C",
+              "text": "would rather"
+            },
+            {
+              "label": "D",
+              "text": "what if"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "let alone",
+          "explanation": "'Let alone' highlights the impossibility of running a marathon given that the person cannot even walk ten steps.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-009",
+          "question": "What communicative function does 'what if' perform in conversation?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Hypothetical inquiry or suggesting possibilities with apprehension"
+            },
+            {
+              "label": "B",
+              "text": "Stating an absolute historical fact"
+            },
+            {
+              "label": "C",
+              "text": "Expressing gratitude"
+            },
+            {
+              "label": "D",
+              "text": "Ordering a meal in a restaurant"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Hypothetical inquiry or suggesting possibilities with apprehension",
+          "explanation": "'What if' poses a speculative scenario ('What will happen if...?') often reflecting anxiety or creative consideration.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-010",
+          "question": "Choose the correctly formed sentence with 'let alone':",
+          "options": [
+            {
+              "label": "A",
+              "text": "The little child cannot even recite the alphabet, let alone read an entire English novel."
+            },
+            {
+              "label": "B",
+              "text": "The little child can read an entire novel, let alone recite the alphabet."
+            },
+            {
+              "label": "C",
+              "text": "Let alone the child cannot recite the alphabet."
+            },
+            {
+              "label": "D",
+              "text": "The child cannot recite the alphabet what if an English novel."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "The little child cannot even recite the alphabet, let alone read an entire English novel.",
+          "explanation": "'Let alone' progresses from the simpler negative premise to the far more improbable accomplishment.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Special Uses - 'Was Born' and 'Have to / Has to'",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-011",
+          "question": "Fill in the blank: 'Kazi Nazrul Islam, the national poet of Bangladesh, ______ in Churulia in 1899.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "was born"
+            },
+            {
+              "label": "B",
+              "text": "has to be born"
+            },
+            {
+              "label": "C",
+              "text": "had better born"
+            },
+            {
+              "label": "D",
+              "text": "would rather born"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "was born",
+          "explanation": "'Was born' is the standard passive idiom used to denote the historical birth of a person in a specific time or place.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-012",
+          "question": "Fill in the blank: 'The semester examination begins tomorrow morning; the students ______ study tonight.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "have to"
+            },
+            {
+              "label": "B",
+              "text": "was born"
+            },
+            {
+              "label": "C",
+              "text": "let alone"
+            },
+            {
+              "label": "D",
+              "text": "what if"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "have to",
+          "explanation": "'Have to' expresses external necessity or compulsory obligation imposed by circumstances.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-013",
+          "question": "Choose the correct phrase: 'A candidate ______ secure at least 40% marks to qualify for the next interview.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "has to"
+            },
+            {
+              "label": "B",
+              "text": "was born"
+            },
+            {
+              "label": "C",
+              "text": "would rather"
+            },
+            {
+              "label": "D",
+              "text": "let alone"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "has to",
+          "explanation": "A singular 3rd-person subject ('A candidate') requires 'has to' to denote an institutional requirement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-014",
+          "question": "In biographical narratives, which tense does the passive verb 'was born' strictly reflect?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Past simple passive"
+            },
+            {
+              "label": "B",
+              "text": "Present perfect active"
+            },
+            {
+              "label": "C",
+              "text": "Future progressive"
+            },
+            {
+              "label": "D",
+              "text": "Past continuous active"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Past simple passive",
+          "explanation": "'Was born' is structurally a past simple passive form of the archaic verb 'bear' (to bring forth a child).",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-015",
+          "question": "How does 'have to' differ subtly from 'must' in formal English grammar?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'Must' reflects internal subjective obligation from the speaker, while 'have to' reflects external objective necessity"
+            },
+            {
+              "label": "B",
+              "text": "'Must' is only used in questions"
+            },
+            {
+              "label": "C",
+              "text": "'Have to' is only used in past tense"
+            },
+            {
+              "label": "D",
+              "text": "There is no difference in formal grammar"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'Must' reflects internal subjective obligation from the speaker, while 'have to' reflects external objective necessity",
+          "explanation": "'Must' expresses personal determination ('I must do this'), while 'have to' expresses external rules/regulations ('We have to wear uniforms').",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Special Uses - 'What Does... Look Like' and 'What's It Like'",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-016",
+          "question": "Fill in the blanks: '______ a prehistoric dinosaur ______?' asked the curious child.",
+          "options": [
+            {
+              "label": "A",
+              "text": "What does; look like"
+            },
+            {
+              "label": "B",
+              "text": "What is; like"
+            },
+            {
+              "label": "C",
+              "text": "How does; look"
+            },
+            {
+              "label": "D",
+              "text": "What was; looked"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "What does; look like",
+          "explanation": "'What does... look like?' inquires about the visual physical appearance of an object, animal, or person.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-017",
+          "question": "Fill in the blank: '______ swimming in the cool waters of a mountain stream on a hot summer day?'",
+          "options": [
+            {
+              "label": "A",
+              "text": "What's it like"
+            },
+            {
+              "label": "B",
+              "text": "What does look like"
+            },
+            {
+              "label": "C",
+              "text": "Had better"
+            },
+            {
+              "label": "D",
+              "text": "Would rather"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "What's it like",
+          "explanation": "'What's it like + gerund (-ing)?' inquires about a sensory or emotional experience ('How does it feel to do something?').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-018",
+          "question": "'______ your new English professor ______? Is he tall and bearded?'",
+          "options": [
+            {
+              "label": "A",
+              "text": "What does; look like"
+            },
+            {
+              "label": "B",
+              "text": "What's; like"
+            },
+            {
+              "label": "C",
+              "text": "How is; like"
+            },
+            {
+              "label": "D",
+              "text": "Where does; look like"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "What does; look like",
+          "explanation": "Because the follow-up asks about physical traits ('tall and bearded'), 'What does... look like?' is the appropriate construction.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-019",
+          "question": "What is the crucial difference between 'What does he look like?' and 'What is he like?'",
+          "options": [
+            {
+              "label": "A",
+              "text": "'What does he look like?' asks about physical appearance; 'What is he like?' asks about personality and character"
+            },
+            {
+              "label": "B",
+              "text": "'What is he like?' asks about his salary"
+            },
+            {
+              "label": "C",
+              "text": "They both ask about height only"
+            },
+            {
+              "label": "D",
+              "text": "'What does he look like?' is an informal slang expression"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'What does he look like?' asks about physical appearance; 'What is he like?' asks about personality and character",
+          "explanation": "Appearance is queried by 'look like', while character/temperament is queried by 'be like'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-020",
+          "question": "Complete the dialogue: '______ traveling alone in a foreign country without knowing the local language?'",
+          "options": [
+            {
+              "label": "A",
+              "text": "What's it like"
+            },
+            {
+              "label": "B",
+              "text": "What does look like"
+            },
+            {
+              "label": "C",
+              "text": "Let alone"
+            },
+            {
+              "label": "D",
+              "text": "As if"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "What's it like",
+          "explanation": "'What's it like + traveling...' asks for a description of what that unique experience feels like.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Introductory 'There' and Impersonal 'It'",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-021",
+          "question": "Fill in the blank with introductory 'there': '______ are sixty-four districts in Bangladesh.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "There"
+            },
+            {
+              "label": "B",
+              "text": "It"
+            },
+            {
+              "label": "C",
+              "text": "Here"
+            },
+            {
+              "label": "D",
+              "text": "They"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "There",
+          "explanation": "Introductory (existential) 'There' introduces the existence of things, followed here by the plural verb 'are'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-022",
+          "question": "Fill in the blank with impersonal 'it': '______ is raining cats and dogs outside.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "It"
+            },
+            {
+              "label": "B",
+              "text": "There"
+            },
+            {
+              "label": "C",
+              "text": "That"
+            },
+            {
+              "label": "D",
+              "text": "This"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It",
+          "explanation": "Impersonal or dummy 'It' is used as a formal subject for statements regarding weather, time, distance, and temperature.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-023",
+          "question": "'______ was once a wise hermit who lived in a secluded cave.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "There"
+            },
+            {
+              "label": "B",
+              "text": "It"
+            },
+            {
+              "label": "C",
+              "text": "He"
+            },
+            {
+              "label": "D",
+              "text": "That"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "There",
+          "explanation": "'There was once...' is the standard narrative opening introducing the presence of a person or setting.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-024",
+          "question": "'______ is twenty kilometers from the city center to the new international airport.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "It"
+            },
+            {
+              "label": "B",
+              "text": "There"
+            },
+            {
+              "label": "C",
+              "text": "That"
+            },
+            {
+              "label": "D",
+              "text": "Here"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "It",
+          "explanation": "Impersonal 'It' is required when stating distances ('It is 20 km from X to Y').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-025",
+          "question": "In the sentence 'It was Bangabandhu who inspired the nation in 1971', what grammatical structure is 'It was... who...'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "A Cleft Sentence used for focal emphasis"
+            },
+            {
+              "label": "B",
+              "text": "An indirect speech transformation"
+            },
+            {
+              "label": "C",
+              "text": "A passive participle construction"
+            },
+            {
+              "label": "D",
+              "text": "A comparative clause"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "A Cleft Sentence used for focal emphasis",
+          "explanation": "An 'it-cleft' sentence splits a single clause to place strong dramatic focus on a particular element (Bangabandhu).",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Completing Sentences with 'So That' and 'In Order That'",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-026",
+          "question": "Complete the sentence: 'He studies diligently so that he ______ secure first division in the board examination.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "can"
+            },
+            {
+              "label": "B",
+              "text": "could"
+            },
+            {
+              "label": "C",
+              "text": "would have"
+            },
+            {
+              "label": "D",
+              "text": "should"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "can",
+          "explanation": "When the main clause is in the present tense ('He studies'), 'so that' is followed by 'can' or 'may' + base verb.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-027",
+          "question": "Complete the sentence: 'The farmer worked hard in order that he ______ feed his large family.' (Main clause in past tense)",
+          "options": [
+            {
+              "label": "A",
+              "text": "could"
+            },
+            {
+              "label": "B",
+              "text": "can"
+            },
+            {
+              "label": "C",
+              "text": "may"
+            },
+            {
+              "label": "D",
+              "text": "will"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "could",
+          "explanation": "When the main clause is in the past tense ('worked'), the purpose clause after 'in order that' takes 'could' or 'might'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-028",
+          "question": "'We eat a balanced diet so that we ______ maintain good physical health.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "may"
+            },
+            {
+              "label": "B",
+              "text": "might"
+            },
+            {
+              "label": "C",
+              "text": "would have"
+            },
+            {
+              "label": "D",
+              "text": "could have"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "may",
+          "explanation": "'So that' expressing intended purpose after a present verb ('eat') takes 'may' or 'can'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-029",
+          "question": "What is the structural difference between 'so... that' and 'so that'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'So... that' expresses degree and result, while 'so that' expresses purpose"
+            },
+            {
+              "label": "B",
+              "text": "'So that' requires an adjective in the middle"
+            },
+            {
+              "label": "C",
+              "text": "'So... that' is only used in poetry"
+            },
+            {
+              "label": "D",
+              "text": "There is no grammatical difference"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'So... that' expresses degree and result, while 'so that' expresses purpose",
+          "explanation": "'He was so weak that he could not walk' (result of degree) vs 'He rested so that he could recover' (purpose).",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG203-MCQ-030",
+          "question": "Complete the sentence: 'The runner sprinted with all his might so that he ______ break the national record.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "might"
+            },
+            {
+              "label": "B",
+              "text": "may"
+            },
+            {
+              "label": "C",
+              "text": "can"
+            },
+            {
+              "label": "D",
+              "text": "shall"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "might",
+          "explanation": "Past tense verb 'sprinted' in the principal clause matches with 'might' in the subordinate purpose clause.",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Completing Sentences with 'Lest', 'Unless' and 'Until'",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-031",
+          "question": "Complete the sentence: 'Walk cautiously on the icy pavement lest you ______ slip and fall.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "should"
+            },
+            {
+              "label": "B",
+              "text": "would"
+            },
+            {
+              "label": "C",
+              "text": "will"
+            },
+            {
+              "label": "D",
+              "text": "shall"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "should",
+          "explanation": "'Lest' means 'for fear that' or 'to avoid the risk of', and its clause is traditionally formed with 'should + base verb'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-032",
+          "question": "Why is the use of 'not' grammatically FORBIDDEN in a clause governed by 'unless'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because 'unless' already has a negative meaning ('if not'), creating an erroneous double negative"
+            },
+            {
+              "label": "B",
+              "text": "Because 'unless' is an exclamation"
+            },
+            {
+              "label": "C",
+              "text": "Because 'unless' can only modify nouns"
+            },
+            {
+              "label": "D",
+              "text": "Because 'unless' must always end a sentence"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because 'unless' already has a negative meaning ('if not'), creating an erroneous double negative",
+          "explanation": "'Unless' inherently means 'if not'; adding 'not' in the same clause (e.g. 'unless you do not study') produces an incorrect double negative.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-033",
+          "question": "Complete the sentence: 'Wait in the library until I ______ back from the laboratory.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "come"
+            },
+            {
+              "label": "B",
+              "text": "will come"
+            },
+            {
+              "label": "C",
+              "text": "came"
+            },
+            {
+              "label": "D",
+              "text": "had come"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "come",
+          "explanation": "Clauses of time and condition after 'until', 'when', or 'as soon as' take the present simple tense when referring to future actions.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-034",
+          "question": "'You will fail in the final evaluation unless you ______ regularly.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "study"
+            },
+            {
+              "label": "B",
+              "text": "do not study"
+            },
+            {
+              "label": "C",
+              "text": "will study"
+            },
+            {
+              "label": "D",
+              "text": "did not study"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "study",
+          "explanation": "'Unless you study' correctly means 'If you do not study'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-035",
+          "question": "Identify the grammatically correct sentence with 'lest':",
+          "options": [
+            {
+              "label": "A",
+              "text": "He hid behind the curtain lest the guards should spot him."
+            },
+            {
+              "label": "B",
+              "text": "He hid behind the curtain lest the guards should not spot him."
+            },
+            {
+              "label": "C",
+              "text": "He hid behind the curtain lest the guards will spot him."
+            },
+            {
+              "label": "D",
+              "text": "He hid behind the curtain lest the guards did not spot him."
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "He hid behind the curtain lest the guards should spot him.",
+          "explanation": "'Lest' must not contain another negative word like 'not', making option A the only grammatically correct sentence.",
+          "difficulty": "Hard"
+        }
+      ]
+    },
+    {
+      "topic_name": "Correlative Adverbs - 'No Sooner Had', 'Scarcely Had', 'Hardly Had'",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-036",
+          "question": "Complete the correlative pair: 'No sooner had the bell rung ______ the students rushed out of the classroom.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "than"
+            },
+            {
+              "label": "B",
+              "text": "when"
+            },
+            {
+              "label": "C",
+              "text": "then"
+            },
+            {
+              "label": "D",
+              "text": "that"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "than",
+          "explanation": "The comparative adverb 'sooner' is strictly correlated with 'than' ('No sooner had... than...').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-037",
+          "question": "Complete the sentence: 'Hardly had we reached the terminal ______ the express bus departed.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "when"
+            },
+            {
+              "label": "B",
+              "text": "than"
+            },
+            {
+              "label": "C",
+              "text": "then"
+            },
+            {
+              "label": "D",
+              "text": "as"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "when",
+          "explanation": "'Hardly had...' and 'Scarcely had...' are always correlated with 'when' (or 'before'), never 'than'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-038",
+          "question": "What is the tense of the second clause in: 'No sooner had the thief seen the police than he (run) ______ away'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "ran (Simple Past)"
+            },
+            {
+              "label": "B",
+              "text": "had run (Past Perfect)"
+            },
+            {
+              "label": "C",
+              "text": "runs (Simple Present)"
+            },
+            {
+              "label": "D",
+              "text": "was running (Past Continuous)"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "ran (Simple Past)",
+          "explanation": "The clause following 'than' or 'when' takes the simple past tense ('ran').",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-039",
+          "question": "Why does subject-auxiliary inversion ('had the bell rung') occur after 'No sooner' at the start of a sentence?",
+          "options": [
+            {
+              "label": "A",
+              "text": "Because negative and restrictive adverbs placed sentence-initially trigger grammatical inversion"
+            },
+            {
+              "label": "B",
+              "text": "Because it is an interrogative question"
+            },
+            {
+              "label": "C",
+              "text": "Because 'sooner' is an imperative verb"
+            },
+            {
+              "label": "D",
+              "text": "Inversion is purely optional in slang"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Because negative and restrictive adverbs placed sentence-initially trigger grammatical inversion",
+          "explanation": "Fronted negative adverbs (No sooner, Hardly, Scarcely, Never) trigger subject-auxiliary inversion in formal English.",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG203-MCQ-040",
+          "question": "'As soon as the teacher entered the classroom, the students ______ silent.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "became"
+            },
+            {
+              "label": "B",
+              "text": "had become"
+            },
+            {
+              "label": "C",
+              "text": "become"
+            },
+            {
+              "label": "D",
+              "text": "will become"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "became",
+          "explanation": "In sentences with 'As soon as', both clauses typically share the simple past tense without inversion ('entered... became').",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Conditional Sentence Completions (Provided That, In Case)",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-041",
+          "question": "Fill in the blank: 'You will easily pass the driving test provided that you ______ all traffic guidelines.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "follow"
+            },
+            {
+              "label": "B",
+              "text": "will follow"
+            },
+            {
+              "label": "C",
+              "text": "followed"
+            },
+            {
+              "label": "D",
+              "text": "had followed"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "follow",
+          "explanation": "'Provided that' functions as a conditional conjunction meaning 'on condition that / if', taking the present simple tense ('follow').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-042",
+          "question": "'Take an umbrella with you in case it ______ later this afternoon.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "rains"
+            },
+            {
+              "label": "B",
+              "text": "will rain"
+            },
+            {
+              "label": "C",
+              "text": "rained"
+            },
+            {
+              "label": "D",
+              "text": "would rain"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "rains",
+          "explanation": "'In case' expresses precaution against a potential occurrence and takes the simple present tense ('rains').",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-043",
+          "question": "What is the difference between 'if' and 'in case'?",
+          "options": [
+            {
+              "label": "A",
+              "text": "'In case' describes taking a precaution BEFORE an event happens, while 'if' describes an action performed ONLY IF the event happens"
+            },
+            {
+              "label": "B",
+              "text": "'In case' is only used in past tense"
+            },
+            {
+              "label": "C",
+              "text": "'If' cannot be used with future time"
+            },
+            {
+              "label": "D",
+              "text": "There is no functional distinction"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "'In case' describes taking a precaution BEFORE an event happens, while 'if' describes an action performed ONLY IF the event happens",
+          "explanation": "'I'll take an umbrella in case it rains' (I take it now as a precaution) vs 'I'll open the umbrella if it rains' (only when rain begins).",
+          "difficulty": "Hard"
+        },
+        {
+          "id": "ENG203-MCQ-044",
+          "question": "'The bank will sanction the home loan provided that the applicant ______ a clean credit record.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "submits"
+            },
+            {
+              "label": "B",
+              "text": "will submit"
+            },
+            {
+              "label": "C",
+              "text": "submitted"
+            },
+            {
+              "label": "D",
+              "text": "submit"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "submits",
+          "explanation": "'The applicant' is third-person singular, taking the singular present verb 'submits' after 'provided that'.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-045",
+          "question": "Complete the inversion: '______ I discovered the hidden truth earlier, I would have warned the committee.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "Had"
+            },
+            {
+              "label": "B",
+              "text": "If"
+            },
+            {
+              "label": "C",
+              "text": "Did"
+            },
+            {
+              "label": "D",
+              "text": "Were"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Had",
+          "explanation": "An inverted past perfect third conditional begins with 'Had + subject + past participle' ('Had I discovered...').",
+          "difficulty": "Medium"
+        }
+      ]
+    },
+    {
+      "topic_name": "Proverbs and Sentential Completions in Board Context",
+      "questions": [
+        {
+          "id": "ENG203-MCQ-046",
+          "question": "Complete the famous proverb: 'Time and tide ______ for none.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "wait"
+            },
+            {
+              "label": "B",
+              "text": "waits"
+            },
+            {
+              "label": "C",
+              "text": "waiting"
+            },
+            {
+              "label": "D",
+              "text": "is waiting"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "wait",
+          "explanation": "The traditional idiomatic proverb treats 'Time and tide' as two distinct forces, taking the plural verb 'wait'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-047",
+          "question": "Complete the proverb: 'A stitch in time ______.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "saves nine"
+            },
+            {
+              "label": "B",
+              "text": "saves ten"
+            },
+            {
+              "label": "C",
+              "text": "prevents all tears"
+            },
+            {
+              "label": "D",
+              "text": "makes clothes new"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "saves nine",
+          "explanation": "The proverb 'A stitch in time saves nine' means that timely remedial action prevents much larger problems later.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-048",
+          "question": "Complete the sentence: 'Where there is a will, ______.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "there is a way"
+            },
+            {
+              "label": "B",
+              "text": "there is fortune"
+            },
+            {
+              "label": "C",
+              "text": "success is immediate"
+            },
+            {
+              "label": "D",
+              "text": "there are many obstacles"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "there is a way",
+          "explanation": "'Where there is a will, there is a way' implies that determination will always find an avenue to accomplish a goal.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ENG203-MCQ-049",
+          "question": "Complete the saying: 'Strike the iron ______.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "while it is hot"
+            },
+            {
+              "label": "B",
+              "text": "before it gets cold"
+            },
+            {
+              "label": "C",
+              "text": "when you have tools"
+            },
+            {
+              "label": "D",
+              "text": "until it bends"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "while it is hot",
+          "explanation": "'Strike the iron while it is hot' means to take immediate advantage of a favorable opportunity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ENG203-MCQ-050",
+          "question": "'United we stand, ______.'",
+          "options": [
+            {
+              "label": "A",
+              "text": "divided we fall"
+            },
+            {
+              "label": "B",
+              "text": "together we conquer"
+            },
+            {
+              "label": "C",
+              "text": "divided we perish"
+            },
+            {
+              "label": "D",
+              "text": "alone we fail"
+            }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "divided we fall",
+          "explanation": "The universal proverb reminding us of the paramount necessity of social solidarity is 'United we stand, divided we fall.'",
+          "difficulty": "Hard"
+        }
+      ]
+    }
+  ]
+}

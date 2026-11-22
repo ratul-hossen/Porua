@@ -1,0 +1,56 @@
+{
+  "class": "HSC",
+  "stream": "Compulsory (All Groups)",
+  "subject": "Information and Communication Technology (ICT)",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 6,
+  "total_questions": 300,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Information and Communication Technology: World and Bangladesh Perspective",
+      "file": "chapter_01.json",
+      "question_count": 50
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Communication Systems and Networking",
+      "file": "chapter_02.json",
+      "question_count": 50
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Number Systems and Digital Devices",
+      "file": "chapter_03.json",
+      "question_count": 50
+    },
+    {
+      "chapter_number": 4,
+      "chapter_title": "Introduction to Web Design and HTML",
+      "file": "chapter_04.json",
+      "question_count": 50
+    },
+    {
+      "chapter_number": 5,
+      "chapter_title": "Programming Language (C Programming)",
+      "file": "chapter_05.json",
+      "question_count": 50
+    },
+    {
+      "chapter_number": 6,
+      "chapter_title": "Database Management System (DBMS)",
+      "file": "chapter_06.json",
+      "question_count": 50
+    }
+  ],
+  "question_schema": {
+    "id": "Unique question identifier (e.g., ICT01-MCQ-001)",
+    "question": "Question text in English",
+    "options": "Four options labelled A-D",
+    "correct_answer": "Correct option label (A, B, C, or D)",
+    "correct_answer_text": "Text of the correct option",
+    "explanation": "Clear explanation explaining why the answer is correct",
+    "difficulty": "Easy, Medium, or Hard"
+  }
+}
