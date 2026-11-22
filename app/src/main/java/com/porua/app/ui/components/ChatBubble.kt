@@ -53,12 +53,13 @@ fun UserChatBubble(
             modifier = Modifier
                 .fillMaxWidth(0.85f)
                 .clip(ShapeLg)
-                .background(colors.primary)
+                .background(colors.surface)
+                .border(1.dp, colors.border, ShapeLg)
                 .padding(14.dp)
         ) {
             Text(
                 text = message,
-                color = Color.White,
+                color = colors.primary,
                 fontSize = 14.sp,
                 lineHeight = 20.sp,
                 fontWeight = FontWeight.Medium
