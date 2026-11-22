@@ -4,6 +4,9 @@
     <!-- Internet Permission for AI API calls -->
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <!-- Audio Recording Permission for Voice Typing -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
     <!-- Queries for Speech Recognition on Android 11+ (API 30+) -->
     <queries>
         <intent>

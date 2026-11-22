@@ -3,6 +3,7 @@ package com.porua.app.ui.screens
 import android.app.Activity
 import android.content.Context
 import android.content.Intent
+import android.content.pm.PackageManager
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.net.Uri
@@ -12,6 +13,7 @@ import android.widget.Toast
 import java.io.ByteArrayOutputStream
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
+import androidx.core.content.ContextCompat
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
@@ -23,6 +25,7 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.imePadding
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
@@ -160,6 +163,27 @@ fun AskPoruaScreen(
             if (!spoken.isNullOrBlank()) {
                 inputText = if (inputText.isBlank()) spoken else "$inputText $spoken"
             }
+        }
+    }
+
+    // Audio recording permission launcher
+    val audioPermissionLauncher = rememberLauncherForActivityResult(
+        contract = ActivityResultContracts.RequestPermission()
+    ) { isGranted: Boolean ->
+        if (isGranted) {
+            val intent = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
+                putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
+                putExtra(RecognizerIntent.EXTRA_LANGUAGE, "bn-BD")
+                putExtra(RecognizerIntent.EXTRA_LANGUAGE_PREFERENCE, "bn-BD")
+                putExtra(RecognizerIntent.EXTRA_PROMPT, "Speak your study question in Bangla or English...")
+            }
+            try {
+                speechLauncher.launch(intent)
+            } catch (e: Exception) {
+                Toast.makeText(context, "Voice input not supported on this device", Toast.LENGTH_SHORT).show()
+            }
+        } else {
+            Toast.makeText(context, "Microphone permission is required for voice typing", Toast.LENGTH_SHORT).show()
         }
     }
 
@@ -449,44 +473,108 @@ fun AskPoruaScreen(
             }
         }
 
-        // Quick Suggestion Chips (Context-Aware)
-        LazyRow(
-            modifier = Modifier
-                .fillMaxWidth()
-                .padding(horizontal = 16.dp, vertical = 6.dp),
-            horizontalArrangement = Arrangement.spacedBy(8.dp)
-        ) {
-            val suggestions = if (uiState.chatMessages.isEmpty()) {
-                listOf("Show formula sheet", "Explain Vectors basics", "How does Daniell Cell work?", "Explain Newton's Laws")
-            } else {
-                listOf("Explain simpler", "Give a similar MCQ", "Show formula sheet")
-            }
-            items(suggestions) { suggestion ->
-                PoruaFilterChip(
-                    text = suggestion,
-                    isSelected = false,
-                    onClick = {
-                        if (uiState.isAiTyping) return@PoruaFilterChip
-                        when (suggestion) {
-                            "Explain simpler" -> {
-                                val lastAiMsg = uiState.chatMessages.lastOrNull { it.sender == ChatSender.PORUA_AI }?.text ?: "the previous question"
-                                val snippet = if (lastAiMsg.length > 70) lastAiMsg.take(70) + "..." else lastAiMsg
-                                onSendMessage("Regarding: '$snippet', please explain this concept in much simpler and easier terms with an example.", null, "image/jpeg")
-                            }
-                            "Give a similar MCQ" -> {
-                                val lastAiMsg = uiState.chatMessages.lastOrNull { it.sender == ChatSender.PORUA_AI }?.text ?: "the previous question"
-                                val snippet = if (lastAiMsg.length > 70) lastAiMsg.take(70) + "..." else lastAiMsg
-                                onSendMessage("Based on: '$snippet', give 1 similar NCTB board-standard MCQ with 4 options (A, B, C, D) and explain the correct answer.", null, "image/jpeg")
-                            }
-                            "Show formula sheet" -> {
-                                onSendMessage("Show formula sheet with all relevant equations, laws, and SI units for this topic.", null, "image/jpeg")
-                            }
-                            else -> {
-                                onSendMessage(suggestion, null, "image/jpeg")
-                            }
+        // Quick Suggestion Chips (Context-Aware & Dynamic)
+        val showSuggestions = inputText.isBlank() &&
+                !uiState.isAiTyping &&
+                selectedImageUri == null &&
+                capturedBitmap == null
+
+        if (showSuggestions) {
+            val suggestions = remember(uiState.chatMessages.size) {
+                if (uiState.chatMessages.isEmpty()) {
+                    listOf(
+                        "নিউটনের ৩য় সূত্র ও ভরবেগ",
+                        "কার্নো ইঞ্জিনের দক্ষতা ও হিসাব",
+                        "ক্যালকুলাস অন্তরীকরণের নিয়ম",
+                        "জৈব যৌগের নামকরণ পদ্ধতি",
+                        "DNA রেপ্লিকেশন প্রক্রিয়া",
+                        "C প্রোগ্রামিং লুপ ও কন্ডিশন"
+                    )
+                } else {
+                    val lastText = uiState.chatMessages.lastOrNull()?.text?.lowercase() ?: ""
+                    when {
+                        lastText.contains("physics") || lastText.contains("পদার্থ") ||
+                        lastText.contains("বেগ") || lastText.contains("ত্বরণ") ||
+                        lastText.contains("বল") || lastText.contains("শক্তি") ||
+                        lastText.contains("মহাকর্ষ") || lastText.contains("তাপ") ||
+                        lastText.contains("তড়িৎ") || lastText.contains("তরঙ্গ") -> {
+                            listOf(
+                                "সূত্রের গাণিতিক উদাহরণ দেখাও",
+                                "এই বিষয়ের বোর্ড MCQ দাও",
+                                "অনুধাবনমূলক প্রশ্ন হিসেবে কীভাবে লিখবো?",
+                                "সহজ ভাষায় মূল ধারণা বুঝিয়ে বলো"
+                            )
+                        }
+                        lastText.contains("chem") || lastText.contains("রসায়ন") ||
+                        lastText.contains("বিক্রিয়া") || lastText.contains("জৈব") ||
+                        lastText.contains("এসিড") || lastText.contains("মোল") ||
+                        lastText.contains("পর্যায়") || lastText.contains("বন্ধন") -> {
+                            listOf(
+                                "রাসায়নিক বিক্রিয়া ও মেকানিজম দেখাও",
+                                "বোর্ড স্ট্যান্ডার্ড CQ-এর নিয়ম বলো",
+                                "অনুরূপ একটি গুরুত্বপূর্ণ MCQ দাও",
+                                "বাস্তব উদাহরণ দিয়ে বুঝাও"
+                            )
+                        }
+                        lastText.contains("math") || lastText.contains("গণিত") ||
+                        lastText.contains("অন্তরীকরণ") || lastText.contains("যোগজীকরণ") ||
+                        lastText.contains("ক্যালকুলাস") || lastText.contains("ম্যাট্রিক্স") ||
+                        lastText.contains("সরলরেখা") || lastText.contains("ত্রিকোণমিতি") -> {
+                            listOf(
+                                "ধাপে ধাপে অঙ্কটি দেখাও",
+                                "কোনো শর্টকাট টেকনিক আছে?",
+                                "অনুরূপ আরেকটি গাণিতিক সমস্যা দাও",
+                                "বোর্ড পরীক্ষার জন্য মূল সূত্রগুলো দেখাও"
+                            )
+                        }
+                        lastText.contains("bio") || lastText.contains("জীব") ||
+                        lastText.contains("কোষ") || lastText.contains("ডিএনএ") ||
+                        lastText.contains("উদ্ভিদ") || lastText.contains("প্রাণী") ||
+                        lastText.contains("জেনেটিক্স") -> {
+                            listOf(
+                                "চিত্র বা ফ্লোচার্ট আকারে বলো",
+                                "পার্থক্য ছক আকারে সাজিয়ে দাও",
+                                "অনুধাবনমূলক প্রশ্নের ব্যাখ্যা দাও",
+                                "বোর্ডের জন্য মূল পয়েন্টগুলো দাও"
+                            )
+                        }
+                        lastText.contains("ict") || lastText.contains("আইসিটি") ||
+                        lastText.contains("প্রোগ্রামিং") || lastText.contains("লজিক") ||
+                        lastText.contains("কোড") || lastText.contains("html") -> {
+                            listOf(
+                                "একটি C কোড উদাহরণ দাও",
+                                "অ্যালগরিদম ও ফ্লোচার্ট দেখাও",
+                                "MCQ-এর জন্য শর্টকাট ট্রিকস দাও"
+                            )
+                        }
+                        else -> {
+                            listOf(
+                                "সহজ ভাষায় বুঝিয়ে বলো",
+                                "বোর্ড স্ট্যান্ডার্ড একটি MCQ দাও",
+                                "সূত্রের গাণিতিক উদাহরণ দেখাও",
+                                "সৃজনশীল প্রশ্নের ক ও খ বলো"
+                            )
                         }
                     }
-                )
+                }
+            }
+
+            LazyRow(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 16.dp, vertical = 6.dp),
+                horizontalArrangement = Arrangement.spacedBy(8.dp)
+            ) {
+                items(suggestions) { suggestion ->
+                    PoruaFilterChip(
+                        text = suggestion,
+                        isSelected = false,
+                        onClick = {
+                            if (uiState.isAiTyping) return@PoruaFilterChip
+                            onSendMessage(suggestion, null, "image/jpeg")
+                        }
+                    )
+                }
             }
         }
 
@@ -589,11 +677,12 @@ fun AskPoruaScreen(
                 onValueChange = { inputText = it },
                 placeholder = {
                     Text(
-                        text = if (selectedImageUri != null || capturedBitmap != null) "Ask a question about this picture..." else "Ask about your syllabus...",
+                        text = if (selectedImageUri != null || capturedBitmap != null) "Ask a question about this picture..." else "Ask any HSC Science question...",
                         fontSize = 13.sp,
                         color = colors.textMuted
                     )
                 },
+                maxLines = 4,
                 colors = TextFieldDefaults.colors(
                     focusedContainerColor = colors.surface2,
                     unfocusedContainerColor = colors.surface2,
@@ -603,26 +692,37 @@ fun AskPoruaScreen(
                 shape = ShapeFull,
                 modifier = Modifier
                     .weight(1f)
-                    .height(48.dp)
+                    .heightIn(min = 48.dp, max = 120.dp)
             )
 
             Spacer(modifier = Modifier.width(8.dp))
 
-            // Voice Mic button
+            // Voice Mic button (Bangla & English supported with Permission handling)
             Box(
                 modifier = Modifier
                     .size(44.dp)
                     .clip(CircleShape)
                     .background(colors.surface2)
                     .clickable {
-                        val intent = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
-                            putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
-                            putExtra(RecognizerIntent.EXTRA_PROMPT, "Speak your study question...")
-                        }
-                        try {
-                            speechLauncher.launch(intent)
-                        } catch (e: Exception) {
-                            Toast.makeText(context, "Voice input not supported on this device", Toast.LENGTH_SHORT).show()
+                        val hasAudioPermission = ContextCompat.checkSelfPermission(
+                            context,
+                            android.Manifest.permission.RECORD_AUDIO
+                        ) == PackageManager.PERMISSION_GRANTED
+
+                        if (hasAudioPermission) {
+                            val intent = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
+                                putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
+                                putExtra(RecognizerIntent.EXTRA_LANGUAGE, "bn-BD")
+                                putExtra(RecognizerIntent.EXTRA_LANGUAGE_PREFERENCE, "bn-BD")
+                                putExtra(RecognizerIntent.EXTRA_PROMPT, "Speak your study question in Bangla or English...")
+                            }
+                            try {
+                                speechLauncher.launch(intent)
+                            } catch (e: Exception) {
+                                Toast.makeText(context, "Voice input not supported on this device", Toast.LENGTH_SHORT).show()
+                            }
+                        } else {
+                            audioPermissionLauncher.launch(android.Manifest.permission.RECORD_AUDIO)
                         }
                     },
                 contentAlignment = Alignment.Center

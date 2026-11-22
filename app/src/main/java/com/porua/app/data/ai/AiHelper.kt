@@ -62,6 +62,11 @@ IDENTITY & MISSION:
   6. English (Grammar, writing, technical vocabulary for Science students)
 - You operate completely independently to provide exhaustive, accurate, and pedagogical academic assistance.
 
+LANGUAGE POLICY:
+- Primary default language is ENGLISH for all scientific explanations, derivations, and solutions.
+- Exception: If the user asks or writes in BENGALI or BANGLISH (e.g., "নিউটনের ৩য় সূত্রটি বলো", "solve kore dao", "ক্যালকুলাস কীভাবে করবো?"), you MUST answer in fluent, pedagogical, natural BENGALI with standard English scientific terms in parentheses (e.g., ত্বরণ (Acceleration), বল (Force), জারণ (Oxidation), অন্তরীকরণ (Differentiation)).
+- If the user asks in English, reply in complete, pristine academic English.
+
 CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
 1. MATHEMATICAL & NUMERICAL PROBLEM SOLVING:
    - Always break math and numerical problems into logical, structured steps:
@@ -83,17 +88,13 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
    - Explain why the correct option is right and briefly why other options are incorrect.
    - Provide shortcuts, dimensional analysis, or elimination tricks to save time in exams.
 
-4. BILINGUAL COMMUNICATIVE ADAPTABILITY:
-   - If the student writes in Bengali or Banglish, answer in fluent, pedagogical Bengali with standard English scientific terms in parentheses (e.g., মহাকর্ষ বল (Gravitational Force), জারণ-বিজারণ (Redox), অন্তরীকরণ (Differentiation)).
-   - If the student writes in English, reply in complete, pristine academic English.
-
-5. CLEAN FORMATTING RULES:
+4. CLEAN FORMATTING RULES:
    - ABSOLUTELY NO raw asterisks or markdown stars (*, **, or ***) anywhere in the text.
    - Write headers cleanly on new lines (e.g., "Given:", "Formula:", "Calculation:", "Answer:").
    - Do NOT use raw markdown table pipes (| or |---|); present comparisons using clean bullet points.
    - Write in clean, plain sentences and simple bullet points (- or •) with clean line breaks.
 
-6. STRICT HSC SCIENCE FOCUS & SCOPE:
+5. STRICT HSC SCIENCE FOCUS & SCOPE:
    - Your expertise is strictly dedicated to HSC Science (Class 11 & 12).
    - If a student asks questions outside HSC Science (such as movies, gaming, entertainment, politics, general chat, or non-science streams like Commerce or Arts):
      Politely decline:
@@ -678,14 +679,22 @@ How to solve this problem:
      * - Clean, readable plain text
      */
     fun sanitizeEducationalResponse(rawText: String): String {
-        val lines = rawText.lines()
+        // Strip code block fence tags (```json, ```markdown, ```) while keeping code content
+        var text = rawText
+            .replace(Regex("```[a-zA-Z]*\\n?"), "")
+            .replace("```", "")
+
+        // Remove HTML tags if model outputs <br>, <p>, <b>, etc.
+        text = text.replace(Regex("<[^>]*>"), "")
+
+        val lines = text.lines()
         val cleaned = mutableListOf<String>()
 
         for (line in lines) {
             val trimmed = line.trim()
 
-            // Skip markdown table dividers
-            if (trimmed.startsWith("|") && trimmed.contains("---")) continue
+            // Skip markdown table dividers (|---|---|)
+            if (trimmed.startsWith("|") && (trimmed.contains("---") || trimmed.contains("==="))) continue
 
             // Convert table row to bullet point
             if (trimmed.startsWith("|") && trimmed.endsWith("|")) {
@@ -707,12 +716,25 @@ How to solve this problem:
             // Remove leading markdown headers (###, ##, #)
             var cleanLine = trimmed.replace(Regex("^#+\\s*"), "")
 
+            // Remove markdown blockquote symbols (> )
+            cleanLine = cleanLine.replace(Regex("^>+\\s*"), "")
+
             // Remove all markdown asterisks (* and **)
             cleanLine = cleanLine.replace("*", "")
+
+            // Remove markdown underscore italics/bolds (_text_ -> text)
+            cleanLine = cleanLine.replace(Regex("(?<=\\s|^)_(.+?)_(?=\\s|\$)"), "$1")
+
+            // Remove stray markdown bracket citations like [1], [2]
+            cleanLine = cleanLine.replace(Regex("\\[\\d+\\]"), "")
+
+            // Clean multiple consecutive horizontal whitespace
+            cleanLine = cleanLine.replace(Regex("[ \\t]+"), " ")
 
             cleaned.add(cleanLine)
         }
 
-        return cleaned.joinToString("\n").trim()
+        // Collapse excessive consecutive blank lines into a single blank line
+        return cleaned.joinToString("\n").replace(Regex("\\n{3,}"), "\n\n").trim()
     }
 }
