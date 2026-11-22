@@ -42,8 +42,14 @@ object AiHelper {
     const val GROQ_FAST_FALLBACK = "llama-3.1-8b-instant"
     const val GROK_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 
-    // === IN-MEMORY CACHE (Fast 0ms response for repeated queries) ===
-    private val queryMemoryCache = java.util.concurrent.ConcurrentHashMap<String, String>()
+    // === IN-MEMORY LRU CACHE (Max 50 items, thread-safe, prevents memory leak) ===
+    private val queryMemoryCache = java.util.Collections.synchronizedMap(
+        object : java.util.LinkedHashMap<String, String>(60, 0.75f, true) {
+            override fun removeEldestEntry(eldest: MutableMap.MutableEntry<String, String>?): Boolean {
+                return size > 50
+            }
+        }
+    )
 
     fun clearCache() {
         queryMemoryCache.clear()
@@ -109,11 +115,16 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
      * 4. If offline or no network, falls back to Porua's intelligent offline NCTB tutor.
      * 5. Strips stray asterisks and markdown symbols so the answer is always clean plain text.
      */
-    suspend fun askAi(prompt: String, imageBase64: String? = null, mimeType: String = "image/jpeg"): String = withContext(Dispatchers.IO) {
+    suspend fun askAi(
+        prompt: String,
+        imageBase64: String? = null,
+        mimeType: String = "image/jpeg",
+        history: List<Pair<String, String>> = emptyList()
+    ): String = withContext(Dispatchers.IO) {
         val googleReady = effectiveGoogleApiKey.isNotBlank()
         val grokReady = effectiveGrokApiKey.isNotBlank()
 
-        val cacheKey = if (imageBase64.isNullOrBlank()) prompt.trim().lowercase() else ""
+        val cacheKey = if (imageBase64.isNullOrBlank() && history.isEmpty()) prompt.trim().lowercase() else ""
         if (cacheKey.isNotBlank()) {
             val cached = queryMemoryCache[cacheKey]
             if (!cached.isNullOrBlank()) {
@@ -124,9 +135,9 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
         var googleError: String? = null
         var grokError: String? = null
 
-        // 1. Primary Provider: Google Gemini FIRST (Text & Vision)
+        // 1. Primary Provider: Google Gemini FIRST (Text & Vision + Multi-turn context)
         if (googleReady) {
-            val googleResult = askGoogle(prompt, imageBase64, mimeType)
+            val googleResult = askGoogle(prompt, imageBase64, mimeType, history)
             if (!googleResult.startsWith("Google API Error") && !googleResult.startsWith("Google API Connection Error")) {
                 val cleaned = sanitizeEducationalResponse(googleResult)
                 if (cacheKey.isNotBlank()) queryMemoryCache[cacheKey] = cleaned
@@ -136,9 +147,9 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
             }
         }
 
-        // 2. Secondary Provider / Fallback: Groq Cloud / xAI
+        // 2. Secondary Provider / Fallback: Groq Cloud / xAI (Multi-turn context)
         if (grokReady) {
-            val grokResult = askGrok(prompt, imageBase64, mimeType)
+            val grokResult = askGrok(prompt, imageBase64, mimeType, history)
             if (!grokResult.startsWith("Grok API Error") && !grokResult.startsWith("Grok API Connection Error")) {
                 val cleaned = sanitizeEducationalResponse(grokResult)
                 if (cacheKey.isNotBlank()) queryMemoryCache[cacheKey] = cleaned
@@ -151,7 +162,7 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
         // 3. If API keys were provided, but API failed with error:
         if (googleReady || grokReady) {
             val sb = StringBuilder()
-            sb.append(" AI Connection Error:\n\n")
+            sb.append("⚠️ AI Connection Error:\n\n")
             if (googleError != null) {
                 sb.append("• Gemini Error: ").append(googleError).append("\n")
             }
@@ -159,7 +170,7 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
                 sb.append("• Groq/Grok Error: ").append(grokError).append("\n")
             }
             sb.append("\nPlease check: \n")
-            sb.append("1. Tap  at the top right to verify/re-enter your API Key.\n")
+            sb.append("1. Tap 🔑 at the top right to verify/re-enter your API Key.\n")
             sb.append("2. Ensure your key is valid and has active quota.\n")
             sb.append("3. Make sure your device is connected to the internet.\n\n")
             sb.append("--- [Offline Backup Response] ---\n")
@@ -174,23 +185,28 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
     }
 
     /**
-     * Google Gemini API (gemini-2.0-flash with fallback to gemini-1.5-flash)
+     * Google Gemini API (gemini-2.0-flash with fallback to gemini-1.5-flash + Multi-turn Context)
      */
-    suspend fun askGoogle(prompt: String, imageBase64: String? = null, mimeType: String = "image/jpeg"): String = withContext(Dispatchers.IO) {
+    suspend fun askGoogle(
+        prompt: String,
+        imageBase64: String? = null,
+        mimeType: String = "image/jpeg",
+        history: List<Pair<String, String>> = emptyList()
+    ): String = withContext(Dispatchers.IO) {
         val apiKey = effectiveGoogleApiKey
         if (apiKey.isBlank()) {
             return@withContext "Google Gemini API Key is not set! Please add your key in Settings or tap 🔑 in Ask Porua."
         }
 
         // Try primary model (gemini-2.0-flash)
-        val primaryResult = executeGoogleRequest(GEMINI_MODEL, prompt, imageBase64, mimeType)
+        val primaryResult = executeGoogleRequest(GEMINI_MODEL, prompt, imageBase64, mimeType, history)
         if (!primaryResult.startsWith("Google API Error") && !primaryResult.startsWith("Google API Connection Error")) {
             return@withContext primaryResult
         }
 
         // Try fallback to gemini-1.5-flash if not an explicit invalid API key error
         if (!primaryResult.contains("API_KEY_INVALID") && !primaryResult.contains("PERMISSION_DENIED")) {
-            val fallbackResult = executeGoogleRequest(GEMINI_FALLBACK_MODEL, prompt, imageBase64, mimeType)
+            val fallbackResult = executeGoogleRequest(GEMINI_FALLBACK_MODEL, prompt, imageBase64, mimeType, history)
             if (!fallbackResult.startsWith("Google API Error") && !fallbackResult.startsWith("Google API Connection Error")) {
                 return@withContext fallbackResult
             }
@@ -199,7 +215,13 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
         primaryResult
     }
 
-    private fun executeGoogleRequest(model: String, prompt: String, imageBase64: String?, mimeType: String): String {
+    private fun executeGoogleRequest(
+        model: String,
+        prompt: String,
+        imageBase64: String?,
+        mimeType: String,
+        history: List<Pair<String, String>> = emptyList()
+    ): String {
         var connection: HttpURLConnection? = null
         val apiKey = effectiveGoogleApiKey
         return try {
@@ -223,8 +245,22 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
                     })
                 })
 
-                // Contents (Text + optional inlineData)
-                val partsArray = JSONArray().apply {
+                val contentsArray = JSONArray()
+
+                // Append past turns (up to last 6 messages) for multi-turn context
+                val safeHistory = history.takeLast(6)
+                for (item in safeHistory) {
+                    val turnRole = if (item.first.equals("model", ignoreCase = true) || item.first.equals("assistant", ignoreCase = true)) "model" else "user"
+                    contentsArray.put(JSONObject().apply {
+                        put("role", turnRole)
+                        put("parts", JSONArray().apply {
+                            put(JSONObject().put("text", item.second))
+                        })
+                    })
+                }
+
+                // Append current user prompt & image
+                val currentParts = JSONArray().apply {
                     put(JSONObject().put("text", prompt))
                     if (!imageBase64.isNullOrBlank()) {
                         put(JSONObject().apply {
@@ -235,9 +271,11 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
                         })
                     }
                 }
-                val contentsArray = JSONArray().apply {
-                    put(JSONObject().put("parts", partsArray))
-                }
+                contentsArray.put(JSONObject().apply {
+                    put("role", "user")
+                    put("parts", currentParts)
+                })
+
                 put("contents", contentsArray)
 
                 // Generation Config: Low temperature for direct, factual, non-cluttered answers
@@ -293,9 +331,14 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
     }
 
     /**
-     * Grok / Groq / OpenAI Compatible API (auto Groq flagship routing)
+     * Grok / Groq / OpenAI Compatible API (auto Groq flagship routing + Multi-turn Context)
      */
-    suspend fun askGrok(prompt: String, imageBase64: String? = null, mimeType: String = "image/jpeg"): String = withContext(Dispatchers.IO) {
+    suspend fun askGrok(
+        prompt: String,
+        imageBase64: String? = null,
+        mimeType: String = "image/jpeg",
+        history: List<Pair<String, String>> = emptyList()
+    ): String = withContext(Dispatchers.IO) {
         val apiKey = effectiveGrokApiKey
         if (apiKey.isBlank()) {
             return@withContext "Grok/Groq API Key is not set! Please add your key in Settings > AI Configuration or tap 🔑 in Ask Porua."
@@ -314,7 +357,7 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
             else -> GROK_MODEL
         }
 
-        val primaryResult = executeGrokRequest(targetModel, prompt, imageBase64, mimeType)
+        val primaryResult = executeGrokRequest(targetModel, prompt, imageBase64, mimeType, history)
         if (!primaryResult.startsWith("Grok API Error") && !primaryResult.startsWith("Grok API Connection Error")) {
             return@withContext primaryResult
         }
@@ -322,7 +365,7 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
         // Fast fallback on Groq to 8b if 70b was busy (do not retry if key is invalid / 401 / 403)
         if (isGroq && !hasImage && targetModel != GROQ_FAST_FALLBACK &&
             !primaryResult.contains("401") && !primaryResult.contains("403")) {
-            val fastFallback = executeGrokRequest(GROQ_FAST_FALLBACK, prompt, imageBase64, mimeType)
+            val fastFallback = executeGrokRequest(GROQ_FAST_FALLBACK, prompt, imageBase64, mimeType, history)
             if (!fastFallback.startsWith("Grok API Error") && !fastFallback.startsWith("Grok API Connection Error")) {
                 return@withContext fastFallback
             }
@@ -331,7 +374,13 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
         primaryResult
     }
 
-    private fun executeGrokRequest(model: String, prompt: String, imageBase64: String?, mimeType: String): String {
+    private fun executeGrokRequest(
+        model: String,
+        prompt: String,
+        imageBase64: String?,
+        mimeType: String,
+        history: List<Pair<String, String>> = emptyList()
+    ): String {
         var connection: HttpURLConnection? = null
         val apiKey = effectiveGrokApiKey
         return try {
@@ -365,6 +414,16 @@ CORE CAPABILITIES & PEDAGOGICAL STRUCTURE:
                         put("role", "system")
                         put("content", SYSTEM_PROMPT)
                     })
+
+                    // Append past turns (up to last 6 messages) for multi-turn context
+                    val safeHistory = history.takeLast(6)
+                    for (item in safeHistory) {
+                        val turnRole = if (item.first.equals("model", ignoreCase = true) || item.first.equals("assistant", ignoreCase = true)) "assistant" else "user"
+                        put(JSONObject().apply {
+                            put("role", turnRole)
+                            put("content", item.second)
+                        })
+                    }
 
                     val userMessageObj = JSONObject().apply {
                         put("role", "user")

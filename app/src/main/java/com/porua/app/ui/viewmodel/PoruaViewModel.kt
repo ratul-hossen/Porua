@@ -292,6 +292,11 @@ class PoruaViewModel(
             text = displayText
         )
 
+        val historyTurns = _uiState.value.chatMessages
+            .takeLast(6)
+            .filter { it.text.isNotBlank() && !it.text.startsWith("⚠️") }
+            .map { Pair(if (it.sender == ChatSender.USER) "user" else "model", it.text) }
+
         _uiState.update {
             it.copy(
                 chatMessages = it.chatMessages + userMsg,
@@ -309,9 +314,9 @@ class PoruaViewModel(
                 val aiResponse = if (!cached.isNullOrBlank()) {
                     cached
                 } else if (useGrok) {
-                    AiHelper.askGrok(text.ifBlank { "Please solve or explain this question in detail." }, imageBase64, mimeType)
+                    AiHelper.askGrok(text.ifBlank { "Please solve or explain this question in detail." }, imageBase64, mimeType, historyTurns)
                 } else {
-                    AiHelper.askAi(text.ifBlank { "Please solve or explain this question in detail." }, imageBase64, mimeType)
+                    AiHelper.askAi(text.ifBlank { "Please solve or explain this question in detail." }, imageBase64, mimeType, historyTurns)
                 }
 
                 // Save conversation to Room Database (Flow will automatically emit updated messages to UI)

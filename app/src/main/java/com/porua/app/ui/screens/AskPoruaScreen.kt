@@ -748,11 +748,22 @@ fun AskPoruaScreen(
                             var base64: String? = null
                             var mime = "image/jpeg"
 
-                            // Handle directly captured bitmap
+                            // Handle directly captured bitmap with safe downsampling
                             if (capturedBitmap != null) {
                                 try {
+                                    var bmp = capturedBitmap!!
+                                    val maxDim = 1280
+                                    if (bmp.width > maxDim || bmp.height > maxDim) {
+                                        val aspect = bmp.width.toFloat() / bmp.height.toFloat()
+                                        val (w, h) = if (bmp.width > bmp.height) {
+                                            Pair(maxDim, (maxDim / aspect).toInt())
+                                        } else {
+                                            Pair((maxDim * aspect).toInt(), maxDim)
+                                        }
+                                        bmp = Bitmap.createScaledBitmap(bmp, w, h, true)
+                                    }
                                     val out = ByteArrayOutputStream()
-                                    capturedBitmap!!.compress(Bitmap.CompressFormat.JPEG, 85, out)
+                                    bmp.compress(Bitmap.CompressFormat.JPEG, 80, out)
                                     val bytes = out.toByteArray()
                                     base64 = Base64.encodeToString(bytes, Base64.NO_WRAP)
                                     mime = "image/jpeg"
