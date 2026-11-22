@@ -17,6 +17,10 @@ import androidx.core.content.ContextCompat
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.text.BasicTextField
+import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -701,29 +705,37 @@ fun AskPoruaScreen(
 
             Spacer(modifier = Modifier.width(8.dp))
 
-            // Text input box
-            TextField(
-                value = inputText,
-                onValueChange = { inputText = it },
-                placeholder = {
-                    Text(
-                        text = if (selectedImageUri != null || capturedBitmap != null) "Ask a question about this picture..." else "Ask any HSC Science question...",
-                        fontSize = 13.sp,
-                        color = colors.textMuted
-                    )
-                },
-                maxLines = 4,
-                colors = TextFieldDefaults.colors(
-                    focusedContainerColor = colors.surface2,
-                    unfocusedContainerColor = colors.surface2,
-                    focusedIndicatorColor = Color.Transparent,
-                    unfocusedIndicatorColor = Color.Transparent
-                ),
-                shape = ShapeFull,
+            // Sleek, compact text input bar (fixed 44dp height matching camera/mic buttons, max 80dp on multi-line)
+            Box(
                 modifier = Modifier
                     .weight(1f)
-                    .heightIn(min = 48.dp, max = 120.dp)
-            )
+                    .clip(ShapeFull)
+                    .background(colors.surface2)
+                    .heightIn(min = 44.dp, max = 80.dp)
+                    .padding(horizontal = 14.dp, vertical = 12.dp),
+                contentAlignment = Alignment.CenterStart
+            ) {
+                if (inputText.isEmpty()) {
+                    Text(
+                        text = if (selectedImageUri != null || capturedBitmap != null) "Ask about this picture..." else "Ask any HSC Science question...",
+                        fontSize = 13.sp,
+                        color = colors.textMuted,
+                        maxLines = 1,
+                        overflow = TextOverflow.Ellipsis
+                    )
+                }
+                BasicTextField(
+                    value = inputText,
+                    onValueChange = { inputText = it },
+                    textStyle = TextStyle(
+                        fontSize = 13.sp,
+                        color = colors.text
+                    ),
+                    maxLines = 3,
+                    cursorBrush = SolidColor(colors.primary),
+                    modifier = Modifier.fillMaxWidth()
+                )
+            }
 
             Spacer(modifier = Modifier.width(8.dp))
 
