@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "Basic Economic Problems and Scarcity",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Scarcity, Choice and Opportunity Cost",
+      "questions": [
+        {
+          "id": "ECO01-MCQ-001",
+          "question": "What is the root cause of all fundamental economic problems?",
+          "options": [
+            { "label": "A", "text": "Excess of natural resources" },
+            { "label": "B", "text": "Scarcity of resources relative to unlimited human wants" },
+            { "label": "C", "text": "Government taxation policies" },
+            { "label": "D", "text": "Lack of global trade agreements" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Scarcity of resources relative to unlimited human wants",
+          "explanation": "Human wants are unlimited while productive economic resources are strictly finite and scarce.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ECO01-MCQ-002",
+          "question": "Who defined Economics as 'the study of mankind in the ordinary business of life'?",
+          "options": [
+            { "label": "A", "text": "Adam Smith" },
+            { "label": "B", "text": "Alfred Marshall" },
+            { "label": "C", "text": "Lionel Robbins" },
+            { "label": "D", "text": "John Maynard Keynes" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Alfred Marshall",
+          "explanation": "Alfred Marshall provided the welfare definition of economics in his 1890 book 'Principles of Economics'.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ECO01-MCQ-003",
+          "question": "Opportunity cost is defined as:",
+          "options": [
+            { "label": "A", "text": "The monetary cost of buying goods" },
+            { "label": "B", "text": "The value of the next best alternative forgone" },
+            { "label": "C", "text": "Total production expenses incurred" },
+            { "label": "D", "text": "The sunk cost of past investments" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "The value of the next best alternative forgone",
+          "explanation": "Opportunity cost represents the sacrifice of the highest-valued forgone choice when a decision is made.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ECO01-MCQ-004",
+          "question": "Points lying inside a Production Possibility Curve (PPC) indicate:",
+          "options": [
+            { "label": "A", "text": "Unattainable output with current resources" },
+            { "label": "B", "text": "Inefficient or underutilized resources" },
+            { "label": "C", "text": "Maximum economic efficiency" },
+            { "label": "D", "text": "Economic expansion" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Inefficient or underutilized resources",
+          "explanation": "Points inside the PPC show that society is producing below its potential due to idle capacity or unemployment.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ECO01-MCQ-005",
+          "question": "In a market (capitalist) economic system, fundamental economic questions are resolved by:",
+          "options": [
+            { "label": "A", "text": "Central government planning committee" },
+            { "label": "B", "text": "Price mechanism (forces of demand and supply)" },
+            { "label": "C", "text": "Religious institutions" },
+            { "label": "D", "text": "International monetary bodies" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Price mechanism (forces of demand and supply)",
+          "explanation": "Adam Smith's 'invisible hand' or free market price mechanism guides resource allocation in capitalism.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

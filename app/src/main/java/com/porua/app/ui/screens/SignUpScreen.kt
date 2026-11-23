@@ -87,7 +87,7 @@ fun SignUpScreen(
     var generalError by remember { mutableStateOf<String?>(null) }
     var isLoading by remember { mutableStateOf(false) }
 
-    val groups = listOf("Science", "Humanities", "Business Studies")
+    val groups = listOf("Science", "Arts", "Commerce")
 
     val errNameEmpty = stringResource(R.string.err_name_empty)
     val errContactEmpty = stringResource(R.string.err_contact_empty)

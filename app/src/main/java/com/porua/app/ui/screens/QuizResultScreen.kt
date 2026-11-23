@@ -544,35 +544,9 @@ private fun ReviewQuestionCard(
             Spacer(modifier = Modifier.height(6.dp))
         }
 
-        // Explanation if available
-        if (question.explanation.isNotBlank()) {
-            Spacer(modifier = Modifier.height(8.dp))
-            Column(
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .clip(ShapeMd)
-                    .background(colors.primarySoft.copy(alpha = 0.4f))
-                    .padding(10.dp)
-            ) {
-                Text(
-                    text = "Textbook Explanation:",
-                    fontSize = 11.sp,
-                    fontWeight = FontWeight.Bold,
-                    color = colors.primary
-                )
-                Spacer(modifier = Modifier.height(2.dp))
-                Text(
-                    text = question.explanation,
-                    fontSize = 12.sp,
-                    color = colors.text,
-                    lineHeight = 16.sp
-                )
-            }
-        }
-
         Spacer(modifier = Modifier.height(10.dp))
 
-        // "Explain with AI" button (allowed ONLY here in review)
+        // Explanation card when user clicks "Explain"
         if (aiExplanation != null) {
             Column(
                 modifier = Modifier
@@ -582,19 +556,35 @@ private fun ReviewQuestionCard(
                     .border(1.dp, colors.primary.copy(alpha = 0.5f), ShapeMd)
                     .padding(12.dp)
             ) {
-                Row(verticalAlignment = Alignment.CenterVertically) {
-                    Icon(
-                        imageVector = Icons.Default.AutoAwesome,
-                        contentDescription = null,
-                        tint = colors.primary,
-                        modifier = Modifier.size(16.dp)
-                    )
-                    Spacer(modifier = Modifier.width(6.dp))
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Icon(
+                            imageVector = Icons.Default.Info,
+                            contentDescription = null,
+                            tint = colors.primary,
+                            modifier = Modifier.size(16.dp)
+                        )
+                        Spacer(modifier = Modifier.width(6.dp))
+                        Text(
+                            text = "Explanation",
+                            fontSize = 12.sp,
+                            fontWeight = FontWeight.Bold,
+                            color = colors.primary
+                        )
+                    }
+
                     Text(
-                        text = "Porua AI Tutor Explanation",
-                        fontSize = 12.sp,
-                        fontWeight = FontWeight.Bold,
-                        color = colors.primary
+                        text = "Hide",
+                        fontSize = 11.sp,
+                        fontWeight = FontWeight.SemiBold,
+                        color = colors.textMuted,
+                        modifier = Modifier
+                            .clickable { onExplainAi() }
+                            .padding(horizontal = 4.dp, vertical = 2.dp)
                     )
                 }
                 Spacer(modifier = Modifier.height(6.dp))
@@ -615,11 +605,11 @@ private fun ReviewQuestionCard(
             ) {
                 CircularProgressIndicator(modifier = Modifier.size(18.dp), strokeWidth = 2.dp, color = colors.primary)
                 Spacer(modifier = Modifier.width(8.dp))
-                Text("Analyzing question with Porua AI...", fontSize = 12.sp, color = colors.textMuted)
+                Text("Loading explanation...", fontSize = 12.sp, color = colors.textMuted)
             }
         } else {
             PoruaAiButton(
-                text = "Explain with AI",
+                text = "Explain",
                 onClick = onExplainAi,
                 modifier = Modifier.fillMaxWidth()
             )

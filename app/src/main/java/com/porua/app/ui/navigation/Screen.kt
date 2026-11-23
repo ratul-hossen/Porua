@@ -3,6 +3,7 @@ package com.porua.app.ui.navigation
 sealed class Screen(val route: String) {
     object Splash : Screen("splash")
     object Welcome : Screen("welcome")
+    object GetStarted : Screen("get_started")
     object SignUp : Screen("sign_up")
     object Login : Screen("login")
     object ExamTrack : Screen("exam_track")

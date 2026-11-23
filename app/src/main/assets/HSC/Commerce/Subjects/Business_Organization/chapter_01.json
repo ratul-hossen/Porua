@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "Nature and Scope of Business",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Fundamental Business Elements",
+      "questions": [
+        {
+          "id": "BUS01-MCQ-001",
+          "question": "What is the primary driving motive of any economic business activity?",
+          "options": [
+            { "label": "A", "text": "Social service only" },
+            { "label": "B", "text": "Earning profit" },
+            { "label": "C", "text": "Tax avoidance" },
+            { "label": "D", "text": "Political influence" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Earning profit",
+          "explanation": "Profit motive is the primary characteristic that distinguishes business from non-profit philanthropic activities.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "BUS01-MCQ-002",
+          "question": "Commerce primarily consists of:",
+          "options": [
+            { "label": "A", "text": "Industry and Agriculture" },
+            { "label": "B", "text": "Trade and Aids to Trade" },
+            { "label": "C", "text": "Manufacturing and Extraction" },
+            { "label": "D", "text": "Finance and Accounting" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Trade and Aids to Trade",
+          "explanation": "Commerce encompasses the buying and selling of goods (trade) along with facilitating services such as banking, insurance, transport, and warehousing.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "BUS01-MCQ-003",
+          "question": "Which of the following creates time utility for products?",
+          "options": [
+            { "label": "A", "text": "Transportation" },
+            { "label": "B", "text": "Warehousing" },
+            { "label": "C", "text": "Banking" },
+            { "label": "D", "text": "Advertising" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Warehousing",
+          "explanation": "Warehousing holds goods between production and consumption, thereby creating time utility.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "BUS01-MCQ-004",
+          "question": "Which aid to trade eliminates the risk of financial loss due to perils?",
+          "options": [
+            { "label": "A", "text": "Insurance" },
+            { "label": "B", "text": "Warehousing" },
+            { "label": "C", "text": "Transportation" },
+            { "label": "D", "text": "Packaging" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Insurance",
+          "explanation": "Insurance covers potential business risks and indemnifies against loss caused by unforeseen hazards.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "BUS01-MCQ-005",
+          "question": "Genetic industries are concerned with:",
+          "options": [
+            { "label": "A", "text": "Extracting minerals from the earth" },
+            { "label": "B", "text": "Breeding plants and animals for further reproduction" },
+            { "label": "C", "text": "Assembling machinery parts" },
+            { "label": "D", "text": "Building dams and bridges" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Breeding plants and animals for further reproduction",
+          "explanation": "Nurseries, cattle breeding farms, and poultry farming are prime examples of genetic industries.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

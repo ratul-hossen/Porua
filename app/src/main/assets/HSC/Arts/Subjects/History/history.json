@@ -1,0 +1,23 @@
+{
+  "class": "HSC",
+  "stream": "Arts",
+  "subject": "History of Bangladesh",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 2,
+  "total_questions": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The Language Movement (1952) and Road to Autonomy",
+      "file": "chapter_01.json",
+      "question_count": 5
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "The Historic Liberation War of Bangladesh (1971)",
+      "file": "chapter_02.json",
+      "question_count": 5
+    }
+  ]
+}

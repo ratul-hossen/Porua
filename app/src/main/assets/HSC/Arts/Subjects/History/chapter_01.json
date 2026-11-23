@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "The Language Movement (1952) and Road to Autonomy",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Historic 1952 Language Movement & 6-Point Programme",
+      "questions": [
+        {
+          "id": "HIS01-MCQ-001",
+          "question": "On which historic date did martyrs sacrifice their lives for the Bengali language in Dhaka?",
+          "options": [
+            { "label": "A", "text": "21 February 1952" },
+            { "label": "B", "text": "26 March 1971" },
+            { "label": "C", "text": "16 December 1971" },
+            { "label": "D", "text": "7 March 1971" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "21 February 1952",
+          "explanation": "On 21 February 1952, Salam, Barkat, Rafiq, Jabbar, and others were martyred defending the dignity of the mother tongue Bangla.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HIS01-MCQ-002",
+          "question": "UNESCO declared 21st February as International Mother Language Day in:",
+          "options": [
+            { "label": "A", "text": "1971" },
+            { "label": "B", "text": "1999" },
+            { "label": "C", "text": "2005" },
+            { "label": "D", "text": "1985" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "1999",
+          "explanation": "On 17 November 1999, UNESCO proclaimed 21 February as International Mother Language Day.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HIS01-MCQ-003",
+          "question": "Who placed the historic 6-Point Programme in 1966 in Lahore?",
+          "options": [
+            { "label": "A", "text": "Sher-e-Bangla A.K. Fazlul Huq" },
+            { "label": "B", "text": "Huseyn Shaheed Suhrawardy" },
+            { "label": "C", "text": "Bangabandhu Sheikh Mujibur Rahman" },
+            { "label": "D", "text": "Maulana Abdul Hamid Khan Bhashani" }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Bangabandhu Sheikh Mujibur Rahman",
+          "explanation": "Bangabandhu announced the 6-point charter of demands (Magna Carta of the Bengalis) in Lahore in February 1966.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HIS01-MCQ-004",
+          "question": "The historic 6-Point demand is known as the:",
+          "options": [
+            { "label": "A", "text": "Charter of Independence" },
+            { "label": "B", "text": "Magna Carta of the Bengali Nation" },
+            { "label": "C", "text": "Lahore Declaration" },
+            { "label": "D", "text": "Delhi Pact" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Magna Carta of the Bengali Nation",
+          "explanation": "The 6-point demand laid down the constitutional framework for regional autonomy and self-determination.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HIS01-MCQ-005",
+          "question": "In the 1970 Pakistan General Elections, Awami League won how many national assembly seats in East Pakistan?",
+          "options": [
+            { "label": "A", "text": "160 out of 162" },
+            { "label": "B", "text": "167 out of 169 (including women seats)" },
+            { "label": "C", "text": "150 out of 160" },
+            { "label": "D", "text": "130 out of 150" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "167 out of 169 (including women seats)",
+          "explanation": "Awami League achieved a landslide absolute majority by winning 167 of the 169 National Assembly seats allotted to East Pakistan.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

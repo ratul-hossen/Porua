@@ -1,0 +1,23 @@
+{
+  "class": "HSC",
+  "stream": "Commerce",
+  "subject": "Business Organization & Management",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 2,
+  "total_questions": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Nature and Scope of Business",
+      "file": "chapter_01.json",
+      "question_count": 5
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Forms of Business Ownership & Management",
+      "file": "chapter_02.json",
+      "question_count": 5
+    }
+  ]
+}

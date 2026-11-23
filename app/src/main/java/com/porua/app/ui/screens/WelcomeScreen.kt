@@ -47,8 +47,7 @@ import com.porua.app.ui.theme.ShapeSm
 
 @Composable
 fun WelcomeScreen(
-    onSignUpClick: () -> Unit,
-    onLoginClick: () -> Unit
+    onGetStartedClick: () -> Unit
 ) {
     val colors = LocalPoruaColors.current
     val scrollState = rememberScrollState()
@@ -274,17 +273,10 @@ fun WelcomeScreen(
         Spacer(modifier = Modifier.weight(1f, fill = false))
         Spacer(modifier = Modifier.height(28.dp))
 
-        // Action Buttons
+        // Action Button
         PoruaPrimaryButton(
-            text = stringResource(R.string.btn_create_account),
-            onClick = onSignUpClick
-        )
-
-        Spacer(modifier = Modifier.height(12.dp))
-
-        PoruaSecondaryButton(
-            text = stringResource(R.string.btn_login),
-            onClick = onLoginClick
+            text = stringResource(R.string.btn_get_started),
+            onClick = onGetStartedClick
         )
 
         Spacer(modifier = Modifier.height(24.dp))

@@ -109,9 +109,9 @@ fun GroupSelectionScreen(
 
         Spacer(modifier = Modifier.height(16.dp))
 
-        // "Coming soon" note
+        // Common note
         Text(
-            text = "Arts and Commerce streams coming soon…",
+            text = "English and ICT are included as common subjects across all groups.",
             fontSize = 12.sp,
             color = colors.textMuted
         )

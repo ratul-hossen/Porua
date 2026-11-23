@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 3,
+  "chapter_title": "Financial Statements of Business",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Income Statement and Balance Sheet",
+      "questions": [
+        {
+          "id": "ACC03-MCQ-001",
+          "question": "Which financial statement reports the financial performance over a specific period of time?",
+          "options": [
+            { "label": "A", "text": "Statement of Financial Position" },
+            { "label": "B", "text": "Statement of Profit or Loss (Income Statement)" },
+            { "label": "C", "text": "Trial Balance" },
+            { "label": "D", "text": "Bank Reconciliation Statement" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Statement of Profit or Loss (Income Statement)",
+          "explanation": "The income statement summarizes revenues and expenses incurred over an accounting period to report net profit or loss.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ACC03-MCQ-002",
+          "question": "Gross Profit is calculated as:",
+          "options": [
+            { "label": "A", "text": "Net Sales - Operating Expenses" },
+            { "label": "B", "text": "Net Sales - Cost of Goods Sold" },
+            { "label": "C", "text": "Total Assets - Total Liabilities" },
+            { "label": "D", "text": "Gross Sales - Tax Expense" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Net Sales - Cost of Goods Sold",
+          "explanation": "Gross profit equals net sales revenue minus the direct cost of goods sold (COGS).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ACC03-MCQ-003",
+          "question": "Cost of Goods Sold (COGS) in a trading business is computed by:",
+          "options": [
+            { "label": "A", "text": "Opening Inventory + Net Purchases + Direct Expenses - Closing Inventory" },
+            { "label": "B", "text": "Opening Inventory + Closing Inventory - Net Purchases" },
+            { "label": "C", "text": "Net Purchases + Operating Expenses" },
+            { "label": "D", "text": "Net Sales - Closing Inventory" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Opening Inventory + Net Purchases + Direct Expenses - Closing Inventory",
+          "explanation": "COGS = Opening Stock + Net Purchases + Direct Expenses - Closing Stock.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ACC03-MCQ-004",
+          "question": "Which of the following is considered an intangible fixed asset?",
+          "options": [
+            { "label": "A", "text": "Machinery" },
+            { "label": "B", "text": "Goodwill" },
+            { "label": "C", "text": "Inventory" },
+            { "label": "D", "text": "Accounts Receivable" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Goodwill",
+          "explanation": "Goodwill, patents, trademarks, and copyrights are intangible assets that lack physical substance.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ACC03-MCQ-005",
+          "question": "Outstanding salary at the end of the year is presented in the Balance Sheet as a:",
+          "options": [
+            { "label": "A", "text": "Current Asset" },
+            { "label": "B", "text": "Current Liability" },
+            { "label": "C", "text": "Long-term Investment" },
+            { "label": "D", "text": "Contingent Asset" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Current Liability",
+          "explanation": "Salaries that are due but not yet paid represent a current obligation (liability) of the business.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

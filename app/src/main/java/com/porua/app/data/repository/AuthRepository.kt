@@ -60,10 +60,10 @@ class LocalAuthRepository(
             )
 
             // Normalize stream name
-            val englishGroup = when (group) {
-                "Science" -> "Science"
-                "Humanities" -> "Humanities"
-                "Business Studies" -> "Business Studies"
+            val englishGroup = when (group.lowercase().trim()) {
+                "science" -> "Science"
+                "humanities", "arts" -> "Arts"
+                "business studies", "commerce", "commers" -> "Commerce"
                 else -> group
             }
 

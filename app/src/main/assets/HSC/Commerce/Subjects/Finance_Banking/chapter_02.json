@@ -1,0 +1,83 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 2,
+  "chapter_title": "Commercial Banking & Central Bank",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Banking Operations and Central Bank Role",
+      "questions": [
+        {
+          "id": "FIN02-MCQ-001",
+          "question": "Which institution serves as the central bank of Bangladesh?",
+          "options": [
+            { "label": "A", "text": "Sonali Bank PLC" },
+            { "label": "B", "text": "Bangladesh Bank" },
+            { "label": "C", "text": "Agrani Bank PLC" },
+            { "label": "D", "text": "Grameen Bank" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Bangladesh Bank",
+          "explanation": "Bangladesh Bank is the supreme regulatory authority and central monetary authority of Bangladesh.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "FIN02-MCQ-002",
+          "question": "Which function is the exclusive monopoly privilege of a central bank?",
+          "options": [
+            { "label": "A", "text": "Accepting public deposits" },
+            { "label": "B", "text": "Issuing banknotes and currency" },
+            { "label": "C", "text": "Discounting commercial bills" },
+            { "label": "D", "text": "Providing consumer vehicle loans" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Issuing banknotes and currency",
+          "explanation": "Only the central bank has the legal authority to issue standard paper currency notes.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "FIN02-MCQ-003",
+          "question": "The primary source of profit for commercial banks is:",
+          "options": [
+            { "label": "A", "text": "Spread between lending rate and deposit interest rate" },
+            { "label": "B", "text": "Account maintenance charges alone" },
+            { "label": "C", "text": "Foreign embassy donations" },
+            { "label": "D", "text": "Government subsidies" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Spread between lending rate and deposit interest rate",
+          "explanation": "Commercial banks borrow from depositors at lower rates and lend to borrowers at higher rates, earning the interest margin spread.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "FIN02-MCQ-004",
+          "question": "Why is the Central Bank referred to as the 'Lender of Last Resort'?",
+          "options": [
+            { "label": "A", "text": "It provides loans to ordinary students" },
+            { "label": "B", "text": "It assists commercial banks during severe liquidity crises when no other source is available" },
+            { "label": "C", "text": "It charges the lowest interest in the country" },
+            { "label": "D", "text": "It only lends to foreign nations" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "It assists commercial banks during severe liquidity crises when no other source is available",
+          "explanation": "When commercial banks exhaust all borrowing avenues, the central bank bails them out with emergency liquidity.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "FIN02-MCQ-005",
+          "question": "What is CRR in central bank monetary policy?",
+          "options": [
+            { "label": "A", "text": "Credit Rating Ratio" },
+            { "label": "B", "text": "Cash Reserve Ratio" },
+            { "label": "C", "text": "Capital Recovery Rate" },
+            { "label": "D", "text": "Currency Revaluation Rate" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Cash Reserve Ratio",
+          "explanation": "CRR represents the portion of total bank deposits that commercial banks must maintain in liquid cash reserves with the central bank.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

@@ -19,11 +19,21 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.AccountBalance
 import androidx.compose.material.icons.filled.ArrowForward
 import androidx.compose.material.icons.filled.AutoAwesome
+import androidx.compose.material.icons.filled.Balance
+import androidx.compose.material.icons.filled.BarChart
 import androidx.compose.material.icons.filled.Bolt
+import androidx.compose.material.icons.filled.Business
+import androidx.compose.material.icons.filled.Calculate
 import androidx.compose.material.icons.filled.ChevronRight
+import androidx.compose.material.icons.filled.Computer
+import androidx.compose.material.icons.filled.Eco
 import androidx.compose.material.icons.filled.Functions
+import androidx.compose.material.icons.filled.HistoryEdu
+import androidx.compose.material.icons.filled.MenuBook
+import androidx.compose.material.icons.filled.School
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.Science
 import androidx.compose.material.icons.filled.Whatshot
@@ -171,141 +181,53 @@ fun PracticeHubScreen(
 
                 Spacer(modifier = Modifier.height(16.dp))
 
-                // 2 Action Cards in a Row: Smart mix & Review due
-                Row(
-                    modifier = Modifier.fillMaxWidth(),
-                    horizontalArrangement = Arrangement.spacedBy(12.dp)
-                ) {
-                    // Smart mix (Red gradient card)
-                    Column(
-                        modifier = Modifier
-                            .weight(1f)
-                            .clip(ShapeLg)
-                            .background(
-                                Brush.verticalGradient(
-                                    colors = listOf(colors.heroStart, colors.primary)
-                                )
-                            )
-                            .clickable { onSmartMixClick() }
-                            .padding(16.dp)
-                    ) {
-                        Box(
-                            modifier = Modifier
-                                .size(32.dp)
-                                .clip(CircleShape)
-                                .background(Color.White.copy(alpha = 0.2f)),
-                            contentAlignment = Alignment.Center
-                        ) {
-                            Icon(
-                                imageVector = Icons.Default.AutoAwesome,
-                                contentDescription = null,
-                                tint = Color.White,
-                                modifier = Modifier.size(16.dp)
-                            )
-                        }
-                        Spacer(modifier = Modifier.height(14.dp))
-                        Text(
-                            text = "Smart mix",
-                            fontSize = 15.sp,
-                            fontWeight = FontWeight.Bold,
-                            color = Color.White
-                        )
-                        Spacer(modifier = Modifier.height(4.dp))
-                        Text(
-                            text = "10 Qs picked by ML from your weak topics",
-                            fontSize = 11.sp,
-                            lineHeight = 15.sp,
-                            color = Color.White.copy(alpha = 0.85f)
-                        )
-                    }
-
-                    // Review due (Yellow/Amber Card with SM-2 count)
-                    Column(
-                        modifier = Modifier
-                            .weight(1f)
-                            .clip(ShapeLg)
-                            .background(colors.warningSoft)
-                            .border(1.dp, colors.warning.copy(alpha = 0.2f), ShapeLg)
-                            .clickable { onReviewDueClick() }
-                            .padding(16.dp)
-                    ) {
-                        Box(
-                            modifier = Modifier
-                                .size(32.dp)
-                                .clip(CircleShape)
-                                .background(colors.warning.copy(alpha = 0.2f)),
-                            contentAlignment = Alignment.Center
-                        ) {
-                            Icon(
-                                imageVector = Icons.Default.Bolt,
-                                contentDescription = null,
-                                tint = colors.warning,
-                                modifier = Modifier.size(18.dp)
-                            )
-                        }
-                        Spacer(modifier = Modifier.height(14.dp))
-                        Text(
-                            text = "Review due",
-                            fontSize = 15.sp,
-                            fontWeight = FontWeight.Bold,
-                            color = colors.text
-                        )
-                        Spacer(modifier = Modifier.height(4.dp))
-                        Text(
-                            text = "18 cards • SM-2 schedule",
-                            fontSize = 11.sp,
-                            lineHeight = 15.sp,
-                            color = colors.textMuted
-                        )
-                    }
-                }
-
-                Spacer(modifier = Modifier.height(24.dp))
-
-                // ── NCTB Book Practice Card ───────────────────────────────────
+                // Full-width Smart mix Action Card
                 Row(
                     modifier = Modifier
                         .fillMaxWidth()
                         .clip(ShapeLg)
-                        .background(colors.surface)
-                        .border(1.dp, colors.border, ShapeLg)
-                        .clickable { onSearchClick() }
-                        .padding(16.dp),
+                        .background(
+                            Brush.horizontalGradient(
+                                colors = listOf(colors.heroStart, colors.primary)
+                            )
+                        )
+                        .clickable { onSmartMixClick() }
+                        .padding(18.dp),
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Box(
                         modifier = Modifier
-                            .size(42.dp)
-                            .clip(androidx.compose.foundation.shape.CircleShape)
-                            .background(colors.primarySoft),
+                            .size(36.dp)
+                            .clip(CircleShape)
+                            .background(Color.White.copy(alpha = 0.2f)),
                         contentAlignment = Alignment.Center
                     ) {
                         Icon(
-                            imageVector = Icons.Default.Search,
+                            imageVector = Icons.Default.AutoAwesome,
                             contentDescription = null,
-                            tint = colors.primary,
-                            modifier = Modifier.size(20.dp)
+                            tint = Color.White,
+                            modifier = Modifier.size(18.dp)
                         )
                     }
                     Spacer(modifier = Modifier.width(14.dp))
                     Column(modifier = Modifier.weight(1f)) {
                         Text(
-                            text = "NCTB Textbook Practice",
-                            fontSize = 15.sp,
+                            text = "Smart mix",
+                            fontSize = 16.sp,
                             fontWeight = FontWeight.Bold,
-                            color = colors.text
+                            color = Color.White
                         )
+                        Spacer(modifier = Modifier.height(2.dp))
                         Text(
-                            text = "Select your stream to practice MCQs and Short Questions",
+                            text = "10 Qs picked by ML from your weak topics",
                             fontSize = 12.sp,
-                            lineHeight = 16.sp,
-                            color = colors.textMuted
+                            color = Color.White.copy(alpha = 0.85f)
                         )
                     }
                     Icon(
                         imageVector = Icons.Default.ChevronRight,
                         contentDescription = null,
-                        tint = colors.textMuted,
+                        tint = Color.White.copy(alpha = 0.85f),
                         modifier = Modifier.size(20.dp)
                     )
                 }
@@ -355,7 +277,16 @@ private fun SubjectRowItem(
         "flask" -> Icons.Default.Science
         "atom" -> Icons.Default.Whatshot
         "sigma" -> Icons.Default.Functions
-        else -> Icons.Default.Science
+        "leaf" -> Icons.Default.Eco
+        "laptop", "computer" -> Icons.Default.Computer
+        "book", "text" -> Icons.Default.MenuBook
+        "calculator" -> Icons.Default.Calculate
+        "briefcase" -> Icons.Default.Business
+        "bank" -> Icons.Default.AccountBalance
+        "chart" -> Icons.Default.BarChart
+        "scale" -> Icons.Default.Balance
+        "scroll" -> Icons.Default.HistoryEdu
+        else -> Icons.Default.School
     }
 
     Row(

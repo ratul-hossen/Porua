@@ -21,6 +21,7 @@ import com.porua.app.ui.screens.ContentPracticeScreen
 import com.porua.app.ui.screens.ContentSubjectsScreen
 import com.porua.app.ui.screens.DiagnosticIntroScreen
 import com.porua.app.ui.screens.ExamTrackScreen
+import com.porua.app.ui.screens.GetStartedScreen
 import com.porua.app.ui.screens.GroupSelectionScreen
 import com.porua.app.ui.screens.HomeScreen
 import com.porua.app.ui.screens.LoginScreen
@@ -82,7 +83,9 @@ fun PoruaNavGraph(
                 onSplashFinished = {
                     coroutineScope.launch {
                         val isLoggedIn = app.authRepository.isLoggedIn.first()
-                        val target = if (isLoggedIn) Screen.Home.route else Screen.Welcome.route
+                        val prefs = context.getSharedPreferences("porua_prefs", android.content.Context.MODE_PRIVATE)
+                        val isOnboarded = prefs.getBoolean("is_onboarded", false)
+                        val target = if (isLoggedIn || isOnboarded) Screen.Home.route else Screen.Welcome.route
                         navController.navigate(target) {
                             popUpTo(Screen.Splash.route) { inclusive = true }
                         }
@@ -94,8 +97,85 @@ fun PoruaNavGraph(
         // 02 · Welcome
         composable(Screen.Welcome.route) {
             WelcomeScreen(
-                onSignUpClick = { navController.navigate(Screen.SignUp.route) },
-                onLoginClick = { navController.navigate(Screen.Login.route) }
+                onGetStartedClick = { navController.navigate(Screen.GetStarted.route) }
+            )
+        }
+
+        // 02b · Get Started (Student Profile Setup)
+        composable(Screen.GetStarted.route) {
+            val app = context.applicationContext as PoruaApplication
+            GetStartedScreen(
+                onBack = { navController.popBackStack() },
+                onContinue = { name, track, group, year, goal, selectedSubjectIds ->
+                    coroutineScope.launch {
+                        val yearInt = year.toIntOrNull() ?: com.porua.app.domain.countdown.ExamDateProvider.getAvailableExamYears().first()
+                        val examDate = com.porua.app.domain.countdown.ExamDateProvider.formatExamDate(yearInt)
+                        val countdown = com.porua.app.domain.countdown.ExamDateProvider.calculateCountdown(yearInt)
+                        val days = when (countdown) {
+                            is com.porua.app.domain.countdown.CountdownResult.Upcoming -> countdown.daysRemaining.toInt()
+                            else -> 0
+                        }
+
+                        // Save in auth preferences
+                        app.authDataStore.saveAccount(
+                            name = name,
+                            emailOrPhone = "",
+                            passwordHash = "",
+                            group = group,
+                            hscClass = track
+                        )
+                        app.authDataStore.saveExamYear(year)
+
+                        // Save in Room Database
+                        val current = app.repository.getUserProfile().first() ?: com.porua.app.data.local.entity.UserProfileEntity()
+                        app.repository.updateUserProfile(
+                            current.copy(
+                                name = name,
+                                examTrack = track,
+                                examYear = year,
+                                group = group,
+                                examDate = examDate,
+                                daysRemaining = days,
+                                dailyStudyTime = goal,
+                                isOfflineMode = true
+                            )
+                        )
+
+                        // Update subjects in repository
+                        val streamSubjects = com.porua.app.data.content.ContentRepository.getSubjectsForGroup(group).map { cs ->
+                            com.porua.app.data.local.entity.SubjectEntity(
+                                id = cs.id,
+                                name = cs.name,
+                                paper = if (cs.group == "Common") "Common (Mandatory)" else "${cs.group} Stream",
+                                chaptersCount = cs.chapterCount,
+                                questionsCount = if (cs.chapterCount > 0) cs.chapterCount * 20 else 50,
+                                mastery = 0,
+                                iconType = cs.iconType,
+                                isSelected = selectedSubjectIds.contains(cs.id)
+                            )
+                        }
+                        app.repository.insertSubjects(streamSubjects)
+
+                        // Mark onboarded in preferences
+                        val prefs = context.getSharedPreferences("porua_prefs", android.content.Context.MODE_PRIVATE)
+                        prefs.edit().putBoolean("is_onboarded", true).apply()
+
+                        // Update ViewModel student profile state
+                        viewModel.updateStudentProfile(
+                            name = name,
+                            track = track,
+                            group = group,
+                            year = year,
+                            examDate = examDate,
+                            dailyStudyTime = goal,
+                            selectedSubjectIds = selectedSubjectIds
+                        )
+
+                        navController.navigate(Screen.Home.route) {
+                            popUpTo(Screen.Welcome.route) { inclusive = true }
+                        }
+                    }
+                }
             )
         }
 
@@ -197,6 +277,15 @@ fun PoruaNavGraph(
                         task.subject.contains("chem", ignoreCase = true) -> "chemistry"
                         task.subject.contains("bio", ignoreCase = true) -> "biology"
                         task.subject.contains("math", ignoreCase = true) -> "higher_mathematics"
+                        task.subject.contains("phys", ignoreCase = true) -> "physics"
+                        task.subject.contains("eng", ignoreCase = true) -> "english"
+                        task.subject.contains("ict", ignoreCase = true) -> "ict"
+                        task.subject.contains("acc", ignoreCase = true) -> "accounting"
+                        task.subject.contains("bus", ignoreCase = true) -> "business_organization"
+                        task.subject.contains("fin", ignoreCase = true) -> "finance_banking"
+                        task.subject.contains("econ", ignoreCase = true) -> "economics"
+                        task.subject.contains("civ", ignoreCase = true) -> "civics"
+                        task.subject.contains("hist", ignoreCase = true) -> "history"
                         else -> "physics"
                     }
                     navController.navigate(Screen.Quiz.createRoute(subId))
@@ -240,6 +329,12 @@ fun PoruaNavGraph(
                         "bio" -> "biology"
                         "eng" -> "english"
                         "ict" -> "ict"
+                        "acc" -> "accounting"
+                        "bus" -> "business_organization"
+                        "fin" -> "finance_banking"
+                        "econ" -> "economics"
+                        "civ" -> "civics"
+                        "hist" -> "history"
                         else -> defaultSub
                     }
                     navController.navigate(Screen.Quiz.createRoute(resolvedId))
@@ -261,6 +356,12 @@ fun PoruaNavGraph(
                 "bio" -> "biology"
                 "eng" -> "english"
                 "ict" -> "ict"
+                "acc" -> "accounting"
+                "bus" -> "business_organization"
+                "fin" -> "finance_banking"
+                "econ" -> "economics"
+                "civ" -> "civics"
+                "hist" -> "history"
                 else -> defaultSub
             }
             LaunchedEffect(resolvedId) {
@@ -326,6 +427,7 @@ fun PoruaNavGraph(
         // 19 · AI insights
         composable(Screen.AiInsights.route) {
             AiInsightsScreen(
+                uiState = uiState,
                 onBack = { navController.popBackStack() }
             )
         }
@@ -404,7 +506,8 @@ fun PoruaNavGraph(
                 },
                 onUpdateProfile = { name, track, group, year, date, goal, selectedSubjectIds ->
                     viewModel.updateStudentProfile(name, track, group, year, date, goal, selectedSubjectIds)
-                }
+                },
+                onToggleTheme = { viewModel.toggleTheme() }
             )
         }
 

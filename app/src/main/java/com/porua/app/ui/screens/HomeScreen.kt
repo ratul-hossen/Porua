@@ -43,6 +43,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.porua.app.data.local.entity.StudyTaskEntity
 import com.porua.app.domain.countdown.CountdownResult
+import org.json.JSONArray
 import com.porua.app.ui.components.AiInsightCard
 import com.porua.app.ui.components.BottomNavItem
 import com.porua.app.ui.components.ExamYearSetupDialog
@@ -306,12 +307,21 @@ fun HomeScreen(
                     horizontalArrangement = Arrangement.SpaceBetween,
                     verticalAlignment = Alignment.CenterVertically
                 ) {
-                    Text(
-                        text = "Today's plan • 45 min",
-                        fontSize = 16.sp,
-                        fontWeight = FontWeight.Bold,
-                        color = colors.text
-                    )
+                    Column {
+                        Text(
+                            text = "Today's plan • ${uiState.userProfile.dailyStudyTime.ifBlank { "1 hour" }}",
+                            fontSize = 16.sp,
+                            fontWeight = FontWeight.Bold,
+                            color = colors.text
+                        )
+                        val daysLeft = if (uiState.userProfile.daysRemaining > 0) uiState.userProfile.daysRemaining else 400
+                        val targetYear = uiState.userProfile.examYear.ifBlank { "2027" }
+                        Text(
+                            text = "$daysLeft days to HSC $targetYear • Daily Syllabus Target",
+                            fontSize = 11.sp,
+                            color = colors.textMuted
+                        )
+                    }
                     Text(
                         text = "See all",
                         fontSize = 13.sp,
@@ -337,51 +347,59 @@ fun HomeScreen(
             item {
                 Spacer(modifier = Modifier.height(14.dp))
 
-                // AI Insight Card
-                AiInsightCard(
-                    text = "Electrode potential is likely to slip below 50% in 3 days. One 10-question set today keeps it on track.",
-                    onClickSeeWhy = onSeeAiInsights
-                )
-
-                Spacer(modifier = Modifier.height(24.dp))
-
                 // Section: Weak areas & Ask Porua button
+                val mistakeChapters = remember(uiState.quizAttempts) {
+                    val map = mutableMapOf<String, MistakeChapterInfo>()
+                    uiState.quizAttempts.forEach { attempt ->
+                        try {
+                            val arr = JSONArray(attempt.questionResultsJson)
+                            for (i in 0 until arr.length()) {
+                                val obj = arr.getJSONObject(i)
+                                val chNum = obj.optInt("chapterNumber", 1)
+                                val chTitle = obj.optString("chapterTitle", "Chapter $chNum")
+                                val isCorrect = obj.optBoolean("isCorrect", false)
+                                val isSkipped = obj.optBoolean("isSkipped", false)
+                                if (!isCorrect && !isSkipped) {
+                                    val key = "${attempt.subjectId.lowercase()}_$chNum"
+                                    val existing = map[key]
+                                    val count = (existing?.mistakes ?: 0) + 1
+                                    map[key] = MistakeChapterInfo(
+                                        subjectName = attempt.subjectName,
+                                        chapterTitle = chTitle,
+                                        chapterNumber = chNum,
+                                        mistakes = count
+                                    )
+                                }
+                            }
+                        } catch (_: Exception) {}
+                    }
+                    map.values.sortedByDescending { it.mistakes }
+                }
+
                 Row(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.SpaceBetween,
                     verticalAlignment = Alignment.CenterVertically
                 ) {
-                    Column(modifier = Modifier.weight(1f)) {
-                        Text(
-                            text = "Weak areas",
-                            fontSize = 16.sp,
-                            fontWeight = FontWeight.Bold,
-                            color = colors.text
-                        )
-                        Spacer(modifier = Modifier.height(8.dp))
-                        val weakChapters = uiState.currentSubjectChapters.filter { it.mastery in 1..49 }
-                        if (weakChapters.isNotEmpty()) {
-                            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                                for (chapter in weakChapters.take(2)) {
-                                    PoruaWeakBadge("${chapter.name} ${chapter.mastery}%")
-                                }
-                            }
-                        } else {
-                            Text(
-                                text = "No weak topics yet • Take diagnostic test",
-                                fontSize = 12.sp,
-                                color = colors.textMuted
-                            )
-                        }
-                    }
+                    Text(
+                        text = "Weak areas",
+                        fontSize = 17.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = colors.text
+                    )
 
-                    // Ask Porua Pill Button
+                    // Ask Porua Pill Button placed neatly on the right
                     PoruaAiButton(
                         text = "Ask Porua",
                         onClick = onAskPorua,
                         isPill = true
                     )
                 }
+
+                Spacer(modifier = Modifier.height(10.dp))
+
+                // Chart displaying mistake distribution across subjects and chapters
+                WeakAreasChartCard(mistakes = mistakeChapters)
 
                 Spacer(modifier = Modifier.height(30.dp))
             }
@@ -474,6 +492,130 @@ private fun StudyTaskRow(
                     contentDescription = "Done",
                     tint = Color.White,
                     modifier = Modifier.size(14.dp)
+                )
+            }
+        }
+    }
+}
+
+data class MistakeChapterInfo(
+    val subjectName: String,
+    val chapterTitle: String,
+    val chapterNumber: Int,
+    val mistakes: Int
+)
+
+@Composable
+private fun WeakAreasChartCard(
+    mistakes: List<MistakeChapterInfo>
+) {
+    val colors = LocalPoruaColors.current
+    val maxMistakes = mistakes.maxOfOrNull { it.mistakes }?.coerceAtLeast(1) ?: 1
+
+    Column(
+        modifier = Modifier
+            .fillMaxWidth()
+            .clip(ShapeLg)
+            .background(colors.surface)
+            .border(1.dp, colors.border, ShapeLg)
+            .padding(16.dp)
+    ) {
+        if (mistakes.isNotEmpty()) {
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                horizontalArrangement = Arrangement.SpaceBetween,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Text(
+                    text = "Mistake Distribution by Chapter",
+                    fontSize = 13.sp,
+                    fontWeight = FontWeight.SemiBold,
+                    color = colors.textMuted
+                )
+                Text(
+                    text = "${mistakes.sumOf { it.mistakes }} total errors",
+                    fontSize = 12.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = colors.danger
+                )
+            }
+
+            Spacer(modifier = Modifier.height(14.dp))
+
+            // Render up to 5 mistake chapters with proportional visual bars
+            mistakes.take(5).forEachIndexed { index, item ->
+                val barFraction = (item.mistakes.toFloat() / maxMistakes.toFloat()).coerceIn(0.1f, 1f)
+                Column(modifier = Modifier.fillMaxWidth()) {
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.SpaceBetween,
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        Text(
+                            text = "${item.subjectName}: ${item.chapterTitle}",
+                            fontSize = 13.sp,
+                            fontWeight = FontWeight.Medium,
+                            color = colors.text,
+                            modifier = Modifier.weight(1f),
+                            maxLines = 1,
+                            overflow = androidx.compose.ui.text.style.TextOverflow.Ellipsis
+                        )
+                        Spacer(modifier = Modifier.width(8.dp))
+                        Text(
+                            text = "${item.mistakes} errors",
+                            fontSize = 12.sp,
+                            fontWeight = FontWeight.Bold,
+                            color = colors.danger
+                        )
+                    }
+
+                    Spacer(modifier = Modifier.height(6.dp))
+
+                    // Progress bar track and fill
+                    Box(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .height(8.dp)
+                            .clip(ShapeFull)
+                            .background(colors.surface2)
+                    ) {
+                        Box(
+                            modifier = Modifier
+                                .fillMaxWidth(barFraction)
+                                .height(8.dp)
+                                .clip(ShapeFull)
+                                .background(
+                                    Brush.horizontalGradient(
+                                        colors = listOf(colors.warning, colors.danger)
+                                    )
+                                )
+                        )
+                    }
+                }
+
+                if (index < mistakes.take(5).size - 1) {
+                    Spacer(modifier = Modifier.height(12.dp))
+                }
+            }
+        } else {
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(vertical = 12.dp),
+                horizontalAlignment = Alignment.CenterHorizontally
+            ) {
+                Text(
+                    text = "🎉 No Weak Areas Yet",
+                    fontSize = 14.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = colors.text
+                )
+                Spacer(modifier = Modifier.height(4.dp))
+                Text(
+                    text = "Practice chapter quizzes to see your mistake distribution chart here.",
+                    fontSize = 12.sp,
+                    color = colors.textMuted,
+                    textAlign = androidx.compose.ui.text.style.TextAlign.Center
                 )
             }
         }

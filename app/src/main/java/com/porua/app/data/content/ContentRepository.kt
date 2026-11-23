@@ -21,36 +21,42 @@ object ContentRepository {
         ContentSubject("higher_mathematics", "Higher Math",  "Science", 20, "sigma")
     )
 
-    // Commerce subjects (reserved for future content)
+    // Commerce subjects
     private val commerceSubjects = listOf(
-        ContentSubject("accounting",            "Accounting",         "Commerce", 0, "calculator"),
-        ContentSubject("business_organization", "Business Org & Mgt", "Commerce", 0, "briefcase"),
-        ContentSubject("finance_banking",       "Finance & Banking",  "Commerce", 0, "bank")
+        ContentSubject("accounting",            "Accounting",         "Commerce", 3, "calculator"),
+        ContentSubject("business_organization", "Business Org & Mgt", "Commerce", 2, "briefcase"),
+        ContentSubject("finance_banking",       "Finance & Banking",  "Commerce", 2, "bank")
     )
 
-    // Arts / Humanities subjects (reserved for future content)
+    // Arts / Humanities subjects
     private val artsSubjects = listOf(
-        ContentSubject("economics", "Economics",             "Arts", 0, "chart"),
-        ContentSubject("civics",    "Civics & Governance",   "Arts", 0, "scale"),
-        ContentSubject("history",   "History of Bangladesh", "Arts", 0, "scroll")
+        ContentSubject("economics", "Economics",             "Arts", 2, "chart"),
+        ContentSubject("civics",    "Civics & Governance",   "Arts", 2, "scale"),
+        ContentSubject("history",   "History of Bangladesh", "Arts", 2, "scroll")
     )
 
     private val subjectAssetPaths = mapOf(
-        "ict"                to "HSC/Science/Subjects/ICT/ict.json",
-        "english"            to "HSC/Science/Subjects/English/english.json",
-        "physics"            to "HSC/Science/Subjects/Physics/physics.json",
-        "chemistry"          to "HSC/Science/Subjects/Chemistry/chemistry.json",
-        "biology"            to "HSC/Science/Subjects/Biology/biology.json",
-        "higher_mathematics" to "HSC/Science/Subjects/Higher_Mathematics/higher_mathematics.json"
+        "ict"                   to "HSC/Science/Subjects/ICT/ict.json",
+        "english"               to "HSC/Science/Subjects/English/english.json",
+        "physics"               to "HSC/Science/Subjects/Physics/physics.json",
+        "chemistry"             to "HSC/Science/Subjects/Chemistry/chemistry.json",
+        "biology"               to "HSC/Science/Subjects/Biology/biology.json",
+        "higher_mathematics"    to "HSC/Science/Subjects/Higher_Mathematics/higher_mathematics.json",
+        "accounting"            to "HSC/Commerce/Subjects/Accounting/accounting.json",
+        "business_organization" to "HSC/Commerce/Subjects/Business_Organization/business_organization.json",
+        "finance_banking"       to "HSC/Commerce/Subjects/Finance_Banking/finance_banking.json",
+        "economics"             to "HSC/Arts/Subjects/Economics/economics.json",
+        "civics"                to "HSC/Arts/Subjects/Civics/civics.json",
+        "history"               to "HSC/Arts/Subjects/History/history.json"
     )
 
     // ── Public API ───────────────────────────────────────────────────────────
 
     fun getSubjectsForGroup(group: String): List<ContentSubject> {
         val stream = when (group.lowercase().trim()) {
-            "commerce", "business studies" -> commerceSubjects
-            "arts", "humanities"           -> artsSubjects
-            else                           -> scienceSubjects
+            "commerce", "commers", "business studies" -> commerceSubjects
+            "arts", "humanities"                      -> artsSubjects
+            else                                      -> scienceSubjects
         }
         return commonSubjects + stream
     }
@@ -96,10 +102,33 @@ object ContentRepository {
     }
 
     fun getAllGroups(): List<GroupInfo> = listOf(
-        GroupInfo("Science",          "ICT, English, Physics, Chemistry, Biology, Math", commonSubjects.size + scienceSubjects.size, true),
-        GroupInfo("Business Studies", "ICT, English, Accounting, Business, Finance",     commonSubjects.size + commerceSubjects.size, false),
-        GroupInfo("Humanities",       "ICT, English, Economics, Civics, History",        commonSubjects.size + artsSubjects.size,     false)
+        GroupInfo("Science",  "ICT, English, Physics, Chemistry, Biology, Math", commonSubjects.size + scienceSubjects.size, true),
+        GroupInfo("Arts",     "ICT, English, Economics, Civics, History",        commonSubjects.size + artsSubjects.size,     true),
+        GroupInfo("Commerce", "ICT, English, Accounting, Business, Finance",     commonSubjects.size + commerceSubjects.size, true)
     )
+
+    fun getTotalQuestionsForSubject(subjectId: String): Int {
+        return when (subjectId.lowercase().trim()) {
+            "ict" -> 300
+            "english" -> 500
+            "physics" -> 1050
+            "chemistry" -> 500
+            "biology" -> 1200
+            "higher_mathematics", "math" -> 1000
+            "accounting" -> 15
+            "business_organization" -> 10
+            "finance_banking" -> 10
+            "economics" -> 10
+            "civics" -> 10
+            "history" -> 10
+            else -> 50
+        }
+    }
+
+    fun getTotalQuestionsForGroup(group: String): Int {
+        val subjects = getSubjectsForGroup(group)
+        return subjects.sumOf { getTotalQuestionsForSubject(it.id) }.coerceAtLeast(1)
+    }
 }
 
 data class PooledMcqItem(

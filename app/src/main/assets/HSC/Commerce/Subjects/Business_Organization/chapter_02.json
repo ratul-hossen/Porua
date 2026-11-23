@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 2,
+  "chapter_title": "Forms of Business Ownership & Management",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Sole Proprietorship, Partnership & Joint Stock",
+      "questions": [
+        {
+          "id": "BUS02-MCQ-001",
+          "question": "What is the liability of a sole proprietor in business?",
+          "options": [
+            { "label": "A", "text": "Limited to invested capital" },
+            { "label": "B", "text": "Unlimited liability" },
+            { "label": "C", "text": "Limited by guarantee" },
+            { "label": "D", "text": "Proportional to profit share" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Unlimited liability",
+          "explanation": "In a sole proprietorship, personal property of the owner can be seized to pay off business debts.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "BUS02-MCQ-002",
+          "question": "According to the Bangladesh Partnership Act 1932, the maximum number of partners in a general partnership is:",
+          "options": [
+            { "label": "A", "text": "7" },
+            { "label": "B", "text": "10" },
+            { "label": "C", "text": "20" },
+            { "label": "D", "text": "50" }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "20",
+          "explanation": "For general partnerships the maximum limit is 20 partners, while for banking partnerships the limit is 10.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "BUS02-MCQ-003",
+          "question": "The constitution or charter document of a Joint Stock Company is called:",
+          "options": [
+            { "label": "A", "text": "Articles of Association" },
+            { "label": "B", "text": "Memorandum of Association" },
+            { "label": "C", "text": "Prospectus" },
+            { "label": "D", "text": "Certificate of Incorporation" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Memorandum of Association",
+          "explanation": "The Memorandum of Association defines the company's fundamental objectives and scope of activities.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "BUS02-MCQ-004",
+          "question": "Who is known as the father of scientific management?",
+          "options": [
+            { "label": "A", "text": "Henri Fayol" },
+            { "label": "B", "text": "Frederick Winslow Taylor" },
+            { "label": "C", "text": "Peter Drucker" },
+            { "label": "D", "text": "Max Weber" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Frederick Winslow Taylor",
+          "explanation": "F.W. Taylor is regarded as the father of scientific management for his principles of workplace efficiency.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "BUS02-MCQ-005",
+          "question": "Henri Fayol proposed how many principles of management?",
+          "options": [
+            { "label": "A", "text": "10" },
+            { "label": "B", "text": "12" },
+            { "label": "C", "text": "14" },
+            { "label": "D", "text": "16" }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "14",
+          "explanation": "Henri Fayol developed the 14 principles of general administrative management.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

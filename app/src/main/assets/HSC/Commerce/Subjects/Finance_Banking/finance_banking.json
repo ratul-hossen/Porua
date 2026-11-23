@@ -1,0 +1,23 @@
+{
+  "class": "HSC",
+  "stream": "Commerce",
+  "subject": "Finance & Banking",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 2,
+  "total_questions": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Introduction to Finance & Time Value of Money",
+      "file": "chapter_01.json",
+      "question_count": 5
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Commercial Banking & Central Bank",
+      "file": "chapter_02.json",
+      "question_count": 5
+    }
+  ]
+}

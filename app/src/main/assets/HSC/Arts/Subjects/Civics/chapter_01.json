@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "Citizen, State & Good Governance",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "State, Rights and Good Governance",
+      "questions": [
+        {
+          "id": "CIV01-MCQ-001",
+          "question": "The term 'Civics' is derived from which Latin words?",
+          "options": [
+            { "label": "A", "text": "Civis and Civitas" },
+            { "label": "B", "text": "Polis and Politika" },
+            { "label": "C", "text": "Socius and Logy" },
+            { "label": "D", "text": "Demos and Kratos" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Civis and Civitas",
+          "explanation": "Civis means citizen and civitas means city-state in Latin.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CIV01-MCQ-002",
+          "question": "Which of the following is an indispensable element of the state?",
+          "options": [
+            { "label": "A", "text": "Political party" },
+            { "label": "B", "text": "Sovereignty" },
+            { "label": "C", "text": "Written constitution" },
+            { "label": "D", "text": "Bicameral legislature" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Sovereignty",
+          "explanation": "The four essential elements of a state are population, territory, government, and sovereignty.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CIV01-MCQ-003",
+          "question": "Which pillar is fundamental to Good Governance (Su-shashon)?",
+          "options": [
+            { "label": "A", "text": "Strict censorship" },
+            { "label": "B", "text": "Accountability and Transparency" },
+            { "label": "C", "text": "Autocratic decision-making" },
+            { "label": "D", "text": "Exclusion of public participation" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Accountability and Transparency",
+          "explanation": "Transparency, accountability, rule of law, and responsiveness are core pillars of good governance.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CIV01-MCQ-004",
+          "question": "What is the primary distinguishing mark of a citizen from an alien?",
+          "options": [
+            { "label": "A", "text": "Right to reside temporarily" },
+            { "label": "B", "text": "Political rights (voting and contesting elections)" },
+            { "label": "C", "text": "Payment of sales tax" },
+            { "label": "D", "text": "Use of public highways" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Political rights (voting and contesting elections)",
+          "explanation": "Citizens enjoy full political rights including franchise, whereas aliens do not possess voting rights.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CIV01-MCQ-005",
+          "question": "Rule of law means:",
+          "options": [
+            { "label": "A", "text": "The ruler's command is supreme above all" },
+            { "label": "B", "text": "All citizens are equal in the eyes of law" },
+            { "label": "C", "text": "Police can detain without trial" },
+            { "label": "D", "text": "Courts only follow executive decrees" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "All citizens are equal in the eyes of law",
+          "explanation": "A.V. Dicey defined rule of law as supremacy of regular law and equality before the law without arbitrary privilege.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

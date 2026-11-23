@@ -1,0 +1,23 @@
+{
+  "class": "HSC",
+  "stream": "Arts",
+  "subject": "Civics & Governance",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 2,
+  "total_questions": 10,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Citizen, State & Good Governance",
+      "file": "chapter_01.json",
+      "question_count": 5
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Constitution of Bangladesh & Organs of Government",
+      "file": "chapter_02.json",
+      "question_count": 5
+    }
+  ]
+}

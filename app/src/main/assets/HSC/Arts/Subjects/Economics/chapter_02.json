@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 2,
+  "chapter_title": "Demand, Supply & Market Equilibrium",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Laws of Demand and Supply",
+      "questions": [
+        {
+          "id": "ECO02-MCQ-001",
+          "question": "According to the Law of Demand, ceteris paribus, when price increases:",
+          "options": [
+            { "label": "A", "text": "Quantity demanded increases" },
+            { "label": "B", "text": "Quantity demanded decreases" },
+            { "label": "C", "text": "Demand curve shifts rightwards" },
+            { "label": "D", "text": "Demand remains completely unaffected" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Quantity demanded decreases",
+          "explanation": "There is an inverse relationship between price and quantity demanded when other factors remain constant.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ECO02-MCQ-002",
+          "question": "What is the typical slope of a normal demand curve?",
+          "options": [
+            { "label": "A", "text": "Downward from left to right" },
+            { "label": "B", "text": "Upward from left to right" },
+            { "label": "C", "text": "Vertical line" },
+            { "label": "D", "text": "Horizontal line" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Downward from left to right",
+          "explanation": "Due to the law of diminishing marginal utility and price effects, the demand curve slopes downwards.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ECO02-MCQ-003",
+          "question": "Tea and coffee are examples of:",
+          "options": [
+            { "label": "A", "text": "Complementary goods" },
+            { "label": "B", "text": "Substitute goods" },
+            { "label": "C", "text": "Giffen goods" },
+            { "label": "D", "text": "Inferior goods" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Substitute goods",
+          "explanation": "Substitute goods can be used in place of one another; an increase in the price of tea raises demand for coffee.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ECO02-MCQ-004",
+          "question": "When price elasticity of demand (Ed) is greater than 1, demand is classified as:",
+          "options": [
+            { "label": "A", "text": "Inelastic" },
+            { "label": "B", "text": "Elastic" },
+            { "label": "C", "text": "Unitary elastic" },
+            { "label": "D", "text": "Perfectively inelastic" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Elastic",
+          "explanation": "If the percentage change in quantity demanded exceeds the percentage change in price, demand is price elastic.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ECO02-MCQ-005",
+          "question": "Market equilibrium occurs at the point where:",
+          "options": [
+            { "label": "A", "text": "Quantity demanded equals quantity supplied" },
+            { "label": "B", "text": "Government fixes minimum wage" },
+            { "label": "C", "text": "Quantity demanded is strictly zero" },
+            { "label": "D", "text": "Sellers earn maximum abnormal profits" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Quantity demanded equals quantity supplied",
+          "explanation": "Equilibrium price is established where the market demand curve intersects the market supply curve.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

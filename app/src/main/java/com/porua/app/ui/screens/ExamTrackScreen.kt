@@ -160,7 +160,7 @@ fun ExamTrackScreen(
             modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.spacedBy(8.dp)
         ) {
-            listOf("Science", "Business Studies", "Humanities").forEach { grp ->
+            listOf("Science", "Arts", "Commerce").forEach { grp ->
                 PoruaFilterChip(
                     text = grp,
                     isSelected = selectedGroup == grp,

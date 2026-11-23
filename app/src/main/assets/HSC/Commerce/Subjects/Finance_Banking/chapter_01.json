@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "Introduction to Finance & Time Value of Money",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Finance Principles & Time Value",
+      "questions": [
+        {
+          "id": "FIN01-MCQ-001",
+          "question": "What is the ultimate financial goal of modern corporate financial management?",
+          "options": [
+            { "label": "A", "text": "Maximizing sales volume" },
+            { "label": "B", "text": "Maximizing shareholder wealth (stock value)" },
+            { "label": "C", "text": "Minimizing dividend payments" },
+            { "label": "D", "text": "Maximizing employee benefits" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Maximizing shareholder wealth (stock value)",
+          "explanation": "Shareholders' wealth maximization takes into account timing, risk, and dividend stream, making it superior to mere accounting profit maximization.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "FIN01-MCQ-002",
+          "question": "The concept that a taka today is worth more than a taka tomorrow is founded on:",
+          "options": [
+            { "label": "A", "text": "Opportunity cost and interest earning potential" },
+            { "label": "B", "text": "Currency depreciation only" },
+            { "label": "C", "text": "Government regulation" },
+            { "label": "D", "text": "Trade tariffs" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Opportunity cost and interest earning potential",
+          "explanation": "Money possesses time value because of its earning capacity through productive reinvestment over time.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "FIN01-MCQ-003",
+          "question": "Which formula calculates the Future Value (FV) with compound interest?",
+          "options": [
+            { "label": "A", "text": "FV = PV * (1 + r)^n" },
+            { "label": "B", "text": "FV = PV / (1 + r)^n" },
+            { "label": "C", "text": "FV = PV * (1 - r)^n" },
+            { "label": "D", "text": "FV = PV * r * n" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "FV = PV * (1 + r)^n",
+          "explanation": "Compounding calculates future value as FV = PV * (1 + r)^n, where r is interest rate and n is number of periods.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "FIN01-MCQ-004",
+          "question": "An annuity where equal cash flows occur at the end of each period is called:",
+          "options": [
+            { "label": "A", "text": "Annuity Due" },
+            { "label": "B", "text": "Ordinary Annuity" },
+            { "label": "C", "text": "Perpetuity" },
+            { "label": "D", "text": "Deferred Annuity" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Ordinary Annuity",
+          "explanation": "In an ordinary annuity, payments or receipts occur at the conclusion of each consecutive time interval.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "FIN01-MCQ-005",
+          "question": "Which of the following is considered an unsystematic (diversifiable) risk?",
+          "options": [
+            { "label": "A", "text": "Strike in a specific factory" },
+            { "label": "B", "text": "National inflation rate rise" },
+            { "label": "C", "text": "Global economic recession" },
+            { "label": "D", "text": "Central bank interest rate hike" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Strike in a specific factory",
+          "explanation": "Unsystematic risk is company- or industry-specific and can be mitigated through portfolio diversification.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

@@ -27,6 +27,7 @@ import kotlinx.coroutines.launch
 
 data class PoruaUiState(
     val userProfile: UserProfileEntity = UserProfileEntity(),
+    val totalCompletedQuestions: Int = 0,
     val subjects: List<SubjectEntity> = emptyList(),
     val currentSubjectChapters: List<ChapterEntity> = emptyList(),
     val selectedSubjectId: String = "chem",
@@ -39,6 +40,7 @@ data class PoruaUiState(
         formattedTarget = "HSC 2027 • April"
     ),
     val isExamYearConfigured: Boolean = true,
+    val isDarkMode: Boolean = true,
 
     // Quiz Session State
     val currentQuestions: List<QuestionEntity> = emptyList(),
@@ -94,15 +96,17 @@ class PoruaViewModel(
                     val yearInt = profile.examYear.toIntOrNull() ?: ExamDateProvider.getAvailableExamYears().first()
                     val countdown = ExamDateProvider.calculateCountdown(yearInt)
                     val streamSubjects = com.porua.app.data.content.ContentRepository.getSubjectsForGroup(profile.group).map { cs ->
+                        val existingSelection = _uiState.value.subjects.find { it.id == cs.id }?.isSelected ?: true
+                        val totalQs = com.porua.app.data.content.ContentRepository.getTotalQuestionsForSubject(cs.id)
                         SubjectEntity(
                             id = cs.id,
                             name = cs.name,
                             paper = if (cs.group == "Common") "Common (Mandatory)" else "${cs.group} Stream",
                             chaptersCount = cs.chapterCount,
-                            questionsCount = cs.chapterCount * 20,
+                            questionsCount = totalQs,
                             mastery = 0,
                             iconType = cs.iconType,
-                            isSelected = true
+                            isSelected = existingSelection
                         )
                     }
                     _uiState.update {
@@ -150,7 +154,59 @@ class PoruaViewModel(
 
         viewModelScope.launch {
             repository.getAllQuizAttempts().collect { attempts ->
-                _uiState.update { it.copy(quizAttempts = attempts) }
+                val group = _uiState.value.userProfile.group.ifBlank { "Science" }
+                val totalSyllabusQuestions = com.porua.app.data.content.ContentRepository.getTotalQuestionsForGroup(group)
+
+                val completedQuestionKeys = mutableSetOf<String>()
+                attempts.forEach { attempt ->
+                    try {
+                        val arr = org.json.JSONArray(attempt.questionResultsJson)
+                        for (i in 0 until arr.length()) {
+                            val obj = arr.getJSONObject(i)
+                            val qText = obj.optString("questionText", "").trim().lowercase()
+                            val chNum = obj.optInt("chapterNumber", 1)
+                            val qKey = if (qText.isNotBlank()) {
+                                "${attempt.subjectId.lowercase()}_${chNum}_$qText"
+                            } else {
+                                "${attempt.subjectId.lowercase()}_${chNum}_q$i"
+                            }
+                            completedQuestionKeys.add(qKey)
+                        }
+                    } catch (_: Exception) {}
+                }
+
+                // Overall Readiness: reaches 100% only when ALL MCQs of the entire syllabus are practiced!
+                val totalPracticed = completedQuestionKeys.size
+                val readiness = ((totalPracticed * 100) / totalSyllabusQuestions).coerceIn(0, 100)
+                val updatedProfile = _uiState.value.userProfile.copy(
+                    examReadyPercentage = readiness
+                )
+
+                // Subject Mastery: reaches 100% only when ALL MCQs of that subject are practiced!
+                val updatedSubjects = _uiState.value.subjects.map { subj ->
+                    val totalQsInSubj = com.porua.app.data.content.ContentRepository.getTotalQuestionsForSubject(subj.id)
+                    val practicedInSubj = completedQuestionKeys.count { key ->
+                        val subPart = key.substringBefore("_")
+                        subPart == subj.id.lowercase() ||
+                        subPart.contains(subj.id.lowercase()) ||
+                        subj.id.lowercase().contains(subPart) ||
+                        subj.name.lowercase().startsWith(subPart)
+                    }
+                    val masteryPct = ((practicedInSubj * 100) / totalQsInSubj.coerceAtLeast(1)).coerceIn(0, 100)
+                    subj.copy(
+                        questionsCount = totalQsInSubj,
+                        mastery = masteryPct
+                    )
+                }
+
+                _uiState.update { state ->
+                    state.copy(
+                        quizAttempts = attempts,
+                        userProfile = updatedProfile,
+                        subjects = if (updatedSubjects.isNotEmpty()) updatedSubjects else state.subjects,
+                        totalCompletedQuestions = totalPracticed
+                    )
+                }
             }
         }
 
@@ -500,7 +556,147 @@ class PoruaViewModel(
                     isExamYearConfigured = true
                 )
             }
+            regenerateStudyPlanForGoal(dailyStudyTime, group)
             _eventFlow.emit("Profile and exam settings saved successfully!")
+        }
+    }
+
+    fun toggleTheme() {
+        _uiState.update { it.copy(isDarkMode = !it.isDarkMode) }
+    }
+
+    fun regenerateStudyPlanForGoal(goal: String, group: String) {
+        viewModelScope.launch {
+            val totalMinutes = when {
+                goal.contains("30") -> 30
+                goal.contains("2") || goal.contains("120") -> 120
+                goal.contains("3") || goal.contains("180") -> 180
+                else -> 60
+            }
+
+            val subjects = com.porua.app.data.content.ContentRepository.getSubjectsForGroup(group).ifEmpty {
+                com.porua.app.data.content.ContentRepository.getSubjectsForGroup("Science")
+            }
+
+            val attempts = _uiState.value.quizAttempts
+
+            fun getNextChapterNumber(subId: String): Int {
+                var maxCh = 0
+                attempts.forEach { att ->
+                    if (att.subjectId.contains(subId, ignoreCase = true) || subId.contains(att.subjectId, ignoreCase = true)) {
+                        try {
+                            val arr = org.json.JSONArray(att.questionResultsJson)
+                            for (i in 0 until arr.length()) {
+                                val ch = arr.getJSONObject(i).optInt("chapterNumber", 1)
+                                if (ch > maxCh) maxCh = ch
+                            }
+                        } catch (_: Exception) {}
+                    }
+                }
+                return maxCh + 1
+            }
+
+            fun getChapterTitle(subName: String, chNum: Int): String {
+                return when {
+                    subName.contains("Phys", ignoreCase = true) -> when (chNum) {
+                        1 -> "Physical World and Measurement"
+                        2 -> "Vector"
+                        3 -> "Dynamics"
+                        4 -> "Newtonian Mechanics"
+                        5 -> "Work, Energy and Power"
+                        6 -> "Gravity and Gravitation"
+                        7 -> "Structural Properties of Matter"
+                        8 -> "Periodic Motion"
+                        9 -> "Waves"
+                        10 -> "Ideal Gas and Kinetic Theory"
+                        else -> "Ch $chNum Advanced Practice"
+                    }
+                    subName.contains("Chem", ignoreCase = true) -> when (chNum) {
+                        1 -> "Environmental Chemistry"
+                        2 -> "Organic Chemistry"
+                        3 -> "Quantitative Chemistry"
+                        4 -> "Chemical Changes"
+                        5 -> "Economic Chemistry"
+                        else -> "Ch $chNum Advanced Practice"
+                    }
+                    subName.contains("Bio", ignoreCase = true) -> when (chNum) {
+                        1 -> "Cell and its Structure"
+                        2 -> "Cell Division"
+                        3 -> "Cell Chemistry"
+                        4 -> "Microorganisms"
+                        5 -> "Algae and Fungi"
+                        else -> "Ch $chNum Advanced Practice"
+                    }
+                    subName.contains("Math", ignoreCase = true) -> when (chNum) {
+                        1 -> "Matrices and Determinants"
+                        2 -> "Vectors"
+                        3 -> "Straight Line"
+                        4 -> "Circle"
+                        5 -> "Permutation and Combination"
+                        else -> "Ch $chNum Advanced Practice"
+                    }
+                    subName.contains("ICT", ignoreCase = true) -> when (chNum) {
+                        1 -> "Information and Communication Technology"
+                        2 -> "Communication Systems and Networking"
+                        3 -> "Number Systems and Digital Devices"
+                        4 -> "Web Design and HTML"
+                        5 -> "Programming Language (C)"
+                        6 -> "Database Management System"
+                        else -> "Ch $chNum Advanced Practice"
+                    }
+                    subName.contains("Eng", ignoreCase = true) -> when (chNum) {
+                        1 -> "People Making History"
+                        2 -> "Dreams & Literature"
+                        3 -> "Lifestyle & Health"
+                        4 -> "Human Relationships"
+                        else -> "Ch $chNum Advanced Practice"
+                    }
+                    subName.contains("Acc", ignoreCase = true) -> when (chNum) {
+                        1 -> "Introduction to Accounting"
+                        2 -> "Transactions and Accounts"
+                        3 -> "Double Entry System"
+                        4 -> "Trial Balance"
+                        else -> "Ch $chNum Advanced Practice"
+                    }
+                    else -> "Ch $chNum Foundation"
+                }
+            }
+
+            val s0 = subjects.getOrNull(0) ?: subjects.first()
+            val s1 = subjects.getOrNull(1) ?: subjects.first()
+            val s2 = subjects.getOrNull(2) ?: subjects.first()
+            val s3 = subjects.getOrNull(3) ?: subjects.first()
+
+            val ch0 = getNextChapterNumber(s0.id)
+            val ch1 = getNextChapterNumber(s1.id)
+            val ch2 = getNextChapterNumber(s2.id)
+            val ch3 = getNextChapterNumber(s3.id)
+
+            val tasks = when (totalMinutes) {
+                30 -> listOf(
+                    StudyTaskEntity(id = 1, title = "${s0.name}: Ch $ch0 - ${getChapterTitle(s0.name, ch0)}", subject = s0.name, durationMinutes = 15, questionCount = 10, isCompleted = false, scheduledDate = "Today", priority = "High", category = "Practice"),
+                    StudyTaskEntity(id = 2, title = "${s1.name}: Ch $ch1 - ${getChapterTitle(s1.name, ch1)}", subject = s1.name, durationMinutes = 15, questionCount = 10, isCompleted = false, scheduledDate = "Today", priority = "Medium", category = "Revise")
+                )
+                120 -> listOf(
+                    StudyTaskEntity(id = 1, title = "${s2.name}: Ch $ch2 - ${getChapterTitle(s2.name, ch2)}", subject = s2.name, durationMinutes = 40, questionCount = 20, isCompleted = false, scheduledDate = "Today", priority = "High", category = "Practice"),
+                    StudyTaskEntity(id = 2, title = "${s3.name}: Ch $ch3 - ${getChapterTitle(s3.name, ch3)}", subject = s3.name, durationMinutes = 35, questionCount = 15, isCompleted = false, scheduledDate = "Today", priority = "High", category = "Practice"),
+                    StudyTaskEntity(id = 3, title = "${s0.name}: Ch $ch0 - ${getChapterTitle(s0.name, ch0)}", subject = s0.name, durationMinutes = 25, questionCount = 15, isCompleted = false, scheduledDate = "Today", priority = "Medium", category = "Learn"),
+                    StudyTaskEntity(id = 4, title = "${s1.name}: Ch $ch1 - ${getChapterTitle(s1.name, ch1)}", subject = s1.name, durationMinutes = 20, questionCount = 10, isCompleted = false, scheduledDate = "Today", priority = "Low", category = "Revise")
+                )
+                180 -> listOf(
+                    StudyTaskEntity(id = 1, title = "${s2.name}: Ch $ch2 - ${getChapterTitle(s2.name, ch2)}", subject = s2.name, durationMinutes = 55, questionCount = 25, isCompleted = false, scheduledDate = "Today", priority = "High", category = "Practice"),
+                    StudyTaskEntity(id = 2, title = "${s3.name}: Ch $ch3 - ${getChapterTitle(s3.name, ch3)}", subject = s3.name, durationMinutes = 50, questionCount = 25, isCompleted = false, scheduledDate = "Today", priority = "High", category = "Practice"),
+                    StudyTaskEntity(id = 3, title = "${s0.name}: Ch $ch0 - ${getChapterTitle(s0.name, ch0)}", subject = s0.name, durationMinutes = 45, questionCount = 20, isCompleted = false, scheduledDate = "Today", priority = "Medium", category = "Learn"),
+                    StudyTaskEntity(id = 4, title = "${s1.name}: Ch $ch1 - ${getChapterTitle(s1.name, ch1)}", subject = s1.name, durationMinutes = 30, questionCount = 15, isCompleted = false, scheduledDate = "Today", priority = "Low", category = "Revise")
+                )
+                else -> listOf(
+                    StudyTaskEntity(id = 1, title = "${s2.name}: Ch $ch2 - ${getChapterTitle(s2.name, ch2)}", subject = s2.name, durationMinutes = 25, questionCount = 15, isCompleted = false, scheduledDate = "Today", priority = "High", category = "Practice"),
+                    StudyTaskEntity(id = 2, title = "${s3.name}: Ch $ch3 - ${getChapterTitle(s3.name, ch3)}", subject = s3.name, durationMinutes = 20, questionCount = 10, isCompleted = false, scheduledDate = "Today", priority = "High", category = "Revise"),
+                    StudyTaskEntity(id = 3, title = "${s0.name}: Ch $ch0 - ${getChapterTitle(s0.name, ch0)}", subject = s0.name, durationMinutes = 15, questionCount = 10, isCompleted = false, scheduledDate = "Today", priority = "Medium", category = "Learn")
+                )
+            }
+
+            tasks.forEach { repository.addTask(it) }
         }
     }
 }

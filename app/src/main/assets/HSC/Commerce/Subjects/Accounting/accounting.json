@@ -1,0 +1,29 @@
+{
+  "class": "HSC",
+  "stream": "Commerce",
+  "subject": "Accounting",
+  "curriculum": "Bangladesh HSC",
+  "language": "English",
+  "total_chapters": 3,
+  "total_questions": 15,
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Introduction to Accounting & Transaction Analysis",
+      "file": "chapter_01.json",
+      "question_count": 5
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Journal, Ledger & Trial Balance",
+      "file": "chapter_02.json",
+      "question_count": 5
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Financial Statements of Business",
+      "file": "chapter_03.json",
+      "question_count": 5
+    }
+  ]
+}

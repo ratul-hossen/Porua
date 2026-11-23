@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 2,
+  "chapter_title": "Journal, Ledger & Trial Balance",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Bookkeeping Books and Balances",
+      "questions": [
+        {
+          "id": "ACC02-MCQ-001",
+          "question": "Which accounting book is known as the primary book of original entry?",
+          "options": [
+            { "label": "A", "text": "Ledger" },
+            { "label": "B", "text": "Journal" },
+            { "label": "C", "text": "Trial Balance" },
+            { "label": "D", "text": "Cash Flow Statement" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Journal",
+          "explanation": "The Journal is called the book of original or primary entry because transactions are initially recorded here in chronological order.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ACC02-MCQ-002",
+          "question": "The process of transferring journal entries into ledger accounts is known as:",
+          "options": [
+            { "label": "A", "text": "Balancing" },
+            { "label": "B", "text": "Posting" },
+            { "label": "C", "text": "Casting" },
+            { "label": "D", "text": "Summarizing" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Posting",
+          "explanation": "Posting is the procedure of transferring journal debit and credit entries to their individual ledger accounts.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ACC02-MCQ-003",
+          "question": "Which of the following is verified by preparing a Trial Balance?",
+          "options": [
+            { "label": "A", "text": "Mathematical accuracy of debit and credit balances" },
+            { "label": "B", "text": "Net profit or loss of the firm" },
+            { "label": "C", "text": "Exact cash in hand" },
+            { "label": "D", "text": "Fair market value of fixed assets" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Mathematical accuracy of debit and credit balances",
+          "explanation": "The trial balance tests the arithmetical accuracy of the double-entry bookkeeping system by ensuring total debits equal total credits.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ACC02-MCQ-004",
+          "question": "An error where a transaction is completely omitted from the books of accounts is called:",
+          "options": [
+            { "label": "A", "text": "Error of Commission" },
+            { "label": "B", "text": "Error of Omission" },
+            { "label": "C", "text": "Error of Principle" },
+            { "label": "D", "text": "Compensating Error" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Error of Omission",
+          "explanation": "When a transaction is completely omitted from the journal or books, it is an error of complete omission and does not disturb trial balance agreement.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ACC02-MCQ-005",
+          "question": "What type of account is Prepaid Rent?",
+          "options": [
+            { "label": "A", "text": "Nominal / Expense Account" },
+            { "label": "B", "text": "Current Asset Account" },
+            { "label": "C", "text": "Liability Account" },
+            { "label": "D", "text": "Owner's Equity Account" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Current Asset Account",
+          "explanation": "Prepaid rent represents payment made in advance for future economic benefits, classifying it as a current asset.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

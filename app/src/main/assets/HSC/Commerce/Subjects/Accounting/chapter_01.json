@@ -1,0 +1,83 @@
+{
+  "paper": "1st Paper",
+  "chapter_number": 1,
+  "chapter_title": "Introduction to Accounting & Transaction Analysis",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Basic Accounting Concepts & Equation",
+      "questions": [
+        {
+          "id": "ACC01-MCQ-001",
+          "question": "What is the fundamental accounting equation?",
+          "options": [
+            { "label": "A", "text": "Assets = Liabilities + Owner's Equity" },
+            { "label": "B", "text": "Assets + Liabilities = Owner's Equity" },
+            { "label": "C", "text": "Assets = Liabilities - Owner's Equity" },
+            { "label": "D", "text": "Liabilities = Assets + Owner's Equity" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Assets = Liabilities + Owner's Equity",
+          "explanation": "The basic accounting equation states that a company's total assets equal the sum of its liabilities and owner's equity.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ACC01-MCQ-002",
+          "question": "Who is known as the father of modern accounting?",
+          "options": [
+            { "label": "A", "text": "Adam Smith" },
+            { "label": "B", "text": "Luca Pacioli" },
+            { "label": "C", "text": "Alfred Marshall" },
+            { "label": "D", "text": "F.W. Taylor" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Luca Pacioli",
+          "explanation": "Italian mathematician Luca Pacioli published the first treatise on double-entry bookkeeping in 1494.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "ACC01-MCQ-003",
+          "question": "Purchasing office supplies on credit will affect which accounts?",
+          "options": [
+            { "label": "A", "text": "Increase Supplies, Decrease Cash" },
+            { "label": "B", "text": "Increase Supplies, Increase Accounts Payable" },
+            { "label": "C", "text": "Decrease Supplies, Increase Accounts Payable" },
+            { "label": "D", "text": "Increase Supplies, Decrease Owner's Equity" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Increase Supplies, Increase Accounts Payable",
+          "explanation": "Supplies (an asset) increases with a debit, and Accounts Payable (a liability) increases with a credit.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ACC01-MCQ-004",
+          "question": "Which principle requires revenues to be recorded when earned regardless of when cash is received?",
+          "options": [
+            { "label": "A", "text": "Cash Basis Principle" },
+            { "label": "B", "text": "Accrual Principle / Revenue Realization" },
+            { "label": "C", "text": "Conservatism Principle" },
+            { "label": "D", "text": "Cost Principle" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Accrual Principle / Revenue Realization",
+          "explanation": "Under the accrual basis of accounting, revenue is recognized when realized and earned, not when money is collected.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "ACC01-MCQ-005",
+          "question": "Drawings made by the owner results in:",
+          "options": [
+            { "label": "A", "text": "An increase in Owner's Equity" },
+            { "label": "B", "text": "A reduction in Owner's Equity and reduction in Assets" },
+            { "label": "C", "text": "An increase in Liabilities" },
+            { "label": "D", "text": "No change in total assets" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "A reduction in Owner's Equity and reduction in Assets",
+          "explanation": "Drawings reduce both cash/assets and owner's equity in the business.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

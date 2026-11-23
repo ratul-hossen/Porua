@@ -20,7 +20,6 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.ArrowBack
-import androidx.compose.material.icons.filled.EditNote
 import androidx.compose.material.icons.filled.Quiz
 import androidx.compose.material3.Icon
 import androidx.compose.material3.Text
@@ -89,23 +88,37 @@ fun ContentChaptersScreen(
             }
         }
 
-        LazyColumn(
-            modifier = Modifier
-                .fillMaxSize()
-                .padding(horizontal = 20.dp),
-            verticalArrangement = Arrangement.spacedBy(12.dp)
-        ) {
-            item { Spacer(modifier = Modifier.height(4.dp)) }
-
-            items(chapters) { chapter ->
-                ContentChapterCard(
-                    chapter = chapter,
-                    onMcqClick    = { onChapterClick(chapter, "mcq") },
-                    onShortClick  = { onChapterClick(chapter, "short") }
+        if (chapters.isEmpty()) {
+            Box(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(32.dp),
+                contentAlignment = Alignment.Center
+            ) {
+                Text(
+                    text = "Chapters and questions for $subjectName are loading or coming soon.",
+                    fontSize = 14.sp,
+                    color = colors.textMuted
                 )
             }
+        } else {
+            LazyColumn(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(horizontal = 20.dp),
+                verticalArrangement = Arrangement.spacedBy(12.dp)
+            ) {
+                item { Spacer(modifier = Modifier.height(4.dp)) }
 
-            item { Spacer(modifier = Modifier.height(24.dp)) }
+                items(chapters) { chapter ->
+                    ContentChapterCard(
+                        chapter = chapter,
+                        onPracticeClick = { onChapterClick(chapter, "mcq") }
+                    )
+                }
+
+                item { Spacer(modifier = Modifier.height(24.dp)) }
+            }
         }
     }
 }
@@ -113,8 +126,7 @@ fun ContentChaptersScreen(
 @Composable
 private fun ContentChapterCard(
     chapter: ContentChapter,
-    onMcqClick: () -> Unit,
-    onShortClick: () -> Unit
+    onPracticeClick: () -> Unit
 ) {
     val colors = LocalPoruaColors.current
 
@@ -155,81 +167,41 @@ private fun ContentChapterCard(
             }
         }
 
-        Spacer(modifier = Modifier.height(8.dp))
+        Spacer(modifier = Modifier.height(10.dp))
 
         Text(
             text = chapter.title,
-            fontSize = 15.sp,
+            fontSize = 16.sp,
             fontWeight = FontWeight.Bold,
             color = colors.text
         )
 
-        Spacer(modifier = Modifier.height(4.dp))
+        Spacer(modifier = Modifier.height(14.dp))
 
-        Text(
-            text = "${chapter.mcqs.size} MCQ  •  ${chapter.shortQuestions.size} Short Q",
-            fontSize = 12.sp,
-            color = colors.textMuted
-        )
-
-        Spacer(modifier = Modifier.height(12.dp))
-
-        // Action buttons
+        // Single Practice button
         Row(
-            modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.spacedBy(10.dp)
+            modifier = Modifier
+                .fillMaxWidth()
+                .clip(ShapeLg)
+                .background(colors.primarySoft)
+                .clickable(enabled = chapter.mcqs.isNotEmpty()) { onPracticeClick() }
+                .padding(vertical = 12.dp),
+            horizontalArrangement = Arrangement.Center,
+            verticalAlignment = Alignment.CenterVertically
         ) {
-            // MCQ button
-            Row(
-                modifier = Modifier
-                    .weight(1f)
-                    .clip(ShapeLg)
-                    .background(colors.primarySoft)
-                    .clickable(enabled = chapter.mcqs.isNotEmpty()) { onMcqClick() }
-                    .padding(vertical = 10.dp),
-                horizontalArrangement = Arrangement.Center,
-                verticalAlignment = Alignment.CenterVertically
-            ) {
-                Icon(
-                    imageVector = Icons.Default.Quiz,
-                    contentDescription = null,
-                    tint = if (chapter.mcqs.isNotEmpty()) colors.primary else colors.textMuted,
-                    modifier = Modifier.size(16.dp)
-                )
-                Spacer(modifier = Modifier.width(6.dp))
-                Text(
-                    text = "MCQ Practice",
-                    fontSize = 13.sp,
-                    fontWeight = FontWeight.SemiBold,
-                    color = if (chapter.mcqs.isNotEmpty()) colors.primary else colors.textMuted
-                )
-            }
-
-            // Short Q button
-            Row(
-                modifier = Modifier
-                    .weight(1f)
-                    .clip(ShapeLg)
-                    .background(colors.warningSoft)
-                    .clickable(enabled = chapter.shortQuestions.isNotEmpty()) { onShortClick() }
-                    .padding(vertical = 10.dp),
-                horizontalArrangement = Arrangement.Center,
-                verticalAlignment = Alignment.CenterVertically
-            ) {
-                Icon(
-                    imageVector = Icons.Default.EditNote,
-                    contentDescription = null,
-                    tint = if (chapter.shortQuestions.isNotEmpty()) colors.warning else colors.textMuted,
-                    modifier = Modifier.size(16.dp)
-                )
-                Spacer(modifier = Modifier.width(6.dp))
-                Text(
-                    text = "Short Q",
-                    fontSize = 13.sp,
-                    fontWeight = FontWeight.SemiBold,
-                    color = if (chapter.shortQuestions.isNotEmpty()) colors.warning else colors.textMuted
-                )
-            }
+            Icon(
+                imageVector = Icons.Default.Quiz,
+                contentDescription = null,
+                tint = if (chapter.mcqs.isNotEmpty()) colors.primary else colors.textMuted,
+                modifier = Modifier.size(16.dp)
+            )
+            Spacer(modifier = Modifier.width(8.dp))
+            Text(
+                text = "Practice",
+                fontSize = 14.sp,
+                fontWeight = FontWeight.SemiBold,
+                color = if (chapter.mcqs.isNotEmpty()) colors.primary else colors.textMuted
+            )
         }
     }
 }

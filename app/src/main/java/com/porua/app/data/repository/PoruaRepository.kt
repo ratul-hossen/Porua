@@ -26,6 +26,10 @@ class PoruaRepository(private val database: AppDatabase) {
     // Subjects
     fun getAllSubjects(): Flow<List<SubjectEntity>> = database.subjectDao().getAllSubjects()
 
+    suspend fun insertSubjects(subjects: List<SubjectEntity>) {
+        database.subjectDao().insertAll(subjects)
+    }
+
     suspend fun updateSubject(subject: SubjectEntity) {
         database.subjectDao().updateSubject(subject)
     }

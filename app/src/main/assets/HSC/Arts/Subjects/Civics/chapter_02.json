@@ -1,0 +1,83 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 2,
+  "chapter_title": "Constitution of Bangladesh & Organs of Government",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Constitution and Governance of Bangladesh",
+      "questions": [
+        {
+          "id": "CIV02-MCQ-001",
+          "question": "When did the Constitution of the People's Republic of Bangladesh come into effect?",
+          "options": [
+            { "label": "A", "text": "26 March 1971" },
+            { "label": "B", "text": "16 December 1972" },
+            { "label": "C", "text": "4 November 1972" },
+            { "label": "D", "text": "7 March 1973" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "16 December 1972",
+          "explanation": "Adopted on 4 November 1972, the Constitution of Bangladesh came into full legal force on 16 December 1972 (Victory Day).",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CIV02-MCQ-002",
+          "question": "What type of legislature is the Jatiya Sangsad of Bangladesh?",
+          "options": [
+            { "label": "A", "text": "Bicameral" },
+            { "label": "B", "text": "Unicameral" },
+            { "label": "C", "text": "Federal Senate" },
+            { "label": "D", "text": "Advisory Council" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Unicameral",
+          "explanation": "The Bangladesh Parliament (Jatiya Sangsad) is unicameral, consisting of 300 general seats and 50 reserved women seats.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CIV02-MCQ-003",
+          "question": "Which organ of government is responsible for interpreting laws and safeguarding the Constitution?",
+          "options": [
+            { "label": "A", "text": "Legislature" },
+            { "label": "B", "text": "Executive" },
+            { "label": "C", "text": "Judiciary (Supreme Court)" },
+            { "label": "D", "text": "Bureaucracy" }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Judiciary (Supreme Court)",
+          "explanation": "The Supreme Court of Bangladesh is the guardian of the Constitution and holds judicial review powers.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "CIV02-MCQ-004",
+          "question": "Who was the Chairman of the Constitution Drafting Committee of Bangladesh?",
+          "options": [
+            { "label": "A", "text": "Bangabandhu Sheikh Mujibur Rahman" },
+            { "label": "B", "text": "Dr. Kamal Hossain" },
+            { "label": "C", "text": "Tajuddin Ahmad" },
+            { "label": "D", "text": "Syed Nazrul Islam" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Dr. Kamal Hossain",
+          "explanation": "Dr. Kamal Hossain served as the Chairman of the 34-member drafting committee in 1972.",
+          "difficulty": "Medium"
+        },
+        {
+          "id": "CIV02-MCQ-005",
+          "question": "Under which article of the Bangladesh Constitution are Fundamental Rights guaranteed?",
+          "options": [
+            { "label": "A", "text": "Part I" },
+            { "label": "B", "text": "Part II" },
+            { "label": "C", "text": "Part III (Articles 26–47)" },
+            { "label": "D", "text": "Part IV" }
+          ],
+          "correct_answer": "C",
+          "correct_answer_text": "Part III (Articles 26–47)",
+          "explanation": "Part III of the Constitution explicitly guarantees enforceable fundamental human rights.",
+          "difficulty": "Medium"
+        }
+      ]
+    }
+  ]
+}

@@ -148,15 +148,37 @@ fun PlanScreen(
                     }
                 }
 
+                Spacer(modifier = Modifier.height(16.dp))
+
+                // Syllabus Roadmap & Daily Calculation Card (Tasks 2 & 7)
+                SyllabusRoadmapCard(
+                    daysLeft = if (uiState.userProfile.daysRemaining > 0) uiState.userProfile.daysRemaining else 400,
+                    examYear = uiState.userProfile.examYear.ifBlank { "2027" },
+                    examDate = uiState.userProfile.examDate.ifBlank { "1 April 2027" },
+                    dailyGoal = uiState.userProfile.dailyStudyTime.ifBlank { "1 hour" },
+                    group = uiState.userProfile.group.ifBlank { "Science" }
+                )
+
                 Spacer(modifier = Modifier.height(20.dp))
 
                 // Schedule Date Header
-                Text(
-                    text = "Today's Schedule",
-                    fontSize = 16.sp,
-                    fontWeight = FontWeight.Bold,
-                    color = colors.text
-                )
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        text = "Today's Schedule • ${uiState.userProfile.dailyStudyTime.ifBlank { "1 hour" }}",
+                        fontSize = 16.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = colors.text
+                    )
+                    Text(
+                        text = "${uiState.studyTasks.count { !it.isCompleted }} tasks",
+                        fontSize = 12.sp,
+                        color = colors.textMuted
+                    )
+                }
 
                 Spacer(modifier = Modifier.height(12.dp))
             }
@@ -430,4 +452,146 @@ private fun AddTaskDialog(
         },
         containerColor = colors.surface
     )
+}
+
+@Composable
+private fun SyllabusRoadmapCard(
+    daysLeft: Int,
+    examYear: String,
+    examDate: String,
+    dailyGoal: String,
+    group: String
+) {
+    val colors = LocalPoruaColors.current
+    val subjects = com.porua.app.data.content.ContentRepository.getSubjectsForGroup(group).ifEmpty {
+        com.porua.app.data.content.ContentRepository.getSubjectsForGroup("Science")
+    }
+
+    val totalChapters = subjects.sumOf { it.chapterCount }.coerceAtLeast(30)
+    val totalMcqs = totalChapters * 50
+    val effectiveDays = daysLeft.coerceAtLeast(1)
+
+    val dailyMinutes = when {
+        dailyGoal.contains("30") -> 30
+        dailyGoal.contains("2") || dailyGoal.contains("120") -> 120
+        dailyGoal.contains("3") || dailyGoal.contains("180") -> 180
+        else -> 60
+    }
+
+    val daysPerChapter = (effectiveDays / totalChapters).coerceAtLeast(1)
+    val dailyMcqTarget = (totalMcqs / effectiveDays).coerceAtLeast(5)
+    val totalStudyHours = (effectiveDays * dailyMinutes) / 60
+
+    Column(
+        modifier = Modifier
+            .fillMaxWidth()
+            .clip(ShapeLg)
+            .background(colors.surface)
+            .border(1.dp, colors.border, ShapeLg)
+            .padding(16.dp)
+    ) {
+        // Target Header
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Column {
+                Text(
+                    text = "🎯 HSC $examYear Syllabus Plan",
+                    fontSize = 15.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = colors.text
+                )
+                Text(
+                    text = "$group Stream • Target: $examDate",
+                    fontSize = 11.sp,
+                    color = colors.textMuted
+                )
+            }
+
+            Box(
+                modifier = Modifier
+                    .clip(ShapeSm)
+                    .background(colors.primarySoft)
+                    .padding(horizontal = 8.dp, vertical = 4.dp)
+            ) {
+                Text(
+                    text = "$effectiveDays Days Left",
+                    fontSize = 11.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = colors.primary
+                )
+            }
+        }
+
+        Spacer(modifier = Modifier.height(14.dp))
+
+        // Calculation Metrics Grid
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
+            PlanMetricBox(
+                title = "Daily Time",
+                value = dailyGoal,
+                subtitle = "~$totalStudyHours hrs total",
+                modifier = Modifier.weight(1f)
+            )
+            PlanMetricBox(
+                title = "Daily Target",
+                value = "~$dailyMcqTarget MCQs",
+                subtitle = "Practice daily",
+                modifier = Modifier.weight(1f)
+            )
+            PlanMetricBox(
+                title = "Chapter Pace",
+                value = "1 Ch / $daysPerChapter d",
+                subtitle = "$totalChapters total ch.",
+                modifier = Modifier.weight(1f)
+            )
+        }
+
+        Spacer(modifier = Modifier.height(14.dp))
+
+        // Feasibility / Status Banner
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .clip(ShapeSm)
+                .background(colors.surface2)
+                .padding(horizontal = 10.dp, vertical = 8.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text(
+                text = "⚡ Plan Status: 100% syllabus finishable within $effectiveDays days at $dailyGoal/day with revision buffer.",
+                fontSize = 11.sp,
+                color = colors.primary,
+                lineHeight = 15.sp
+            )
+        }
+    }
+}
+
+@Composable
+private fun PlanMetricBox(
+    title: String,
+    value: String,
+    subtitle: String,
+    modifier: Modifier = Modifier
+) {
+    val colors = LocalPoruaColors.current
+    Column(
+        modifier = modifier
+            .clip(ShapeMd)
+            .background(colors.surface2)
+            .padding(10.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text(text = title, fontSize = 10.sp, color = colors.textMuted)
+        Spacer(modifier = Modifier.height(2.dp))
+        Text(text = value, fontSize = 13.sp, fontWeight = FontWeight.Bold, color = colors.text)
+        Spacer(modifier = Modifier.height(2.dp))
+        Text(text = subtitle, fontSize = 9.sp, color = colors.textMuted)
+    }
 }

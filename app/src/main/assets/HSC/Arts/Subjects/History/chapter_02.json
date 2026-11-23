@@ -1,0 +1,83 @@
+{
+  "paper": "2nd Paper",
+  "chapter_number": 2,
+  "chapter_title": "The Historic Liberation War of Bangladesh (1971)",
+  "total_questions": 5,
+  "topics": [
+    {
+      "topic_name": "Liberation War, Mujibnagar Government & Victory",
+      "questions": [
+        {
+          "id": "HIS02-MCQ-001",
+          "question": "Where did Bangabandhu deliver his historic speech on 7 March 1971?",
+          "options": [
+            { "label": "A", "text": "Paltan Maidan" },
+            { "label": "B", "text": "Race Course Maidan (Suhrawardy Udyan)" },
+            { "label": "C", "text": "Curzon Hall" },
+            { "label": "D", "text": "Bahadur Shah Park" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Race Course Maidan (Suhrawardy Udyan)",
+          "explanation": "Bangabandhu gave his immortal 7 March speech calling 'The struggle this time is for our freedom...' at the Race Course Maidan.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HIS02-MCQ-002",
+          "question": "The brutal military crackdown launched by the Pakistan Army on 25 March 1971 was codenamed:",
+          "options": [
+            { "label": "A", "text": "Operation Desert Storm" },
+            { "label": "B", "text": "Operation Searchlight" },
+            { "label": "C", "text": "Operation Blitzkrieg" },
+            { "label": "D", "text": "Operation Gibraltar" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Operation Searchlight",
+          "explanation": "Operation Searchlight was the premeditated genocidal military operation launched on unarmed civilians on the dark night of 25 March 1971.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HIS02-MCQ-003",
+          "question": "Where did the Mujibnagar Government take the formal oath of office on 17 April 1971?",
+          "options": [
+            { "label": "A", "text": "Baidyanathtala (Bhaberpara), Meherpur" },
+            { "label": "B", "text": "Agartala, India" },
+            { "label": "C", "text": "Kolkata, India" },
+            { "label": "D", "text": "Chittagong" }
+          ],
+          "correct_answer": "A",
+          "correct_answer_text": "Baidyanathtala (Bhaberpara), Meherpur",
+          "explanation": "The first government of Bangladesh was sworn in at the mango grove of Baidyanathtala, Meherpur, which was renamed Mujibnagar.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HIS02-MCQ-004",
+          "question": "Who served as the Prime Minister of the Mujibnagar Government in 1971?",
+          "options": [
+            { "label": "A", "text": "Syed Nazrul Islam" },
+            { "label": "B", "text": "Tajuddin Ahmad" },
+            { "label": "C", "text": "Khandaker Mushtaq Ahmed" },
+            { "label": "D", "text": "A.H.M. Qamaruzzaman" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "Tajuddin Ahmad",
+          "explanation": "Tajuddin Ahmad led the provisional government with outstanding statesmanship as the first Prime Minister of Bangladesh.",
+          "difficulty": "Easy"
+        },
+        {
+          "id": "HIS02-MCQ-005",
+          "question": "How many military sectors was Bangladesh divided into during the Liberation War?",
+          "options": [
+            { "label": "A", "text": "8 Sectors" },
+            { "label": "B", "text": "11 Sectors" },
+            { "label": "C", "text": "14 Sectors" },
+            { "label": "D", "text": "16 Sectors" }
+          ],
+          "correct_answer": "B",
+          "correct_answer_text": "11 Sectors",
+          "explanation": "Bangladesh territory was divided into 11 military sectors under the supreme command of General M.A.G. Osmani.",
+          "difficulty": "Easy"
+        }
+      ]
+    }
+  ]
+}

@@ -83,7 +83,8 @@ fun MeScreen(
     onToggleSubject: (String) -> Unit = {},
     onResetOnboarding: () -> Unit = {},
     onLogout: () -> Unit = {},
-    onUpdateProfile: (name: String, track: String, group: String, year: String, date: String, goal: String, selectedSubjectIds: List<String>) -> Unit = { _, _, _, _, _, _, _ -> }
+    onUpdateProfile: (name: String, track: String, group: String, year: String, date: String, goal: String, selectedSubjectIds: List<String>) -> Unit = { _, _, _, _, _, _, _ -> },
+    onToggleTheme: () -> Unit = {}
 ) {
     val colors = LocalPoruaColors.current
     val scrollState = rememberScrollState()
@@ -153,29 +154,53 @@ fun MeScreen(
                     color = colors.text
                 )
 
-                // Edit Profile Icon Button
-                Box(
-                    modifier = Modifier
-                        .size(40.dp)
-                        .clip(CircleShape)
-                        .background(colors.surface2)
-                        .clickable {
-                            editName = profile.name
-                            editTrack = profile.examTrack
-                            editGroup = profile.group
-                            editYear = profile.examYear
-                            editDate = profile.examDate
-                            editDailyGoal = profile.dailyStudyTime
-                            showEditDialog = true
-                        },
-                    contentAlignment = Alignment.Center
+                Row(
+                    verticalAlignment = Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.spacedBy(8.dp)
                 ) {
-                    Icon(
-                        imageVector = Icons.Default.Edit,
-                        contentDescription = "Edit Profile",
-                        tint = colors.primary,
-                        modifier = Modifier.size(18.dp)
-                    )
+                    // Theme Switcher Button (Black Theme / White Theme)
+                    Row(
+                        modifier = Modifier
+                            .clip(ShapeFull)
+                            .background(colors.surface2)
+                            .border(1.dp, colors.border, ShapeFull)
+                            .clickable { onToggleTheme() }
+                            .padding(horizontal = 12.dp, vertical = 7.dp),
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        Text(
+                            text = if (uiState.isDarkMode) "🌙 Dark" else "☀️ Light",
+                            fontSize = 12.sp,
+                            fontWeight = FontWeight.Bold,
+                            color = colors.text
+                        )
+                    }
+
+                    // Edit Profile Icon Button
+                    Box(
+                        modifier = Modifier
+                            .size(36.dp)
+                            .clip(CircleShape)
+                            .background(colors.surface2)
+                            .border(1.dp, colors.border, CircleShape)
+                            .clickable {
+                                editName = profile.name
+                                editTrack = profile.examTrack
+                                editGroup = profile.group
+                                editYear = profile.examYear
+                                editDate = profile.examDate
+                                editDailyGoal = profile.dailyStudyTime
+                                showEditDialog = true
+                            },
+                        contentAlignment = Alignment.Center
+                    ) {
+                        Icon(
+                            imageVector = Icons.Default.Edit,
+                            contentDescription = "Edit Profile",
+                            tint = colors.primary,
+                            modifier = Modifier.size(16.dp)
+                        )
+                    }
                 }
             }
 
@@ -769,10 +794,12 @@ fun MeScreen(
                         horizontalArrangement = Arrangement.spacedBy(8.dp),
                         verticalArrangement = Arrangement.spacedBy(6.dp)
                     ) {
-                        listOf("Science", "Business Studies", "Humanities").forEach { group ->
+                        listOf("Science", "Arts", "Commerce").forEach { group ->
                             PoruaFilterChip(
                                 text = group,
-                                isSelected = editGroup == group,
+                                isSelected = editGroup.equals(group, ignoreCase = true) ||
+                                        (group == "Arts" && editGroup.equals("Humanities", ignoreCase = true)) ||
+                                        (group == "Commerce" && editGroup.equals("Business Studies", ignoreCase = true)),
                                 onClick = { editGroup = group }
                             )
                         }

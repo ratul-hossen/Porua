@@ -313,8 +313,8 @@ class QuizViewModel(
 
         // Persist attempt to Room & apply SM-2 spaced repetition
         viewModelScope.launch(Dispatchers.IO) {
-            val profile = repository.getUserProfile().firstOrNull()
-            val confirmedDate = profile?.examDate ?: SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()).format(Date())
+            val now = System.currentTimeMillis()
+            val currentDateFormatted = SimpleDateFormat("d MMM yyyy", Locale.ENGLISH).format(Date(now))
 
             val resultsArray = JSONArray()
             reviewItems.forEach { item ->
@@ -333,8 +333,8 @@ class QuizViewModel(
             }
 
             val attempt = QuizAttemptEntity(
-                timestamp = System.currentTimeMillis(),
-                attemptDate = confirmedDate,
+                timestamp = now,
+                attemptDate = currentDateFormatted,
                 subjectId = state.subjectId,
                 subjectName = state.subjectName,
                 totalQuestions = total,
@@ -442,31 +442,24 @@ class QuizViewModel(
 
     fun explainWithAi(question: QuizQuestion) {
         val qId = question.id
-        if (_uiState.value.aiExplanations.containsKey(qId)) return
+        val current = _uiState.value.aiExplanations
+        if (current.containsKey(qId)) {
+            val updated = current.toMutableMap()
+            updated.remove(qId)
+            _uiState.update { it.copy(aiExplanations = updated) }
+            return
+        }
 
-        _uiState.update { it.copy(aiLoadingQuestionId = qId) }
-        viewModelScope.launch(Dispatchers.IO) {
-            val prompt = """
-                Explain this HSC exam question step by step:
-                Question: ${question.questionText}
-                Options:
-                A: ${question.optionA}
-                B: ${question.optionB}
-                C: ${question.optionC}
-                D: ${question.optionD}
-                Correct Option: ${question.correctOption}
-            """.trimIndent()
-
-            val explanation = AiHelper.askAi(prompt)
-
-            _uiState.update { state ->
-                val updated = state.aiExplanations.toMutableMap()
-                updated[qId] = explanation
-                state.copy(
-                    aiExplanations = updated,
-                    aiLoadingQuestionId = if (state.aiLoadingQuestionId == qId) null else state.aiLoadingQuestionId
-                )
-            }
+        val explanation = question.explanation.ifBlank {
+            "Correct answer is option ${question.correctOption}."
+        }
+        val updated = current.toMutableMap()
+        updated[qId] = explanation
+        _uiState.update { state ->
+            state.copy(
+                aiExplanations = updated,
+                aiLoadingQuestionId = null
+            )
         }
     }
 
